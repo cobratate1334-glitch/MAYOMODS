@@ -1,5 +1,14 @@
 # Known bugs and verification gaps
 
+Current follow-up: the owner reports abrupt returns to the main menu after
+Continue, missing icons and insufficient use of the supplied references.
+Candidate 1103 implements acknowledged result popups that keep the same Roblox
+or church page, original artwork/icons, and correct native parent destinations
+for school/fighter/music/church result callbacks. See `web_experience/README.md`
+and the release evidence. Browser rendering and native boundary checks passed;
+Android WebView/ART, Unity rendering, install/resume and actual phone saves
+remain unverified. This does not mark the earlier portrait report resolved.
+
 Current phone feedback (25 October 2026): after receiving the first new-key APK,
 the owner supplied Roblox/church/crime/home UI screenshots and reported the
 header portrait becoming black after age-up. The screenshot shows a black

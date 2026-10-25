@@ -1,5 +1,18 @@
 # Important history and decisions
 
+## Website and contextual outcomes — candidate 1103
+
+The owner rejected the list-only Roblox/church presentation and reported abrupt
+Continue navigation and missing icons. The follow-up adds packaged offline
+Roblox/parish pages, original club and church artwork, explicit confirmation,
+acknowledged saved results and persistent page context. Existing authored
+effects execute on Unity's thread through a bounded JNI mailbox; JavaScript
+does not own the economy. Duplicate serials and stale lives are rejected.
+Existing native school/fighter/music/church result callbacks now return to
+their own parent. The 1102 portrait/age repairs and existing development signer
+are retained. Chromium rendering, DEX preservation, modeled native/JNI boundaries
+and package verification are separate from pending actual phone acceptance.
+
 ## First new-key phone feedback and candidate 1102
 
 The owner reported an age-up black profile, childhood custom-crime access and

@@ -5,6 +5,18 @@ source and records the evidence boundary after repeated install failures.
 
 ## Current state
 
+Latest follow-up: candidate **1103** provides packaged offline Roblox and parish
+pages connected to the current character's native saved state. Result popups
+keep page context on Continue; shared native school/fighter/music/church
+callbacks restore their parent menus. It retains 1102's portrait and age gates
+and the 1101 development signer. Signed APK SHA-256:
+`3604ad2010155202727ede62ae368bbd25e8ede658de4e02544f7b4551d46f32`.
+Download: <https://gofile.io/d/3tn4alH5>. Source, tests and precise limits are in
+`project/work/source/web_experience/README.md` and
+`evidence/web_1103_verification.json`. Phone installation, Android WebView/ART,
+Unity rendering and real device persistence remain pending. Older installation
+reports below remain historical evidence.
+
 The current project is a BitLife 3.25 Android ARM64 expansion called MayoMods.
 It modifies a supplied APK through hash-pinned native AArch64 patches, Unity
 asset/table edits, Java/DEX diagnostics and native menus. It is **not** a complete

@@ -1,0 +1,135 @@
+{
+  "native_commands": {
+    "passed": true,
+    "checks": 40512,
+    "binary_sha256": "929c6be10ffa9f8295db06cca701feb38713d437a701c1cc8ec5a1b1bffc40ef"
+  },
+  "portrait_age_allowance": {
+    "passed": true,
+    "checks": 134,
+    "binary_sha256": "929c6be10ffa9f8295db06cca701feb38713d437a701c1cc8ec5a1b1bffc40ef"
+  },
+  "jni": {
+    "passed": true,
+    "checks": 29,
+    "binary_sha256": "52e37f1f9523ac15b501820c8827ea2d042957e84d88cc6e5b590dd7c2a14e77"
+  },
+  "browser": {
+    "passed": true,
+    "checks": 66,
+    "source_sha256": {
+      "app.js": "34902a194bf93ea5fc69142e1c2c48389fd765df5a7024b8877219a2c101dfd1",
+      "index.html": "d0bc5aef545e79605e47c1e80420ef07bd06b1fecce2f70efb2da05062644b30",
+      "manifest.json": "04e9303c034e6b2ed07f6b4215b3cd5ae6949da148497e153ffb11dbe45ff59e",
+      "site.css": "7da28c3f6fbdecf4531a2d06be2e992a7bca2c8f8dba1c0a562689a632323506",
+      "assets/church-basilica.png": "1978f25bc2ae18e89458606c23631ed93113fbdc8fbf329d537bda0ab9f1c584",
+      "assets/church-seminary.png": "3efa04e706ee1f42f37eb9d27a22539ac768c4f1e0945b0e3714a215d572d92c",
+      "assets/church-smoke.png": "c4b6484465f9fb601a5530b9b17a0fb3ad37c783712da452736baa0056f9faff",
+      "assets/icon-books.png": "5b73a5f26a7c530adb979e9e53e10026e12bca0443495e0aec7040d88cdc7592",
+      "assets/icon-bread.png": "55ced611daf5140cb40856e7f606dc291f217fca5e0d97c5919c474cfaed30f4",
+      "assets/icon-pope.png": "fedc0320754d3cb2b4d3dfe163e0aef21d206a0e041a62570d652cb2ee965b04",
+      "assets/icon-prayer.png": "fc44384d050fdff7bf30bde6d95470488de05ad509fcc750ab60a7cd17598f0c",
+      "assets/icon-priest.png": "ff01375e895451289bf59ec8c784e5a11e2a55caa7fe02b40f0d155768b1d118",
+      "assets/icon-scroll.png": "a0d1f9e993380ee910bb10d8ef69bf3aecde08d590044bec71d3f26281c1b392",
+      "assets/icon-trophy.png": "e1842f4ccfe51cbfb545005940f5ce266abacc5da3d7fae81ffc2f9a650b1fe3",
+      "assets/roblox-1080951.png": "f88cb93e4276a32fd044bc6952255da6d8423a96963a064d92ae05c6b68ccbfa",
+      "assets/roblox-11844853.png": "447cc205f5b9d679b911afe7465ead27b5f55e81b2085acf29eb44ac46340988",
+      "assets/roblox-17408283.png": "abd26074f8fd4ab8bee9c6af6039cee390e246cc2922a77ae81d6a5dd8f70ed9"
+    }
+  },
+  "dex": {
+    "passed": true,
+    "binary_sha256": "7981940ade9b13db8beceffd540f96e1c37278daaeaa80e45dd5d67586356916",
+    "preserved_classes": 116,
+    "smali_roundtrip": true
+  },
+  "staging": {
+    "apk_sha256": "42b3cd38f3e626e86ec01829b38fccbe5dccd55c57595739d29fb9b0442f862f",
+    "version_code": 1103,
+    "signed": false,
+    "staged": true,
+    "modified_entries": [
+      "AndroidManifest.xml",
+      "assets/bin/Data/data.unity3d",
+      "assets/bin/Data/datapack.unity3d",
+      "assets/mayomods54/native_symbols.json",
+      "classes13.dex",
+      "lib/arm64-v8a/libRocketGames.so",
+      "lib/arm64-v8a/libil2cpp.so",
+      "lib/arm64-v8a/libmayo21.so"
+    ],
+    "added_entries": [
+      "assets/mayoweb/app.js",
+      "assets/mayoweb/assets/church-basilica.png",
+      "assets/mayoweb/assets/church-seminary.png",
+      "assets/mayoweb/assets/church-smoke.png",
+      "assets/mayoweb/assets/icon-books.png",
+      "assets/mayoweb/assets/icon-bread.png",
+      "assets/mayoweb/assets/icon-pope.png",
+      "assets/mayoweb/assets/icon-prayer.png",
+      "assets/mayoweb/assets/icon-priest.png",
+      "assets/mayoweb/assets/icon-scroll.png",
+      "assets/mayoweb/assets/icon-trophy.png",
+      "assets/mayoweb/assets/roblox-1080951.png",
+      "assets/mayoweb/assets/roblox-11844853.png",
+      "assets/mayoweb/assets/roblox-17408283.png",
+      "assets/mayoweb/index.html",
+      "assets/mayoweb/manifest.json",
+      "assets/mayoweb/site.css"
+    ]
+  },
+  "signing": {
+    "apk_sha256": "3604ad2010155202727ede62ae368bbd25e8ede658de4e02544f7b4551d46f32",
+    "certificate_sha256": "bb8062953a3abe6ed051c29f4d39051d8266940c912323560baa3b795ddd92ef",
+    "signed": true,
+    "signatures": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]\n",
+    "native_signer_verification": "verified=true; actual APK signer matches native SHA-1 check; fingerprint=s9Mv5b4Y3PApayxK/Xv57XgkhqI=\n",
+    "zip_crc_alignment_passed": true
+  },
+  "retained_native": {
+    "passed": true,
+    "checks": 81,
+    "binary_sha256": "929c6be10ffa9f8295db06cca701feb38713d437a701c1cc8ec5a1b1bffc40ef"
+  },
+  "retained_navigation": {
+    "passed": true,
+    "checks": 391,
+    "binary_sha256": "929c6be10ffa9f8295db06cca701feb38713d437a701c1cc8ec5a1b1bffc40ef"
+  },
+  "retained_clergy": {
+    "passed": true,
+    "checks": 82,
+    "binary_sha256": "929c6be10ffa9f8295db06cca701feb38713d437a701c1cc8ec5a1b1bffc40ef"
+  },
+  "structure": {
+    "passed": true,
+    "checks": 197
+  },
+  "content_model": {
+    "passed": true,
+    "tests": 26
+  },
+  "parser": {
+    "aapt2_passed": true,
+    "package": "com.candywriter.bitlife",
+    "version_code": 1103,
+    "output_sha256": "80a6a2397908313a6a0ef72158ad0e40764c24f977e8ce85f5c3130506e1d377"
+  },
+  "limits": {
+    "Android_ART_tested": false,
+    "Android_WebView_tested": false,
+    "physical_phone_tested": false,
+    "Unity_rendering_tested": false,
+    "managed_APIs_modeled": true,
+    "browser_game_bridge_modeled": true,
+    "real_device_persistence_tested": false
+  },
+  "download": {
+    "downloadPage": "https://gofile.io/d/3tn4alH5",
+    "name": "MayoMods_1103_Roblox_Parish.apk",
+    "size": 374027903,
+    "md5": "6b7af0b0335ce3c8a918b9996cef450c",
+    "page_HTTP_status": 200,
+    "only_APK_uploaded": true
+  }
+}

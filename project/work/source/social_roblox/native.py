@@ -35,7 +35,7 @@ def add_journal(builder):
             f'bl {routine:#x}\nb finish')
 
 
-def build(raw, manifest_output, include_refresh=True):
+def build(raw, manifest_output, include_refresh=True, include_web=False):
     # All historical input-hash assertions remain enabled.
     b = previous.Patch(raw)
     previous.portraits(b)
@@ -48,6 +48,10 @@ def build(raw, manifest_output, include_refresh=True):
     if include_refresh:
         from community_refresh.native_fixes import hooks as repair_hooks
         repair_hooks(b)
+    if include_web:
+        assert include_refresh
+        from web_experience.native_web import hooks as web_hooks
+        web_hooks(b)
     result = b.finish55()
     manifest = b.manifest
     manifest['roblox_expansion'] = dict(
@@ -64,10 +68,11 @@ if __name__ == '__main__':
     parser.add_argument('output')
     parser.add_argument('manifest')
     parser.add_argument('--previous-native', help='Also reproduce the 1101 native negative control')
+    parser.add_argument('--web', action='store_true', help='Include the saved-game website bridge')
     args = parser.parse_args()
     raw = Path(args.base).read_bytes()
     if args.previous_native:
         control = Path(args.previous_native)
         assert not control.exists(), 'Refusing to replace the previous native control'
         control.write_bytes(build(raw, control.with_suffix('.json'), include_refresh=False))
-    Path(args.output).write_bytes(build(raw, args.manifest))
+    Path(args.output).write_bytes(build(raw, args.manifest, include_web=args.web))

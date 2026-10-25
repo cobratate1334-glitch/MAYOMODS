@@ -1,0 +1,32 @@
+/* Browser rendering/navigation checks. The game bridge is an explicit fixture. */
+const fs=require('fs'),path=require('path'),http=require('http'),assert=require('assert'),crypto=require('crypto');
+const {chromium}=require('playwright');
+const root=path.join(__dirname,'site'),out=process.argv[2];fs.mkdirSync(out,{recursive:true});
+const manifest=JSON.parse(fs.readFileSync(path.join(root,'manifest.json')));
+const server=http.createServer((req,res)=>{let name=decodeURIComponent(req.url.split('?')[0]);if(name==='/favicon.ico'){res.writeHead(204);return res.end()}if(name==='/')name='/index.html';let f=path.join(root,name);if(!f.startsWith(root)||!fs.existsSync(f)){res.writeHead(404);return res.end()};let ext=path.extname(f);res.setHeader('Content-Type',ext==='.js'?'application/javascript':ext==='.css'?'text/css':ext==='.png'?'image/png':'text/html');res.end(fs.readFileSync(f));});
+(async()=>{await new Promise(r=>server.listen(0,'127.0.0.1',r));const browser=await chromium.launch({executablePath:'/usr/bin/chromium',headless:true,args:['--no-sandbox']});let checks=0;
+for(const width of [375,480,945]){
+ const page=await browser.newPage({viewport:{width,height:900}}),errors=[];page.on('pageerror',e=>errors.push(e.message));page.on('console',m=>{if(m.type()==='error'&&!m.text().includes('favicon'))errors.push(m.text())});
+ await page.addInitScript(({manifest})=>{
+  let s={epoch:1,ack:0,active:1,response:1,age:25,module:1,bank:1000};for(let f of manifest.fields)s[f]=0;for(let f of manifest.texts)s[f]='';s['roblox_social.PlaceLimit']=1;
+  window.fixture=s;window.submitted=[];window.exited=false;
+  window.MayoGame={manifest:()=>JSON.stringify(manifest),snapshot:()=>JSON.stringify(s),exit:()=>{window.exited=true},submit:(epoch,serial,id)=>{
+   if(epoch!==s.epoch||serial!==s.ack+1||window.busy)return false;window.busy=true;window.submitted.push(id);let key=Object.keys(manifest.commands).find(k=>manifest.commands[k]===id);
+   setTimeout(()=>{s.ack=serial;s.response=1;if(key==='join'){s['roblox_social.Joined']=1;s['roblox_social.Robux']=100;s['roblox_social.Result']='Created an account with 100 starter Robux.'}
+   if(key.startsWith('buy')){let [a,b]=key.slice(3).split('_').map(Number);s.bank-=[[5.95,29.95,57.95,199.95],[11.95,44.95,85.95,299.95],[19.95,69.95,129.95,349.95]][a-1][b];s['roblox_social.Club']=a;s['roblox_social.Hat'+a]=1;s['roblox_social.WornHat']=a;s['roblox_social.Result']='Purchased membership from my game bank.'}
+   if(key.startsWith('church')){s['gameplay52.ClergyEvent']='Welcome to the Seminary';s['gameplay52.ClergyStatus']='Father Reed welcomed you. Formation begins tomorrow.';s['gameplay52.CaseOutcome']='Organized volunteers and strengthened the parish.';s['gameplay52.ParishTrust']+=8;if(!/^church_\d+$/.test(key))s['gameplay52.CaseNumber']=2}
+   window.busy=false},200);return true;}};
+ },{manifest});
+ await page.goto('http://127.0.0.1:'+server.address().port);await page.getByText('Create my account',{exact:true}).click();await page.getByText('Confirm',{exact:true}).click();await page.locator('#dialog-actions button').filter({hasText:'Continue'}).click();checks++;
+ await page.locator('nav [data-page="clubs"]').click();assert.equal(await page.locator('.buy').count(),12);assert.equal(await page.locator('.benefits tbody tr').count(),6);checks+=2;
+ await page.locator('[data-buy="1,0"]').click();await page.getByText('Cancel',{exact:true}).click();assert.equal(await page.evaluate(()=>fixture.bank),1000);checks++;
+ await page.locator('[data-buy="1,0"]').click();await page.getByText('Confirm',{exact:true}).click();await page.locator('#dialog-actions button').filter({hasText:'Continue'}).click();assert.equal(await page.evaluate(()=>MayoUI.page()),'clubs');assert.equal(await page.evaluate(()=>fixture.bank),994.05);assert.equal(await page.evaluate(()=>submitted.length),2);checks+=3;
+ assert.equal(await page.locator('.shade').isHidden(),true);assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));checks+=2;
+ assert.equal(await page.locator('img').evaluateAll(imgs=>imgs.filter(i=>!i.complete||!i.naturalWidth).length),0);checks++;
+ await page.screenshot({path:path.join(out,'clubs-'+width+'.png'),fullPage:true});
+ for(const key of ['games','catalog','groups','inbox']){await page.locator(`nav [data-page="${key}"]`).click();assert(await page.locator('#content h1').count()>0);assert.equal(await page.locator('img').evaluateAll(imgs=>imgs.filter(i=>i.complete&&!i.naturalWidth).length),0);checks+=2;}
+ await page.evaluate(()=>{fixture.module=2;fixture.epoch=2;fixture['gameplay52.CaseNumber']=1});await page.locator('nav [data-page="formation"]').click();await page.locator('[data-action="church_92"]').click();await page.getByText('Confirm',{exact:true}).click();await page.getByText('Welcome to the Seminary',{exact:true}).waitFor();await page.screenshot({path:path.join(out,'seminary-'+width+'.png')});await page.getByText('Continue',{exact:true}).click();assert.equal(await page.evaluate(()=>MayoUI.page()),'formation');checks++;
+ await page.locator('nav [data-page="parish"]').click();await page.locator('[data-action="church_pantry_1"]').click();await page.getByText('Confirm',{exact:true}).click();await page.getByText('Continue',{exact:true}).click();assert.equal(await page.evaluate(()=>MayoUI.page()),'parish');assert.equal(await page.locator('#content h2').first().textContent(),'A new family at the service');checks+=2;
+ assert.deepEqual(errors,[]);checks++;await page.close();
+}await browser.close();server.close();const source_sha256={};for(const f of fs.readdirSync(root,{recursive:true})){let file=path.join(root,f);if(fs.statSync(file).isFile())source_sha256[f]=crypto.createHash('sha256').update(fs.readFileSync(file)).digest('hex')};let report={passed:true,checks,viewports:[375,480,945],game_bridge:'modeled',Android_WebView_tested:false,source_sha256};fs.writeFileSync(path.join(out,'ui_validation.json'),JSON.stringify(report,null,2)+'\n');console.log({passed:true,checks});
+})().catch(err=>{console.error(err);server.close();process.exit(1)});

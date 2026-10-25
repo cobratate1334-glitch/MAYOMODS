@@ -9,6 +9,12 @@ older release READMEs and `LATEST_BUILD.md` files are historical evidence.
 
 ## Current objective and branch
 
+- Current follow-up: candidate **1103** replaces the Roblox/church list UX with
+  saved-game website/parish pages and contextual result popups, repairs native
+  Continue parent navigation and supplies visible original icons. Source lives
+  in `project/work/source/web_experience`; retain the 1102 fixes and development
+  signer. Browser fixtures and emulated APIs are not phone acceptance.
+
 - Active cloud task: repair the owner's reported age-up black header portrait
   and custom crime rows available in childhood; improve Roblox and church using
   the supplied screenshots/art. Candidate 1102 uses the exact supplied v54 APK

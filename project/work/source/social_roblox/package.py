@@ -155,7 +155,7 @@ def bundles(repair_dir):
                                 imported_classic_roblox_images=imported)
 
 
-def stage(base, repair_dir, native, manifest, journal_validation, out, version_code=1102):
+def stage(base, repair_dir, native, manifest, journal_validation, out, version_code=1102, web_dir=None):
     base, repair_dir, native, manifest, journal_validation, out = map(
         Path, [base, repair_dir, native, manifest, journal_validation, out])
     assert sha(base.read_bytes()) == BASE_SHA, 'Exact supplied v54 APK required'
@@ -182,11 +182,25 @@ def stage(base, repair_dir, native, manifest, journal_validation, out, version_c
         'assets/bin/Data/data.unity3d': data,
         'assets/mayomods54/native_symbols.json': json.dumps(symbols(native_raw, native_manifest), indent=2).encode(),
     }
+    additions={}
+    if web_dir:
+        web_dir=Path(web_dir)
+        for report_name,payload in [('web_native_validation.json',native),('jni_validation.json',web_dir/'libmayo21.so'),('dex_validation.json',web_dir/'classes13.dex')]:
+            result=json.loads((web_dir/report_name).read_text())
+            assert result['passed'] and result['binary_sha256']==sha(Path(payload).read_bytes()),report_name
+        ui=json.loads((web_dir/'ui_validation.json').read_text());assert ui['passed']
+        actual={f.relative_to(web_dir/'site').as_posix():sha(f.read_bytes()) for f in (web_dir/'site').rglob('*')if f.is_file()}
+        assert actual==ui['source_sha256'],'Rerun browser checks after changing website assets'
+        changes['lib/arm64-v8a/libmayo21.so']=(web_dir/'libmayo21.so').read_bytes()
+        for f in sorted((web_dir/'site').rglob('*')):
+            if f.is_file():additions['assets/mayoweb/'+f.relative_to(web_dir/'site').as_posix()]=f.read_bytes()
+        assert 'assets/mayoweb/manifest.json'in additions
     with zipfile.ZipFile(base) as z:
         # 1101 is above the documented v56 code; this does not establish the
         # actual device's installed code. Compare installed identity separately.
         changes['AndroidManifest.xml'], _ = bump_version(z.read('AndroidManifest.xml'), old=1098, new=version_code)
         changes['classes13.dex'], _ = dex55(z.read('classes13.dex'))
+        if web_dir:changes['classes13.dex']=(web_dir/'classes13.dex').read_bytes()
         with zipfile.ZipFile(target, 'w', allowZip64=False) as w:
             for original in z.infolist():
                 if signature_entry(original.filename):
@@ -202,12 +216,15 @@ def stage(base, repair_dir, native, manifest, journal_validation, out, version_c
                             pad += alignment
                         info.extra = struct.pack('<HHH', 0xd935, pad, alignment) + b'\0' * (pad - 2)
                 w.writestr(info, changes.get(info.filename, z.read(info.filename)))
+            assert not set(additions)&set(z.namelist())
+            for name,raw in additions.items():w.writestr(name,raw,compress_type=zipfile.ZIP_DEFLATED)
         with zipfile.ZipFile(target) as final, target.open('rb') as stream:
             assert final.testzip() is None
             assert len(final.namelist()) == len(set(final.namelist()))
-            assert set(final.namelist()) == {n for n in z.namelist() if not signature_entry(n)}
+            assert set(final.namelist()) == {n for n in z.namelist() if not signature_entry(n)}|set(additions)
             for item in final.infolist():
-                assert final.read(item.filename) == changes.get(item.filename, z.read(item.filename))
+                expected=additions[item.filename] if item.filename in additions else changes[item.filename] if item.filename in changes else z.read(item.filename)
+                assert final.read(item.filename) == expected
                 if item.compress_type == zipfile.ZIP_STORED:
                     stream.seek(item.header_offset + 26)
                     length, extra = struct.unpack('<HH', stream.read(4))
@@ -216,6 +233,7 @@ def stage(base, repair_dir, native, manifest, journal_validation, out, version_c
                   apk_sha256=sha(target.read_bytes()), base_sha256=BASE_SHA,
                   native_sha256=sha(native_raw), version_code=version_code,
                   modified_entries=sorted(changes), asset_checks=asset_report,
+                  added_entries=sorted(additions),
                   physical_phone_tested=False, ART_tested=False, Unity_rendering_tested=False)
     (out / 'staging_report.json').write_text(json.dumps(report, indent=2) + '\n')
     return target
@@ -226,5 +244,6 @@ if __name__ == '__main__':
     for name in ['base', 'repair-dir', 'native', 'manifest', 'journal-validation', 'out']:
         parser.add_argument('--' + name, required=True)
     parser.add_argument('--version-code', type=int, default=1102)
+    parser.add_argument('--web-dir')
     args = vars(parser.parse_args())
     print(stage(**{k.replace('-', '_'): v for k, v in args.items()}))

@@ -1,5 +1,12 @@
 # Requested gameplay systems and design requirements
 
+Current candidate 1103: functioning offline Roblox account/Studio/catalog/
+membership/inbox pages connected to the current character's saved native state,
+plus illustrated church/formation/case pages. Confirmation and result dialogs
+preserve their page on Continue. This is an in-game account, with game money,
+and does not connect to the real Roblox service. See
+`project/work/source/web_experience/README.md` for evidence and device limits.
+
 Active selection (25 October 2026): the owner requested fixes for the first
 new-key build's age-up portrait and custom-crime age availability, and deeper
 Roblox/church integration based on screenshots. See
