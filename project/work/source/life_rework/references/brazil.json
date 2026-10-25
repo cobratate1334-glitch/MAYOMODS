@@ -1,0 +1,622 @@
+[
+  {
+    "id": "3458",
+    "displayName": "Athletico-PR",
+    "shortDisplayName": "Athletico-PR",
+    "abbreviation": "CAP",
+    "location": "Athletico Paranaense",
+    "color": "D80518",
+    "alternateColor": "C60000",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/3458.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/3458.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "7632",
+    "displayName": "Atl\u00e9tico-MG",
+    "shortDisplayName": "Atl\u00e9tico-MG",
+    "abbreviation": "CAM",
+    "location": "Atl\u00e9tico-MG",
+    "color": "000000",
+    "alternateColor": "fafafc",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/7632.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "9967",
+    "displayName": "Bahia",
+    "shortDisplayName": "Bahia",
+    "abbreviation": "BAH",
+    "location": "Bahia",
+    "color": "C60000",
+    "alternateColor": "0093EC",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/9967.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/9967.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "6086",
+    "displayName": "Botafogo",
+    "shortDisplayName": "Botafogo",
+    "abbreviation": "BOT",
+    "location": "Botafogo",
+    "color": "000000",
+    "alternateColor": "fafafc",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/6086.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/6086.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "9318",
+    "displayName": "Chapecoense",
+    "shortDisplayName": "Chapecoense",
+    "abbreviation": "CHA",
+    "location": "Chapecoense",
+    "color": "417505",
+    "alternateColor": "fafafc",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/9318.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/9318.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "874",
+    "displayName": "Corinthians",
+    "shortDisplayName": "Corinthians",
+    "abbreviation": "COR",
+    "location": "Corinthians",
+    "color": "000000",
+    "alternateColor": "fafafc",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/874.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "3456",
+    "displayName": "Coritiba",
+    "shortDisplayName": "Coritiba",
+    "abbreviation": "CFC",
+    "location": "Coritiba",
+    "color": "417505",
+    "alternateColor": "fafafc",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/3456.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/3456.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "2022",
+    "displayName": "Cruzeiro",
+    "shortDisplayName": "Cruzeiro",
+    "abbreviation": "CRU",
+    "location": "Cruzeiro",
+    "color": "0093EC",
+    "alternateColor": "fafafc",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/2022.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "819",
+    "displayName": "Flamengo",
+    "shortDisplayName": "Flamengo",
+    "abbreviation": "FLA",
+    "location": "Flamengo",
+    "color": "C60000",
+    "alternateColor": "000000",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/819.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "3445",
+    "displayName": "Fluminense",
+    "shortDisplayName": "Fluminense",
+    "abbreviation": "FLU",
+    "location": "Fluminense",
+    "color": "7E0202",
+    "alternateColor": "417505",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/3445.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/3445.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "6273",
+    "displayName": "Gr\u00eamio",
+    "shortDisplayName": "Gr\u00eamio",
+    "abbreviation": "GRE",
+    "location": "Gr\u00eamio",
+    "color": "0093EC",
+    "alternateColor": "000000",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/6273.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/6273.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "1936",
+    "displayName": "Internacional",
+    "shortDisplayName": "Internacional",
+    "abbreviation": "INT",
+    "location": "Internacional",
+    "color": "C60000",
+    "alternateColor": "000000",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/1936.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "9169",
+    "displayName": "Mirassol",
+    "shortDisplayName": "Mirassol",
+    "abbreviation": "MIR",
+    "location": "Mirassol",
+    "color": "FEDC00",
+    "alternateColor": "417505",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/9169.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/9169.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "2029",
+    "displayName": "Palmeiras",
+    "shortDisplayName": "Palmeiras",
+    "abbreviation": "PAL",
+    "location": "Palmeiras",
+    "color": "417505",
+    "alternateColor": "fafafc",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/2029.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "6079",
+    "displayName": "Red Bull Bragantino",
+    "shortDisplayName": "Bragantino",
+    "abbreviation": "BRA",
+    "location": "Red Bull Bragantino",
+    "color": "000000",
+    "alternateColor": "fafafc",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/6079.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/6079.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "4936",
+    "displayName": "Remo",
+    "shortDisplayName": "Remo",
+    "abbreviation": "REMO",
+    "location": "Remo",
+    "color": "265891",
+    "alternateColor": "fafafa",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/4936.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/4936.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "2674",
+    "displayName": "Santos",
+    "shortDisplayName": "Santos",
+    "abbreviation": "SAN",
+    "location": "Santos",
+    "color": "000000",
+    "alternateColor": "fafafc",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/2674.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "2026",
+    "displayName": "S\u00e3o Paulo",
+    "shortDisplayName": "S\u00e3o Paulo",
+    "abbreviation": "SAO",
+    "location": "S\u00e3o Paulo",
+    "color": "C60000",
+    "alternateColor": "000000",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/2026.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "3454",
+    "displayName": "Vasco da Gama",
+    "shortDisplayName": "Vasco",
+    "abbreviation": "VAS",
+    "location": "Vasco da Gama",
+    "color": "000000",
+    "alternateColor": "fafafc",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/3454.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "3457",
+    "displayName": "Vit\u00f3ria",
+    "shortDisplayName": "Vit\u00f3ria",
+    "abbreviation": "VIT",
+    "location": "Vit\u00f3ria",
+    "color": "C6101C",
+    "alternateColor": "C60000",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/3457.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  }
+]

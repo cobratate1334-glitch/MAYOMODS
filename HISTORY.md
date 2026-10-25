@@ -1,5 +1,18 @@
 # Important history and decisions
 
+## Life systems and historical campaigns — candidate 1104
+
+The owner supplied 1102 diagnostics and expanded the request to genetics,
+eras, school/careers, sports/fighting, branding and world wars. The candidate
+retains the 1103 website and update signer, replaces the header's shared-texture
+ownership, re-finalizes automatic heights with live parents, restores date
+checks and supplies real club identities/badges. School decisions change native
+grades, Fight Club training changes the original fighter, and explicit call-ups
+initialize real native military posts. Early-year shortcuts make adult WWI
+play accessible. New actions have saved outcomes and limits. The original
+fight record/roster and core game remain; detailed boundaries and reproducible
+checks are in `life_rework/README.md`. Phone acceptance remains pending.
+
 ## Website and contextual outcomes — candidate 1103
 
 The owner rejected the list-only Roblox/church presentation and reported abrupt

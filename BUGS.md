@@ -1,5 +1,20 @@
 # Known bugs and verification gaps
 
+Candidate **1104**: the uploaded diagnostics match native 1102. The destroyed-
+transform warning does not prove why the header turns black. The new header
+owns validated copied pixels and performs bounded Unity-thread recovery;
+PORTRAIT-006 remains **open for phone acceptance**. Automatic family heights
+are re-finalized after parents exist, preserving explicit heights. Model and
+instruction tests establish neither a phone fix nor a bug-free release.
+
+The rework replaces unresolved icon aliases, supplies all 313 team badges,
+keeps genetics preview/save/cancel coverage, replaces sports child callbacks
+with registered scenario routes, removes duplicate studio/circuit entries,
+and initializes real military branch/rank/title/salary before native enlistment.
+Repetition limits, duplicate payouts/exams and stale mission choices are tested.
+See `life_rework/README.md` for boundaries: original fight roster/league,
+modern map/financial system, saved contract simulations and peer support.
+
 Current follow-up: the owner reports abrupt returns to the main menu after
 Continue, missing icons and insufficient use of the supplied references.
 Candidate 1103 implements acknowledged result popups that keep the same Roblox

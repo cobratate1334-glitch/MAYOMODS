@@ -1,5 +1,12 @@
 # Transfer this project to Codex
 
+Current follow-up is candidate 1104 in `project/work/source/life_rework`.
+Read its README, root summary/bugs and `evidence/life_rework_1104_verification.json`
+for the delivered artifact and verified limits. Supplied diagnostics match
+1102 native code; the portrait fix still needs phone confirmation. The owner
+has authorized the broader rework and APK-only external upload. Reuse the
+existing development signer; never clear saves or replace the signer to test.
+
 ## Option A — local Codex
 
 1. Download the **full** `MayoMods_Codex_Handover.zip` and extract it on the

@@ -1,0 +1,10 @@
+{
+  "source_file_sha256": "5306f0bb2189f1d2400ff58e6696a663a6fe397da1eae8c432c10b16a0fcaf60",
+  "native_sha256": "3e134442060aa46c78357cd79e68dca3eb35f7c1ef1319e67bc30dcaf9020bb5",
+  "matches_candidate": 1102,
+  "reported_age_up_black_portrait": "still_open",
+  "observed_warning": "DOTween target Transform was destroyed during scale animation",
+  "observed_exit": "user/system remove-task; no crash signal in retained system-exit",
+  "causation_established": false,
+  "raw_logs": "kept outside public checkout"
+}

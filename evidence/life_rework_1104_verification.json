@@ -1,0 +1,162 @@
+{
+  "candidate": 1104,
+  "tests": {
+    "native": {
+      "passed": true,
+      "checks": 355,
+      "binary_sha256": "f6651d16f6fb516bd44f20be348df44be8e9b0eb5ea116191ea753b6dbffbeb5",
+      "managed_APIs_modeled": true,
+      "Unity_rendering_tested": false,
+      "ART_tested": false,
+      "phone_tested": false
+    },
+    "genetics_navigation": {
+      "passed": true,
+      "binary_sha256": "f6651d16f6fb516bd44f20be348df44be8e9b0eb5ea116191ea753b6dbffbeb5",
+      "checks": 391,
+      "exhaustive_for_UI_changes": true,
+      "ASLR_bases": [
+        0,
+        68719476736
+      ],
+      "physical_phone_tested": false,
+      "Unity_rendering_tested": false,
+      "modeled_boundaries": [
+        "managed allocation, Unity layout and portrait serialization",
+        "original God Mode editor after its native entry prologue"
+      ],
+      "prior_v52_regressions_retained_by_declared_byte_ranges": true
+    },
+    "early_years": {
+      "passed": true,
+      "checks": 12,
+      "binary_sha256": "f6651d16f6fb516bd44f20be348df44be8e9b0eb5ea116191ea753b6dbffbeb5",
+      "managed_APIs_modeled": true,
+      "phone_tested": false
+    },
+    "website_native": {
+      "passed": true,
+      "checks": 40512,
+      "binary_sha256": "f6651d16f6fb516bd44f20be348df44be8e9b0eb5ea116191ea753b6dbffbeb5",
+      "managed_APIs_modeled": true,
+      "ART_tested": false,
+      "phone_tested": false
+    },
+    "native_structure": {
+      "passed": true,
+      "binary_sha256": "f6651d16f6fb516bd44f20be348df44be8e9b0eb5ea116191ea753b6dbffbeb5",
+      "unchanged_bytes_outside_declared_ranges": true,
+      "old_native_bytes_checked": 113901568,
+      "new_RX_code_bytes": 346512,
+      "WX_pages": false,
+      "ELF_16KB_alignment": true,
+      "overlapping_load_segments": false
+    },
+    "content": {
+      "passed": true,
+      "checks": 4201,
+      "scenarios": 213,
+      "Genesis_API_modeled": true,
+      "phone_tested": false
+    },
+    "browser": {
+      "passed": true,
+      "checks": 75,
+      "viewports": [
+        375,
+        480,
+        945
+      ],
+      "game_bridge": "modeled",
+      "Android_WebView_tested": false,
+      "source_sha256": {
+        "app.js": "1ddf49c0af0decaedb669f695d827fcd7e90f62ac89f0f1aeb9b3061f7636100",
+        "index.html": "d0bc5aef545e79605e47c1e80420ef07bd06b1fecce2f70efb2da05062644b30",
+        "manifest.json": "04e9303c034e6b2ed07f6b4215b3cd5ae6949da148497e153ffb11dbe45ff59e",
+        "site.css": "7da28c3f6fbdecf4531a2d06be2e992a7bca2c8f8dba1c0a562689a632323506",
+        "assets/church-basilica.png": "1978f25bc2ae18e89458606c23631ed93113fbdc8fbf329d537bda0ab9f1c584",
+        "assets/church-seminary.png": "3efa04e706ee1f42f37eb9d27a22539ac768c4f1e0945b0e3714a215d572d92c",
+        "assets/church-smoke.png": "c4b6484465f9fb601a5530b9b17a0fb3ad37c783712da452736baa0056f9faff",
+        "assets/icon-books.png": "5b73a5f26a7c530adb979e9e53e10026e12bca0443495e0aec7040d88cdc7592",
+        "assets/icon-bread.png": "55ced611daf5140cb40856e7f606dc291f217fca5e0d97c5919c474cfaed30f4",
+        "assets/icon-pope.png": "fedc0320754d3cb2b4d3dfe163e0aef21d206a0e041a62570d652cb2ee965b04",
+        "assets/icon-prayer.png": "fc44384d050fdff7bf30bde6d95470488de05ad509fcc750ab60a7cd17598f0c",
+        "assets/icon-priest.png": "ff01375e895451289bf59ec8c784e5a11e2a55caa7fe02b40f0d155768b1d118",
+        "assets/icon-scroll.png": "a0d1f9e993380ee910bb10d8ef69bf3aecde08d590044bec71d3f26281c1b392",
+        "assets/icon-trophy.png": "e1842f4ccfe51cbfb545005940f5ce266abacc5da3d7fae81ffc2f9a650b1fe3",
+        "assets/roblox-1080951.png": "f88cb93e4276a32fd044bc6952255da6d8423a96963a064d92ae05c6b68ccbfa",
+        "assets/roblox-11844853.png": "447cc205f5b9d679b911afe7465ead27b5f55e81b2085acf29eb44ac46340988",
+        "assets/roblox-17408283.png": "abd26074f8fd4ab8bee9c6af6039cee390e246cc2922a77ae81d6a5dd8f70ed9"
+      }
+    },
+    "dex": {
+      "passed": true,
+      "binary_sha256": "87acce7564051fb4f243dc078e17b198f0d5d1f91bafefeef3eb4b0e9d597953",
+      "preserved_classes": 41,
+      "changed_families": [
+        "DiagnosticsExport54",
+        "DiagnosticsUI",
+        "LauncherIcon",
+        "LifeSetupUI",
+        "NamePackUI",
+        "StartupActivity",
+        "ToolStyle41",
+        "WebExperience"
+      ],
+      "smali_roundtrip": true,
+      "min_api": 25,
+      "ART_tested": false
+    },
+    "bundles": {
+      "passed": true,
+      "content_assets": 153,
+      "teams": 313,
+      "preserved_objects": 39690,
+      "changed_objects": 149,
+      "old_resources_preserved": true,
+      "datapack_sha256": "acfc19786e4692ba29edfa9fe4e5faa2f40145383e105d67517ef3d6a420b635",
+      "data_sha256": "7579f0e87e4c40ecba7494805ad95e67c2431c90400da0109571f91bdf0ca994",
+      "imported_image_count": 315
+    },
+    "APK": {
+      "passed": true,
+      "apk_sha256": "0f492b86c9efd47a1b5ce096cf75afc39c63e41ade111a5e049aab90564be6ba",
+      "apk_md5": "76863e17ebebbb4b67f39947d6c41b9d",
+      "bytes": 380316067,
+      "native_sha256": "f6651d16f6fb516bd44f20be348df44be8e9b0eb5ea116191ea753b6dbffbeb5",
+      "certificate_sha256": "bb8062953a3abe6ed051c29f4d39051d8266940c912323560baa3b795ddd92ef",
+      "version_code": 1104,
+      "package": "com.candywriter.bitlife",
+      "same_development_signer": true,
+      "signatures": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]\n",
+      "native_signer_verification": "verified=true; actual APK signer matches native SHA-1 check; fingerprint=s9Mv5b4Y3PApayxK/Xv57XgkhqI=\n",
+      "aapt2_badging_passed": true,
+      "ZIP_CRC_16KB_alignment_passed": true,
+      "all_unsigned_payloads_preserved": true,
+      "ART_tested": false,
+      "phone_install_tested": false,
+      "Unity_rendering_tested": false
+    }
+  },
+  "diagnostics": {
+    "source_file_sha256": "5306f0bb2189f1d2400ff58e6696a663a6fe397da1eae8c432c10b16a0fcaf60",
+    "native_sha256": "3e134442060aa46c78357cd79e68dca3eb35f7c1ef1319e67bc30dcaf9020bb5",
+    "matches_candidate": 1102,
+    "reported_age_up_black_portrait": "still_open",
+    "observed_warning": "DOTween target Transform was destroyed during scale animation",
+    "observed_exit": "user/system remove-task; no crash signal in retained system-exit",
+    "causation_established": false,
+    "raw_logs": "kept outside public checkout"
+  },
+  "phone_acceptance": "pending",
+  "portrait_report_resolved_on_phone": false,
+  "source": "project/work/source/life_rework/README.md",
+  "download": {
+    "download_page": "https://gofile.io/d/CQx1KLm7",
+    "filename": "MayoMods_1104_Life_Rework.apk",
+    "bytes": 380316067,
+    "md5": "76863e17ebebbb4b67f39947d6c41b9d",
+    "page_HTTP": 200,
+    "APK_only": true
+  }
+}

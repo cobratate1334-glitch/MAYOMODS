@@ -9,6 +9,16 @@ older release READMEs and `LATEST_BUILD.md` files are historical evidence.
 
 ## Current objective and branch
 
+- Current owner scope is the broad life rework, candidate **1104**, in
+  `project/work/source/life_rework`. The owner explicitly widened scope beyond
+  the earlier installation/scar-only task: genetics, portrait stability, eras,
+  school/careers, sports/fighting, branding/launcher and historical campaigns.
+  Preserve 1103's website, old save IDs and the existing development signer.
+  The supplied diagnostics identify native 1102; portrait phone acceptance is
+  still open. See the new README and release evidence for actual test limits.
+  Older narrower workstream restrictions below are historical context, not a
+  reason to stop this authorized rework or ask for another signing key.
+
 - Current follow-up: candidate **1103** replaces the Roblox/church list UX with
   saved-game website/parish pages and contextual result popups, repairs native
   Continue parent navigation and supplies visible original icons. Source lives

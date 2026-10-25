@@ -1,0 +1,428 @@
+[
+  {
+    "id": "19973",
+    "displayName": "Arsenal",
+    "location": "Arsenal",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/19973.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/19973.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ],
+    "color": "EF0107",
+    "alternateColor": "ffdf00"
+  },
+  {
+    "id": "20707",
+    "displayName": "Aston Villa",
+    "location": "Aston Villa",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/20707.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/20707.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ],
+    "color": "7A003C",
+    "alternateColor": "5CBFEB"
+  },
+  {
+    "id": "19968",
+    "displayName": "Birmingham City",
+    "location": "Birmingham City",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/19968.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/19968.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ],
+    "color": "0000fa",
+    "alternateColor": "000000"
+  },
+  {
+    "id": "19976",
+    "displayName": "Brighton & Hove Albion",
+    "location": "Brighton & Hove Albion",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/19976.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/19976.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ],
+    "color": "0000ff",
+    "alternateColor": "090a06"
+  },
+  {
+    "id": "21035",
+    "displayName": "Charlton Athletic",
+    "location": "Charlton Athletic",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/21035.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/21035.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ],
+    "color": "000000",
+    "alternateColor": "C60000"
+  },
+  {
+    "id": "19970",
+    "displayName": "Chelsea",
+    "location": "Chelsea",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/19970.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/19970.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ],
+    "color": "0000dd",
+    "alternateColor": "ffffff"
+  },
+  {
+    "id": "21037",
+    "displayName": "Crystal Palace",
+    "location": "Crystal Palace",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/21037.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/21037.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ],
+    "color": "0055a5",
+    "alternateColor": "ee2e24"
+  },
+  {
+    "id": "19972",
+    "displayName": "Everton",
+    "location": "Everton",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/19972.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/19972.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ],
+    "color": "0000ff",
+    "alternateColor": "ff6464"
+  },
+  {
+    "id": "19971",
+    "displayName": "Liverpool",
+    "location": "Liverpool",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/19971.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/19971.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/d1b424a5-a896-4975-5604-68d044356c02/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/d1b424a5-a896-4975-5604-68d044356c02/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      }
+    ],
+    "color": "dc0714",
+    "alternateColor": "ffffff"
+  },
+  {
+    "id": "21053",
+    "displayName": "London City Lionesses",
+    "location": "London City Lionesses",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/21053.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/21053.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ],
+    "color": "8bb8e8",
+    "alternateColor": "ff6900"
+  },
+  {
+    "id": "19257",
+    "displayName": "Manchester City",
+    "location": "Manchester City",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/19257.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/19257.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ],
+    "color": "5CBFEB",
+    "alternateColor": "0f204b"
+  },
+  {
+    "id": "20061",
+    "displayName": "Manchester United",
+    "location": "Manchester United",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/20061.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/20061.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ],
+    "color": "DA020E",
+    "alternateColor": "f9e8a5"
+  },
+  {
+    "id": "20062",
+    "displayName": "Tottenham Hotspur",
+    "location": "Tottenham Hotspur",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/20062.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/20062.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ],
+    "color": "ffffff",
+    "alternateColor": "052a87"
+  },
+  {
+    "id": "19975",
+    "displayName": "West Ham United",
+    "location": "West Ham United",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/19975.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/19975.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ],
+    "color": "60223B",
+    "alternateColor": "ffffff"
+  }
+]

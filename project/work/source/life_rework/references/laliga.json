@@ -1,0 +1,622 @@
+[
+  {
+    "id": "96",
+    "displayName": "Alav\u00e9s",
+    "shortDisplayName": "Alav\u00e9s",
+    "abbreviation": "ALA",
+    "location": "Alav\u00e9s",
+    "color": "0000ff",
+    "alternateColor": "FFC0CB",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/96.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "93",
+    "displayName": "Athletic Club",
+    "shortDisplayName": "Athletic",
+    "abbreviation": "ATH",
+    "location": "Athletic Club",
+    "color": "C8142F",
+    "alternateColor": "000000",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/93.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "1068",
+    "displayName": "Atl\u00e9tico Madrid",
+    "shortDisplayName": "Atl\u00e9tico",
+    "abbreviation": "ATM",
+    "location": "Atl\u00e9tico Madrid",
+    "color": "ca3624",
+    "alternateColor": "000000",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/1068.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "83",
+    "displayName": "Barcelona",
+    "shortDisplayName": "Barcelona",
+    "abbreviation": "BAR",
+    "location": "Barcelona",
+    "color": "990000",
+    "alternateColor": "FCE38A",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/83.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "85",
+    "displayName": "Celta Vigo",
+    "shortDisplayName": "Celta Vigo",
+    "abbreviation": "CEL",
+    "location": "Celta Vigo",
+    "color": "6cace4",
+    "alternateColor": "004996",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/85.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "90",
+    "displayName": "Deportivo",
+    "shortDisplayName": "Deportivo",
+    "abbreviation": "DEP",
+    "location": "Deportivo",
+    "color": "3366CC",
+    "alternateColor": "000000",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/90.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "3751",
+    "displayName": "Elche",
+    "shortDisplayName": "Elche",
+    "abbreviation": "ELC",
+    "location": "Elche",
+    "color": "288A00",
+    "alternateColor": "4B2B67",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/3751.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "88",
+    "displayName": "Espanyol",
+    "shortDisplayName": "Espanyol",
+    "abbreviation": "ESP",
+    "location": "Espanyol",
+    "color": "3366CC",
+    "alternateColor": "C8142F",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/88.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "2922",
+    "displayName": "Getafe",
+    "shortDisplayName": "Getafe",
+    "abbreviation": "GET",
+    "location": "Getafe",
+    "color": "0000ff",
+    "alternateColor": "7F1734",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/2922.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "1538",
+    "displayName": "Levante",
+    "shortDisplayName": "Levante",
+    "abbreviation": "LEV",
+    "location": "Levante",
+    "color": "C8142F",
+    "alternateColor": "000000",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/1538.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "99",
+    "displayName": "M\u00e1laga",
+    "shortDisplayName": "M\u00e1laga",
+    "abbreviation": "MCF",
+    "location": "M\u00e1laga",
+    "color": "b9e8f0",
+    "alternateColor": "D19CA4",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/99.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "97",
+    "displayName": "Osasuna",
+    "shortDisplayName": "Osasuna",
+    "abbreviation": "OSA",
+    "location": "Osasuna",
+    "color": "cd0000",
+    "alternateColor": "ffffff",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/97.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "87",
+    "displayName": "Racing Santander",
+    "shortDisplayName": "Racing",
+    "abbreviation": "RAC",
+    "location": "Racing Santander",
+    "color": "ffffff",
+    "alternateColor": "3B6C1A",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/87.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "101",
+    "displayName": "Rayo Vallecano",
+    "shortDisplayName": "Rayo",
+    "abbreviation": "RAY",
+    "location": "Rayo Vallecano",
+    "color": "ffffff",
+    "alternateColor": "cd0000",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/101.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "244",
+    "displayName": "Real Betis",
+    "shortDisplayName": "Betis",
+    "abbreviation": "BET",
+    "location": "Real Betis",
+    "color": "288A00",
+    "alternateColor": "0A422D",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/244.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "86",
+    "displayName": "Real Madrid",
+    "shortDisplayName": "Real Madrid",
+    "abbreviation": "RMA",
+    "location": "Real Madrid",
+    "color": "ffffff",
+    "alternateColor": "1B4D3E",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/86.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "89",
+    "displayName": "Real Sociedad",
+    "shortDisplayName": "Real Sociedad",
+    "abbreviation": "RSO",
+    "location": "Real Sociedad",
+    "color": "3366CC",
+    "alternateColor": "000000",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/89.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "243",
+    "displayName": "Sevilla",
+    "shortDisplayName": "Sevilla",
+    "abbreviation": "SEV",
+    "location": "Sevilla",
+    "color": "ffffff",
+    "alternateColor": "d81022",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/243.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "94",
+    "displayName": "Valencia",
+    "shortDisplayName": "Valencia",
+    "abbreviation": "VAL",
+    "location": "Valencia",
+    "color": "ffffff",
+    "alternateColor": "FF6F00",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/94.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "102",
+    "displayName": "Villarreal",
+    "shortDisplayName": "Villarreal",
+    "abbreviation": "VIL",
+    "location": "Villarreal",
+    "color": "ffff00",
+    "alternateColor": "6cace4",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/102.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  }
+]

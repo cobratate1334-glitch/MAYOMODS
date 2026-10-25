@@ -1,6 +1,8 @@
 # Reproduce the focused v55 scar/eyepatch candidate
 
-For the current **1103** Roblox/parish follow-up, use
+For the current **1104** life rework, use
+`project/work/source/life_rework/README.md` and its exact 1103 input. Retain the
+existing development identity. For the historical **1103** follow-up, use
 `project/work/source/web_experience/README.md` and its retained v54→v55 pipeline.
 Reuse the existing 1101 development identity; do not create another signer.
 The instructions below preserve the separate historical scar/eyepatch work.

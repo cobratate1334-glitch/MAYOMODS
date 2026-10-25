@@ -5,6 +5,17 @@ source and records the evidence boundary after repeated install failures.
 
 ## Current state
 
+Candidate **1104** follows the owner's expanded life-rework request. Source and
+reproduction are in `project/work/source/life_rework/README.md`. It adds owned
+header textures, appearance icons/controls, live family-height finalization,
+calendar restrictions, real team badges, clearer sports routes, school and
+contract activities, original Fight Club camp expansion, military/campaign
+content and refreshed tools/branding. The original native game, saved
+Roblox/parish website, save identities and development signer are retained.
+Signed APK: <https://gofile.io/d/CQx1KLm7> (380,316,067 bytes). SHA-256:
+`0f492b86c9efd47a1b5ce096cf75afc39c63e41ade111a5e049aab90564be6ba`. Phone installation/rendering and portrait acceptance remain pending. Earlier
+1103 and installation history below are retained as historical evidence.
+
 Latest follow-up: candidate **1103** provides packaged offline Roblox and parish
 pages connected to the current character's native saved state. Result popups
 keep page context on Continue; shared native school/fighter/music/church

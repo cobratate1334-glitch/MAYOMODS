@@ -1,0 +1,5162 @@
+[
+  {
+    "id": "29",
+    "displayName": "Arizona Diamondbacks",
+    "shortDisplayName": "Diamondbacks",
+    "abbreviation": "ARI",
+    "location": "Arizona",
+    "color": "aa182c",
+    "alternateColor": "000000",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/ari.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/ari.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/ari.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/43e14a76-ff66-49ed-24fc-2835932f99dd/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/43e14a76-ff66-49ed-24fc-2835932f99dd/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/43e14a76-ff66-49ed-24fc-2835932f99dd/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/43e14a76-ff66-49ed-24fc-2835932f99dd/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/43e14a76-ff66-49ed-24fc-2835932f99dd/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/43e14a76-ff66-49ed-24fc-2835932f99dd/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/43e14a76-ff66-49ed-24fc-2835932f99dd/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/43e14a76-ff66-49ed-24fc-2835932f99dd/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/43e14a76-ff66-49ed-24fc-2835932f99dd/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/43e14a76-ff66-49ed-24fc-2835932f99dd/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/43e14a76-ff66-49ed-24fc-2835932f99dd/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/43e14a76-ff66-49ed-24fc-2835932f99dd/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "displayName": "Athletics",
+    "shortDisplayName": "Athletics",
+    "abbreviation": "ATH",
+    "location": "Athletics",
+    "color": "003831",
+    "alternateColor": "efb21e",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/ath.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/ath.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/ath.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/1d8ed3a9-4c7d-0941-3677-bb6defe67c7a/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/1d8ed3a9-4c7d-0941-3677-bb6defe67c7a/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/1d8ed3a9-4c7d-0941-3677-bb6defe67c7a/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/1d8ed3a9-4c7d-0941-3677-bb6defe67c7a/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/1d8ed3a9-4c7d-0941-3677-bb6defe67c7a/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/1d8ed3a9-4c7d-0941-3677-bb6defe67c7a/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/1d8ed3a9-4c7d-0941-3677-bb6defe67c7a/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/1d8ed3a9-4c7d-0941-3677-bb6defe67c7a/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/1d8ed3a9-4c7d-0941-3677-bb6defe67c7a/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/1d8ed3a9-4c7d-0941-3677-bb6defe67c7a/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/1d8ed3a9-4c7d-0941-3677-bb6defe67c7a/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/1d8ed3a9-4c7d-0941-3677-bb6defe67c7a/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "displayName": "Atlanta Braves",
+    "shortDisplayName": "Braves",
+    "abbreviation": "ATL",
+    "location": "Atlanta",
+    "color": "0c2340",
+    "alternateColor": "ba0c2f",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/atl.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/atl.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/122673a3-bf06-4432-6950-b8a32e52ac2e/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/122673a3-bf06-4432-6950-b8a32e52ac2e/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/122673a3-bf06-4432-6950-b8a32e52ac2e/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/122673a3-bf06-4432-6950-b8a32e52ac2e/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/122673a3-bf06-4432-6950-b8a32e52ac2e/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/122673a3-bf06-4432-6950-b8a32e52ac2e/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/122673a3-bf06-4432-6950-b8a32e52ac2e/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/122673a3-bf06-4432-6950-b8a32e52ac2e/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/122673a3-bf06-4432-6950-b8a32e52ac2e/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/122673a3-bf06-4432-6950-b8a32e52ac2e/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/122673a3-bf06-4432-6950-b8a32e52ac2e/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/122673a3-bf06-4432-6950-b8a32e52ac2e/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "displayName": "Baltimore Orioles",
+    "shortDisplayName": "Orioles",
+    "abbreviation": "BAL",
+    "location": "Baltimore",
+    "color": "df4601",
+    "alternateColor": "000000",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/bal.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/bal.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/bal.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/9ca473b8-e73e-a33d-8ea0-b4d160be4be7/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/9ca473b8-e73e-a33d-8ea0-b4d160be4be7/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/9ca473b8-e73e-a33d-8ea0-b4d160be4be7/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/9ca473b8-e73e-a33d-8ea0-b4d160be4be7/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/9ca473b8-e73e-a33d-8ea0-b4d160be4be7/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/9ca473b8-e73e-a33d-8ea0-b4d160be4be7/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/9ca473b8-e73e-a33d-8ea0-b4d160be4be7/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/9ca473b8-e73e-a33d-8ea0-b4d160be4be7/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/9ca473b8-e73e-a33d-8ea0-b4d160be4be7/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/9ca473b8-e73e-a33d-8ea0-b4d160be4be7/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/9ca473b8-e73e-a33d-8ea0-b4d160be4be7/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/9ca473b8-e73e-a33d-8ea0-b4d160be4be7/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "displayName": "Boston Red Sox",
+    "shortDisplayName": "Red Sox",
+    "abbreviation": "BOS",
+    "location": "Boston",
+    "color": "0d2b56",
+    "alternateColor": "bd3039",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/bos.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/bos.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/bos.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c6df06f6-785d-3900-4935-5fd13742e2ee/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c6df06f6-785d-3900-4935-5fd13742e2ee/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c6df06f6-785d-3900-4935-5fd13742e2ee/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c6df06f6-785d-3900-4935-5fd13742e2ee/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c6df06f6-785d-3900-4935-5fd13742e2ee/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c6df06f6-785d-3900-4935-5fd13742e2ee/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c6df06f6-785d-3900-4935-5fd13742e2ee/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c6df06f6-785d-3900-4935-5fd13742e2ee/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c6df06f6-785d-3900-4935-5fd13742e2ee/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c6df06f6-785d-3900-4935-5fd13742e2ee/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c6df06f6-785d-3900-4935-5fd13742e2ee/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c6df06f6-785d-3900-4935-5fd13742e2ee/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "displayName": "Chicago Cubs",
+    "shortDisplayName": "Cubs",
+    "abbreviation": "CHC",
+    "location": "Chicago",
+    "color": "0e3386",
+    "alternateColor": "cc3433",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/chc.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/chc.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/chc.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/5cda5067-7075-66b1-4b94-2333ab8d9807/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/5cda5067-7075-66b1-4b94-2333ab8d9807/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/5cda5067-7075-66b1-4b94-2333ab8d9807/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/5cda5067-7075-66b1-4b94-2333ab8d9807/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/5cda5067-7075-66b1-4b94-2333ab8d9807/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/5cda5067-7075-66b1-4b94-2333ab8d9807/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/5cda5067-7075-66b1-4b94-2333ab8d9807/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/5cda5067-7075-66b1-4b94-2333ab8d9807/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/5cda5067-7075-66b1-4b94-2333ab8d9807/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/5cda5067-7075-66b1-4b94-2333ab8d9807/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/5cda5067-7075-66b1-4b94-2333ab8d9807/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/5cda5067-7075-66b1-4b94-2333ab8d9807/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "displayName": "Chicago White Sox",
+    "shortDisplayName": "White Sox",
+    "abbreviation": "CHW",
+    "location": "Chicago",
+    "color": "000000",
+    "alternateColor": "c4ced4",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/chw.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/chw.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/8f4800c6-3c05-b3d5-8186-9750cd72a3c2/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/8f4800c6-3c05-b3d5-8186-9750cd72a3c2/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/8f4800c6-3c05-b3d5-8186-9750cd72a3c2/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/8f4800c6-3c05-b3d5-8186-9750cd72a3c2/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/8f4800c6-3c05-b3d5-8186-9750cd72a3c2/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/8f4800c6-3c05-b3d5-8186-9750cd72a3c2/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/8f4800c6-3c05-b3d5-8186-9750cd72a3c2/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/8f4800c6-3c05-b3d5-8186-9750cd72a3c2/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/8f4800c6-3c05-b3d5-8186-9750cd72a3c2/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/8f4800c6-3c05-b3d5-8186-9750cd72a3c2/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/8f4800c6-3c05-b3d5-8186-9750cd72a3c2/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/8f4800c6-3c05-b3d5-8186-9750cd72a3c2/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "displayName": "Cincinnati Reds",
+    "shortDisplayName": "Reds",
+    "abbreviation": "CIN",
+    "location": "Cincinnati",
+    "color": "c6011f",
+    "alternateColor": "ffffff",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/cin.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/cin.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/cin.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/04b65a0b-3cca-d795-0e21-23606470418a/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/04b65a0b-3cca-d795-0e21-23606470418a/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/04b65a0b-3cca-d795-0e21-23606470418a/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/04b65a0b-3cca-d795-0e21-23606470418a/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/04b65a0b-3cca-d795-0e21-23606470418a/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/04b65a0b-3cca-d795-0e21-23606470418a/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/04b65a0b-3cca-d795-0e21-23606470418a/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/04b65a0b-3cca-d795-0e21-23606470418a/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/04b65a0b-3cca-d795-0e21-23606470418a/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/04b65a0b-3cca-d795-0e21-23606470418a/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/04b65a0b-3cca-d795-0e21-23606470418a/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/04b65a0b-3cca-d795-0e21-23606470418a/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "displayName": "Cleveland Guardians",
+    "shortDisplayName": "Guardians",
+    "abbreviation": "CLE",
+    "location": "Cleveland",
+    "color": "002b5c",
+    "alternateColor": "e31937",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/cle.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cle.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/cle.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/6ad8fa03-36bc-baab-c76a-345b6544424d/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/6ad8fa03-36bc-baab-c76a-345b6544424d/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/6ad8fa03-36bc-baab-c76a-345b6544424d/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/6ad8fa03-36bc-baab-c76a-345b6544424d/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/6ad8fa03-36bc-baab-c76a-345b6544424d/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/6ad8fa03-36bc-baab-c76a-345b6544424d/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/6ad8fa03-36bc-baab-c76a-345b6544424d/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/6ad8fa03-36bc-baab-c76a-345b6544424d/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/6ad8fa03-36bc-baab-c76a-345b6544424d/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/6ad8fa03-36bc-baab-c76a-345b6544424d/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/6ad8fa03-36bc-baab-c76a-345b6544424d/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/6ad8fa03-36bc-baab-c76a-345b6544424d/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "displayName": "Colorado Rockies",
+    "shortDisplayName": "Rockies",
+    "abbreviation": "COL",
+    "location": "Colorado",
+    "color": "33006f",
+    "alternateColor": "000000",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/col.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/col.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/f3f1ba71-05f1-a49a-0363-3b1d8e0db4cf/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/f3f1ba71-05f1-a49a-0363-3b1d8e0db4cf/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/f3f1ba71-05f1-a49a-0363-3b1d8e0db4cf/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/f3f1ba71-05f1-a49a-0363-3b1d8e0db4cf/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/f3f1ba71-05f1-a49a-0363-3b1d8e0db4cf/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/f3f1ba71-05f1-a49a-0363-3b1d8e0db4cf/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/f3f1ba71-05f1-a49a-0363-3b1d8e0db4cf/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/f3f1ba71-05f1-a49a-0363-3b1d8e0db4cf/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/f3f1ba71-05f1-a49a-0363-3b1d8e0db4cf/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/f3f1ba71-05f1-a49a-0363-3b1d8e0db4cf/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/f3f1ba71-05f1-a49a-0363-3b1d8e0db4cf/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/f3f1ba71-05f1-a49a-0363-3b1d8e0db4cf/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "displayName": "Detroit Tigers",
+    "shortDisplayName": "Tigers",
+    "abbreviation": "DET",
+    "location": "Detroit",
+    "color": "0a2240",
+    "alternateColor": "ff4713",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/det.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/det.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/det.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/b27c64bf-4f18-f713-ba06-db1bce2394e7/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/b27c64bf-4f18-f713-ba06-db1bce2394e7/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/b27c64bf-4f18-f713-ba06-db1bce2394e7/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/b27c64bf-4f18-f713-ba06-db1bce2394e7/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/b27c64bf-4f18-f713-ba06-db1bce2394e7/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/b27c64bf-4f18-f713-ba06-db1bce2394e7/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/b27c64bf-4f18-f713-ba06-db1bce2394e7/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/b27c64bf-4f18-f713-ba06-db1bce2394e7/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/b27c64bf-4f18-f713-ba06-db1bce2394e7/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/b27c64bf-4f18-f713-ba06-db1bce2394e7/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/b27c64bf-4f18-f713-ba06-db1bce2394e7/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/b27c64bf-4f18-f713-ba06-db1bce2394e7/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "displayName": "Houston Astros",
+    "shortDisplayName": "Astros",
+    "abbreviation": "HOU",
+    "location": "Houston",
+    "color": "002d62",
+    "alternateColor": "eb6e1f",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/hou.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/hou.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/00a3015f-09ec-1b03-52af-656f5e0a18d5/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/00a3015f-09ec-1b03-52af-656f5e0a18d5/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/00a3015f-09ec-1b03-52af-656f5e0a18d5/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/00a3015f-09ec-1b03-52af-656f5e0a18d5/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/00a3015f-09ec-1b03-52af-656f5e0a18d5/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/00a3015f-09ec-1b03-52af-656f5e0a18d5/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/00a3015f-09ec-1b03-52af-656f5e0a18d5/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/00a3015f-09ec-1b03-52af-656f5e0a18d5/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/00a3015f-09ec-1b03-52af-656f5e0a18d5/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/00a3015f-09ec-1b03-52af-656f5e0a18d5/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/00a3015f-09ec-1b03-52af-656f5e0a18d5/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/00a3015f-09ec-1b03-52af-656f5e0a18d5/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "displayName": "Kansas City Royals",
+    "shortDisplayName": "Royals",
+    "abbreviation": "KC",
+    "location": "Kansas City",
+    "color": "004687",
+    "alternateColor": "7ab2dd",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/kc.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/kc.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/kc.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/11a5df00-0945-35a5-66fe-a3a107975558/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/11a5df00-0945-35a5-66fe-a3a107975558/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/11a5df00-0945-35a5-66fe-a3a107975558/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/11a5df00-0945-35a5-66fe-a3a107975558/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/11a5df00-0945-35a5-66fe-a3a107975558/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/11a5df00-0945-35a5-66fe-a3a107975558/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/11a5df00-0945-35a5-66fe-a3a107975558/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/11a5df00-0945-35a5-66fe-a3a107975558/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/11a5df00-0945-35a5-66fe-a3a107975558/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/11a5df00-0945-35a5-66fe-a3a107975558/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/11a5df00-0945-35a5-66fe-a3a107975558/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/11a5df00-0945-35a5-66fe-a3a107975558/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "displayName": "Los Angeles Angels",
+    "shortDisplayName": "Angels",
+    "abbreviation": "LAA",
+    "location": "Los Angeles",
+    "color": "ba0021",
+    "alternateColor": "c4ced4",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/laa.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/laa.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/laa.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/053868c7-8bff-5edb-3cb6-f5490f33ef99/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/053868c7-8bff-5edb-3cb6-f5490f33ef99/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/053868c7-8bff-5edb-3cb6-f5490f33ef99/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/053868c7-8bff-5edb-3cb6-f5490f33ef99/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/053868c7-8bff-5edb-3cb6-f5490f33ef99/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/053868c7-8bff-5edb-3cb6-f5490f33ef99/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/053868c7-8bff-5edb-3cb6-f5490f33ef99/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/053868c7-8bff-5edb-3cb6-f5490f33ef99/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/053868c7-8bff-5edb-3cb6-f5490f33ef99/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/053868c7-8bff-5edb-3cb6-f5490f33ef99/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/053868c7-8bff-5edb-3cb6-f5490f33ef99/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/053868c7-8bff-5edb-3cb6-f5490f33ef99/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "displayName": "Los Angeles Dodgers",
+    "shortDisplayName": "Dodgers",
+    "abbreviation": "LAD",
+    "location": "Los Angeles",
+    "color": "005a9c",
+    "alternateColor": "ffffff",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/lad.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/lad.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/fb7cf413-5156-9fc2-abe0-2273b89f70db/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/fb7cf413-5156-9fc2-abe0-2273b89f70db/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/fb7cf413-5156-9fc2-abe0-2273b89f70db/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/fb7cf413-5156-9fc2-abe0-2273b89f70db/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/fb7cf413-5156-9fc2-abe0-2273b89f70db/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/fb7cf413-5156-9fc2-abe0-2273b89f70db/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/fb7cf413-5156-9fc2-abe0-2273b89f70db/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/fb7cf413-5156-9fc2-abe0-2273b89f70db/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/fb7cf413-5156-9fc2-abe0-2273b89f70db/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/fb7cf413-5156-9fc2-abe0-2273b89f70db/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/fb7cf413-5156-9fc2-abe0-2273b89f70db/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/fb7cf413-5156-9fc2-abe0-2273b89f70db/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "displayName": "Miami Marlins",
+    "shortDisplayName": "Marlins",
+    "abbreviation": "MIA",
+    "location": "Miami",
+    "color": "00a3e0",
+    "alternateColor": "000000",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/mia.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/mia.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/mia.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/74909d10-eacb-1376-ef1e-d0f37d7c67ca/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/74909d10-eacb-1376-ef1e-d0f37d7c67ca/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/74909d10-eacb-1376-ef1e-d0f37d7c67ca/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/74909d10-eacb-1376-ef1e-d0f37d7c67ca/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/74909d10-eacb-1376-ef1e-d0f37d7c67ca/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/74909d10-eacb-1376-ef1e-d0f37d7c67ca/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/74909d10-eacb-1376-ef1e-d0f37d7c67ca/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/74909d10-eacb-1376-ef1e-d0f37d7c67ca/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/74909d10-eacb-1376-ef1e-d0f37d7c67ca/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/74909d10-eacb-1376-ef1e-d0f37d7c67ca/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/74909d10-eacb-1376-ef1e-d0f37d7c67ca/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/74909d10-eacb-1376-ef1e-d0f37d7c67ca/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "displayName": "Milwaukee Brewers",
+    "shortDisplayName": "Brewers",
+    "abbreviation": "MIL",
+    "location": "Milwaukee",
+    "color": "13294b",
+    "alternateColor": "ffc72c",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/mil.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/mil.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/mil.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4750d73d-d92e-b390-758c-2c7b44a810db/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4750d73d-d92e-b390-758c-2c7b44a810db/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4750d73d-d92e-b390-758c-2c7b44a810db/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4750d73d-d92e-b390-758c-2c7b44a810db/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4750d73d-d92e-b390-758c-2c7b44a810db/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4750d73d-d92e-b390-758c-2c7b44a810db/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4750d73d-d92e-b390-758c-2c7b44a810db/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4750d73d-d92e-b390-758c-2c7b44a810db/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4750d73d-d92e-b390-758c-2c7b44a810db/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4750d73d-d92e-b390-758c-2c7b44a810db/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4750d73d-d92e-b390-758c-2c7b44a810db/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4750d73d-d92e-b390-758c-2c7b44a810db/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "displayName": "Minnesota Twins",
+    "shortDisplayName": "Twins",
+    "abbreviation": "MIN",
+    "location": "Minnesota",
+    "color": "031f40",
+    "alternateColor": "e20e32",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/min.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/min.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/a6e97b3f-4244-98be-79a2-f4b33f3365e6/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/a6e97b3f-4244-98be-79a2-f4b33f3365e6/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/a6e97b3f-4244-98be-79a2-f4b33f3365e6/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/a6e97b3f-4244-98be-79a2-f4b33f3365e6/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/a6e97b3f-4244-98be-79a2-f4b33f3365e6/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/a6e97b3f-4244-98be-79a2-f4b33f3365e6/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/a6e97b3f-4244-98be-79a2-f4b33f3365e6/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/a6e97b3f-4244-98be-79a2-f4b33f3365e6/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/a6e97b3f-4244-98be-79a2-f4b33f3365e6/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/a6e97b3f-4244-98be-79a2-f4b33f3365e6/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/a6e97b3f-4244-98be-79a2-f4b33f3365e6/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/a6e97b3f-4244-98be-79a2-f4b33f3365e6/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "displayName": "New York Mets",
+    "shortDisplayName": "Mets",
+    "abbreviation": "NYM",
+    "location": "New York",
+    "color": "002d72",
+    "alternateColor": "ff5910",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/nym.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/nym.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nym.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/nym.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/d08426cc-bf13-5d7b-5217-6d4662019bc6/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/d08426cc-bf13-5d7b-5217-6d4662019bc6/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/d08426cc-bf13-5d7b-5217-6d4662019bc6/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/d08426cc-bf13-5d7b-5217-6d4662019bc6/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/d08426cc-bf13-5d7b-5217-6d4662019bc6/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/d08426cc-bf13-5d7b-5217-6d4662019bc6/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/d08426cc-bf13-5d7b-5217-6d4662019bc6/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/d08426cc-bf13-5d7b-5217-6d4662019bc6/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/d08426cc-bf13-5d7b-5217-6d4662019bc6/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/d08426cc-bf13-5d7b-5217-6d4662019bc6/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/d08426cc-bf13-5d7b-5217-6d4662019bc6/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/d08426cc-bf13-5d7b-5217-6d4662019bc6/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "displayName": "New York Yankees",
+    "shortDisplayName": "Yankees",
+    "abbreviation": "NYY",
+    "location": "New York",
+    "color": "132448",
+    "alternateColor": "c4ced4",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/nyy.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/2b9cedf3-ce60-0bcf-fafe-8cd055255685/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/2b9cedf3-ce60-0bcf-fafe-8cd055255685/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/2b9cedf3-ce60-0bcf-fafe-8cd055255685/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/2b9cedf3-ce60-0bcf-fafe-8cd055255685/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/2b9cedf3-ce60-0bcf-fafe-8cd055255685/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/2b9cedf3-ce60-0bcf-fafe-8cd055255685/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/2b9cedf3-ce60-0bcf-fafe-8cd055255685/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/2b9cedf3-ce60-0bcf-fafe-8cd055255685/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/2b9cedf3-ce60-0bcf-fafe-8cd055255685/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/2b9cedf3-ce60-0bcf-fafe-8cd055255685/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/2b9cedf3-ce60-0bcf-fafe-8cd055255685/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/2b9cedf3-ce60-0bcf-fafe-8cd055255685/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "displayName": "Philadelphia Phillies",
+    "shortDisplayName": "Phillies",
+    "abbreviation": "PHI",
+    "location": "Philadelphia",
+    "color": "e81828",
+    "alternateColor": "003278",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/phi.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/phi.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/ff1e263a-f6a6-93c3-1373-418623652ff0/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/ff1e263a-f6a6-93c3-1373-418623652ff0/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/ff1e263a-f6a6-93c3-1373-418623652ff0/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/ff1e263a-f6a6-93c3-1373-418623652ff0/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/ff1e263a-f6a6-93c3-1373-418623652ff0/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/ff1e263a-f6a6-93c3-1373-418623652ff0/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/ff1e263a-f6a6-93c3-1373-418623652ff0/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/ff1e263a-f6a6-93c3-1373-418623652ff0/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/ff1e263a-f6a6-93c3-1373-418623652ff0/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/ff1e263a-f6a6-93c3-1373-418623652ff0/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/ff1e263a-f6a6-93c3-1373-418623652ff0/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/ff1e263a-f6a6-93c3-1373-418623652ff0/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "displayName": "Pittsburgh Pirates",
+    "shortDisplayName": "Pirates",
+    "abbreviation": "PIT",
+    "location": "Pittsburgh",
+    "color": "000000",
+    "alternateColor": "fdb827",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/pit.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/pit.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/5b8fc9be-4020-52c6-aa28-9a0f2d4383e0/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/5b8fc9be-4020-52c6-aa28-9a0f2d4383e0/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/5b8fc9be-4020-52c6-aa28-9a0f2d4383e0/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/5b8fc9be-4020-52c6-aa28-9a0f2d4383e0/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/5b8fc9be-4020-52c6-aa28-9a0f2d4383e0/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/5b8fc9be-4020-52c6-aa28-9a0f2d4383e0/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/5b8fc9be-4020-52c6-aa28-9a0f2d4383e0/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/5b8fc9be-4020-52c6-aa28-9a0f2d4383e0/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/5b8fc9be-4020-52c6-aa28-9a0f2d4383e0/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/5b8fc9be-4020-52c6-aa28-9a0f2d4383e0/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/5b8fc9be-4020-52c6-aa28-9a0f2d4383e0/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/5b8fc9be-4020-52c6-aa28-9a0f2d4383e0/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "displayName": "San Diego Padres",
+    "shortDisplayName": "Padres",
+    "abbreviation": "SD",
+    "location": "San Diego",
+    "color": "2f241d",
+    "alternateColor": "ffc425",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/sd.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/sd.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/sd.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4dec648c-3eb9-055c-aebc-2711f30975a0/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4dec648c-3eb9-055c-aebc-2711f30975a0/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4dec648c-3eb9-055c-aebc-2711f30975a0/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4dec648c-3eb9-055c-aebc-2711f30975a0/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4dec648c-3eb9-055c-aebc-2711f30975a0/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4dec648c-3eb9-055c-aebc-2711f30975a0/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4dec648c-3eb9-055c-aebc-2711f30975a0/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4dec648c-3eb9-055c-aebc-2711f30975a0/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4dec648c-3eb9-055c-aebc-2711f30975a0/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4dec648c-3eb9-055c-aebc-2711f30975a0/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4dec648c-3eb9-055c-aebc-2711f30975a0/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4dec648c-3eb9-055c-aebc-2711f30975a0/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "displayName": "San Francisco Giants",
+    "shortDisplayName": "Giants",
+    "abbreviation": "SF",
+    "location": "San Francisco",
+    "color": "000000",
+    "alternateColor": "fd5a1e",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/sf.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/sf.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/sf.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/e072b79c-4fa1-3a55-bdcd-4d7d9734d79b/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/e072b79c-4fa1-3a55-bdcd-4d7d9734d79b/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/e072b79c-4fa1-3a55-bdcd-4d7d9734d79b/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/e072b79c-4fa1-3a55-bdcd-4d7d9734d79b/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/e072b79c-4fa1-3a55-bdcd-4d7d9734d79b/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/e072b79c-4fa1-3a55-bdcd-4d7d9734d79b/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/e072b79c-4fa1-3a55-bdcd-4d7d9734d79b/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/e072b79c-4fa1-3a55-bdcd-4d7d9734d79b/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/e072b79c-4fa1-3a55-bdcd-4d7d9734d79b/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/e072b79c-4fa1-3a55-bdcd-4d7d9734d79b/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/e072b79c-4fa1-3a55-bdcd-4d7d9734d79b/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/e072b79c-4fa1-3a55-bdcd-4d7d9734d79b/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "displayName": "Seattle Mariners",
+    "shortDisplayName": "Mariners",
+    "abbreviation": "SEA",
+    "location": "Seattle",
+    "color": "005c5c",
+    "alternateColor": "0c2c56",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/sea.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/sea.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/56d60582-088f-6848-5180-1fb04440cf87/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/56d60582-088f-6848-5180-1fb04440cf87/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/56d60582-088f-6848-5180-1fb04440cf87/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/56d60582-088f-6848-5180-1fb04440cf87/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/56d60582-088f-6848-5180-1fb04440cf87/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/56d60582-088f-6848-5180-1fb04440cf87/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/56d60582-088f-6848-5180-1fb04440cf87/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/56d60582-088f-6848-5180-1fb04440cf87/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/56d60582-088f-6848-5180-1fb04440cf87/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/56d60582-088f-6848-5180-1fb04440cf87/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/56d60582-088f-6848-5180-1fb04440cf87/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/56d60582-088f-6848-5180-1fb04440cf87/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "displayName": "St. Louis Cardinals",
+    "shortDisplayName": "Cardinals",
+    "abbreviation": "STL",
+    "location": "St. Louis",
+    "color": "be0a14",
+    "alternateColor": "001541",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/stl.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/stl.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/stl.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c781e7c6-2c5b-beaf-55b8-999c76f76661/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c781e7c6-2c5b-beaf-55b8-999c76f76661/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c781e7c6-2c5b-beaf-55b8-999c76f76661/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c781e7c6-2c5b-beaf-55b8-999c76f76661/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c781e7c6-2c5b-beaf-55b8-999c76f76661/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c781e7c6-2c5b-beaf-55b8-999c76f76661/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c781e7c6-2c5b-beaf-55b8-999c76f76661/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c781e7c6-2c5b-beaf-55b8-999c76f76661/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c781e7c6-2c5b-beaf-55b8-999c76f76661/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c781e7c6-2c5b-beaf-55b8-999c76f76661/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c781e7c6-2c5b-beaf-55b8-999c76f76661/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c781e7c6-2c5b-beaf-55b8-999c76f76661/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "displayName": "Tampa Bay Rays",
+    "shortDisplayName": "Rays",
+    "abbreviation": "TB",
+    "location": "Tampa Bay",
+    "color": "092c5c",
+    "alternateColor": "8fbce6",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/tb.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/tb.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/f8a579c6-08b9-7584-141d-317d0645763b/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/f8a579c6-08b9-7584-141d-317d0645763b/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/f8a579c6-08b9-7584-141d-317d0645763b/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/f8a579c6-08b9-7584-141d-317d0645763b/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/f8a579c6-08b9-7584-141d-317d0645763b/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/f8a579c6-08b9-7584-141d-317d0645763b/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/f8a579c6-08b9-7584-141d-317d0645763b/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/f8a579c6-08b9-7584-141d-317d0645763b/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/f8a579c6-08b9-7584-141d-317d0645763b/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/f8a579c6-08b9-7584-141d-317d0645763b/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/f8a579c6-08b9-7584-141d-317d0645763b/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/f8a579c6-08b9-7584-141d-317d0645763b/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "displayName": "Texas Rangers",
+    "shortDisplayName": "Rangers",
+    "abbreviation": "TEX",
+    "location": "Texas",
+    "color": "003278",
+    "alternateColor": "c0111f",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/tex.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/tex.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4fa2cf46-09fc-255f-74a1-2a8857b0e671/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4fa2cf46-09fc-255f-74a1-2a8857b0e671/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4fa2cf46-09fc-255f-74a1-2a8857b0e671/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4fa2cf46-09fc-255f-74a1-2a8857b0e671/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4fa2cf46-09fc-255f-74a1-2a8857b0e671/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4fa2cf46-09fc-255f-74a1-2a8857b0e671/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4fa2cf46-09fc-255f-74a1-2a8857b0e671/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4fa2cf46-09fc-255f-74a1-2a8857b0e671/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4fa2cf46-09fc-255f-74a1-2a8857b0e671/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4fa2cf46-09fc-255f-74a1-2a8857b0e671/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4fa2cf46-09fc-255f-74a1-2a8857b0e671/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/4fa2cf46-09fc-255f-74a1-2a8857b0e671/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "displayName": "Toronto Blue Jays",
+    "shortDisplayName": "Blue Jays",
+    "abbreviation": "TOR",
+    "location": "Toronto",
+    "color": "134a8e",
+    "alternateColor": "6cace5",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/tor.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/tor.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/tor.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/0151aed9-9f11-ceae-195d-180ca603b64a/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/0151aed9-9f11-ceae-195d-180ca603b64a/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/0151aed9-9f11-ceae-195d-180ca603b64a/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/0151aed9-9f11-ceae-195d-180ca603b64a/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/0151aed9-9f11-ceae-195d-180ca603b64a/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/0151aed9-9f11-ceae-195d-180ca603b64a/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/0151aed9-9f11-ceae-195d-180ca603b64a/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/0151aed9-9f11-ceae-195d-180ca603b64a/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/0151aed9-9f11-ceae-195d-180ca603b64a/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/0151aed9-9f11-ceae-195d-180ca603b64a/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/0151aed9-9f11-ceae-195d-180ca603b64a/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/0151aed9-9f11-ceae-195d-180ca603b64a/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "displayName": "Washington Nationals",
+    "shortDisplayName": "Nationals",
+    "abbreviation": "WSH",
+    "location": "Washington",
+    "color": "ab0003",
+    "alternateColor": "11225b",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/wsh.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/wsh.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/scoreboard/wsh.png",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/a73e1046-e9aa-ef6b-4e0d-2a7c808cb284/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/a73e1046-e9aa-ef6b-4e0d-2a7c808cb284/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/a73e1046-e9aa-ef6b-4e0d-2a7c808cb284/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/a73e1046-e9aa-ef6b-4e0d-2a7c808cb284/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/a73e1046-e9aa-ef6b-4e0d-2a7c808cb284/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/a73e1046-e9aa-ef6b-4e0d-2a7c808cb284/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/a73e1046-e9aa-ef6b-4e0d-2a7c808cb284/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/a73e1046-e9aa-ef6b-4e0d-2a7c808cb284/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/a73e1046-e9aa-ef6b-4e0d-2a7c808cb284/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/a73e1046-e9aa-ef6b-4e0d-2a7c808cb284/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/a73e1046-e9aa-ef6b-4e0d-2a7c808cb284/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/a73e1046-e9aa-ef6b-4e0d-2a7c808cb284/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  }
+]

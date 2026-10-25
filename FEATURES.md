@@ -1,5 +1,15 @@
 # Requested gameplay systems and design requirements
 
+Current candidate **1104** adds the life rework described in
+[its README](project/work/source/life_rework/README.md): appearance controls,
+owned header textures, live family heights, era restrictions/early-year presets,
+school follow-ups and native grades, supervision care, one recording studio,
+research/club contracts, original Fight Club camp, real team identities/badges,
+clearer sports routes, historical deployments and refreshed launcher/log/packs.
+These are locally tested candidate features; phone rendering and portrait
+acceptance remain pending. Original fight rosters/records and core game systems
+remain; the README records simulation and history limits.
+
 Current candidate 1103: functioning offline Roblox account/Studio/catalog/
 membership/inbox pages connected to the current character's saved native state,
 plus illustrated church/formation/case pages. Confirmation and result dialogs

@@ -1,0 +1,394 @@
+[
+  {
+    "id": "289195",
+    "displayName": "Broncos",
+    "shortDisplayName": "Broncos",
+    "abbreviation": "BRI",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289195.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/rugby/teams/500-dark/289195.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "289197",
+    "displayName": "Bulldogs",
+    "shortDisplayName": "Bulldogs",
+    "abbreviation": "CAN",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289197.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "289202",
+    "displayName": "Cowboys",
+    "shortDisplayName": "Cowboys",
+    "abbreviation": "NOR",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289202.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "289346",
+    "displayName": "Dolphins",
+    "shortDisplayName": "Dolphins",
+    "abbreviation": "DOL",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289346.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/rugby/teams/500-dark/289346.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "289209",
+    "displayName": "Dragons",
+    "shortDisplayName": "Dragons",
+    "abbreviation": "ST.",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289209.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "289194",
+    "displayName": "Eels",
+    "shortDisplayName": "Eels",
+    "abbreviation": "PAR",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289194.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "289207",
+    "displayName": "Knights",
+    "shortDisplayName": "Knights",
+    "abbreviation": "NEW",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289207.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "289317",
+    "displayName": "New South Wales",
+    "shortDisplayName": "New South Wales",
+    "abbreviation": "NEW",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289317.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/rugby/teams/500-dark/289317.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "289199",
+    "displayName": "Panthers",
+    "shortDisplayName": "Panthers",
+    "abbreviation": "PEN",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289199.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "289318",
+    "displayName": "Queensland",
+    "shortDisplayName": "Queensland",
+    "abbreviation": "QUE",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289318.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/rugby/teams/500-dark/289318.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "289205",
+    "displayName": "Rabbitohs",
+    "shortDisplayName": "Rabbitohs",
+    "abbreviation": "SOU",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289205.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "289198",
+    "displayName": "Raiders",
+    "shortDisplayName": "Raiders",
+    "abbreviation": "CAN",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289198.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "289204",
+    "displayName": "Roosters",
+    "shortDisplayName": "Roosters",
+    "abbreviation": "SYD",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289204.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "289196",
+    "displayName": "Sea Eagles",
+    "shortDisplayName": "Sea Eagles",
+    "abbreviation": "MAN",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289196.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/rugby/teams/500-dark/289196.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "289203",
+    "displayName": "Sharks",
+    "shortDisplayName": "Sharks",
+    "abbreviation": "CRO",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289203.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "289208",
+    "displayName": "Storm",
+    "shortDisplayName": "Storm",
+    "abbreviation": "MEL",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289208.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "289206",
+    "displayName": "Titans",
+    "shortDisplayName": "Titans",
+    "abbreviation": "GOL",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289206.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "289201",
+    "displayName": "Warriors",
+    "shortDisplayName": "Warriors",
+    "abbreviation": "NEW",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289201.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "289200",
+    "displayName": "Wests Tigers",
+    "shortDisplayName": "Wests Tigers",
+    "abbreviation": "WES",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289200.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      }
+    ]
+  }
+]

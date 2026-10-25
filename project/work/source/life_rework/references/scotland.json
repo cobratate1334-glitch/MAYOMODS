@@ -1,0 +1,364 @@
+[
+  {
+    "id": "263",
+    "displayName": "Aberdeen",
+    "shortDisplayName": "Aberdeen",
+    "abbreviation": "ABE",
+    "location": "Aberdeen",
+    "color": "C8142F",
+    "alternateColor": "f9e900",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/263.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/263.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "256",
+    "displayName": "Celtic",
+    "shortDisplayName": "Celtic",
+    "abbreviation": "CEL",
+    "location": "Celtic",
+    "color": "009921",
+    "alternateColor": "f9e900",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/256.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "261",
+    "displayName": "Dundee",
+    "shortDisplayName": "Dundee",
+    "abbreviation": "DUN",
+    "location": "Dundee",
+    "color": "000040",
+    "alternateColor": "ffffff",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/261.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/261.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "264",
+    "displayName": "Dundee United",
+    "shortDisplayName": "Dundee Utd",
+    "abbreviation": "DUN",
+    "location": "Dundee United",
+    "color": "FF621A",
+    "alternateColor": "009f00",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/264.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/264.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "254",
+    "displayName": "Falkirk",
+    "shortDisplayName": "Falkirk",
+    "abbreviation": "FALK",
+    "location": "Falkirk",
+    "color": "000099",
+    "alternateColor": "C60000",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/254.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "262",
+    "displayName": "Heart of Midlothian",
+    "shortDisplayName": "Hearts",
+    "abbreviation": "HOM",
+    "location": "Heart of Midlothian",
+    "color": "8E003B",
+    "alternateColor": "ead6b7",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/262.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/262.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "258",
+    "displayName": "Hibernian",
+    "shortDisplayName": "Hibernian",
+    "abbreviation": "HIBS",
+    "location": "Hibernian",
+    "color": "009f00",
+    "alternateColor": "ffffff",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/258.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/258.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "260",
+    "displayName": "Kilmarnock",
+    "shortDisplayName": "Kilmarnock",
+    "abbreviation": "KIL",
+    "location": "Kilmarnock",
+    "color": "0046ff",
+    "alternateColor": "babbbf",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/260.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/260.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "266",
+    "displayName": "Motherwell",
+    "shortDisplayName": "Motherwell",
+    "abbreviation": "MOT",
+    "location": "Motherwell",
+    "color": "F7AA25",
+    "alternateColor": "535e64",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/266.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/266.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "257",
+    "displayName": "Rangers",
+    "shortDisplayName": "Rangers",
+    "abbreviation": "RAN",
+    "location": "Rangers",
+    "color": "0046ff",
+    "alternateColor": "ffffff",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/257.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/257.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "267",
+    "displayName": "St Johnstone",
+    "shortDisplayName": "St Johnstone",
+    "abbreviation": "STJ",
+    "location": "St Johnstone",
+    "color": "0046ff",
+    "alternateColor": "9e0000",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/267.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/267.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "250",
+    "displayName": "St Mirren",
+    "shortDisplayName": "St Mirren",
+    "abbreviation": "STM",
+    "location": "St Mirren",
+    "color": "000000",
+    "alternateColor": "10d5f8",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/250.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/250.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  }
+]

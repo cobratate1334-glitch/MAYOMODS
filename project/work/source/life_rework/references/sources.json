@@ -1,0 +1,189 @@
+[
+  {
+    "key": "nfl",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams?limit=1000",
+    "read": true,
+    "teams": 32
+  },
+  {
+    "key": "nba",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams?limit=1000",
+    "read": true,
+    "teams": 30
+  },
+  {
+    "key": "wnba",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/wnba/teams?limit=1000",
+    "read": true,
+    "teams": 15
+  },
+  {
+    "key": "nhl",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/hockey/nhl/teams?limit=1000",
+    "read": true,
+    "teams": 32
+  },
+  {
+    "key": "mlb",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/teams?limit=1000",
+    "read": true,
+    "teams": 30
+  },
+  {
+    "key": "epl",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/teams?limit=1000",
+    "read": true,
+    "teams": 20
+  },
+  {
+    "key": "laliga",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/teams?limit=1000",
+    "read": true,
+    "teams": 20
+  },
+  {
+    "key": "bundesliga",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/teams?limit=1000",
+    "read": true,
+    "teams": 18
+  },
+  {
+    "key": "seriea",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/teams?limit=1000",
+    "read": true,
+    "teams": 20
+  },
+  {
+    "key": "ligue1",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/teams?limit=1000",
+    "read": true,
+    "teams": 18
+  },
+  {
+    "key": "brazil",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/bra.1/teams?limit=1000",
+    "read": true,
+    "teams": 20
+  },
+  {
+    "key": "mls",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.1/teams?limit=1000",
+    "read": true,
+    "teams": 30
+  },
+  {
+    "key": "ufc",
+    "url": "https://www.ufc.com/athletes/all",
+    "read": true,
+    "sha256": "f82746e9ff2b3d9b951f0aacbb8b52792d66314a4122f1f406db4e95fbafac18"
+  },
+  {
+    "key": "wwi",
+    "url": "https://www.iwm.org.uk/history/what-you-need-to-know-about-the-first-world-war",
+    "read": false,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "wwii",
+    "url": "https://www.iwm.org.uk/history/what-you-need-to-know-about-the-second-world-war",
+    "read": false,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "normandy",
+    "url": "https://www.nam.ac.uk/explore/d-day",
+    "read": true,
+    "sha256": "b07c147bb29f4197f648fb831e2a5eeff2298e5331708231a38ee04221dff70a"
+  },
+  {
+    "key": "scotland",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/sco.1/teams?limit=1000",
+    "read": true,
+    "teams": 12
+  },
+  {
+    "key": "nrl",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/rugby-league/3/teams?limit=1000",
+    "read": true,
+    "teams": 19
+  },
+  {
+    "key": "superleague",
+    "url": "https://www.thesportsdb.com/api/v1/json/3/search_all_teams.php?l=Rugby%20Super%20League",
+    "read": false,
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "key": "volleyball",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/volleyball/womens-college-volleyball/teams?limit=1000",
+    "read": true,
+    "teams": 359
+  },
+  {
+    "url": "https://www.nam.ac.uk/explore/d-day",
+    "read": true,
+    "sha256": "b07c147bb29f4197f648fb831e2a5eeff2298e5331708231a38ee04221dff70a",
+    "reference_snippets": [
+      " D-Day D-Day, 6 June 1944, marked the start of the Allied invasion of Normandy, the greatest amphibious operation in history. Codenamed Overlord, this vast cross-Channe",
+      " order to defeat Nazi Germany during the Second World War. They chose Normandy as the location for the D-Day landings, despite the Calais area offering a much shorter C",
+      "hannel crossing. Normandy had excellent landing beaches, was less fortified than Calais and was still within fighte",
+      "alais. Their aim was to reduce the flow of German reinforcements into Normandy. These plans included double agents spreading false information, heavy bombing of the Cal",
+      " Command was established to manage the multi-national force bound for Normandy. US General Dwight Eisenhower was Supreme Commander. He oversaw all air, land and sea uni",
+      "3am Open fire Naval forces begin to bombard German defences along the Normandy coast. 6 June / 6.30am H-Hour The American invasion force arrives at their landing zones."
+    ]
+  },
+  {
+    "url": "https://encyclopedia.ushmm.org/content/en/article/world-war-ii-in-europe",
+    "read": true,
+    "sha256": "c4b2280d82c7fbf1e2c88449572b1fbf2c17cbc17d1f24e88c10c7d66e9f9123",
+    "reference_snippets": [
+      " World War II in Europe | Holocaust Encyclopedia (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime",
+      "le:normal} Skip to main content Menu Must Reads \u25be Introduction to the Holocaust What Were Ghettos During the Holocaust? Euthanasia Program and Aktion T4 Warsaw Sobibor D",
+      "nded resources and topics if you have limited time to teach about the Holocaust ID Cards Explore the ID Cards to learn more about personal experiences during the Holocau",
+      "lore a timeline of events that occurred before, during, and after the Holocaust. Audio Narrations Explore all content with human-read audio versions. Must Reads Introduc",
+      "tion to the Holocaust What Were Ghettos During the Holocaust? Euthanasia Program and Aktion T4 Warsaw Sobibor Denmark What Groups of People did the Na",
+      "ion: A Form of Nazi Persecution About this site Close menu Search the Holocaust Encyclopedia Enter your search term here Content types All categories \u25be Animated Map Arti"
+    ]
+  },
+  {
+    "url": "https://www.nationalww2museum.org/students-teachers/student-resources/research-starters/research-starters-worldwide-deaths-world-war",
+    "read": true,
+    "sha256": "d302aeef3e6962242c450630e66c018feae75afffdf92b04236d7f20db25d960",
+    "reference_snippets": []
+  },
+  {
+    "url": "https://www.theworldwar.org/learn/about-wwi",
+    "read": false,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.ufc.com/athlete/jon-jones",
+    "read": true,
+    "use": "film-room biography reference; original in-game fighters and records retained"
+  },
+  {
+    "url": "https://www.ufc.com/athlete/alex-pereira",
+    "read": true,
+    "use": "film-room biography reference; original in-game fighters and records retained"
+  },
+  {
+    "url": "https://www.ufc.com/athlete/islam-makhachev",
+    "read": true,
+    "use": "film-room biography reference; original in-game fighters and records retained"
+  },
+  {
+    "url": "https://www.ufc.com/athlete/conor-mcgregor",
+    "read": true,
+    "use": "film-room biography reference; original in-game fighters and records retained"
+  },
+  {
+    "url": "https://www.ufc.com/athlete/zhang-weili",
+    "read": true,
+    "use": "film-room biography reference; original in-game fighters and records retained"
+  },
+  {
+    "url": "https://www.ufc.com/athlete/valentina-shevchenko",
+    "read": true,
+    "use": "film-room biography reference; original in-game fighters and records retained"
+  }
+]

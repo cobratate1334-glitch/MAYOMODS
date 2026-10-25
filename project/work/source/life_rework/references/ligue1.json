@@ -1,0 +1,550 @@
+[
+  {
+    "id": "172",
+    "displayName": "AJ Auxerre",
+    "shortDisplayName": "Auxerre",
+    "abbreviation": "AUX",
+    "location": "AJ Auxerre",
+    "color": "ffffff",
+    "alternateColor": "1a1a1a",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/172.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "174",
+    "displayName": "AS Monaco",
+    "shortDisplayName": "Monaco",
+    "abbreviation": "MON",
+    "location": "AS Monaco",
+    "color": "E91514",
+    "alternateColor": "004c37",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/174.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "7868",
+    "displayName": "Angers",
+    "shortDisplayName": "Angers",
+    "abbreviation": "ANG",
+    "location": "Angers",
+    "color": "1a1a1a",
+    "alternateColor": "ffffff",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/7868.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "6997",
+    "displayName": "Brest",
+    "shortDisplayName": "Brest",
+    "abbreviation": "BRE",
+    "location": "Brest",
+    "color": "ef2f24",
+    "alternateColor": "ffffff",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/6997.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "3236",
+    "displayName": "Le Havre AC",
+    "shortDisplayName": "Le Havre AC",
+    "abbreviation": "HAC",
+    "location": "Le Havre AC",
+    "color": "011F68",
+    "alternateColor": "ededed",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/3236.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "2697",
+    "displayName": "Le Mans",
+    "shortDisplayName": "Le Mans",
+    "abbreviation": "MNS",
+    "location": "Le Mans",
+    "color": "d62b11",
+    "alternateColor": "d62b11",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "175",
+    "displayName": "Lens",
+    "shortDisplayName": "Lens",
+    "abbreviation": "RCL",
+    "location": "Lens",
+    "color": "E91514",
+    "alternateColor": "004c37",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/175.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "166",
+    "displayName": "Lille",
+    "shortDisplayName": "Lille",
+    "abbreviation": "LILL",
+    "location": "Lille",
+    "color": "c2051b",
+    "alternateColor": "e2d3d7",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/166.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "273",
+    "displayName": "Lorient",
+    "shortDisplayName": "Lorient",
+    "abbreviation": "LOR",
+    "location": "Lorient",
+    "color": "f46100",
+    "alternateColor": "1a1a1a",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/273.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "167",
+    "displayName": "Lyon",
+    "shortDisplayName": "Lyon",
+    "abbreviation": "LYON",
+    "location": "Lyon",
+    "color": "ffffff",
+    "alternateColor": "1a1a1a",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/167.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "176",
+    "displayName": "Marseille",
+    "shortDisplayName": "Marseille",
+    "abbreviation": "OLM",
+    "location": "Marseille",
+    "color": "ffffff",
+    "alternateColor": "011F68",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/176.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "2502",
+    "displayName": "Nice",
+    "shortDisplayName": "Nice",
+    "abbreviation": "NICE",
+    "location": "Nice",
+    "color": "ef2f24",
+    "alternateColor": "e2d3d7",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/2502.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "6851",
+    "displayName": "Paris FC",
+    "shortDisplayName": "Paris FC",
+    "abbreviation": "PAR",
+    "location": "Paris FC",
+    "color": "000000",
+    "alternateColor": "000000",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/6851.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "160",
+    "displayName": "Paris Saint-Germain",
+    "shortDisplayName": "PSG",
+    "abbreviation": "PSG",
+    "location": "Paris Saint-Germain",
+    "color": "011F68",
+    "alternateColor": "ffffff",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/160.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "169",
+    "displayName": "Stade Rennais",
+    "shortDisplayName": "Rennes",
+    "abbreviation": "REN",
+    "location": "Stade Rennais",
+    "color": "ef2f24",
+    "alternateColor": "ffffff",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/169.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "180",
+    "displayName": "Strasbourg",
+    "shortDisplayName": "Strasbourg",
+    "abbreviation": "STR",
+    "location": "Strasbourg",
+    "color": "0000bf",
+    "alternateColor": "ffffff",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/180.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "179",
+    "displayName": "Toulouse",
+    "shortDisplayName": "Toulouse",
+    "abbreviation": "TOU",
+    "location": "Toulouse",
+    "color": "560080",
+    "alternateColor": "ffff00",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/179.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  },
+  {
+    "id": "170",
+    "displayName": "Troyes",
+    "shortDisplayName": "Troyes",
+    "abbreviation": "TRY",
+    "location": "Troyes",
+    "color": "0000bf",
+    "alternateColor": "fafafc",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/170.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      }
+    ]
+  }
+]

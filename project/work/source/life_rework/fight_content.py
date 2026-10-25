@@ -1,0 +1,17 @@
+"""Scouting and weigh-ins inside the existing fighter's gym."""
+import json
+
+def build(a,base):
+ from life_rework.content import p,scene,menu,seq,set_,inc,fun
+ a.prop('FightWeighAge',-1,-1,999);a.prop('FightScoutingAge',-1,-1,999)
+ parent=menu('genesis_rework_fight_camp')
+ a.page('fight_weigh','Camp weigh-in','Choose a weight class, then check your current body weight. A successful weigh-in improves your native stamina. The original league still handles your opponents and record.',[
+ ('Step on the scales',a.outcome('fight_weighed','Completed the camp weigh-in within your selected class limit. Your native stamina improved.',parent,[set_('FightWeighAge','<hero:age>'),inc('FightPrep',6)],native=23,adult=True,extra=((f'({p("FightJoined")} != 1)',scene('fight_join_first')),(f'({p("FightDivision")} == 0) || (<GFC.life_v18.Weight> > {p("FightWeight")})',scene('fight_overweight')),(f'({p("FightWeighAge")} >= <hero:age>)',scene('rest'))))),('Choose a class',scene('fight_divisions')),('Back',parent)],'mayomods1104/ufc',stats=[('Your weight · kg','<GFC.life_v18.Weight>'),('Class limit · kg',p('FightWeight'))])
+ a.page('fight_overweight','Check your class','Choose a class that fits your current weight. You can train and recover without forcing a weight cut.',[('Choose another class',scene('fight_divisions')),('Back',parent)],'flex')
+ profiles=[('Jon Jones','Wrestling, range and distance control. Study how patient preparation can change a fight.'),('Alex Pereira','Kickboxing and measured striking. Study timing, footwork and calm decision-making.'),('Islam Makhachev','Wrestling and submission grappling. Study balanced training and positional awareness.'),('Conor McGregor','Boxing, distance and promotion. Separate useful preparation from the pressure of a fight week.'),('Zhang Weili','Striking, wrestling and conditioning. Study a balanced camp and recovery plan.'),('Valentina Shevchenko','Muay Thai, counter-striking and experience. Study patient preparation and controlled pacing.')]
+ for i,(name,body)in enumerate(profiles):
+  a.page('fight_profile'+str(i),name,body,[('Study this fighter',a.outcome('fight_study'+str(i),'Studied '+name+' and adjusted your camp plan. Your native technique and toughness improved.',parent,[set_('FightScoutingAge','<hero:age>'),inc('FightPrep',7)],native=24,adult=True,extra=((f'({p("FightJoined")} != 1)',scene('fight_join_first')),(f'({p("Year")} < 2020)',scene('fight_archive_locked')),(f'({p("FightScoutingAge")} >= <hero:age>)',scene('rest'))))),('Back to scouting',scene('fight_scout'+str(i//3)))],'mayomods1104/ufc')
+ for group in range(2):
+  a.page('fight_scout'+str(group),'UFC film room','Choose a real fighter to study. This is a modern reference archive for your camp. Your original Fight Club opponents remain in the native league roster.',[(profiles[i][0],scene('fight_profile'+str(i)))for i in range(group*3,group*3+3)]+[('More fighters'if group==0 else'Back',scene('fight_scout1')if group==0 else parent)],'mayomods1104/ufc')
+ a.page('fight_archive_locked','A modern film archive','This archive opens in 2020. Use your gym’s original coaches and local opponents in earlier eras.',[('Back to gym',parent)],'flex')
+ d=json.loads(a.assets['genesis_rework_fight_camp']);d['Title']='Fight Club · training camp';d['Items']+=[a.tile('Weigh-in','fight_weigh','mayomods1104/ufc','Check your class against your current weight'),a.tile('UFC film room','fight_scout0','mayomods1104/ufc','Study fighters and improve native attributes')];a.assets['genesis_rework_fight_camp']=json.dumps(d,indent=2)

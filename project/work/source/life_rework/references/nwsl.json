@@ -1,0 +1,2418 @@
+[
+  {
+    "id": "21422",
+    "displayName": "Angel City FC",
+    "shortDisplayName": "Angel City",
+    "abbreviation": "LA",
+    "location": "Angel City FC",
+    "color": "202121",
+    "alternateColor": "898c8f",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/21422.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/21422.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/eb5e8916-df58-3680-8887-f53dc54462bf/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/eb5e8916-df58-3680-8887-f53dc54462bf/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/eb5e8916-df58-3680-8887-f53dc54462bf/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/eb5e8916-df58-3680-8887-f53dc54462bf/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/eb5e8916-df58-3680-8887-f53dc54462bf/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/eb5e8916-df58-3680-8887-f53dc54462bf/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/eb5e8916-df58-3680-8887-f53dc54462bf/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/eb5e8916-df58-3680-8887-f53dc54462bf/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/eb5e8916-df58-3680-8887-f53dc54462bf/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/eb5e8916-df58-3680-8887-f53dc54462bf/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/eb5e8916-df58-3680-8887-f53dc54462bf/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/eb5e8916-df58-3680-8887-f53dc54462bf/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "22187",
+    "displayName": "Bay FC",
+    "shortDisplayName": "Bay",
+    "abbreviation": "BAY",
+    "location": "Bay FC",
+    "color": "ff5049",
+    "alternateColor": "0d2032",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/22187.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/22187.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/9ae7c32e-031a-3a69-bba5-c69b721d5529/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/9ae7c32e-031a-3a69-bba5-c69b721d5529/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/9ae7c32e-031a-3a69-bba5-c69b721d5529/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/9ae7c32e-031a-3a69-bba5-c69b721d5529/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/9ae7c32e-031a-3a69-bba5-c69b721d5529/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/9ae7c32e-031a-3a69-bba5-c69b721d5529/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/9ae7c32e-031a-3a69-bba5-c69b721d5529/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/9ae7c32e-031a-3a69-bba5-c69b721d5529/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/9ae7c32e-031a-3a69-bba5-c69b721d5529/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/9ae7c32e-031a-3a69-bba5-c69b721d5529/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/9ae7c32e-031a-3a69-bba5-c69b721d5529/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/9ae7c32e-031a-3a69-bba5-c69b721d5529/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "131562",
+    "displayName": "Boston Legacy FC",
+    "shortDisplayName": "Boston",
+    "abbreviation": "BOS",
+    "location": "Boston Legacy FC",
+    "color": "00FF00",
+    "alternateColor": "000000",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/131562.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/131562.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/763d05f6-2fba-3b67-ac90-59f4f897c0ef/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/763d05f6-2fba-3b67-ac90-59f4f897c0ef/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/763d05f6-2fba-3b67-ac90-59f4f897c0ef/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/763d05f6-2fba-3b67-ac90-59f4f897c0ef/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/763d05f6-2fba-3b67-ac90-59f4f897c0ef/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/763d05f6-2fba-3b67-ac90-59f4f897c0ef/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/763d05f6-2fba-3b67-ac90-59f4f897c0ef/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/763d05f6-2fba-3b67-ac90-59f4f897c0ef/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/763d05f6-2fba-3b67-ac90-59f4f897c0ef/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/763d05f6-2fba-3b67-ac90-59f4f897c0ef/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/763d05f6-2fba-3b67-ac90-59f4f897c0ef/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/763d05f6-2fba-3b67-ac90-59f4f897c0ef/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "15360",
+    "displayName": "Chicago Stars FC",
+    "shortDisplayName": "Chicago",
+    "abbreviation": "CHI",
+    "location": "Chicago Stars FC",
+    "color": "c7102e",
+    "alternateColor": "3AB5E8",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/15360.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/15360.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/7bb105b8-0e9e-c233-4c25-a730fe5034b4/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/7bb105b8-0e9e-c233-4c25-a730fe5034b4/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/7bb105b8-0e9e-c233-4c25-a730fe5034b4/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/7bb105b8-0e9e-c233-4c25-a730fe5034b4/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/7bb105b8-0e9e-c233-4c25-a730fe5034b4/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/7bb105b8-0e9e-c233-4c25-a730fe5034b4/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/7bb105b8-0e9e-c233-4c25-a730fe5034b4/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/7bb105b8-0e9e-c233-4c25-a730fe5034b4/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/7bb105b8-0e9e-c233-4c25-a730fe5034b4/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/7bb105b8-0e9e-c233-4c25-a730fe5034b4/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/7bb105b8-0e9e-c233-4c25-a730fe5034b4/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/7bb105b8-0e9e-c233-4c25-a730fe5034b4/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "131563",
+    "displayName": "Denver Summit FC",
+    "shortDisplayName": "Denver",
+    "abbreviation": "DEN",
+    "location": "Denver Summit FC",
+    "color": "20604E",
+    "alternateColor": "E4B83E",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/131563.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/131563.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/8ec18dae-c269-33f7-9705-764ffd3ee86d/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/8ec18dae-c269-33f7-9705-764ffd3ee86d/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/8ec18dae-c269-33f7-9705-764ffd3ee86d/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/8ec18dae-c269-33f7-9705-764ffd3ee86d/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/8ec18dae-c269-33f7-9705-764ffd3ee86d/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/8ec18dae-c269-33f7-9705-764ffd3ee86d/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/8ec18dae-c269-33f7-9705-764ffd3ee86d/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/8ec18dae-c269-33f7-9705-764ffd3ee86d/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/8ec18dae-c269-33f7-9705-764ffd3ee86d/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/8ec18dae-c269-33f7-9705-764ffd3ee86d/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/8ec18dae-c269-33f7-9705-764ffd3ee86d/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/8ec18dae-c269-33f7-9705-764ffd3ee86d/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "15364",
+    "displayName": "Gotham FC",
+    "shortDisplayName": "Gotham",
+    "abbreviation": "GFC",
+    "location": "Gotham FC",
+    "color": "a9f1fd",
+    "alternateColor": "000000",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/15364.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/15364.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/39fc3225-8ec6-3dce-f7a7-f1b3874e1d82/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/39fc3225-8ec6-3dce-f7a7-f1b3874e1d82/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/39fc3225-8ec6-3dce-f7a7-f1b3874e1d82/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/39fc3225-8ec6-3dce-f7a7-f1b3874e1d82/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/39fc3225-8ec6-3dce-f7a7-f1b3874e1d82/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/39fc3225-8ec6-3dce-f7a7-f1b3874e1d82/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/39fc3225-8ec6-3dce-f7a7-f1b3874e1d82/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/39fc3225-8ec6-3dce-f7a7-f1b3874e1d82/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/39fc3225-8ec6-3dce-f7a7-f1b3874e1d82/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/39fc3225-8ec6-3dce-f7a7-f1b3874e1d82/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/39fc3225-8ec6-3dce-f7a7-f1b3874e1d82/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/39fc3225-8ec6-3dce-f7a7-f1b3874e1d82/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "17346",
+    "displayName": "Houston Dash",
+    "shortDisplayName": "Houston",
+    "abbreviation": "HOU",
+    "location": "Houston Dash",
+    "color": "ff6900",
+    "alternateColor": "8ab7e9",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/17346.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/17346.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c03373f0-6e04-f591-711d-fe6464645b3d/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c03373f0-6e04-f591-711d-fe6464645b3d/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c03373f0-6e04-f591-711d-fe6464645b3d/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c03373f0-6e04-f591-711d-fe6464645b3d/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c03373f0-6e04-f591-711d-fe6464645b3d/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c03373f0-6e04-f591-711d-fe6464645b3d/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c03373f0-6e04-f591-711d-fe6464645b3d/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c03373f0-6e04-f591-711d-fe6464645b3d/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c03373f0-6e04-f591-711d-fe6464645b3d/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c03373f0-6e04-f591-711d-fe6464645b3d/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c03373f0-6e04-f591-711d-fe6464645b3d/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c03373f0-6e04-f591-711d-fe6464645b3d/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "20907",
+    "displayName": "Kansas City Current",
+    "shortDisplayName": "Kansas City",
+    "abbreviation": "KC",
+    "location": "Kansas City Current",
+    "color": "cf3339",
+    "alternateColor": "62cbc9",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/20907.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/20907.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/fe4c7049-0000-3c2d-9e33-926cf8b95cad/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/fe4c7049-0000-3c2d-9e33-926cf8b95cad/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/fe4c7049-0000-3c2d-9e33-926cf8b95cad/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/fe4c7049-0000-3c2d-9e33-926cf8b95cad/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/fe4c7049-0000-3c2d-9e33-926cf8b95cad/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/fe4c7049-0000-3c2d-9e33-926cf8b95cad/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/fe4c7049-0000-3c2d-9e33-926cf8b95cad/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/fe4c7049-0000-3c2d-9e33-926cf8b95cad/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/fe4c7049-0000-3c2d-9e33-926cf8b95cad/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/fe4c7049-0000-3c2d-9e33-926cf8b95cad/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/fe4c7049-0000-3c2d-9e33-926cf8b95cad/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/fe4c7049-0000-3c2d-9e33-926cf8b95cad/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "15366",
+    "displayName": "North Carolina Courage",
+    "shortDisplayName": "North Carolina",
+    "abbreviation": "NC",
+    "location": "North Carolina Courage",
+    "color": "ab0033",
+    "alternateColor": "00416b",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/15366.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/15366.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/6c755f7c-e52a-9693-7b4c-67a86440fe8f/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/6c755f7c-e52a-9693-7b4c-67a86440fe8f/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/6c755f7c-e52a-9693-7b4c-67a86440fe8f/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/6c755f7c-e52a-9693-7b4c-67a86440fe8f/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/6c755f7c-e52a-9693-7b4c-67a86440fe8f/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/6c755f7c-e52a-9693-7b4c-67a86440fe8f/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/6c755f7c-e52a-9693-7b4c-67a86440fe8f/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/6c755f7c-e52a-9693-7b4c-67a86440fe8f/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/6c755f7c-e52a-9693-7b4c-67a86440fe8f/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/6c755f7c-e52a-9693-7b4c-67a86440fe8f/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/6c755f7c-e52a-9693-7b4c-67a86440fe8f/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/6c755f7c-e52a-9693-7b4c-67a86440fe8f/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "18206",
+    "displayName": "Orlando Pride",
+    "shortDisplayName": "Orlando",
+    "abbreviation": "ORL",
+    "location": "Orlando Pride",
+    "color": "c5b5f2",
+    "alternateColor": "14002f",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/18206.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/18206.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/d4367787-d754-24d5-1cef-c9186323a7f7/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/d4367787-d754-24d5-1cef-c9186323a7f7/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/d4367787-d754-24d5-1cef-c9186323a7f7/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/d4367787-d754-24d5-1cef-c9186323a7f7/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/d4367787-d754-24d5-1cef-c9186323a7f7/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/d4367787-d754-24d5-1cef-c9186323a7f7/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/d4367787-d754-24d5-1cef-c9186323a7f7/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/d4367787-d754-24d5-1cef-c9186323a7f7/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/d4367787-d754-24d5-1cef-c9186323a7f7/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/d4367787-d754-24d5-1cef-c9186323a7f7/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/d4367787-d754-24d5-1cef-c9186323a7f7/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/d4367787-d754-24d5-1cef-c9186323a7f7/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "15362",
+    "displayName": "Portland Thorns FC",
+    "shortDisplayName": "Portland",
+    "abbreviation": "POR",
+    "location": "Portland Thorns FC",
+    "color": "000000",
+    "alternateColor": "99242B",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/15362.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/15362.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/897eb0b5-b40b-7f3e-4d71-e08c3de1e6cc/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/897eb0b5-b40b-7f3e-4d71-e08c3de1e6cc/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/897eb0b5-b40b-7f3e-4d71-e08c3de1e6cc/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/897eb0b5-b40b-7f3e-4d71-e08c3de1e6cc/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/897eb0b5-b40b-7f3e-4d71-e08c3de1e6cc/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/897eb0b5-b40b-7f3e-4d71-e08c3de1e6cc/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/897eb0b5-b40b-7f3e-4d71-e08c3de1e6cc/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/897eb0b5-b40b-7f3e-4d71-e08c3de1e6cc/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/897eb0b5-b40b-7f3e-4d71-e08c3de1e6cc/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/897eb0b5-b40b-7f3e-4d71-e08c3de1e6cc/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/897eb0b5-b40b-7f3e-4d71-e08c3de1e6cc/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/897eb0b5-b40b-7f3e-4d71-e08c3de1e6cc/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "20905",
+    "displayName": "Racing Louisville FC",
+    "shortDisplayName": "Louisville",
+    "abbreviation": "LOU",
+    "location": "Racing Louisville FC",
+    "color": "c5b5f2",
+    "alternateColor": "14002f",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/20905.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/20905.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c5aee291-1d8c-3c3d-afbf-c9871c6daf93/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c5aee291-1d8c-3c3d-afbf-c9871c6daf93/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c5aee291-1d8c-3c3d-afbf-c9871c6daf93/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c5aee291-1d8c-3c3d-afbf-c9871c6daf93/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c5aee291-1d8c-3c3d-afbf-c9871c6daf93/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c5aee291-1d8c-3c3d-afbf-c9871c6daf93/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c5aee291-1d8c-3c3d-afbf-c9871c6daf93/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c5aee291-1d8c-3c3d-afbf-c9871c6daf93/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c5aee291-1d8c-3c3d-afbf-c9871c6daf93/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c5aee291-1d8c-3c3d-afbf-c9871c6daf93/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c5aee291-1d8c-3c3d-afbf-c9871c6daf93/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/c5aee291-1d8c-3c3d-afbf-c9871c6daf93/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "21423",
+    "displayName": "San Diego Wave FC",
+    "shortDisplayName": "San Diego",
+    "abbreviation": "SD",
+    "location": "San Diego Wave FC",
+    "color": "032e62",
+    "alternateColor": "21c6d9",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/21423.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/21423.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/3d1f002c-e61d-3381-841e-d97ba9500733/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/3d1f002c-e61d-3381-841e-d97ba9500733/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/3d1f002c-e61d-3381-841e-d97ba9500733/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/3d1f002c-e61d-3381-841e-d97ba9500733/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/3d1f002c-e61d-3381-841e-d97ba9500733/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/3d1f002c-e61d-3381-841e-d97ba9500733/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/3d1f002c-e61d-3381-841e-d97ba9500733/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/3d1f002c-e61d-3381-841e-d97ba9500733/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/3d1f002c-e61d-3381-841e-d97ba9500733/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/3d1f002c-e61d-3381-841e-d97ba9500733/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/3d1f002c-e61d-3381-841e-d97ba9500733/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/3d1f002c-e61d-3381-841e-d97ba9500733/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "15363",
+    "displayName": "Seattle Reign FC",
+    "shortDisplayName": "Seattle",
+    "abbreviation": "SEA",
+    "location": "Seattle Reign FC",
+    "color": "292431",
+    "alternateColor": "2e407a",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/15363.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/15363.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/63228e4d-b7c4-e7f8-e0f3-da6e9b233f8f/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/63228e4d-b7c4-e7f8-e0f3-da6e9b233f8f/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/63228e4d-b7c4-e7f8-e0f3-da6e9b233f8f/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/63228e4d-b7c4-e7f8-e0f3-da6e9b233f8f/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/63228e4d-b7c4-e7f8-e0f3-da6e9b233f8f/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/63228e4d-b7c4-e7f8-e0f3-da6e9b233f8f/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/63228e4d-b7c4-e7f8-e0f3-da6e9b233f8f/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/63228e4d-b7c4-e7f8-e0f3-da6e9b233f8f/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/63228e4d-b7c4-e7f8-e0f3-da6e9b233f8f/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/63228e4d-b7c4-e7f8-e0f3-da6e9b233f8f/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/63228e4d-b7c4-e7f8-e0f3-da6e9b233f8f/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/63228e4d-b7c4-e7f8-e0f3-da6e9b233f8f/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "19141",
+    "displayName": "Utah Royals",
+    "shortDisplayName": "Utah",
+    "abbreviation": "UTA",
+    "location": "Utah Royals",
+    "color": "ae122a",
+    "alternateColor": "fdb71a",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/19141.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/19141.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/814eaeee-f824-8d92-b4ef-01a4e1683978/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/814eaeee-f824-8d92-b4ef-01a4e1683978/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/814eaeee-f824-8d92-b4ef-01a4e1683978/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/814eaeee-f824-8d92-b4ef-01a4e1683978/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/814eaeee-f824-8d92-b4ef-01a4e1683978/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/814eaeee-f824-8d92-b4ef-01a4e1683978/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/814eaeee-f824-8d92-b4ef-01a4e1683978/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/814eaeee-f824-8d92-b4ef-01a4e1683978/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/814eaeee-f824-8d92-b4ef-01a4e1683978/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/814eaeee-f824-8d92-b4ef-01a4e1683978/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/814eaeee-f824-8d92-b4ef-01a4e1683978/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/814eaeee-f824-8d92-b4ef-01a4e1683978/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  },
+  {
+    "id": "15365",
+    "displayName": "Washington Spirit",
+    "shortDisplayName": "Washington",
+    "abbreviation": "WAS",
+    "location": "Washington Spirit",
+    "color": "000000",
+    "alternateColor": "ede939",
+    "logos": [
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/15365.png",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 500,
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/15365.png",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "width": 500
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/ceb0544b-1663-0efa-3eab-383896a3f48b/logos/primary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/ceb0544b-1663-0efa-3eab-383896a3f48b/logos/primary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/ceb0544b-1663-0efa-3eab-383896a3f48b/logos/primary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/ceb0544b-1663-0efa-3eab-383896a3f48b/logos/primary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/ceb0544b-1663-0efa-3eab-383896a3f48b/logos/primary_logo_black.png",
+        "rel": [
+          "full",
+          "primary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/ceb0544b-1663-0efa-3eab-383896a3f48b/logos/primary_logo_white.png",
+        "rel": [
+          "full",
+          "primary_logo_white"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/ceb0544b-1663-0efa-3eab-383896a3f48b/logos/secondary_logo_on_white_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/ceb0544b-1663-0efa-3eab-383896a3f48b/logos/secondary_logo_on_black_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/ceb0544b-1663-0efa-3eab-383896a3f48b/logos/secondary_logo_on_primary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/ceb0544b-1663-0efa-3eab-383896a3f48b/logos/secondary_logo_on_secondary_color.png",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/ceb0544b-1663-0efa-3eab-383896a3f48b/logos/secondary_logo_black.png",
+        "rel": [
+          "full",
+          "secondary_logo_black"
+        ],
+        "width": 4096
+      },
+      {
+        "alt": "",
+        "height": 4096,
+        "href": "https://a.espncdn.com/guid/ceb0544b-1663-0efa-3eab-383896a3f48b/logos/secondary_logo_white.png",
+        "rel": [
+          "full",
+          "secondary_logo_white"
+        ],
+        "width": 4096
+      }
+    ]
+  }
+]

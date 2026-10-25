@@ -1,0 +1,28 @@
+{
+  "requested": [
+    "Portrait lifetime and cache repair",
+    "Genetics hub icons, shorter labels, stable preview/save/cancel",
+    "Country and parent height repair",
+    "Stable varied NPC traits and inherited conditions",
+    "1900/1940/1960/1980/2000/2010/2020 era rules",
+    "Era vehicles, hairstyles, hats and platform restrictions",
+    "Reddit community and MayoMods developer branding",
+    "Launcher, LOG and packs presentation",
+    "School bullying, fights, exams and friendships",
+    "Parole and house arrest",
+    "One recording studio and meaningful production",
+    "Storm/tsunami/volcano field careers",
+    "Sports coach and team manager careers",
+    "Expand original Fight Club; remove Fighter circuit",
+    "Football/basketball/soccer actions and real team artwork",
+    "Military service, conscription and presidential war decisions",
+    "Country/year WWI/WWII events, losses and minigames",
+    "Native/content/UI/package regression checks and signed APK"
+  ],
+  "status": "signed_candidate_delivered",
+  "phone_acceptance": "pending",
+  "APK_version_code": 1104,
+  "source_limits": "README.md",
+  "download": "https://gofile.io/d/CQx1KLm7",
+  "APK_sha256": "0f492b86c9efd47a1b5ce096cf75afc39c63e41ade111a5e049aab90564be6ba"
+}

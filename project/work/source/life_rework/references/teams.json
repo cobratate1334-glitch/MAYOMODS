@@ -1,0 +1,5010 @@
+[
+  {
+    "index": 1001,
+    "league": 1000,
+    "name": "Arizona Cardinals",
+    "old_name": "Arizona <Swallows/Scorpions/Dry Heat/Red Birdies/Haboobs/Wasps/Tumbleweeds>",
+    "source_id": "22",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.08695652173913,
+    "image_sha256": "fbd8abfc027851c388c4bfdd3c9c203d02b92e2f72a832f91018891eb004944f",
+    "pixel_sha256": "b7fdf200900d6124b386e4148ad9dc0d4a448828f7b358535fd04c62f1f7288d",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1002,
+    "league": 1000,
+    "name": "Atlanta Falcons",
+    "old_name": "Atlanta <Pelicans/Buzzards/Predators/Falconers/Vultures>",
+    "source_id": "1",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.66666666666667,
+    "image_sha256": "650c19f7fd89cb4c10285793d9a702adc4e7ecf153b77ba31ca1d1853bb018eb",
+    "pixel_sha256": "ba6c8dcf3e554e9d1ea22f7fe05a9037158897bcda07f49c7a33987f2db836c0",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1003,
+    "league": 1000,
+    "name": "Baltimore Ravens",
+    "old_name": "Baltimore <Ravers/Crows/Baddies/Ray Rays>",
+    "source_id": "33",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.5,
+    "image_sha256": "2e6d5409ea9b18821576aabd8630cc33f1b8a5f156af8fa99a34cfdaedbd246d",
+    "pixel_sha256": "7e0dadf8131b4cd6776be7dd18480238b40dd5e6ddba1897ad22cf9662966407",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1004,
+    "league": 1000,
+    "name": "Buffalo Bills",
+    "old_name": "Buffalo <Wills/Boomers/Billy Goats/Bulls/Buffalos/Bisons>",
+    "source_id": "2",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.36842105263158,
+    "image_sha256": "9e3b74dea2cb9a7f9cc451459ae2cc31b3e87c1d20fd9bc90bbf60659506563a",
+    "pixel_sha256": "264f6945fc0585e1d26b93dec51fc16b2156d1d25726110f9af0377d08b6a4a9",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1005,
+    "league": 1000,
+    "name": "Carolina Panthers",
+    "old_name": "Carolina <Calicos/Prancers/Cats/T'Challas/Pumas/Painters>",
+    "source_id": "29",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.66666666666667,
+    "image_sha256": "9bc420a6dedd64ef618cd3e2171ba4b51141bb361b80f45d642accc8d6d9d255",
+    "pixel_sha256": "0639ede5d1ae023252728f8f24f7a1a3a0769681435a20be547dee5cd14eeb75",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1006,
+    "league": 1000,
+    "name": "Cincinnati Bengals",
+    "old_name": "Cincinnati <Bungles/Bangs/Bangers/Tigers/Wildcats>",
+    "source_id": "4",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.4074074074074,
+    "image_sha256": "e5b396c348bfd4aa4777e2b0f1a9a380e0438646cb5e9f082d7ccf5914cd04bc",
+    "pixel_sha256": "f19aafa087970e8b26e5dcfa584fca0ea589d824e6066ff1842e6e0ce615e8a4",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1007,
+    "league": 1000,
+    "name": "Chicago Bears",
+    "old_name": "Chicago <Teddies/Brrrrs/Bad News/Pandas/Bars/Beers/Boars/Monsters>",
+    "source_id": "3",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.36842105263158,
+    "image_sha256": "cf69065a3a3e17a2d95e9787a7a1b4d4b28e0a47ee863cde540394fd81de32a8",
+    "pixel_sha256": "a18ead2a4cec62d8fec14b31c1324a9e191019fd7682d5d5636038e9e50dbf23",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1008,
+    "league": 1000,
+    "name": "Cleveland Browns",
+    "old_name": "Cleveland <Oranges/Downs/Rocks/Brownies/Meat Cleavers/Dogs/Underdogs>",
+    "source_id": "5",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.5,
+    "image_sha256": "dae04882165afaa9b70027c6b6ec41030d99d8174357be7780af44ac9d3292f6",
+    "pixel_sha256": "9dbeb3647f378fdcb5527ffd875636357b7f14358b6f91135407b8ead775b3dc",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1009,
+    "league": 1000,
+    "name": "Dallas Cowboys",
+    "old_name": "Dallas <Buckaroos/Cowpies/Wranglers/Dogs/Drovers/Cows/Big Boys>",
+    "source_id": "6",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.3157894736842,
+    "image_sha256": "4cd5f222281ba307f88dafa7b44f6efaa3850e0f8ebb5bb06bbdfd06546e9ce6",
+    "pixel_sha256": "eac59f155cc5613e2e48183ed46d5cb66b110ad460a6892ba82903c274afb7b1",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1010,
+    "league": 1000,
+    "name": "Denver Broncos",
+    "old_name": "Denver <Mustangs/Donkeys/Horses/Elways/Mile Highs/Crush/Ponies>",
+    "source_id": "7",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.3157894736842,
+    "image_sha256": "609a0b3415244be6627773e0e8b9fd4f2e7ce20bd3265e36b1c3358c51173fb0",
+    "pixel_sha256": "796e4e0f5d6e1717062c9dc3c160334f74cf06b9ad84dd1b96c34d4a36ce9c17",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1011,
+    "league": 1000,
+    "name": "Detroit Lions",
+    "old_name": "Detroit <Manes/Kittens/Leos/Pylons/Ligers>",
+    "source_id": "8",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.36842105263158,
+    "image_sha256": "df373f9738ddf6005d1066439b5eccf702565105c8c4f5ec7c5db3615d57c41b",
+    "pixel_sha256": "c5e438ed0dfd25f50ab667308487433981d363a191ca33e285ad8040c4801567",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1012,
+    "league": 1000,
+    "name": "Green Bay Packers",
+    "old_name": "Green Bay <Baggers/Toppers/Wackers/Cheesies/Cheddars/Sackers/Hackers>",
+    "source_id": "9",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.95652173913044,
+    "image_sha256": "fcc355b5128c0bc921bc4bf5d23a9eaa54748cc1bd6d39575e65c9612241a0db",
+    "pixel_sha256": "34e0362ccd36875ca11e873ee7749210fcf997e4dafc32e7219448be2cc79b2d",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1013,
+    "league": 1000,
+    "name": "Houston Texans",
+    "old_name": "Houston <Americans/Textiles/Houstonians/Houstonites/Southerners/Big Hats/Ranchers>",
+    "source_id": "34",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.0,
+    "image_sha256": "726dfc0a667e74d1739d6c9a5627585038c1d224be7339860456a0a24de55171",
+    "pixel_sha256": "da2a0be2a30bbe58678c25c5519154254b526e4330720e112fba425935b751d8",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1014,
+    "league": 1000,
+    "name": "Indianapolis Colts",
+    "old_name": "Indianapolis <Fillies/Bolts/Clots/Foals/Stallions/Bolts>",
+    "source_id": "11",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "reference": "ESPN public team API",
+    "matching_score": 78.27586206896552,
+    "image_sha256": "9b7b138941d338f0ec63070888efaea6f139619651c8abaa00434dc2029a2049",
+    "pixel_sha256": "506deee84e85f62ad25189c2aa9bb236f89edace7c9d42403a932536350e0d77",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1015,
+    "league": 1000,
+    "name": "Kansas City Chiefs",
+    "old_name": "Kansas City <Karens/Colonizers/Queefs/Bosses/Captains/Kief>",
+    "source_id": "12",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.6923076923077,
+    "image_sha256": "ed96b44dd2678ad4097327a059be5935d8533be33d89470261bb75afa624a2fe",
+    "pixel_sha256": "5878a24e952c0f0b6e4fe8e8cbcf09f3726f026b1887868414905d62e8faadf2",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1016,
+    "league": 1000,
+    "name": "Los Angeles Chargers",
+    "old_name": "Los Angeles <Joggers/Thunderbolts/Lightning/Thunder/Batteries/Smog/Traffic>",
+    "source_id": "24",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.14285714285714,
+    "image_sha256": "7f61f49c8d56443a610d910049e4c137d542d16713d4ea87ecf1b84c4a4dbf21",
+    "pixel_sha256": "3fb79c25a49afb33d1d82c73a56366a7a4684c4cf9e23e6077a5cff3c1d6c2f2",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1017,
+    "league": 1000,
+    "name": "Los Angeles Rams",
+    "old_name": "Los Angeles <Rims/Lambs/Sheep/Stars/Goats>",
+    "source_id": "14",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+    "reference": "ESPN public team API",
+    "matching_score": 78.33333333333333,
+    "image_sha256": "82da8bc83a8230ab0925268ba45d3c4b7f9abd573e558bf0aeb6f5e4d0359d2b",
+    "pixel_sha256": "ea0144c6c215fb571ec02ee5a282a859149f4e8fce94f670ab65bdd5b17db9cc",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1018,
+    "league": 1000,
+    "name": "Jacksonville Jaguars",
+    "old_name": "Jacksonville <Leopards/Jackers/Jackwagons/Jigsaws/Jackhammers/Jacks>",
+    "source_id": "30",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.74193548387098,
+    "image_sha256": "c0bd4235d87e6cd5ecb162fd981137212d444fb7b78ed2c3751a0f1eaeda3e2d",
+    "pixel_sha256": "adcb296d64bdbb66835e482a5d4a6ce70585b5721b484a6697fe302036e561e5",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1019,
+    "league": 1000,
+    "name": "Miami Dolphins",
+    "old_name": "Miami <Sharks/Porpoises/Minnows/Manatees/Marinos/Dorsal Fins>",
+    "source_id": "15",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+    "reference": "ESPN public team API",
+    "matching_score": 75.55555555555556,
+    "image_sha256": "ad360ce2db8293f6341f12ecb6611acfa8d6809a70b3c98c977d3dbb34e2f744",
+    "pixel_sha256": "8a86d94eb8a8cd1539d92d171c8c9b55b361bb3735d35a3fe6be18e753a20cb0",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1020,
+    "league": 1000,
+    "name": "Minnesota Vikings",
+    "old_name": "Minnesota <People Eaters/Purple People/Kings/Moss/Sky Kings/High Kings>",
+    "source_id": "16",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.2,
+    "image_sha256": "3185109c988c9dc09d6c366f7ae8e96af898a13e399c4356cf3ac6a82056ed51",
+    "pixel_sha256": "2814111611cfe54c5c1682958054d391b2889f8fbcd4f4531a839891388fbb11",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1021,
+    "league": 1000,
+    "name": "New England Patriots",
+    "old_name": "New England <Deflatriots/Patties/Tea Parties/Hoodies/Cheetahs/Dynasty>",
+    "source_id": "17",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.14285714285714,
+    "image_sha256": "aae8c50d2da004a8eef6b55295e0d47153e3a9541cb6637b569b38a8311da43d",
+    "pixel_sha256": "65a65524a01ba2efe02ddea462d8887945a5d1f4938d64e1bfb1184722ad0c9f",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1022,
+    "league": 1000,
+    "name": "New Orleans Saints",
+    "old_name": "New Orleans <Diablos/Santos/Sinners/Spies/Devils/Jazz/Aints>",
+    "source_id": "18",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.6923076923077,
+    "image_sha256": "ec77cbaa7ae215db032ceded2e05fdb8254c9f871d72375f7fd6b7771dffce73",
+    "pixel_sha256": "a90f4b14dd3b6fe86433bcd21a3e9eeee444475d6a8f4d0cbb7a7c4f7e171973",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1023,
+    "league": 1000,
+    "name": "New York Giants",
+    "old_name": "New York <Empires/Biggies/Ogres/Blues/G's>",
+    "source_id": "19",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.0,
+    "image_sha256": "ee063f95c732f5f15bdc4f1fc876c36836abe837beb0cab675845d5172e6e58d",
+    "pixel_sha256": "24c56139d066029578483b054f435f15a36aa959cdb22e3b71e103f8f49112f1",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1024,
+    "league": 1000,
+    "name": "New York Jets",
+    "old_name": "New York <Planes/Props/Aviators/Gliders/Joes/Pets/Vets/Forgets>",
+    "source_id": "20",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.77777777777777,
+    "image_sha256": "c2e943419e09376f9fc9e6d2eadbfae7d8dc839591951a7a1715895662506ec7",
+    "pixel_sha256": "813b10d6f7338291237eb35e88752cd57e61ea1b186a2d2511b4579bcc485ace",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1025,
+    "league": 1000,
+    "name": "Las Vegas Raiders",
+    "old_name": "Las Vegas <Burglars/Roiders/Traitors/Pirates/Gamblers/Dealers/Loungers/Bandits>",
+    "source_id": "13",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.95652173913044,
+    "image_sha256": "e43b4de2c0b15dd02260b0bcc7190238b2e9baa3af89a3888f6ba06747df9edd",
+    "pixel_sha256": "404ab7fb210f7b54e1c1d57f9005d2332553b8ef2915e053a17c7e19b64c3eca",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1026,
+    "league": 1000,
+    "name": "Philadelphia Eagles",
+    "old_name": "Philadelphia <Warblers/Tweeters/Beagles/Regals/Turkeys/Freedom>",
+    "source_id": "21",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+    "reference": "ESPN public team API",
+    "matching_score": 78.0,
+    "image_sha256": "ea2c357532efcf95d19c97eda45203a2eb0555794ebaeb5a613036e3e9e9fdc8",
+    "pixel_sha256": "8e65a64ce6fb0ef1945f99c5df84e126a763d76d6dfa7a73a696bd5db516182c",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1027,
+    "league": 1000,
+    "name": "San Francisco 49ers",
+    "old_name": "San Francisco <96ers/69ers/Rainbows/Gold Diggers/Miners/Prospectors/Homeless/Tenderloins/Silicon>",
+    "source_id": "25",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+    "reference": "ESPN public team API",
+    "matching_score": 78.27586206896552,
+    "image_sha256": "aa1a46408116ee4923460d57a0ac6c4026daaabbdaade3a5bf8b09621d1f5c7c",
+    "pixel_sha256": "600cb2341c47bfa4ae27a7f1037a5e440115ccfa12bb8c3c8b17ea8c88695460",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1028,
+    "league": 1000,
+    "name": "Seattle Seahawks",
+    "old_name": "Seattle <Seagulls/Sasquatch/Chickenhawks/Starbucks/Wokies/Freeze/12th Men/Tech/Chop/Amazons>",
+    "source_id": "26",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.36363636363636,
+    "image_sha256": "329ee9b378c60195f095777cb9118bf6a9f5651a101da5911076e72dae17f106",
+    "pixel_sha256": "86fa8290dc22d86ded06e11f17a6b26bd0f4595d245449db783d0b0aa3eb08ec",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1029,
+    "league": 1000,
+    "name": "Pittsburgh Steelers",
+    "old_name": "Pittsburgh <Thieves/Rust/Squealers/Iron Curtains/Meat Curtains/Blitzers/Welders/Titanium/Forgers>",
+    "source_id": "23",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.14285714285714,
+    "image_sha256": "1bc272878a87f1b08847f0fb848c2a262738cfc08b0c865a9a49630e2f927cc1",
+    "pixel_sha256": "cca800047bb5dbc651bbe5c6e0c9366709c377c1fd1fb5bfaa5040443e5de282",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1030,
+    "league": 1000,
+    "name": "Tampa Bay Buccaneers",
+    "old_name": "Tampa Bay <Poopdeckers/Buckos/Mateys/Galleons/Long Cannons>",
+    "source_id": "27",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.15384615384616,
+    "image_sha256": "d02410128a6123d0bc38248126205050fdfd093c336716b88a82d78667f0d6e3",
+    "pixel_sha256": "31d82f1b7e90c085b5863ba44d08831ec7074a617b3af5694e6e9c14c477fb80",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1031,
+    "league": 1000,
+    "name": "Tennessee Titans",
+    "old_name": "Tennessee <Behemoths/Dwarves/Trains/Gladiators/Smokeys/Whiskey/Titties>",
+    "source_id": "10",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.5,
+    "image_sha256": "550205f8bca6bd298b28fc49b7278bf64938a61d55d53eb18fa92d378604e6d1",
+    "pixel_sha256": "7ee1b7149ab501894320af6e8391e133020e758b7ba03b06e1cb44f124ec28a2",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 1032,
+    "league": 1000,
+    "name": "Washington Commanders",
+    "old_name": "Washington <Potato Skins/White Collars/Colonizers/Football Club/Memorials/Politics>",
+    "source_id": "28",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.66666666666667,
+    "image_sha256": "dccd578b0dad1d87296e3b3aebf667af71014b4b2e1907dd57e324b21440935e",
+    "pixel_sha256": "93fea7984040d7590635c566e3bc4b2add8764030c6e1e386a06f561e7086e40",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2001,
+    "league": 2000,
+    "name": "Atlanta Hawks",
+    "old_name": "Atlanta <Hooters/Loons/Hockers/Fowl/Hawt Guys/Talons>",
+    "source_id": "1",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.36842105263158,
+    "image_sha256": "b9bb0f69907d066e563c843ffea3453b3cb451f3a83ec664373fbca326a1815c",
+    "pixel_sha256": "89f8203868981757bdaeb140ff6566b3944f3899d788f2aea96785aad5d2eaea",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2002,
+    "league": 2000,
+    "name": "Boston Celtics",
+    "old_name": "Boston <Leprechauns/Kilts/Limes/Birds/Beans/Pubs/Irish/Clovers/Bagpipes/Shamrocks>",
+    "source_id": "2",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.3157894736842,
+    "image_sha256": "fb362b690c7ea7480995f743740c84e527f9a300f5f71cdd62865aa4973ff8ef",
+    "pixel_sha256": "56289ab69a983ecb21078488036eeb95c51f16d5a8b5388304242a32e1b27e5e",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2003,
+    "league": 2000,
+    "name": "Charlotte Hornets",
+    "old_name": "Charlotte <Horny Toads/Honeys/Honey Bees/Wasps/Charlatans>",
+    "source_id": "30",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.2,
+    "image_sha256": "82d6ff995ed8dac90cd1330744682bcc956ea50535747d8d12f729271bcaa952",
+    "pixel_sha256": "ee1e124ff20f12b0ec66156a602b51009ab36dbcb1be083ec9c242f7d79f8a3c",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2004,
+    "league": 2000,
+    "name": "Chicago Bulls",
+    "old_name": "Chicago <Balls/Jordans/Jordanaires/Cows/Steers>",
+    "source_id": "4",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.36842105263158,
+    "image_sha256": "b4f3c37a88cfb9e4b1b381ec2e4664c401b976bec8945af7fd929fb022460f4a",
+    "pixel_sha256": "9ee4e10ab9784cd0a9f82f1a8b1a3a561ff368f7b144bd7e29bb0156e6f4a1b9",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2005,
+    "league": 2000,
+    "name": "Cleveland Cavaliers",
+    "old_name": "Cleveland <Calves/Veals/Shanks/Royalists/Dragoons/Carabiners/Cavalry/Kings>",
+    "source_id": "5",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.66666666666667,
+    "image_sha256": "ebe36746a0484c7061e92e355f76ac720046fba44b5c51c3044cce9bceb6ef93",
+    "pixel_sha256": "1654fbd7a3475b453284bbefd4f186aa0f860023ec05452144c4151ffef88e72",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2006,
+    "league": 2000,
+    "name": "Detroit Pistons",
+    "old_name": "Detroit <Grinders/Motors/Bad Men/Gearheads>",
+    "source_id": "8",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.66666666666667,
+    "image_sha256": "af9d5fc30f8827850d8a431124378fc995618738196961bea242e7c57edf9c83",
+    "pixel_sha256": "0c31bec533acc6597a4db6e23cd004c7f19fec2fb8812f20930a1cda64789719",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2007,
+    "league": 2000,
+    "name": "Indiana Pacers",
+    "old_name": "Indiana <Pacemakers/Racers/Tracers/Gremlins>",
+    "source_id": "11",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.0,
+    "image_sha256": "f7becb8cfe2228b4c701f0ae8b2da8b23a60c64229163a3129d54b94ed7fb9ee",
+    "pixel_sha256": "564be311c85f95f0ecd1787a0daae0ac3c4a107b04938edef2e132177cbcbce1",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2008,
+    "league": 2000,
+    "name": "Miami Heat",
+    "old_name": "Miami <Humidity/Mizers/Meat/Tropics/Miracles/Bitizens/BitGods>",
+    "source_id": "14",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.14285714285714,
+    "image_sha256": "2d64b758a7e5530e4142ed4454dba4d610060ee79604089ef6e8907907a0530f",
+    "pixel_sha256": "9f4ae769d156f8807ebaaeea4c41004fbbeb6ef33a9197abde6b759c0fe2a2cd",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2009,
+    "league": 2000,
+    "name": "Milwaukee Bucks",
+    "old_name": "Milwaukee <Stags/Buckaroos/Walkers/Blizzard/Dollars/Ducks>",
+    "source_id": "15",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.82608695652173,
+    "image_sha256": "aa980915d186eabbf6bd22a07bdf89968dceb6ed318f3edb2c2a41e13c80010d",
+    "pixel_sha256": "af4f535102c189725e74a204f45ea7e96492c46ffd4fe60cb8030323651d48c2",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2010,
+    "league": 2000,
+    "name": "Brooklyn Nets",
+    "old_name": "Brooklyn <Nuts/Nots/Chestnuts/Bets/Bricks/Rims/Backboards>",
+    "source_id": "17",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "a21c02d3607dd3a235bc778a3413d97a9b5dd387dcc8873065aa24c2db79f4d4",
+    "pixel_sha256": "031c341bc2a7dc8983b2000691717b4213554ff010441941fc41e49825963c5f",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2011,
+    "league": 2000,
+    "name": "New York Knicks",
+    "old_name": "New York <Knickers/Snickers/Bankers/Gardens/Pants>",
+    "source_id": "18",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.0,
+    "image_sha256": "0cd7ee303917911de62cd5198c23abcfc4d3e66bdf811f38f8edd001bd5abc36",
+    "pixel_sha256": "b1bb3877a59fb6250ff71f1b031e4a89ed25ad0a75d55918060a9d3bf676a441",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2012,
+    "league": 2000,
+    "name": "Orlando Magic",
+    "old_name": "Orlando <Spell/Sorcery/Soothsayers/Swamp>",
+    "source_id": "19",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.36842105263158,
+    "image_sha256": "0465c72236661f21b6fb7dd9270c96c1b9c2c7a7e2ad9f2fbb22022157d95bf0",
+    "pixel_sha256": "07dc90ff3f4f469159764b1eeb87a7fadb42ddee1639cde5e526562a90fbdcef",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2013,
+    "league": 2000,
+    "name": "Philadelphia 76ers",
+    "old_name": "Philadelphia <69ers/Cheesesteaks/Bells>",
+    "source_id": "20",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
+    "reference": "ESPN public team API",
+    "matching_score": 78.27586206896552,
+    "image_sha256": "29b917b969947d3fdc97100d8b4c2d081a5888274ef3cc6549979a54aaa16e83",
+    "pixel_sha256": "8a0fcfe0828a055cc919200a979a1896561a81b53c996657857df3746e4bd5bb",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2014,
+    "league": 2000,
+    "name": "Toronto Raptors",
+    "old_name": "Toronto <T-Rexes/Talons/Dinosaurs/Dinos/Rappers>",
+    "source_id": "28",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.66666666666667,
+    "image_sha256": "8d8e7350daef61b9e0c56490a1703ef2f60ee12f6bea3459814ab09372bf7c2a",
+    "pixel_sha256": "f923b1d85bf548b65ecc7e1e0b346263102df7d994166f3ef58505ec7e622936",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2015,
+    "league": 2000,
+    "name": "Washington Wizards",
+    "old_name": "Washington <Magicians/Blizzards/Sorcerers/Lizards/Gizzards>",
+    "source_id": "27",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.4074074074074,
+    "image_sha256": "fab5a7d07ab87f26fb97435e5bc7d9b3816acbd8062b751621c4b3760c337396",
+    "pixel_sha256": "28e356a96833237f948de1a7d90cc60009eed0b85ab752cfb11ad19d12498ba3",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2016,
+    "league": 2000,
+    "name": "Dallas Mavericks",
+    "old_name": "Dallas <Gooses/Mavens/Top Guns/Ricks/Assassins>",
+    "source_id": "6",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+    "reference": "ESPN public team API",
+    "matching_score": 75.71428571428571,
+    "image_sha256": "aae9bdf3b6d6bf95ba8163485b6dc9cec43595a8457a992c4d6c099a8611901a",
+    "pixel_sha256": "c0b72fe1ededd42abe62ed23fcd6b710c85636f785b60fc0b9008844b1e5780a",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2017,
+    "league": 2000,
+    "name": "Denver Nuggets",
+    "old_name": "Denver <Nugs/Buds/Blunts/High/Gold>",
+    "source_id": "7",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.3157894736842,
+    "image_sha256": "28c5bca82e7f13699baa2859f23e35230c8ae4614987deca761bcda6745b4c6a",
+    "pixel_sha256": "db669de9e5834b515688af9a57a9f7404eb3a0d266b1488967411fa9162e9877",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2018,
+    "league": 2000,
+    "name": "Golden State Warriors",
+    "old_name": "Golden State <Fighters/Worriers/Brawlers/Beaters/Splash>",
+    "source_id": "9",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.33333333333333,
+    "image_sha256": "39cffa0559c13ae92450fec964b9c3d474c03efca47aac71b2c7c22d89225688",
+    "pixel_sha256": "c1bae3ed927aff0dff3c66cbf8aaa948f159b54e5c201657defd2cac24e0fffa",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2019,
+    "league": 2000,
+    "name": "Houston Rockets",
+    "old_name": "Houston <Beards/Rackets/Missiles/Blasters/Sprockets/Gears>",
+    "source_id": "10",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.66666666666667,
+    "image_sha256": "16e80fdc95bf0b952ae7a045ad84b2a431644834cfc2b9a4cec680d0d30ce948",
+    "pixel_sha256": "b8e4933a69d658756b8449c5397d5442f14a222ab587f3b176d6416058009315",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2020,
+    "league": 2000,
+    "name": "LA Clippers",
+    "old_name": "Los Angeles <Clappers/Flippers/Nipplers/Kippers/Dippers>",
+    "source_id": "12",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "db98e06eb97c76a09fb855dc1ca66392ff6c3432ca340e4d88a34da2496683cb",
+    "pixel_sha256": "a9c1670184e86cc6d29be06298bbf0e355b85e60efa98ecaf2215bb738e22850",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2021,
+    "league": 2000,
+    "name": "Los Angeles Lakers",
+    "old_name": "Los Angeles <Lickers/Flakers/Bakers/Rakers/Lagoons/Mambas>",
+    "source_id": "13",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "0765aa055801865415d3e024ceacf54ea369893feeec1b6d656a8de695411fd9",
+    "pixel_sha256": "f4d2812dfa677c2b156dd2888edccb4e27c66428c23c18c273c36526c3027a75",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2022,
+    "league": 2000,
+    "name": "Memphis Grizzlies",
+    "old_name": "Memphis <Gristle/Yogis/Honeybears/Blues>",
+    "source_id": "29",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.08695652173913,
+    "image_sha256": "e1a18d0b1f116e619c64a19771f9758057f46318e5b1bfd0ddb1dc5e88201eb5",
+    "pixel_sha256": "b94b2a95c598d880f0bd00776dfdb1f1d01098b109ed2b9cc7f62edc4ea51c62",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2023,
+    "league": 2000,
+    "name": "Minnesota Timberwolves",
+    "old_name": "Minnesota <Howlers/Lumberdogs/Trees/Lakes>",
+    "source_id": "16",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.0,
+    "image_sha256": "81373a62d52087b9b0c04120a1ef504415506e19e70aaa1b7a347a1b6d097e19",
+    "pixel_sha256": "a6a747efb709881df9431af7e25a315901e33b6cd944768d103d2d1887567943",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2024,
+    "league": 2000,
+    "name": "New Orleans Pelicans",
+    "old_name": "New Orleans <Pelotons/Pellets/Gumbo/Beignets/Tromboners>",
+    "source_id": "3",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.14285714285714,
+    "image_sha256": "b6d1747d29beebd65bf26e425db0ff7f3cd70cc2f39a337a093f6f8ed4fa7275",
+    "pixel_sha256": "e4e50c2c7252c59c3c6342e6b34c73346f00eb489b8e0937c633ba4185fd2e2a",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2025,
+    "league": 2000,
+    "name": "Oklahoma City Thunder",
+    "old_name": "Oklahoma City <Tornados/Blunder/Blusters/Thundercats/Storm>",
+    "source_id": "25",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.74193548387098,
+    "image_sha256": "bf0b6138f3c8a85edcaef3500b47449955c0275736c011f6c97c4bf3536bf868",
+    "pixel_sha256": "baa868bb6b743e21ed6de947f6f842e61796275385b7c61772e647d900ea9972",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2026,
+    "league": 2000,
+    "name": "Phoenix Suns",
+    "old_name": "Phoenix <Novas/Phoenicians/Red Giants/Supergiants/Fusions/Sheriffs/Scottsdales>",
+    "source_id": "21",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.77777777777777,
+    "image_sha256": "b6a577cc15d1e7dfeb7c3c6ed8c72a1c6ceae345c9359037f122ff45892de6e3",
+    "pixel_sha256": "0ba919d52eb135d2d54283e9d59ff5166927a04ec1ad9bcd006db1426d75cc44",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2027,
+    "league": 2000,
+    "name": "Portland Trail Blazers",
+    "old_name": "Portland <420ers/Blunt Blazers/Anarchy/Smokescreens/Tokers/Weird/Peculiars/Thorns>",
+    "source_id": "22",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+    "reference": "ESPN public team API",
+    "matching_score": 75.71428571428571,
+    "image_sha256": "1a97028ea4a220ea03d1a1c4305c8c6cffc62661f1aa5957f484b4c6d712bc32",
+    "pixel_sha256": "d84a1a11116bb4b2a7387c9413014138e802509d5f907e2df5d03df0995bce0c",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2028,
+    "league": 2000,
+    "name": "Sacramento Kings",
+    "old_name": "Sacramento <Princes/Dukes/Lords/Crowns/Nobles/Sacks>",
+    "source_id": "23",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+    "reference": "ESPN public team API",
+    "matching_score": 78.0,
+    "image_sha256": "2c0e3706638da2db64a0ac7416773aec7b6067a81c38a5b5338541dd07d418ad",
+    "pixel_sha256": "b49452afe4045f431f9938672a3ad2fe7a24fc98b9625d77be6cc7353d1a4567",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2029,
+    "league": 2000,
+    "name": "San Antonio Spurs",
+    "old_name": "San Antonio <Saddles/Swish Kebabs/Boots/Dunkings/River Walkers/Alamos/Revolution>",
+    "source_id": "24",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+    "reference": "ESPN public team API",
+    "matching_score": 78.0,
+    "image_sha256": "4e869913cb1d742890c8b7231a9f6370a1970b341ec718534b32967f3fa207df",
+    "pixel_sha256": "61e375965d30cbf7293db2f7d35af9664716e9302bdcb3a22e22db95f06c80b3",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2030,
+    "league": 2000,
+    "name": "Utah Jazz",
+    "old_name": "Utah <Scat/Jizz/Symphony/Missionaries/Swingers>",
+    "source_id": "26",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.66666666666667,
+    "image_sha256": "c631e7abb757dc09eb7afb4f25df0425a3a136a67ef7ea21c61cbed7d1d93910",
+    "pixel_sha256": "7e1a58b5d389ec906a8014d195fa5c74223aa86e5fcff935cac60c44c87d5c4a",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2101,
+    "league": 2100,
+    "name": "Atlanta Dream",
+    "old_name": "Atlanta <Wet Dream/Nightmare/Stream/Cream>",
+    "source_id": "20",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/wnba/500/atl.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.36842105263158,
+    "image_sha256": "ea809012c3f4ad6f8c4a47eb44c3e27c2d275c1ef66daec48d557e3eb6a9adf8",
+    "pixel_sha256": "133239d405c0e282bfdee79bd098387199c27a1ba3bbea859768ecc216fab7c3",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2102,
+    "league": 2100,
+    "name": "Chicago Sky",
+    "old_name": "Chicago <Clouds/Atmosphere/Chicks/Fly>",
+    "source_id": "19",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/wnba/500/chi.png",
+    "reference": "ESPN public team API",
+    "matching_score": 78.23529411764706,
+    "image_sha256": "f2f4fab13c1fc4a0061434d8d246e8b4294cfb3cd903bbf7a47c66073eda6a1e",
+    "pixel_sha256": "3f2bce5db000286fa3f38f7ac205a0e487365e1af2af35a0235eb13f899603e2",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2103,
+    "league": 2100,
+    "name": "Connecticut Sun",
+    "old_name": "Connecticut <Glitter/Stars/Starlets/Superstars>",
+    "source_id": "18",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/wnba/500/con.png",
+    "reference": "ESPN public team API",
+    "matching_score": 78.8,
+    "image_sha256": "0462738115e1eac09caf40c569d3ae304871e0ccbf776b770c2a594e49db6dfd",
+    "pixel_sha256": "f772e24d14ba6e1cdbf422864c9490d033cd82f2c3c12e4d3d471bcdd0842c43",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2104,
+    "league": 2100,
+    "name": "Indiana Fever",
+    "old_name": "Indiana <Hot Flashes/Sweats/Chills/Aches>",
+    "source_id": "5",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/wnba/500/ind.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.36842105263158,
+    "image_sha256": "249313b54e0bffc1f20af4e2edc8e04acf6f4c8d1d28dddaedbe2da1f6d8c4bd",
+    "pixel_sha256": "6cd8baa3cef7302be169261a45e12adac41e32415e43fe22187acab7c6090939",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2105,
+    "league": 2100,
+    "name": "New York Liberty",
+    "old_name": "New York <Freedom/Belles/Rakes/Broads>",
+    "source_id": "9",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/wnba/500/ny.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.66666666666667,
+    "image_sha256": "3dc22427353595d8445276194e9561820548fdcd3915951aec8a5fc7d3406bf5",
+    "pixel_sha256": "c6b9a38590d164881a8552be7d01715caf25d07862bbb1a74a3de7f4e9da6a5e",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2106,
+    "league": 2100,
+    "name": "Washington Mystics",
+    "old_name": "Washington <Spirit/Witches/Shadows/Mysteries>",
+    "source_id": "16",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/wnba/500/wsh.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.4074074074074,
+    "image_sha256": "a915510d3460abc6e73f64d7f0fb2a081e63d14fd49fa3738162ece4bc636296",
+    "pixel_sha256": "4e55ad080c8f20812dff73ff814f884b402a4f4b9648348461ed0cbdb4c06fbc",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2107,
+    "league": 2100,
+    "name": "Dallas Wings",
+    "old_name": "Dallas <Red Wings/Hot Wings/Blings/Divas>",
+    "source_id": "3",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/wnba/500/dal.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.05882352941177,
+    "image_sha256": "1770d1fb1412158f45f77e19f01aadca00421c5b136df1ffcaf0ba0729dee8de",
+    "pixel_sha256": "46d637a51d83da4ae8898f09f5dfb333ae5c9e35a2e1a5067f369c49011d6005",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2108,
+    "league": 2100,
+    "name": "Las Vegas Aces",
+    "old_name": "Las Vegas <Flunkies/Showgirls/Queens/Spades/Diamonds/Bottle Rats>",
+    "source_id": "17",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/wnba/500/lv.png",
+    "reference": "ESPN public team API",
+    "matching_score": 78.0,
+    "image_sha256": "c2d4d948be86c96c3cf1b97c208eeaf104d821cbbe8500911595fb4b93a4a3e9",
+    "pixel_sha256": "23afc6e8fbfa4a47518dac42fca57b6beac3e4f2703aa26e35d565e785031527",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2109,
+    "league": 2100,
+    "name": "Los Angeles Sparks",
+    "old_name": "Los Angeles <Flickers/Sparkles/Bling/Layups/Sparklers/Models/Celebrities>",
+    "source_id": "6",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/wnba/500/la.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.6923076923077,
+    "image_sha256": "6bef78a96051852e2f7012d2bc5e58783a26037e3ff9b237698dc756e3d43c4c",
+    "pixel_sha256": "e60724c34d1d06210490e7ade78940bf0b3272990b041df5647b31f13e3e70bf",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2110,
+    "league": 2100,
+    "name": "Minnesota Lynx",
+    "old_name": "Minnesota <Licks/Minks/Cats/Lakes/Sodapop>",
+    "source_id": "8",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/wnba/500/min.png",
+    "reference": "ESPN public team API",
+    "matching_score": 78.18181818181819,
+    "image_sha256": "8c734524f67fca1a88a1c50732236edcc4b589208ff350536e274f59cc306053",
+    "pixel_sha256": "3ee4a783d180dd2a8ed2c3d2d5fcfd8ceb84be30b0abcdee1ec30c4a0a617e37",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2111,
+    "league": 2100,
+    "name": "Phoenix Mercury",
+    "old_name": "Phoenix <Mars/Venus/Galaxy/Quicksilver/Helium>",
+    "source_id": "11",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/wnba/500/phx.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.66666666666667,
+    "image_sha256": "516fece56599ca76ad175f107b39b88027de40e30c7b17fca4258400cc6d8d75",
+    "pixel_sha256": "51f8408b8fa308f563eaa1b09f5a9bcc2f99c063ab125f73cfa277d7e3e5b3d3",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 2112,
+    "league": 2100,
+    "name": "Seattle Storm",
+    "old_name": "Seattle <Downpour/Sprinkle/Hydrants/Stormies/Wind/Mist/Rain/Drizzle/Moist>",
+    "source_id": "14",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/wnba/500/sea.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.36842105263158,
+    "image_sha256": "c1018a77ffe3cdb003d43b5f2fa03fdf122c714eadc7fe25335dbe0be1c5c7df",
+    "pixel_sha256": "416fb2cb439ff89ac0f24f9d6a33ef2b2b862958cd0f5ce9bae68216aac1eee0",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3001,
+    "league": 3000,
+    "name": "Arizona Diamondbacks",
+    "old_name": "Arizona <Rattlers/Nickelbacks/Saguaros/Gila Monsters/Big Units>",
+    "source_id": "29",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/ari.png",
+    "reference": "ESPN public team API",
+    "matching_score": 75.38461538461539,
+    "image_sha256": "69c9ad80a326613a505ff679fd617de7a2cd55f707981b8b069c2978798f2690",
+    "pixel_sha256": "df843e8794eebc73e127dd0f8b4daf3e4baedc167bf32384b0339fc27f4a7808",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3002,
+    "league": 3000,
+    "name": "Atlanta Braves",
+    "old_name": "Atlanta <Cowards/Raves/Bombers/Peaches/Keys/Cobblers/Knobbers>",
+    "source_id": "15",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/atl.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.0,
+    "image_sha256": "3435b87433c83feb73917e5656c18db8440b54c2dfcbabb9cf0a3ebb7d2aeb9e",
+    "pixel_sha256": "bb237d345b04aee8844b1f749d17c9d5c8fa32328ac2948fdf6fa3d1d56dae17",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3003,
+    "league": 3000,
+    "name": "Baltimore Orioles",
+    "old_name": "Baltimore <Albatrosses/Cals/Iron Men/Blackbirds/Orgasms>",
+    "source_id": "1",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/bal.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.2,
+    "image_sha256": "ccd19b657e4ba31ac6a3c6ad86d91aa562779486830cc6bc52fbd5f1191b7b0a",
+    "pixel_sha256": "bf02eb410095bb8e2eef00015d161e3036656694ec21032975c60d373b9a420a",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3004,
+    "league": 3000,
+    "name": "Boston Red Sox",
+    "old_name": "Boston <Bloody Sox/Red Cox/High Sox/Knee Sox/Baked Beans>",
+    "source_id": "2",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/bos.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.66666666666667,
+    "image_sha256": "3ed7599b338357e3bcf7e03b725e406a9243c40239fdfa231aaa228317d1628d",
+    "pixel_sha256": "4fcf1d15737c07366ecc4fce69d4d746b3b417ab246e3b46ef86792716b4d958",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3005,
+    "league": 3000,
+    "name": "Chicago White Sox",
+    "old_name": "Chicago <Toesocks/White Cox/Kneesox/Thigh Highs/Black Sox>",
+    "source_id": "4",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/chw.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.36363636363636,
+    "image_sha256": "fa6029704119b731ce26c3b3cbf90be86eeed6e7de5c9fe5d80a65a7c6be920e",
+    "pixel_sha256": "6895b4966c441fb981a8cb209c84e8fd813987d72952cf3a467b249a909ba062",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3006,
+    "league": 3000,
+    "name": "Chicago Cubs",
+    "old_name": "Chicago <Kodiaks/Chubs/Wrigleys/Polars/Vines/Dogs>",
+    "source_id": "16",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/chc.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.77777777777777,
+    "image_sha256": "52eda8aa652572cc93125c0afc8e4f1e3f312df077af1e62069a7f684c25bb3d",
+    "pixel_sha256": "18f4467ca41fa10aba779e6cbb0e5cf9139c960ad11d6273c7263bcac3240c10",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3007,
+    "league": 3000,
+    "name": "Cincinnati Reds",
+    "old_name": "Cincinnati <Rods/Blues/Greens/Threads/Vermillions/Scarlets/Rusts>",
+    "source_id": "17",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/cin.png",
+    "reference": "ESPN public team API",
+    "matching_score": 78.33333333333333,
+    "image_sha256": "60c48dcf17df1a63c784319915fec210a2bac3c094f4b86ea59d478fdb8c06ff",
+    "pixel_sha256": "93c0f94e04670ff9b0a107b4a3c3a73c44273ea3145c122d63e51e74d25a400b",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3008,
+    "league": 3000,
+    "name": "Cleveland Guardians",
+    "old_name": "Cleveland <Satchels/Cowboys/Buckaroos/Buckers/Brokebacks/Lakes>",
+    "source_id": "5",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/cle.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.66666666666667,
+    "image_sha256": "438aa6b007fbf7642465d08ff9e51836ab829793193f9df173cd2a9aafe5cab8",
+    "pixel_sha256": "7935a2087668dabc76ca44bfee0a99afe7d71e15ea934d3e322e2b925adc7bb0",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3009,
+    "league": 3000,
+    "name": "Colorado Rockies",
+    "old_name": "Colorado <Sandies/Cockies/Stonies/Ranges/Snowcaps/Boulders/Fourteeners/Smoke>",
+    "source_id": "27",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/col.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.95652173913044,
+    "image_sha256": "e1299fdf32c448eac337088f4a2157807972727d7804640776788b70ea527cc0",
+    "pixel_sha256": "314991584228b1ceaabc9b8c51fcade3fcdf635d806fefcad9e01b732dc40795",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3010,
+    "league": 3000,
+    "name": "Detroit Tigers",
+    "old_name": "Detroit <Tires/Motorists/Assemblers/Factories/Potholes/Flats/Bikers>",
+    "source_id": "6",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/det.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.0,
+    "image_sha256": "e098457cda4f657ea3bed6821af18c532e3b77bf5eb36ddd61231e0d5eeb6594",
+    "pixel_sha256": "a578c384f391636e9764ef071e79b17913d120f154644f980c16196ea58aaebe",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3011,
+    "league": 3000,
+    "name": "Houston Astros",
+    "old_name": "Houston <Astroturfs/Nauts/Buzzers/Astrids/Boosters/Sign Stealers/Jackasses>",
+    "source_id": "18",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/hou.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.0,
+    "image_sha256": "4494e0db41e5395ecfb5ee722ea8da4a374cc7844db0a9eaa82164b8b8b724f4",
+    "pixel_sha256": "fb44bc665b99a3d47ebfdcd087b56e96abbcee0f5abfa78ed1271cc939066c19",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3012,
+    "league": 3000,
+    "name": "Kansas City Royals",
+    "old_name": "Kansas City <Commoners/Navies/Regals/Aristocrats/Sovereigns/Nobility>",
+    "source_id": "7",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/kc.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.6923076923077,
+    "image_sha256": "9827a78fcf3808c19d8ac6e60c58fa394be8609173cd7efa4070b1d82f6bb760",
+    "pixel_sha256": "12de76866a6e1f430cda78b1931c0d8b7005803556893ae2688bf36f4301d101",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3013,
+    "league": 3000,
+    "name": "Los Angeles Angels",
+    "old_name": "Los Angeles <Angelinos/Cherubs/Saviors/Guardians/Angles>",
+    "source_id": "3",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/laa.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.6923076923077,
+    "image_sha256": "47e79261ddb5306c6556a30932367ea7af6fe21b2323132e2dba86cd108e8e08",
+    "pixel_sha256": "d4db5258fb04ba1dff70b3017e8d4a18a6d9a2d2df2bffe8823e212e64cb3008",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3014,
+    "league": 3000,
+    "name": "Los Angeles Dodgers",
+    "old_name": "Los Angeles <Suckers/Rogers/Smog/Virtues/Otters/Waves/Surfers>",
+    "source_id": "19",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/lad.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.4074074074074,
+    "image_sha256": "caa3befe543d8263591b298f8d21b6d673f4fceb4aa8b88ff7a02fab51a2db5e",
+    "pixel_sha256": "66697779195794c0f204d003fa1b91d32f84118dad721e008525bf8c811d30a7",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3015,
+    "league": 3000,
+    "name": "Miami Marlins",
+    "old_name": "Miami <Carps/Monkfish/Puffers/Blowfish/Swordfish>",
+    "source_id": "28",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/mia.png",
+    "reference": "ESPN public team API",
+    "matching_score": 75.88235294117646,
+    "image_sha256": "4bdefe860d0f4488e2fe87b0ad0be070662ea748913ae7fb275072b28305e584",
+    "pixel_sha256": "b4635371c9c89dd487a1b161d4f44f9d48775c1e6d2d4e2f8f5a851ef645587d",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3016,
+    "league": 3000,
+    "name": "Milwaukee Brewers",
+    "old_name": "Milwaukee <Growers/Hops/Lagers/Stouts/Pilsners/Porters/Pints>",
+    "source_id": "8",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/mil.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.2,
+    "image_sha256": "0aebabdc9f6dcef1ba47afedf5097324f8976aebe22954e135121112d8bc6e9b",
+    "pixel_sha256": "7a46f40adbd028f101da6967edfd1e7c86b2837cdda7d9354c0ca15e8078a634",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3017,
+    "league": 3000,
+    "name": "Minnesota Twins",
+    "old_name": "Minnesota <Triplets/Doubles/Duplicates/Wins>",
+    "source_id": "9",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/min.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.82608695652173,
+    "image_sha256": "291591fe666d170af2867e202f08a01fe319b55f505adc0d35aec5e15687cece",
+    "pixel_sha256": "6024e6caf61c3b6ea2dfe5fc62c3ab97789e2ab34e4c4d527321b68eb0094574",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3018,
+    "league": 3000,
+    "name": "New York Yankees",
+    "old_name": "New York <Yankers/Bambinos/Spankees/Doodle Dandies/Bronx>",
+    "source_id": "10",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.66666666666667,
+    "image_sha256": "c548035bc1a0dc302d9270f3751bef89bc8870938b087db10c942da2b2119818",
+    "pixel_sha256": "9dacabe60223b0284866a166d8e33c80d1d26c0c6794554d24deb48bd0d2ea48",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3019,
+    "league": 3000,
+    "name": "New York Mets",
+    "old_name": "New York <Matzah Balls/Cosmos/Martinis/Galleries/Urbans/Plazas>",
+    "source_id": "21",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/nym.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.77777777777777,
+    "image_sha256": "1b294c3666665da8f67059aee3852883260a1b79c951a9f64f2690e3f7d2a8b7",
+    "pixel_sha256": "f61d0888bbde90b6204d2251ba9418f7819c5253c18f5108211cadfbef597beb",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3020,
+    "league": 3000,
+    "name": "Athletics",
+    "old_name": "Oakland <Players/Mathletics/Elms/Birches/Barks/Oaks/East Bays>",
+    "source_id": "11",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/ath.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "f1cf4bd5bfb7fef929de17f1680b52dd43c24203814171977149a5fb747d332d",
+    "pixel_sha256": "cc86fed7d3c5093e0a843230b5bc0f9ab7245a7c771d2c6023de73e8c5e3f469",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3021,
+    "league": 3000,
+    "name": "Philadelphia Phillies",
+    "old_name": "Philadelphia <Willies/Cheesecakes/Bells/Franklins/Kites/Keys/Geldings>",
+    "source_id": "22",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/phi.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.5,
+    "image_sha256": "df8fe8687cc331182f3f19b901818aab8640c13f22b437105318027143db0476",
+    "pixel_sha256": "82083b6705562cdfa94e87ad819d13300d71b097714e8a913565cac330cad402",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3022,
+    "league": 3000,
+    "name": "Pittsburgh Pirates",
+    "old_name": "Pittsburgh <Booties/Rum Runners/Sea Dogs/Scallywags/Thieves/Rogues/Pie Rats>",
+    "source_id": "23",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/pit.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.4074074074074,
+    "image_sha256": "e3dc3fbfee5712950ebd10350eaf957bff21ce416a1775bc2da21143ac411586",
+    "pixel_sha256": "729c06b8a819e4839757ef234c81c9c8b297132355004d34583e3cfea1f65f4e",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3023,
+    "league": 3000,
+    "name": "San Diego Padres",
+    "old_name": "San Diego <Priests/Altar Boys/Madres/Papals/Parents/Folks/Daddies/Sugar Daddies>",
+    "source_id": "25",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/sd.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.27272727272728,
+    "image_sha256": "33c8097dcb9c10cf35acd6c7cbd412951c5bcc6cc5a5d6547a829fcc5a127bcd",
+    "pixel_sha256": "bae444ce089c37a522a9e696586aabe49f0e76e1709107886c5790af2ca2b578",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3024,
+    "league": 3000,
+    "name": "San Francisco Giants",
+    "old_name": "San Francisco <Titanics/Steroids/Gnats/Big Boys/Towers/Beefcakes/Treats>",
+    "source_id": "26",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/sf.png",
+    "reference": "ESPN public team API",
+    "matching_score": 78.0,
+    "image_sha256": "6470806a3e4e7fa8d026162eb58eff1396f58fda732d534b9d3325932379619d",
+    "pixel_sha256": "c2d07884a6c0ff5ac3e84eba8b519cd17efc0984e812e0cc92102dcd4e22a9ab",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3025,
+    "league": 3000,
+    "name": "Seattle Mariners",
+    "old_name": "Seattle <Fishermen/Seamen/Baristas/Espressos/Grandes/Ventis>",
+    "source_id": "12",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/sea.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.36363636363636,
+    "image_sha256": "a61b1472bdd3b17ae17a856ef2e0182166fa6d1bb59f94bb0618f76d0f6c3212",
+    "pixel_sha256": "485b3077a15c69a1a981f59d8589f43fadeae58383417dac3e07a8c0bc5b8041",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3026,
+    "league": 3000,
+    "name": "St. Louis Cardinals",
+    "old_name": "St. Louis <Wrens/Jacanas/Popes/Arches/Sins/Woodpeckers>",
+    "source_id": "24",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/stl.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.08695652173913,
+    "image_sha256": "c8e6cbd7a74327a8a387e675e58d6cac032b7f26c06233e338118d0cbf873bf7",
+    "pixel_sha256": "2cdf9c1e0ed77b081829efbd2a5305a4d720a34d0c32e54990fe2637168adb2f",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3027,
+    "league": 3000,
+    "name": "Tampa Bay Rays",
+    "old_name": "Tampa Bay <Irwins/Trays/Grays/Skates/Mantas/Corals/Anemones>",
+    "source_id": "30",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/tb.png",
+    "reference": "ESPN public team API",
+    "matching_score": 78.0,
+    "image_sha256": "df34242be668879e8ca02caf65f5bb9dc8330f57e4d7a2f47f238b8cceed8777",
+    "pixel_sha256": "1121f7c04e92a76fc3615b8857c61e14dbe664aa0537b6abf88e10547692e160",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3028,
+    "league": 3000,
+    "name": "Texas Rangers",
+    "old_name": "Texas <Tumbleweeds/Wranglers/Rattlers/Panhandlers/Growers/Longhorns/Bushes>",
+    "source_id": "13",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/tex.png",
+    "reference": "ESPN public team API",
+    "matching_score": 75.88235294117646,
+    "image_sha256": "870aa4f8ecf0c5a0a044e0450ad510166d55371b4f83f4c9ff244f3e4b95b6f1",
+    "pixel_sha256": "7aaf6400922a639416a856891d30fa414cf064c3d0ef8c97e0ea225125087552",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3029,
+    "league": 3000,
+    "name": "Toronto Blue Jays",
+    "old_name": "Toronto <Blue Balls/Towers/Blue Rays>",
+    "source_id": "14",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/tor.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.36363636363636,
+    "image_sha256": "3a2c9d9a648f5b43b9cfc058f1d37d7992f49457f458cbae400bedea9729e0aa",
+    "pixel_sha256": "ec16513f16342f55588e8ef5e327ea5b7e293af11dffdb503f7075e599a65997",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 3030,
+    "league": 3000,
+    "name": "Washington Nationals",
+    "old_name": "Washington <Internationals/Politics/Filibusters/Swamp/Liars/Corruption/Walkers>",
+    "source_id": "20",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/mlb/500/wsh.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.89655172413794,
+    "image_sha256": "89024dddf0ddbeb2f596b986243052250fa06b730da616908a07e7b8d15c45b1",
+    "pixel_sha256": "8ea92d1d3b6ba21f3978d90d8d1394b9f343a15bef42669cdbdf17512b196fee",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4001,
+    "league": 4000,
+    "name": "Carolina Hurricanes",
+    "old_name": "Carolina <Cyclones/Twisters/Dust Devils/Waterspouts/Depressions/Vortices>",
+    "source_id": "7",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/car.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.15384615384616,
+    "image_sha256": "fc6314663ea43dd029653fd3d9bb33be2941f1e523146ff716714dcf69e1e12f",
+    "pixel_sha256": "6af615ad362c9d4b420a0da63194d74751c5d0b77917c05fadecbd792d457f23",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4002,
+    "league": 4000,
+    "name": "Columbus Blue Jackets",
+    "old_name": "Columbus <Yellow Jackets/Black V-Necks/Blue Collars/Blue Blazers>",
+    "source_id": "29",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/cbj.png",
+    "reference": "ESPN public team API",
+    "matching_score": 75.92592592592592,
+    "image_sha256": "ef3ac74a805229705de6c632987d90f7c1af03d4fbd540458681cffddfb4a786",
+    "pixel_sha256": "14bad0288997403ddbe57a9aa6fd3320a15d6c1ebd6cf7761de71da473e18f3e",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4003,
+    "league": 4000,
+    "name": "New Jersey Devils",
+    "old_name": "New Jersey <Demons/Hexes/Witches/Diablos/Serpents>",
+    "source_id": "11",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/nj.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.5,
+    "image_sha256": "8a93071e5f6ae1761d10cc66054fe4f79609c12df3cdab28aeaca99f550be1cc",
+    "pixel_sha256": "02426144c48b800634ccfa81dca9c5dbca7a539c2e1a190fd549dbd169fd6beb",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4004,
+    "league": 4000,
+    "name": "New York Islanders",
+    "old_name": "New York <Mainlanders/Slanders/Archipelagos/Seafarers>",
+    "source_id": "12",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/nyi.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.08695652173913,
+    "image_sha256": "b81d02d873861cde68ad4812d1d49a4e3a0353489fefbca1de0e47e0702e6e5e",
+    "pixel_sha256": "141ab7f51a2d3668d9a5b690cfce5fdd475bb32b37dd97c108b8c74a05d75a62",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4005,
+    "league": 4000,
+    "name": "New York Rangers",
+    "old_name": "New York <Ringers/Dingers/Zingers/Singers/Sopranos>",
+    "source_id": "13",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/nyr.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.66666666666667,
+    "image_sha256": "a226fb2dd5c21705b400fc16ca0429e4f0c9fcde45442c449be874f09f3c56ed",
+    "pixel_sha256": "7ef6d5abb6d385f0e5a2003780c15bdd68016a91d5856e9d36e48eeb80ac6abf",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4006,
+    "league": 4000,
+    "name": "Philadelphia Flyers",
+    "old_name": "Philadelphia <Floaters/Sinkers/Gliders/Wings/Rockys>",
+    "source_id": "15",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/phi.png",
+    "reference": "ESPN public team API",
+    "matching_score": 78.0,
+    "image_sha256": "636016a076bbd84247116cb221b97c64ba14d203a1d5725328d0839dd0a8c4b2",
+    "pixel_sha256": "f988fbe43dbe7d275f117da6f2b2c7f85e1c41f0dc3e2ab756d89dd180eadafb",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4007,
+    "league": 4000,
+    "name": "Pittsburgh Penguins",
+    "old_name": "Pittsburgh <Emperors/Macaronis/Rockhoppers/Chinstraps/Pencils>",
+    "source_id": "16",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/pit.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.14285714285714,
+    "image_sha256": "126266b369c20d48aa7159abf6bb76eb92e03139fdd4f4eef2ec7031aff82089",
+    "pixel_sha256": "ec2763e6cb1a60f55b3f196be105824cef6a5cdd9282bf782f0285d6a106d040",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4008,
+    "league": 4000,
+    "name": "Washington Capitals",
+    "old_name": "Washington <White Collars/Lowecases/Monuments/Lincolns>",
+    "source_id": "23",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/wsh.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.14285714285714,
+    "image_sha256": "431c3d04aa36222e4d2007dd143a47683db5b989bd88b9f648bbc2be33d7a314",
+    "pixel_sha256": "e408a1a755b7d4713fb835cd8626f13f34dd2a1bb16755bcd0a1a6fa72f5b547",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4009,
+    "league": 4000,
+    "name": "Boston Bruins",
+    "old_name": "Boston <Bruises/Bruisers/Bears/Ursas/Bears>",
+    "source_id": "1",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/bos.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.66666666666667,
+    "image_sha256": "89eb424942dcdd639322962dc28844d2163ea22f7a8ce762b48b0d0c37fdceec",
+    "pixel_sha256": "8ab5c291a69b4275dfdd6f934dee49c58e68861bd01fd54539b4ee8fa8818d34",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4010,
+    "league": 4000,
+    "name": "Buffalo Sabres",
+    "old_name": "Buffalo <Swords/Daggers/Knives/Hilts/Blades/Katanas>",
+    "source_id": "2",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/buf.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.0,
+    "image_sha256": "a4bed96e5886b1cf9a3fc2b27ec072085b10995097b296871934b3865de7f813",
+    "pixel_sha256": "fb8c6437a7f5072066a223373603dd2ff212fddfc77e8def543b7995bf32b6c1",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4011,
+    "league": 4000,
+    "name": "Detroit Red Wings",
+    "old_name": "Detroit <Red Flings/Pink Wings/Purple Wings/Blue Wings/Green Wings/Yellow Wings>",
+    "source_id": "5",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/det.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.36363636363636,
+    "image_sha256": "edfd10e2980624c7e8d70d68adf65cd5f6e901fad0d8bfe7a26e69897c8c2360",
+    "pixel_sha256": "9685602eeed7757beea04f4a3ddf27e92b87bb5a672e37b5859c51fb0ff56fd6",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4012,
+    "league": 4000,
+    "name": "Florida Panthers",
+    "old_name": "Florida <Panties/Panters/Painters/Cats/Night Cats/Jaguars>",
+    "source_id": "26",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/fla.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.36363636363636,
+    "image_sha256": "6c1f0a98a77d13867f3208dedea15db5b404792f3878b9abe5e5933bce10f28d",
+    "pixel_sha256": "a386822d5b07eb9a2e859a6d709f4a201092b2e6b343cb976d58c10510b82089",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4013,
+    "league": 4000,
+    "name": "Montreal Canadiens",
+    "old_name": "Montreal <Poutines/Log Drivers/Beachcombers>",
+    "source_id": "10",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/mtl.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.4,
+    "image_sha256": "bcf1e4947252067720ff17b73782bef4238296769b07ec694fd022d54630fe20",
+    "pixel_sha256": "eee755b4325c0c2d40276b8d8d1bcab99f693b49bf2779faf1fcc712781d7696",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4014,
+    "league": 4000,
+    "name": "Ottawa Senators",
+    "old_name": "Ottawa <Politics/Legislators/Parliament/Congress/Officials>",
+    "source_id": "14",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/ott.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.0,
+    "image_sha256": "e3a0e1a2765705f06836d5d97e82856a573658fe9fd7d3fcb7e943db11742d1f",
+    "pixel_sha256": "cbc06a05a4501dd35998ab8f29c329cbf2f82273a6336769d42e4f9072591bd5",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4015,
+    "league": 4000,
+    "name": "Tampa Bay Lightning",
+    "old_name": "Tampa Bay <Thunder/Crackles/Bolts/Gigajoules>",
+    "source_id": "20",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/tb.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.4,
+    "image_sha256": "4eb91b15ddefd41251729b299d3027fb97d1f32c2729a19f2e0e01d768a88787",
+    "pixel_sha256": "718a0a8fd4893ff215275af5ffb0ca35d09f3460eae8fa600b3e59adcc8663e7",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4016,
+    "league": 4000,
+    "name": "Toronto Maple Leafs",
+    "old_name": "Toronto <Treestars/Pancakes/Bay Leafs/Oak Leafs/Pine Needles/Ambers>",
+    "source_id": "21",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/tor.png",
+    "reference": "ESPN public team API",
+    "matching_score": 75.83333333333333,
+    "image_sha256": "518b6fb50937e91b42dcf23ce53a62e42710a95a2d7d4e7180eea241b30aa32c",
+    "pixel_sha256": "a6a338a8d9e0fe6dbaecde5c655b80a9748e3b00bc2c4032eaa5b815eeda8b7b",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4017,
+    "league": 4000,
+    "name": "Chicago Blackhawks",
+    "old_name": "Chicago <Black Cox/Downs/Redhawks/Falconers/Talons>",
+    "source_id": "4",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/chi.png",
+    "reference": "ESPN public team API",
+    "matching_score": 75.83333333333333,
+    "image_sha256": "f0598af1bf3e3bf0cac7b4e601ef9d9390df7910e2fc1f204806431a614d4aed",
+    "pixel_sha256": "b890d1b7089b380928b8a223c935e581a711239bf4fb32635553ea905664ffc1",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4018,
+    "league": 4000,
+    "name": "Colorado Avalanche",
+    "old_name": "Colorado <Snowdrift/Snowballs/Landslides/Snowmen/Blizzard>",
+    "source_id": "17",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/col.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.4,
+    "image_sha256": "e9a1733f2433e754f88f930a4f02985463fb89f18229c8f43f05ab784ef35865",
+    "pixel_sha256": "6b88e6bc16eea196f57c0ed883aea685e879e047341c2262062556d63e64a701",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4019,
+    "league": 4000,
+    "name": "Dallas Stars",
+    "old_name": "Dallas <Sunbeams/Sunshines/Novas/Rays/Superstars>",
+    "source_id": "9",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/dal.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.05882352941177,
+    "image_sha256": "bb2ee9f0e02095c5d3eeca99676faeac315bc529aa9f68316aa69bd1bb6381ae",
+    "pixel_sha256": "5534ed10682a4feb269085f82fdc30b7357c106f86e37302f185ce6ac4caaa6a",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4020,
+    "league": 4000,
+    "name": "Minnesota Wild",
+    "old_name": "Minnesota <Civilization/Tamers/Trackers/Ferals>",
+    "source_id": "30",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/min.png",
+    "reference": "ESPN public team API",
+    "matching_score": 78.18181818181819,
+    "image_sha256": "68f6caa439c1321b56c43ff450902d8504eb7fe231f068bf1e6e8984627bb9dd",
+    "pixel_sha256": "48a0b1485f8113af2d4313df19f2b066e1fcca4469dcbc913831221baa72a80d",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4021,
+    "league": 4000,
+    "name": "Nashville Predators",
+    "old_name": "Nashville <Preys/Singers/Country/Notes/Vanderbilts>",
+    "source_id": "27",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/nsh.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.66666666666667,
+    "image_sha256": "7e36e0a24fddaeb6ffbdc13e0c2f28262a284f39a30656bc4c0ff1a7d079a350",
+    "pixel_sha256": "fd57e370ea3c99ba0d49019778c72a9dbe02969a5ed5dedb48c525ebe42b4f96",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4022,
+    "league": 4000,
+    "name": "St. Louis Blues",
+    "old_name": "St. Louis <Rhapsodies/Greens/Raps/Booze/Lunatics>",
+    "source_id": "19",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/stl.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.36842105263158,
+    "image_sha256": "f279591f48f6cc80bd30bb2749877a111594995cad1441832b92c29a3692e246",
+    "pixel_sha256": "47758b47d94d05332dc0ede7ef5f83c854414ea921d8ba0b85d663238a818ce7",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4023,
+    "league": 4000,
+    "name": "Winnipeg Jets",
+    "old_name": "Winnipeg <Planes/Trains/Zoomers/Jacks/Turbines>",
+    "source_id": "28",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/wpg.png",
+    "reference": "ESPN public team API",
+    "matching_score": 78.0,
+    "image_sha256": "c904546c0be07d936671bea365db118e23c7b11d1b62d2f2af581f3c2a346295",
+    "pixel_sha256": "2544a6cef8e43192a642963aea3dfd5f3255ffd90169c7cec5519e14913690a3",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4024,
+    "league": 4000,
+    "name": "Anaheim Ducks",
+    "old_name": "Anaheim <Quacks/Mighties/Mallards/Ponds/Geese>",
+    "source_id": "25",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/ana.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.36842105263158,
+    "image_sha256": "717a15fa4ba2ee9629a526b2cfc460552a6fa7cd5bfdac97b38a5d625af199e1",
+    "pixel_sha256": "4eddf435d1370b7e54bd007c165b7876c5b59548e9b2f541e087d2fc08b9136a",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4025,
+    "league": 4000,
+    "name": "Utah Mammoth",
+    "old_name": "Arizona <Roadrunners/Deserts/Melters/Tumbleweeds>",
+    "source_id": "129764",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/utah.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "14d4f81363ffb67bf8f12a096badd473cba1ef9b448e4f8f581679f379c130b7",
+    "pixel_sha256": "0aeb2cd5a87b3e10e0da26b7e86a8ccf10cdf9439ce3fda6b601d6037dffc61e",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4026,
+    "league": 4000,
+    "name": "Calgary Flames",
+    "old_name": "Calgary <Sparkers/Igniters/Hotheads/Combustions/Matches/Cowboys>",
+    "source_id": "3",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/cgy.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.0,
+    "image_sha256": "4d4707572d7c910e4ee85c8fa40c7647f3c44724af3674c7789b5bce9316d882",
+    "pixel_sha256": "9eda8ea9d4aca9730f78202811c1dcee9e05bc985a5d75250167f396fa90b3d9",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4027,
+    "league": 4000,
+    "name": "Edmonton Oilers",
+    "old_name": "Edmonton <Greasers/Environmentalists/Boilers/Rigs>",
+    "source_id": "6",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/edm.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.27272727272728,
+    "image_sha256": "bceb8e66fb3e20de22d4724c010beff6dc2e312e67ea24b7f6477e1e5672e1d0",
+    "pixel_sha256": "bbfafb5a6efb4e25903c868873134c7198eb9471b648b2072023411660b64c5d",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4028,
+    "league": 4000,
+    "name": "Los Angeles Kings",
+    "old_name": "Los Angeles <Paupers/Queens/Regals/Castles/Turrets/Gretzkys>",
+    "source_id": "8",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/la.png",
+    "reference": "ESPN public team API",
+    "matching_score": 78.0,
+    "image_sha256": "882152ce389b9ea9b03eb57106a1b849c13f372b59e9298f5cdc0b68c11aeae8",
+    "pixel_sha256": "f730337352b6f46e28b9dfbe0d7a9fc33b9194bb34eaf627d54b8800b75bc9ec",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4029,
+    "league": 4000,
+    "name": "San Jose Sharks",
+    "old_name": "San Jose <Minnows/Hammerheads/Goblins/Silicon/Apples/Guppies/Jaws>",
+    "source_id": "18",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/sj.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.0,
+    "image_sha256": "9f42c0e0b546e363c2702a47fc3aa9edb71af87653c7da7d20d5d100648484a5",
+    "pixel_sha256": "d07abcd7061c6bef18be1ad7b4170f531ad5e965043cea64e5e3b8d09b32f960",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4030,
+    "league": 4000,
+    "name": "Vancouver Canucks",
+    "old_name": "Vancouver <Cucks/Beavers/Elks/Vans/Whistlers/Columbians>",
+    "source_id": "22",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/van.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.2,
+    "image_sha256": "e6554e969244f809ab43db36f92d5c2ef6da561395f6f6b2caac2aaa656daa29",
+    "pixel_sha256": "2ece98eb45aafaf3d6e3c161f122becd15982dfd110686c504d870035a7935d5",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 4031,
+    "league": 4000,
+    "name": "Vegas Golden Knights",
+    "old_name": "Las Vegas <Gamblers/Sins/Dealers/Green Knights/Silver Rooks/Red Kings>",
+    "source_id": "37",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/nhl/500/vgk.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "3d3711c8abc2dea98299a405e249460b463ed00bb84c50769d5abb2d4991fffe",
+    "pixel_sha256": "e19af2ac24e7686995718c782c822372c9307d311996d0b37142951230a50564",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5001,
+    "league": 5000,
+    "name": "Arsenal",
+    "old_name": "<Arson Hall/Gunners> FC",
+    "source_id": "359",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "22e5648a292b91dd8fb954c801e583047aec8af845ad9065a56c6daa3ddb2484",
+    "pixel_sha256": "317d8d2dcd32b90bb7a185b4374cf0a74888af09f60f31e3b04f424563d66d12",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5002,
+    "league": 5000,
+    "name": "Aston Villa",
+    "old_name": "<Aston/Villa> FC",
+    "source_id": "362",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "ea310a6b4715a143121071c6683ba99116b19a341aeedf327399a9e733c5bc4a",
+    "pixel_sha256": "c801e1b247774aea2f91ec657ddece692c7b1fa6207c129e0207379d17cc61e7",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5003,
+    "league": 5000,
+    "name": "Sunderland",
+    "old_name": "Sunderland",
+    "source_id": "366",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "31fe43fb564a5e66917abc57c069fc932d1e8bf6fb9d953f04c2aa36222c1400",
+    "pixel_sha256": "57b222bfdcb5529342f1acf2c9358203d44ae7794572d87167692a57ae321948",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5004,
+    "league": 5000,
+    "name": "Queens Park Rangers",
+    "old_name": "Queens <Park/Rangers> FC",
+    "source_id": "334",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/334.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "8a52f6ff24e42695b20774234a10c9c283184a2dced44a4e206be41096c4b22e",
+    "pixel_sha256": "657397443429b0da83ebf36c50a010e45f692648cd73029e8fa04396f339ca0c",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5005,
+    "league": 5000,
+    "name": "Chelsea",
+    "old_name": "Blues FC",
+    "source_id": "363",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "3b30535653faaaca28d5c245e44e0b58c01f98a5e56a81e06644322c3265cb6c",
+    "pixel_sha256": "01e257b4ac2740ec06d2b3a716f99510e24fe50c1688667d9922083d9a567f14",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5006,
+    "league": 5000,
+    "name": "Crystal Palace",
+    "old_name": "Palace FC",
+    "source_id": "384",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "87e11903d2a9a3b322bcd0f11a00435c89482a4acbf07adb0ff1d23af3044e29",
+    "pixel_sha256": "e3eb7c72db085d5c3521d5edd57aab067eef67998b304e00164153b4ecc7e7ee",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5007,
+    "league": 5000,
+    "name": "Everton",
+    "old_name": "<Goodison/Toffees> FC",
+    "source_id": "368",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "95856e15dffda919fa0f2fc811485c1d512637d26ae60d4ca1b2e20834960930",
+    "pixel_sha256": "3f21033c7bf78f3b130653355ab3b6850f1b14f6a5400c99986bcf98f86e56bd",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5008,
+    "league": 5000,
+    "name": "Derby County F.C.",
+    "old_name": "Derby",
+    "source_id": "wiki-derbycountyfc",
+    "badge_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/4a/Derby_County_crest.svg/330px-Derby_County_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Derby_County_F.C.",
+    "matching_score": 110.0,
+    "image_sha256": "cf2cba88811ad578ba6b84e9ab01ac3a470b9b981f50e6b0fa6b2f8941837adf",
+    "pixel_sha256": "7e9337354857c8fe3bc7b786981a0cfef90831403603cf89b50918abaa5fb546",
+    "size": [
+      192,
+      129
+    ]
+  },
+  {
+    "index": 5009,
+    "league": 5000,
+    "name": "Leeds United",
+    "old_name": "Leeds",
+    "source_id": "357",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "a8b9d4ce3562053f043d545fc44c0f1c7135c702fb6895d065068717df37e9e3",
+    "pixel_sha256": "8780bfa143f711c4d2ac2cfc8613bd243eadab4a4aa100e3f7a0e6520ea0c4ca",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5010,
+    "league": 5000,
+    "name": "Leicester City F.C.",
+    "old_name": "Leicester",
+    "source_id": "wiki-leicestercity",
+    "badge_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/330px-Leicester_City_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Leicester_City_F.C.",
+    "matching_score": 79.28571428571429,
+    "image_sha256": "cc3fe3eebe0dcf21bde64f53b58d2a8fe0c9d24eb296045bf54ee1af807a2de7",
+    "pixel_sha256": "d10bf505b9edcdba69ef1e8dca62fc20cf3b09db072e4640fe5132217d149e8d",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5011,
+    "league": 5000,
+    "name": "Liverpool",
+    "old_name": "Liverpool",
+    "source_id": "364",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "41c00c1a4f1e7bdd705120ea8153679cff1da9567d25a46bff1b62e1c55ef998",
+    "pixel_sha256": "fa4bce49778c3fe3801a95af74338c6b5c11e59c57c5f7c0cbd1b84c49b9e86b",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5012,
+    "league": 5000,
+    "name": "Manchester City",
+    "old_name": "City FC",
+    "source_id": "382",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "55bd3e0f24c97586146e7178fc9cfcc3578625141ae0c5acba481c1c76eb332d",
+    "pixel_sha256": "667e06f464b02280cecae7ab53ddb9dbc6900e2ab2d6cad9470035cb4633a356",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5013,
+    "league": 5000,
+    "name": "Manchester United",
+    "old_name": "<Manchester/United FC>",
+    "source_id": "360",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "f3eb794aea0dd156ddd84ad7c1b45dee18ab666c3b4a873047b9b86a45826bac",
+    "pixel_sha256": "48198db794322b362f4b4a199bde6509af50a969f23e776cbf05a354276f0234",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5014,
+    "league": 5000,
+    "name": "Newcastle United",
+    "old_name": "Newcastle",
+    "source_id": "361",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "da8b73f6eda66336042ba41d3eed067b2290d21f97efd411e5b8c613177233c8",
+    "pixel_sha256": "dfd6542f1f86b387cdc605d52eff4ebfb49682c6a86361ba8a6153ab230bb298",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5015,
+    "league": 5000,
+    "name": "Norwich City",
+    "old_name": "Norwich",
+    "source_id": "381",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/381.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "b3ee33cb30da7676b5ab43e6497021c2f95bdd98e1a425ac94aa9eda6098f9d2",
+    "pixel_sha256": "9524b67506102850709495c1b8f1e046f0ec15764f24a0b7f5286974eb8a977f",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5016,
+    "league": 5000,
+    "name": "Southampton",
+    "old_name": "Southampton",
+    "source_id": "376",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "166c4d95680442b9048dca9fc7eb9f209689f331ba144ce2f30c36d70154b6ee",
+    "pixel_sha256": "7afa8b0565d8a03aae94ff6ebc12cef38164f49fe34336fbc8c676a27d3c3cd1",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5017,
+    "league": 5000,
+    "name": "Tottenham Hotspur",
+    "old_name": "Tottenham",
+    "source_id": "367",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "144c38f8356a6d0c1cb68bdd8d7e1af1f15ada1fe131fd6a0856494e7c80ca8c",
+    "pixel_sha256": "004eb415dfe0b21cab5f0be1a9f80c3bde3c86506d4bb1b7de80a5dc1994fab5",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5018,
+    "league": 5000,
+    "name": "Nottingham Forest",
+    "old_name": "<Nottingham/Forest>",
+    "source_id": "393",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "b1e83cc32a83191de9302d58565604ba2dc0daef9e16d56d24ea726bca170f94",
+    "pixel_sha256": "1087e4308e55c79bef7032072537976407873a12e54a7306dd265517276f0c7a",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5019,
+    "league": 5000,
+    "name": "West Ham United",
+    "old_name": "West Ham",
+    "source_id": "371",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "69539823077b8ff2cb14281bb4a15bf1b76d50909eb52a191e14d4cf45ab05b7",
+    "pixel_sha256": "44f0cf00a2e49b3faeec35e90e71b135fa2ed2851fbe04ac38f60d508919ae2d",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5020,
+    "league": 5000,
+    "name": "Wolverhampton Wanderers",
+    "old_name": "<Wolverhampton/Wolves>",
+    "source_id": "380",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "0ed94c8b8ae8360cf86cf0217dd8a43f14e64bd20413998d01281b51af60d8c0",
+    "pixel_sha256": "ca031abb993188f27acdc3d8a498931c61d5fdf74bcd80cb721c824c06293337",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5101,
+    "league": 5100,
+    "name": "Real Zaragoza",
+    "old_name": "Zaragoza",
+    "source_id": "wiki-realzaragoza",
+    "badge_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/69/Real_Zaragoza_logo.svg/330px-Real_Zaragoza_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Real_Zaragoza",
+    "matching_score": 110.0,
+    "image_sha256": "fd643506d807f001c1ad59fa7098209c5349f9101dd3eb1cdd81db8360c5c746",
+    "pixel_sha256": "dd8bebd3a75c118ddb70a1b5f2c3f36ff815a24f60f343c8f719ee875423dd4b",
+    "size": [
+      113,
+      192
+    ]
+  },
+  {
+    "index": 5102,
+    "league": 5100,
+    "name": "Athletic Club",
+    "old_name": "Bilbao",
+    "source_id": "93",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "8282fd597697cc975bd8f6d63c249aa8a42b6fbd954ab718fe1fa6a5584e1bfd",
+    "pixel_sha256": "aaf20531353c7e8aefbe9c5af84af6165f107faa91312626921d5437bc02cd03",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5103,
+    "league": 5100,
+    "name": "Atl\u00e9tico Madrid",
+    "old_name": "Atletico",
+    "source_id": "1068",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "6707007d172e244fc324ff16a09d3356bad280a1ecd523dcc19e44859df582e4",
+    "pixel_sha256": "83136200b4fcd1c7d25356d16b8907eca4e690049bfe29cac50dd38d1bf27e52",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5104,
+    "league": 5100,
+    "name": "Barcelona",
+    "old_name": "Barcelona",
+    "source_id": "83",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "a21777e43033a450054d6279eff2a8aad70fa29e1b1bc1731ed2c83f0d044e1b",
+    "pixel_sha256": "d0ee19877ced15aee3776db2d2cfa69b0ff46cbf2e4527080988ee28520c543b",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5105,
+    "league": 5100,
+    "name": "Celta Vigo",
+    "old_name": "Vigo",
+    "source_id": "85",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "b3064c27fc1875591f48204c0cc4159e0c5ed5ca0158d9150ec60e3c84b31c2b",
+    "pixel_sha256": "b90cb3274839642d9d4a32e40d851208e8659c7935579ba450d44536ef1bc067",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5106,
+    "league": 5100,
+    "name": "Espanyol",
+    "old_name": "Espa\\361ol de F\\372tbol",
+    "source_id": "88",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "9f93c2380c993bbbf1b06f4045ccafe7bff684eb9a15f1d6751d3103458480dc",
+    "pixel_sha256": "88753d1e818c24115173bc9bdfcd43aabf24a0cde6501c32359796f55679f137",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5107,
+    "league": 5100,
+    "name": "SD Eibar",
+    "old_name": "Eibar",
+    "source_id": "wiki-sdeibar",
+    "badge_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/3b/SD_Eibar_logo_2016.svg/330px-SD_Eibar_logo_2016.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/SD_Eibar",
+    "matching_score": 110.0,
+    "image_sha256": "680ec6b516b8b2ed4e03498adda78086f4ea1b7926a618b96781eb03b3f7595a",
+    "pixel_sha256": "a20c38b9ad896e0a7ea320450dc53369b5f1e70578a7232eeeabae4aa31e78a6",
+    "size": [
+      124,
+      192
+    ]
+  },
+  {
+    "index": 5108,
+    "league": 5100,
+    "name": "Deportivo de A Coru\u00f1a",
+    "old_name": "La Coru\\361a",
+    "source_id": "wiki-deportivodelacoruna",
+    "badge_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/56/RC_Deportivo_A_Coru%C3%B1a_logo_2026.svg/330px-RC_Deportivo_A_Coru%C3%B1a_logo_2026.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Deportivo_de_A_Coru%C3%B1a",
+    "matching_score": 79.72972972972973,
+    "image_sha256": "07e1629c837caf269d3f957b18cd4270d7cf2b1ab69217a5288288ec2da603aa",
+    "pixel_sha256": "600a7292012e23331355a5c46a980ff3554659607b7852ae7bec1be257a17d35",
+    "size": [
+      157,
+      192
+    ]
+  },
+  {
+    "index": 5109,
+    "league": 5100,
+    "name": "Getafe",
+    "old_name": "Getafe",
+    "source_id": "2922",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "de72f1ba7e89bba9cbcf4b1ca5ed15422efc158e4b2baf14e8f739a0a9575f1c",
+    "pixel_sha256": "9bc39cae5ddeac2cc0fc1775c268691697cb8980e08f0089e48407dc97f2035e",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5110,
+    "league": 5100,
+    "name": "Granada CF",
+    "old_name": "Granada",
+    "source_id": "wiki-granadacf",
+    "badge_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d5/Logo_of_Granada_Club_de_F%C3%BAtbol.svg/330px-Logo_of_Granada_Club_de_F%C3%BAtbol.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Granada_CF",
+    "matching_score": 110.0,
+    "image_sha256": "df46da43527126ba048e6b07376b45a968ef11a32d847fa919276d2de5140586",
+    "pixel_sha256": "e85990b8fc32c60eff4f222e370d1a6b072ddb4b4c773019a5835c65122796f7",
+    "size": [
+      86,
+      192
+    ]
+  },
+  {
+    "index": 5111,
+    "league": 5100,
+    "name": "Mallorca",
+    "old_name": "Mallorca",
+    "source_id": "84",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/84.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "95dde4cdb02bdc136bd94dd15dc9af48ce601f07aab5cdb5e1208169d94c3a8a",
+    "pixel_sha256": "b11321a8fe3eb9b2079dbe6eeac97712111a1face965ed7b7e9905f4da7a19ee",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5112,
+    "league": 5100,
+    "name": "Levante",
+    "old_name": "Levante",
+    "source_id": "1538",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "320e47d51db6531b5c8969bf8a71ea6c853e2edd5bb8f60bb7cf10e4f96f44e1",
+    "pixel_sha256": "d5d271892edfdf8d850d66febb836ce325957199a46fa91c0cefcf163de37d2d",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5113,
+    "league": 5100,
+    "name": "Osasuna",
+    "old_name": "Pamplona",
+    "source_id": "97",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "96847d0abc2105c84952c0cd4bed8c9b947cbfdb39eb1baf1ea6c5671b88d2b8",
+    "pixel_sha256": "777f34878a6aa3b3b6af1aab0aff7501cb4e9a5776856f69346fb94817d91229",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5114,
+    "league": 5100,
+    "name": "Real Betis",
+    "old_name": "Betis",
+    "source_id": "244",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "cc42962387c895ccb4829379d5ccb822d397210eb372a5a39b59acd5628235ac",
+    "pixel_sha256": "df38ddc1e78b656a57576bbe82064e67965366dc1acee46c040a030ee6c8efcb",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5115,
+    "league": 5100,
+    "name": "Real Madrid",
+    "old_name": "<Madrid/Real>",
+    "source_id": "86",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "a4aedd3b584b0eb68f7204f4c847a2a67f5dd4f8d8a76b272b580dc81fadc460",
+    "pixel_sha256": "a93731f23d3c67e77b097842ecba2aedd441c19a8028a8cba27c2822c1bbb1d3",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5116,
+    "league": 5100,
+    "name": "Real Sociedad",
+    "old_name": "La Sociedad",
+    "source_id": "89",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "5e35545654ea062dde0a4b26554ba9d644127296c55a13f8d89134b677272ea0",
+    "pixel_sha256": "1cbb519d91e83e486fc7c2c09d135d82090ec9807d8b3a1e05abd3d39680963e",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5117,
+    "league": 5100,
+    "name": "Real Valladolid",
+    "old_name": "Valladolid",
+    "source_id": "95",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "864ddb3c3024782e3b72923d21052fba7f56d288ecf86fa51926c03b8ddbd914",
+    "pixel_sha256": "fe01bc8771de90df74bf09b083f2d50b7d875fa930261134670952d35165444b",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5118,
+    "league": 5100,
+    "name": "Sevilla",
+    "old_name": "Sevilla",
+    "source_id": "243",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "4c2e6aa61113018e4dd4b8073f8f5f2ae532b86c6aaacb4856a322ecaf380000",
+    "pixel_sha256": "e96f1db51dc2d0e84a0235dd71b407b05fdea4b8a49026e82c6b6912520aed57",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5119,
+    "league": 5100,
+    "name": "Valencia",
+    "old_name": "Valencia",
+    "source_id": "94",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "1ae855b5ea10baa0261c87eeb319d6a1cf7f1e039b13fb3330f7363a064455e4",
+    "pixel_sha256": "dfeaa7933a4b79359bcf9dacc7843a9089e989fd52adb32eb0de054b32a81f49",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5120,
+    "league": 5100,
+    "name": "Villarreal",
+    "old_name": "Villarreal",
+    "source_id": "102",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "b3b0b96041bd084b1d140dc36aa2e1838f4762e5fc633ff7ce86b7cf9450da5d",
+    "pixel_sha256": "74687f1aa14feaf366795e44b752abda15ce54adc6fe019be99622538e2ba41e",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5201,
+    "league": 5200,
+    "name": "Atalanta",
+    "old_name": "Bergamo",
+    "source_id": "105",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "8da652fc1622d1d2957dc490a00139483f0f67b7871fe33fc9a47300c4e2e917",
+    "pixel_sha256": "3cb11dde7105b8a8ea5cd50182a9934d8c2eeb4e2629ffadc11fecdc1852fdab",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5202,
+    "league": 5200,
+    "name": "Benevento Calcio",
+    "old_name": "Benevento",
+    "source_id": "wiki-beneventocalcio",
+    "badge_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/61/Benevento_Calcio_logo.svg/330px-Benevento_Calcio_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Benevento_Calcio",
+    "matching_score": 110.0,
+    "image_sha256": "f32d2fe7fa84faa03476ac54f5fe28848558564a0a45296fd243850d41b3251e",
+    "pixel_sha256": "c4e8dcd412a72cb3174ec8a23a2973c1c5a221711f01fe4f037fb7cbc72fbbd8",
+    "size": [
+      192,
+      173
+    ]
+  },
+  {
+    "index": 5203,
+    "league": 5200,
+    "name": "Bologna",
+    "old_name": "Bologna",
+    "source_id": "107",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "7c15e87bf0005470a87717e3d911d9eaf1a620be3b8ef31968bbf533a407a24a",
+    "pixel_sha256": "e2a47ea6b90aa8b03cb0ce0374e6215713c57c7af8441799611c5487776708c1",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5204,
+    "league": 5200,
+    "name": "Cagliari",
+    "old_name": "Cagliari",
+    "source_id": "2925",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "283f543d30c9594ec0a94eb97b7575440d55bc4b8cc420f0c9424ed7cfd43b18",
+    "pixel_sha256": "e8ae8b1667f1020f48ce505d088bc149fa87c594bc8be2b1bd60272e79b70d49",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5205,
+    "league": 5200,
+    "name": "Catania FC",
+    "old_name": "Catania",
+    "source_id": "wiki-cataniafc",
+    "badge_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_CATANIA_FC.svg/330px-Logo_CATANIA_FC.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Catania_FC",
+    "matching_score": 110.0,
+    "image_sha256": "77c031ad99606c17a0f7995aa4d2547616a6be08e1afd24ba4883ef27e8692d4",
+    "pixel_sha256": "d8c6dd5e7c03d187103afa875c909ea342e19c01fed4c14f86a492ade5aef726",
+    "size": [
+      128,
+      192
+    ]
+  },
+  {
+    "index": 5206,
+    "league": 5200,
+    "name": "Fiorentina",
+    "old_name": "Firenze",
+    "source_id": "109",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "a195eb9f4bf54b32a007643e7e212678bc3974bd9d88dafb14250ee4ea00c957",
+    "pixel_sha256": "dc71e3713beb950ab2b66be80f98b32b837d90cf7f2a69c2e7f81cec799ff215",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5207,
+    "league": 5200,
+    "name": "Genoa",
+    "old_name": "Genoa",
+    "source_id": "3263",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "de3c2e30a867c31d74e4e19e2d7ccc4c644c9c9446efdc6b66b7cfc9220d7151",
+    "pixel_sha256": "64bad2c2be5c9dbcec9ef6d533f4285c2cbe0602c2427235379e79197d2a881a",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5208,
+    "league": 5200,
+    "name": "Internazionale",
+    "old_name": "Inter",
+    "source_id": "110",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "5b9684d5a7835eb634da6e8498b7123fd71e85bb1bac4bee6cb3832226839a38",
+    "pixel_sha256": "5f0acb1349af247d911c7aa8016e0fbdc8d35f1434f5e853f1a1bd5d8651208a",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5209,
+    "league": 5200,
+    "name": "Juventus",
+    "old_name": "<Bianconeri/Old Lady>",
+    "source_id": "111",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "edba51d44bf39530773f900c835077a19aa5736d281360cc7aaadf3c2b399252",
+    "pixel_sha256": "0936b442e540ca184cf478f17ab236091b86192aada2c3b9b520294357b56f8b",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5210,
+    "league": 5200,
+    "name": "Lazio",
+    "old_name": "Lazio",
+    "source_id": "112",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "9431c47f4cb2d8bbe5532c89444c3ec7b08c672ab9c481edfb047e507b5f6e7b",
+    "pixel_sha256": "9dc4680866d559c6c452cbf67e397a8adc9b7b32b31c42f10cfc63c93a3e4df3",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5211,
+    "league": 5200,
+    "name": "AC Milan",
+    "old_name": "Milan",
+    "source_id": "103",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "c5a295f2e56f57dd0e521ba37c33a782d4b60a3c2726979cc21a64900e5a4935",
+    "pixel_sha256": "ec478f556aecc1f4e2b1f701d62f32336c23ba223340157fe4140a66d4bad2ed",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5212,
+    "league": 5200,
+    "name": "Napoli",
+    "old_name": "Napoli",
+    "source_id": "114",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "855136437887c4cfd8ebc0c24e1717404b43e0e9afa05aa6eaf8d33616cbe84c",
+    "pixel_sha256": "b0f19f826fa749340dbd8c2b3e8598297868c966f44149a7481c6c8bad9a413c",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5213,
+    "league": 5200,
+    "name": "Parma",
+    "old_name": "Parma",
+    "source_id": "115",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "f1cc50207ba13d25a5d69c4029aa5529cf14f176a842993124e89d867c43e29f",
+    "pixel_sha256": "1cabaeb9bef2744385fe55c06ffeeee414f0ae9de647cf3ec21fbc5de9ef608c",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5214,
+    "league": 5200,
+    "name": "AS Roma",
+    "old_name": "Roma",
+    "source_id": "104",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "744efc3fd16e003775a3d1cf67939d4e62f42fae86f0da3cd3d0417ae0523139",
+    "pixel_sha256": "432228d35efe68c928e6bf4a1fc80861d1f50de45d8fba5fa225d81c5708e673",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5215,
+    "league": 5200,
+    "name": "Sampdoria",
+    "old_name": "Sampdoria",
+    "source_id": "2734",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "dd420d77820fbbef7f35830873178a33ea84c23a527750d755f4fdb6779fc21d",
+    "pixel_sha256": "72b937b645b18fe419ffc636450c3f5015e291ed85933a3682707406c2925c6d",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5216,
+    "league": 5200,
+    "name": "Sassuolo",
+    "old_name": "Sassuolo",
+    "source_id": "3997",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "84e73cc5338575880a15574e8a60e6c0c9e2636d68b2be25f25aaa8506df277b",
+    "pixel_sha256": "e02ab973ae92bec2b2b65dba5039cf60ae814643e4d7f5aaf8ee998ab1415ea6",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5217,
+    "league": 5200,
+    "name": "Spezia Calcio",
+    "old_name": "La Spezia",
+    "source_id": "wiki-speziacalcio",
+    "badge_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/6f/Spezia_Calcio_crest.svg/330px-Spezia_Calcio_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Spezia_Calcio",
+    "matching_score": 110.0,
+    "image_sha256": "885bb2afa70ec74001f48dfc5143921960337f9fffaaf843b91e0d00ad3d4aed",
+    "pixel_sha256": "87ae5fdba779b7b966106472a9a8a7f119f70a743c8755f150f8c4be066b5602",
+    "size": [
+      156,
+      192
+    ]
+  },
+  {
+    "index": 5218,
+    "league": 5200,
+    "name": "Torino",
+    "old_name": "Torino",
+    "source_id": "239",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "57b2c655f50ba5f36efad0355d915249ed0595a0c0f17c561fd72212cb78e3f8",
+    "pixel_sha256": "a4b3230aa42a0b34863a1c45a4786be29f5d63ebe1d60bfe4c493eb787c94323",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5219,
+    "league": 5200,
+    "name": "Udinese",
+    "old_name": "Udine",
+    "source_id": "118",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "5b26ec95eede061a263f60b4c14bde9fd9f465fe9ced89ee9365d6a223547c96",
+    "pixel_sha256": "54991bd258f276da200160831db4a0d0258a0d61f938d94846ac620e10f7bc53",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5220,
+    "league": 5200,
+    "name": "Hellas Verona",
+    "old_name": "Verona",
+    "source_id": "119",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "484eaba97b30caad2a0826cec7793f0264c44261abcba1122010b9df1c952658",
+    "pixel_sha256": "1d43e49435c962937eba830f9baedcb69e57740b66f103b073009690cb727012",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5301,
+    "league": 5300,
+    "name": "Bayern Munich",
+    "old_name": "<Munich/Bayern>",
+    "source_id": "132",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "379766cbee6c2aec0fc28c3a7044367a9c241e9a7c2f42f12e4d6098301d852e",
+    "pixel_sha256": "dc1b6c16f257c44ca34f1763d56fff1b4ce821138803fb3a4b4982698fc5ad2d",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5302,
+    "league": 5300,
+    "name": "Borussia Dortmund",
+    "old_name": "Dortmund",
+    "source_id": "124",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "888ba5742236cb6714c952c9799f22f383c83817d2e06dc7cc154da72b28b51a",
+    "pixel_sha256": "060c49b8ee35595f426baa6c9cf21b26e7356ddd9d7f8ee8dc68a25bc2457cd6",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5303,
+    "league": 5300,
+    "name": "RB Leipzig",
+    "old_name": "Leipzig",
+    "source_id": "11420",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "55888e6a7da1e63aa93a2a31a64c550c0e9f561f728dfc2dc3d8bdd16921c7b1",
+    "pixel_sha256": "b0a529b1bb94bb78664f4505d4e2a9ce6d3931afe6e2c58c3ed40041174a9d25",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5304,
+    "league": 5300,
+    "name": "Borussia M\u00f6nchengladbach",
+    "old_name": "M\\366nchengladbach",
+    "source_id": "268",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "c0e5c5721a1fcd5227ce789b63d8e79382b82307cae6ceda90232979b9ce8b12",
+    "pixel_sha256": "b0ca25ec35fd34653247ad044c3a3aff5e8386c0b0d61c609e677f1da77094fd",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5305,
+    "league": 5300,
+    "name": "Bayer Leverkusen",
+    "old_name": "Leverkusen",
+    "source_id": "131",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "655d99062aa83622f5873581011a45e65d6def919d964ed0eff1e0e4e8eee621",
+    "pixel_sha256": "432014501217f20740d86501978b9887c03dcd450040259e508e3120a917060d",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5306,
+    "league": 5300,
+    "name": "TSG Hoffenheim",
+    "old_name": "Hoffenheim",
+    "source_id": "7911",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "5d06bae5921e08bf8f5b1b7ea4b82e61224a37caf1fd128f3efe0c7ee22187b4",
+    "pixel_sha256": "4c7cf900e253ba6174a250eca5cf85ec68139dc049466730d8e3a34ceb5abacf",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5307,
+    "league": 5300,
+    "name": "VfL Wolfsburg",
+    "old_name": "Wolfsburg",
+    "source_id": "138",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "b8c4a91c2aa9a189b08409f2c8b5aa0ea8217bcf649d6d6fa9dd9d0ca9600f56",
+    "pixel_sha256": "c93221bd5b4cfc5b51ea771a67bc7468a2b58bdbc3d489e41de05d6587b5ce83",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5308,
+    "league": 5300,
+    "name": "SC Freiburg",
+    "old_name": "Freiburg",
+    "source_id": "126",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "40542f54d0715520c0b6ce4a0ca308e18d2900e943637de992d2752c1b9c8c0a",
+    "pixel_sha256": "ab18dc3f5f0e39e229b070034049ea4e95449494821df4936450b9e7634ea3b7",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5309,
+    "league": 5300,
+    "name": "Eintracht Frankfurt",
+    "old_name": "Frankfurt",
+    "source_id": "125",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "4127c0304fce96c538107d3b7010b7cb31570887a5194b02c5532305e8ec135b",
+    "pixel_sha256": "e15c36dd0a62f85e3b313b72fdd620d8c952b71763139b2fae2f80ed98257116",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5310,
+    "league": 5300,
+    "name": "Hertha BSC",
+    "old_name": "Berlin",
+    "source_id": "wiki-herthabsc",
+    "badge_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Hertha_BSC_Logo_2012.svg/330px-Hertha_BSC_Logo_2012.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Hertha_BSC",
+    "matching_score": 110.0,
+    "image_sha256": "8b5821da2f6edb9ca6cedf9576608fd1acbcab4cf8f68be91e8dbfd7664de005",
+    "pixel_sha256": "2fe2c4706afd75e294dc009e2422a5872a1d05224a3cb1d7b71eb922b46d0111",
+    "size": [
+      192,
+      179
+    ]
+  },
+  {
+    "index": 5311,
+    "league": 5300,
+    "name": "1. FC Union Berlin",
+    "old_name": "K\\366penick",
+    "source_id": "598",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+    "reference": "ESPN public team API",
+    "matching_score": 48.8,
+    "image_sha256": "51915c5d40bf2860dfd17f0b032f28ce838a7c1ae40066e810820acfdc0fd8fa",
+    "pixel_sha256": "ac0b3000c8ac0de9de1faea4b4d5f2aaf8b1a5223151f926f956127f20ee937b",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5312,
+    "league": 5300,
+    "name": "Schalke 04",
+    "old_name": "Schalke",
+    "source_id": "133",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "19a66fcb89a102d8af4ee419f865c88257b0693089604ac98bbf64f7bfaa7844",
+    "pixel_sha256": "7fa05f0bb2ab27e1fe0400888fbf92304c2993d6721e7ce0244d88de60f6bf73",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5313,
+    "league": 5300,
+    "name": "Mainz",
+    "old_name": "Mainz",
+    "source_id": "2950",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "54d468f4c32c42a3321eb4ab9b5c466173fe6dccb41b13efa375b841e7587622",
+    "pixel_sha256": "96f18c338c5ea8f4a0058bccbc0c88ef27d656e09f3c623fa0f41a021da539d6",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5314,
+    "league": 5300,
+    "name": "FC Cologne",
+    "old_name": "K\\366ln",
+    "source_id": "122",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "a482e4112f1e7f80f4c59069635a05e2b5cfe1109f8dcec69928a5f2749a8d13",
+    "pixel_sha256": "43e58c3b6aef58973d16be4fbe5f1aa79b89c28e41d883c0f851d0024b32962e",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5315,
+    "league": 5300,
+    "name": "FC Augsburg",
+    "old_name": "Augsburg",
+    "source_id": "3841",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "646b1ad53669613584cbab7942143bd44f7ac16ba6591422a0201dcb03075ed6",
+    "pixel_sha256": "0c7df50515fbc5ec412c092ed3ee11db5eeb171e72d803610aa4ec52d3e2625a",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5316,
+    "league": 5300,
+    "name": "Werder Bremen",
+    "old_name": "Bremen",
+    "source_id": "137",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "d379dbc58eb51f15ad4687ad460bb67598f159dfb68b107071a59c3f4a19a207",
+    "pixel_sha256": "ebabf2c60fe31467e7e58c3c5049204ba0acffe30376f7e0e83e76bc036317b7",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5317,
+    "league": 5300,
+    "name": "Hamburg SV",
+    "old_name": "Hamburg",
+    "source_id": "127",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "406ba49dbef53ac5a1b11ae1c1890e0fe535224ebbd362cf83f41888d81e7d84",
+    "pixel_sha256": "17a15bc97deaa8661303afc5beef7cb4b1d3aca713441ffd7cc93d09de0a7986",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5318,
+    "league": 5300,
+    "name": "VfB Stuttgart",
+    "old_name": "Stuttgart",
+    "source_id": "134",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "d36323e716cdea60d91bcbc445b2df6e9f76ac82a6956a2e692251829ecf7444",
+    "pixel_sha256": "299d82fa9a1e22a3009b81107fdc54e97358f34d01e0018e3fafa1308cde128f",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5401,
+    "league": 5400,
+    "name": "Chicago Stars FC",
+    "old_name": "Chicago FC",
+    "source_id": "15360",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/15360.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "cccceb6e2d80f1370a2cf78c17ff12a7d1b8f811fd071df463900d66ef9fd632",
+    "pixel_sha256": "ea9fd545ea55895c1c04194cecc51a51d1b50ac6b2f841e7a69bb6eddde7a605",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5402,
+    "league": 5400,
+    "name": "Houston Dash",
+    "old_name": "Houston FC",
+    "source_id": "17346",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/17346.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "a14dc8c54c7c6128153d10c5f5ab85e53d5b278eed8a012e55ba5f2944906acf",
+    "pixel_sha256": "fb4d741bab229019ff007b7e9844eb8a7f1b3becb1570c716e7bcd9323a2c516",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5403,
+    "league": 5400,
+    "name": "North Carolina Courage",
+    "old_name": "North Carolina FC",
+    "source_id": "15366",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/15366.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "80828d3871ee053338dfac0493497ee083aba9571f5e467061149f0b193f7832",
+    "pixel_sha256": "d8efbbf1dbfe574dca4498d67669e05b2507b6ca5f07078d305037fff3149223",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5404,
+    "league": 5400,
+    "name": "Seattle Reign FC",
+    "old_name": "Tacoma FC",
+    "source_id": "15363",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/15363.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "41268ff857411ea1fe177bd2880ba11fcfc74e0137bc7fc3d0f8ed83f228e2dc",
+    "pixel_sha256": "c726ef63f72ffa00e99ed4ccaa97ad3c840f36fc689dec4d5f073df32878d1aa",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5405,
+    "league": 5400,
+    "name": "Orlando Pride",
+    "old_name": "Orlando FC",
+    "source_id": "18206",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/18206.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "bdc98e361136fda66597a961c58844135a0d7774bd38bb83cd2fc7cc69202460",
+    "pixel_sha256": "356c4867c6d01d5ae21cb6393f9eda322237d8e7fe54410eb9ede1d9afa5cfad",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5406,
+    "league": 5400,
+    "name": "Portland Thorns FC",
+    "old_name": "Portland FC",
+    "source_id": "15362",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/15362.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "0d64302d043b8da6416da94ecd84a4f9b839634ef88297c896e44777e14e247b",
+    "pixel_sha256": "41f14da355cd12672aa581358eba9b11239d083d7dbf430bfba5e3837b9ac023",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5407,
+    "league": 5400,
+    "name": "Gotham FC",
+    "old_name": "New Jersey FC",
+    "source_id": "15364",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/15364.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "77ed18300a29d5f4330ffdf7728c5880d27e8e9bd521029dedabad96f4daba30",
+    "pixel_sha256": "942842f220454d47c5445051bc8494c87c0d828808734db0e994ca5c9921c3ab",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5408,
+    "league": 5400,
+    "name": "Utah Royals",
+    "old_name": "Utah FC",
+    "source_id": "19141",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/19141.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "0e498340c669d7d67c0f9996651e64e76529da74bee69edc71086d1822b7bbf2",
+    "pixel_sha256": "a05bd2c6050febe321039639961070beb9a1a6494ae4a67ac79c10dd5f3f76e6",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5409,
+    "league": 5400,
+    "name": "Washington Spirit",
+    "old_name": "Washington FC",
+    "source_id": "15365",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/15365.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "ce9cf0d0bd7894e09e9dfc5f4f186b7504d2c5aa7a5bb86fdf56875dba51abb0",
+    "pixel_sha256": "04cf53b2abab5f7b3788d0373e04b381b1de2d9ba27c8954ee451ad53da3474c",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5501,
+    "league": 5500,
+    "name": "Arsenal",
+    "old_name": "<Arson Hall/Gunners> FC",
+    "source_id": "19973",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/19973.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "22e5648a292b91dd8fb954c801e583047aec8af845ad9065a56c6daa3ddb2484",
+    "pixel_sha256": "317d8d2dcd32b90bb7a185b4374cf0a74888af09f60f31e3b04f424563d66d12",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5502,
+    "league": 5500,
+    "name": "Aston Villa",
+    "old_name": "<Aston/Villa> FC",
+    "source_id": "20707",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/20707.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "ea310a6b4715a143121071c6683ba99116b19a341aeedf327399a9e733c5bc4a",
+    "pixel_sha256": "c801e1b247774aea2f91ec657ddece692c7b1fa6207c129e0207379d17cc61e7",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5503,
+    "league": 5500,
+    "name": "Birmingham City",
+    "old_name": "Birmingham",
+    "source_id": "19968",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/19968.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "501c07ebb096c15858af3075610ee97cf6771b0a786c34533dd44a0a0c0a5f1a",
+    "pixel_sha256": "dd72f0a954e57e1feef25ac8a6dcf4edb92b6563ce42e060a3875dc476a5fdcb",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5504,
+    "league": 5500,
+    "name": "Brighton & Hove Albion",
+    "old_name": "Brighton",
+    "source_id": "19976",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/19976.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "e771cfc0a87628d0e0398395c94387c627e6a350aef1c19c4a1a494667bd8835",
+    "pixel_sha256": "526d5df3077935624d4e0116ba6166650ca1b4674048dc6a82c2a835e62253fc",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5505,
+    "league": 5500,
+    "name": "Bristol City W.F.C.",
+    "old_name": "Bristol",
+    "source_id": "women-333",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/333.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "fe38527bddb756cba3602ec98949d5a2284821c2618e698d9d36dd2b61376ad9",
+    "pixel_sha256": "00ddcd9d3fd784db7d5e016a59412d8ca770da87e5603d2bae86a23adfa3a5b1",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5506,
+    "league": 5500,
+    "name": "Chelsea",
+    "old_name": "Blues FC",
+    "source_id": "19970",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/19970.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "3b30535653faaaca28d5c245e44e0b58c01f98a5e56a81e06644322c3265cb6c",
+    "pixel_sha256": "01e257b4ac2740ec06d2b3a716f99510e24fe50c1688667d9922083d9a567f14",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5507,
+    "league": 5500,
+    "name": "Everton",
+    "old_name": "<Goodison/Toffees> FC",
+    "source_id": "19972",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/19972.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "edbc4af46c81ded75e5d096c58c87c0b8a719bb59b4bfffd8a62fc81adfc3762",
+    "pixel_sha256": "dff36376c0c0c555c23397ab57ffcbe3a2c3bbc440f312ec2536d4f8f83b48c3",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5508,
+    "league": 5500,
+    "name": "Manchester City",
+    "old_name": "City FC",
+    "source_id": "19257",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/19257.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "8c4048f031aae8854e08f1498ca0db2ae81f0a70a5a41c453b84937f4a824dde",
+    "pixel_sha256": "667e06f464b02280cecae7ab53ddb9dbc6900e2ab2d6cad9470035cb4633a356",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5509,
+    "league": 5500,
+    "name": "Manchester United",
+    "old_name": "<Manchester/United FC>",
+    "source_id": "20061",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/20061.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "f3eb794aea0dd156ddd84ad7c1b45dee18ab666c3b4a873047b9b86a45826bac",
+    "pixel_sha256": "48198db794322b362f4b4a199bde6509af50a969f23e776cbf05a354276f0234",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5510,
+    "league": 5500,
+    "name": "Reading F.C. Women",
+    "old_name": "Reading",
+    "source_id": "wiki-readingfcwomen",
+    "badge_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/11/Reading_FC.svg/330px-Reading_FC.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Reading_F.C._Women",
+    "matching_score": 110.0,
+    "image_sha256": "06577470926bda1897e5a2748f100069176d1f2b1c6c3865e7a1a08584407b77",
+    "pixel_sha256": "26c627855002660203f8b12484b261533cba0cb1df59ed562f163924746a1df8",
+    "size": [
+      191,
+      192
+    ]
+  },
+  {
+    "index": 5511,
+    "league": 5500,
+    "name": "Tottenham Hotspur",
+    "old_name": "<Tottenham/Hotspur FC>",
+    "source_id": "20062",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/20062.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "08da751a30cd86f8a0939900165332d77ca5c6b4dfab069de5cbbb9bfe08d221",
+    "pixel_sha256": "5f265552af1268e2ae75d077e898aaab1ae60bef2a2c5085ff67c3c666c61e0d",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5512,
+    "league": 5500,
+    "name": "West Ham United",
+    "old_name": "West Ham",
+    "source_id": "19975",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/19975.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "ce81cc5fea5a538ef81b56c6eeb6fcc77686288215f16b768e85f935ec5ebd8d",
+    "pixel_sha256": "44f0cf00a2e49b3faeec35e90e71b135fa2ed2851fbe04ac38f60d508919ae2d",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5601,
+    "league": 5310,
+    "name": "Athletico-PR",
+    "old_name": "Athletico-PR",
+    "source_id": "3458",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3458.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.33333333333333,
+    "image_sha256": "d7e445bcda5a5a47f501d5d8bc716cefed8000191c4b782e5587a8e1a0fd1761",
+    "pixel_sha256": "068d4f97eb36a69034c36c11f10c1f6c93b167b719d0d5273e16ac9a8e79407c",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5602,
+    "league": 5310,
+    "name": "Atl\u00e9tico Goianiense",
+    "old_name": "Atl\\351tico",
+    "source_id": "10357",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/10357.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "763a5c1952ef3d52b0bb8ada406332905710c914427e3a43d70965a3e2fab645",
+    "pixel_sha256": "ba93443b5f7193d5285ba14c5aa4fad4271ceb69ed98d81ef4bf287772626660",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5603,
+    "league": 5310,
+    "name": "Clube Atl\u00e9tico Mineiro",
+    "old_name": "Galo",
+    "source_id": "wiki-atleticomineiro",
+    "badge_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Clube_Atl%C3%A9tico_Mineiro_logo.svg/330px-Clube_Atl%C3%A9tico_Mineiro_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Clube_Atl%C3%A9tico_Mineiro",
+    "matching_score": 78.57142857142857,
+    "image_sha256": "79780d4d3a425b4a854fbd9fa1ef4c16718a40352d14bb8ec2a8d9dd2175d79f",
+    "pixel_sha256": "b16e5b13167b6c4bb42bf368b07faddf7d1f252d6cc6e8a7931c9e634114e879",
+    "size": [
+      129,
+      192
+    ]
+  },
+  {
+    "index": 5604,
+    "league": 5310,
+    "name": "Bahia",
+    "old_name": "Bahia",
+    "source_id": "9967",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/9967.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "802263bf4eac40e75d66bf6d1f456bb14fea756c534275390249236707b67b33",
+    "pixel_sha256": "563e94cbed6dac42ac08e10377c1352990a42d450164a02cee086fb35e451b62",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5605,
+    "league": 5310,
+    "name": "Botafogo",
+    "old_name": "Botafogo",
+    "source_id": "6086",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/6086.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "1c8b23e578ab9885e360598ca824ca235df0856ad2e47158dbf7c486a6b98302",
+    "pixel_sha256": "67b8e0d79be504b79c07f457235b38d7dde2e429316336920321a882a9c1d1a5",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5606,
+    "league": 5310,
+    "name": "Cear\u00e1 Sporting Club",
+    "old_name": "Cear\\341",
+    "source_id": "wiki-cearasportingclub",
+    "badge_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Cear%C3%A1_Sporting_Club_logo.svg/330px-Cear%C3%A1_Sporting_Club_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Cear%C3%A1_Sporting_Club",
+    "matching_score": 110.0,
+    "image_sha256": "7856fbc411f64793cbb0bdedecd1247adcf7ad5b3e1d5003d7b362fc9b8a284c",
+    "pixel_sha256": "e3a06298e5013fd8c8ae92336cc8991bb750339c891ada0171ce2fe50f84eecc",
+    "size": [
+      173,
+      192
+    ]
+  },
+  {
+    "index": 5607,
+    "league": 5310,
+    "name": "Corinthians",
+    "old_name": "Sport Club Paulista",
+    "source_id": "874",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "c9de28f250cb1e120c7f4719fa5573542629e50600eff47dff87f7a516f19b27",
+    "pixel_sha256": "7d6aca41e6a922fb043e5800677800caf27b3d9717a02d23ee5298dade307a00",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5608,
+    "league": 5310,
+    "name": "Coritiba",
+    "old_name": "Curitiba",
+    "source_id": "3456",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3456.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "fd1c7060c6436bb75cc10d3beb8fba59ec0cb1fdfe3be3e219e0728ebfb539a7",
+    "pixel_sha256": "2fac3ce964cb841db4b43cc1877003d7662521b9de6ab4f299181c04dc551824",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5609,
+    "league": 5310,
+    "name": "Fortaleza",
+    "old_name": "Fortaleza",
+    "source_id": "6272",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "ae7fa65e9aecc8234d5a36662433096cfee28f5fad73efc3617db5451eac963a",
+    "pixel_sha256": "bee4647324fed84071ebf2f956894d96dd2eb3272cad5588bf0d5b96a698b4fa",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5610,
+    "league": 5310,
+    "name": "Flamengo",
+    "old_name": "Flamingos",
+    "source_id": "819",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "c60e13332d4fb38c42eed64a93938e2d6178c0cdc8479bdbf4412333f7b0b2ad",
+    "pixel_sha256": "7cb0213e2797e5dfe477512008b98a2332498325d8c949ffd94fd8a80aedf571",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5611,
+    "league": 5310,
+    "name": "Fluminense",
+    "old_name": "Fluminense",
+    "source_id": "3445",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3445.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "11254252450fe4e662a027e8e9e52dec384d4dde83dd0f821c7eb18c78e2c0f0",
+    "pixel_sha256": "b09fda148703e6d2d1e6fd5f5ed0ebe1f65ffc6079587394ab53b8d2110dc1d5",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5612,
+    "league": 5310,
+    "name": "Gr\u00eamio",
+    "old_name": "Porto Alegre",
+    "source_id": "6273",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/6273.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "e9ef5378c06f654eef629e8ff2cec53b022cf3234f3de164262aca7d0f7e6acb",
+    "pixel_sha256": "9d2ab6429c7d3d869743e3158071343829e915f21651790eacd96c396afcd4bf",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5613,
+    "league": 5310,
+    "name": "Goi\u00e1s Esporte Clube",
+    "old_name": "Goi\\341s",
+    "source_id": "wiki-goiasesporteclube",
+    "badge_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Goi%C3%A1s_Esporte_Clube_logo.svg/330px-Goi%C3%A1s_Esporte_Clube_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Goi%C3%A1s_Esporte_Clube",
+    "matching_score": 110.0,
+    "image_sha256": "c1baf12914a6d9ea1cf904081d232c695aa2902b5b19d27bde08cf2ddf3b7915",
+    "pixel_sha256": "eb645c054ecffebd8abe79c6f07f4d289ea06c6a4ebdf15598dc3bc81c53155e",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5614,
+    "league": 5310,
+    "name": "Internacional",
+    "old_name": "Internacional",
+    "source_id": "1936",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "945a4c573410eeba5c6a4207371ba982dd62cf3946e94b9a61445b9111d6fcb2",
+    "pixel_sha256": "42023842d87bf46958f37eac127dfada75e570e0e6da756e744fa6b97b20ec8a",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5615,
+    "league": 5310,
+    "name": "Palmeiras",
+    "old_name": "Esportiva Perdizes",
+    "source_id": "2029",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "c5dd55ea8b4dad74385a8fb56aa8c97f19c24aa1886f1608c95da40756a25388",
+    "pixel_sha256": "97cb0e9e37dfe27c5608249a75e1d8d7dd2339d32633e56f80f79b0431ddd78d",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5616,
+    "league": 5310,
+    "name": "Red Bull Bragantino",
+    "old_name": "Bragan\\347a Paulista",
+    "source_id": "6079",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/6079.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "1a6fabb0e5c7202706ac8f21385fa161de8db9f6d0c42a4613d292e7d7915a61",
+    "pixel_sha256": "8ef244a02ae64216380fd7fee5f555af931dda201b6dfb258cc3c364ccf1db1a",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5617,
+    "league": 5310,
+    "name": "Santos",
+    "old_name": "Santos",
+    "source_id": "2674",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "78dce8518915eb697bb3fbb5598d8d4a67445fd24f0f0ff0bb8183cd1bbf800e",
+    "pixel_sha256": "5886130ed93141d8bb983d833f66924efc45e6e16f11f6a2f98744136aa4133a",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5618,
+    "league": 5310,
+    "name": "S\u00e3o Paulo",
+    "old_name": "S\\343o Paulo",
+    "source_id": "2026",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "d1fa04bda2b37baf11e00842889d9890336c1abb8bdaccdeb329c2b56b44ee01",
+    "pixel_sha256": "8ee3f5843cac2e40eded25aa06ed52796a6a04dadd7ca9cbb67d574feacf19cd",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 5619,
+    "league": 5310,
+    "name": "Sport Club do Recife",
+    "old_name": "Recife",
+    "source_id": "wiki-sportclubdorecife",
+    "badge_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/45/Sport_Club_Recife.svg/330px-Sport_Club_Recife.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Sport_Club_do_Recife",
+    "matching_score": 110.0,
+    "image_sha256": "7eab2ca009a91ade79cf274090225570d60aa17f35393fda0adc82f34cd637a1",
+    "pixel_sha256": "1bfbfbe7c8ead93261bf1be64d5ae5e057c7f08810b8b1e8df95a0b8fa81f8b2",
+    "size": [
+      145,
+      192
+    ]
+  },
+  {
+    "index": 5620,
+    "league": 5310,
+    "name": "Vasco da Gama",
+    "old_name": "Vasco da Gama",
+    "source_id": "3454",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "63375479b7a313e0f06ec1491ec07991e77b2e6a1eb9e7bd8596b1d173221b49",
+    "pixel_sha256": "a0e04dfbdf56eebb7795bef8b5f78e533b38a231cceef22e6d1f30a919952497",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 6000,
+    "league": 6000,
+    "name": "Brisbane Broncos",
+    "old_name": "Brisbane <Mustangs/Donkeys/Horses/Ponies>",
+    "source_id": "289195",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289195.png",
+    "reference": "ESPN public team API",
+    "matching_score": 61.95652173913044,
+    "image_sha256": "944f70075f18807f4cad2a711dc10f40195506d2439e89d093272554fdcdf794",
+    "pixel_sha256": "bb309f0c2edae9ba8a340606d7d62f1a6c21c5204fec977e4bb74dcc0fee6e38",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 6001,
+    "league": 6000,
+    "name": "Canberra Raiders",
+    "old_name": "Canberra <Braiders/Vikings/Traders/Traitors/Pirates/Radicals/Evaders/Paraders>",
+    "source_id": "289198",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289198.png",
+    "reference": "ESPN public team API",
+    "matching_score": 61.95652173913044,
+    "image_sha256": "ac91c9e75ccdb0067eb1889d9c1c4cbee2a21aeaf4be426987d63355395f7957",
+    "pixel_sha256": "64084c5e884c76c7b3e907f03a59b3896857f3b126ffc7c967b31a1767f2af4e",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 6002,
+    "league": 6000,
+    "name": "Canterbury-Bankstown Bulldogs",
+    "old_name": "Canterbury-Bankstown <Poodles/Chihuahuas/Cowdogs/Shih Tzus/Rottweilers/Bullseyes>",
+    "source_id": "289197",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289197.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "55ae7bfaa821166f1722a06c4e36ed0cac47584ff854d2d390671051c2e16e68",
+    "pixel_sha256": "9c74a69184cacbe851332d137781f826c91d5a8afc3cd4b58d2e3f68b737707b",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 6003,
+    "league": 6000,
+    "name": "Cronulla-Sutherland Sharks",
+    "old_name": "Cronulla-Sutherland <Barks/Tunas/Hammerheads/Goblins/Makos/Guppies/Minnows>",
+    "source_id": "289203",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289203.png",
+    "reference": "ESPN public team API",
+    "matching_score": 63.57142857142857,
+    "image_sha256": "53c0f8fe3118663ecaf09bf0beaf884b32968fcbb1398729885c2e1799a298cf",
+    "pixel_sha256": "3a34af1fbf37269734e48afec5ec365c00f59835512b155f1e3e1c5e3fcb7e71",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 6004,
+    "league": 6000,
+    "name": "Gold Coast Titans",
+    "old_name": "Gold Coast <Gods/Moons/Tightens/Panners/Surfers/Waveriders/Tritons>",
+    "source_id": "289206",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289206.png",
+    "reference": "ESPN public team API",
+    "matching_score": 62.5,
+    "image_sha256": "33012374eda45972a2da8d73a89187c1a6d975f68543b3123d59eacea9d2e39a",
+    "pixel_sha256": "977c62149a33d198023fd46503e15a0a09a6c0b72f883fe9e0931c5bb1d512c8",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 6005,
+    "league": 6000,
+    "name": "Manly Warringah Sea Eagles",
+    "old_name": "Manly Warringah <Seagulls/Boobies/Jaegers/Terns/Oystercatchers/Pelicans>",
+    "source_id": "289196",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289196.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "3f0795bba9283cc157611b16ff13c262c2456f0f71af0e1689c66d4afdfc4038",
+    "pixel_sha256": "d4e30d17c81e03eb347f58e927209d7c2b716b1065f54c97e65032786296754c",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 6006,
+    "league": 6000,
+    "name": "Melbourne Storm",
+    "old_name": "Melbourne <Typhoon/Depression/Hurricane/Monsoon/Microbursts/Squall>",
+    "source_id": "289208",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289208.png",
+    "reference": "ESPN public team API",
+    "matching_score": 62.82608695652174,
+    "image_sha256": "2aec4990d5873d6a38a303e97048dae3349d4f5beb236791329890093a1dab44",
+    "pixel_sha256": "1f0c31bdf11b7224ca099416bbaf985932da58b898bce842f71c41862d410922",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 6007,
+    "league": 6000,
+    "name": "New Zealand Warriors",
+    "old_name": "New Zealand <Worriers/Fighters/Brawlers/Centurions/Kiwis>",
+    "source_id": "289201",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289201.png",
+    "reference": "ESPN public team API",
+    "matching_score": 62.142857142857146,
+    "image_sha256": "d4236e0dba48d29b82596676967f65da16171b06a22ddfad4c153525b02be434",
+    "pixel_sha256": "8f885e01aa1e2cb93dd116b3553132e0456362b57f5a63e88c4895e79847062a",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 6008,
+    "league": 6000,
+    "name": "Newcastle Knights",
+    "old_name": "Newcastle <Nights/Tinmen/Guardians/Spearmen/Lancers/Paladins>",
+    "source_id": "289207",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289207.png",
+    "reference": "ESPN public team API",
+    "matching_score": 62.2,
+    "image_sha256": "5aedca184b14d944f6387ad4f4166ca44b2dbf0466f9fc28acbbd8c31e259b7b",
+    "pixel_sha256": "d42f00f77657dc8c6fa2ecc251e377e1fc6d84bca6f6815116c40dbcce57ec3d",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 6009,
+    "league": 6000,
+    "name": "North Queensland Cowboys",
+    "old_name": "North Queensland <Bullboys/Buckaroos/Buckeyes/Buckwilds/Spurs>",
+    "source_id": "289202",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289202.png",
+    "reference": "ESPN public team API",
+    "matching_score": 63.10810810810811,
+    "image_sha256": "37c6fb3d35db00df2f5b546a827e45a5156caa2436107d217d4cf64c1316f610",
+    "pixel_sha256": "79e2089e3c9126de5759e5d056f30b8006e85836d337fd1f4d4bb000ce874266",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 6010,
+    "league": 6000,
+    "name": "Parramatta Eels",
+    "old_name": "Parramatta <Morays/Sea Snakes/Congers/Sawtooths/Peels/Feels/Reels>",
+    "source_id": "289194",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289194.png",
+    "reference": "ESPN public team API",
+    "matching_score": 63.333333333333336,
+    "image_sha256": "b16b2450c1a9180e4b62e442b03db914af1f88a121181608147fcf0e03f09fa7",
+    "pixel_sha256": "23b76f45eb647fb265b89909056b76f0468ae2cc5c2c427f4889a71ddfb3acc8",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 6011,
+    "league": 6000,
+    "name": "Penrith Panthers",
+    "old_name": "Penrith <Calicos/Tabbies/Toebeans/Panzers/Cougars/Jaguars/Panties/Panters>",
+    "source_id": "289199",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289199.png",
+    "reference": "ESPN public team API",
+    "matching_score": 61.36363636363636,
+    "image_sha256": "3a794280d0624bace89aa373420259d83092f1e9693635736ee436c921df8d9d",
+    "pixel_sha256": "4a0ed3e897242fddcc2c877bbe3754f783ab8821f1855dae3d954615cd88febb",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 6012,
+    "league": 6000,
+    "name": "South Sydney Rabbitohs",
+    "old_name": "South Sydney <Bunnies/Rabbits/Hoppers/Cottontails/Hares/Rabies/Rabbit Holes>",
+    "source_id": "289205",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289205.png",
+    "reference": "ESPN public team API",
+    "matching_score": 62.096774193548384,
+    "image_sha256": "f0189d95c18fe90faf64ffc14b9dbbd41745cc555803de5fc14b5c9968c6c786",
+    "pixel_sha256": "8456eac774d5c5b13c234edff9d70a80b45b33c449c1d2ca40bda9e7f99895e9",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 6013,
+    "league": 6000,
+    "name": "St George Illawarra Dragons",
+    "old_name": "St. George Illawarra <Lizards/Fireballs/Wyverns/Wyrms/Hydras/Drags>",
+    "source_id": "289209",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289209.png",
+    "reference": "ESPN public team API",
+    "matching_score": 110.0,
+    "image_sha256": "355c930a05d7a48b91787b3932cd38a617ec429befeb4947e5ab5dac396e431f",
+    "pixel_sha256": "ecc33a23b67a6fe2e57751ec75fe2de06122d6290615f16088506eae99ecf17c",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 6014,
+    "league": 6000,
+    "name": "Sydney Roosters",
+    "old_name": "Sydney <Cocks/Cluckers/Clucks/Wattles/Roasters>",
+    "source_id": "289204",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289204.png",
+    "reference": "ESPN public team API",
+    "matching_score": 61.0,
+    "image_sha256": "42170222a1db96499f8f80cf4735bcb3291d73dc9e3a662d803208606957376c",
+    "pixel_sha256": "8d9fa3ff290cbee4519dccef93fb13272ba22ce4aa664fd03404040ad52ba73a",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 6015,
+    "league": 6000,
+    "name": "Wests Tigers",
+    "old_name": "Wests <Bengals/Leopards/Stripes/Sabertooths>",
+    "source_id": "289200",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/289200.png",
+    "reference": "ESPN public team API",
+    "matching_score": 61.25,
+    "image_sha256": "47661fc2b3aa68583281acdd8c73ab6f928c7614fc35e5bcfee43ee51c7d2af6",
+    "pixel_sha256": "1d3600f7031efcb83ce14483a3edc673e47548017c627312c812060f34341f56",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 6100,
+    "league": 6100,
+    "name": "Castleford Tigers",
+    "old_name": "Castleford <Cats/Kittens/Pantherae/Tonys>",
+    "source_id": "wiki-castlefordtigers",
+    "badge_url": "https://upload.wikimedia.org/wikipedia/en/b/bd/Castleford_Tigers_new_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "reference": "https://en.wikipedia.org/wiki/Castleford_Tigers",
+    "matching_score": 62.69230769230769,
+    "image_sha256": "72cd4d3fd53b71128e0c8ce99ea33923698193ea68aa447968ee305c2a558be7",
+    "pixel_sha256": "8c3d8ce961ba4f22ad5362338e5b5d5bd5fd86a4f512ed3f99f3cc9b1d416545",
+    "size": [
+      153,
+      192
+    ]
+  },
+  {
+    "index": 6101,
+    "league": 6100,
+    "name": "Catalans Dragons",
+    "old_name": "Catalans <Geckos/Skinks/Drakes/Drags>",
+    "source_id": "wiki-catalansdragons",
+    "badge_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/22/Catalans_dragons_vector.svg/330px-Catalans_dragons_vector.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Catalans_Dragons",
+    "matching_score": 61.95652173913044,
+    "image_sha256": "6badab08c92cd4491a3610c59716758208e5e293b7763830b1db60b297f596d4",
+    "pixel_sha256": "79195158fa90fb075d922d6b5e3e7581baabd725959bfaaf428bb54a64b6227b",
+    "size": [
+      192,
+      122
+    ]
+  },
+  {
+    "index": 6102,
+    "league": 6100,
+    "name": "Huddersfield Giants",
+    "old_name": "Huddersfield <Gnats/Dwarves/Big Guns/Big Boys>",
+    "source_id": "wiki-huddersfieldgiants",
+    "badge_url": "https://upload.wikimedia.org/wikipedia/en/4/42/Huddersfield_Giants_2021_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "reference": "https://en.wikipedia.org/wiki/Huddersfield_Giants",
+    "matching_score": 63.0,
+    "image_sha256": "1bb65edc0bd7a7c9f4ac7355c82351596c6bca9a13068d3a35fcd939d759016b",
+    "pixel_sha256": "daeb6b05acfbc07fdc3ecca69eb131b3adf0cdf94ef285c0d3199a6c924a138f",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 6103,
+    "league": 6100,
+    "name": "Hull F.C.",
+    "old_name": "Hull <A.C./D.C./B.L.>",
+    "source_id": "wiki-hullfc",
+    "badge_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/08/Hull_F.C._logo.svg/330px-Hull_F.C._logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Hull_F.C.",
+    "matching_score": 63.0,
+    "image_sha256": "50ded634c25380d4689691a26e0aaaa08aaba996ccf3e55c2a31d65fc6ef97a0",
+    "pixel_sha256": "518981c77653824bbf98908debb19e88df7f91e407006aed9c9e07cf371d87c6",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 6104,
+    "league": 6100,
+    "name": "Hull Kingston Rovers",
+    "old_name": "Hull Kingston <Movers/Shakers/Rollers/Tractors/Scooters/Groovers>",
+    "source_id": "wiki-hullkingstonrovers",
+    "badge_url": "https://upload.wikimedia.org/wikipedia/en/3/3c/Hull_Kingston_Rovers_Crest.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "reference": "https://en.wikipedia.org/wiki/Hull_Kingston_Rovers",
+    "matching_score": 63.0,
+    "image_sha256": "5facf642383e023cb6a1428dd1e04e7fd822f569d33feb58a522edf228b30ee3",
+    "pixel_sha256": "7da586014e1acb74bbf1c2fa4889a1341ebf56658e4e524a27ebc42de2550cfc",
+    "size": [
+      135,
+      192
+    ]
+  },
+  {
+    "index": 6105,
+    "league": 6100,
+    "name": "Leeds Rhinos",
+    "old_name": "Leeds <Horns/Stampedes/Beetles/Hornbills/Iguanas>",
+    "source_id": "wiki-leedsrhinos",
+    "badge_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/6f/Leeds_Rhinos_logo.svg/330px-Leeds_Rhinos_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Leeds_Rhinos",
+    "matching_score": 61.25,
+    "image_sha256": "0fbeeec93e795796685c01eb04b90813ed9300d071d173a5013f723653aa6ea2",
+    "pixel_sha256": "2aeabf3680063b334fdc9cdc644f4af5e8206f5296ebfb87b1bd6bfdc37944ff",
+    "size": [
+      192,
+      133
+    ]
+  },
+  {
+    "index": 6106,
+    "league": 6100,
+    "name": "Salford RLFC",
+    "old_name": "Salford <Blue Devils/Pink Devils/Demons/Spirits/Devil Rays>",
+    "source_id": "wiki-salfordreddevils",
+    "badge_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/6f/Salford_RLFC_logo.svg/330px-Salford_RLFC_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Salford_RLFC",
+    "matching_score": 62.77777777777778,
+    "image_sha256": "fe05215da0e410df19cbe40a46241ebb97856d64826fa2c0d3f3cd5651535911",
+    "pixel_sha256": "0c38e80fcd50a9ef7ab47603adc1bcbf738eb48c9df95d0717ee97382df435dc",
+    "size": [
+      189,
+      192
+    ]
+  },
+  {
+    "index": 6107,
+    "league": 6100,
+    "name": "St Helens R.F.C.",
+    "old_name": "St. Helens <J.Z.Z./B.O.Y./B.L.G./M.M.A./M.I.A./H.R.M./Q.O.E./E.A.P../B.O.A./D.O.A./I.O.S.>",
+    "source_id": "wiki-sthelensrfc",
+    "badge_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/2f/St_Helens_RFC_logo.svg/330px-St_Helens_RFC_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/St_Helens_R.F.C.",
+    "matching_score": 63.421052631578945,
+    "image_sha256": "d7ee436d7188840dac121e713d305c61abb8dbecaf68c2f53e2013f86b3a84b2",
+    "pixel_sha256": "b6014b7ab1f7aa5abe50bcd0f7375e2251b6039e2393936c6dd20039702d4223",
+    "size": [
+      150,
+      192
+    ]
+  },
+  {
+    "index": 6108,
+    "league": 6100,
+    "name": "Wakefield Trinity",
+    "old_name": "Wakefield <Threesomes/Equilaterals/Deltas/Triad/Trilogy/Tryhards>",
+    "source_id": "wiki-wakefieldtrinity",
+    "badge_url": "https://upload.wikimedia.org/wikipedia/en/9/9e/Wakey_new_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "reference": "https://en.wikipedia.org/wiki/Wakefield_Trinity",
+    "matching_score": 62.2,
+    "image_sha256": "4916fe851e8e309dcfc8c9e3b439d67eda8843e647bf1ba282f0e24a7e102325",
+    "pixel_sha256": "28ca78d0a3dcd40e6899d0d90bd2ba2351512af37bc958d35f045063d24096c2",
+    "size": [
+      164,
+      192
+    ]
+  },
+  {
+    "index": 6109,
+    "league": 6100,
+    "name": "Warrington Wolves",
+    "old_name": "Warrington <Wolverines/Lobos/Werewolves/Devil Dogs/Canines>",
+    "source_id": "wiki-warringtonwolves",
+    "badge_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/75/Warringtonwolveslogo.svg/330px-Warringtonwolveslogo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Warrington_Wolves",
+    "matching_score": 62.69230769230769,
+    "image_sha256": "f0e53e54a6e39fc1d5d2da7d1a79730f204d72c9416911bfed9ef0de6b28816a",
+    "pixel_sha256": "b0033a3a20c1e87506f5aec1699413105851c3044f2479497b9ad94a65893740",
+    "size": [
+      142,
+      192
+    ]
+  },
+  {
+    "index": 6110,
+    "league": 6100,
+    "name": "Wigan Warriors",
+    "old_name": "Wigan <Fighters/Brawlers/Protectors/Trojans/Berserkers>",
+    "source_id": "wiki-wiganwarriors",
+    "badge_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d7/Wigan_Warriors_Logo%2C_November_2020.svg/330px-Wigan_Warriors_Logo%2C_November_2020.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Wigan_Warriors",
+    "matching_score": 60.55555555555556,
+    "image_sha256": "d9e101768093c90f685695b40610e0bd239f58511240a7939ab5076419d305d0",
+    "pixel_sha256": "e33c13299bdeac1e9be36d65952dc44e7077aa4001aec93f272abd496120bb84",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 7000,
+    "league": 7000,
+    "name": "Loyola Chicago Ramblers",
+    "old_name": "Chicago <Chic/Chicks/Deep Dishers/Mean Girls/Campfire>",
+    "source_id": "2350",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2350.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.6470588235294,
+    "image_sha256": "72ab84a6052e5b4ddd865dad8f79a26e99caa5ab94a8a8e4db78cd3be9dd6815",
+    "pixel_sha256": "09f647d8ae88fc140db04a3dbfd56df31038aca9facc17d4d28bd76b845c037e",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 7001,
+    "league": 7000,
+    "name": "St. John's Red Storm",
+    "old_name": "New York <Liberties/Pixies/Golden Globes>",
+    "source_id": "2599",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2599.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.36363636363636,
+    "image_sha256": "996d4e939a32f88c2f94efd56b23daad4195ce02fbbab6bcd9e53348d97a8d33",
+    "pixel_sha256": "5b0bd5fbff9719faecb6769b4195bb158f4bf6cd5b350aa33c081b94f3d4a430",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 7002,
+    "league": 7000,
+    "name": "UCLA Bruins",
+    "old_name": "Los Angeles <Atomic Cougars/Spike Girls/B-Witches/Panther Girls/Blister Sisters>",
+    "source_id": "26",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
+    "reference": "ESPN public team API",
+    "matching_score": 75.71428571428571,
+    "image_sha256": "25f45c5630bd7e8bb21ca30cb25c7fc27cf5ed7ab2158da391a751e474f06748",
+    "pixel_sha256": "638b688569722b13f70efb00bbf68e9d47423827a5ee0437bbaf0b940542b4cd",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 7003,
+    "league": 7000,
+    "name": "Arizona State Sun Devils",
+    "old_name": "Scottsdale <Scrappies/Saguaros/Prickly Pears/Desert Roses>",
+    "source_id": "9",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.27272727272728,
+    "image_sha256": "aa7d24dcb51bbf8aeeb5cdc508318d10905262f29342f89156ea689089699891",
+    "pixel_sha256": "708eb14721813b491e746afe77bdae65cf3fa05ee87ea9eef2e11ac8e42e484c",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 7004,
+    "league": 7000,
+    "name": "Penn State Nittany Lions",
+    "old_name": "Philadelphia <Freeballers/Flares/Fillies>",
+    "source_id": "213",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.0,
+    "image_sha256": "0cc0c832453878177d983544e6755309f28d3653520cc86c00a7aadecfde4959",
+    "pixel_sha256": "83f708b07bd8cf6deb05214ec66d777926b10ae0ae64a5e7bc46c87726051542",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 7005,
+    "league": 7000,
+    "name": "SMU Mustangs",
+    "old_name": "Dallas <Dinks/Decoys/Dumpers/Divas/Cowgirls>",
+    "source_id": "2567",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
+    "reference": "ESPN public team API",
+    "matching_score": 74.28571428571429,
+    "image_sha256": "9bc3867228f4b5875d6d3418673952f1dbd46e0edca6c5d33a9a7f1cd4b9a295",
+    "pixel_sha256": "fa5301b3d07cf725a243d4b50d9bfc558b43ac29edf31a364cc340af1b876d48",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 7006,
+    "league": 7000,
+    "name": "Miami Hurricanes",
+    "old_name": "Miami <Floaters/Beaches/Moons/Devil Rays>",
+    "source_id": "2390",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
+    "reference": "ESPN public team API",
+    "matching_score": 75.0,
+    "image_sha256": "820e82517b88c950897d81acd976934dcbf0ac4ae263dfddb6fdabd699d40f01",
+    "pixel_sha256": "8fd66abe6ae68d48402f9f87bec0b6f57ada8660c4550c0c5f98b09967434c69",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 7007,
+    "league": 7000,
+    "name": "Tulane Green Wave",
+    "old_name": "New Orleans <Beignets/Chers/Julips/Nymphs>",
+    "source_id": "2655",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2655.png",
+    "reference": "ESPN public team API",
+    "matching_score": 75.71428571428571,
+    "image_sha256": "fd7374716bb44e0cdc9202e830d1d1845477f73333acd4d271059367e0a83f27",
+    "pixel_sha256": "532b650e84a329bb711a7fff71d27ee674e431abfd373373e5c18a7ab16acf8a",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 7008,
+    "league": 7000,
+    "name": "Stanford Cardinal",
+    "old_name": "San Francisco <Rainbows/Spaldings/Somas>",
+    "source_id": "24",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.66666666666667,
+    "image_sha256": "9a1bfe35e35f41fd18ea0259903c03e6a81990b352649d34c394314ad9594a7b",
+    "pixel_sha256": "4685bd1fc4c258292a7dfa9eb5ded3e6f2e348a2d46e710c76a505ba124b6677",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 7009,
+    "league": 7000,
+    "name": "Michigan Wolverines",
+    "old_name": "Detroit <Block City/Material Girls/Digs>",
+    "source_id": "130",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.15384615384616,
+    "image_sha256": "d2a40edda9155a97691d0b17cff1e120b435138109719cfbd56355e9e0749dcf",
+    "pixel_sha256": "b2103d3976f8a818f4403cd0f82dcfc3dbe1f5d2bc8cc8921b14d2e0ef71220f",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 7010,
+    "league": 7000,
+    "name": "Colorado Buffaloes",
+    "old_name": "Boulder <Blockers/Bumpers/Brownies>",
+    "source_id": "38",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.4,
+    "image_sha256": "da7c72958f2356170a19a14d4290a93669d966b35d7b52d4d1c522b087419301",
+    "pixel_sha256": "fe980e012b4cdc77051517ca7e059ca48fd9df0f9f140ab7fa39ae2c53373f3b",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 7011,
+    "league": 7000,
+    "name": "Portland Pilots",
+    "old_name": "Portland <Pancakes/Peppers/Penetrators>",
+    "source_id": "2501",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2501.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.27272727272728,
+    "image_sha256": "dfc62e11540d5cdadfae6df25679f7642e7d115be22ffef055605ce6d7197fcc",
+    "pixel_sha256": "b59c5f9961d3b642b46e917254efae67cf41535efe1be42142571b1d7791c89e",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 7012,
+    "league": 7000,
+    "name": "Washington Huskies",
+    "old_name": "Seattle <Servers/Spikers/Skippers/Mermaids>",
+    "source_id": "264",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.4074074074074,
+    "image_sha256": "82bc689b62dbd30b6ef53b53846584d714b3ca340f4ebd4ce8a23ea87a913b0d",
+    "pixel_sha256": "05fa78418da4fb664ed5b97d85c9709153905fa61a9a2418fb2b18f0d5b96800",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 7013,
+    "league": 7000,
+    "name": "Georgia Tech Yellow Jackets",
+    "old_name": "Atlanta <Overhanders/Attackers/Peaches/Aces>",
+    "source_id": "59",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.28571428571429,
+    "image_sha256": "6111e72ba0c4d0a78bf4c489d9c00a238c1ea1349d957e76bb33d763fb8c151f",
+    "pixel_sha256": "30c74721ea9eba56a518844a2e1b8169358ed9c85ae25c5814c56a04f0045bcf",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 7014,
+    "league": 7000,
+    "name": "Utah Utes",
+    "old_name": "Salt Lake City <Saints/Brewers>",
+    "source_id": "254",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.66666666666667,
+    "image_sha256": "f0a910b48ed017b45fa67c36deba61f43302c58ecada3c618af6b2cb2685ec72",
+    "pixel_sha256": "a78bfa8b4f616d00a8b9c5a77a9c1b3f39fe91ef7043b8b4dc572f9d7808a31e",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 7015,
+    "league": 7000,
+    "name": "Marquette Golden Eagles",
+    "old_name": "Milwaukee <Roofers/Mustangs/Melons/Keys>",
+    "source_id": "269",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/269.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.0,
+    "image_sha256": "e4fbdd9bd01c7af6fde6ecc93dc44112234b610bcdd42db2db9cb3b4422435ac",
+    "pixel_sha256": "b9ddc31f9847c30689e40bcbb4e10baf3a8e6b8a7ad534b502c1ecb10b51909c",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 7016,
+    "league": 7000,
+    "name": "Maryland Terrapins",
+    "old_name": "Baltimore <Backsetters/Block Destroyers/Mavens>",
+    "source_id": "120",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.4,
+    "image_sha256": "3fab00822f934b4bbf10b16e8c603f2f36dbb6acb3fb1329730153338f6a676b",
+    "pixel_sha256": "bcf5cde5069295dcb0dbf016368bb51f9e420e94b09954b8300b979a8690c0fa",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 7017,
+    "league": 7000,
+    "name": "Boston College Eagles",
+    "old_name": "Boston <Facials/Teabaggers/Boxes>",
+    "source_id": "103",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/103.png",
+    "reference": "ESPN public team API",
+    "matching_score": 78.125,
+    "image_sha256": "173b5ec8f7436c66b6dfcb1ea8717b90cd48c3317f55280af5d194936e2ecf33",
+    "pixel_sha256": "2705a34ca70eeb2009cfa08ec9151a8aa89c07b1720f40f01722265ec46f2e2d",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 7018,
+    "league": 7000,
+    "name": "Cleveland State Vikings",
+    "old_name": "Cleveland <Karens/Barbies>",
+    "source_id": "325",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/325.png",
+    "reference": "ESPN public team API",
+    "matching_score": 78.0,
+    "image_sha256": "5856f5b7f40b17170473673d00875fadb3d3714081cb1a2b22aaaa30002cd5b0",
+    "pixel_sha256": "32ca3a008637b34d77f84cd4d26db80fe7f6340f718436b00b49cd0ee139d705",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 7019,
+    "league": 7000,
+    "name": "Georgetown Hoyas",
+    "old_name": "Washington <Wands/Spikers/Minks/Beavers>",
+    "source_id": "46",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/46.png",
+    "reference": "ESPN public team API",
+    "matching_score": 78.0,
+    "image_sha256": "37bfabc1b200adadd7dc67fc9d5497a39b1d857896d536257cd1634523cda1a4",
+    "pixel_sha256": "ed2776aeaf25987a031f1ed77232059f5d9fc0d87c719a88a70b52693e69ef20",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 7020,
+    "league": 7000,
+    "name": "Pittsburgh Panthers",
+    "old_name": "Pittsburgh <Poppers/Nethers/Pearls>",
+    "source_id": "221",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/221.png",
+    "reference": "ESPN public team API",
+    "matching_score": 77.14285714285714,
+    "image_sha256": "ca93bb461080839ddef9124090d3c1f3df1f0e2da945c86ced1ce216eece457a",
+    "pixel_sha256": "1dbef37ff1b64c9b4df773ab03283b500a219a5471aa8472a4a2cb361f7e980f",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 7021,
+    "league": 7000,
+    "name": "Minnesota Golden Gophers",
+    "old_name": "Minneapolis <Minnies/Sodas/Mashers/Muffins>",
+    "source_id": "135",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png",
+    "reference": "ESPN public team API",
+    "matching_score": 75.80645161290323,
+    "image_sha256": "574f960ee3087d0252b71ceb2c300ccc8bddd3ec7dce66dfbd772eea4c475145",
+    "pixel_sha256": "51975c676b619d983b3887bb38180c0e64389bad894e260a779b49b9a2b7f7ca",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 7022,
+    "league": 7000,
+    "name": "Houston Cougars",
+    "old_name": "Houston <Hustlers/Grinders/Honeys/Queen Bees>",
+    "source_id": "248",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.66666666666667,
+    "image_sha256": "d0110bb2e8a065ee4e79ecbc79a9b5b663f4398b33d1912bfdf45bc4045afc7a",
+    "pixel_sha256": "7c00aa67cce6967f639111e69f1c2de7bc345303d1c2037008f8210fa84e63b0",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 7023,
+    "league": 7000,
+    "name": "UTSA Roadrunners",
+    "old_name": "San Antonio <Susans/Tiaras/Reginas/Sandstorms/Setters>",
+    "source_id": "2636",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2636.png",
+    "reference": "ESPN public team API",
+    "matching_score": 74.21052631578948,
+    "image_sha256": "297be886de4082d7e889964165820f1b0f90f1046eaab244dacc97d9cd708421",
+    "pixel_sha256": "49b1f10b06facf06310fcff205208bc0aeda6a972943313bf721de0e85bc8b55",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 7024,
+    "league": 7000,
+    "name": "San Diego Toreros",
+    "old_name": "San Diego <Diggers/Waffles/Crowns/Sweeties/Spikers>",
+    "source_id": "301",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/301.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.95652173913044,
+    "image_sha256": "6936abdc66375cd837dc630b313148bb2dab30206f1cb8d671555ba75af4c18a",
+    "pixel_sha256": "688f72d6d27bc473b7912a5ef387bdb4ee67e0d13004dbe4d05966780dfc5d8a",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 7025,
+    "league": 7000,
+    "name": "UNLV Rebels",
+    "old_name": "Las Vegas <Lollipops/Showgirls/Queens/Spades/Diamonds/Clubs/Hearts/Flare>",
+    "source_id": "2439",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
+    "reference": "ESPN public team API",
+    "matching_score": 75.71428571428571,
+    "image_sha256": "6b79297f988973b6890f1d250ead48f218b0fde40afde985a3aca0b2cde5e7f3",
+    "pixel_sha256": "dbeeb41ed15cb3d78c10599e56008e97b9a8a4cb986d2be1dbd8f8e88d2659aa",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 7026,
+    "league": 7000,
+    "name": "Hawai'i Rainbow Warriors",
+    "old_name": "Honolulu <Hotties/Pineapples/Hulas/Roasters/Tsunamis/Waveriders/Heathers>",
+    "source_id": "62",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
+    "reference": "ESPN public team API",
+    "matching_score": 74.44444444444444,
+    "image_sha256": "855f346a976bc9985d66ba8c5722e47398541c136371ad66f161f9b5362e2878",
+    "pixel_sha256": "58adf96cc62b8ce38ed90d1b79ba82b577e1772f8c3a8f5ab491940dc78eb210",
+    "size": [
+      192,
+      192
+    ]
+  },
+  {
+    "index": 7027,
+    "league": 7000,
+    "name": "Pumas UNAM",
+    "old_name": "Mexico City <Choppers/Chiquitas/Conchas/Chancletas>",
+    "source_id": "wiki-pumasunam",
+    "badge_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b7/Club_Universidad_Nacional_logo.svg/330px-Club_Universidad_Nacional_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Pumas_UNAM",
+    "matching_score": 110.0,
+    "image_sha256": "9ed67e1aa3f0b335da5f7fa74cd011d9ea6790ce301c32cb7844108e7851718c",
+    "pixel_sha256": "db6c9355d6a7d3c446aa4237831dd47dcb19a95b169a72ee55c45c934f49b386",
+    "size": [
+      192,
+      181
+    ]
+  },
+  {
+    "index": 7028,
+    "league": 7000,
+    "name": "Toronto Varsity Blues",
+    "old_name": "Toronto <Tools/Maples/Clams/Tarts>",
+    "source_id": "wiki-torontovarsityblues",
+    "badge_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/01/Varsity_Blues_Logo.svg/330px-Varsity_Blues_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Toronto_Varsity_Blues",
+    "matching_score": 110.0,
+    "image_sha256": "27643a0b7d733ab381a2c38c9673af10a29286ce9e171d7f883e373c8557040a",
+    "pixel_sha256": "7b50b3fb69a90c0a99a196672a09cd06a558215d1dcfb35d43cd854b45ddbfa0",
+    "size": [
+      164,
+      192
+    ]
+  },
+  {
+    "index": 7029,
+    "league": 7000,
+    "name": "UBC Thunderbirds",
+    "old_name": "Vancouver <Volleys/Vixens/Vans>",
+    "source_id": "wiki-ubcthunderbirds",
+    "badge_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e9/UBC_Thunderbirds_Logo.svg/330px-UBC_Thunderbirds_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/UBC_Thunderbirds",
+    "matching_score": 110.0,
+    "image_sha256": "96926c75a4287d50bb6b29a4b8827d43a294b310a8efdf50f8777e3d641cf2f8",
+    "pixel_sha256": "e66f73ba57ab0b63458d81e4217c13f0e6c9757dcce866c8a6019b689c1fed85",
+    "size": [
+      192,
+      176
+    ]
+  },
+  {
+    "index": 7030,
+    "league": 7000,
+    "name": "Alaska Anchorage Seawolves",
+    "old_name": "Anchorage <Whalers/Glaciers/Narwhals/Alaskans>",
+    "source_id": "wiki-alaskaanchorageseawolves",
+    "badge_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/ca/Alaska_Anchorage_Seawolves_logo.svg/330px-Alaska_Anchorage_Seawolves_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Alaska_Anchorage_Seawolves",
+    "matching_score": 62.69230769230769,
+    "image_sha256": "0539dad24a5207d85380d5be3ddd82c3355a448b2c9e912c0a9613c6fb81f826",
+    "pixel_sha256": "9242f95c4cdfaa7afbedf0b48ce5661e129c5a221760d238f90779f68cc2e446",
+    "size": [
+      192,
+      123
+    ]
+  },
+  {
+    "index": 7031,
+    "league": 7000,
+    "name": "Southern Miss Golden Eagles",
+    "old_name": "Biloxi <Blues/Beckys/Dumplins/Bashers>",
+    "source_id": "2572",
+    "badge_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2572.png",
+    "reference": "ESPN public team API",
+    "matching_score": 76.66666666666667,
+    "image_sha256": "96a237ec542de4e546f7ab218a07ac2ac14c591e87ba062a94aab77744cbd3d9",
+    "pixel_sha256": "57c6e6d21c4670269cd4aeea6adf0fbffbdf797eac91f99cb3c9241960bf3a06",
+    "size": [
+      192,
+      192
+    ]
+  }
+]
