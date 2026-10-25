@@ -1,5 +1,12 @@
 # Requested gameplay systems and design requirements
 
+Active selection (25 October 2026): the owner requested fixes for the first
+new-key build's age-up portrait and custom-crime age availability, and deeper
+Roblox/church integration based on screenshots. See
+`project/work/source/community_refresh/README.md`. Native/model validation does
+not establish phone rendering. The broader family-tree/map/crime-story backlog
+remains separate from this selected repair and content update.
+
 This is the consolidated request backlog, not a checklist of completed features.
 **Source present** means relevant implementation artifacts were recovered; it
 does not mean the entire requested scope works on a phone. **Backlog** means no

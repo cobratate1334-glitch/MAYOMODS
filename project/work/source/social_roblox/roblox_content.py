@@ -271,4 +271,8 @@ def build(base):
                  EntryEmoji='iphone', EntrySecondLine='Studio; Robux; classic Builders Club',
                  EntryOrder='25', EntryListID=HUB)
     assets['genesis_feature_containers'] = '\r\n'.join(lines[:start]) + '\r\n' + csv_text(registry + [entry])
-    return assets
+    import sys
+    from pathlib import Path
+    sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+    from community_refresh.content_refresh import expand
+    return expand(base, assets)

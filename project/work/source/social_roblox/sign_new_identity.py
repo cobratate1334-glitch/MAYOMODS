@@ -114,11 +114,20 @@ def patch_identity(dex, native, der):
     return updated, patched
 
 
-def sign(apk, identity_dir, output_dir):
+def sign(apk, identity_dir, output_dir, staging_report=None, output_name='MayoMods_Roblox_New_Key.apk'):
     apk, identity_dir, output_dir = map(Path, [apk, identity_dir, output_dir])
-    assert sha(apk.read_bytes()) == STAGING_SHA, 'Exact validated Roblox staging APK required'
+    expected = STAGING_SHA
+    report = None
+    if staging_report is not None:
+        report = json.loads(Path(staging_report).read_text())
+        assert report['staged'] and not report['signed'] and report['installable_release'] is False
+        expected = report['apk_sha256']
+        with zipfile.ZipFile(apk) as staged:
+            assert sha(staged.read('lib/arm64-v8a/libil2cpp.so')) == report['native_sha256']
+    assert sha(apk.read_bytes()) == expected, 'Exact validated Roblox staging APK required'
+    assert Path(output_name).name == output_name and output_name.endswith('.apk')
     output_dir.mkdir(parents=True, exist_ok=True)
-    target = output_dir / 'MayoMods_Roblox_New_Key.apk'
+    target = output_dir / output_name
     assert not target.exists(), 'Refusing to replace an existing signed APK'
     with zipfile.ZipFile(apk) as z:
         old_dex, old_native = z.read('classes12.dex'), z.read('lib/arm64-v8a/libRocketGames.so')
@@ -171,7 +180,7 @@ def sign(apk, identity_dir, output_dir):
             assert final.read('classes12.dex').count(sha(der).upper().encode('ascii')) == 1
         report = dict(signed=True, user_authorized_new_identity=True,
                       updates_original_key_installation=False, package_name_unchanged=True,
-                      input_sha256=STAGING_SHA, apk_sha256=sha(target.read_bytes()),
+                      input_sha256=expected, apk_sha256=sha(target.read_bytes()),
                       certificate_sha256=sha(der), modified_payloads=sorted(changes),
                       verification_instructions_preserved=True, dex_instructions_unchanged=True,
                       signatures=official, native_signer_verification=native_check,
@@ -186,5 +195,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
     for name in ['apk', 'identity-dir', 'output-dir']:
         parser.add_argument('--' + name, required=True)
+    parser.add_argument('--staging-report')
+    parser.add_argument('--output-name', default='MayoMods_Roblox_New_Key.apk')
     args = parser.parse_args()
-    print(sign(args.apk, args.identity_dir, args.output_dir))
+    print(sign(args.apk, args.identity_dir, args.output_dir, args.staging_report, args.output_name))

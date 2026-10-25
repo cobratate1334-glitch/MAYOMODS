@@ -35,7 +35,7 @@ def add_journal(builder):
             f'bl {routine:#x}\nb finish')
 
 
-def build(raw, manifest_output):
+def build(raw, manifest_output, include_refresh=True):
     # All historical input-hash assertions remain enabled.
     b = previous.Patch(raw)
     previous.portraits(b)
@@ -45,6 +45,9 @@ def build(raw, manifest_output):
     from native_v55.social55 import hooks
     hooks(b)
     add_journal(b)
+    if include_refresh:
+        from community_refresh.native_fixes import hooks as repair_hooks
+        repair_hooks(b)
     result = b.finish55()
     manifest = b.manifest
     manifest['roblox_expansion'] = dict(
@@ -55,6 +58,16 @@ def build(raw, manifest_output):
 
 
 if __name__ == '__main__':
-    if len(sys.argv) != 4:
-        raise SystemExit('Usage: native.py V54_NATIVE OUTPUT_NATIVE OUTPUT_MANIFEST')
-    Path(sys.argv[2]).write_bytes(build(Path(sys.argv[1]).read_bytes(), sys.argv[3]))
+    import argparse
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('base')
+    parser.add_argument('output')
+    parser.add_argument('manifest')
+    parser.add_argument('--previous-native', help='Also reproduce the 1101 native negative control')
+    args = parser.parse_args()
+    raw = Path(args.base).read_bytes()
+    if args.previous_native:
+        control = Path(args.previous_native)
+        assert not control.exists(), 'Refusing to replace the previous native control'
+        control.write_bytes(build(raw, control.with_suffix('.json'), include_refresh=False))
+    Path(args.output).write_bytes(build(raw, args.manifest))

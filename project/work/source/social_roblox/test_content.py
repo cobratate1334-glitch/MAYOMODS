@@ -28,21 +28,59 @@ class Model(GenesisModel):
         self.age, self.bank, self.scene = age, 1000, ''
         self.assets = {**BASE, **OVERLAY}
         self.rows = {r['ScenarioID']: r for r in csv.DictReader(io.StringIO(self.assets[content.SCENES]))}
-        self.schemas = {content.OWNER: {r['key']: r for r in csv.DictReader(io.StringIO(OVERLAY[content.DEFAULTS]))}}
-        self.props = {content.OWNER: {k: int(r['value']) if r['type'] == 'int' else r['value']
-                                      for k, r in self.schemas[content.OWNER].items()}}
+        self.schemas = {}
+        self.props = {}
+        for owner, name in [(content.OWNER, content.DEFAULTS), ('gameplay52', 'genesis_v18_defaults_gameplay52')]:
+            self.schemas[owner] = {r['key']: r for r in csv.DictReader(io.StringIO(self.assets[name]))}
+            self.props[owner] = {k: int(r['value']) if r['type'] == 'int' else r['value'] for k, r in self.schemas[owner].items()}
         self.journal = []
+        self.sync_calendar()
 
     @property
     def q(self):
         return self.props[content.OWNER]
 
     def route(self, target):
-        super().route(target)
+        for part in self.split(target):
+            if part.startswith('BP_BANK_BALANCE='):
+                self.bank += self.number(part.split('=', 1)[1])
+            else:
+                super().route(part)
+            if part.startswith('BP_GFC_MODIFY_PROPERTY=roblox_social:SyncCalendar:'):
+                self.sync_calendar()
         # This is a modeled boundary, separately tested with emitted ARM64.
         if self.q['JournalSequence'] > self.q['JournalLogged']:
             self.journal.append(self.q['JournalMessage'])
             self.q['JournalLogged'] = self.q['JournalSequence']
+        church = self.props['gameplay52']
+        if church['StoryJournalSequence'] > church['StoryJournalLogged']:
+            self.journal.append(church['StoryJournalMessage'])
+            church['StoryJournalLogged'] = church['StoryJournalSequence']
+
+    def sync_calendar(self):
+        q = self.q
+        if q['SchemaVersion'] != 2:
+            q.update(SchemaVersion=2, CalendarAge=self.age, PlaceLimit=1, GroupLimit=0,
+                     ActivePlaces=min(q['Games'], 100))
+            if q['Club'] and q['ClubAge'] == self.age:
+                daily, places, groups = {1: (15, 10, 10), 2: (35, 25, 20), 3: (60, 100, 100)}[q['Club']]
+                q.update(DaysRemaining=365, SigningBonusGranted=1, DailyRobux=daily,
+                         PlaceLimit=places, GroupLimit=groups)
+                q['Hat' + str(q['Club'])] = 1
+        if self.age <= q['CalendarAge']:
+            return
+        days = 365 * (self.age - q['CalendarAge'])
+        if not q['Lifetime']:
+            days = min(days, q['DaysRemaining'])
+        amount = days * q['DailyRobux']
+        q.update(CalendarAge=self.age, LastAllowance=amount, LastAllowanceDays=days)
+        q['Robux'] = min(100000000, q['Robux'] + amount)
+        if amount:
+            self.journal.append(f'I received {amount} Roblox membership Robux for {days} elapsed simulated days.')
+        if not q['Lifetime']:
+            q['DaysRemaining'] -= days
+            if q['DaysRemaining'] == 0:
+                q.update(Club=0, ClubName='Free account', DailyRobux=0, PlaceLimit=1, GroupLimit=0)
 
     def choose(self, key, index=1):
         row = self.rows[content.scene(key)]
@@ -72,7 +110,10 @@ class ContentTests(unittest.TestCase):
     def test_registration_and_preservation(self):
         prior = list(csv.DictReader(io.StringIO(BASE[content.SCENES])))
         current = list(csv.DictReader(io.StringIO(OVERLAY[content.SCENES])))
-        self.assertEqual(current[:len(prior)], prior)
+        revised = {'scenario.activitiesV18.action52_' + str(n) for n in range(92, 109)}
+        for before, after in zip(prior, current):
+            if before['ScenarioID'] not in revised:
+                self.assertTrue(before == after, before['ScenarioID'])
         self.assertEqual(len({r['ScenarioID'] for r in current}), len(current))
         registry = OVERLAY['genesis_feature_containers']
         lines = registry.splitlines()
@@ -112,7 +153,7 @@ class ContentTests(unittest.TestCase):
                         elif part.startswith('BP_GFC_'):
                             owner, field, _ = part.split('=', 1)[1].split(':', 2)
                             self.assertIn(field, m.schemas[owner])
-                        else:
+                        elif not part.startswith('BP_BANK_BALANCE='):
                             self.fail('Unsupported route ' + part)
                 self.assertFalse(row[f'Choice{n}_LogEntryLine1'], 'Continuations must not duplicate journal receipts')
 
@@ -188,23 +229,13 @@ class ContentTests(unittest.TestCase):
         self.assertEqual(m.q['Actions'], 1)
         self.assertEqual(m.q['Tested'], 1)
 
-    def test_membership_costs_expiry_and_single_stipend(self):
-        for tier, price, stipend in [(1, 200, 100), (2, 500, 275), (3, 1000, 600)]:
+    def test_legacy_membership_destinations_cannot_charge_or_award(self):
+        for tier in range(1, 4):
             m = Model()
             m.join()
             state = m.saved_state()
             m.choose('club' + str(tier))
             self.assertEqual(m.saved_state(), state)
-            m.q['Robux'] = price
-            m.choose('club' + str(tier))
-            self.assertEqual(m.q['Robux'], 0)
-            m.choose('grant' + str(tier))
-            self.assertEqual(m.q['Robux'], stipend)
-            for other in range(1, 4):
-                m.choose('grant' + str(other))
-            self.assertEqual(m.q['Robux'], stipend)
-            m.ageup()
-            state = m.saved_state()
             m.choose('grant' + str(tier))
             self.assertEqual(m.saved_state(), state)
             self.assertEqual(m.bank, 1000)
@@ -227,6 +258,7 @@ class ContentTests(unittest.TestCase):
         state = m.saved_state()
         m.choose('update')
         self.assertEqual(m.saved_state(), state)
+        m.choose('refresh_archive_all')
         m.choose('genre2')
         for _ in range(2):
             m.choose('build')

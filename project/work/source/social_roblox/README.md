@@ -1,5 +1,9 @@
 # Roblox social expansion — work in progress
 
+Current branch: the 1102 portrait/crime-age and illustrated content update is
+described in `../community_refresh/README.md`. It reuses the established 1101
+signing key. The reconstruction commands below include the updated native tests.
+
 The owner subsequently authorized a separate signing identity. The exact
 validated staging APK was signed with a new RSA-3072 key; private material and
 its ZIP backup remain outside the checkout. The original-key installation
@@ -38,7 +42,8 @@ It does not patch native addresses, change genetics, or replace existing menus.
 The selected development input is the supplied v54 APK. The existing v55 repair
 pipeline can be reproduced from it in a disposable project copy. Never bypass
 its input hashes or use v56 native code. Keep all APKs and signing material out
-of Git. The original signing backup remains required for an installable update.
+of Git. The original signing backup remains required to update an original-key
+installation. The separate 1101/1102 line reuses the already-authorized new key.
 
 Source model checks do not establish Android installation, native Genesis
 evaluation, journal emission, Unity rendering or save compatibility on a phone.
@@ -73,25 +78,24 @@ with ZipFile(p) as z:
         Path(name).write_bytes(z.read('lib/arm64-v8a/'+name))
 PY
 "$roblox_python" work/source/native_v55/content55.py
-"$roblox_python" work/source/social_roblox/native.py libil2cpp.so "$roblox_work/roblox-libil2cpp.so" "$roblox_work/roblox-native.json"
+"$roblox_python" work/source/social_roblox/native.py libil2cpp.so "$roblox_work/roblox-libil2cpp.so" "$roblox_work/roblox-native.json" --previous-native "$roblox_work/previous-libil2cpp.so"
 "$roblox_python" work/source/native_v55/startup55.py libRocketGames.so
 "$roblox_python" work/source/native_v55/assets55.py /workspace/private_inputs/BitLife_MayoMods_v54_Crash_Repairs.apk
 "$roblox_python" work/source/social_roblox/test_native.py "$roblox_work/roblox-libil2cpp.so" "$roblox_work/project/work/source/native_v55" "$roblox_work/roblox-native-validation.json"
-"$roblox_python" work/source/native_v55/test_native55.py "$roblox_work/roblox-libil2cpp.so"
+"$roblox_python" work/source/community_refresh/validate_native.py "$roblox_work/roblox-libil2cpp.so" "$roblox_work/previous-libil2cpp.so" "$roblox_work/project/work/source/native_v55" "$roblox_work/refresh-validation.json" --retained
 "$roblox_python" work/source/native_v55/test_content55.py "$roblox_work/roblox-libil2cpp.so" work/source/native_v55/libRocketGames.so
-"$roblox_python" work/source/native_v55/test_retained55.py "$roblox_work/roblox-libil2cpp.so"
 "$roblox_python" work/source/social_roblox/package.py \
   --base /workspace/private_inputs/BitLife_MayoMods_v54_Crash_Repairs.apk \
   --repair-dir "$roblox_work/project/work/source/native_v55" \
   --native "$roblox_work/roblox-libil2cpp.so" \
   --manifest "$roblox_work/roblox-native.json" \
-  --journal-validation "$roblox_work/roblox-native-validation.json" \
+  --journal-validation "$roblox_work/refresh-validation.json" \
   --out "$roblox_work/staging"
 /workspace/MAYOMODS/project/local_tools/aapt2 dump badging "$roblox_work/staging/MayoMods_Roblox_UNSIGNED_WORK.apk"
 ```
 
-The staged APK is unsigned and cannot serve as an update. Version code 1101 is
-above the documented prior candidates, but the actual installed version remains
+The staged APK is unsigned and cannot serve as an update. Version code 1102 is
+above the first new-key build, but the actual installed version remains
 unknown. DEX instructions and Android declarations are retained; the historical
 v55 builder changes diagnostic labels and updates the native diagnostics map.
 Do not feed this file to the historical v55 builder: it does not know the new

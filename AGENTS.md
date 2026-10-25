@@ -9,6 +9,15 @@ older release READMEs and `LATEST_BUILD.md` files are historical evidence.
 
 ## Current objective and branch
 
+- Active cloud task: repair the owner's reported age-up black header portrait
+  and custom crime rows available in childhood; improve Roblox and church using
+  the supplied screenshots/art. Candidate 1102 uses the exact supplied v54 APK
+  through the retained v54-to-v55 repair pipeline plus `community_refresh`.
+  Reuse the existing 1101 new signing identity for updates; do not ask for the
+  exact v55 APK to run this documented pipeline. Preserve the historical v55a
+  workstream separately. The owner supplied phone UI evidence after the 1101
+  download; exact installed hash and complete device acceptance are unverified.
+
 - Use the recovered **v55** APK/game logic as the requested baseline.
 - The focused scar/eyepatch candidate lives in `project/work/source/native_v55a`.
 - **Installation is unresolved.** The user reported `App not installed` for

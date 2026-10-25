@@ -1,5 +1,15 @@
 # Expansion intake — 25 October 2026
 
+**Current feedback update:** the owner supplied classic Builders Club price and
+launch-mail references, plus current phone screenshots showing the Roblox,
+church and crime menus and the black portrait. Restarting restores the face.
+Candidate 1102 adds hero cache invalidation on age change, corrected mipmap and
+CPU-readability handling, adult custom-crime entry gates, reference-based club
+terms/benefits and imported original hats, and illustrated continuing parish
+cases. It reuses the 1101 signing key. The prior statement below that no gameplay
+screenshots were supplied describes the earlier intake stage. Current source
+and acceptance details are in `project/work/source/community_refresh/README.md`.
+
 **Later signer decision:** the owner explicitly authorized a new signing key.
 The Roblox candidate is now signed with a separately backed-up development
 identity, with matching internal certificate expectations. It passed signature,

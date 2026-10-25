@@ -1,5 +1,23 @@
 # Important history and decisions
 
+## First new-key phone feedback and candidate 1102
+
+The owner reported an age-up black profile, childhood custom-crime access and
+insufficient Roblox/church depth, and supplied classic Builders Club references
+plus current game UI screenshots. The portrait CPU-copy path was found to leave
+lower mip levels uninitialized; the centered-header path also discarded CPU
+pixels needed by later copies. Candidate 1102 corrects those flags. Custom crime
+rows now use the existing native adult eligibility check; existing native action
+age checks remain. It also imports the original classic hard hats, implements
+the reference membership terms/benefits, more differentiated creator actions
+and continuing illustrated parish cases. Source/model/emulation validation and
+phone acceptance remain separate. The 1101 signing identity is retained.
+
+The owner clarified that restarting restores the face. The candidate also
+invalidates only the actual hero's cached image when its age changes, before
+the cached-header lookup. It uses the prior appearance code's existing targeted
+removal API and a saved age marker; repeated same-age/NPC reads do not evict it.
+
 ## Cloud expansion work — 25 October 2026
 
 After the first unsigned candidate, the owner explicitly authorized creation

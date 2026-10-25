@@ -1,5 +1,23 @@
 # Known bugs and verification gaps
 
+Current phone feedback (25 October 2026): after receiving the first new-key APK,
+the owner supplied Roblox/church/crime/home UI screenshots and reported the
+header portrait becoming black after age-up. The screenshot shows a black
+header square and custom crew-heist/leave-crew rows enabled during childhood.
+The exact installed file hash was not supplied. Candidate 1102 corrects the
+CPU portrait-copy mipmap flag and centered-image readability, adds native custom
+entry age gates, and expands illustrated Roblox/church content. The old native
+action handlers already enforced age 18; their economic rejection is tested
+separately from the missing menu disabled state. PORTRAIT-006 remains a candidate
+repair until the owner's age-up/reload test passes. Historical installation
+failures below are not relabeled as resolved by these screenshots.
+
+The owner additionally confirmed that closing/reopening restores the black
+portrait. Candidate 1102 therefore also invalidates the current hero's cached
+portrait once when age changes before the header lookup, using the retained
+targeted removal API. Same-age reads and NPCs do not trigger that invalidation.
+This remains a device acceptance check, alongside the mip/readability fixes.
+
 New-key candidate (25 October 2026): the owner explicitly authorized a separate
 development signer. Its final signed APK passed apksig, native signer matching,
 ZIP/alignment and aapt2 checks. It cannot update an installation signed with the
