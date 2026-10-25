@@ -1,5 +1,16 @@
 # Important history and decisions
 
+## Cloud expansion work — 25 October 2026
+
+The owner supplied the exact v54 APK and broadened scope to family trees, an
+in-game location map, expanded crime content, genetics/era artwork and Roblox.
+Roblox was clarified as a Social entry with fictional Robux, classic Builders
+Club and an offline wiki. The original v54-to-v55 repair pipeline was reproduced
+in a disposable source copy; source/model/native checks are distinct from phone
+acceptance. New implementation and reference access are recorded in
+`EXPANSION_INTAKE.md`. No original private signer is present and no new identity
+was generated. No signed release or device installation is established.
+
 This is a reconstructed project history, not a Git commit log. It combines
 available source archives, release reports, relevant older chat records and the
 current handover conversation. Dates below distinguish reported events from

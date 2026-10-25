@@ -1,5 +1,11 @@
 # Known bugs and verification gaps
 
+Cloud expansion note (25 October 2026): the supplied v54 APK's hash, Android
+parser and v3 signature were verified. This does not resolve INSTALL-001 or the
+v54 launch/resume failure. The v54-to-v55 repair pipeline and first Roblox
+expansion are under off-device validation; see `EXPANSION_INTAKE.md`. Actual
+device acceptance remains pending, and no original private signer is present.
+
 Status date: 25 October 2026. **A candidate code fix is not a confirmed phone
 fix.** Preserve reports of failed installation even when archived build reports
 say `passed: true`.

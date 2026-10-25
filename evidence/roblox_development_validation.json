@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-25",
+  "content_model": {
+    "passed": true,
+    "unit_tests": 13,
+    "randomized_life_actions": 1848,
+    "boundary": "Modeled Genesis expression evaluation and serialization; not native Genesis execution"
+  },
+  "native_journal": {
+    "passed": true,
+    "checks": 12,
+    "cases": [
+      "rejected setter does not journal",
+      "other owners cannot journal a Roblox receipt",
+      "committed result reaches the actual LifeLog call boundary",
+      "duplicate callback suppressed",
+      "next committed action journals a distinct result",
+      "stale callback suppressed",
+      "rejected setter does not journal",
+      "other owners cannot journal a Roblox receipt",
+      "committed result reaches the actual LifeLog call boundary",
+      "duplicate callback suppressed",
+      "next committed action journals a distinct result",
+      "stale callback suppressed"
+    ],
+    "binary_sha256": "cda79e8cd06e71fd8a5daa6ca811a0b4a231ed0e65e8c85c620d259a3ba3cc1d",
+    "physical_phone_tested": false,
+    "ART_tested": false,
+    "Unity_rendering_tested": false
+  },
+  "historical_checks": {
+    "native55_validation.json": {
+      "passed": true,
+      "checks": 81,
+      "binary_sha256": "cda79e8cd06e71fd8a5daa6ca811a0b4a231ed0e65e8c85c620d259a3ba3cc1d"
+    },
+    "structure55_validation.json": {
+      "passed": true,
+      "checks": 197
+    },
+    "retained53_validation55.json": {
+      "passed": true,
+      "checks": 391,
+      "binary_sha256": "cda79e8cd06e71fd8a5daa6ca811a0b4a231ed0e65e8c85c620d259a3ba3cc1d"
+    },
+    "retained54_validation55.json": {
+      "passed": true,
+      "checks": 82,
+      "binary_sha256": "cda79e8cd06e71fd8a5daa6ca811a0b4a231ed0e65e8c85c620d259a3ba3cc1d"
+    },
+    "startup55_validation.json": {
+      "passed": true,
+      "sha256": "bfb19d928e5da3ca97c683bbde91336bfd876ce0b3eddb9333b985fb84860c53"
+    },
+    "content55_validation.json": {
+      "passed": true,
+      "checks": 39820
+    }
+  },
+  "staging": {
+    "staged": true,
+    "signed": false,
+    "installable_release": false,
+    "apk_sha256": "d2f1fc33b5598666bc09ac2696cf64cbe00940bb44ad7423248723c1916f5e98",
+    "base_sha256": "324c9ed859548cfe5a932ebf6d725a5db64ca65890b97d583b806cff9d4f4615",
+    "native_sha256": "cda79e8cd06e71fd8a5daa6ca811a0b4a231ed0e65e8c85c620d259a3ba3cc1d",
+    "version_code": 1101,
+    "modified_entries": [
+      "AndroidManifest.xml",
+      "assets/bin/Data/data.unity3d",
+      "assets/bin/Data/datapack.unity3d",
+      "assets/mayomods54/native_symbols.json",
+      "classes13.dex",
+      "lib/arm64-v8a/libRocketGames.so",
+      "lib/arm64-v8a/libil2cpp.so"
+    ],
+    "asset_checks": {
+      "preserved_objects": 39824,
+      "content_assets": 5,
+      "added_text_assets": 3
+    },
+    "physical_phone_tested": false,
+    "ART_tested": false,
+    "Unity_rendering_tested": false
+  },
+  "android_parser": {
+    "passed": true,
+    "scope": "aapt2 badging on unsigned staging APK; not Android installation"
+  },
+  "source_hashes": {
+    "project/work/source/social_roblox/test_content.py": "b6e8908fb54d371366bb1c3800651d9f3cea50f243bf55a70fa8112e6e8accd9",
+    "project/work/source/social_roblox/test_native.py": "a1a3043ad76780235fd0b9ad2d2cad3fd35109229563ed73828c4b1a74981b11",
+    "project/work/source/social_roblox/native.py": "87ebd6f44ebf49c7bdb3a4e73f809897f51d60f0d002c22e161d3c5c708c686f",
+    "project/work/source/social_roblox/package.py": "2482bc628f2bb75fe91fffd387d4d678f643859741db6424d8a7f631a6f6a58c",
+    "project/work/source/social_roblox/roblox_content.py": "bcbf7ed2046bd4548d93dd79539724af07406ba5f2ac6f895749633933c894f8"
+  }
+}

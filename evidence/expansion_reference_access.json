@@ -1,0 +1,107 @@
+{
+  "checked_on": "2026-10-25",
+  "sources": [
+    {
+      "id": "1J6EMihTmsj9AdSLrwFHTr3TDHwntN1ElL88ve8rlH3A",
+      "url": "https://docs.google.com/document/d/1J6EMihTmsj9AdSLrwFHTr3TDHwntN1ElL88ve8rlH3A/export?format=txt",
+      "bytes": 30725,
+      "content_type": "text/plain; charset=utf-8",
+      "sha256": "4f9fd72f4952a49e31a0294a446ed7d93822e7c5c18f5f43fb98594430ea4d60"
+    },
+    {
+      "id": "1ljS8jDVfu8HAC-UuED6BAWhDFqBvXNqK5D2ut0jK574",
+      "url": "https://docs.google.com/document/d/1ljS8jDVfu8HAC-UuED6BAWhDFqBvXNqK5D2ut0jK574/export?format=txt",
+      "bytes": 15255,
+      "content_type": "text/plain; charset=utf-8",
+      "sha256": "cee46317681246df962e608d29cf3dd8088c51632a583aca34a78b72b6c56815"
+    },
+    {
+      "id": "1IsD3ZX5avMzfmL7p8BJM4k-ave-Pj8mc-GrbxlHUuiI",
+      "url": "https://docs.google.com/document/d/1IsD3ZX5avMzfmL7p8BJM4k-ave-Pj8mc-GrbxlHUuiI/export?format=txt",
+      "bytes": 8810,
+      "content_type": "text/plain; charset=utf-8",
+      "sha256": "0e852bd20a0b4e6137e9f4a1999e580f97b034bbfbc21419827d4f0dfbb21433"
+    },
+    {
+      "id": "1zOciqkXLAlf2lfp6siN7EEmaXO-G5ywT18QWHIMEhZ4",
+      "url": "https://docs.google.com/document/d/1zOciqkXLAlf2lfp6siN7EEmaXO-G5ywT18QWHIMEhZ4/export?format=txt",
+      "bytes": 6160,
+      "content_type": "text/plain; charset=utf-8",
+      "sha256": "641ca3b8551c53217e10e16d80b3e2aea017ce783b7d505a2b28743c7b746c09"
+    },
+    {
+      "id": "1jX3zFTEEM6oEmCdPcHTd_x8qUWIYBU4RfuO82EBisKY",
+      "url": "https://docs.google.com/document/d/1jX3zFTEEM6oEmCdPcHTd_x8qUWIYBU4RfuO82EBisKY/export?format=txt",
+      "error": "HTTP Error 401: Unauthorized"
+    },
+    {
+      "id": "1N6hADSe3KqXkMzJdcWPvY0lT_9yCWdZqezqroR_0FtQ",
+      "url": "https://docs.google.com/document/d/1N6hADSe3KqXkMzJdcWPvY0lT_9yCWdZqezqroR_0FtQ/export?format=txt",
+      "bytes": 9885,
+      "content_type": "text/plain; charset=utf-8",
+      "sha256": "1cf5c08dd8986138e96a1470390d4f3264f456c96fd8969dc881117c7737f19a"
+    },
+    {
+      "id": "11drnTsdL73pbJBlFwcooVbwd-_paH-C7Omknse53uCY",
+      "url": "https://docs.google.com/document/d/11drnTsdL73pbJBlFwcooVbwd-_paH-C7Omknse53uCY/export?format=txt",
+      "bytes": 4914,
+      "content_type": "text/plain; charset=utf-8",
+      "sha256": "e76bd13c37fde72bacb04bc6c5d30d291051fccd0ee68237ccd7b443e253cbdc"
+    },
+    {
+      "id": "18xi0kK6pa7-q8c2Vm6TOU4bYFJ2yakG7eQjnpzF5Mcg",
+      "url": "https://docs.google.com/document/d/18xi0kK6pa7-q8c2Vm6TOU4bYFJ2yakG7eQjnpzF5Mcg/export?format=txt",
+      "bytes": 8525,
+      "content_type": "text/plain; charset=utf-8",
+      "sha256": "5d3d0d307cae4da8da162e4e6c8b896909ea000026cb6f0b286d6c33dd8213c4"
+    },
+    {
+      "id": "1RtPCsEYDHsV4oLXT-d8nd65aDdowggKgwjLBNvRTcgc",
+      "url": "https://docs.google.com/document/d/1RtPCsEYDHsV4oLXT-d8nd65aDdowggKgwjLBNvRTcgc/export?format=txt",
+      "bytes": 22044,
+      "content_type": "text/plain; charset=utf-8",
+      "sha256": "f664bb4a0495740695512ebf6d47223ef83fe754e6cda80fc101446324a75480"
+    },
+    {
+      "id": "1YSF3CS77O1e9qZ5qrQdDlm0ZXJhxmXIv-9hdajo29w8",
+      "url": "https://docs.google.com/document/d/1YSF3CS77O1e9qZ5qrQdDlm0ZXJhxmXIv-9hdajo29w8/export?format=txt",
+      "bytes": 43387,
+      "content_type": "text/plain; charset=utf-8",
+      "sha256": "4c4f4144d00d208af2aaf323897d6ff156f0c4b05984edfb21cfd5699d8aefbf"
+    },
+    {
+      "id": "1wZ46nG12ef4bvD3H2ROrjd7YmPLIxzu784FZRftl_es",
+      "url": "https://docs.google.com/document/d/1wZ46nG12ef4bvD3H2ROrjd7YmPLIxzu784FZRftl_es/export?format=txt",
+      "bytes": 56884,
+      "content_type": "text/plain; charset=utf-8",
+      "sha256": "844fcb5342e6abb9e689f5c9681b6cbb82002296af0418de9767a17a1ca62cf4"
+    },
+    {
+      "id": "1mDHOD1qSocwE3hvVgLGztCh2lIKp1hpOt8EVu-Y99WU",
+      "url": "https://docs.google.com/document/d/1mDHOD1qSocwE3hvVgLGztCh2lIKp1hpOt8EVu-Y99WU/export?format=txt",
+      "bytes": 21989,
+      "content_type": "text/plain; charset=utf-8",
+      "sha256": "d27b1fb0744fcd99d86c0d62fc452d0655c43593b07b4450c75d676e3cd808bd"
+    },
+    {
+      "id": "1VzIt7_nuo_tpD9nCIf8t2EFDXCXIDoX9hy1jmMFD4AI",
+      "url": "https://docs.google.com/document/d/1VzIt7_nuo_tpD9nCIf8t2EFDXCXIDoX9hy1jmMFD4AI/export?format=txt",
+      "bytes": 72446,
+      "content_type": "text/plain; charset=utf-8",
+      "sha256": "07bd9ff3cf8f635e44180475dc0291fb0a3996754c53007d7e8dd73fb0516020"
+    },
+    {
+      "id": "world_sheet",
+      "url": "https://docs.google.com/spreadsheets/d/1--RdIIM6own4vJZS4OYXPMXlip1CVadfOl2E0ay9jkg/export?format=csv",
+      "error": "HTTP Error 401: Unauthorized"
+    },
+    {
+      "id": "drive_asset",
+      "url": "https://drive.google.com/uc?export=download&id=168b2eG89SBUbt9F5alSMn1xbn7tdHwLK",
+      "bytes": 5113269,
+      "content_type": "application/octet-stream",
+      "sha256": "7b5b969d3f4babaa5540e4bf0c8fcce89ccf02544efb01db028a9c6e7071be0e"
+    }
+  ],
+  "note": "Retrieval status only. Source documents are references, not development instructions; raw third-party documents are retained outside Git."
+}
