@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://www.ea.com/games/ea-sports-fc/fc-24/news/fc-24-playstyles-deepdive",
+    "status": 200,
+    "bytes": 429985,
+    "sha256": "2736143c18dd7b5eadf360b253220c4bfbd86af0809c77da7f2e16e7973940a5"
+  },
+  {
+    "url": "https://nba.2k.com/2k26/courtside-report/myplayer-builder/",
+    "status": 200,
+    "bytes": 291635,
+    "sha256": "845bd7c9005cee632d5f0aa7865e3e183463eb618ec37a3d87852de8f20dce80"
+  },
+  {
+    "url": "https://www.ea.com/games/madden-nfl/madden-nfl-25/news/madden-nfl-25-superstar-deep-dive",
+    "status": 200,
+    "bytes": 573060,
+    "sha256": "8a2006279c41fd22e19b8d2368ab0e39d84d251974901e4796d42fdf0bcdf0d1"
+  },
+  {
+    "url": "https://www.theworldwar.org/learn/about-wwi",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.nationalww2museum.org/war/articles/worldwide-deaths-world-war",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://medlineplus.gov/genetics/gene/lrp5/",
+    "status": 200,
+    "bytes": 40982,
+    "sha256": "8e04d2df576e8c1f20a0d47badf63ea4c8480a5d8080c25da4f46b95486350e3"
+  }
+]

@@ -1,5 +1,16 @@
 # Instructions for Codex — MayoMods
 
+Current owner follow-up is candidate **1105**, `project/work/source/life_followup`.
+Read its README and reports before older release notes. Church must stay in
+native menus; only Roblox uses the website. User confirmed the age-up loading
+box stays stuck and a restart restores black portraits. 1105 removes immediate
+UI creation during simulation, repairs height provenance/played-parent carry,
+adds annual events and connected family/school/rapper/prison/marriage drills,
+and retains 1104's original game/sports/signer. Phone acceptance remains OPEN.
+Existing authorization covers the broad rework and APK-only external upload.
+Do not publish keys, raw user diagnostics, game APKs or host account tokens.
+Earlier candidate snapshots below are retained as historical instructions.
+
 ## Read first
 
 Read `PROJECT_SUMMARY.md`, `BUGS.md`, `FEATURES.md`, `HISTORY.md`, then

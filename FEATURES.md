@@ -1,5 +1,16 @@
 # Requested gameplay systems and design requirements
 
+Active candidate **1105** implements the owner follow-up in native game menus,
+except for the retained Roblox website. See [its README](project/work/source/life_followup/README.md)
+for concrete effects and remaining scope. Added annual war notices/call-ups,
+school stories/varied exams, period social invitations, rapper skills and peer
+outcomes without energy, playstyle drills, birth-trait controls, real relatives
+and country ancestry across played generations, prison crews/fights/discipline,
+and gradual marriage/separation feeding the original divorce asset settlement.
+Height/portrait/queue repairs, compact launcher/tools and square Reddit artwork
+are included. Features require device acceptance; this is not a promise that
+all original stock systems have been replaced or every backlog item is complete.
+
 Current candidate **1104** adds the life rework described in
 [its README](project/work/source/life_rework/README.md): appearance controls,
 owned header textures, live family heights, era restrictions/early-year presets,

@@ -1,5 +1,21 @@
 # Known bugs and verification gaps
 
+Candidate **1105** follows the owner's confirmed stuck age-up loading box.
+The concrete 1104 defect was passing a resource name to a CSV-consuming
+scenario API during simulation. 1105 prepares state and registers annual queue
+content instead. Original stock age simulation is retained. Native profile
+height checks now cover female USA/Afghanistan/UK newborns, manual 178 cm and
+carried played-parent heights. Church is native again. Shopping removes a
+market-regeneration side effect from list construction. Portrait recovery is
+bounded and delayed across Unity frames, retaining owned last-good pixels.
+
+These repairs are **open for device acceptance**, including PORTRAIT-006.
+No phone/ART/Unity graphics run is established for this exact candidate. Reports
+in `life_followup/reports` distinguish modeled API tests from real package checks.
+The README records remaining limits: unknown NPC ancestry, clinical genetics,
+separate-household custody/alimony and fully historical stock economics are not
+claimed complete. Earlier entries below describe previous candidates.
+
 Candidate **1104**: the uploaded diagnostics match native 1102. The destroyed-
 transform warning does not prove why the header turns black. The new header
 owns validated copied pixels and performs bounded Unity-thread recovery;

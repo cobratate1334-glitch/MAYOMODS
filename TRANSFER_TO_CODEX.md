@@ -1,5 +1,13 @@
 # Transfer this project to Codex
 
+Active follow-up: **1105**, `project/work/source/life_followup`.
+Read its README, root current notes and `evidence/life_followup_1105_verification.json`.
+The user confirmed loading stays stuck, requested native Church, and rejected
+uniform female 178 cm heights. Preserve the normal annual queue, save IDs,
+existing signer and Roblox website. Tests are local/model-based except real
+package verification; the owner must still confirm phone behavior. Existing
+broad work and APK-only external upload authorization remain valid.
+
 Current follow-up is candidate 1104 in `project/work/source/life_rework`.
 Read its README, root summary/bugs and `evidence/life_rework_1104_verification.json`
 for the delivered artifact and verified limits. Supplied diagnostics match

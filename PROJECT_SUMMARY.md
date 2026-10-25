@@ -1,5 +1,22 @@
 # MayoMods project handover
 
+Candidate **1105** is the active follow-up. Source and exact limits:
+[life_followup/README.md](project/work/source/life_followup/README.md).
+The age-up annual hook now uses the normal engine queue; Church is native;
+height migration and actual played-parent inheritance replace false default
+178 cm targets. School cases/exams, era invitation gates, rapper skills/deals,
+three-sport drills, rare birth traits, actual family/ancestry history, prison
+consequences and original divorce settlement are connected to saves. Launcher
+and Reddit geometry were revised. The original Unity game and signer remain.
+
+Signed APK SHA-256: `cdff6bc415263e4ebd37c1180949096f5391fc3cbd0fda2149f5152f55b62fde`
+(380,414,766 bytes). Download: <https://gofile.io/d/nep1iikF>. Delivery is recorded in
+`evidence/life_followup_1105_delivery.json`.
+Native and content checks use explicit managed API models; APK signature,
+payload, CRC and alignment checks passed. Actual phone installation, Unity
+rendering, shopping, stuck-loading and black-portrait acceptance remain pending.
+The earlier 1104/1103 descriptions below are historical snapshots.
+
 Prepared 25 October 2026, Australia/Adelaide. This package restores the available
 source and records the evidence boundary after repeated install failures.
 

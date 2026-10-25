@@ -1,0 +1,38 @@
+{
+  "passed": true,
+  "changed_text_assets": 22,
+  "preserved_objects": 40452,
+  "old_resources_preserved": true,
+  "reddit_geometry": [
+    {
+      "sprite": "community_button_icon",
+      "sprite_id": 10040,
+      "texture_id": 40477,
+      "canvas": [
+        77,
+        73
+      ],
+      "mark": [
+        73,
+        73
+      ],
+      "pixel_sha256": "72fe8caa866f44e573e8642046ca6a18b7d7349b5235a6689e88ad7ef136d0b6"
+    },
+    {
+      "sprite": "a16_multiPurposeCommunityIcon",
+      "sprite_id": 15728,
+      "texture_id": 40478,
+      "canvas": [
+        77,
+        27
+      ],
+      "mark": [
+        27,
+        27
+      ],
+      "pixel_sha256": "37b00b7b1807c2fd0a12dc84491cdc6edfaf14dd8b30016ca16e1349af673d2e"
+    }
+  ],
+  "datapack_sha256": "86f97591b319354afe6759675d3f6b11b2b7aea33f48c63d71b27581dfd0e229",
+  "data_sha256": "91f8a89aa0b16eb0cd77a8a1a6790d1f2d30b8697dca0dac36cd213461173bec"
+}

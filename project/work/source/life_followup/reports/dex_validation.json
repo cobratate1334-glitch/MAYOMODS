@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "binary_sha256": "27c433581c7f638d4df06dd93d1aecd730ff7c4854ae41f8640b29f521c600dd",
+  "preserved_classes": 57,
+  "changed_families": [
+    "DiagnosticsUI",
+    "InGameTools40",
+    "LauncherIcon",
+    "NamePackUI",
+    "StartupActivity",
+    "ToolStyle41"
+  ],
+  "smali_roundtrip": true,
+  "min_api": 25,
+  "ART_tested": false
+}

@@ -1,5 +1,19 @@
 # Important history and decisions
 
+## Candidate 1105 — owner life follow-up, 25 October 2026 UTC
+
+The owner clarified Church should use native game popups and confirmed annual
+loading remains stuck. Traced and removed 1104's immediate scenario creation
+with an incorrect filename-as-CSV argument, registering the normal annual queue.
+Corrected height provenance, actual profile dictionary/order, sex/country priors
+and played-parent carry. Added connected family/ancestry archive, birth traits,
+rapper skills/peer outcomes (EGGUVOID), school forms/cases, three-sport drills,
+prison consequences and marriage proceedings through stock divorce. Retained
+Roblox commands, native military initialization, real team assets and signer.
+Built/signed 1105 with official signature/native-binding and payload/alignment
+checks. Sanitized reports and feature limits live under `life_followup`.
+Phone graphics, portrait/loading and install acceptance are still pending.
+
 ## Life systems and historical campaigns — candidate 1104
 
 The owner supplied 1102 diagnostics and expanded the request to genetics,
