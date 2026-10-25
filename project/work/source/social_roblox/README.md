@@ -1,5 +1,31 @@
 # Roblox social expansion — work in progress
 
+The owner subsequently authorized a separate signing identity. The exact
+validated staging APK was signed with a new RSA-3072 key; private material and
+its ZIP backup remain outside the checkout. The original-key installation
+cannot accept this as an update. No uninstall, data deletion or package rename
+was performed. Final signatures, internal signer agreement, ZIP/alignment and
+package parsing passed; phone installation and runtime remain untested.
+
+`sign_new_identity.py` binds the existing launcher/native certificate literals
+to this identity without disabling verification or changing DEX instructions.
+It preserves DEX string ordering, pins the input APK hash, refuses overwrites,
+and reuses an existing private identity instead of silently generating another.
+The first exact staging file can be signed with:
+
+```sh
+.venv/bin/python project/work/source/social_roblox/sign_new_identity.py \
+  --apk /workspace/build_work/roblox-staging-final/MayoMods_Roblox_UNSIGNED_WORK.apk \
+  --identity-dir /workspace/private_signer/roblox-new-identity \
+  --output-dir /workspace/build_work/roblox-new-key
+```
+
+That output directory already contains the signed development APK. Do not run
+the command again with the same output; it intentionally refuses replacement.
+Keep `MayoMods_New_Signing_Backup.zip` private and retained for future updates.
+Public hashes and evidence are in `evidence/roblox_new_identity_verification.json`.
+The following sections describe the preceding unsigned staging workflow.
+
 An offline Roblox simulation registered under the existing **SocialMedia** menu.
 Robux are fictional saved currency, with no account connection, purchases or
 cash-out. Classic Builders Club names are used for an optional nostalgic mode;

@@ -1,5 +1,11 @@
 # Known bugs and verification gaps
 
+New-key candidate (25 October 2026): the owner explicitly authorized a separate
+development signer. Its final signed APK passed apksig, native signer matching,
+ZIP/alignment and aapt2 checks. It cannot update an installation signed with the
+original key, and has not been installed or launched on a phone. INSTALL-001
+and the device runtime verification gaps remain open.
+
 Cloud expansion note (25 October 2026): the supplied v54 APK's hash, Android
 parser and v3 signature were verified. This does not resolve INSTALL-001 or the
 v54 launch/resume failure. The v54-to-v55 repair pipeline and first Roblox

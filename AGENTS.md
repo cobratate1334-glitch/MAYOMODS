@@ -22,6 +22,15 @@ older release READMEs and `LATEST_BUILD.md` files are historical evidence.
 
 ## Protect continuity
 
+- Cloud update, 25 October 2026: the owner explicitly authorized a **new**
+  signing key for the Roblox candidate. It is a separate development identity,
+  not an update identity for the original installed game. Reuse its existing
+  private backup under `/workspace/private_signer/roblox-new-identity`; never
+  generate another key merely to sign the next build. Expected certificate and
+  verification results are in `evidence/roblox_new_identity_verification.json`.
+  This authorization does not permit uninstalling, clearing saves, or claiming
+  that the original installation rejection has been resolved.
+
 - Never prescribe uninstalling the game, clearing its data, changing its
   package name, rotating the signer, or bypassing device verification as a
   speculative fix. Preserve the user's saves and established update identity.

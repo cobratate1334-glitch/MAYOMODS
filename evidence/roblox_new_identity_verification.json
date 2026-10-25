@@ -1,0 +1,24 @@
+{
+  "signed": true,
+  "user_authorized_new_identity": true,
+  "updates_original_key_installation": false,
+  "package_name_unchanged": true,
+  "input_sha256": "d2f1fc33b5598666bc09ac2696cf64cbe00940bb44ad7423248723c1916f5e98",
+  "apk_sha256": "52f159dd9fe3858fb8c00713cb15e359c2783e3fa52dfe4de24cafed2be71f1e",
+  "certificate_sha256": "bb8062953a3abe6ed051c29f4d39051d8266940c912323560baa3b795ddd92ef",
+  "modified_payloads": [
+    "classes12.dex",
+    "lib/arm64-v8a/libRocketGames.so"
+  ],
+  "verification_instructions_preserved": true,
+  "dex_instructions_unchanged": true,
+  "signatures": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]\n",
+  "native_signer_verification": "verified=true; actual APK signer matches native SHA-1 check; fingerprint=s9Mv5b4Y3PApayxK/Xv57XgkhqI=\n",
+  "zip_crc_alignment_passed": true,
+  "device_install_tested": false,
+  "ART_tested": false,
+  "Unity_rendering_tested": false,
+  "android_package_parser_passed": true,
+  "private_key_backup_verified": true,
+  "identity_reuse_verified": true
+}

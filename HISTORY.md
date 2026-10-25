@@ -2,6 +2,17 @@
 
 ## Cloud expansion work — 25 October 2026
 
+After the first unsigned candidate, the owner explicitly authorized creation
+of a new signing key. A separate RSA-3072 development identity was created,
+backed up outside Git and used to sign the exact validated Roblox candidate.
+The launcher SHA-256 literal and native SHA-1 literal were rebound to that
+certificate; verification instructions and DEX method bodies were preserved.
+Google apksig, the native signer verifier, ZIP/alignment and aapt2 checks passed.
+No phone test was performed. This identity cannot update an original-key
+installation. Save preservation and the original install rejection remain open.
+See `evidence/roblox_new_identity_verification.json`. The notes below describe
+the preceding unsigned development stage.
+
 The owner supplied the exact v54 APK and broadened scope to family trees, an
 in-game location map, expanded crime content, genetics/era artwork and Roblox.
 Roblox was clarified as a Social entry with fictional Robux, classic Builders

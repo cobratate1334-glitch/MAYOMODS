@@ -1,5 +1,14 @@
 # Expansion intake — 25 October 2026
 
+**Later signer decision:** the owner explicitly authorized a new signing key.
+The Roblox candidate is now signed with a separately backed-up development
+identity, with matching internal certificate expectations. It passed signature,
+native signer, archive/alignment and Android parser checks, but no phone test.
+It cannot update the original-key installation. Use its existing private backup
+for future builds of this identity. Evidence is recorded in
+`evidence/roblox_new_identity_verification.json`. References to the unsigned
+candidate below describe the preceding source-development stage.
+
 The owner broadened the task beyond installation/appearance repair and requested
 changes to the supplied **v54** APK. Its hash matches the documented v54 input.
 Use the existing v54-to-v55 repair pipeline with all input assertions enabled;
