@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "arm64_checks": 378,
+  "binary_sha256": "daf54ab3e71505de869195770bc6479b1304944c4f079d99be08f9f3d37e1fff",
+  "base_sha256": "6b300f00ccdbfb466c4098443abb586d4712482253185f79a1ced328f038a9ff",
+  "test_sha256": "ce7c491d6685bb38d9b125ce9f2fbfbc0ce3e61212b5b2c94a7a60a072570d10",
+  "aslr_biases": [
+    0,
+    68719476736
+  ],
+  "negative_controls": [
+    {
+      "aslr_bias": 0,
+      "real_MoveNext_executed": true,
+      "new_menu_dismissed": true
+    },
+    {
+      "aslr_bias": 68719476736,
+      "real_MoveNext_executed": true,
+      "new_menu_dismissed": true
+    }
+  ],
+  "real_current_and_stale_RemoveNormalListAnimation_executed": true,
+  "obsolete_initial_and_resumed_iterators_canceled": true,
+  "late_translation_callbacks_rejected": true,
+  "ten_iterator_kinds_guarded": true,
+  "all_GPR_vectors_and_stack_preserved": true,
+  "narrow_patch_ranges": true,
+  "Unity_rendering_and_scheduling_modeled": true,
+  "complete_video_scenario_reproduced_on_device": false,
+  "device_runtime_tested": false
+}

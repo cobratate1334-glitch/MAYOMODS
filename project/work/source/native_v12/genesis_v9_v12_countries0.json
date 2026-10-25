@@ -1,0 +1,241 @@
+{
+  "ListID": "genesis_v9_v12_countries0",
+  "Title": "NATIONAL TEAMS",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Afghanistan",
+      "Icon": "flag-af",
+      "SecondLine": "",
+      "TileID": "v12_Afghanistan",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV12.country_af",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Algeria",
+      "Icon": "flag-dz",
+      "SecondLine": "",
+      "TileID": "v12_Algeria",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV12.country_dz",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Andorra",
+      "Icon": "flag-ad",
+      "SecondLine": "",
+      "TileID": "v12_Andorra",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV12.country_ad",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Angola",
+      "Icon": "flag-ao",
+      "SecondLine": "",
+      "TileID": "v12_Angola",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV12.country_ao",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Argentina",
+      "Icon": "flag-ar",
+      "SecondLine": "",
+      "TileID": "v12_Argentina",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV12.country_ar",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Aruba",
+      "Icon": "flag-aw",
+      "SecondLine": "",
+      "TileID": "v12_Aruba",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV12.country_aw",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Australia",
+      "Icon": "flag-au",
+      "SecondLine": "",
+      "TileID": "v12_Australia",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV12.country_au",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Austria",
+      "Icon": "flag-at",
+      "SecondLine": "",
+      "TileID": "v12_Austria",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV12.country_at",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Bahamas",
+      "Icon": "flag-bs",
+      "SecondLine": "",
+      "TileID": "v12_Bahamas",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV12.country_bs",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Bangladesh",
+      "Icon": "flag-bd",
+      "SecondLine": "",
+      "TileID": "v12_Bangladesh",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV12.country_bd",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Belgium",
+      "Icon": "flag-be",
+      "SecondLine": "",
+      "TileID": "v12_Belgium",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV12.country_be",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Belize",
+      "Icon": "flag-bz",
+      "SecondLine": "",
+      "TileID": "v12_Belize",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV12.country_bz",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "More countries",
+      "Icon": "earth",
+      "TileID": "more0",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ListID": "genesis_v9_v12_countries1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Back to Soccer",
+      "Icon": "soccer-ball",
+      "TileID": "back0",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ListID": "genesis_v9_v12_soccer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

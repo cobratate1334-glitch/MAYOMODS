@@ -1,0 +1,31 @@
+{
+  "passed": true,
+  "checks": 39820,
+  "datapack_sha256": "9423f7c66b84670f3fb569618dadfb972d027acb80f71f664988afef47f00446",
+  "data_sha256": "53853dff0edc43d8f7867f319e83770ac253fb8ace6c526199acff2e684308ed",
+  "changed_text_assets": [
+    "genesis_feature_containers",
+    "genesis_activities_v12",
+    "genesis_v18_life_v18",
+    "genesis_activities_v18",
+    "genesis_v18_expansions46",
+    "genesis_v18_church52",
+    "genesis_v18_crime52",
+    "genesis_v18_defaults_gameplay52",
+    "genesis_v18_crime52_61",
+    "genesis_v18_crime52_62",
+    "genesis_v18_crime52_63",
+    "genesis_v18_crime52_64"
+  ],
+  "new_resources": [
+    "genesis_v18_crime52_61",
+    "genesis_v18_crime52_62",
+    "genesis_v18_crime52_63",
+    "genesis_v18_crime52_64"
+  ],
+  "all_prior_objects_retained": true,
+  "all_Sprites_and_Textures_byte_identical": true,
+  "existing_resource_multiset_preserved": true,
+  "physical_phone_tested": false,
+  "Unity_rendering_tested": false
+}

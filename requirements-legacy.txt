@@ -1,0 +1,11 @@
+# Versions explicitly recorded in project/README.md (historical v52 workflow).
+# Not freshly installed or certified across platforms during this handover.
+UnityPy==1.25.4
+Pillow==12.3.0
+numpy==2.3.5
+capstone==5.0.9
+keystone-engine==0.9.2
+unicorn==2.1.4
+pyelftools==0.33
+# Used by retained signing/reproduction code; no exact version was recorded.
+cryptography

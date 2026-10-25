@@ -1,0 +1,314 @@
+Index,Sport,Gender,League Index,Name,Country Code,Nearest City,Uses Definite Article,Color Primary,Color Secondary,Legacy Score,Money Score
+1001,football,male,1000,Arizona <Swallows/Scorpions/Dry Heat/Red Birdies/Haboobs/Wasps/Tumbleweeds>,us,Phoenix,x,red,white,2,1
+1002,football,male,1000,Atlanta <Pelicans/Buzzards/Predators/Falconers/Vultures>,us,Atlanta,x,black,red,3,2
+1003,football,male,1000,Baltimore <Ravers/Crows/Baddies/Ray Rays>,us,Baltimore,x,black,purple,4,3
+1004,football,male,1000,Buffalo <Wills/Boomers/Billy Goats/Bulls/Buffalos/Bisons>,us,Buffalo,x,red,blue,1,1
+1005,football,male,1000,Carolina <Calicos/Prancers/Cats/T'Challas/Pumas/Painters>,us,Charlotte,x,sky,black,2,2
+1006,football,male,1000,Cincinnati <Bungles/Bangs/Bangers/Tigers/Wildcats>,us,Cincinnati,x,orange,black,1,1
+1007,football,male,1000,Chicago <Teddies/Brrrrs/Bad News/Pandas/Bars/Beers/Boars/Monsters>,us,Chicago,x,navy,orange,3,4
+1008,football,male,1000,Cleveland <Oranges/Downs/Rocks/Brownies/Meat Cleavers/Dogs/Underdogs>,us,Cleveland,x,brown,orange,1,1
+1009,football,male,1000,Dallas <Buckaroos/Cowpies/Wranglers/Dogs/Drovers/Cows/Big Boys>,us,Dallas,x,navy,white,4,5
+1010,football,male,1000,Denver <Mustangs/Donkeys/Horses/Elways/Mile Highs/Crush/Ponies>,us,Denver,x,navy,orange,4,4
+1011,football,male,1000,Detroit <Manes/Kittens/Leos/Pylons/Ligers>,us,Detroit,x,blue,gray,1,1
+1012,football,male,1000,Green Bay <Baggers/Toppers/Wackers/Cheesies/Cheddars/Sackers/Hackers>,us,Milwaukee,x,forest,yellow,5,3
+1013,football,male,1000,Houston <Americans/Textiles/Houstonians/Houstonites/Southerners/Big Hats/Ranchers>,us,Houston,x,navy,red,2,4
+1014,football,male,1000,Indianapolis <Fillies/Bolts/Clots/Foals/Stallions/Bolts>,us,Indianapolis,x,blue,white,3,2
+1015,football,male,1000,Kansas City <Karens/Colonizers/Queefs/Bosses/Captains/Kief>,us,Kansas City,x,red,yellow,4,2
+1016,football,male,1000,Los Angeles <Joggers/Thunderbolts/Lightning/Thunder/Batteries/Smog/Traffic>,us,Los Angeles,x,sky,yellow,3,2
+1017,football,male,1000,Los Angeles <Rims/Lambs/Sheep/Stars/Goats>,us,Los Angeles,x,blue,yellow,3,5
+1018,football,male,1000,Jacksonville <Leopards/Jackers/Jackwagons/Jigsaws/Jackhammers/Jacks>,us,Jacksonville,x,teal,yellow,1,1
+1019,football,male,1000,Miami <Sharks/Porpoises/Minnows/Manatees/Marinos/Dorsal Fins>,us,Miami,x,teal,orange,2,3
+1020,football,male,1000,Minnesota <People Eaters/Purple People/Kings/Moss/Sky Kings/High Kings>,us,Minneapolis,x,purple,yellow,3,3
+1021,football,male,1000,New England <Deflatriots/Patties/Tea Parties/Hoodies/Cheetahs/Dynasty>,us,Boston,x,blue,red,5,5
+1022,football,male,1000,New Orleans <Diablos/Santos/Sinners/Spies/Devils/Jazz/Aints>,us,New Orleans,x,gold,black,4,2
+1023,football,male,1000,New York <Empires/Biggies/Ogres/Blues/G's>,us,New York,x,blue,white,4,5
+1024,football,male,1000,New York <Planes/Props/Aviators/Gliders/Joes/Pets/Vets/Forgets>,us,New York,x,green,white,1,5
+1025,football,male,1000,Las Vegas <Burglars/Roiders/Traitors/Pirates/Gamblers/Dealers/Loungers/Bandits>,us,Las Vegas,x,black,gray,3,4
+1026,football,male,1000,Philadelphia <Warblers/Tweeters/Beagles/Regals/Turkeys/Freedom>,us,Philadelphia,x,forest,white,3,4
+1027,football,male,1000,San Francisco <96ers/69ers/Rainbows/Gold Diggers/Miners/Prospectors/Homeless/Tenderloins/Silicon>,us,San Francisco,x,red,gold,5,5
+1028,football,male,1000,Seattle <Seagulls/Sasquatch/Chickenhawks/Starbucks/Wokies/Freeze/12th Men/Tech/Chop/Amazons>,us,Seattle,x,navy,lime,4,3
+1029,football,male,1000,Pittsburgh <Thieves/Rust/Squealers/Iron Curtains/Meat Curtains/Blitzers/Welders/Titanium/Forgers>,us,Pittsburgh,x,black,yellow,5,3
+1030,football,male,1000,Tampa Bay <Poopdeckers/Buckos/Mateys/Galleons/Long Cannons>,us,Tampa,x,red,gray,2,1
+1031,football,male,1000,Tennessee <Behemoths/Dwarves/Trains/Gladiators/Smokeys/Whiskey/Titties>,us,Nashville,x,navy,sky,2,1
+1032,football,male,1000,Washington <Potato Skins/White Collars/Colonizers/Football Club/Memorials/Politics>,us,Washington,x,maroon,yellow,3,4
+2001,basketball,male,2000,Atlanta <Hooters/Loons/Hockers/Fowl/Hawt Guys/Talons>,us,Atlanta,x,red,white,1,2
+2002,basketball,male,2000,Boston <Leprechauns/Kilts/Limes/Birds/Beans/Pubs/Irish/Clovers/Bagpipes/Shamrocks>,us,Boston,x,green,white,5,5
+2003,basketball,male,2000,Charlotte <Horny Toads/Honeys/Honey Bees/Wasps/Charlatans>,us,Charlotte,x,purple,sky,1,1
+2004,basketball,male,2000,Chicago <Balls/Jordans/Jordanaires/Cows/Steers>,us,Chicago,x,red,black,5,5
+2005,basketball,male,2000,Cleveland <Calves/Veals/Shanks/Royalists/Dragoons/Carabiners/Cavalry/Kings>,us,Cleveland,x,maroon,yellow,3,2
+2006,basketball,male,2000,Detroit <Grinders/Motors/Bad Men/Gearheads>,us,Detroit,x,red,blue,4,1
+2007,basketball,male,2000,Indiana <Pacemakers/Racers/Tracers/Gremlins>,us,Indianapolis,x,blue,yellow,2,2
+2008,basketball,male,2000,Miami <Humidity/Mizers/Meat/Tropics/Miracles/Bitizens/BitGods>,us,Miami,x,red,black,4,4
+2009,basketball,male,2000,Milwaukee <Stags/Buckaroos/Walkers/Blizzard/Dollars/Ducks>,us,Milwaukee,x,green,red,2,2
+2010,basketball,male,2000,Brooklyn <Nuts/Nots/Chestnuts/Bets/Bricks/Rims/Backboards>,us,Brooklyn,x,black,white,2,4
+2011,basketball,male,2000,New York <Knickers/Snickers/Bankers/Gardens/Pants>,us,New York,x,blue,orange,3,5
+2012,basketball,male,2000,Orlando <Spell/Sorcery/Soothsayers/Swamp>,us,Orlando,x,blue,black,1,1
+2013,basketball,male,2000,Philadelphia <69ers/Cheesesteaks/Bells>,us,Philadelphia,x,blue,red,3,4
+2014,basketball,male,2000,Toronto <T-Rexes/Talons/Dinosaurs/Dinos/Rappers>,ca,Toronto,x,black,red,1,4
+2015,basketball,male,2000,Washington <Magicians/Blizzards/Sorcerers/Lizards/Gizzards>,us,Washington,x,red,blue,1,3
+2016,basketball,male,2000,Dallas <Gooses/Mavens/Top Guns/Ricks/Assassins>,us,Dallas,x,blue,black,3,4
+2017,basketball,male,2000,Denver <Nugs/Buds/Blunts/High/Gold>,us,Denver,x,blue,yellow,2,3
+2018,basketball,male,2000,Golden State <Fighters/Worriers/Brawlers/Beaters/Splash>,us,San Francisco,x,blue,yellow,4,5
+2019,basketball,male,2000,Houston <Beards/Rackets/Missiles/Blasters/Sprockets/Gears>,us,Houston,x,red,black,4,4
+2020,basketball,male,2000,Los Angeles <Clappers/Flippers/Nipplers/Kippers/Dippers>,us,Los Angeles,x,blue,red,2,5
+2021,basketball,male,2000,Los Angeles <Lickers/Flakers/Bakers/Rakers/Lagoons/Mambas>,us,Los Angeles,x,purple,yellow,5,5
+2022,basketball,male,2000,Memphis <Gristle/Yogis/Honeybears/Blues>,us,Memphis,x,black,blue,1,1
+2023,basketball,male,2000,Minnesota <Howlers/Lumberdogs/Trees/Lakes>,us,Minneapolis,x,navy,black,2,1
+2024,basketball,male,2000,New Orleans <Pelotons/Pellets/Gumbo/Beignets/Tromboners>,us,New Orleans,x,red,blue,1,1
+2025,basketball,male,2000,Oklahoma City <Tornados/Blunder/Blusters/Thundercats/Storm>,us,Oklahoma City,x,blue,orange,2,2
+2026,basketball,male,2000,Phoenix <Novas/Phoenicians/Red Giants/Supergiants/Fusions/Sheriffs/Scottsdales>,us,Phoenix,x,purple,orange,3,3
+2027,basketball,male,2000,Portland <420ers/Blunt Blazers/Anarchy/Smokescreens/Tokers/Weird/Peculiars/Thorns>,us,Portland,x,black,red,3,3
+2028,basketball,male,2000,Sacramento <Princes/Dukes/Lords/Crowns/Nobles/Sacks>,us,Sacramento,x,purple,gray,2,3
+2029,basketball,male,2000,San Antonio <Saddles/Swish Kebabs/Boots/Dunkings/River Walkers/Alamos/Revolution>,us,San Antonio,x,black,gray,4,3
+2030,basketball,male,2000,Utah <Scat/Jizz/Symphony/Missionaries/Swingers>,us,Salt Lake City,x,navy,yellow,3,2
+2101,basketball,female,2100,Atlanta <Wet Dream/Nightmare/Stream/Cream>,us,Atlanta,x,red,sky,3,1
+2102,basketball,female,2100,Chicago <Clouds/Atmosphere/Chicks/Fly>,us,Chicago,x,yellow,sky,2,1
+2103,basketball,female,2100,Connecticut <Glitter/Stars/Starlets/Superstars>,us,Hartford,x,yellow,blue,3,1
+2104,basketball,female,2100,Indiana <Hot Flashes/Sweats/Chills/Aches>,us,Indianapolis,x,red,navy,4,1
+2105,basketball,female,2100,New York <Freedom/Belles/Rakes/Broads>,us,New York,x,green,blue,3,1
+2106,basketball,female,2100,Washington <Spirit/Witches/Shadows/Mysteries>,us,Washington,x,navy,gray,2,1
+2107,basketball,female,2100,Dallas <Red Wings/Hot Wings/Blings/Divas>,us,Dallas,x,teal,lime,1,1
+2108,basketball,female,2100,Las Vegas <Flunkies/Showgirls/Queens/Spades/Diamonds/Bottle Rats>,us,Las Vegas,x,red,black,1,1
+2109,basketball,female,2100,Los Angeles <Flickers/Sparkles/Bling/Layups/Sparklers/Models/Celebrities>,us,Los Angeles,x,yellow,purple,5,1
+2110,basketball,female,2100,Minnesota <Licks/Minks/Cats/Lakes/Sodapop>,us,Minneapolis,x,navy,lime,5,1
+2111,basketball,female,2100,Phoenix <Mars/Venus/Galaxy/Quicksilver/Helium>,us,Phoenix,x,purple,orange,4,1
+2112,basketball,female,2100,Seattle <Downpour/Sprinkle/Hydrants/Stormies/Wind/Mist/Rain/Drizzle/Moist>,us,Seattle,x,yellow,forest,4,1
+3001,baseball,male,3000,Arizona <Rattlers/Nickelbacks/Saguaros/Gila Monsters/Big Units>,us,Phoenix,x,maroon,black,2,2
+3002,baseball,male,3000,Atlanta <Cowards/Raves/Bombers/Peaches/Keys/Cobblers/Knobbers>,us,Atlanta,x,navy,red,4,4
+3003,baseball,male,3000,Baltimore <Albatrosses/Cals/Iron Men/Blackbirds/Orgasms>,us,Baltimore,x,orange,black,1,3
+3004,baseball,male,3000,Boston <Bloody Sox/Red Cox/High Sox/Knee Sox/Baked Beans>,us,Boston,x,navy,red,5,5
+3005,baseball,male,3000,Chicago <Toesocks/White Cox/Kneesox/Thigh Highs/Black Sox>,us,Chicago,x,black,black,3,3
+3006,baseball,male,3000,Chicago <Kodiaks/Chubs/Wrigleys/Polars/Vines/Dogs>,us,Chicago,x,blue,blue,4,5
+3007,baseball,male,3000,Cincinnati <Rods/Blues/Greens/Threads/Vermillions/Scarlets/Rusts>,us,Cincinnati,x,red,white,3,1
+3008,baseball,male,3000,Cleveland <Satchels/Cowboys/Buckaroos/Buckers/Brokebacks/Lakes>,us,Cleveland,x,navy,red,3,1
+3009,baseball,male,3000,Colorado <Sandies/Cockies/Stonies/Ranges/Snowcaps/Boulders/Fourteeners/Smoke>,us,Denver,x,purple,gray,2,2
+3010,baseball,male,3000,Detroit <Tires/Motorists/Assemblers/Factories/Potholes/Flats/Bikers>,us,Detroit,x,navy,navy,2,2
+3011,baseball,male,3000,Houston <Astroturfs/Nauts/Buzzers/Astrids/Boosters/Sign Stealers/Jackasses>,us,Houston,x,navy,orange,3,4
+3012,baseball,male,3000,Kansas City <Commoners/Navies/Regals/Aristocrats/Sovereigns/Nobility>,us,Kansas City,x,blue,blue,2,1
+3013,baseball,male,3000,Los Angeles <Angelinos/Cherubs/Saviors/Guardians/Angles>,us,Los Angeles,x,red,red,3,4
+3014,baseball,male,3000,Los Angeles <Suckers/Rogers/Smog/Virtues/Otters/Waves/Surfers>,us,Los Angeles,x,blue,white,5,5
+3015,baseball,male,3000,Miami <Carps/Monkfish/Puffers/Blowfish/Swordfish>,us,Miami,x,black,teal,2,1
+3016,baseball,male,3000,Milwaukee <Growers/Hops/Lagers/Stouts/Pilsners/Porters/Pints>,us,Milwaukee,x,yellow,blue,3,2
+3017,baseball,male,3000,Minnesota <Triplets/Doubles/Duplicates/Wins>,us,Minneapolis,x,navy,red,3,2
+3018,baseball,male,3000,New York <Yankers/Bambinos/Spankees/Doodle Dandies/Bronx>,us,New York,x,navy,navy,5,5
+3019,baseball,male,3000,New York <Matzah Balls/Cosmos/Martinis/Galleries/Urbans/Plazas>,us,New York,x,blue,orange,2,5
+3020,baseball,male,3000,Oakland <Players/Mathletics/Elms/Birches/Barks/Oaks/East Bays>,us,Oakland,x,forest,gold,1,1
+3021,baseball,male,3000,Philadelphia <Willies/Cheesecakes/Bells/Franklins/Kites/Keys/Geldings>,us,Philadelphia,x,red,red,3,4
+3022,baseball,male,3000,Pittsburgh <Booties/Rum Runners/Sea Dogs/Scallywags/Thieves/Rogues/Pie Rats>,us,Pittsburgh,x,black,gold,3,2
+3023,baseball,male,3000,San Diego <Priests/Altar Boys/Madres/Papals/Parents/Folks/Daddies/Sugar Daddies>,us,San Diego,x,brown,gold,2,3
+3024,baseball,male,3000,San Francisco <Titanics/Steroids/Gnats/Big Boys/Towers/Beefcakes/Treats>,us,San Francisco,x,black,orange,5,5
+3025,baseball,male,3000,Seattle <Fishermen/Seamen/Baristas/Espressos/Grandes/Ventis>,us,Seattle,x,navy,teal,3,3
+3026,baseball,male,3000,St. Louis <Wrens/Jacanas/Popes/Arches/Sins/Woodpeckers>,us,St. Louis,x,red,red,5,4
+3027,baseball,male,3000,Tampa Bay <Irwins/Trays/Grays/Skates/Mantas/Corals/Anemones>,us,Tampa,x,blue,blue,1,1
+3028,baseball,male,3000,Texas <Tumbleweeds/Wranglers/Rattlers/Panhandlers/Growers/Longhorns/Bushes>,us,Dallas,x,blue,red,3,3
+3029,baseball,male,3000,Toronto <Blue Balls/Towers/Blue Rays>,ca,Toronto,x,blue,blue,3,3
+3030,baseball,male,3000,Washington <Internationals/Politics/Filibusters/Swamp/Liars/Corruption/Walkers>,us,Washington,x,red,navy,3,4
+4001,hockey,male,4000,Carolina <Cyclones/Twisters/Dust Devils/Waterspouts/Depressions/Vortices>,us,Raleigh,x,red,black,3,1
+4002,hockey,male,4000,Columbus <Yellow Jackets/Black V-Necks/Blue Collars/Blue Blazers>,us,Columbus,x,navy,red,1,1
+4003,hockey,male,4000,New Jersey <Demons/Hexes/Witches/Diablos/Serpents>,us,Newark,x,red,white,5,3
+4004,hockey,male,4000,New York <Mainlanders/Slanders/Archipelagos/Seafarers>,us,New York,x,blue,orange,5,5
+4005,hockey,male,4000,New York <Ringers/Dingers/Zingers/Singers/Sopranos>,us,New York,x,blue,red,2,3
+4006,hockey,male,4000,Philadelphia <Floaters/Sinkers/Gliders/Wings/Rockys>,us,Philadelphia,x,orange,black,5,4
+4007,hockey,male,4000,Pittsburgh <Emperors/Macaronis/Rockhoppers/Chinstraps/Pencils>,us,Pittsburgh,x,black,gold,5,4
+4008,hockey,male,4000,Washington <White Collars/Lowecases/Monuments/Lincolns>,us,Washington,x,navy,red,3,4
+4009,hockey,male,4000,Boston <Bruises/Bruisers/Bears/Ursas/Bears>,us,Boston,x,gold,black,5,5
+4010,hockey,male,4000,Buffalo <Swords/Daggers/Knives/Hilts/Blades/Katanas>,us,Buffalo,x,navy,yellow,3,1
+4011,hockey,male,4000,Detroit <Red Flings/Pink Wings/Purple Wings/Blue Wings/Green Wings/Yellow Wings>,us,Detroit,x,red,white,5,4
+4012,hockey,male,4000,Florida <Panties/Panters/Painters/Cats/Night Cats/Jaguars>,us,Miami,x,navy,tan,1,1
+4013,hockey,male,4000,Montreal <Poutines/Log Drivers/Beachcombers>,ca,Montreal,x,red,blue,5,5
+4014,hockey,male,4000,Ottawa <Politics/Legislators/Parliament/Congress/Officials>,ca,Ottawa,x,red,gold,3,1
+4015,hockey,male,4000,Tampa Bay <Thunder/Crackles/Bolts/Gigajoules>,us,Tampa,x,blue,white,3,2
+4016,hockey,male,4000,Toronto <Treestars/Pancakes/Bay Leafs/Oak Leafs/Pine Needles/Ambers>,ca,Toronto,x,blue,white,3,5
+4017,hockey,male,4000,Chicago <Black Cox/Downs/Redhawks/Falconers/Talons>,us,Chicago,x,red,orange,5,5
+4018,hockey,male,4000,Colorado <Snowdrift/Snowballs/Landslides/Snowmen/Blizzard>,us,Denver,x,maroon,blue,4,2
+4019,hockey,male,4000,Dallas <Sunbeams/Sunshines/Novas/Rays/Superstars>,us,Dallas,x,forest,gray,4,4
+4020,hockey,male,4000,Minnesota <Civilization/Tamers/Trackers/Ferals>,us,Minneapolis,x,forest,gold,1,2
+4021,hockey,male,4000,Nashville <Preys/Singers/Country/Notes/Vanderbilts>,us,Nashville,x,gold,navy,1,2
+4022,hockey,male,4000,St. Louis <Rhapsodies/Greens/Raps/Booze/Lunatics>,us,St. Louis,x,blue,yellow,2,3
+4023,hockey,male,4000,Winnipeg <Planes/Trains/Zoomers/Jacks/Turbines>,ca,Winnipeg,x,navy,gray,1,1
+4024,hockey,male,4000,Anaheim <Quacks/Mighties/Mallards/Ponds/Geese>,us,Los Angeles,x,orange,gold,3,2
+4025,hockey,male,4000,Arizona <Roadrunners/Deserts/Melters/Tumbleweeds>,us,Phoenix,x,maroon,tan,1,1
+4026,hockey,male,4000,Calgary <Sparkers/Igniters/Hotheads/Combustions/Matches/Cowboys>,ca,Calgary,x,red,gold,3,2
+4027,hockey,male,4000,Edmonton <Greasers/Environmentalists/Boilers/Rigs>,ca,Edmonton,x,blue,orange,5,3
+4028,hockey,male,4000,Los Angeles <Paupers/Queens/Regals/Castles/Turrets/Gretzkys>,us,Los Angeles,x,black,gray,3,5
+4029,hockey,male,4000,San Jose <Minnows/Hammerheads/Goblins/Silicon/Apples/Guppies/Jaws>,us,San Jose,x,teal,orange,2,3
+4030,hockey,male,4000,Vancouver <Cucks/Beavers/Elks/Vans/Whistlers/Columbians>,ca,Vancouver,x,blue,navy,3,4
+4031,hockey,male,4000,Las Vegas <Gamblers/Sins/Dealers/Green Knights/Silver Rooks/Red Kings>,us,Las Vegas,x,gold,gray,3,3
+5001,soccer,male,5000,<Arson Hall/Gunners> FC,gb,London,,red,white,5,4
+5002,soccer,male,5000,<Aston/Villa> FC,gb,Birmingham,,maroon,white,4,2
+5003,soccer,male,5000,Sunderland,gb,Sunderland,,red,black,2,2
+5004,soccer,male,5000,Queens <Park/Rangers> FC,gb,London,,blue,white,1,1
+5005,soccer,male,5000,Blues FC,gb,London,,blue,blue,5,5
+5006,soccer,male,5000,Palace FC,gb,London,,blue,red,1,2
+5007,soccer,male,5000,<Goodison/Toffees> FC,gb,Liverpool,,blue,white,3,3
+5008,soccer,male,5000,Derby,gb,London,,white,black,1,1
+5009,soccer,male,5000,Leeds,gb,Leeds,,white,white,2,1
+5010,soccer,male,5000,Leicester,gb,Leicester,,blue,blue,3,2
+5011,soccer,male,5000,Liverpool,gb,Liverpool,,red,red,5,4
+5012,soccer,male,5000,City FC,gb,Manchester,,sky,white,4,5
+5013,soccer,male,5000,<Manchester/United FC>,gb,Manchester,,red,black,5,5
+5014,soccer,male,5000,Newcastle,gb,Newcastle,,black,white,3,3
+5015,soccer,male,5000,Norwich,gb,Norwich,,yellow,green,1,1
+5016,soccer,male,5000,Southampton,gb,Southhampton,,white,red,2,2
+5017,soccer,male,5000,Tottenham,gb,London,,white,navy,4,4
+5018,soccer,male,5000,<Nottingham/Forest>,gb,Nottingham,,red,white,3,1
+5019,soccer,male,5000,West Ham,gb,London,,maroon,teal,3,3
+5020,soccer,male,5000,<Wolverhampton/Wolves>,gb,Birmingham,,orange,black,2,1
+5101,soccer,male,5100,Zaragoza,es,Zaragoza,,white,blue,3,3
+5102,soccer,male,5100,Bilbao,es,Bilbao,,white,red,3,3
+5103,soccer,male,5100,Atletico,es,Madrid,,red,white,4,4
+5104,soccer,male,5100,Barcelona,es,Barcelona,,blue,maroon,5,5
+5105,soccer,male,5100,Vigo,es,Pontevedra,,sky,white,1,1
+5106,soccer,male,5100,Espa\361ol de F\372tbol,es,Barcelona,,blue,white,2,2
+5107,soccer,male,5100,Eibar,es,Bilbao,,red,blue,1,1
+5108,soccer,male,5100,La Coru\361a,es,A Coru\361a,,blue,white,3,3
+5109,soccer,male,5100,Getafe,es,Madrid,,blue,blue,1,1
+5110,soccer,male,5100,Granada,es,Granada,,red,white,1,1
+5111,soccer,male,5100,Mallorca,es,Palma,,red,black,1,1
+5112,soccer,male,5100,Levante,es,Valencia,,maroon,blue,1,1
+5113,soccer,male,5100,Pamplona,es,Pamplona,,red,navy,1,1
+5114,soccer,male,5100,Betis,es,Seville,,lime,white,3,3
+5115,soccer,male,5100,<Madrid/Real>,es,Madrid,,white,white,5,5
+5116,soccer,male,5100,La Sociedad,es,San Sebastian,,blue,white,2,2
+5117,soccer,male,5100,Valladolid,es,Valladolid,,purple,white,1,1
+5118,soccer,male,5100,Sevilla,es,Seville,,white,red,3,3
+5119,soccer,male,5100,Valencia,es,Valencia,,white,black,4,4
+5120,soccer,male,5100,Villarreal,es,Valencia,,yellow,yellow,1,1
+5201,soccer,male,5200,Bergamo,it,Milan,,blue,black,2,2
+5202,soccer,male,5200,Benevento,it,Naples,,yellow,red,1,1
+5203,soccer,male,5200,Bologna,it,Bologna,,navy,maroon,1,1
+5204,soccer,male,5200,Cagliari,it,Cagliari,,navy,maroon,1,1
+5205,soccer,male,5200,Catania,it,Palermo,,blue,red,1,1
+5206,soccer,male,5200,Firenze,it,Florence,,purple,purple,3,3
+5207,soccer,male,5200,Genoa,it,Genoa,,red,navy,2,2
+5208,soccer,male,5200,Inter,it,Milan,,blue,black,5,5
+5209,soccer,male,5200,<Bianconeri/Old Lady>,it,Turin,,white,black,5,5
+5210,soccer,male,5200,Lazio,it,Rome,,sky,white,4,4
+5211,soccer,male,5200,Milan,it,Milan,,red,black,5,5
+5212,soccer,male,5200,Napoli,it,Naples,,blue,white,4,4
+5213,soccer,male,5200,Parma,it,Bologna,,white,black,3,3
+5214,soccer,male,5200,Roma,it,Rome,,maroon,maroon,4,4
+5215,soccer,male,5200,Sampdoria,it,Genoa,,blue,white,3,3
+5216,soccer,male,5200,Sassuolo,it,Bologna,,lime,black,1,1
+5217,soccer,male,5200,La Spezia,it,Genoa,,white,black,1,1
+5218,soccer,male,5200,Torino,it,Turin,,maroon,white,3,3
+5219,soccer,male,5200,Udine,it,Venice,,white,black,2,2
+5220,soccer,male,5200,Verona,it,Verona,,blue,navy,2,2
+5301,soccer,male,5300,<Munich/Bayern>,de,Munich,,red,navy,5,5
+5302,soccer,male,5300,Dortmund,de,Dortmund,,yellow,black,4,4
+5303,soccer,male,5300,Leipzig,de,Leipzig,,white,red,2,2
+5304,soccer,male,5300,M\366nchengladbach,de,Cologne,,white,green,3,3
+5305,soccer,male,5300,Leverkusen,de,Cologne,,red,black,3,3
+5306,soccer,male,5300,Hoffenheim,de,Frankfurt,,blue,blue,1,1
+5307,soccer,male,5300,Wolfsburg,de,Hanover,,black,lime,1,1
+5308,soccer,male,5300,Freiburg,de,Dresden,,red,black,1,1
+5309,soccer,male,5300,Frankfurt,de,Frankfurt,,black,red,2,2
+5310,soccer,male,5300,Berlin,de,Berlin,,blue,white,2,2
+5311,soccer,male,5300,K\366penick,de,Berlin,,red,red,1,1
+5312,soccer,male,5300,Schalke,de,Dortmund,,blue,white,3,3
+5313,soccer,male,5300,Mainz,de,Frankfurt,,red,white,1,1
+5314,soccer,male,5300,K\366ln,de,Cologne,,white,red,2,2
+5315,soccer,male,5300,Augsburg,de,Munich,,white,lime,1,1
+5316,soccer,male,5300,Bremen,de,Bremen,,green,white,3,3
+5317,soccer,male,5300,Hamburg,de,Hamburg,,white,red,3,3
+5318,soccer,male,5300,Stuttgart,de,Stuttgart,,white,red,1,1
+5401,soccer,female,5400,Chicago FC,us,Chicago,,navy,sky,2,2
+5402,soccer,female,5400,Houston FC,us,Houston,,orange,black,1,1
+5403,soccer,female,5400,North Carolina FC,us,Charlotte,,navy,navy,4,4
+5404,soccer,female,5400,Tacoma FC,us,Seattle,,white,navy,3,3
+5405,soccer,female,5400,Orlando FC,us,Orlando,,purple,purple,2,2
+5406,soccer,female,5400,Portland FC,us,Portland,,black,red,4,4
+5407,soccer,female,5400,New Jersey FC,us,New York,,sky,black,1,1
+5408,soccer,female,5400,Utah FC,us,Salt Lake City,,navy,yellow,2,2
+5409,soccer,female,5400,Washington FC,us,Washington,,navy,red,2,2
+5501,soccer,female,5500,<Arson Hall/Gunners> FC,gb,London,,red,white,5,5
+5502,soccer,female,5500,<Aston/Villa> FC,gb,Birmingham,,purple,white,2,2
+5503,soccer,female,5500,Birmingham,gb,Birmingham,,blue,white,3,3
+5504,soccer,female,5500,Brighton,gb,Brighton,,white,blue,2,2
+5505,soccer,female,5500,Bristol,gb,Bristol,,red,white,1,1
+5506,soccer,female,5500,Blues FC,gb,London,,blue,blue,5,5
+5507,soccer,female,5500,<Goodison/Toffees> FC,gb,Liverpool,,blue,white,3,3
+5508,soccer,female,5500,City FC,gb,Manchester,,sky,white,4,4
+5509,soccer,female,5500,<Manchester/United FC>,gb,Manchester,,red,black,3,3
+5510,soccer,female,5500,Reading,gb,London,,blue,white,2,2
+5511,soccer,female,5500,<Tottenham/Hotspur FC>,gb,London,,white,navy,2,2
+5512,soccer,female,5500,West Ham,gb,London,,maroon,white,2,2
+5601,soccer,male,5310,Athletico-PR,br,Curitiba,,red,black,4,4
+5602,soccer,male,5310,Atl\351tico,br,Goi\342nia,,red,white,3,3
+5603,soccer,male,5310,Galo,br,Belo Horizonte,,white,black,3,3
+5604,soccer,male,5310,Bahia,br,Salvador,,white,blue,3,3
+5605,soccer,male,5310,Botafogo,br,Rio de Janeiro,,black,white,3,3
+5606,soccer,male,5310,Cear\341,br,Fortaleza,,black,white,3,3
+5607,soccer,male,5310,Sport Club Paulista,br,S\343o Paulo,,white,black,5,5
+5608,soccer,male,5310,Curitiba,br,Curitiba,,white,black,3,3
+5609,soccer,male,5310,Fortaleza,br,Fortaleza,,blue,red,3,3
+5610,soccer,male,5310,Flamingos,br,Rio de Janeiro,,red,black,5,5
+5611,soccer,male,5310,Fluminense,br,Rio de Janeiro,,forest,maroon,3,3
+5612,soccer,male,5310,Porto Alegre,br,Porto Alegre,,black,blue,4,4
+5613,soccer,male,5310,Goi\341s,br,Goi\342nia,,forest,white,3,3
+5614,soccer,male,5310,Internacional,br,Porto Alegre,,red,white,5,5
+5615,soccer,male,5310,Esportiva Perdizes,br,S\343o Paulo,,forest,white,5,5
+5616,soccer,male,5310,Bragan\347a Paulista,br,S\343o Paulo,,white,white,3,3
+5617,soccer,male,5310,Santos,br,Santos,,white,white,3,3
+5618,soccer,male,5310,S\343o Paulo,br,S\343o Paulo,,white,white,5,5
+5619,soccer,male,5310,Recife,br,Recife,,black,red,3,3
+5620,soccer,male,5310,Vasco da Gama,br,Rio de Janeiro,,black,black,4,4
+6000,rugby,male,6000,Brisbane <Mustangs/Donkeys/Horses/Ponies>,au,Brisbane,x,maroon,gold,4,3
+6001,rugby,male,6000,Canberra <Braiders/Vikings/Traders/Traitors/Pirates/Radicals/Evaders/Paraders>,au,Canberra,x,green,black,3,3
+6002,rugby,male,6000,Canterbury-Bankstown <Poodles/Chihuahuas/Cowdogs/Shih Tzus/Rottweilers/Bullseyes>,au,Sydney,x,blue,black,4,4
+6003,rugby,male,6000,Cronulla-Sutherland <Barks/Tunas/Hammerheads/Goblins/Makos/Guppies/Minnows>,au,Sydney,x,sky,black,1,1
+6004,rugby,male,6000,Gold Coast <Gods/Moons/Tightens/Panners/Surfers/Waveriders/Tritons>,au,Gold Coast,x,blue,sky,1,1
+6005,rugby,male,6000,Manly Warringah <Seagulls/Boobies/Jaegers/Terns/Oystercatchers/Pelicans>,au,Sydney,x,maroon,white,4,3
+6006,rugby,male,6000,Melbourne <Typhoon/Depression/Hurricane/Monsoon/Microbursts/Squall>,au,Melbourne,x,purple,gold,3,3
+6007,rugby,male,6000,New Zealand <Worriers/Fighters/Brawlers/Centurions/Kiwis>,nz,Auckland,x,green,blue,1,1
+6008,rugby,male,6000,Newcastle <Nights/Tinmen/Guardians/Spearmen/Lancers/Paladins>,au,Newcastle,x,red,blue,2,2
+6009,rugby,male,6000,North Queensland <Bullboys/Buckaroos/Buckeyes/Buckwilds/Spurs>,au,Townsville,x,navy,yellow,1,1
+6010,rugby,male,6000,Parramatta <Morays/Sea Snakes/Congers/Sawtooths/Peels/Feels/Reels>,au,Sydney,x,blue,yellow,3,3
+6011,rugby,male,6000,Penrith <Calicos/Tabbies/Toebeans/Panzers/Cougars/Jaguars/Panties/Panters>,au,Sydney,x,black,red,2,5
+6012,rugby,male,6000,South Sydney <Bunnies/Rabbits/Hoppers/Cottontails/Hares/Rabies/Rabbit Holes>,au,Sydney,x,red,green,5,3
+6013,rugby,male,6000,St. George Illawarra <Lizards/Fireballs/Wyverns/Wyrms/Hydras/Drags>,au,Melbourne,x,red,white,5,3
+6014,rugby,male,6000,Sydney <Cocks/Cluckers/Clucks/Wattles/Roasters>,au,Sydney,x,navy,red,5,3
+6015,rugby,male,6000,Wests <Bengals/Leopards/Stripes/Sabertooths>,au,Sydney,x,black,orange,1,1
+6100,rugby,male,6100,Castleford <Cats/Kittens/Pantherae/Tonys>,gb,Leeds,x,orange,black,1,1
+6101,rugby,male,6100,Catalans <Geckos/Skinks/Drakes/Drags>,fr,Perpignan,x,red,yellow,1,1
+6102,rugby,male,6100,Huddersfield <Gnats/Dwarves/Big Guns/Big Boys>,gb,Leeds,x,maroon,gold,3,4
+6103,rugby,male,6100,Hull <A.C./D.C./B.L.>,gb,Hull,x,black,white,3,3
+6104,rugby,male,6100,Hull Kingston <Movers/Shakers/Rollers/Tractors/Scooters/Groovers>,gb,Hull,x,red,white,3,3
+6105,rugby,male,6100,Leeds <Horns/Stampedes/Beetles/Hornbills/Iguanas>,gb,Leeds,x,blue,yellow,4,5
+6106,rugby,male,6100,Salford <Blue Devils/Pink Devils/Demons/Spirits/Devil Rays>,gb,Manchester,x,red,white,3,3
+6107,rugby,male,6100,St. Helens <J.Z.Z./B.O.Y./B.L.G./M.M.A./M.I.A./H.R.M./Q.O.E./E.A.P../B.O.A./D.O.A./I.O.S.>,gb,LIverpool,x,white,red,4,5
+6108,rugby,male,6100,Wakefield <Threesomes/Equilaterals/Deltas/Triad/Trilogy/Tryhards>,gb,Leeds,x,white,blue,2,2
+6109,rugby,male,6100,Warrington <Wolverines/Lobos/Werewolves/Devil Dogs/Canines>,gb,Liverpool,x,blue,yellow,3,4
+6110,rugby,male,6100,Wigan <Fighters/Brawlers/Protectors/Trojans/Berserkers>,gb,Liverpool,x,maroon,white,5,5
+7000,volleyball,female,7000,Chicago <Chic/Chicks/Deep Dishers/Mean Girls/Campfire>,us,Chicago,x,pink,white,5,5
+7001,volleyball,female,7000,New York <Liberties/Pixies/Golden Globes>,us,New York,x,yellow,orange,5,5
+7002,volleyball,female,7000,Los Angeles <Atomic Cougars/Spike Girls/B-Witches/Panther Girls/Blister Sisters>,us,Los Angeles,x,navy,purple,5,5
+7003,volleyball,female,7000,Scottsdale <Scrappies/Saguaros/Prickly Pears/Desert Roses>,us,Phoenix,x,maroon,yellow,5,5
+7004,volleyball,female,7000,Philadelphia <Freeballers/Flares/Fillies>,us,Philadelphia,x,gray,blue,3,5
+7005,volleyball,female,7000,Dallas <Dinks/Decoys/Dumpers/Divas/Cowgirls>,us,Dallas,x,blue,white,4,4
+7006,volleyball,female,7000,Miami <Floaters/Beaches/Moons/Devil Rays>,us,Miami,x,yellow,red,3,5
+7007,volleyball,female,7000,New Orleans <Beignets/Chers/Julips/Nymphs>,us,New Orleans,x,maroon,orange,3,3
+7008,volleyball,female,7000,San Francisco <Rainbows/Spaldings/Somas>,us,San Francisco,x,yellow,red,3,4
+7009,volleyball,female,7000,Detroit <Block City/Material Girls/Digs>,us,Detroit,x,forest,lime,3,3
+7010,volleyball,female,7000,Boulder <Blockers/Bumpers/Brownies>,us,Denver,x,green,lime,3,3
+7011,volleyball,female,7000,Portland <Pancakes/Peppers/Penetrators>,us,Portland,x,purple,maroon,3,3
+7012,volleyball,female,7000,Seattle <Servers/Spikers/Skippers/Mermaids>,us,Seattle,x,sky,teal,4,3
+7013,volleyball,female,7000,Atlanta <Overhanders/Attackers/Peaches/Aces>,us,Atlanta,x,orange,yellow,3,4
+7014,volleyball,female,7000,Salt Lake City <Saints/Brewers>,us,Salt Lake City,x,navy,sky,5,3
+7015,volleyball,female,7000,Milwaukee <Roofers/Mustangs/Melons/Keys>,us,Milwaukee,x,gray,purple,4,3
+7016,volleyball,female,7000,Baltimore <Backsetters/Block Destroyers/Mavens>,us,Baltimore,x,purple,blue,2,2
+7017,volleyball,female,7000,Boston <Facials/Teabaggers/Boxes>,us,Boston,x,red,blue,5,5
+7018,volleyball,female,7000,Cleveland <Karens/Barbies>,us,Cleveland,x,black,gray,3,3
+7019,volleyball,female,7000,Washington <Wands/Spikers/Minks/Beavers>,us,Washington,x,white,blue,2,3
+7020,volleyball,female,7000,Pittsburgh <Poppers/Nethers/Pearls>,us,Pittsburgh,x,navy,white,4,3
+7021,volleyball,female,7000,Minneapolis <Minnies/Sodas/Mashers/Muffins>,us,Minneapolis,x,forest,white,3,3
+7022,volleyball,female,7000,Houston <Hustlers/Grinders/Honeys/Queen Bees>,us,Houston,x,gold,white,3,4
+7023,volleyball,female,7000,San Antonio <Susans/Tiaras/Reginas/Sandstorms/Setters>,us,San Antonio,x,sky,yellow,5,2
+7024,volleyball,female,7000,San Diego <Diggers/Waffles/Crowns/Sweeties/Spikers>,us,San Diego,x,navy,lime,3,2
+7025,volleyball,female,7000,Las Vegas <Lollipops/Showgirls/Queens/Spades/Diamonds/Clubs/Hearts/Flare>,us,Las Vegas,x,red,black,5,5
+7026,volleyball,female,7000,Honolulu <Hotties/Pineapples/Hulas/Roasters/Tsunamis/Waveriders/Heathers>,us,Honolulu,x,yellow,forest,4,3
+7027,volleyball,female,7000,Mexico City <Choppers/Chiquitas/Conchas/Chancletas>,mx,Mexico City,x,blue,gold,4,5
+7028,volleyball,female,7000,Toronto <Tools/Maples/Clams/Tarts>,ca,Toronto,x,blue,maroon,4,3
+7029,volleyball,female,7000,Vancouver <Volleys/Vixens/Vans>,ca,Vancouver,x,red,white,3,4
+7030,volleyball,female,7000,Anchorage <Whalers/Glaciers/Narwhals/Alaskans>,us,Anchorage,x,blue,sky,2,2
+7031,volleyball,female,7000,Biloxi <Blues/Beckys/Dumplins/Bashers>,us,Biloxi,x,navy,teal,2,1

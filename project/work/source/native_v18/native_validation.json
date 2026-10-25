@@ -1,0 +1,15 @@
+{
+  "arm64_cases": 194,
+  "aslr_biases": [
+    0,
+    68719476736
+  ],
+  "volatile_registers_clobbered": true,
+  "tactics_idempotent": true,
+  "group_goal_conservation": true,
+  "independent_four_year_schedules": true,
+  "basketball_stats_actual_totals": true,
+  "complete_NBA_NFL_school_brackets": true,
+  "binary_sha256": "cba0b1e1e4a68511820ef8a66afb6d409e278bbfea9e9c86729638a2ce303ff6",
+  "device_runtime_tested": false
+}

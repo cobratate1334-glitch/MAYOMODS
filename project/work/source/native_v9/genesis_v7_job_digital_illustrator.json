@@ -1,0 +1,97 @@
+{
+  "ListID": "genesis_v7_job_digital_illustrator",
+  "Title": "DIGITAL ILLUSTRATOR PROJECTS",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Project Dashboard",
+      "Icon": "clipboard",
+      "SecondLine": "Completed: <GFC.job_digital_illustrator.Projects>",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_digital_illustrator:NativeCareerSync:=1>>scenario.careersV7.job_digital_illustratordeliver",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "BarGraph": {
+        "Title": "Quality",
+        "Value": "<GFC.job_digital_illustrator.Quality>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v9_genesis_v7_job_digital_illustrator_0"
+    },
+    {
+      "Title": "Develop a concept sketch",
+      "Icon": "memo",
+      "SecondLine": "Project stage 1",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_digital_illustrator:NativeCareerSync:=1>>scenario.careersV7.job_digital_illustrator1",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_digital_illustrator_1"
+    },
+    {
+      "Title": "Review client revisions",
+      "Icon": "memo",
+      "SecondLine": "Project stage 2",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_digital_illustrator:NativeCareerSync:=1>>scenario.careersV7.job_digital_illustrator2",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_digital_illustrator_2"
+    },
+    {
+      "Title": "Deliver finished artwork",
+      "Icon": "memo",
+      "SecondLine": "Project stage 3",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_digital_illustrator:NativeCareerSync:=1>>scenario.careersV7.job_digital_illustrator3",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_digital_illustrator_3"
+    },
+    {
+      "Title": "Submit and Review",
+      "Icon": "chart-bar",
+      "SecondLine": "Turn project progress into job performance",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_digital_illustrator:NativeCareerSync:=1>>scenario.careersV7.job_digital_illustratordeliver",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_digital_illustrator_4"
+    }
+  ]
+}

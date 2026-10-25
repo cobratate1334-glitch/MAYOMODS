@@ -1,0 +1,28 @@
+{
+  "12": {
+    "byte_for_byte_preserved": true,
+    "roundtrip": true,
+    "sha256": "79c13fa17b00b09a46fc57056c56d45934632cc54eee220ac21750266a31262d"
+  },
+  "13": {
+    "preserved_classes": 59,
+    "roundtrip": true,
+    "guards": [],
+    "persistent_crash_capture": true,
+    "source_sha256": {
+      "StartupActivity.java": "90bc4db0951a8cce9829d6a4fb46ffcac63bb0e31ac25b8adb2573947e38ee2e",
+      "RuntimeLogCapture.java": "f0dea0ed44776bd5d094fbd660a9a58887bb428587b0c3f5a8d52c7618c82a1d",
+      "StartupProbe.java": "d9afdf21c5a584dbad20d1d3a6097d9820dba87d129dc23b0eba5542796222b2",
+      "DiagnosticsUI.java": "71a37e5a32a04c7bc985fd8c23a693116ecceff739c97f18f7fc05c9ac30a1e4",
+      "LifeSetupUI.java": "32d9108b2c8b993599d160644ddd293ce096aad1fff9e5e464a5165376c8c451",
+      "CrashJournal.java": "6bbd15ad227b2412974c53d93ff4d8fb54ad7b07e954f22a2400ee0fa83a14c1",
+      "NativeCrashReader.java": "d1f65f068a3cdcfea680643e718fadc176ded0620516e83cfbef8f45c529e214",
+      "TombstoneReader.java": "b7896e9707f45f751c463a13b19a6898067a5c167de996afb62e40b95faa24bb",
+      "RuntimeLogStore.java": "de56e8487c445178ab48d57ecfa4d4e896299d8da463893577bf3adea7c612fc",
+      "FloatingDisplay.java": "eb0e22ab5e1cea6acdabc178f19f61c600a4aca8913d4be511f71c289b00ac67",
+      "NamePackUI.java": "6444d147c9254f9aaa2eadda1fc6d24e561f006487b75ac7839d8ee7ed7f2b7f",
+      "PackCatalog.java": "9af83b9b085ec13d218470351d17db97ded7d8c515a6a6ce26254a04d326501a",
+      "PackFormat.java": "4860dfdfdb706c041f2bd976729f3c9b042fc29c48c6bcb636b00e2ddfe37e75"
+    }
+  }
+}

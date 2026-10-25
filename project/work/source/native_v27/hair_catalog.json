@@ -1,0 +1,1922 @@
+[
+  {
+    "name": "a16_faces-male-stage0-hair-base58-85000",
+    "stage": 0,
+    "gender": 0,
+    "style": 0,
+    "label": "Rounded afro",
+    "path": "emoji/voltron/faces/hair/stage 0 male/a16_faces-male-stage0-hair-base58-85000"
+  },
+  {
+    "name": "a16_faces-male-stage1-hair-base58-85001",
+    "stage": 1,
+    "gender": 0,
+    "style": 0,
+    "label": "Rounded afro",
+    "path": "emoji/voltron/faces/hair/stage 1 male/a16_faces-male-stage1-hair-base58-85001"
+  },
+  {
+    "name": "a16_faces-male-stage2-hair-base58-85002",
+    "stage": 2,
+    "gender": 0,
+    "style": 0,
+    "label": "Rounded afro",
+    "path": "emoji/voltron/faces/hair/stage 2 male/a16_faces-male-stage2-hair-base58-85002"
+  },
+  {
+    "name": "a16_faces-male-stage3-hair-base58-85003",
+    "stage": 3,
+    "gender": 0,
+    "style": 0,
+    "label": "Rounded afro",
+    "path": "emoji/voltron/faces/hair/stage 3 male/a16_faces-male-stage3-hair-base58-85003"
+  },
+  {
+    "name": "a16_faces-male-stage4-hair-base58-85004",
+    "stage": 4,
+    "gender": 0,
+    "style": 0,
+    "label": "Rounded afro",
+    "path": "emoji/voltron/faces/hair/stage 4 male/a16_faces-male-stage4-hair-base58-85004"
+  },
+  {
+    "name": "a16_faces-male-stage5-hair-base58-85005",
+    "stage": 5,
+    "gender": 0,
+    "style": 0,
+    "label": "Rounded afro",
+    "path": "emoji/voltron/faces/hair/stage 5 male/a16_faces-male-stage5-hair-base58-85005"
+  },
+  {
+    "name": "a16_faces-female-stage0-hair-base58-85010",
+    "stage": 0,
+    "gender": 1,
+    "style": 0,
+    "label": "Rounded afro",
+    "path": "emoji/voltron/faces/hair/stage 0 female/a16_faces-female-stage0-hair-base58-85010"
+  },
+  {
+    "name": "a16_faces-female-stage1-hair-base58-85011",
+    "stage": 1,
+    "gender": 1,
+    "style": 0,
+    "label": "Rounded afro",
+    "path": "emoji/voltron/faces/hair/stage 1 female/a16_faces-female-stage1-hair-base58-85011"
+  },
+  {
+    "name": "a16_faces-female-stage2-hair-base58-85012",
+    "stage": 2,
+    "gender": 1,
+    "style": 0,
+    "label": "Rounded afro",
+    "path": "emoji/voltron/faces/hair/stage 2 female/a16_faces-female-stage2-hair-base58-85012"
+  },
+  {
+    "name": "a16_faces-female-stage3-hair-base58-85013",
+    "stage": 3,
+    "gender": 1,
+    "style": 0,
+    "label": "Rounded afro",
+    "path": "emoji/voltron/faces/hair/stage 3 female/a16_faces-female-stage3-hair-base58-85013"
+  },
+  {
+    "name": "a16_faces-female-stage4-hair-base58-85014",
+    "stage": 4,
+    "gender": 1,
+    "style": 0,
+    "label": "Rounded afro",
+    "path": "emoji/voltron/faces/hair/stage 4 female/a16_faces-female-stage4-hair-base58-85014"
+  },
+  {
+    "name": "a16_faces-female-stage5-hair-base58-85015",
+    "stage": 5,
+    "gender": 1,
+    "style": 0,
+    "label": "Rounded afro",
+    "path": "emoji/voltron/faces/hair/stage 5 female/a16_faces-female-stage5-hair-base58-85015"
+  },
+  {
+    "name": "a16_faces-male-stage0-hair-base59-85100",
+    "stage": 0,
+    "gender": 0,
+    "style": 1,
+    "label": "Curly high top",
+    "path": "emoji/voltron/faces/hair/stage 0 male/a16_faces-male-stage0-hair-base59-85100"
+  },
+  {
+    "name": "a16_faces-male-stage1-hair-base59-85101",
+    "stage": 1,
+    "gender": 0,
+    "style": 1,
+    "label": "Curly high top",
+    "path": "emoji/voltron/faces/hair/stage 1 male/a16_faces-male-stage1-hair-base59-85101"
+  },
+  {
+    "name": "a16_faces-male-stage2-hair-base59-85102",
+    "stage": 2,
+    "gender": 0,
+    "style": 1,
+    "label": "Curly high top",
+    "path": "emoji/voltron/faces/hair/stage 2 male/a16_faces-male-stage2-hair-base59-85102"
+  },
+  {
+    "name": "a16_faces-male-stage3-hair-base59-85103",
+    "stage": 3,
+    "gender": 0,
+    "style": 1,
+    "label": "Curly high top",
+    "path": "emoji/voltron/faces/hair/stage 3 male/a16_faces-male-stage3-hair-base59-85103"
+  },
+  {
+    "name": "a16_faces-male-stage4-hair-base59-85104",
+    "stage": 4,
+    "gender": 0,
+    "style": 1,
+    "label": "Curly high top",
+    "path": "emoji/voltron/faces/hair/stage 4 male/a16_faces-male-stage4-hair-base59-85104"
+  },
+  {
+    "name": "a16_faces-male-stage5-hair-base59-85105",
+    "stage": 5,
+    "gender": 0,
+    "style": 1,
+    "label": "Curly high top",
+    "path": "emoji/voltron/faces/hair/stage 5 male/a16_faces-male-stage5-hair-base59-85105"
+  },
+  {
+    "name": "a16_faces-female-stage0-hair-base59-85110",
+    "stage": 0,
+    "gender": 1,
+    "style": 1,
+    "label": "Curly high top",
+    "path": "emoji/voltron/faces/hair/stage 0 female/a16_faces-female-stage0-hair-base59-85110"
+  },
+  {
+    "name": "a16_faces-female-stage1-hair-base59-85111",
+    "stage": 1,
+    "gender": 1,
+    "style": 1,
+    "label": "Curly high top",
+    "path": "emoji/voltron/faces/hair/stage 1 female/a16_faces-female-stage1-hair-base59-85111"
+  },
+  {
+    "name": "a16_faces-female-stage2-hair-base59-85112",
+    "stage": 2,
+    "gender": 1,
+    "style": 1,
+    "label": "Curly high top",
+    "path": "emoji/voltron/faces/hair/stage 2 female/a16_faces-female-stage2-hair-base59-85112"
+  },
+  {
+    "name": "a16_faces-female-stage3-hair-base59-85113",
+    "stage": 3,
+    "gender": 1,
+    "style": 1,
+    "label": "Curly high top",
+    "path": "emoji/voltron/faces/hair/stage 3 female/a16_faces-female-stage3-hair-base59-85113"
+  },
+  {
+    "name": "a16_faces-female-stage4-hair-base59-85114",
+    "stage": 4,
+    "gender": 1,
+    "style": 1,
+    "label": "Curly high top",
+    "path": "emoji/voltron/faces/hair/stage 4 female/a16_faces-female-stage4-hair-base59-85114"
+  },
+  {
+    "name": "a16_faces-female-stage5-hair-base59-85115",
+    "stage": 5,
+    "gender": 1,
+    "style": 1,
+    "label": "Curly high top",
+    "path": "emoji/voltron/faces/hair/stage 5 female/a16_faces-female-stage5-hair-base59-85115"
+  },
+  {
+    "name": "a16_faces-male-stage0-hair-base60-85200",
+    "stage": 0,
+    "gender": 0,
+    "style": 2,
+    "label": "Curly taper",
+    "path": "emoji/voltron/faces/hair/stage 0 male/a16_faces-male-stage0-hair-base60-85200"
+  },
+  {
+    "name": "a16_faces-male-stage1-hair-base60-85201",
+    "stage": 1,
+    "gender": 0,
+    "style": 2,
+    "label": "Curly taper",
+    "path": "emoji/voltron/faces/hair/stage 1 male/a16_faces-male-stage1-hair-base60-85201"
+  },
+  {
+    "name": "a16_faces-male-stage2-hair-base60-85202",
+    "stage": 2,
+    "gender": 0,
+    "style": 2,
+    "label": "Curly taper",
+    "path": "emoji/voltron/faces/hair/stage 2 male/a16_faces-male-stage2-hair-base60-85202"
+  },
+  {
+    "name": "a16_faces-male-stage3-hair-base60-85203",
+    "stage": 3,
+    "gender": 0,
+    "style": 2,
+    "label": "Curly taper",
+    "path": "emoji/voltron/faces/hair/stage 3 male/a16_faces-male-stage3-hair-base60-85203"
+  },
+  {
+    "name": "a16_faces-male-stage4-hair-base60-85204",
+    "stage": 4,
+    "gender": 0,
+    "style": 2,
+    "label": "Curly taper",
+    "path": "emoji/voltron/faces/hair/stage 4 male/a16_faces-male-stage4-hair-base60-85204"
+  },
+  {
+    "name": "a16_faces-male-stage5-hair-base60-85205",
+    "stage": 5,
+    "gender": 0,
+    "style": 2,
+    "label": "Curly taper",
+    "path": "emoji/voltron/faces/hair/stage 5 male/a16_faces-male-stage5-hair-base60-85205"
+  },
+  {
+    "name": "a16_faces-female-stage0-hair-base60-85210",
+    "stage": 0,
+    "gender": 1,
+    "style": 2,
+    "label": "Curly taper",
+    "path": "emoji/voltron/faces/hair/stage 0 female/a16_faces-female-stage0-hair-base60-85210"
+  },
+  {
+    "name": "a16_faces-female-stage1-hair-base60-85211",
+    "stage": 1,
+    "gender": 1,
+    "style": 2,
+    "label": "Curly taper",
+    "path": "emoji/voltron/faces/hair/stage 1 female/a16_faces-female-stage1-hair-base60-85211"
+  },
+  {
+    "name": "a16_faces-female-stage2-hair-base60-85212",
+    "stage": 2,
+    "gender": 1,
+    "style": 2,
+    "label": "Curly taper",
+    "path": "emoji/voltron/faces/hair/stage 2 female/a16_faces-female-stage2-hair-base60-85212"
+  },
+  {
+    "name": "a16_faces-female-stage3-hair-base60-85213",
+    "stage": 3,
+    "gender": 1,
+    "style": 2,
+    "label": "Curly taper",
+    "path": "emoji/voltron/faces/hair/stage 3 female/a16_faces-female-stage3-hair-base60-85213"
+  },
+  {
+    "name": "a16_faces-female-stage4-hair-base60-85214",
+    "stage": 4,
+    "gender": 1,
+    "style": 2,
+    "label": "Curly taper",
+    "path": "emoji/voltron/faces/hair/stage 4 female/a16_faces-female-stage4-hair-base60-85214"
+  },
+  {
+    "name": "a16_faces-female-stage5-hair-base60-85215",
+    "stage": 5,
+    "gender": 1,
+    "style": 2,
+    "label": "Curly taper",
+    "path": "emoji/voltron/faces/hair/stage 5 female/a16_faces-female-stage5-hair-base60-85215"
+  },
+  {
+    "name": "a16_faces-male-stage0-hair-base61-85300",
+    "stage": 0,
+    "gender": 0,
+    "style": 3,
+    "label": "Short coils",
+    "path": "emoji/voltron/faces/hair/stage 0 male/a16_faces-male-stage0-hair-base61-85300"
+  },
+  {
+    "name": "a16_faces-male-stage1-hair-base61-85301",
+    "stage": 1,
+    "gender": 0,
+    "style": 3,
+    "label": "Short coils",
+    "path": "emoji/voltron/faces/hair/stage 1 male/a16_faces-male-stage1-hair-base61-85301"
+  },
+  {
+    "name": "a16_faces-male-stage2-hair-base61-85302",
+    "stage": 2,
+    "gender": 0,
+    "style": 3,
+    "label": "Short coils",
+    "path": "emoji/voltron/faces/hair/stage 2 male/a16_faces-male-stage2-hair-base61-85302"
+  },
+  {
+    "name": "a16_faces-male-stage3-hair-base61-85303",
+    "stage": 3,
+    "gender": 0,
+    "style": 3,
+    "label": "Short coils",
+    "path": "emoji/voltron/faces/hair/stage 3 male/a16_faces-male-stage3-hair-base61-85303"
+  },
+  {
+    "name": "a16_faces-male-stage4-hair-base61-85304",
+    "stage": 4,
+    "gender": 0,
+    "style": 3,
+    "label": "Short coils",
+    "path": "emoji/voltron/faces/hair/stage 4 male/a16_faces-male-stage4-hair-base61-85304"
+  },
+  {
+    "name": "a16_faces-male-stage5-hair-base61-85305",
+    "stage": 5,
+    "gender": 0,
+    "style": 3,
+    "label": "Short coils",
+    "path": "emoji/voltron/faces/hair/stage 5 male/a16_faces-male-stage5-hair-base61-85305"
+  },
+  {
+    "name": "a16_faces-female-stage0-hair-base61-85310",
+    "stage": 0,
+    "gender": 1,
+    "style": 3,
+    "label": "Short coils",
+    "path": "emoji/voltron/faces/hair/stage 0 female/a16_faces-female-stage0-hair-base61-85310"
+  },
+  {
+    "name": "a16_faces-female-stage1-hair-base61-85311",
+    "stage": 1,
+    "gender": 1,
+    "style": 3,
+    "label": "Short coils",
+    "path": "emoji/voltron/faces/hair/stage 1 female/a16_faces-female-stage1-hair-base61-85311"
+  },
+  {
+    "name": "a16_faces-female-stage2-hair-base61-85312",
+    "stage": 2,
+    "gender": 1,
+    "style": 3,
+    "label": "Short coils",
+    "path": "emoji/voltron/faces/hair/stage 2 female/a16_faces-female-stage2-hair-base61-85312"
+  },
+  {
+    "name": "a16_faces-female-stage3-hair-base61-85313",
+    "stage": 3,
+    "gender": 1,
+    "style": 3,
+    "label": "Short coils",
+    "path": "emoji/voltron/faces/hair/stage 3 female/a16_faces-female-stage3-hair-base61-85313"
+  },
+  {
+    "name": "a16_faces-female-stage4-hair-base61-85314",
+    "stage": 4,
+    "gender": 1,
+    "style": 3,
+    "label": "Short coils",
+    "path": "emoji/voltron/faces/hair/stage 4 female/a16_faces-female-stage4-hair-base61-85314"
+  },
+  {
+    "name": "a16_faces-female-stage5-hair-base61-85315",
+    "stage": 5,
+    "gender": 1,
+    "style": 3,
+    "label": "Short coils",
+    "path": "emoji/voltron/faces/hair/stage 5 female/a16_faces-female-stage5-hair-base61-85315"
+  },
+  {
+    "name": "a16_faces-male-stage0-hair-base62-85400",
+    "stage": 0,
+    "gender": 0,
+    "style": 4,
+    "label": "Double afro puffs",
+    "path": "emoji/voltron/faces/hair/stage 0 male/a16_faces-male-stage0-hair-base62-85400"
+  },
+  {
+    "name": "a16_faces-male-stage1-hair-base62-85401",
+    "stage": 1,
+    "gender": 0,
+    "style": 4,
+    "label": "Double afro puffs",
+    "path": "emoji/voltron/faces/hair/stage 1 male/a16_faces-male-stage1-hair-base62-85401"
+  },
+  {
+    "name": "a16_faces-male-stage2-hair-base62-85402",
+    "stage": 2,
+    "gender": 0,
+    "style": 4,
+    "label": "Double afro puffs",
+    "path": "emoji/voltron/faces/hair/stage 2 male/a16_faces-male-stage2-hair-base62-85402"
+  },
+  {
+    "name": "a16_faces-male-stage3-hair-base62-85403",
+    "stage": 3,
+    "gender": 0,
+    "style": 4,
+    "label": "Double afro puffs",
+    "path": "emoji/voltron/faces/hair/stage 3 male/a16_faces-male-stage3-hair-base62-85403"
+  },
+  {
+    "name": "a16_faces-male-stage4-hair-base62-85404",
+    "stage": 4,
+    "gender": 0,
+    "style": 4,
+    "label": "Double afro puffs",
+    "path": "emoji/voltron/faces/hair/stage 4 male/a16_faces-male-stage4-hair-base62-85404"
+  },
+  {
+    "name": "a16_faces-male-stage5-hair-base62-85405",
+    "stage": 5,
+    "gender": 0,
+    "style": 4,
+    "label": "Double afro puffs",
+    "path": "emoji/voltron/faces/hair/stage 5 male/a16_faces-male-stage5-hair-base62-85405"
+  },
+  {
+    "name": "a16_faces-female-stage0-hair-base62-85410",
+    "stage": 0,
+    "gender": 1,
+    "style": 4,
+    "label": "Double afro puffs",
+    "path": "emoji/voltron/faces/hair/stage 0 female/a16_faces-female-stage0-hair-base62-85410"
+  },
+  {
+    "name": "a16_faces-female-stage1-hair-base62-85411",
+    "stage": 1,
+    "gender": 1,
+    "style": 4,
+    "label": "Double afro puffs",
+    "path": "emoji/voltron/faces/hair/stage 1 female/a16_faces-female-stage1-hair-base62-85411"
+  },
+  {
+    "name": "a16_faces-female-stage2-hair-base62-85412",
+    "stage": 2,
+    "gender": 1,
+    "style": 4,
+    "label": "Double afro puffs",
+    "path": "emoji/voltron/faces/hair/stage 2 female/a16_faces-female-stage2-hair-base62-85412"
+  },
+  {
+    "name": "a16_faces-female-stage3-hair-base62-85413",
+    "stage": 3,
+    "gender": 1,
+    "style": 4,
+    "label": "Double afro puffs",
+    "path": "emoji/voltron/faces/hair/stage 3 female/a16_faces-female-stage3-hair-base62-85413"
+  },
+  {
+    "name": "a16_faces-female-stage4-hair-base62-85414",
+    "stage": 4,
+    "gender": 1,
+    "style": 4,
+    "label": "Double afro puffs",
+    "path": "emoji/voltron/faces/hair/stage 4 female/a16_faces-female-stage4-hair-base62-85414"
+  },
+  {
+    "name": "a16_faces-female-stage5-hair-base62-85415",
+    "stage": 5,
+    "gender": 1,
+    "style": 4,
+    "label": "Double afro puffs",
+    "path": "emoji/voltron/faces/hair/stage 5 female/a16_faces-female-stage5-hair-base62-85415"
+  },
+  {
+    "name": "a16_faces-male-stage0-hair-base63-85500",
+    "stage": 0,
+    "gender": 0,
+    "style": 5,
+    "label": "High curly bun",
+    "path": "emoji/voltron/faces/hair/stage 0 male/a16_faces-male-stage0-hair-base63-85500"
+  },
+  {
+    "name": "a16_faces-male-stage1-hair-base63-85501",
+    "stage": 1,
+    "gender": 0,
+    "style": 5,
+    "label": "High curly bun",
+    "path": "emoji/voltron/faces/hair/stage 1 male/a16_faces-male-stage1-hair-base63-85501"
+  },
+  {
+    "name": "a16_faces-male-stage2-hair-base63-85502",
+    "stage": 2,
+    "gender": 0,
+    "style": 5,
+    "label": "High curly bun",
+    "path": "emoji/voltron/faces/hair/stage 2 male/a16_faces-male-stage2-hair-base63-85502"
+  },
+  {
+    "name": "a16_faces-male-stage3-hair-base63-85503",
+    "stage": 3,
+    "gender": 0,
+    "style": 5,
+    "label": "High curly bun",
+    "path": "emoji/voltron/faces/hair/stage 3 male/a16_faces-male-stage3-hair-base63-85503"
+  },
+  {
+    "name": "a16_faces-male-stage4-hair-base63-85504",
+    "stage": 4,
+    "gender": 0,
+    "style": 5,
+    "label": "High curly bun",
+    "path": "emoji/voltron/faces/hair/stage 4 male/a16_faces-male-stage4-hair-base63-85504"
+  },
+  {
+    "name": "a16_faces-male-stage5-hair-base63-85505",
+    "stage": 5,
+    "gender": 0,
+    "style": 5,
+    "label": "High curly bun",
+    "path": "emoji/voltron/faces/hair/stage 5 male/a16_faces-male-stage5-hair-base63-85505"
+  },
+  {
+    "name": "a16_faces-female-stage0-hair-base63-85510",
+    "stage": 0,
+    "gender": 1,
+    "style": 5,
+    "label": "High curly bun",
+    "path": "emoji/voltron/faces/hair/stage 0 female/a16_faces-female-stage0-hair-base63-85510"
+  },
+  {
+    "name": "a16_faces-female-stage1-hair-base63-85511",
+    "stage": 1,
+    "gender": 1,
+    "style": 5,
+    "label": "High curly bun",
+    "path": "emoji/voltron/faces/hair/stage 1 female/a16_faces-female-stage1-hair-base63-85511"
+  },
+  {
+    "name": "a16_faces-female-stage2-hair-base63-85512",
+    "stage": 2,
+    "gender": 1,
+    "style": 5,
+    "label": "High curly bun",
+    "path": "emoji/voltron/faces/hair/stage 2 female/a16_faces-female-stage2-hair-base63-85512"
+  },
+  {
+    "name": "a16_faces-female-stage3-hair-base63-85513",
+    "stage": 3,
+    "gender": 1,
+    "style": 5,
+    "label": "High curly bun",
+    "path": "emoji/voltron/faces/hair/stage 3 female/a16_faces-female-stage3-hair-base63-85513"
+  },
+  {
+    "name": "a16_faces-female-stage4-hair-base63-85514",
+    "stage": 4,
+    "gender": 1,
+    "style": 5,
+    "label": "High curly bun",
+    "path": "emoji/voltron/faces/hair/stage 4 female/a16_faces-female-stage4-hair-base63-85514"
+  },
+  {
+    "name": "a16_faces-female-stage5-hair-base63-85515",
+    "stage": 5,
+    "gender": 1,
+    "style": 5,
+    "label": "High curly bun",
+    "path": "emoji/voltron/faces/hair/stage 5 female/a16_faces-female-stage5-hair-base63-85515"
+  },
+  {
+    "name": "a16_faces-male-stage0-hair-base64-85600",
+    "stage": 0,
+    "gender": 0,
+    "style": 6,
+    "label": "Cornrows",
+    "path": "emoji/voltron/faces/hair/stage 0 male/a16_faces-male-stage0-hair-base64-85600"
+  },
+  {
+    "name": "a16_faces-male-stage1-hair-base64-85601",
+    "stage": 1,
+    "gender": 0,
+    "style": 6,
+    "label": "Cornrows",
+    "path": "emoji/voltron/faces/hair/stage 1 male/a16_faces-male-stage1-hair-base64-85601"
+  },
+  {
+    "name": "a16_faces-male-stage2-hair-base64-85602",
+    "stage": 2,
+    "gender": 0,
+    "style": 6,
+    "label": "Cornrows",
+    "path": "emoji/voltron/faces/hair/stage 2 male/a16_faces-male-stage2-hair-base64-85602"
+  },
+  {
+    "name": "a16_faces-male-stage3-hair-base64-85603",
+    "stage": 3,
+    "gender": 0,
+    "style": 6,
+    "label": "Cornrows",
+    "path": "emoji/voltron/faces/hair/stage 3 male/a16_faces-male-stage3-hair-base64-85603"
+  },
+  {
+    "name": "a16_faces-male-stage4-hair-base64-85604",
+    "stage": 4,
+    "gender": 0,
+    "style": 6,
+    "label": "Cornrows",
+    "path": "emoji/voltron/faces/hair/stage 4 male/a16_faces-male-stage4-hair-base64-85604"
+  },
+  {
+    "name": "a16_faces-male-stage5-hair-base64-85605",
+    "stage": 5,
+    "gender": 0,
+    "style": 6,
+    "label": "Cornrows",
+    "path": "emoji/voltron/faces/hair/stage 5 male/a16_faces-male-stage5-hair-base64-85605"
+  },
+  {
+    "name": "a16_faces-female-stage0-hair-base64-85610",
+    "stage": 0,
+    "gender": 1,
+    "style": 6,
+    "label": "Cornrows",
+    "path": "emoji/voltron/faces/hair/stage 0 female/a16_faces-female-stage0-hair-base64-85610"
+  },
+  {
+    "name": "a16_faces-female-stage1-hair-base64-85611",
+    "stage": 1,
+    "gender": 1,
+    "style": 6,
+    "label": "Cornrows",
+    "path": "emoji/voltron/faces/hair/stage 1 female/a16_faces-female-stage1-hair-base64-85611"
+  },
+  {
+    "name": "a16_faces-female-stage2-hair-base64-85612",
+    "stage": 2,
+    "gender": 1,
+    "style": 6,
+    "label": "Cornrows",
+    "path": "emoji/voltron/faces/hair/stage 2 female/a16_faces-female-stage2-hair-base64-85612"
+  },
+  {
+    "name": "a16_faces-female-stage3-hair-base64-85613",
+    "stage": 3,
+    "gender": 1,
+    "style": 6,
+    "label": "Cornrows",
+    "path": "emoji/voltron/faces/hair/stage 3 female/a16_faces-female-stage3-hair-base64-85613"
+  },
+  {
+    "name": "a16_faces-female-stage4-hair-base64-85614",
+    "stage": 4,
+    "gender": 1,
+    "style": 6,
+    "label": "Cornrows",
+    "path": "emoji/voltron/faces/hair/stage 4 female/a16_faces-female-stage4-hair-base64-85614"
+  },
+  {
+    "name": "a16_faces-female-stage5-hair-base64-85615",
+    "stage": 5,
+    "gender": 1,
+    "style": 6,
+    "label": "Cornrows",
+    "path": "emoji/voltron/faces/hair/stage 5 female/a16_faces-female-stage5-hair-base64-85615"
+  },
+  {
+    "name": "a16_faces-male-stage0-hair-base65-85700",
+    "stage": 0,
+    "gender": 0,
+    "style": 7,
+    "label": "Box braids",
+    "path": "emoji/voltron/faces/hair/stage 0 male/a16_faces-male-stage0-hair-base65-85700"
+  },
+  {
+    "name": "a16_faces-male-stage1-hair-base65-85701",
+    "stage": 1,
+    "gender": 0,
+    "style": 7,
+    "label": "Box braids",
+    "path": "emoji/voltron/faces/hair/stage 1 male/a16_faces-male-stage1-hair-base65-85701"
+  },
+  {
+    "name": "a16_faces-male-stage2-hair-base65-85702",
+    "stage": 2,
+    "gender": 0,
+    "style": 7,
+    "label": "Box braids",
+    "path": "emoji/voltron/faces/hair/stage 2 male/a16_faces-male-stage2-hair-base65-85702"
+  },
+  {
+    "name": "a16_faces-male-stage3-hair-base65-85703",
+    "stage": 3,
+    "gender": 0,
+    "style": 7,
+    "label": "Box braids",
+    "path": "emoji/voltron/faces/hair/stage 3 male/a16_faces-male-stage3-hair-base65-85703"
+  },
+  {
+    "name": "a16_faces-male-stage4-hair-base65-85704",
+    "stage": 4,
+    "gender": 0,
+    "style": 7,
+    "label": "Box braids",
+    "path": "emoji/voltron/faces/hair/stage 4 male/a16_faces-male-stage4-hair-base65-85704"
+  },
+  {
+    "name": "a16_faces-male-stage5-hair-base65-85705",
+    "stage": 5,
+    "gender": 0,
+    "style": 7,
+    "label": "Box braids",
+    "path": "emoji/voltron/faces/hair/stage 5 male/a16_faces-male-stage5-hair-base65-85705"
+  },
+  {
+    "name": "a16_faces-female-stage0-hair-base65-85710",
+    "stage": 0,
+    "gender": 1,
+    "style": 7,
+    "label": "Box braids",
+    "path": "emoji/voltron/faces/hair/stage 0 female/a16_faces-female-stage0-hair-base65-85710"
+  },
+  {
+    "name": "a16_faces-female-stage1-hair-base65-85711",
+    "stage": 1,
+    "gender": 1,
+    "style": 7,
+    "label": "Box braids",
+    "path": "emoji/voltron/faces/hair/stage 1 female/a16_faces-female-stage1-hair-base65-85711"
+  },
+  {
+    "name": "a16_faces-female-stage2-hair-base65-85712",
+    "stage": 2,
+    "gender": 1,
+    "style": 7,
+    "label": "Box braids",
+    "path": "emoji/voltron/faces/hair/stage 2 female/a16_faces-female-stage2-hair-base65-85712"
+  },
+  {
+    "name": "a16_faces-female-stage3-hair-base65-85713",
+    "stage": 3,
+    "gender": 1,
+    "style": 7,
+    "label": "Box braids",
+    "path": "emoji/voltron/faces/hair/stage 3 female/a16_faces-female-stage3-hair-base65-85713"
+  },
+  {
+    "name": "a16_faces-female-stage4-hair-base65-85714",
+    "stage": 4,
+    "gender": 1,
+    "style": 7,
+    "label": "Box braids",
+    "path": "emoji/voltron/faces/hair/stage 4 female/a16_faces-female-stage4-hair-base65-85714"
+  },
+  {
+    "name": "a16_faces-female-stage5-hair-base65-85715",
+    "stage": 5,
+    "gender": 1,
+    "style": 7,
+    "label": "Box braids",
+    "path": "emoji/voltron/faces/hair/stage 5 female/a16_faces-female-stage5-hair-base65-85715"
+  },
+  {
+    "name": "a16_faces-male-stage0-hair-base66-85800",
+    "stage": 0,
+    "gender": 0,
+    "style": 8,
+    "label": "Short twists",
+    "path": "emoji/voltron/faces/hair/stage 0 male/a16_faces-male-stage0-hair-base66-85800"
+  },
+  {
+    "name": "a16_faces-male-stage1-hair-base66-85801",
+    "stage": 1,
+    "gender": 0,
+    "style": 8,
+    "label": "Short twists",
+    "path": "emoji/voltron/faces/hair/stage 1 male/a16_faces-male-stage1-hair-base66-85801"
+  },
+  {
+    "name": "a16_faces-male-stage2-hair-base66-85802",
+    "stage": 2,
+    "gender": 0,
+    "style": 8,
+    "label": "Short twists",
+    "path": "emoji/voltron/faces/hair/stage 2 male/a16_faces-male-stage2-hair-base66-85802"
+  },
+  {
+    "name": "a16_faces-male-stage3-hair-base66-85803",
+    "stage": 3,
+    "gender": 0,
+    "style": 8,
+    "label": "Short twists",
+    "path": "emoji/voltron/faces/hair/stage 3 male/a16_faces-male-stage3-hair-base66-85803"
+  },
+  {
+    "name": "a16_faces-male-stage4-hair-base66-85804",
+    "stage": 4,
+    "gender": 0,
+    "style": 8,
+    "label": "Short twists",
+    "path": "emoji/voltron/faces/hair/stage 4 male/a16_faces-male-stage4-hair-base66-85804"
+  },
+  {
+    "name": "a16_faces-male-stage5-hair-base66-85805",
+    "stage": 5,
+    "gender": 0,
+    "style": 8,
+    "label": "Short twists",
+    "path": "emoji/voltron/faces/hair/stage 5 male/a16_faces-male-stage5-hair-base66-85805"
+  },
+  {
+    "name": "a16_faces-female-stage0-hair-base66-85810",
+    "stage": 0,
+    "gender": 1,
+    "style": 8,
+    "label": "Short twists",
+    "path": "emoji/voltron/faces/hair/stage 0 female/a16_faces-female-stage0-hair-base66-85810"
+  },
+  {
+    "name": "a16_faces-female-stage1-hair-base66-85811",
+    "stage": 1,
+    "gender": 1,
+    "style": 8,
+    "label": "Short twists",
+    "path": "emoji/voltron/faces/hair/stage 1 female/a16_faces-female-stage1-hair-base66-85811"
+  },
+  {
+    "name": "a16_faces-female-stage2-hair-base66-85812",
+    "stage": 2,
+    "gender": 1,
+    "style": 8,
+    "label": "Short twists",
+    "path": "emoji/voltron/faces/hair/stage 2 female/a16_faces-female-stage2-hair-base66-85812"
+  },
+  {
+    "name": "a16_faces-female-stage3-hair-base66-85813",
+    "stage": 3,
+    "gender": 1,
+    "style": 8,
+    "label": "Short twists",
+    "path": "emoji/voltron/faces/hair/stage 3 female/a16_faces-female-stage3-hair-base66-85813"
+  },
+  {
+    "name": "a16_faces-female-stage4-hair-base66-85814",
+    "stage": 4,
+    "gender": 1,
+    "style": 8,
+    "label": "Short twists",
+    "path": "emoji/voltron/faces/hair/stage 4 female/a16_faces-female-stage4-hair-base66-85814"
+  },
+  {
+    "name": "a16_faces-female-stage5-hair-base66-85815",
+    "stage": 5,
+    "gender": 1,
+    "style": 8,
+    "label": "Short twists",
+    "path": "emoji/voltron/faces/hair/stage 5 female/a16_faces-female-stage5-hair-base66-85815"
+  },
+  {
+    "name": "a16_faces-male-stage0-hair-base67-85900",
+    "stage": 0,
+    "gender": 0,
+    "style": 9,
+    "label": "Long twists",
+    "path": "emoji/voltron/faces/hair/stage 0 male/a16_faces-male-stage0-hair-base67-85900"
+  },
+  {
+    "name": "a16_faces-male-stage1-hair-base67-85901",
+    "stage": 1,
+    "gender": 0,
+    "style": 9,
+    "label": "Long twists",
+    "path": "emoji/voltron/faces/hair/stage 1 male/a16_faces-male-stage1-hair-base67-85901"
+  },
+  {
+    "name": "a16_faces-male-stage2-hair-base67-85902",
+    "stage": 2,
+    "gender": 0,
+    "style": 9,
+    "label": "Long twists",
+    "path": "emoji/voltron/faces/hair/stage 2 male/a16_faces-male-stage2-hair-base67-85902"
+  },
+  {
+    "name": "a16_faces-male-stage3-hair-base67-85903",
+    "stage": 3,
+    "gender": 0,
+    "style": 9,
+    "label": "Long twists",
+    "path": "emoji/voltron/faces/hair/stage 3 male/a16_faces-male-stage3-hair-base67-85903"
+  },
+  {
+    "name": "a16_faces-male-stage4-hair-base67-85904",
+    "stage": 4,
+    "gender": 0,
+    "style": 9,
+    "label": "Long twists",
+    "path": "emoji/voltron/faces/hair/stage 4 male/a16_faces-male-stage4-hair-base67-85904"
+  },
+  {
+    "name": "a16_faces-male-stage5-hair-base67-85905",
+    "stage": 5,
+    "gender": 0,
+    "style": 9,
+    "label": "Long twists",
+    "path": "emoji/voltron/faces/hair/stage 5 male/a16_faces-male-stage5-hair-base67-85905"
+  },
+  {
+    "name": "a16_faces-female-stage0-hair-base67-85910",
+    "stage": 0,
+    "gender": 1,
+    "style": 9,
+    "label": "Long twists",
+    "path": "emoji/voltron/faces/hair/stage 0 female/a16_faces-female-stage0-hair-base67-85910"
+  },
+  {
+    "name": "a16_faces-female-stage1-hair-base67-85911",
+    "stage": 1,
+    "gender": 1,
+    "style": 9,
+    "label": "Long twists",
+    "path": "emoji/voltron/faces/hair/stage 1 female/a16_faces-female-stage1-hair-base67-85911"
+  },
+  {
+    "name": "a16_faces-female-stage2-hair-base67-85912",
+    "stage": 2,
+    "gender": 1,
+    "style": 9,
+    "label": "Long twists",
+    "path": "emoji/voltron/faces/hair/stage 2 female/a16_faces-female-stage2-hair-base67-85912"
+  },
+  {
+    "name": "a16_faces-female-stage3-hair-base67-85913",
+    "stage": 3,
+    "gender": 1,
+    "style": 9,
+    "label": "Long twists",
+    "path": "emoji/voltron/faces/hair/stage 3 female/a16_faces-female-stage3-hair-base67-85913"
+  },
+  {
+    "name": "a16_faces-female-stage4-hair-base67-85914",
+    "stage": 4,
+    "gender": 1,
+    "style": 9,
+    "label": "Long twists",
+    "path": "emoji/voltron/faces/hair/stage 4 female/a16_faces-female-stage4-hair-base67-85914"
+  },
+  {
+    "name": "a16_faces-female-stage5-hair-base67-85915",
+    "stage": 5,
+    "gender": 1,
+    "style": 9,
+    "label": "Long twists",
+    "path": "emoji/voltron/faces/hair/stage 5 female/a16_faces-female-stage5-hair-base67-85915"
+  },
+  {
+    "name": "a16_faces-male-stage0-hair-base68-86000",
+    "stage": 0,
+    "gender": 0,
+    "style": 10,
+    "label": "Braided crown",
+    "path": "emoji/voltron/faces/hair/stage 0 male/a16_faces-male-stage0-hair-base68-86000"
+  },
+  {
+    "name": "a16_faces-male-stage1-hair-base68-86001",
+    "stage": 1,
+    "gender": 0,
+    "style": 10,
+    "label": "Braided crown",
+    "path": "emoji/voltron/faces/hair/stage 1 male/a16_faces-male-stage1-hair-base68-86001"
+  },
+  {
+    "name": "a16_faces-male-stage2-hair-base68-86002",
+    "stage": 2,
+    "gender": 0,
+    "style": 10,
+    "label": "Braided crown",
+    "path": "emoji/voltron/faces/hair/stage 2 male/a16_faces-male-stage2-hair-base68-86002"
+  },
+  {
+    "name": "a16_faces-male-stage3-hair-base68-86003",
+    "stage": 3,
+    "gender": 0,
+    "style": 10,
+    "label": "Braided crown",
+    "path": "emoji/voltron/faces/hair/stage 3 male/a16_faces-male-stage3-hair-base68-86003"
+  },
+  {
+    "name": "a16_faces-male-stage4-hair-base68-86004",
+    "stage": 4,
+    "gender": 0,
+    "style": 10,
+    "label": "Braided crown",
+    "path": "emoji/voltron/faces/hair/stage 4 male/a16_faces-male-stage4-hair-base68-86004"
+  },
+  {
+    "name": "a16_faces-male-stage5-hair-base68-86005",
+    "stage": 5,
+    "gender": 0,
+    "style": 10,
+    "label": "Braided crown",
+    "path": "emoji/voltron/faces/hair/stage 5 male/a16_faces-male-stage5-hair-base68-86005"
+  },
+  {
+    "name": "a16_faces-female-stage0-hair-base68-86010",
+    "stage": 0,
+    "gender": 1,
+    "style": 10,
+    "label": "Braided crown",
+    "path": "emoji/voltron/faces/hair/stage 0 female/a16_faces-female-stage0-hair-base68-86010"
+  },
+  {
+    "name": "a16_faces-female-stage1-hair-base68-86011",
+    "stage": 1,
+    "gender": 1,
+    "style": 10,
+    "label": "Braided crown",
+    "path": "emoji/voltron/faces/hair/stage 1 female/a16_faces-female-stage1-hair-base68-86011"
+  },
+  {
+    "name": "a16_faces-female-stage2-hair-base68-86012",
+    "stage": 2,
+    "gender": 1,
+    "style": 10,
+    "label": "Braided crown",
+    "path": "emoji/voltron/faces/hair/stage 2 female/a16_faces-female-stage2-hair-base68-86012"
+  },
+  {
+    "name": "a16_faces-female-stage3-hair-base68-86013",
+    "stage": 3,
+    "gender": 1,
+    "style": 10,
+    "label": "Braided crown",
+    "path": "emoji/voltron/faces/hair/stage 3 female/a16_faces-female-stage3-hair-base68-86013"
+  },
+  {
+    "name": "a16_faces-female-stage4-hair-base68-86014",
+    "stage": 4,
+    "gender": 1,
+    "style": 10,
+    "label": "Braided crown",
+    "path": "emoji/voltron/faces/hair/stage 4 female/a16_faces-female-stage4-hair-base68-86014"
+  },
+  {
+    "name": "a16_faces-female-stage5-hair-base68-86015",
+    "stage": 5,
+    "gender": 1,
+    "style": 10,
+    "label": "Braided crown",
+    "path": "emoji/voltron/faces/hair/stage 5 female/a16_faces-female-stage5-hair-base68-86015"
+  },
+  {
+    "name": "a16_faces-male-stage0-hair-base69-86100",
+    "stage": 0,
+    "gender": 0,
+    "style": 11,
+    "label": "Low ponytail",
+    "path": "emoji/voltron/faces/hair/stage 0 male/a16_faces-male-stage0-hair-base69-86100"
+  },
+  {
+    "name": "a16_faces-male-stage1-hair-base69-86101",
+    "stage": 1,
+    "gender": 0,
+    "style": 11,
+    "label": "Low ponytail",
+    "path": "emoji/voltron/faces/hair/stage 1 male/a16_faces-male-stage1-hair-base69-86101"
+  },
+  {
+    "name": "a16_faces-male-stage2-hair-base69-86102",
+    "stage": 2,
+    "gender": 0,
+    "style": 11,
+    "label": "Low ponytail",
+    "path": "emoji/voltron/faces/hair/stage 2 male/a16_faces-male-stage2-hair-base69-86102"
+  },
+  {
+    "name": "a16_faces-male-stage3-hair-base69-86103",
+    "stage": 3,
+    "gender": 0,
+    "style": 11,
+    "label": "Low ponytail",
+    "path": "emoji/voltron/faces/hair/stage 3 male/a16_faces-male-stage3-hair-base69-86103"
+  },
+  {
+    "name": "a16_faces-male-stage4-hair-base69-86104",
+    "stage": 4,
+    "gender": 0,
+    "style": 11,
+    "label": "Low ponytail",
+    "path": "emoji/voltron/faces/hair/stage 4 male/a16_faces-male-stage4-hair-base69-86104"
+  },
+  {
+    "name": "a16_faces-male-stage5-hair-base69-86105",
+    "stage": 5,
+    "gender": 0,
+    "style": 11,
+    "label": "Low ponytail",
+    "path": "emoji/voltron/faces/hair/stage 5 male/a16_faces-male-stage5-hair-base69-86105"
+  },
+  {
+    "name": "a16_faces-female-stage0-hair-base69-86110",
+    "stage": 0,
+    "gender": 1,
+    "style": 11,
+    "label": "Low ponytail",
+    "path": "emoji/voltron/faces/hair/stage 0 female/a16_faces-female-stage0-hair-base69-86110"
+  },
+  {
+    "name": "a16_faces-female-stage1-hair-base69-86111",
+    "stage": 1,
+    "gender": 1,
+    "style": 11,
+    "label": "Low ponytail",
+    "path": "emoji/voltron/faces/hair/stage 1 female/a16_faces-female-stage1-hair-base69-86111"
+  },
+  {
+    "name": "a16_faces-female-stage2-hair-base69-86112",
+    "stage": 2,
+    "gender": 1,
+    "style": 11,
+    "label": "Low ponytail",
+    "path": "emoji/voltron/faces/hair/stage 2 female/a16_faces-female-stage2-hair-base69-86112"
+  },
+  {
+    "name": "a16_faces-female-stage3-hair-base69-86113",
+    "stage": 3,
+    "gender": 1,
+    "style": 11,
+    "label": "Low ponytail",
+    "path": "emoji/voltron/faces/hair/stage 3 female/a16_faces-female-stage3-hair-base69-86113"
+  },
+  {
+    "name": "a16_faces-female-stage4-hair-base69-86114",
+    "stage": 4,
+    "gender": 1,
+    "style": 11,
+    "label": "Low ponytail",
+    "path": "emoji/voltron/faces/hair/stage 4 female/a16_faces-female-stage4-hair-base69-86114"
+  },
+  {
+    "name": "a16_faces-female-stage5-hair-base69-86115",
+    "stage": 5,
+    "gender": 1,
+    "style": 11,
+    "label": "Low ponytail",
+    "path": "emoji/voltron/faces/hair/stage 5 female/a16_faces-female-stage5-hair-base69-86115"
+  },
+  {
+    "name": "a16_faces-male-stage0-hair-base70-86200",
+    "stage": 0,
+    "gender": 0,
+    "style": 12,
+    "label": "High ponytail",
+    "path": "emoji/voltron/faces/hair/stage 0 male/a16_faces-male-stage0-hair-base70-86200"
+  },
+  {
+    "name": "a16_faces-male-stage1-hair-base70-86201",
+    "stage": 1,
+    "gender": 0,
+    "style": 12,
+    "label": "High ponytail",
+    "path": "emoji/voltron/faces/hair/stage 1 male/a16_faces-male-stage1-hair-base70-86201"
+  },
+  {
+    "name": "a16_faces-male-stage2-hair-base70-86202",
+    "stage": 2,
+    "gender": 0,
+    "style": 12,
+    "label": "High ponytail",
+    "path": "emoji/voltron/faces/hair/stage 2 male/a16_faces-male-stage2-hair-base70-86202"
+  },
+  {
+    "name": "a16_faces-male-stage3-hair-base70-86203",
+    "stage": 3,
+    "gender": 0,
+    "style": 12,
+    "label": "High ponytail",
+    "path": "emoji/voltron/faces/hair/stage 3 male/a16_faces-male-stage3-hair-base70-86203"
+  },
+  {
+    "name": "a16_faces-male-stage4-hair-base70-86204",
+    "stage": 4,
+    "gender": 0,
+    "style": 12,
+    "label": "High ponytail",
+    "path": "emoji/voltron/faces/hair/stage 4 male/a16_faces-male-stage4-hair-base70-86204"
+  },
+  {
+    "name": "a16_faces-male-stage5-hair-base70-86205",
+    "stage": 5,
+    "gender": 0,
+    "style": 12,
+    "label": "High ponytail",
+    "path": "emoji/voltron/faces/hair/stage 5 male/a16_faces-male-stage5-hair-base70-86205"
+  },
+  {
+    "name": "a16_faces-female-stage0-hair-base70-86210",
+    "stage": 0,
+    "gender": 1,
+    "style": 12,
+    "label": "High ponytail",
+    "path": "emoji/voltron/faces/hair/stage 0 female/a16_faces-female-stage0-hair-base70-86210"
+  },
+  {
+    "name": "a16_faces-female-stage1-hair-base70-86211",
+    "stage": 1,
+    "gender": 1,
+    "style": 12,
+    "label": "High ponytail",
+    "path": "emoji/voltron/faces/hair/stage 1 female/a16_faces-female-stage1-hair-base70-86211"
+  },
+  {
+    "name": "a16_faces-female-stage2-hair-base70-86212",
+    "stage": 2,
+    "gender": 1,
+    "style": 12,
+    "label": "High ponytail",
+    "path": "emoji/voltron/faces/hair/stage 2 female/a16_faces-female-stage2-hair-base70-86212"
+  },
+  {
+    "name": "a16_faces-female-stage3-hair-base70-86213",
+    "stage": 3,
+    "gender": 1,
+    "style": 12,
+    "label": "High ponytail",
+    "path": "emoji/voltron/faces/hair/stage 3 female/a16_faces-female-stage3-hair-base70-86213"
+  },
+  {
+    "name": "a16_faces-female-stage4-hair-base70-86214",
+    "stage": 4,
+    "gender": 1,
+    "style": 12,
+    "label": "High ponytail",
+    "path": "emoji/voltron/faces/hair/stage 4 female/a16_faces-female-stage4-hair-base70-86214"
+  },
+  {
+    "name": "a16_faces-female-stage5-hair-base70-86215",
+    "stage": 5,
+    "gender": 1,
+    "style": 12,
+    "label": "High ponytail",
+    "path": "emoji/voltron/faces/hair/stage 5 female/a16_faces-female-stage5-hair-base70-86215"
+  },
+  {
+    "name": "a16_faces-male-stage0-hair-base71-86300",
+    "stage": 0,
+    "gender": 0,
+    "style": 13,
+    "label": "Long straight fringe",
+    "path": "emoji/voltron/faces/hair/stage 0 male/a16_faces-male-stage0-hair-base71-86300"
+  },
+  {
+    "name": "a16_faces-male-stage1-hair-base71-86301",
+    "stage": 1,
+    "gender": 0,
+    "style": 13,
+    "label": "Long straight fringe",
+    "path": "emoji/voltron/faces/hair/stage 1 male/a16_faces-male-stage1-hair-base71-86301"
+  },
+  {
+    "name": "a16_faces-male-stage2-hair-base71-86302",
+    "stage": 2,
+    "gender": 0,
+    "style": 13,
+    "label": "Long straight fringe",
+    "path": "emoji/voltron/faces/hair/stage 2 male/a16_faces-male-stage2-hair-base71-86302"
+  },
+  {
+    "name": "a16_faces-male-stage3-hair-base71-86303",
+    "stage": 3,
+    "gender": 0,
+    "style": 13,
+    "label": "Long straight fringe",
+    "path": "emoji/voltron/faces/hair/stage 3 male/a16_faces-male-stage3-hair-base71-86303"
+  },
+  {
+    "name": "a16_faces-male-stage4-hair-base71-86304",
+    "stage": 4,
+    "gender": 0,
+    "style": 13,
+    "label": "Long straight fringe",
+    "path": "emoji/voltron/faces/hair/stage 4 male/a16_faces-male-stage4-hair-base71-86304"
+  },
+  {
+    "name": "a16_faces-male-stage5-hair-base71-86305",
+    "stage": 5,
+    "gender": 0,
+    "style": 13,
+    "label": "Long straight fringe",
+    "path": "emoji/voltron/faces/hair/stage 5 male/a16_faces-male-stage5-hair-base71-86305"
+  },
+  {
+    "name": "a16_faces-female-stage0-hair-base71-86310",
+    "stage": 0,
+    "gender": 1,
+    "style": 13,
+    "label": "Long straight fringe",
+    "path": "emoji/voltron/faces/hair/stage 0 female/a16_faces-female-stage0-hair-base71-86310"
+  },
+  {
+    "name": "a16_faces-female-stage1-hair-base71-86311",
+    "stage": 1,
+    "gender": 1,
+    "style": 13,
+    "label": "Long straight fringe",
+    "path": "emoji/voltron/faces/hair/stage 1 female/a16_faces-female-stage1-hair-base71-86311"
+  },
+  {
+    "name": "a16_faces-female-stage2-hair-base71-86312",
+    "stage": 2,
+    "gender": 1,
+    "style": 13,
+    "label": "Long straight fringe",
+    "path": "emoji/voltron/faces/hair/stage 2 female/a16_faces-female-stage2-hair-base71-86312"
+  },
+  {
+    "name": "a16_faces-female-stage3-hair-base71-86313",
+    "stage": 3,
+    "gender": 1,
+    "style": 13,
+    "label": "Long straight fringe",
+    "path": "emoji/voltron/faces/hair/stage 3 female/a16_faces-female-stage3-hair-base71-86313"
+  },
+  {
+    "name": "a16_faces-female-stage4-hair-base71-86314",
+    "stage": 4,
+    "gender": 1,
+    "style": 13,
+    "label": "Long straight fringe",
+    "path": "emoji/voltron/faces/hair/stage 4 female/a16_faces-female-stage4-hair-base71-86314"
+  },
+  {
+    "name": "a16_faces-female-stage5-hair-base71-86315",
+    "stage": 5,
+    "gender": 1,
+    "style": 13,
+    "label": "Long straight fringe",
+    "path": "emoji/voltron/faces/hair/stage 5 female/a16_faces-female-stage5-hair-base71-86315"
+  },
+  {
+    "name": "a16_faces-male-stage0-hair-base72-86400",
+    "stage": 0,
+    "gender": 0,
+    "style": 14,
+    "label": "Wavy bob",
+    "path": "emoji/voltron/faces/hair/stage 0 male/a16_faces-male-stage0-hair-base72-86400"
+  },
+  {
+    "name": "a16_faces-male-stage1-hair-base72-86401",
+    "stage": 1,
+    "gender": 0,
+    "style": 14,
+    "label": "Wavy bob",
+    "path": "emoji/voltron/faces/hair/stage 1 male/a16_faces-male-stage1-hair-base72-86401"
+  },
+  {
+    "name": "a16_faces-male-stage2-hair-base72-86402",
+    "stage": 2,
+    "gender": 0,
+    "style": 14,
+    "label": "Wavy bob",
+    "path": "emoji/voltron/faces/hair/stage 2 male/a16_faces-male-stage2-hair-base72-86402"
+  },
+  {
+    "name": "a16_faces-male-stage3-hair-base72-86403",
+    "stage": 3,
+    "gender": 0,
+    "style": 14,
+    "label": "Wavy bob",
+    "path": "emoji/voltron/faces/hair/stage 3 male/a16_faces-male-stage3-hair-base72-86403"
+  },
+  {
+    "name": "a16_faces-male-stage4-hair-base72-86404",
+    "stage": 4,
+    "gender": 0,
+    "style": 14,
+    "label": "Wavy bob",
+    "path": "emoji/voltron/faces/hair/stage 4 male/a16_faces-male-stage4-hair-base72-86404"
+  },
+  {
+    "name": "a16_faces-male-stage5-hair-base72-86405",
+    "stage": 5,
+    "gender": 0,
+    "style": 14,
+    "label": "Wavy bob",
+    "path": "emoji/voltron/faces/hair/stage 5 male/a16_faces-male-stage5-hair-base72-86405"
+  },
+  {
+    "name": "a16_faces-female-stage0-hair-base72-86410",
+    "stage": 0,
+    "gender": 1,
+    "style": 14,
+    "label": "Wavy bob",
+    "path": "emoji/voltron/faces/hair/stage 0 female/a16_faces-female-stage0-hair-base72-86410"
+  },
+  {
+    "name": "a16_faces-female-stage1-hair-base72-86411",
+    "stage": 1,
+    "gender": 1,
+    "style": 14,
+    "label": "Wavy bob",
+    "path": "emoji/voltron/faces/hair/stage 1 female/a16_faces-female-stage1-hair-base72-86411"
+  },
+  {
+    "name": "a16_faces-female-stage2-hair-base72-86412",
+    "stage": 2,
+    "gender": 1,
+    "style": 14,
+    "label": "Wavy bob",
+    "path": "emoji/voltron/faces/hair/stage 2 female/a16_faces-female-stage2-hair-base72-86412"
+  },
+  {
+    "name": "a16_faces-female-stage3-hair-base72-86413",
+    "stage": 3,
+    "gender": 1,
+    "style": 14,
+    "label": "Wavy bob",
+    "path": "emoji/voltron/faces/hair/stage 3 female/a16_faces-female-stage3-hair-base72-86413"
+  },
+  {
+    "name": "a16_faces-female-stage4-hair-base72-86414",
+    "stage": 4,
+    "gender": 1,
+    "style": 14,
+    "label": "Wavy bob",
+    "path": "emoji/voltron/faces/hair/stage 4 female/a16_faces-female-stage4-hair-base72-86414"
+  },
+  {
+    "name": "a16_faces-female-stage5-hair-base72-86415",
+    "stage": 5,
+    "gender": 1,
+    "style": 14,
+    "label": "Wavy bob",
+    "path": "emoji/voltron/faces/hair/stage 5 female/a16_faces-female-stage5-hair-base72-86415"
+  },
+  {
+    "name": "a16_faces-male-stage0-hair-base73-86500",
+    "stage": 0,
+    "gender": 0,
+    "style": 15,
+    "label": "Layered waves",
+    "path": "emoji/voltron/faces/hair/stage 0 male/a16_faces-male-stage0-hair-base73-86500"
+  },
+  {
+    "name": "a16_faces-male-stage1-hair-base73-86501",
+    "stage": 1,
+    "gender": 0,
+    "style": 15,
+    "label": "Layered waves",
+    "path": "emoji/voltron/faces/hair/stage 1 male/a16_faces-male-stage1-hair-base73-86501"
+  },
+  {
+    "name": "a16_faces-male-stage2-hair-base73-86502",
+    "stage": 2,
+    "gender": 0,
+    "style": 15,
+    "label": "Layered waves",
+    "path": "emoji/voltron/faces/hair/stage 2 male/a16_faces-male-stage2-hair-base73-86502"
+  },
+  {
+    "name": "a16_faces-male-stage3-hair-base73-86503",
+    "stage": 3,
+    "gender": 0,
+    "style": 15,
+    "label": "Layered waves",
+    "path": "emoji/voltron/faces/hair/stage 3 male/a16_faces-male-stage3-hair-base73-86503"
+  },
+  {
+    "name": "a16_faces-male-stage4-hair-base73-86504",
+    "stage": 4,
+    "gender": 0,
+    "style": 15,
+    "label": "Layered waves",
+    "path": "emoji/voltron/faces/hair/stage 4 male/a16_faces-male-stage4-hair-base73-86504"
+  },
+  {
+    "name": "a16_faces-male-stage5-hair-base73-86505",
+    "stage": 5,
+    "gender": 0,
+    "style": 15,
+    "label": "Layered waves",
+    "path": "emoji/voltron/faces/hair/stage 5 male/a16_faces-male-stage5-hair-base73-86505"
+  },
+  {
+    "name": "a16_faces-female-stage0-hair-base73-86510",
+    "stage": 0,
+    "gender": 1,
+    "style": 15,
+    "label": "Layered waves",
+    "path": "emoji/voltron/faces/hair/stage 0 female/a16_faces-female-stage0-hair-base73-86510"
+  },
+  {
+    "name": "a16_faces-female-stage1-hair-base73-86511",
+    "stage": 1,
+    "gender": 1,
+    "style": 15,
+    "label": "Layered waves",
+    "path": "emoji/voltron/faces/hair/stage 1 female/a16_faces-female-stage1-hair-base73-86511"
+  },
+  {
+    "name": "a16_faces-female-stage2-hair-base73-86512",
+    "stage": 2,
+    "gender": 1,
+    "style": 15,
+    "label": "Layered waves",
+    "path": "emoji/voltron/faces/hair/stage 2 female/a16_faces-female-stage2-hair-base73-86512"
+  },
+  {
+    "name": "a16_faces-female-stage3-hair-base73-86513",
+    "stage": 3,
+    "gender": 1,
+    "style": 15,
+    "label": "Layered waves",
+    "path": "emoji/voltron/faces/hair/stage 3 female/a16_faces-female-stage3-hair-base73-86513"
+  },
+  {
+    "name": "a16_faces-female-stage4-hair-base73-86514",
+    "stage": 4,
+    "gender": 1,
+    "style": 15,
+    "label": "Layered waves",
+    "path": "emoji/voltron/faces/hair/stage 4 female/a16_faces-female-stage4-hair-base73-86514"
+  },
+  {
+    "name": "a16_faces-female-stage5-hair-base73-86515",
+    "stage": 5,
+    "gender": 1,
+    "style": 15,
+    "label": "Layered waves",
+    "path": "emoji/voltron/faces/hair/stage 5 female/a16_faces-female-stage5-hair-base73-86515"
+  },
+  {
+    "name": "a16_faces-male-stage0-hair-base74-86600",
+    "stage": 0,
+    "gender": 0,
+    "style": 16,
+    "label": "Buzz fade",
+    "path": "emoji/voltron/faces/hair/stage 0 male/a16_faces-male-stage0-hair-base74-86600"
+  },
+  {
+    "name": "a16_faces-male-stage1-hair-base74-86601",
+    "stage": 1,
+    "gender": 0,
+    "style": 16,
+    "label": "Buzz fade",
+    "path": "emoji/voltron/faces/hair/stage 1 male/a16_faces-male-stage1-hair-base74-86601"
+  },
+  {
+    "name": "a16_faces-male-stage2-hair-base74-86602",
+    "stage": 2,
+    "gender": 0,
+    "style": 16,
+    "label": "Buzz fade",
+    "path": "emoji/voltron/faces/hair/stage 2 male/a16_faces-male-stage2-hair-base74-86602"
+  },
+  {
+    "name": "a16_faces-male-stage3-hair-base74-86603",
+    "stage": 3,
+    "gender": 0,
+    "style": 16,
+    "label": "Buzz fade",
+    "path": "emoji/voltron/faces/hair/stage 3 male/a16_faces-male-stage3-hair-base74-86603"
+  },
+  {
+    "name": "a16_faces-male-stage4-hair-base74-86604",
+    "stage": 4,
+    "gender": 0,
+    "style": 16,
+    "label": "Buzz fade",
+    "path": "emoji/voltron/faces/hair/stage 4 male/a16_faces-male-stage4-hair-base74-86604"
+  },
+  {
+    "name": "a16_faces-male-stage5-hair-base74-86605",
+    "stage": 5,
+    "gender": 0,
+    "style": 16,
+    "label": "Buzz fade",
+    "path": "emoji/voltron/faces/hair/stage 5 male/a16_faces-male-stage5-hair-base74-86605"
+  },
+  {
+    "name": "a16_faces-female-stage0-hair-base74-86610",
+    "stage": 0,
+    "gender": 1,
+    "style": 16,
+    "label": "Buzz fade",
+    "path": "emoji/voltron/faces/hair/stage 0 female/a16_faces-female-stage0-hair-base74-86610"
+  },
+  {
+    "name": "a16_faces-female-stage1-hair-base74-86611",
+    "stage": 1,
+    "gender": 1,
+    "style": 16,
+    "label": "Buzz fade",
+    "path": "emoji/voltron/faces/hair/stage 1 female/a16_faces-female-stage1-hair-base74-86611"
+  },
+  {
+    "name": "a16_faces-female-stage2-hair-base74-86612",
+    "stage": 2,
+    "gender": 1,
+    "style": 16,
+    "label": "Buzz fade",
+    "path": "emoji/voltron/faces/hair/stage 2 female/a16_faces-female-stage2-hair-base74-86612"
+  },
+  {
+    "name": "a16_faces-female-stage3-hair-base74-86613",
+    "stage": 3,
+    "gender": 1,
+    "style": 16,
+    "label": "Buzz fade",
+    "path": "emoji/voltron/faces/hair/stage 3 female/a16_faces-female-stage3-hair-base74-86613"
+  },
+  {
+    "name": "a16_faces-female-stage4-hair-base74-86614",
+    "stage": 4,
+    "gender": 1,
+    "style": 16,
+    "label": "Buzz fade",
+    "path": "emoji/voltron/faces/hair/stage 4 female/a16_faces-female-stage4-hair-base74-86614"
+  },
+  {
+    "name": "a16_faces-female-stage5-hair-base74-86615",
+    "stage": 5,
+    "gender": 1,
+    "style": 16,
+    "label": "Buzz fade",
+    "path": "emoji/voltron/faces/hair/stage 5 female/a16_faces-female-stage5-hair-base74-86615"
+  },
+  {
+    "name": "a16_faces-male-stage0-hair-base75-86700",
+    "stage": 0,
+    "gender": 0,
+    "style": 17,
+    "label": "Side-part fade",
+    "path": "emoji/voltron/faces/hair/stage 0 male/a16_faces-male-stage0-hair-base75-86700"
+  },
+  {
+    "name": "a16_faces-male-stage1-hair-base75-86701",
+    "stage": 1,
+    "gender": 0,
+    "style": 17,
+    "label": "Side-part fade",
+    "path": "emoji/voltron/faces/hair/stage 1 male/a16_faces-male-stage1-hair-base75-86701"
+  },
+  {
+    "name": "a16_faces-male-stage2-hair-base75-86702",
+    "stage": 2,
+    "gender": 0,
+    "style": 17,
+    "label": "Side-part fade",
+    "path": "emoji/voltron/faces/hair/stage 2 male/a16_faces-male-stage2-hair-base75-86702"
+  },
+  {
+    "name": "a16_faces-male-stage3-hair-base75-86703",
+    "stage": 3,
+    "gender": 0,
+    "style": 17,
+    "label": "Side-part fade",
+    "path": "emoji/voltron/faces/hair/stage 3 male/a16_faces-male-stage3-hair-base75-86703"
+  },
+  {
+    "name": "a16_faces-male-stage4-hair-base75-86704",
+    "stage": 4,
+    "gender": 0,
+    "style": 17,
+    "label": "Side-part fade",
+    "path": "emoji/voltron/faces/hair/stage 4 male/a16_faces-male-stage4-hair-base75-86704"
+  },
+  {
+    "name": "a16_faces-male-stage5-hair-base75-86705",
+    "stage": 5,
+    "gender": 0,
+    "style": 17,
+    "label": "Side-part fade",
+    "path": "emoji/voltron/faces/hair/stage 5 male/a16_faces-male-stage5-hair-base75-86705"
+  },
+  {
+    "name": "a16_faces-female-stage0-hair-base75-86710",
+    "stage": 0,
+    "gender": 1,
+    "style": 17,
+    "label": "Side-part fade",
+    "path": "emoji/voltron/faces/hair/stage 0 female/a16_faces-female-stage0-hair-base75-86710"
+  },
+  {
+    "name": "a16_faces-female-stage1-hair-base75-86711",
+    "stage": 1,
+    "gender": 1,
+    "style": 17,
+    "label": "Side-part fade",
+    "path": "emoji/voltron/faces/hair/stage 1 female/a16_faces-female-stage1-hair-base75-86711"
+  },
+  {
+    "name": "a16_faces-female-stage2-hair-base75-86712",
+    "stage": 2,
+    "gender": 1,
+    "style": 17,
+    "label": "Side-part fade",
+    "path": "emoji/voltron/faces/hair/stage 2 female/a16_faces-female-stage2-hair-base75-86712"
+  },
+  {
+    "name": "a16_faces-female-stage3-hair-base75-86713",
+    "stage": 3,
+    "gender": 1,
+    "style": 17,
+    "label": "Side-part fade",
+    "path": "emoji/voltron/faces/hair/stage 3 female/a16_faces-female-stage3-hair-base75-86713"
+  },
+  {
+    "name": "a16_faces-female-stage4-hair-base75-86714",
+    "stage": 4,
+    "gender": 1,
+    "style": 17,
+    "label": "Side-part fade",
+    "path": "emoji/voltron/faces/hair/stage 4 female/a16_faces-female-stage4-hair-base75-86714"
+  },
+  {
+    "name": "a16_faces-female-stage5-hair-base75-86715",
+    "stage": 5,
+    "gender": 1,
+    "style": 17,
+    "label": "Side-part fade",
+    "path": "emoji/voltron/faces/hair/stage 5 female/a16_faces-female-stage5-hair-base75-86715"
+  },
+  {
+    "name": "a16_faces-male-stage0-hair-base76-86800",
+    "stage": 0,
+    "gender": 0,
+    "style": 18,
+    "label": "Two-tone curls",
+    "path": "emoji/voltron/faces/hair/stage 0 male/a16_faces-male-stage0-hair-base76-86800"
+  },
+  {
+    "name": "a16_faces-male-stage1-hair-base76-86801",
+    "stage": 1,
+    "gender": 0,
+    "style": 18,
+    "label": "Two-tone curls",
+    "path": "emoji/voltron/faces/hair/stage 1 male/a16_faces-male-stage1-hair-base76-86801"
+  },
+  {
+    "name": "a16_faces-male-stage2-hair-base76-86802",
+    "stage": 2,
+    "gender": 0,
+    "style": 18,
+    "label": "Two-tone curls",
+    "path": "emoji/voltron/faces/hair/stage 2 male/a16_faces-male-stage2-hair-base76-86802"
+  },
+  {
+    "name": "a16_faces-male-stage3-hair-base76-86803",
+    "stage": 3,
+    "gender": 0,
+    "style": 18,
+    "label": "Two-tone curls",
+    "path": "emoji/voltron/faces/hair/stage 3 male/a16_faces-male-stage3-hair-base76-86803"
+  },
+  {
+    "name": "a16_faces-male-stage4-hair-base76-86804",
+    "stage": 4,
+    "gender": 0,
+    "style": 18,
+    "label": "Two-tone curls",
+    "path": "emoji/voltron/faces/hair/stage 4 male/a16_faces-male-stage4-hair-base76-86804"
+  },
+  {
+    "name": "a16_faces-male-stage5-hair-base76-86805",
+    "stage": 5,
+    "gender": 0,
+    "style": 18,
+    "label": "Two-tone curls",
+    "path": "emoji/voltron/faces/hair/stage 5 male/a16_faces-male-stage5-hair-base76-86805"
+  },
+  {
+    "name": "a16_faces-female-stage0-hair-base76-86810",
+    "stage": 0,
+    "gender": 1,
+    "style": 18,
+    "label": "Two-tone curls",
+    "path": "emoji/voltron/faces/hair/stage 0 female/a16_faces-female-stage0-hair-base76-86810"
+  },
+  {
+    "name": "a16_faces-female-stage1-hair-base76-86811",
+    "stage": 1,
+    "gender": 1,
+    "style": 18,
+    "label": "Two-tone curls",
+    "path": "emoji/voltron/faces/hair/stage 1 female/a16_faces-female-stage1-hair-base76-86811"
+  },
+  {
+    "name": "a16_faces-female-stage2-hair-base76-86812",
+    "stage": 2,
+    "gender": 1,
+    "style": 18,
+    "label": "Two-tone curls",
+    "path": "emoji/voltron/faces/hair/stage 2 female/a16_faces-female-stage2-hair-base76-86812"
+  },
+  {
+    "name": "a16_faces-female-stage3-hair-base76-86813",
+    "stage": 3,
+    "gender": 1,
+    "style": 18,
+    "label": "Two-tone curls",
+    "path": "emoji/voltron/faces/hair/stage 3 female/a16_faces-female-stage3-hair-base76-86813"
+  },
+  {
+    "name": "a16_faces-female-stage4-hair-base76-86814",
+    "stage": 4,
+    "gender": 1,
+    "style": 18,
+    "label": "Two-tone curls",
+    "path": "emoji/voltron/faces/hair/stage 4 female/a16_faces-female-stage4-hair-base76-86814"
+  },
+  {
+    "name": "a16_faces-female-stage5-hair-base76-86815",
+    "stage": 5,
+    "gender": 1,
+    "style": 18,
+    "label": "Two-tone curls",
+    "path": "emoji/voltron/faces/hair/stage 5 female/a16_faces-female-stage5-hair-base76-86815"
+  },
+  {
+    "name": "a16_faces-male-stage0-hair-base77-86900",
+    "stage": 0,
+    "gender": 0,
+    "style": 19,
+    "label": "Space buns",
+    "path": "emoji/voltron/faces/hair/stage 0 male/a16_faces-male-stage0-hair-base77-86900"
+  },
+  {
+    "name": "a16_faces-male-stage1-hair-base77-86901",
+    "stage": 1,
+    "gender": 0,
+    "style": 19,
+    "label": "Space buns",
+    "path": "emoji/voltron/faces/hair/stage 1 male/a16_faces-male-stage1-hair-base77-86901"
+  },
+  {
+    "name": "a16_faces-male-stage2-hair-base77-86902",
+    "stage": 2,
+    "gender": 0,
+    "style": 19,
+    "label": "Space buns",
+    "path": "emoji/voltron/faces/hair/stage 2 male/a16_faces-male-stage2-hair-base77-86902"
+  },
+  {
+    "name": "a16_faces-male-stage3-hair-base77-86903",
+    "stage": 3,
+    "gender": 0,
+    "style": 19,
+    "label": "Space buns",
+    "path": "emoji/voltron/faces/hair/stage 3 male/a16_faces-male-stage3-hair-base77-86903"
+  },
+  {
+    "name": "a16_faces-male-stage4-hair-base77-86904",
+    "stage": 4,
+    "gender": 0,
+    "style": 19,
+    "label": "Space buns",
+    "path": "emoji/voltron/faces/hair/stage 4 male/a16_faces-male-stage4-hair-base77-86904"
+  },
+  {
+    "name": "a16_faces-male-stage5-hair-base77-86905",
+    "stage": 5,
+    "gender": 0,
+    "style": 19,
+    "label": "Space buns",
+    "path": "emoji/voltron/faces/hair/stage 5 male/a16_faces-male-stage5-hair-base77-86905"
+  },
+  {
+    "name": "a16_faces-female-stage0-hair-base77-86910",
+    "stage": 0,
+    "gender": 1,
+    "style": 19,
+    "label": "Space buns",
+    "path": "emoji/voltron/faces/hair/stage 0 female/a16_faces-female-stage0-hair-base77-86910"
+  },
+  {
+    "name": "a16_faces-female-stage1-hair-base77-86911",
+    "stage": 1,
+    "gender": 1,
+    "style": 19,
+    "label": "Space buns",
+    "path": "emoji/voltron/faces/hair/stage 1 female/a16_faces-female-stage1-hair-base77-86911"
+  },
+  {
+    "name": "a16_faces-female-stage2-hair-base77-86912",
+    "stage": 2,
+    "gender": 1,
+    "style": 19,
+    "label": "Space buns",
+    "path": "emoji/voltron/faces/hair/stage 2 female/a16_faces-female-stage2-hair-base77-86912"
+  },
+  {
+    "name": "a16_faces-female-stage3-hair-base77-86913",
+    "stage": 3,
+    "gender": 1,
+    "style": 19,
+    "label": "Space buns",
+    "path": "emoji/voltron/faces/hair/stage 3 female/a16_faces-female-stage3-hair-base77-86913"
+  },
+  {
+    "name": "a16_faces-female-stage4-hair-base77-86914",
+    "stage": 4,
+    "gender": 1,
+    "style": 19,
+    "label": "Space buns",
+    "path": "emoji/voltron/faces/hair/stage 4 female/a16_faces-female-stage4-hair-base77-86914"
+  },
+  {
+    "name": "a16_faces-female-stage5-hair-base77-86915",
+    "stage": 5,
+    "gender": 1,
+    "style": 19,
+    "label": "Space buns",
+    "path": "emoji/voltron/faces/hair/stage 5 female/a16_faces-female-stage5-hair-base77-86915"
+  }
+]

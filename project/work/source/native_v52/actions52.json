@@ -1,0 +1,304 @@
+[
+  {
+    "code": 1,
+    "kind": "school",
+    "title": "Science investigation",
+    "description": "Test a hypothesis, record an unexpected result and revise your explanation.",
+    "skill": "Science",
+    "icon": "books",
+    "min_age": 5
+  },
+  {
+    "code": 2,
+    "kind": "school",
+    "title": "Debate tournament",
+    "description": "Prepare evidence, hear an objection and decide how to respond.",
+    "skill": "Debate",
+    "icon": "megaphone",
+    "min_age": 5
+  },
+  {
+    "code": 3,
+    "kind": "school",
+    "title": "School newspaper",
+    "description": "Interview a source, verify a quotation and publish a corrected report.",
+    "skill": "Writing",
+    "icon": "newspaper",
+    "min_age": 5
+  },
+  {
+    "code": 4,
+    "kind": "school",
+    "title": "Theatre production",
+    "description": "Audition, rehearse and support your cast through a difficult performance.",
+    "skill": "Arts",
+    "icon": "film-frames",
+    "min_age": 5
+  },
+  {
+    "code": 5,
+    "kind": "school",
+    "title": "Robotics project",
+    "description": "Design a prototype, debug it with your team and demonstrate the result.",
+    "skill": "Science",
+    "icon": "keyboard",
+    "min_age": 5
+  },
+  {
+    "code": 6,
+    "kind": "school",
+    "title": "Peer mentoring",
+    "description": "Help a younger student learn without doing the work for them.",
+    "skill": "Community",
+    "icon": "handshake",
+    "min_age": 5
+  },
+  {
+    "code": 7,
+    "kind": "school",
+    "title": "Student council",
+    "description": "Collect classmates\u2019 ideas and choose a realistic proposal.",
+    "skill": "Leadership",
+    "icon": "handshake",
+    "min_age": 5
+  },
+  {
+    "code": 8,
+    "kind": "school",
+    "title": "Athletics meet",
+    "description": "Train for an event, balance recovery and compete for your school.",
+    "skill": "Sports",
+    "icon": "running-shoe",
+    "min_age": 5
+  },
+  {
+    "code": 9,
+    "kind": "school",
+    "title": "Music ensemble",
+    "description": "Practice your part, listen to the group and perform together.",
+    "skill": "Music",
+    "icon": "musical-note",
+    "min_age": 5
+  },
+  {
+    "code": 10,
+    "kind": "school",
+    "title": "Creative writing",
+    "description": "Revise a story and decide which feedback to use.",
+    "skill": "Arts",
+    "icon": "books",
+    "min_age": 5
+  },
+  {
+    "code": 11,
+    "kind": "school",
+    "title": "Community garden",
+    "description": "Organize classmates, share responsibilities and maintain a school garden.",
+    "skill": "Community",
+    "icon": "seedling",
+    "min_age": 5
+  },
+  {
+    "code": 12,
+    "kind": "school",
+    "title": "Exam preparation",
+    "description": "Use spaced practice and ask for help with a difficult topic.",
+    "skill": "Study",
+    "icon": "books",
+    "min_age": 5
+  },
+  {
+    "code": 21,
+    "kind": "fighter",
+    "title": "Striking drills",
+    "description": "Improve timing and distance control.",
+    "skill": "Striking",
+    "icon": "flex",
+    "min_age": 8
+  },
+  {
+    "code": 22,
+    "kind": "fighter",
+    "title": "Submission practice",
+    "description": "Build controlled grappling technique.",
+    "skill": "Grappling",
+    "icon": "flex",
+    "min_age": 8
+  },
+  {
+    "code": 23,
+    "kind": "fighter",
+    "title": "Wrestling practice",
+    "description": "Develop balance and takedown defence.",
+    "skill": "Wrestling",
+    "icon": "flex",
+    "min_age": 8
+  },
+  {
+    "code": 24,
+    "kind": "fighter",
+    "title": "Conditioning",
+    "description": "Build stamina while managing fatigue.",
+    "skill": "Conditioning",
+    "icon": "flex",
+    "min_age": 8
+  },
+  {
+    "code": 25,
+    "kind": "fighter",
+    "title": "Study an opponent",
+    "description": "Use an opponent\u2019s style to choose a match plan.",
+    "skill": "Tactics",
+    "icon": "flex",
+    "min_age": 8
+  },
+  {
+    "code": 26,
+    "kind": "fighter",
+    "title": "Recovery session",
+    "description": "Reduce fatigue before the next bout.",
+    "skill": "Recovery",
+    "icon": "flex",
+    "min_age": 8
+  },
+  {
+    "code": 27,
+    "kind": "fighter",
+    "title": "Enter a circuit bout",
+    "description": "Your skills, reach, training and plan affect the result.",
+    "skill": "Bout",
+    "icon": "flex",
+    "min_age": 18
+  },
+  {
+    "code": 28,
+    "kind": "fighter",
+    "title": "Counter-striking plan",
+    "description": "Trade aggression for timing and distance.",
+    "skill": "Counter",
+    "icon": "flex",
+    "min_age": 8
+  },
+  {
+    "code": 29,
+    "kind": "fighter",
+    "title": "Grappling plan",
+    "description": "Try to control the bout on the ground.",
+    "skill": "Grapple",
+    "icon": "flex",
+    "min_age": 8
+  },
+  {
+    "code": 30,
+    "kind": "fighter",
+    "title": "Balanced plan",
+    "description": "Keep options open against an unfamiliar opponent.",
+    "skill": "Balanced",
+    "icon": "flex",
+    "min_age": 8
+  },
+  {
+    "code": 41,
+    "kind": "church",
+    "title": "Attend a service",
+    "description": "Reflect, meet your community and improve wellbeing.",
+    "icon": "49-basilica",
+    "min_age": 0
+  },
+  {
+    "code": 42,
+    "kind": "church",
+    "title": "Volunteer at the food pantry",
+    "description": "Build service experience and strengthen family connections.",
+    "icon": "49-priest",
+    "min_age": 0
+  },
+  {
+    "code": 43,
+    "kind": "church",
+    "title": "Join the community choir",
+    "description": "Practice music and perform with other members.",
+    "icon": "49-priest",
+    "min_age": 0
+  },
+  {
+    "code": 44,
+    "kind": "church",
+    "title": "Talk with a chaplain",
+    "description": "Choose a personal goal and reflect on a difficulty.",
+    "icon": "49-priest",
+    "min_age": 0
+  },
+  {
+    "code": 45,
+    "kind": "church",
+    "title": "Support a community fundraiser",
+    "description": "Contribute 25 from your bank balance.",
+    "icon": "49-priest",
+    "min_age": 0
+  },
+  {
+    "code": 46,
+    "kind": "church",
+    "title": "Visit the memorial garden",
+    "description": "Remember someone and spend a quiet moment with family.",
+    "icon": "49-priest",
+    "min_age": 0
+  },
+  {
+    "code": 61,
+    "kind": "crime",
+    "title": "Underground racing story",
+    "description": "A racing event with winnings, fines, fatigue and escalating attention.",
+    "icon": "suitcase",
+    "min_age": 18
+  },
+  {
+    "code": 62,
+    "kind": "crime",
+    "title": "Crew heist story",
+    "description": "Choose a role in a crew caper; outcomes change money and trust.",
+    "icon": "suitcase",
+    "min_age": 18
+  },
+  {
+    "code": 63,
+    "kind": "crime",
+    "title": "Stolen art story",
+    "description": "A underworld deal with substantial financial risk.",
+    "icon": "suitcase",
+    "min_age": 18
+  },
+  {
+    "code": 64,
+    "kind": "crime",
+    "title": "Leave the crew",
+    "description": "Lower attention and rebuild trust through ordinary activities.",
+    "icon": "suitcase",
+    "min_age": 18
+  },
+  {
+    "code": 81,
+    "kind": "music",
+    "title": "Open my production studio",
+    "description": "Create a persistent independent studio and continue your current project.",
+    "icon": "mic-studio",
+    "min_age": 16
+  },
+  {
+    "code": 82,
+    "kind": "music",
+    "title": "Production practice",
+    "description": "Practice musicianship and improve your active project.",
+    "icon": "mic-studio",
+    "min_age": 16
+  },
+  {
+    "code": 83,
+    "kind": "music",
+    "title": "Studio project review",
+    "description": "See progress, quality, releases and royalty income.",
+    "icon": "mic-studio",
+    "min_age": 16
+  }
+]

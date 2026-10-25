@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "tests": {
+    "RuntimeLogStoreTest": "Runtime log filtering, exception preservation, rotation, persistence, reset and clipboard bounds passed",
+    "CrashJournalTest": "Crash journal cases passed: 19",
+    "TombstoneReaderTest": "PASS: crashing-thread frames, signal/fault, PID/process matching, unknown-field skipping, private data exclusion, malformed/fuzz inputs, byte limit, stalled stream",
+    "NativeCrashReaderTest": "Android crash reader cases passed: 14",
+    "RecoveredLauncherJournalTest": "Recovered launcher journal cases passed: 5",
+    "NativeFatalJournalTest": "Native fatal filtering, PID isolation, API-28 recovery and preflight persistence passed: 14"
+  },
+  "own_process_fatal_lines_preserved": true,
+  "native_fatal_recovered_without_Android11_exit_history": true,
+  "preflight_library_error_persisted": true,
+  "source_sha256": {
+    "CrashJournal.java": "732824552c3755b6b0f20af75d8f3769479497ecae8e5ef60debbd6210fc7af5",
+    "FloatingDisplay.java": "e2b9cf79ad7a5e2771ce8a46fcde328fe2fe58c8321e767034863d9475e51938",
+    "StartupActivity.java": "1e5071d04d0ed40c08db31090f2c4f69a253e1874a57928751540a6766892c19",
+    "TombstoneReader.java": "b7896e9707f45f751c463a13b19a6898067a5c167de996afb62e40b95faa24bb",
+    "DiagnosticsUI.java": "71a37e5a32a04c7bc985fd8c23a693116ecceff739c97f18f7fc05c9ac30a1e4",
+    "NativeCrashReader.java": "d1f65f068a3cdcfea680643e718fadc176ded0620516e83cfbef8f45c529e214",
+    "StartupProbe.java": "d9afdf21c5a584dbad20d1d3a6097d9820dba87d129dc23b0eba5542796222b2",
+    "LifeSetupUI.java": "23a9a8eb150109d282b2db6b415b0f720ad97f70e710bcc89ad44af000d220da",
+    "RuntimeLogCapture.java": "d286c49f6b324dbeddfd689337426277c40e6346c035d333991fece4b61c42ba",
+    "RuntimeLogStore.java": "4cfe617d0fd9da97d3df3fcef484f300efa35070bb299775fdfa501dd48c57cc",
+    "LauncherIcon.java": "e477cff047112c1738c108795c29c1d017170ce2b355a00efa3516411a134b5c"
+  },
+  "Android_service_responses_mocked": true,
+  "device_runtime_tested": false
+}

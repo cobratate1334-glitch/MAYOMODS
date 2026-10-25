@@ -1,0 +1,109 @@
+{
+  "ListID": "genesis_v8_football_v8",
+  "Title": "FOOTBALL TRAINING GROUND",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Penalty Challenge",
+      "Icon": "soccer-ball",
+      "SecondLine": "Five shots, a committed keeper and saved scores",
+      "TileID": "v8_football_v8penalties",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV8.football_v8penalties",
+              "ScenarioFile": "genesis_activities_v8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Passing Challenge",
+      "Icon": "soccer-ball",
+      "SecondLine": "Read the pitch at three checkpoints",
+      "TileID": "v8_football_v8passing",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV8.football_v8passing",
+              "ScenarioFile": "genesis_activities_v8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Match Tactics",
+      "Icon": "clipboard",
+      "SecondLine": "Make a late-game decision",
+      "TileID": "v8_football_v8tactics",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV8.football_v8tactics",
+              "ScenarioFile": "genesis_activities_v8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Pressing and build-up",
+      "Icon": "soccer-ball",
+      "SecondLine": "",
+      "TileID": "v9_football_v8press",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV9.football_v8press",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Captain and team meeting",
+      "Icon": "soccer-ball",
+      "SecondLine": "",
+      "TileID": "v9_football_v8captain",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV9.football_v8captain",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Football press conference",
+      "Icon": "soccer-ball",
+      "SecondLine": "",
+      "TileID": "v9_football_v8media",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV9.football_v8media",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

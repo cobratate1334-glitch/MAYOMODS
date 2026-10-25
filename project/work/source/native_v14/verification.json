@@ -1,0 +1,311 @@
+{
+  "apk": "/workspace/scratch/feb83fa3a2be/final/BitLife_Native_Activities_v14.apk",
+  "size": 269286889,
+  "sha256": "19978b25bb13d11af34ddf038bd2aa13a3b7cb2b36a915da09ee251d4d13c8c2",
+  "backup": "/workspace/scratch/feb83fa3a2be/final/BitLife_Native_Activities_v14.zip",
+  "base_sha256": "ea8917c4fae560199b83c7979a482538f216852e3b99f7cf5e629873487033f4",
+  "changed_apk_entries": [
+    "assets/bin/Data/datapack.unity3d",
+    "assets/bin/Data/data.unity3d",
+    "lib/arm64-v8a/libil2cpp.so",
+    "classes13.dex"
+  ],
+  "native_code_preserved": "Existing v13 bytes retained except eight intentional hook instructions and ELF segment size fields",
+  "retained_native_hooks_tested": true,
+  "retained_validation_mode": "prior reports plus unchanged code verification",
+  "retained_v13_tests": {
+    "instruction_cases": 318,
+    "load_addresses": 2,
+    "volatile_registers_clobbered": true,
+    "file_descriptors_closed": true,
+    "device_runtime_tested": false
+  },
+  "added_native_tests": {
+    "binary_sha256": "ba7840f9fa19d1f470b37d4eea0c1803628039be485d21b3988af5d78bd9b684",
+    "instruction_cases": 472,
+    "load_addresses": 2,
+    "registers_preserved": true,
+    "device_runtime_tested": false
+  },
+  "diagnostic_dex_tests": {
+    "changed_classes": [
+      "com/chance/bitlifediag/StartupActivity$3.smali",
+      "com/chance/bitlifediag/RuntimeLogCapture$2.smali",
+      "com/chance/bitlifediag/StartupActivity.smali",
+      "com/chance/bitlifediag/NamePackUI.smali",
+      "com/chance/bitlifediag/StartupActivity$1.smali",
+      "com/chance/bitlifediag/NamePackUI$14.smali",
+      "com/chance/bitlifediag/NamePackUI$10.smali",
+      "com/chance/bitlifediag/NamePackUI$22$2.smali",
+      "com/chance/bitlifediag/StartupActivity$6.smali",
+      "com/chance/bitlifediag/NamePackUI$1.smali",
+      "com/chance/bitlifediag/NamePackUI$15.smali",
+      "com/chance/bitlifediag/NamePackUI$22$1.smali",
+      "com/chance/bitlifediag/StartupActivity$2.smali",
+      "com/chance/bitlifediag/StartupActivity$4.smali",
+      "com/chance/bitlifediag/NamePackUI$4.smali",
+      "com/chance/bitlifediag/NamePackUI$5.smali",
+      "com/chance/bitlifediag/PackCatalog.smali",
+      "com/chance/bitlifediag/NamePackUI$11.smali",
+      "com/chance/bitlifediag/NamePackUI$19.smali",
+      "com/chance/bitlifediag/RuntimeLogCapture$1.smali",
+      "com/chance/bitlifediag/RuntimeLogCapture.smali",
+      "com/chance/bitlifediag/RuntimeLogCapture$1$1.smali",
+      "com/chance/bitlifediag/NamePackUI$12.smali",
+      "com/chance/bitlifediag/NamePackUI$21.smali",
+      "com/chance/bitlifediag/NamePackUI$13.smali",
+      "com/chance/bitlifediag/NamePackUI$7.smali",
+      "com/chance/bitlifediag/PackFormat$Pack.smali",
+      "com/chance/bitlifediag/NamePackUI$17.smali",
+      "com/chance/bitlifediag/NamePackUI$9.smali",
+      "com/chance/bitlifediag/NamePackUI$8.smali",
+      "com/chance/bitlifediag/NamePackUI$22.smali",
+      "com/chance/bitlifediag/StartupActivity$5.smali",
+      "com/chance/bitlifediag/StartupActivity$9.smali",
+      "com/chance/bitlifediag/PackFormat$Json.smali",
+      "com/chance/bitlifediag/NamePackUI$3.smali",
+      "com/chance/bitlifediag/RuntimeLogCapture$1$2.smali",
+      "com/chance/bitlifediag/StartupActivity$9$1.smali",
+      "com/chance/bitlifediag/NamePackUI$10$1.smali",
+      "com/chance/bitlifediag/NamePackUI$20.smali",
+      "com/chance/bitlifediag/StartupActivity$8.smali",
+      "com/chance/bitlifediag/NamePackUI$6.smali",
+      "com/chance/bitlifediag/PackFormat.smali",
+      "com/chance/bitlifediag/NamePackUI$18.smali",
+      "com/chance/bitlifediag/NamePackUI$16.smali",
+      "com/chance/bitlifediag/NamePackUI$2.smali",
+      "com/chance/bitlifediag/StartupActivity$7.smali"
+    ],
+    "preserved_diagnostic_classes": [
+      "com/chance/bitlifediag/StartupProbe$1.smali",
+      "com/chance/bitlifediag/TombstoneReader$Field.smali",
+      "com/chance/bitlifediag/TombstoneReader$Reader.smali",
+      "com/chance/bitlifediag/TombstoneReader.smali",
+      "com/chance/bitlifediag/NativeDiagnostics.smali",
+      "com/chance/bitlifediag/RuntimeLogStore.smali",
+      "com/chance/bitlifediag/StartupProbe.smali"
+    ],
+    "roundtrip_verified": true,
+    "min_api": 25
+  },
+  "new_country_aliases": 0,
+  "competition_graphics": {
+    "a16_emoji-v14-madrid": {
+      "texture": 37085,
+      "sprite": 37086,
+      "source": "madrid.png",
+      "pixel_sha256": "2eb7f31370ab4ce7897923e1129758232e5479e623ce6e10efd99851572473bd"
+    },
+    "a16_emoji-v14-city": {
+      "texture": 37087,
+      "sprite": 37088,
+      "source": "city.png",
+      "pixel_sha256": "7f4f4816305d90f570d803a4b5c786bfa38ae421d133ba9806ba4d9113330014"
+    },
+    "a16_emoji-v14-barcelona": {
+      "texture": 37089,
+      "sprite": 37090,
+      "source": "barcelona.png",
+      "pixel_sha256": "35a3c3332b3e455632d10fc768b5f605677c9b9161e1b736cffc5a48f3800e1c"
+    },
+    "a16_emoji-v14-arsenal": {
+      "texture": 37091,
+      "sprite": 37092,
+      "source": "arsenal.png",
+      "pixel_sha256": "be023587afe2172decc1aa218888e1c1eac04d2548cfc174631952c93a8fe949"
+    },
+    "a16_emoji-v14-chelsea": {
+      "texture": 37093,
+      "sprite": 37094,
+      "source": "chelsea.png",
+      "pixel_sha256": "9b3e30336ade64809d182bcc77feddd1dd12793d593f8588b227935d47583eda"
+    },
+    "a16_emoji-v14-bayern": {
+      "texture": 37095,
+      "sprite": 37096,
+      "source": "bayern.png",
+      "pixel_sha256": "ff8d2f0c2bdaae01326d346cfc85eab450a70a81247efc95e05253e46dfba380"
+    },
+    "a16_emoji-v14-juventus": {
+      "texture": 37097,
+      "sprite": 37098,
+      "source": "juventus.png",
+      "pixel_sha256": "00d9ced155d38e020d70d78e155550c0af5a6696530ed88417aad9f095934080"
+    },
+    "a16_emoji-v14-psg": {
+      "texture": 37099,
+      "sprite": 37100,
+      "source": "psg.png",
+      "pixel_sha256": "095eafdd8dc474e023a8f5f41768fdbee01a08daff89f0b02bcb06b3bd6180ed"
+    },
+    "a16_emoji-v14-atletico": {
+      "texture": 37101,
+      "sprite": 37102,
+      "source": "atletico.png",
+      "pixel_sha256": "8e9bf1f47f18f0c95837e20ddfd47caa47392310209bb7f3528bd7b7a325b7c2"
+    }
+  },
+  "changed_existing_resources": [
+    "genesis_activities_v11",
+    "genesis_activities_v12",
+    "genesis_entity_death",
+    "genesis_feature_containers",
+    "genesis_music_studio_catalog",
+    "genesis_music_studio_hub",
+    "genesis_music_studio_project",
+    "genesis_record_label_artist1",
+    "genesis_record_label_artist2",
+    "genesis_record_label_artist3",
+    "genesis_record_label_artist4",
+    "genesis_record_label_hub",
+    "genesis_record_label_scout",
+    "genesis_v12_defaults_soccer_v12",
+    "genesis_v9_v11_parole_v11",
+    "genesis_v9_v12_soccer"
+  ],
+  "new_resource_paths": {
+    "genesis_v9_v14_clubgallery": 37075,
+    "genesis_v9_v14_sports_people_v14": 37076,
+    "genesis_v9_v14_music_people_v14": 37077,
+    "genesis_v9_v14_mafia_operations_v14": 37078,
+    "genesis_v9_v14_workplace_roles_v14": 37079,
+    "genesis_v14_defaults_sports_people_v14": 37080,
+    "genesis_v14_defaults_mafia_operations_v14": 37081,
+    "genesis_v14_defaults_workplace_roles_v14": 37082,
+    "genesis_v14_defaults_music_people_v14": 37083,
+    "genesis_activities_v14": 37084
+  },
+  "preserved_resource_registrations": 17889,
+  "preserved_datapack_objects": 37058,
+  "preserved_data_objects": 12815,
+  "dealer_tests": {
+    "status": "passed",
+    "instruction_emulation_cases": 712,
+    "aslr_load_biases": [
+      "0x0",
+      "0x1000000000"
+    ],
+    "coverage": [
+      "valid weighted indices unchanged",
+      "negative and oversized indices clamped",
+      "empty filtered pool retries catalogue once",
+      "missing or empty catalogue returns null",
+      "item generation preserves original nonnull paths",
+      "callee-saved registers and SP preserved"
+    ],
+    "limitation": "Existing virtual Count/RNG calls are simulated; not a device gameplay test."
+  },
+  "prison_icon_tests": {
+    "status": "passed",
+    "cases": 32,
+    "fallback": "factory",
+    "known_job_branches_preserved": true
+  },
+  "native_menu_and_stat_tests": {
+    "instruction_cases": 488,
+    "load_addresses": 2,
+    "device_runtime_tested": false
+  },
+  "registry_tests": {
+    "instruction_cases": 300,
+    "load_addresses": 2,
+    "previous_bad_requests": {},
+    "correct_resource_paths": [
+      "genesis_lists/genesis_music_studio_hub",
+      "genesis_lists/genesis_v7_f1_career",
+      "genesis_lists/genesis_v7_job_accessibility_specialist",
+      "genesis_lists/genesis_v7_job_archive_technician",
+      "genesis_lists/genesis_v7_job_audio_editor",
+      "genesis_lists/genesis_v7_job_brand_designer",
+      "genesis_lists/genesis_v7_job_cloud_systems_engineer",
+      "genesis_lists/genesis_v7_job_community_manager",
+      "genesis_lists/genesis_v7_job_community_moderator",
+      "genesis_lists/genesis_v7_job_content_strategist",
+      "genesis_lists/genesis_v7_job_copy_editor",
+      "genesis_lists/genesis_v7_job_customer_experience_analyst",
+      "genesis_lists/genesis_v7_job_cybersecurity_analyst",
+      "genesis_lists/genesis_v7_job_data_analyst",
+      "genesis_lists/genesis_v7_job_digital_archivist",
+      "genesis_lists/genesis_v7_job_digital_illustrator",
+      "genesis_lists/genesis_v7_job_education_programme_coordinator",
+      "genesis_lists/genesis_v7_job_event_coordinator",
+      "genesis_lists/genesis_v7_job_exhibition_coordinator",
+      "genesis_lists/genesis_v7_job_game_designer",
+      "genesis_lists/genesis_v7_job_game_quality_analyst",
+      "genesis_lists/genesis_v7_job_independent_music_promoter",
+      "genesis_lists/genesis_v7_job_learning_support_officer",
+      "genesis_lists/genesis_v7_job_library_programme_coordinator",
+      "genesis_lists/genesis_v7_job_lighting_technician",
+      "genesis_lists/genesis_v7_job_literacy_coordinator",
+      "genesis_lists/genesis_v7_job_live_sound_technician",
+      "genesis_lists/genesis_v7_job_location_coordinator",
+      "genesis_lists/genesis_v7_job_logistics_planner",
+      "genesis_lists/genesis_v7_job_luxury_asset_manager",
+      "genesis_lists/genesis_v7_job_market_research_analyst",
+      "genesis_lists/genesis_v7_job_motion_graphics_designer",
+      "genesis_lists/genesis_v7_job_museum_educator",
+      "genesis_lists/genesis_v7_job_music_rights_coordinator",
+      "genesis_lists/genesis_v7_job_operations_coordinator",
+      "genesis_lists/genesis_v7_job_podcast_producer",
+      "genesis_lists/genesis_v7_job_production_coordinator",
+      "genesis_lists/genesis_v7_job_quality_assurance_coordinator",
+      "genesis_lists/genesis_v7_job_race_engineer",
+      "genesis_lists/genesis_v7_job_reality_tv_producer",
+      "genesis_lists/genesis_v7_job_recruitment_coordinator",
+      "genesis_lists/genesis_v7_job_research_coordinator",
+      "genesis_lists/genesis_v7_job_sports_physiotherapist",
+      "genesis_lists/genesis_v7_job_student_services_officer",
+      "genesis_lists/genesis_v7_job_sustainability_coordinator",
+      "genesis_lists/genesis_v7_job_technical_writer",
+      "genesis_lists/genesis_v7_job_training_coordinator",
+      "genesis_lists/genesis_v7_job_user_experience_designer",
+      "genesis_lists/genesis_v7_police",
+      "genesis_lists/genesis_v7_prison",
+      "genesis_lists/genesis_v7_tv_host",
+      "genesis_lists/genesis_v8_football_v8",
+      "genesis_lists/genesis_v8_military_v8",
+      "genesis_lists/genesis_v8_politics_v8",
+      "genesis_lists/genesis_v8_prison_tape",
+      "genesis_lists/genesis_v8_shopping_v8",
+      "genesis_lists/genesis_v9_basketball_v9",
+      "genesis_lists/genesis_v9_military_v9",
+      "genesis_lists/genesis_v9_rugby_v9",
+      "genesis_lists/genesis_v9_school_v9",
+      "genesis_lists/genesis_v9_v11_parole_v11",
+      "genesis_lists/genesis_v9_v12_soccer",
+      "genesis_lists/genesis_v9_v13_duty",
+      "genesis_lists/genesis_v9_v13_government",
+      "genesis_lists/genesis_v9_v13_packs",
+      "genesis_lists/genesis_v9_v14_mafia_operations_v14",
+      "genesis_lists/genesis_v9_v14_music_people_v14",
+      "genesis_lists/genesis_v9_v14_sports_people_v14",
+      "genesis_lists/genesis_v9_v14_workplace_roles_v14"
+    ],
+    "android_runtime_tested": false
+  },
+  "signing": {
+    "VerifyApk.java": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]",
+    "VerifyNativeSigner.java": "verified=true; actual APK signer matches native SHA-1 check; fingerprint=N3gA1+wRR7rLi+T23e/U4BZZu9Q="
+  },
+  "device_runtime_tested": false,
+  "pack_format_tests": {
+    "retained_format_code": true
+  },
+  "content_tests": {
+    "reference_model_assertions": 40442,
+    "retained_cup_and_government_assertions": 37763,
+    "new_career_assertions": 2679,
+    "new_scenarios": 28,
+    "custom_formats": [
+      32,
+      64
+    ],
+    "device_runtime_tested": false
+  },
+  "expression_parser_tests": {
+    "instruction_cases": 12,
+    "nested_rejection_reproduced": true,
+    "expanded_input_accepted": true,
+    "device_runtime_tested": false
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "prison_tape": {
+    "Stage": {
+      "key": "Stage",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "Quality": {
+      "key": "Quality",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Skill": {
+      "key": "Skill",
+      "type": "int",
+      "value": 20,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Sessions": {
+      "key": "Sessions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 6
+    },
+    "Tapes": {
+      "key": "Tapes",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Listeners": {
+      "key": "Listeners",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 10000000
+    },
+    "NativePrisonConduct": {
+      "key": "NativePrisonConduct",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": -3,
+      "maximum": 3
+    },
+    "Title": {
+      "key": "Title",
+      "type": "string",
+      "value": "Cellblock Stories",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    }
+  },
+  "military_v8": {
+    "Sessions": {
+      "key": "Sessions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 6
+    },
+    "Readiness": {
+      "key": "Readiness",
+      "type": "int",
+      "value": 30,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Leadership": {
+      "key": "Leadership",
+      "type": "int",
+      "value": 20,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Qualifications": {
+      "key": "Qualifications",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "NavigationStage": {
+      "key": "NavigationStage",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 4
+    },
+    "NavigationScore": {
+      "key": "NavigationScore",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "NativeMilitaryImpact": {
+      "key": "NativeMilitaryImpact",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": -3,
+      "maximum": 3
+    }
+  },
+  "politics_v8": {
+    "Sessions": {
+      "key": "Sessions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 6
+    },
+    "Trust": {
+      "key": "Trust",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Evidence": {
+      "key": "Evidence",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "PolicyStage": {
+      "key": "PolicyStage",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "Programmes": {
+      "key": "Programmes",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Transparency": {
+      "key": "Transparency",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "NativeApprovalImpact": {
+      "key": "NativeApprovalImpact",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": -3,
+      "maximum": 3
+    }
+  },
+  "shopping_v8": {
+    "PurchaseSessions": {
+      "key": "PurchaseSessions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 6
+    },
+    "Camera": {
+      "key": "Camera",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Instrument": {
+      "key": "Instrument",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "HomeGym": {
+      "key": "HomeGym",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "VintageCollection": {
+      "key": "VintageCollection",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "RepairSkill": {
+      "key": "RepairSkill",
+      "type": "int",
+      "value": 10,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "SoldItems": {
+      "key": "SoldItems",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "MysteryPending": {
+      "key": "MysteryPending",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    }
+  },
+  "football_v8": {
+    "Sessions": {
+      "key": "Sessions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 6
+    },
+    "Round": {
+      "key": "Round",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 5
+    },
+    "Goals": {
+      "key": "Goals",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 5
+    },
+    "BestGoals": {
+      "key": "BestGoals",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 5
+    },
+    "KeeperLane": {
+      "key": "KeeperLane",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "ShotActive": {
+      "key": "ShotActive",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "GameActive": {
+      "key": "GameActive",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "PassingStage": {
+      "key": "PassingStage",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 4
+    },
+    "PassingScore": {
+      "key": "PassingScore",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "Shooting": {
+      "key": "Shooting",
+      "type": "int",
+      "value": 20,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Vision": {
+      "key": "Vision",
+      "type": "int",
+      "value": 20,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "NativeFitnessImpact": {
+      "key": "NativeFitnessImpact",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": -3,
+      "maximum": 3
+    },
+    "NativeRespectImpact": {
+      "key": "NativeRespectImpact",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": -3,
+      "maximum": 3
+    }
+  }
+}

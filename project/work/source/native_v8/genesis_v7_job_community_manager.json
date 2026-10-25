@@ -1,0 +1,102 @@
+{
+  "ListID": "genesis_v7_job_community_manager",
+  "Title": "COMMUNITY MANAGER PROJECTS",
+  "PresentationMode": "Normal",
+  "Sections": [
+    {
+      "Items": [
+        {
+          "Title": "Project Dashboard",
+          "Icon": "clipboard",
+          "SecondLine": "Completed: <GFC.job_community_manager.Projects>",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_community_manager:NativeCareerSync:=1>>scenario.careersV7.job_community_managerdeliver",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ],
+          "BarGraph": {
+            "Title": "Quality",
+            "Value": "<GFC.job_community_manager.Quality>",
+            "Style": "LOW_IS_RED"
+          }
+        }
+      ],
+      "Header": "Activities"
+    },
+    {
+      "Items": [
+        {
+          "Title": "Plan a community event",
+          "Icon": "memo",
+          "SecondLine": "Project stage 1",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_community_manager:NativeCareerSync:=1>>scenario.careersV7.job_community_manager1",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Resolve member disputes",
+          "Icon": "memo",
+          "SecondLine": "Project stage 2",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_community_manager:NativeCareerSync:=1>>scenario.careersV7.job_community_manager2",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Report community feedback",
+          "Icon": "memo",
+          "SecondLine": "Project stage 3",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_community_manager:NativeCareerSync:=1>>scenario.careersV7.job_community_manager3",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Submit and Review",
+          "Icon": "chart-bar",
+          "SecondLine": "Turn project progress into job performance",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_community_manager:NativeCareerSync:=1>>scenario.careersV7.job_community_managerdeliver",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "Header": "Job Activities"
+    }
+  ]
+}

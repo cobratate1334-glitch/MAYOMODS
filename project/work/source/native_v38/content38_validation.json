@@ -1,0 +1,31 @@
+{
+  "new_scenarios": 23,
+  "new_assets": [
+    "genesis_v18_stalker38",
+    "genesis_v18_defaults_stalker38"
+  ],
+  "modified_assets": [
+    "genesis_activities_v18",
+    "genesis_feature_containers",
+    "genesis_v18_community35"
+  ],
+  "owner": "stalker38",
+  "new_saved_properties": 21,
+  "adult_only": true,
+  "abstract_fiction": true,
+  "existing_scenarios_preserved": true,
+  "passed": true,
+  "datapack_sha256": "a76a9c69fd3d220bd9d1d769a0ac333896fc2af506310ffd8de6c1e3893504c3",
+  "data_sha256": "31fec573de155e43166787e5f601b2cbc739e5a81c9e6a5dda09909fd22f724e",
+  "assets_sha256": "8e2059eb99bf0d480c18925bcb5c2469deabfcfe39be33027c6be21960af8f3d",
+  "added_TextAssets": {
+    "genesis_v18_stalker38": 37717,
+    "genesis_v18_defaults_stalker38": 37718
+  },
+  "modified_TextAssets": 3,
+  "all_other_Unity_objects_byte_identical": true,
+  "all_original_resource_paths_preserved": true,
+  "all_original_scenario_rows_preserved": true,
+  "physical_device_tested": false,
+  "Unity_rendering_modeled": true
+}

@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "binary_sha256": "c88b60926805a9edbaa567e61ab7b3e5e21c431a920a2e0215ef4a0228b22016",
+  "arm64_checks": 2212,
+  "ASLR_biases": [
+    0,
+    68719476736
+  ],
+  "all_360_styles_shuffled_actual_component_lists": true,
+  "missing_ID_negative_control": true,
+  "cache_recovery_and_idempotence": true,
+  "custom_clone_tint_preservation": true,
+  "all_15_picker_choices": true,
+  "Unity_and_managed_string_implementation_mocked": true,
+  "physical_device_tested": false
+}

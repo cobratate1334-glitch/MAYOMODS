@@ -1,0 +1,25 @@
+{
+  "input_sha256": "a3d6cf1c9750f86cd2f450c92ef65722f82e9b8face161a97b32a580e5baf4cc",
+  "output_sha256": "fb684d06fbda0f83e063e6431c6c054a5937dc80bfd2260b4c589335953d9281",
+  "output_bytes": 268335232,
+  "changed_game_files": [
+    "classes12.dex"
+  ],
+  "old_expected_certificate_sha256": "3CB19E18A883512A337D534EC3ECC99903D486C021D4FBCFF792F85CE7A5E9BF",
+  "actual_and_expected_certificate_sha256": "BBC52A5880962FA3FF35E943D9467CB550D8C19B8ADEB38F78CEF3DA5F3B50FE",
+  "dex_sha1_and_adler32_valid": true,
+  "only_expected_literal_and_checksums_changed": true,
+  "original_verification_instructions_preserved": true,
+  "native_libraries_unchanged": true,
+  "music_content_unchanged": true,
+  "apk_crc_and_stored_alignment_passed": true,
+  "official_google_verifier": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]\n",
+  "phone_tested": false,
+  "android_bytecode_methods_compared": 344,
+  "sole_changed_method": [
+    "Lcom/android/support/Main;",
+    "isSignatureValid",
+    "(Landroid/content/Context;)Z"
+  ],
+  "expected_hash_matches_embedded_apk_signer": true
+}

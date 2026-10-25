@@ -1,0 +1,559 @@
+{
+  "hooks": [
+    {
+      "name": "team_display_name",
+      "site": 45922724,
+      "stub": 103977280,
+      "resume": 45922728,
+      "original": "str x30, [sp, #-0x20]!",
+      "source": "sub sp, sp, #0x180\nstp x0, x1, [sp, #0]\nstp x2, x3, [sp, #16]\nstp x4, x5, [sp, #32]\nstp x6, x7, [sp, #48]\nstp x8, x9, [sp, #64]\nstp x10, x11, [sp, #80]\nstp x12, x13, [sp, #96]\nstp x14, x15, [sp, #112]\nstp x16, x17, [sp, #128]\nstp x18, x19, [sp, #144]\nstp x20, x21, [sp, #160]\nstp x22, x23, [sp, #176]\nstp x24, x25, [sp, #192]\nstp x26, x27, [sp, #208]\nstp x28, x29, [sp, #224]\nstr x30, [sp, #0xf0]\nstp q0, q1, [sp, #256]\nstp q2, q3, [sp, #288]\nstp q4, q5, [sp, #320]\nstp q6, q7, [sp, #352]\ncbz x0, finish\nldr w0, [x0, #32]\nmov w1, #0\nbl 0x6329000\ncbz x0, finish\nstr x0, [sp]\nb return_name\nfinish:\nldp x0, x1, [sp, #0]\nldp x2, x3, [sp, #16]\nldp x4, x5, [sp, #32]\nldp x6, x7, [sp, #48]\nldp x8, x9, [sp, #64]\nldp x10, x11, [sp, #80]\nldp x12, x13, [sp, #96]\nldp x14, x15, [sp, #112]\nldp x16, x17, [sp, #128]\nldp x18, x19, [sp, #144]\nldp x20, x21, [sp, #160]\nldp x22, x23, [sp, #176]\nldp x24, x25, [sp, #192]\nldp x26, x27, [sp, #208]\nldp x28, x29, [sp, #224]\nldr x30, [sp, #0xf0]\nldp q0, q1, [sp, #256]\nldp q2, q3, [sp, #288]\nldp q4, q5, [sp, #320]\nldp q6, q7, [sp, #352]\nadd sp, sp, #0x180\nstr x30, [sp, #-0x20]!\nb 0x2bcb9a8\nreturn_name:\nldp x0, x1, [sp, #0]\nldp x2, x3, [sp, #16]\nldp x4, x5, [sp, #32]\nldp x6, x7, [sp, #48]\nldp x8, x9, [sp, #64]\nldp x10, x11, [sp, #80]\nldp x12, x13, [sp, #96]\nldp x14, x15, [sp, #112]\nldp x16, x17, [sp, #128]\nldp x18, x19, [sp, #144]\nldp x20, x21, [sp, #160]\nldp x22, x23, [sp, #176]\nldp x24, x25, [sp, #192]\nldp x26, x27, [sp, #208]\nldp x28, x29, [sp, #224]\nldr x30, [sp, #0xf0]\nldp q0, q1, [sp, #256]\nldp q2, q3, [sp, #288]\nldp q4, q5, [sp, #320]\nldp q6, q7, [sp, #352]\nadd sp, sp, #0x180\nret"
+    },
+    {
+      "name": "team_database_name",
+      "site": 39775280,
+      "stub": 103977584,
+      "resume": 39775284,
+      "original": "ldr x0, [x0, 0x20]",
+      "source": "sub sp, sp, #0x180\nstp x0, x1, [sp, #0]\nstp x2, x3, [sp, #16]\nstp x4, x5, [sp, #32]\nstp x6, x7, [sp, #48]\nstp x8, x9, [sp, #64]\nstp x10, x11, [sp, #80]\nstp x12, x13, [sp, #96]\nstp x14, x15, [sp, #112]\nstp x16, x17, [sp, #128]\nstp x18, x19, [sp, #144]\nstp x20, x21, [sp, #160]\nstp x22, x23, [sp, #176]\nstp x24, x25, [sp, #192]\nstp x26, x27, [sp, #208]\nstp x28, x29, [sp, #224]\nstr x30, [sp, #0xf0]\nstp q0, q1, [sp, #256]\nstp q2, q3, [sp, #288]\nstp q4, q5, [sp, #320]\nstp q6, q7, [sp, #352]\ncbz x0, finish\nldr w0, [x0, #16]\nmov w1, #0\nbl 0x6329000\ncbz x0, finish\nstr x0, [sp]\nb return_name\nfinish:\nldp x0, x1, [sp, #0]\nldp x2, x3, [sp, #16]\nldp x4, x5, [sp, #32]\nldp x6, x7, [sp, #48]\nldp x8, x9, [sp, #64]\nldp x10, x11, [sp, #80]\nldp x12, x13, [sp, #96]\nldp x14, x15, [sp, #112]\nldp x16, x17, [sp, #128]\nldp x18, x19, [sp, #144]\nldp x20, x21, [sp, #160]\nldp x22, x23, [sp, #176]\nldp x24, x25, [sp, #192]\nldp x26, x27, [sp, #208]\nldp x28, x29, [sp, #224]\nldr x30, [sp, #0xf0]\nldp q0, q1, [sp, #256]\nldp q2, q3, [sp, #288]\nldp q4, q5, [sp, #320]\nldp q6, q7, [sp, #352]\nadd sp, sp, #0x180\nldr x0, [x0, 0x20]\nb 0x25eec34\nreturn_name:\nldp x0, x1, [sp, #0]\nldp x2, x3, [sp, #16]\nldp x4, x5, [sp, #32]\nldp x6, x7, [sp, #48]\nldp x8, x9, [sp, #64]\nldp x10, x11, [sp, #80]\nldp x12, x13, [sp, #96]\nldp x14, x15, [sp, #112]\nldp x16, x17, [sp, #128]\nldp x18, x19, [sp, #144]\nldp x20, x21, [sp, #160]\nldp x22, x23, [sp, #176]\nldp x24, x25, [sp, #192]\nldp x26, x27, [sp, #208]\nldp x28, x29, [sp, #224]\nldr x30, [sp, #0xf0]\nldp q0, q1, [sp, #256]\nldp q2, q3, [sp, #288]\nldp q4, q5, [sp, #320]\nldp q6, q7, [sp, #352]\nadd sp, sp, #0x180\nret"
+    },
+    {
+      "name": "league_database_name",
+      "site": 39773536,
+      "stub": 103977888,
+      "resume": 39773540,
+      "original": "ldr x0, [x0, 0x20]",
+      "source": "sub sp, sp, #0x180\nstp x0, x1, [sp, #0]\nstp x2, x3, [sp, #16]\nstp x4, x5, [sp, #32]\nstp x6, x7, [sp, #48]\nstp x8, x9, [sp, #64]\nstp x10, x11, [sp, #80]\nstp x12, x13, [sp, #96]\nstp x14, x15, [sp, #112]\nstp x16, x17, [sp, #128]\nstp x18, x19, [sp, #144]\nstp x20, x21, [sp, #160]\nstp x22, x23, [sp, #176]\nstp x24, x25, [sp, #192]\nstp x26, x27, [sp, #208]\nstp x28, x29, [sp, #224]\nstr x30, [sp, #0xf0]\nstp q0, q1, [sp, #256]\nstp q2, q3, [sp, #288]\nstp q4, q5, [sp, #320]\nstp q6, q7, [sp, #352]\ncbz x0, finish\nldr w0, [x0, #16]\nmov w1, #1\nbl 0x6329000\ncbz x0, finish\nstr x0, [sp]\nb return_name\nfinish:\nldp x0, x1, [sp, #0]\nldp x2, x3, [sp, #16]\nldp x4, x5, [sp, #32]\nldp x6, x7, [sp, #48]\nldp x8, x9, [sp, #64]\nldp x10, x11, [sp, #80]\nldp x12, x13, [sp, #96]\nldp x14, x15, [sp, #112]\nldp x16, x17, [sp, #128]\nldp x18, x19, [sp, #144]\nldp x20, x21, [sp, #160]\nldp x22, x23, [sp, #176]\nldp x24, x25, [sp, #192]\nldp x26, x27, [sp, #208]\nldp x28, x29, [sp, #224]\nldr x30, [sp, #0xf0]\nldp q0, q1, [sp, #256]\nldp q2, q3, [sp, #288]\nldp q4, q5, [sp, #320]\nldp q6, q7, [sp, #352]\nadd sp, sp, #0x180\nldr x0, [x0, 0x20]\nb 0x25ee564\nreturn_name:\nldp x0, x1, [sp, #0]\nldp x2, x3, [sp, #16]\nldp x4, x5, [sp, #32]\nldp x6, x7, [sp, #48]\nldp x8, x9, [sp, #64]\nldp x10, x11, [sp, #80]\nldp x12, x13, [sp, #96]\nldp x14, x15, [sp, #112]\nldp x16, x17, [sp, #128]\nldp x18, x19, [sp, #144]\nldp x20, x21, [sp, #160]\nldp x22, x23, [sp, #176]\nldp x24, x25, [sp, #192]\nldp x26, x27, [sp, #208]\nldp x28, x29, [sp, #224]\nldr x30, [sp, #0xf0]\nldp q0, q1, [sp, #256]\nldp q2, q3, [sp, #288]\nldp q4, q5, [sp, #320]\nldp q6, q7, [sp, #352]\nadd sp, sp, #0x180\nret"
+    },
+    {
+      "name": "government_and_pack_pulses",
+      "site": 52540524,
+      "stub": 103978192,
+      "resume": 52540528,
+      "original": "b 0x6320000",
+      "source": "sub sp, sp, #0x180\nstp x0, x1, [sp, #0]\nstp x2, x3, [sp, #16]\nstp x4, x5, [sp, #32]\nstp x6, x7, [sp, #48]\nstp x8, x9, [sp, #64]\nstp x10, x11, [sp, #80]\nstp x12, x13, [sp, #96]\nstp x14, x15, [sp, #112]\nstp x16, x17, [sp, #128]\nstp x18, x19, [sp, #144]\nstp x20, x21, [sp, #160]\nstp x22, x23, [sp, #176]\nstp x24, x25, [sp, #192]\nstp x26, x27, [sp, #208]\nstp x28, x29, [sp, #224]\nstr x30, [sp, #0xf0]\nstp q0, q1, [sp, #256]\nstp q2, q3, [sp, #288]\nstp q4, q5, [sp, #320]\nstp q6, q7, [sp, #352]\ntbz w0, #0, finish\ncbz x19, finish\nldr x8, [x19, #0x18]\ncbz x8, finish\nldr w9, [x8, #0x10]\ncmp w9, #20\nb.ne next1\nldrh w9, [x8, #20]\ncmp w9, #78\nb.ne next1\nldrh w9, [x8, #22]\ncmp w9, #97\nb.ne next1\nldrh w9, [x8, #24]\ncmp w9, #116\nb.ne next1\nldrh w9, [x8, #26]\ncmp w9, #105\nb.ne next1\nldrh w9, [x8, #28]\ncmp w9, #118\nb.ne next1\nldrh w9, [x8, #30]\ncmp w9, #101\nb.ne next1\nldrh w9, [x8, #32]\ncmp w9, #71\nb.ne next1\nldrh w9, [x8, #34]\ncmp w9, #111\nb.ne next1\nldrh w9, [x8, #36]\ncmp w9, #118\nb.ne next1\nldrh w9, [x8, #38]\ncmp w9, #101\nb.ne next1\nldrh w9, [x8, #40]\ncmp w9, #114\nb.ne next1\nldrh w9, [x8, #42]\ncmp w9, #110\nb.ne next1\nldrh w9, [x8, #44]\ncmp w9, #109\nb.ne next1\nldrh w9, [x8, #46]\ncmp w9, #101\nb.ne next1\nldrh w9, [x8, #48]\ncmp w9, #110\nb.ne next1\nldrh w9, [x8, #50]\ncmp w9, #116\nb.ne next1\nldrh w9, [x8, #52]\ncmp w9, #83\nb.ne next1\nldrh w9, [x8, #54]\ncmp w9, #121\nb.ne next1\nldrh w9, [x8, #56]\ncmp w9, #110\nb.ne next1\nldrh w9, [x8, #58]\ncmp w9, #99\nb.ne next1\nb government\nnext1:\nldr w9, [x8, #0x10]\ncmp w9, #17\nb.ne next2\nldrh w9, [x8, #20]\ncmp w9, #78\nb.ne next2\nldrh w9, [x8, #22]\ncmp w9, #97\nb.ne next2\nldrh w9, [x8, #24]\ncmp w9, #116\nb.ne next2\nldrh w9, [x8, #26]\ncmp w9, #105\nb.ne next2\nldrh w9, [x8, #28]\ncmp w9, #118\nb.ne next2\nldrh w9, [x8, #30]\ncmp w9, #101\nb.ne next2\nldrh w9, [x8, #32]\ncmp w9, #71\nb.ne next2\nldrh w9, [x8, #34]\ncmp w9, #111\nb.ne next2\nldrh w9, [x8, #36]\ncmp w9, #118\nb.ne next2\nldrh w9, [x8, #38]\ncmp w9, #65\nb.ne next2\nldrh w9, [x8, #40]\ncmp w9, #112\nb.ne next2\nldrh w9, [x8, #42]\ncmp w9, #112\nb.ne next2\nldrh w9, [x8, #44]\ncmp w9, #114\nb.ne next2\nldrh w9, [x8, #46]\ncmp w9, #111\nb.ne next2\nldrh w9, [x8, #48]\ncmp w9, #118\nb.ne next2\nldrh w9, [x8, #50]\ncmp w9, #97\nb.ne next2\nldrh w9, [x8, #52]\ncmp w9, #108\nb.ne next2\nb approval\nnext2:\nldr w9, [x8, #0x10]\ncmp w9, #13\nb.ne next3\nldrh w9, [x8, #20]\ncmp w9, #78\nb.ne next3\nldrh w9, [x8, #22]\ncmp w9, #97\nb.ne next3\nldrh w9, [x8, #24]\ncmp w9, #116\nb.ne next3\nldrh w9, [x8, #26]\ncmp w9, #105\nb.ne next3\nldrh w9, [x8, #28]\ncmp w9, #118\nb.ne next3\nldrh w9, [x8, #30]\ncmp w9, #101\nb.ne next3\nldrh w9, [x8, #32]\ncmp w9, #87\nb.ne next3\nldrh w9, [x8, #34]\ncmp w9, #97\nb.ne next3\nldrh w9, [x8, #36]\ncmp w9, #114\nb.ne next3\nldrh w9, [x8, #38]\ncmp w9, #83\nb.ne next3\nldrh w9, [x8, #40]\ncmp w9, #121\nb.ne next3\nldrh w9, [x8, #42]\ncmp w9, #110\nb.ne next3\nldrh w9, [x8, #44]\ncmp w9, #99\nb.ne next3\nb war_sync\nnext3:\nldr w9, [x8, #0x10]\ncmp w9, #15\nb.ne next4\nldrh w9, [x8, #20]\ncmp w9, #78\nb.ne next4\nldrh w9, [x8, #22]\ncmp w9, #97\nb.ne next4\nldrh w9, [x8, #24]\ncmp w9, #116\nb.ne next4\nldrh w9, [x8, #26]\ncmp w9, #105\nb.ne next4\nldrh w9, [x8, #28]\ncmp w9, #118\nb.ne next4\nldrh w9, [x8, #30]\ncmp w9, #101\nb.ne next4\nldrh w9, [x8, #32]\ncmp w9, #80\nb.ne next4\nldrh w9, [x8, #34]\ncmp w9, #97\nb.ne next4\nldrh w9, [x8, #36]\ncmp w9, #99\nb.ne next4\nldrh w9, [x8, #38]\ncmp w9, #107\nb.ne next4\nldrh w9, [x8, #40]\ncmp w9, #78\nb.ne next4\nldrh w9, [x8, #42]\ncmp w9, #97\nb.ne next4\nldrh w9, [x8, #44]\ncmp w9, #109\nb.ne next4\nldrh w9, [x8, #46]\ncmp w9, #101\nb.ne next4\nldrh w9, [x8, #48]\ncmp w9, #115\nb.ne next4\nb pack_names\nnext4:\nb finish\ngovernment:\nmov w22, #0\nmov w23, #-1\nmov w24, #0\nmov w25, #0\nadrp x8, 0x5c23000\n ldr x8, [x8, #0xc90]\n cbz x8, gov_write\n ldr x8, [x8]\n cbz x8, gov_write\n ldr x8, [x8, #0xb8]\n cbz x8, gov_write\n ldr x8, [x8]\n cbz x8, gov_write\n ldr x8, [x8, #0x20]\n cbz x8, gov_write\n ldr x8, [x8, #0x138]\n cbz x8, gov_write\nldr w9, [x8, #0x10]\n cmp w9, #6\n b.ne gov_write\n ldr x26, [x8, #0x28]\n cbz x26, gov_write\n ldr w9, [x26, #0x10]\n cmp w9, #1\n b.ne gov_write\n ldr w25, [x26, #0x20]\n cmp w25, #4\n b.ne gov_write\n mov w22, #1\n mov x0, x26\n mov x1, xzr\n bl 0x2c1ffa8\n mov w24, w0\n cmp w24, #0\n csel w24, w24, wzr, ge\n mov w9, #100\n cmp w24, w9\n csel w24, w24, w9, le\n mov x0, x26\n mov x1, xzr\n bl 0x2c1c4e0\n cbz x0, gov_write\n mov x1, xzr\n bl 0x2a27250\n cbz x0, gov_write\n mov x8, x0\n ldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next0\nldrh w9, [x8, #20]\ncmp w9, #97\nb.ne country_next0\nldrh w9, [x8, #22]\ncmp w9, #102\nb.ne country_next0\nb country0\ncountry_next0:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next1\nldrh w9, [x8, #20]\ncmp w9, #100\nb.ne country_next1\nldrh w9, [x8, #22]\ncmp w9, #122\nb.ne country_next1\nb country1\ncountry_next1:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next2\nldrh w9, [x8, #20]\ncmp w9, #97\nb.ne country_next2\nldrh w9, [x8, #22]\ncmp w9, #100\nb.ne country_next2\nb country2\ncountry_next2:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next3\nldrh w9, [x8, #20]\ncmp w9, #97\nb.ne country_next3\nldrh w9, [x8, #22]\ncmp w9, #111\nb.ne country_next3\nb country3\ncountry_next3:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next4\nldrh w9, [x8, #20]\ncmp w9, #97\nb.ne country_next4\nldrh w9, [x8, #22]\ncmp w9, #114\nb.ne country_next4\nb country4\ncountry_next4:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next5\nldrh w9, [x8, #20]\ncmp w9, #97\nb.ne country_next5\nldrh w9, [x8, #22]\ncmp w9, #119\nb.ne country_next5\nb country5\ncountry_next5:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next6\nldrh w9, [x8, #20]\ncmp w9, #97\nb.ne country_next6\nldrh w9, [x8, #22]\ncmp w9, #117\nb.ne country_next6\nb country6\ncountry_next6:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next7\nldrh w9, [x8, #20]\ncmp w9, #97\nb.ne country_next7\nldrh w9, [x8, #22]\ncmp w9, #116\nb.ne country_next7\nb country7\ncountry_next7:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next8\nldrh w9, [x8, #20]\ncmp w9, #98\nb.ne country_next8\nldrh w9, [x8, #22]\ncmp w9, #115\nb.ne country_next8\nb country8\ncountry_next8:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next9\nldrh w9, [x8, #20]\ncmp w9, #98\nb.ne country_next9\nldrh w9, [x8, #22]\ncmp w9, #100\nb.ne country_next9\nb country9\ncountry_next9:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next10\nldrh w9, [x8, #20]\ncmp w9, #98\nb.ne country_next10\nldrh w9, [x8, #22]\ncmp w9, #101\nb.ne country_next10\nb country10\ncountry_next10:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next11\nldrh w9, [x8, #20]\ncmp w9, #98\nb.ne country_next11\nldrh w9, [x8, #22]\ncmp w9, #122\nb.ne country_next11\nb country11\ncountry_next11:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next12\nldrh w9, [x8, #20]\ncmp w9, #98\nb.ne country_next12\nldrh w9, [x8, #22]\ncmp w9, #111\nb.ne country_next12\nb country12\ncountry_next12:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next13\nldrh w9, [x8, #20]\ncmp w9, #98\nb.ne country_next13\nldrh w9, [x8, #22]\ncmp w9, #114\nb.ne country_next13\nb country13\ncountry_next13:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next14\nldrh w9, [x8, #20]\ncmp w9, #99\nb.ne country_next14\nldrh w9, [x8, #22]\ncmp w9, #97\nb.ne country_next14\nb country14\ncountry_next14:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next15\nldrh w9, [x8, #20]\ncmp w9, #99\nb.ne country_next15\nldrh w9, [x8, #22]\ncmp w9, #108\nb.ne country_next15\nb country15\ncountry_next15:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next16\nldrh w9, [x8, #20]\ncmp w9, #99\nb.ne country_next16\nldrh w9, [x8, #22]\ncmp w9, #110\nb.ne country_next16\nb country16\ncountry_next16:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next17\nldrh w9, [x8, #20]\ncmp w9, #99\nb.ne country_next17\nldrh w9, [x8, #22]\ncmp w9, #111\nb.ne country_next17\nb country17\ncountry_next17:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next18\nldrh w9, [x8, #20]\ncmp w9, #99\nb.ne country_next18\nldrh w9, [x8, #22]\ncmp w9, #114\nb.ne country_next18\nb country18\ncountry_next18:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next19\nldrh w9, [x8, #20]\ncmp w9, #104\nb.ne country_next19\nldrh w9, [x8, #22]\ncmp w9, #114\nb.ne country_next19\nb country19\ncountry_next19:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next20\nldrh w9, [x8, #20]\ncmp w9, #99\nb.ne country_next20\nldrh w9, [x8, #22]\ncmp w9, #117\nb.ne country_next20\nb country20\ncountry_next20:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next21\nldrh w9, [x8, #20]\ncmp w9, #99\nb.ne country_next21\nldrh w9, [x8, #22]\ncmp w9, #122\nb.ne country_next21\nb country21\ncountry_next21:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next22\nldrh w9, [x8, #20]\ncmp w9, #100\nb.ne country_next22\nldrh w9, [x8, #22]\ncmp w9, #107\nb.ne country_next22\nb country22\ncountry_next22:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next23\nldrh w9, [x8, #20]\ncmp w9, #100\nb.ne country_next23\nldrh w9, [x8, #22]\ncmp w9, #106\nb.ne country_next23\nb country23\ncountry_next23:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next24\nldrh w9, [x8, #20]\ncmp w9, #100\nb.ne country_next24\nldrh w9, [x8, #22]\ncmp w9, #111\nb.ne country_next24\nb country24\ncountry_next24:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next25\nldrh w9, [x8, #20]\ncmp w9, #99\nb.ne country_next25\nldrh w9, [x8, #22]\ncmp w9, #100\nb.ne country_next25\nb country25\ncountry_next25:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next26\nldrh w9, [x8, #20]\ncmp w9, #101\nb.ne country_next26\nldrh w9, [x8, #22]\ncmp w9, #99\nb.ne country_next26\nb country26\ncountry_next26:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next27\nldrh w9, [x8, #20]\ncmp w9, #101\nb.ne country_next27\nldrh w9, [x8, #22]\ncmp w9, #103\nb.ne country_next27\nb country27\ncountry_next27:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next28\nldrh w9, [x8, #20]\ncmp w9, #115\nb.ne country_next28\nldrh w9, [x8, #22]\ncmp w9, #118\nb.ne country_next28\nb country28\ncountry_next28:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next29\nldrh w9, [x8, #20]\ncmp w9, #101\nb.ne country_next29\nldrh w9, [x8, #22]\ncmp w9, #101\nb.ne country_next29\nb country29\ncountry_next29:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next30\nldrh w9, [x8, #20]\ncmp w9, #101\nb.ne country_next30\nldrh w9, [x8, #22]\ncmp w9, #116\nb.ne country_next30\nb country30\ncountry_next30:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next31\nldrh w9, [x8, #20]\ncmp w9, #102\nb.ne country_next31\nldrh w9, [x8, #22]\ncmp w9, #105\nb.ne country_next31\nb country31\ncountry_next31:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next32\nldrh w9, [x8, #20]\ncmp w9, #102\nb.ne country_next32\nldrh w9, [x8, #22]\ncmp w9, #114\nb.ne country_next32\nb country32\ncountry_next32:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next33\nldrh w9, [x8, #20]\ncmp w9, #103\nb.ne country_next33\nldrh w9, [x8, #22]\ncmp w9, #101\nb.ne country_next33\nb country33\ncountry_next33:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next34\nldrh w9, [x8, #20]\ncmp w9, #100\nb.ne country_next34\nldrh w9, [x8, #22]\ncmp w9, #101\nb.ne country_next34\nb country34\ncountry_next34:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next35\nldrh w9, [x8, #20]\ncmp w9, #103\nb.ne country_next35\nldrh w9, [x8, #22]\ncmp w9, #114\nb.ne country_next35\nb country35\ncountry_next35:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next36\nldrh w9, [x8, #20]\ncmp w9, #103\nb.ne country_next36\nldrh w9, [x8, #22]\ncmp w9, #116\nb.ne country_next36\nb country36\ncountry_next36:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next37\nldrh w9, [x8, #20]\ncmp w9, #103\nb.ne country_next37\nldrh w9, [x8, #22]\ncmp w9, #121\nb.ne country_next37\nb country37\ncountry_next37:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next38\nldrh w9, [x8, #20]\ncmp w9, #104\nb.ne country_next38\nldrh w9, [x8, #22]\ncmp w9, #116\nb.ne country_next38\nb country38\ncountry_next38:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next39\nldrh w9, [x8, #20]\ncmp w9, #104\nb.ne country_next39\nldrh w9, [x8, #22]\ncmp w9, #107\nb.ne country_next39\nb country39\ncountry_next39:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next40\nldrh w9, [x8, #20]\ncmp w9, #104\nb.ne country_next40\nldrh w9, [x8, #22]\ncmp w9, #117\nb.ne country_next40\nb country40\ncountry_next40:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next41\nldrh w9, [x8, #20]\ncmp w9, #105\nb.ne country_next41\nldrh w9, [x8, #22]\ncmp w9, #110\nb.ne country_next41\nb country41\ncountry_next41:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next42\nldrh w9, [x8, #20]\ncmp w9, #105\nb.ne country_next42\nldrh w9, [x8, #22]\ncmp w9, #100\nb.ne country_next42\nb country42\ncountry_next42:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next43\nldrh w9, [x8, #20]\ncmp w9, #105\nb.ne country_next43\nldrh w9, [x8, #22]\ncmp w9, #114\nb.ne country_next43\nb country43\ncountry_next43:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next44\nldrh w9, [x8, #20]\ncmp w9, #105\nb.ne country_next44\nldrh w9, [x8, #22]\ncmp w9, #113\nb.ne country_next44\nb country44\ncountry_next44:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next45\nldrh w9, [x8, #20]\ncmp w9, #105\nb.ne country_next45\nldrh w9, [x8, #22]\ncmp w9, #101\nb.ne country_next45\nb country45\ncountry_next45:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next46\nldrh w9, [x8, #20]\ncmp w9, #105\nb.ne country_next46\nldrh w9, [x8, #22]\ncmp w9, #108\nb.ne country_next46\nb country46\ncountry_next46:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next47\nldrh w9, [x8, #20]\ncmp w9, #105\nb.ne country_next47\nldrh w9, [x8, #22]\ncmp w9, #116\nb.ne country_next47\nb country47\ncountry_next47:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next48\nldrh w9, [x8, #20]\ncmp w9, #106\nb.ne country_next48\nldrh w9, [x8, #22]\ncmp w9, #109\nb.ne country_next48\nb country48\ncountry_next48:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next49\nldrh w9, [x8, #20]\ncmp w9, #106\nb.ne country_next49\nldrh w9, [x8, #22]\ncmp w9, #112\nb.ne country_next49\nb country49\ncountry_next49:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next50\nldrh w9, [x8, #20]\ncmp w9, #106\nb.ne country_next50\nldrh w9, [x8, #22]\ncmp w9, #111\nb.ne country_next50\nb country50\ncountry_next50:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next51\nldrh w9, [x8, #20]\ncmp w9, #107\nb.ne country_next51\nldrh w9, [x8, #22]\ncmp w9, #122\nb.ne country_next51\nb country51\ncountry_next51:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next52\nldrh w9, [x8, #20]\ncmp w9, #107\nb.ne country_next52\nldrh w9, [x8, #22]\ncmp w9, #101\nb.ne country_next52\nb country52\ncountry_next52:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next53\nldrh w9, [x8, #20]\ncmp w9, #107\nb.ne country_next53\nldrh w9, [x8, #22]\ncmp w9, #119\nb.ne country_next53\nb country53\ncountry_next53:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next54\nldrh w9, [x8, #20]\ncmp w9, #108\nb.ne country_next54\nldrh w9, [x8, #22]\ncmp w9, #98\nb.ne country_next54\nb country54\ncountry_next54:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next55\nldrh w9, [x8, #20]\ncmp w9, #109\nb.ne country_next55\nldrh w9, [x8, #22]\ncmp w9, #121\nb.ne country_next55\nb country55\ncountry_next55:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next56\nldrh w9, [x8, #20]\ncmp w9, #109\nb.ne country_next56\nldrh w9, [x8, #22]\ncmp w9, #120\nb.ne country_next56\nb country56\ncountry_next56:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next57\nldrh w9, [x8, #20]\ncmp w9, #109\nb.ne country_next57\nldrh w9, [x8, #22]\ncmp w9, #99\nb.ne country_next57\nb country57\ncountry_next57:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next58\nldrh w9, [x8, #20]\ncmp w9, #109\nb.ne country_next58\nldrh w9, [x8, #22]\ncmp w9, #110\nb.ne country_next58\nb country58\ncountry_next58:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next59\nldrh w9, [x8, #20]\ncmp w9, #109\nb.ne country_next59\nldrh w9, [x8, #22]\ncmp w9, #97\nb.ne country_next59\nb country59\ncountry_next59:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next60\nldrh w9, [x8, #20]\ncmp w9, #110\nb.ne country_next60\nldrh w9, [x8, #22]\ncmp w9, #112\nb.ne country_next60\nb country60\ncountry_next60:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next61\nldrh w9, [x8, #20]\ncmp w9, #110\nb.ne country_next61\nldrh w9, [x8, #22]\ncmp w9, #108\nb.ne country_next61\nb country61\ncountry_next61:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next62\nldrh w9, [x8, #20]\ncmp w9, #110\nb.ne country_next62\nldrh w9, [x8, #22]\ncmp w9, #122\nb.ne country_next62\nb country62\ncountry_next62:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next63\nldrh w9, [x8, #20]\ncmp w9, #110\nb.ne country_next63\nldrh w9, [x8, #22]\ncmp w9, #105\nb.ne country_next63\nb country63\ncountry_next63:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next64\nldrh w9, [x8, #20]\ncmp w9, #110\nb.ne country_next64\nldrh w9, [x8, #22]\ncmp w9, #103\nb.ne country_next64\nb country64\ncountry_next64:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next65\nldrh w9, [x8, #20]\ncmp w9, #110\nb.ne country_next65\nldrh w9, [x8, #22]\ncmp w9, #111\nb.ne country_next65\nb country65\ncountry_next65:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next66\nldrh w9, [x8, #20]\ncmp w9, #112\nb.ne country_next66\nldrh w9, [x8, #22]\ncmp w9, #107\nb.ne country_next66\nb country66\ncountry_next66:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next67\nldrh w9, [x8, #20]\ncmp w9, #112\nb.ne country_next67\nldrh w9, [x8, #22]\ncmp w9, #97\nb.ne country_next67\nb country67\ncountry_next67:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next68\nldrh w9, [x8, #20]\ncmp w9, #112\nb.ne country_next68\nldrh w9, [x8, #22]\ncmp w9, #103\nb.ne country_next68\nb country68\ncountry_next68:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next69\nldrh w9, [x8, #20]\ncmp w9, #112\nb.ne country_next69\nldrh w9, [x8, #22]\ncmp w9, #121\nb.ne country_next69\nb country69\ncountry_next69:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next70\nldrh w9, [x8, #20]\ncmp w9, #112\nb.ne country_next70\nldrh w9, [x8, #22]\ncmp w9, #101\nb.ne country_next70\nb country70\ncountry_next70:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next71\nldrh w9, [x8, #20]\ncmp w9, #112\nb.ne country_next71\nldrh w9, [x8, #22]\ncmp w9, #104\nb.ne country_next71\nb country71\ncountry_next71:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next72\nldrh w9, [x8, #20]\ncmp w9, #112\nb.ne country_next72\nldrh w9, [x8, #22]\ncmp w9, #108\nb.ne country_next72\nb country72\ncountry_next72:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next73\nldrh w9, [x8, #20]\ncmp w9, #112\nb.ne country_next73\nldrh w9, [x8, #22]\ncmp w9, #116\nb.ne country_next73\nb country73\ncountry_next73:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next74\nldrh w9, [x8, #20]\ncmp w9, #112\nb.ne country_next74\nldrh w9, [x8, #22]\ncmp w9, #114\nb.ne country_next74\nb country74\ncountry_next74:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next75\nldrh w9, [x8, #20]\ncmp w9, #113\nb.ne country_next75\nldrh w9, [x8, #22]\ncmp w9, #97\nb.ne country_next75\nb country75\ncountry_next75:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next76\nldrh w9, [x8, #20]\ncmp w9, #114\nb.ne country_next76\nldrh w9, [x8, #22]\ncmp w9, #111\nb.ne country_next76\nb country76\ncountry_next76:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next77\nldrh w9, [x8, #20]\ncmp w9, #114\nb.ne country_next77\nldrh w9, [x8, #22]\ncmp w9, #117\nb.ne country_next77\nb country77\ncountry_next77:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next78\nldrh w9, [x8, #20]\ncmp w9, #119\nb.ne country_next78\nldrh w9, [x8, #22]\ncmp w9, #115\nb.ne country_next78\nb country78\ncountry_next78:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next79\nldrh w9, [x8, #20]\ncmp w9, #115\nb.ne country_next79\nldrh w9, [x8, #22]\ncmp w9, #97\nb.ne country_next79\nb country79\ncountry_next79:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next80\nldrh w9, [x8, #20]\ncmp w9, #114\nb.ne country_next80\nldrh w9, [x8, #22]\ncmp w9, #115\nb.ne country_next80\nb country80\ncountry_next80:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next81\nldrh w9, [x8, #20]\ncmp w9, #115\nb.ne country_next81\nldrh w9, [x8, #22]\ncmp w9, #103\nb.ne country_next81\nb country81\ncountry_next81:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next82\nldrh w9, [x8, #20]\ncmp w9, #115\nb.ne country_next82\nldrh w9, [x8, #22]\ncmp w9, #107\nb.ne country_next82\nb country82\ncountry_next82:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next83\nldrh w9, [x8, #20]\ncmp w9, #122\nb.ne country_next83\nldrh w9, [x8, #22]\ncmp w9, #97\nb.ne country_next83\nb country83\ncountry_next83:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next84\nldrh w9, [x8, #20]\ncmp w9, #107\nb.ne country_next84\nldrh w9, [x8, #22]\ncmp w9, #114\nb.ne country_next84\nb country84\ncountry_next84:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next85\nldrh w9, [x8, #20]\ncmp w9, #101\nb.ne country_next85\nldrh w9, [x8, #22]\ncmp w9, #115\nb.ne country_next85\nb country85\ncountry_next85:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next86\nldrh w9, [x8, #20]\ncmp w9, #115\nb.ne country_next86\nldrh w9, [x8, #22]\ncmp w9, #101\nb.ne country_next86\nb country86\ncountry_next86:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next87\nldrh w9, [x8, #20]\ncmp w9, #99\nb.ne country_next87\nldrh w9, [x8, #22]\ncmp w9, #104\nb.ne country_next87\nb country87\ncountry_next87:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next88\nldrh w9, [x8, #20]\ncmp w9, #115\nb.ne country_next88\nldrh w9, [x8, #22]\ncmp w9, #121\nb.ne country_next88\nb country88\ncountry_next88:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next89\nldrh w9, [x8, #20]\ncmp w9, #116\nb.ne country_next89\nldrh w9, [x8, #22]\ncmp w9, #119\nb.ne country_next89\nb country89\ncountry_next89:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next90\nldrh w9, [x8, #20]\ncmp w9, #116\nb.ne country_next90\nldrh w9, [x8, #22]\ncmp w9, #104\nb.ne country_next90\nb country90\ncountry_next90:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next91\nldrh w9, [x8, #20]\ncmp w9, #116\nb.ne country_next91\nldrh w9, [x8, #22]\ncmp w9, #110\nb.ne country_next91\nb country91\ncountry_next91:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next92\nldrh w9, [x8, #20]\ncmp w9, #116\nb.ne country_next92\nldrh w9, [x8, #22]\ncmp w9, #114\nb.ne country_next92\nb country92\ncountry_next92:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next93\nldrh w9, [x8, #20]\ncmp w9, #117\nb.ne country_next93\nldrh w9, [x8, #22]\ncmp w9, #103\nb.ne country_next93\nb country93\ncountry_next93:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next94\nldrh w9, [x8, #20]\ncmp w9, #117\nb.ne country_next94\nldrh w9, [x8, #22]\ncmp w9, #97\nb.ne country_next94\nb country94\ncountry_next94:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next95\nldrh w9, [x8, #20]\ncmp w9, #97\nb.ne country_next95\nldrh w9, [x8, #22]\ncmp w9, #101\nb.ne country_next95\nb country95\ncountry_next95:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next96\nldrh w9, [x8, #20]\ncmp w9, #103\nb.ne country_next96\nldrh w9, [x8, #22]\ncmp w9, #98\nb.ne country_next96\nb country96\ncountry_next96:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next97\nldrh w9, [x8, #20]\ncmp w9, #117\nb.ne country_next97\nldrh w9, [x8, #22]\ncmp w9, #115\nb.ne country_next97\nb country97\ncountry_next97:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next98\nldrh w9, [x8, #20]\ncmp w9, #117\nb.ne country_next98\nldrh w9, [x8, #22]\ncmp w9, #121\nb.ne country_next98\nb country98\ncountry_next98:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next99\nldrh w9, [x8, #20]\ncmp w9, #118\nb.ne country_next99\nldrh w9, [x8, #22]\ncmp w9, #101\nb.ne country_next99\nb country99\ncountry_next99:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next100\nldrh w9, [x8, #20]\ncmp w9, #118\nb.ne country_next100\nldrh w9, [x8, #22]\ncmp w9, #110\nb.ne country_next100\nb country100\ncountry_next100:\nldr w9, [x8, #0x10]\ncmp w9, #2\nb.ne country_next101\nldrh w9, [x8, #20]\ncmp w9, #122\nb.ne country_next101\nldrh w9, [x8, #22]\ncmp w9, #119\nb.ne country_next101\nb country101\ncountry_next101:\nb gov_write\ncountry0:\nmov w23, #0\nb gov_write\ncountry1:\nmov w23, #1\nb gov_write\ncountry2:\nmov w23, #2\nb gov_write\ncountry3:\nmov w23, #3\nb gov_write\ncountry4:\nmov w23, #4\nb gov_write\ncountry5:\nmov w23, #5\nb gov_write\ncountry6:\nmov w23, #6\nb gov_write\ncountry7:\nmov w23, #7\nb gov_write\ncountry8:\nmov w23, #8\nb gov_write\ncountry9:\nmov w23, #9\nb gov_write\ncountry10:\nmov w23, #10\nb gov_write\ncountry11:\nmov w23, #11\nb gov_write\ncountry12:\nmov w23, #12\nb gov_write\ncountry13:\nmov w23, #13\nb gov_write\ncountry14:\nmov w23, #14\nb gov_write\ncountry15:\nmov w23, #15\nb gov_write\ncountry16:\nmov w23, #16\nb gov_write\ncountry17:\nmov w23, #17\nb gov_write\ncountry18:\nmov w23, #18\nb gov_write\ncountry19:\nmov w23, #19\nb gov_write\ncountry20:\nmov w23, #20\nb gov_write\ncountry21:\nmov w23, #21\nb gov_write\ncountry22:\nmov w23, #22\nb gov_write\ncountry23:\nmov w23, #23\nb gov_write\ncountry24:\nmov w23, #24\nb gov_write\ncountry25:\nmov w23, #25\nb gov_write\ncountry26:\nmov w23, #26\nb gov_write\ncountry27:\nmov w23, #27\nb gov_write\ncountry28:\nmov w23, #28\nb gov_write\ncountry29:\nmov w23, #29\nb gov_write\ncountry30:\nmov w23, #30\nb gov_write\ncountry31:\nmov w23, #31\nb gov_write\ncountry32:\nmov w23, #32\nb gov_write\ncountry33:\nmov w23, #33\nb gov_write\ncountry34:\nmov w23, #34\nb gov_write\ncountry35:\nmov w23, #35\nb gov_write\ncountry36:\nmov w23, #36\nb gov_write\ncountry37:\nmov w23, #37\nb gov_write\ncountry38:\nmov w23, #38\nb gov_write\ncountry39:\nmov w23, #39\nb gov_write\ncountry40:\nmov w23, #40\nb gov_write\ncountry41:\nmov w23, #41\nb gov_write\ncountry42:\nmov w23, #42\nb gov_write\ncountry43:\nmov w23, #43\nb gov_write\ncountry44:\nmov w23, #44\nb gov_write\ncountry45:\nmov w23, #45\nb gov_write\ncountry46:\nmov w23, #46\nb gov_write\ncountry47:\nmov w23, #47\nb gov_write\ncountry48:\nmov w23, #48\nb gov_write\ncountry49:\nmov w23, #49\nb gov_write\ncountry50:\nmov w23, #50\nb gov_write\ncountry51:\nmov w23, #51\nb gov_write\ncountry52:\nmov w23, #52\nb gov_write\ncountry53:\nmov w23, #53\nb gov_write\ncountry54:\nmov w23, #54\nb gov_write\ncountry55:\nmov w23, #55\nb gov_write\ncountry56:\nmov w23, #56\nb gov_write\ncountry57:\nmov w23, #57\nb gov_write\ncountry58:\nmov w23, #58\nb gov_write\ncountry59:\nmov w23, #59\nb gov_write\ncountry60:\nmov w23, #60\nb gov_write\ncountry61:\nmov w23, #61\nb gov_write\ncountry62:\nmov w23, #62\nb gov_write\ncountry63:\nmov w23, #63\nb gov_write\ncountry64:\nmov w23, #64\nb gov_write\ncountry65:\nmov w23, #65\nb gov_write\ncountry66:\nmov w23, #66\nb gov_write\ncountry67:\nmov w23, #67\nb gov_write\ncountry68:\nmov w23, #68\nb gov_write\ncountry69:\nmov w23, #69\nb gov_write\ncountry70:\nmov w23, #70\nb gov_write\ncountry71:\nmov w23, #71\nb gov_write\ncountry72:\nmov w23, #72\nb gov_write\ncountry73:\nmov w23, #73\nb gov_write\ncountry74:\nmov w23, #74\nb gov_write\ncountry75:\nmov w23, #75\nb gov_write\ncountry76:\nmov w23, #76\nb gov_write\ncountry77:\nmov w23, #77\nb gov_write\ncountry78:\nmov w23, #78\nb gov_write\ncountry79:\nmov w23, #79\nb gov_write\ncountry80:\nmov w23, #80\nb gov_write\ncountry81:\nmov w23, #81\nb gov_write\ncountry82:\nmov w23, #82\nb gov_write\ncountry83:\nmov w23, #83\nb gov_write\ncountry84:\nmov w23, #84\nb gov_write\ncountry85:\nmov w23, #85\nb gov_write\ncountry86:\nmov w23, #86\nb gov_write\ncountry87:\nmov w23, #87\nb gov_write\ncountry88:\nmov w23, #88\nb gov_write\ncountry89:\nmov w23, #89\nb gov_write\ncountry90:\nmov w23, #90\nb gov_write\ncountry91:\nmov w23, #91\nb gov_write\ncountry92:\nmov w23, #92\nb gov_write\ncountry93:\nmov w23, #93\nb gov_write\ncountry94:\nmov w23, #94\nb gov_write\ncountry95:\nmov w23, #95\nb gov_write\ncountry96:\nmov w23, #96\nb gov_write\ncountry97:\nmov w23, #97\nb gov_write\ncountry98:\nmov w23, #98\nb gov_write\ncountry99:\nmov w23, #99\nb gov_write\ncountry100:\nmov w23, #100\nb gov_write\ncountry101:\nmov w23, #101\nb gov_write\ngov_write:\nadr x0, 0x6349040\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov w2, w22\nmov x3, xzr\nbl 0x3059f90\nadr x0, 0x634904a\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov w2, w23\nmov x3, xzr\nbl 0x3059f90\nadr x0, 0x6349056\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov w2, w24\nmov x3, xzr\nbl 0x3059f90\nadr x0, 0x6349065\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov w2, w25\nmov x3, xzr\nbl 0x3059f90\nb finish\napproval:\nadrp x8, 0x5c23000\n ldr x8, [x8, #0xc90]\n cbz x8, finish\n ldr x8, [x8]\n cbz x8, finish\n ldr x8, [x8, #0xb8]\n cbz x8, finish\n ldr x8, [x8]\n cbz x8, finish\n ldr x8, [x8, #0x20]\n cbz x8, finish\n ldr x8, [x8, #0x138]\n cbz x8, finish\nldr w9, [x8, #0x10]\n cmp w9, #6\n b.ne finish\n ldr x26, [x8, #0x28]\n cbz x26, finish\n ldr w9, [x26, #0x10]\n cmp w9, #1\n b.ne finish\n ldr w25, [x26, #0x20]\n cmp w25, #4\n b.ne finish\n cmp w20, #-3\n b.lt finish\n cmp w20, #3\n b.gt finish\n mov x0, x26\n mov w1, w20\n mov x2, xzr\n bl 0x2c21704\n b finish\n war_sync:\n adrp x8, 0x5c23000\n ldr x8, [x8, #0xc90]\n cbz x8, finish\n ldr x8, [x8]\n cbz x8, finish\n ldr x8, [x8, #0xb8]\n cbz x8, finish\n ldr x8, [x8]\n cbz x8, finish\n ldr x22, [x8, #0x20]\n cbz x22, finish\n ldr x23, [x8, #0x28]\n cbz x23, finish\n ldr w23, [x23, #0x20]\n adr x0, 0x634906c\nbl 0x223e8cc\n mov x1, x0\n mov x0, x22\n mov w2, w23\n mov x3, xzr\n bl 0x32800fc\n cbz x0, finish\n mov x22, x0\n adr x0, 0x634907b\nbl 0x223e8cc\n mov x1, x0\n mov x0, x22\n mov w2, #-1\n mov x3, xzr\n bl 0x3059ee0\n mov w24, w0\n adr x0, 0x6349087\nbl 0x223e8cc\n mov x1, x0\n mov x0, x22\n mov w2, #0\n mov x3, xzr\n bl 0x3059ee0\n mov w25, w0\n adr x0, 0x634907b\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov w2, w24\nmov x3, xzr\nbl 0x3059f90\nadr x0, 0x6349087\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov w2, w25\nmov x3, xzr\nbl 0x3059f90\nb finish\npack_names:\nadr x0, 0x6349139\nbl 0x223e8cc\nmov x22, x0\nadr x0, 0x634914a\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, x22\nmov x3, xzr\nbl 0x3059d08\nmov w0, #1\nmov w1, #2\nbl 0x6329000\ncbz x0, cup_next1\nmov x22, x0\nadr x0, 0x634914a\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, x22\nmov x3, xzr\nbl 0x3059d08\ncup_next1:\nadr x0, 0x6349153\nbl 0x223e8cc\nmov x22, x0\nadr x0, 0x6349161\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, x22\nmov x3, xzr\nbl 0x3059d08\nmov w0, #2\nmov w1, #2\nbl 0x6329000\ncbz x0, cup_next2\nmov x22, x0\nadr x0, 0x6349161\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, x22\nmov x3, xzr\nbl 0x3059d08\ncup_next2:\nadr x0, 0x634916a\nbl 0x223e8cc\nmov x22, x0\nadr x0, 0x634917c\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, x22\nmov x3, xzr\nbl 0x3059d08\nmov w0, #3\nmov w1, #2\nbl 0x6329000\ncbz x0, cup_next3\nmov x22, x0\nadr x0, 0x634917c\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, x22\nmov x3, xzr\nbl 0x3059d08\ncup_next3:\nadr x0, 0x6349185\nbl 0x223e8cc\nmov x22, x0\nadr x0, 0x634918f\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, x22\nmov x3, xzr\nbl 0x3059d08\nmov w0, #4\nmov w1, #2\nbl 0x6329000\ncbz x0, cup_next4\nmov x22, x0\nadr x0, 0x634918f\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, x22\nmov x3, xzr\nbl 0x3059d08\ncup_next4:\n\nadr x0, 0x6349093\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov w2, #0\nmov x3, xzr\nbl 0x3059ee0\nmov w24, w0\n\ncmp w24, #1\nb.eq selected_cup1\ncmp w24, #2\nb.eq selected_cup2\ncmp w24, #3\nb.eq selected_cup3\ncmp w24, #4\nb.eq selected_cup4\nb selected_cup_done\nselected_cup1:\nadr x0, 0x634914a\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, xzr\nmov x3, xzr\nbl 0x3059934\nmov x22, x0\nadr x0, 0x6349097\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, x22\nmov x3, xzr\nbl 0x3059d08\nb selected_cup_done\nselected_cup2:\nadr x0, 0x6349161\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, xzr\nmov x3, xzr\nbl 0x3059934\nmov x22, x0\nadr x0, 0x6349097\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, x22\nmov x3, xzr\nbl 0x3059d08\nb selected_cup_done\nselected_cup3:\nadr x0, 0x634917c\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, xzr\nmov x3, xzr\nbl 0x3059934\nmov x22, x0\nadr x0, 0x6349097\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, x22\nmov x3, xzr\nbl 0x3059d08\nb selected_cup_done\nselected_cup4:\nadr x0, 0x634918f\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, xzr\nmov x3, xzr\nbl 0x3059934\nmov x22, x0\nadr x0, 0x6349097\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, x22\nmov x3, xzr\nbl 0x3059d08\nb selected_cup_done\nselected_cup_done:\nadr x0, 0x63490ea\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, xzr\nmov x3, xzr\nbl 0x3059934\nmov x22, x0\ncbz x22, backup0\nldr w9, [x22, #0x10]\ncbnz w9, reset_name0\nbackup0:\nadr x0, 0x63490ad\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, xzr\nmov x3, xzr\nbl 0x3059934\nmov x22, x0\ncbz x22, name_next0\nadr x0, 0x63490ea\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, x22\nmov x3, xzr\nbl 0x3059d08\nb name_next0\nreset_name0:\nadr x0, 0x63490ad\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, x22\nmov x3, xzr\nbl 0x3059d08\nname_next0:\nadr x0, 0x63490fb\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, xzr\nmov x3, xzr\nbl 0x3059934\nmov x22, x0\ncbz x22, backup1\nldr w9, [x22, #0x10]\ncbnz w9, reset_name1\nbackup1:\nadr x0, 0x63490bd\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, xzr\nmov x3, xzr\nbl 0x3059934\nmov x22, x0\ncbz x22, name_next1\nadr x0, 0x63490fb\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, x22\nmov x3, xzr\nbl 0x3059d08\nb name_next1\nreset_name1:\nadr x0, 0x63490bd\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, x22\nmov x3, xzr\nbl 0x3059d08\nname_next1:\nadr x0, 0x634910c\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, xzr\nmov x3, xzr\nbl 0x3059934\nmov x22, x0\ncbz x22, backup2\nldr w9, [x22, #0x10]\ncbnz w9, reset_name2\nbackup2:\nadr x0, 0x63490cb\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, xzr\nmov x3, xzr\nbl 0x3059934\nmov x22, x0\ncbz x22, name_next2\nadr x0, 0x634910c\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, x22\nmov x3, xzr\nbl 0x3059d08\nb name_next2\nreset_name2:\nadr x0, 0x63490cb\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, x22\nmov x3, xzr\nbl 0x3059d08\nname_next2:\nadr x0, 0x634911b\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, xzr\nmov x3, xzr\nbl 0x3059934\nmov x22, x0\ncbz x22, backup3\nldr w9, [x22, #0x10]\ncbnz w9, reset_name3\nbackup3:\nadr x0, 0x63490d7\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, xzr\nmov x3, xzr\nbl 0x3059934\nmov x22, x0\ncbz x22, name_next3\nadr x0, 0x634911b\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, x22\nmov x3, xzr\nbl 0x3059d08\nb name_next3\nreset_name3:\nadr x0, 0x63490d7\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, x22\nmov x3, xzr\nbl 0x3059d08\nname_next3:\nadr x0, 0x634912a\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, xzr\nmov x3, xzr\nbl 0x3059934\nmov x22, x0\ncbz x22, backup4\nldr w9, [x22, #0x10]\ncbnz w9, reset_name4\nbackup4:\nadr x0, 0x63490e3\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, xzr\nmov x3, xzr\nbl 0x3059934\nmov x22, x0\ncbz x22, name_next4\nadr x0, 0x634912a\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, x22\nmov x3, xzr\nbl 0x3059d08\nb name_next4\nreset_name4:\nadr x0, 0x63490e3\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, x22\nmov x3, xzr\nbl 0x3059d08\nname_next4:\nadr x0, 0x6349093\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov w2, #0\nmov x3, xzr\nbl 0x3059ee0\nmov w24, w0\n\n cmp w24, #1\n b.lt pack_teams\n cmp w24, #4\n b.gt pack_teams\n mov w0, w24\n mov w1, #2\n bl 0x6329000\n cbz x0, pack_teams\n mov x22, x0\n adr x0, 0x6349097\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, x22\nmov x3, xzr\nbl 0x3059d08\n pack_teams:\n cmp w24, #4\n b.eq finish\n \nadr x0, 0x63490a3\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov w2, #-1\nmov x3, xzr\nbl 0x3059ee0\nmov w0, w0\nmov w1, #0\nbl 0x6329000\ncbz x0, pack_next0\nmov x22, x0\nadr x0, 0x63490ad\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, x22\nmov x3, xzr\nbl 0x3059d08\npack_next0:\n\nadr x0, 0x6349198\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov w2, #-1\nmov x3, xzr\nbl 0x3059ee0\nmov w0, w0\ncmp w0, #0\nb.eq pool_1_0\ncmp w0, #1\nb.eq pool_1_1\ncmp w0, #2\nb.eq pool_1_2\ncmp w0, #3\nb.eq pool_1_3\ncmp w0, #4\nb.eq pool_1_4\ncmp w0, #5\nb.eq pool_1_5\ncmp w0, #6\nb.eq pool_1_6\ncmp w0, #7\nb.eq pool_1_7\ncmp w0, #8\nb.eq pool_1_8\ncmp w0, #9\nb.eq pool_1_9\ncmp w0, #10\nb.eq pool_1_10\ncmp w0, #11\nb.eq pool_1_11\ncmp w0, #12\nb.eq pool_1_12\ncmp w0, #13\nb.eq pool_1_13\ncmp w0, #14\nb.eq pool_1_14\ncmp w0, #15\nb.eq pool_1_15\ncmp w0, #16\nb.eq pool_1_16\ncmp w0, #17\nb.eq pool_1_17\ncmp w0, #18\nb.eq pool_1_18\ncmp w0, #19\nb.eq pool_1_19\ncmp w0, #20\nb.eq pool_1_20\ncmp w0, #21\nb.eq pool_1_21\ncmp w0, #22\nb.eq pool_1_22\ncmp w0, #23\nb.eq pool_1_23\ncmp w0, #24\nb.eq pool_1_24\ncmp w0, #25\nb.eq pool_1_25\ncmp w0, #26\nb.eq pool_1_26\ncmp w0, #27\nb.eq pool_1_27\ncmp w0, #28\nb.eq pool_1_28\ncmp w0, #29\nb.eq pool_1_29\ncmp w0, #30\nb.eq pool_1_30\ncmp w0, #31\nb.eq pool_1_31\ncmp w0, #32\nb.eq pool_1_32\ncmp w0, #33\nb.eq pool_1_33\ncmp w0, #34\nb.eq pool_1_34\ncmp w0, #35\nb.eq pool_1_35\ncmp w0, #36\nb.eq pool_1_36\ncmp w0, #37\nb.eq pool_1_37\ncmp w0, #38\nb.eq pool_1_38\ncmp w0, #39\nb.eq pool_1_39\ncmp w0, #40\nb.eq pool_1_40\ncmp w0, #41\nb.eq pool_1_41\ncmp w0, #42\nb.eq pool_1_42\ncmp w0, #43\nb.eq pool_1_43\ncmp w0, #44\nb.eq pool_1_44\ncmp w0, #45\nb.eq pool_1_45\ncmp w0, #46\nb.eq pool_1_46\ncmp w0, #47\nb.eq pool_1_47\ncmp w0, #48\nb.eq pool_1_48\ncmp w0, #49\nb.eq pool_1_49\ncmp w0, #50\nb.eq pool_1_50\ncmp w0, #51\nb.eq pool_1_51\ncmp w0, #52\nb.eq pool_1_52\ncmp w0, #53\nb.eq pool_1_53\ncmp w0, #54\nb.eq pool_1_54\ncmp w0, #55\nb.eq pool_1_55\ncmp w0, #56\nb.eq pool_1_56\ncmp w0, #57\nb.eq pool_1_57\ncmp w0, #58\nb.eq pool_1_58\ncmp w0, #59\nb.eq pool_1_59\ncmp w0, #60\nb.eq pool_1_60\ncmp w0, #61\nb.eq pool_1_61\ncmp w0, #62\nb.eq pool_1_62\nb pack_next1\npool_1_0:\nmov w0, #5001\nb pool_ready1\npool_1_1:\nmov w0, #5101\nb pool_ready1\npool_1_2:\nmov w0, #5201\nb pool_ready1\npool_1_3:\nmov w0, #5301\nb pool_ready1\npool_1_4:\nmov w0, #5401\nb pool_ready1\npool_1_5:\nmov w0, #5601\nb pool_ready1\npool_1_6:\nmov w0, #5002\nb pool_ready1\npool_1_7:\nmov w0, #5102\nb pool_ready1\npool_1_8:\nmov w0, #5202\nb pool_ready1\npool_1_9:\nmov w0, #5302\nb pool_ready1\npool_1_10:\nmov w0, #5402\nb pool_ready1\npool_1_11:\nmov w0, #5602\nb pool_ready1\npool_1_12:\nmov w0, #5003\nb pool_ready1\npool_1_13:\nmov w0, #5103\nb pool_ready1\npool_1_14:\nmov w0, #5203\nb pool_ready1\npool_1_15:\nmov w0, #5303\nb pool_ready1\npool_1_16:\nmov w0, #5403\nb pool_ready1\npool_1_17:\nmov w0, #5603\nb pool_ready1\npool_1_18:\nmov w0, #5004\nb pool_ready1\npool_1_19:\nmov w0, #5104\nb pool_ready1\npool_1_20:\nmov w0, #5204\nb pool_ready1\npool_1_21:\nmov w0, #5304\nb pool_ready1\npool_1_22:\nmov w0, #5404\nb pool_ready1\npool_1_23:\nmov w0, #5604\nb pool_ready1\npool_1_24:\nmov w0, #5005\nb pool_ready1\npool_1_25:\nmov w0, #5105\nb pool_ready1\npool_1_26:\nmov w0, #5205\nb pool_ready1\npool_1_27:\nmov w0, #5305\nb pool_ready1\npool_1_28:\nmov w0, #5405\nb pool_ready1\npool_1_29:\nmov w0, #5605\nb pool_ready1\npool_1_30:\nmov w0, #5006\nb pool_ready1\npool_1_31:\nmov w0, #5106\nb pool_ready1\npool_1_32:\nmov w0, #5206\nb pool_ready1\npool_1_33:\nmov w0, #5306\nb pool_ready1\npool_1_34:\nmov w0, #5406\nb pool_ready1\npool_1_35:\nmov w0, #5606\nb pool_ready1\npool_1_36:\nmov w0, #5007\nb pool_ready1\npool_1_37:\nmov w0, #5107\nb pool_ready1\npool_1_38:\nmov w0, #5207\nb pool_ready1\npool_1_39:\nmov w0, #5307\nb pool_ready1\npool_1_40:\nmov w0, #5407\nb pool_ready1\npool_1_41:\nmov w0, #5607\nb pool_ready1\npool_1_42:\nmov w0, #5008\nb pool_ready1\npool_1_43:\nmov w0, #5108\nb pool_ready1\npool_1_44:\nmov w0, #5208\nb pool_ready1\npool_1_45:\nmov w0, #5308\nb pool_ready1\npool_1_46:\nmov w0, #5408\nb pool_ready1\npool_1_47:\nmov w0, #5608\nb pool_ready1\npool_1_48:\nmov w0, #5009\nb pool_ready1\npool_1_49:\nmov w0, #5109\nb pool_ready1\npool_1_50:\nmov w0, #5209\nb pool_ready1\npool_1_51:\nmov w0, #5309\nb pool_ready1\npool_1_52:\nmov w0, #5409\nb pool_ready1\npool_1_53:\nmov w0, #5609\nb pool_ready1\npool_1_54:\nmov w0, #5010\nb pool_ready1\npool_1_55:\nmov w0, #5110\nb pool_ready1\npool_1_56:\nmov w0, #5210\nb pool_ready1\npool_1_57:\nmov w0, #5310\nb pool_ready1\npool_1_58:\nmov w0, #5610\nb pool_ready1\npool_1_59:\nmov w0, #5011\nb pool_ready1\npool_1_60:\nmov w0, #5111\nb pool_ready1\npool_1_61:\nmov w0, #5211\nb pool_ready1\npool_1_62:\nmov w0, #5311\nb pool_ready1\npool_ready1:\nmov w1, #0\nbl 0x6329000\ncbz x0, pack_next1\nmov x22, x0\nadr x0, 0x63490bd\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, x22\nmov x3, xzr\nbl 0x3059d08\npack_next1:\n\nadr x0, 0x63490c6\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov w2, #-1\nmov x3, xzr\nbl 0x3059ee0\nmov w0, w0\ncmp w0, #0\nb.eq pool_2_0\ncmp w0, #1\nb.eq pool_2_1\ncmp w0, #2\nb.eq pool_2_2\ncmp w0, #3\nb.eq pool_2_3\ncmp w0, #4\nb.eq pool_2_4\ncmp w0, #5\nb.eq pool_2_5\ncmp w0, #6\nb.eq pool_2_6\ncmp w0, #7\nb.eq pool_2_7\ncmp w0, #8\nb.eq pool_2_8\ncmp w0, #9\nb.eq pool_2_9\ncmp w0, #10\nb.eq pool_2_10\ncmp w0, #11\nb.eq pool_2_11\ncmp w0, #12\nb.eq pool_2_12\ncmp w0, #13\nb.eq pool_2_13\ncmp w0, #14\nb.eq pool_2_14\ncmp w0, #15\nb.eq pool_2_15\ncmp w0, #16\nb.eq pool_2_16\ncmp w0, #17\nb.eq pool_2_17\ncmp w0, #18\nb.eq pool_2_18\ncmp w0, #19\nb.eq pool_2_19\ncmp w0, #20\nb.eq pool_2_20\ncmp w0, #21\nb.eq pool_2_21\ncmp w0, #22\nb.eq pool_2_22\ncmp w0, #23\nb.eq pool_2_23\ncmp w0, #24\nb.eq pool_2_24\ncmp w0, #25\nb.eq pool_2_25\ncmp w0, #26\nb.eq pool_2_26\ncmp w0, #27\nb.eq pool_2_27\ncmp w0, #28\nb.eq pool_2_28\ncmp w0, #29\nb.eq pool_2_29\ncmp w0, #30\nb.eq pool_2_30\ncmp w0, #31\nb.eq pool_2_31\ncmp w0, #32\nb.eq pool_2_32\ncmp w0, #33\nb.eq pool_2_33\ncmp w0, #34\nb.eq pool_2_34\ncmp w0, #35\nb.eq pool_2_35\ncmp w0, #36\nb.eq pool_2_36\ncmp w0, #37\nb.eq pool_2_37\ncmp w0, #38\nb.eq pool_2_38\ncmp w0, #39\nb.eq pool_2_39\ncmp w0, #40\nb.eq pool_2_40\ncmp w0, #41\nb.eq pool_2_41\ncmp w0, #42\nb.eq pool_2_42\ncmp w0, #43\nb.eq pool_2_43\ncmp w0, #44\nb.eq pool_2_44\ncmp w0, #45\nb.eq pool_2_45\ncmp w0, #46\nb.eq pool_2_46\ncmp w0, #47\nb.eq pool_2_47\ncmp w0, #48\nb.eq pool_2_48\ncmp w0, #49\nb.eq pool_2_49\ncmp w0, #50\nb.eq pool_2_50\ncmp w0, #51\nb.eq pool_2_51\ncmp w0, #52\nb.eq pool_2_52\ncmp w0, #53\nb.eq pool_2_53\ncmp w0, #54\nb.eq pool_2_54\ncmp w0, #55\nb.eq pool_2_55\ncmp w0, #56\nb.eq pool_2_56\ncmp w0, #57\nb.eq pool_2_57\ncmp w0, #58\nb.eq pool_2_58\ncmp w0, #59\nb.eq pool_2_59\ncmp w0, #60\nb.eq pool_2_60\ncmp w0, #61\nb.eq pool_2_61\ncmp w0, #62\nb.eq pool_2_62\nb pack_next2\npool_2_0:\nmov w0, #5001\nb pool_ready2\npool_2_1:\nmov w0, #5101\nb pool_ready2\npool_2_2:\nmov w0, #5201\nb pool_ready2\npool_2_3:\nmov w0, #5301\nb pool_ready2\npool_2_4:\nmov w0, #5401\nb pool_ready2\npool_2_5:\nmov w0, #5601\nb pool_ready2\npool_2_6:\nmov w0, #5002\nb pool_ready2\npool_2_7:\nmov w0, #5102\nb pool_ready2\npool_2_8:\nmov w0, #5202\nb pool_ready2\npool_2_9:\nmov w0, #5302\nb pool_ready2\npool_2_10:\nmov w0, #5402\nb pool_ready2\npool_2_11:\nmov w0, #5602\nb pool_ready2\npool_2_12:\nmov w0, #5003\nb pool_ready2\npool_2_13:\nmov w0, #5103\nb pool_ready2\npool_2_14:\nmov w0, #5203\nb pool_ready2\npool_2_15:\nmov w0, #5303\nb pool_ready2\npool_2_16:\nmov w0, #5403\nb pool_ready2\npool_2_17:\nmov w0, #5603\nb pool_ready2\npool_2_18:\nmov w0, #5004\nb pool_ready2\npool_2_19:\nmov w0, #5104\nb pool_ready2\npool_2_20:\nmov w0, #5204\nb pool_ready2\npool_2_21:\nmov w0, #5304\nb pool_ready2\npool_2_22:\nmov w0, #5404\nb pool_ready2\npool_2_23:\nmov w0, #5604\nb pool_ready2\npool_2_24:\nmov w0, #5005\nb pool_ready2\npool_2_25:\nmov w0, #5105\nb pool_ready2\npool_2_26:\nmov w0, #5205\nb pool_ready2\npool_2_27:\nmov w0, #5305\nb pool_ready2\npool_2_28:\nmov w0, #5405\nb pool_ready2\npool_2_29:\nmov w0, #5605\nb pool_ready2\npool_2_30:\nmov w0, #5006\nb pool_ready2\npool_2_31:\nmov w0, #5106\nb pool_ready2\npool_2_32:\nmov w0, #5206\nb pool_ready2\npool_2_33:\nmov w0, #5306\nb pool_ready2\npool_2_34:\nmov w0, #5406\nb pool_ready2\npool_2_35:\nmov w0, #5606\nb pool_ready2\npool_2_36:\nmov w0, #5007\nb pool_ready2\npool_2_37:\nmov w0, #5107\nb pool_ready2\npool_2_38:\nmov w0, #5207\nb pool_ready2\npool_2_39:\nmov w0, #5307\nb pool_ready2\npool_2_40:\nmov w0, #5407\nb pool_ready2\npool_2_41:\nmov w0, #5607\nb pool_ready2\npool_2_42:\nmov w0, #5008\nb pool_ready2\npool_2_43:\nmov w0, #5108\nb pool_ready2\npool_2_44:\nmov w0, #5208\nb pool_ready2\npool_2_45:\nmov w0, #5308\nb pool_ready2\npool_2_46:\nmov w0, #5408\nb pool_ready2\npool_2_47:\nmov w0, #5608\nb pool_ready2\npool_2_48:\nmov w0, #5009\nb pool_ready2\npool_2_49:\nmov w0, #5109\nb pool_ready2\npool_2_50:\nmov w0, #5209\nb pool_ready2\npool_2_51:\nmov w0, #5309\nb pool_ready2\npool_2_52:\nmov w0, #5409\nb pool_ready2\npool_2_53:\nmov w0, #5609\nb pool_ready2\npool_2_54:\nmov w0, #5010\nb pool_ready2\npool_2_55:\nmov w0, #5110\nb pool_ready2\npool_2_56:\nmov w0, #5210\nb pool_ready2\npool_2_57:\nmov w0, #5310\nb pool_ready2\npool_2_58:\nmov w0, #5610\nb pool_ready2\npool_2_59:\nmov w0, #5011\nb pool_ready2\npool_2_60:\nmov w0, #5111\nb pool_ready2\npool_2_61:\nmov w0, #5211\nb pool_ready2\npool_2_62:\nmov w0, #5311\nb pool_ready2\npool_ready2:\nmov w1, #0\nbl 0x6329000\ncbz x0, pack_next2\nmov x22, x0\nadr x0, 0x63490cb\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, x22\nmov x3, xzr\nbl 0x3059d08\npack_next2:\n\nadr x0, 0x63490d2\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov w2, #-1\nmov x3, xzr\nbl 0x3059ee0\nmov w0, w0\ncmp w0, #0\nb.eq pool_3_0\ncmp w0, #1\nb.eq pool_3_1\ncmp w0, #2\nb.eq pool_3_2\ncmp w0, #3\nb.eq pool_3_3\ncmp w0, #4\nb.eq pool_3_4\ncmp w0, #5\nb.eq pool_3_5\ncmp w0, #6\nb.eq pool_3_6\ncmp w0, #7\nb.eq pool_3_7\ncmp w0, #8\nb.eq pool_3_8\ncmp w0, #9\nb.eq pool_3_9\ncmp w0, #10\nb.eq pool_3_10\ncmp w0, #11\nb.eq pool_3_11\ncmp w0, #12\nb.eq pool_3_12\ncmp w0, #13\nb.eq pool_3_13\ncmp w0, #14\nb.eq pool_3_14\ncmp w0, #15\nb.eq pool_3_15\ncmp w0, #16\nb.eq pool_3_16\ncmp w0, #17\nb.eq pool_3_17\ncmp w0, #18\nb.eq pool_3_18\ncmp w0, #19\nb.eq pool_3_19\ncmp w0, #20\nb.eq pool_3_20\ncmp w0, #21\nb.eq pool_3_21\ncmp w0, #22\nb.eq pool_3_22\ncmp w0, #23\nb.eq pool_3_23\ncmp w0, #24\nb.eq pool_3_24\ncmp w0, #25\nb.eq pool_3_25\ncmp w0, #26\nb.eq pool_3_26\ncmp w0, #27\nb.eq pool_3_27\ncmp w0, #28\nb.eq pool_3_28\ncmp w0, #29\nb.eq pool_3_29\ncmp w0, #30\nb.eq pool_3_30\ncmp w0, #31\nb.eq pool_3_31\ncmp w0, #32\nb.eq pool_3_32\ncmp w0, #33\nb.eq pool_3_33\ncmp w0, #34\nb.eq pool_3_34\ncmp w0, #35\nb.eq pool_3_35\ncmp w0, #36\nb.eq pool_3_36\ncmp w0, #37\nb.eq pool_3_37\ncmp w0, #38\nb.eq pool_3_38\ncmp w0, #39\nb.eq pool_3_39\ncmp w0, #40\nb.eq pool_3_40\ncmp w0, #41\nb.eq pool_3_41\ncmp w0, #42\nb.eq pool_3_42\ncmp w0, #43\nb.eq pool_3_43\ncmp w0, #44\nb.eq pool_3_44\ncmp w0, #45\nb.eq pool_3_45\ncmp w0, #46\nb.eq pool_3_46\ncmp w0, #47\nb.eq pool_3_47\ncmp w0, #48\nb.eq pool_3_48\ncmp w0, #49\nb.eq pool_3_49\ncmp w0, #50\nb.eq pool_3_50\ncmp w0, #51\nb.eq pool_3_51\ncmp w0, #52\nb.eq pool_3_52\ncmp w0, #53\nb.eq pool_3_53\ncmp w0, #54\nb.eq pool_3_54\ncmp w0, #55\nb.eq pool_3_55\ncmp w0, #56\nb.eq pool_3_56\ncmp w0, #57\nb.eq pool_3_57\ncmp w0, #58\nb.eq pool_3_58\ncmp w0, #59\nb.eq pool_3_59\ncmp w0, #60\nb.eq pool_3_60\ncmp w0, #61\nb.eq pool_3_61\ncmp w0, #62\nb.eq pool_3_62\nb pack_next3\npool_3_0:\nmov w0, #5001\nb pool_ready3\npool_3_1:\nmov w0, #5101\nb pool_ready3\npool_3_2:\nmov w0, #5201\nb pool_ready3\npool_3_3:\nmov w0, #5301\nb pool_ready3\npool_3_4:\nmov w0, #5401\nb pool_ready3\npool_3_5:\nmov w0, #5601\nb pool_ready3\npool_3_6:\nmov w0, #5002\nb pool_ready3\npool_3_7:\nmov w0, #5102\nb pool_ready3\npool_3_8:\nmov w0, #5202\nb pool_ready3\npool_3_9:\nmov w0, #5302\nb pool_ready3\npool_3_10:\nmov w0, #5402\nb pool_ready3\npool_3_11:\nmov w0, #5602\nb pool_ready3\npool_3_12:\nmov w0, #5003\nb pool_ready3\npool_3_13:\nmov w0, #5103\nb pool_ready3\npool_3_14:\nmov w0, #5203\nb pool_ready3\npool_3_15:\nmov w0, #5303\nb pool_ready3\npool_3_16:\nmov w0, #5403\nb pool_ready3\npool_3_17:\nmov w0, #5603\nb pool_ready3\npool_3_18:\nmov w0, #5004\nb pool_ready3\npool_3_19:\nmov w0, #5104\nb pool_ready3\npool_3_20:\nmov w0, #5204\nb pool_ready3\npool_3_21:\nmov w0, #5304\nb pool_ready3\npool_3_22:\nmov w0, #5404\nb pool_ready3\npool_3_23:\nmov w0, #5604\nb pool_ready3\npool_3_24:\nmov w0, #5005\nb pool_ready3\npool_3_25:\nmov w0, #5105\nb pool_ready3\npool_3_26:\nmov w0, #5205\nb pool_ready3\npool_3_27:\nmov w0, #5305\nb pool_ready3\npool_3_28:\nmov w0, #5405\nb pool_ready3\npool_3_29:\nmov w0, #5605\nb pool_ready3\npool_3_30:\nmov w0, #5006\nb pool_ready3\npool_3_31:\nmov w0, #5106\nb pool_ready3\npool_3_32:\nmov w0, #5206\nb pool_ready3\npool_3_33:\nmov w0, #5306\nb pool_ready3\npool_3_34:\nmov w0, #5406\nb pool_ready3\npool_3_35:\nmov w0, #5606\nb pool_ready3\npool_3_36:\nmov w0, #5007\nb pool_ready3\npool_3_37:\nmov w0, #5107\nb pool_ready3\npool_3_38:\nmov w0, #5207\nb pool_ready3\npool_3_39:\nmov w0, #5307\nb pool_ready3\npool_3_40:\nmov w0, #5407\nb pool_ready3\npool_3_41:\nmov w0, #5607\nb pool_ready3\npool_3_42:\nmov w0, #5008\nb pool_ready3\npool_3_43:\nmov w0, #5108\nb pool_ready3\npool_3_44:\nmov w0, #5208\nb pool_ready3\npool_3_45:\nmov w0, #5308\nb pool_ready3\npool_3_46:\nmov w0, #5408\nb pool_ready3\npool_3_47:\nmov w0, #5608\nb pool_ready3\npool_3_48:\nmov w0, #5009\nb pool_ready3\npool_3_49:\nmov w0, #5109\nb pool_ready3\npool_3_50:\nmov w0, #5209\nb pool_ready3\npool_3_51:\nmov w0, #5309\nb pool_ready3\npool_3_52:\nmov w0, #5409\nb pool_ready3\npool_3_53:\nmov w0, #5609\nb pool_ready3\npool_3_54:\nmov w0, #5010\nb pool_ready3\npool_3_55:\nmov w0, #5110\nb pool_ready3\npool_3_56:\nmov w0, #5210\nb pool_ready3\npool_3_57:\nmov w0, #5310\nb pool_ready3\npool_3_58:\nmov w0, #5610\nb pool_ready3\npool_3_59:\nmov w0, #5011\nb pool_ready3\npool_3_60:\nmov w0, #5111\nb pool_ready3\npool_3_61:\nmov w0, #5211\nb pool_ready3\npool_3_62:\nmov w0, #5311\nb pool_ready3\npool_ready3:\nmov w1, #0\nbl 0x6329000\ncbz x0, pack_next3\nmov x22, x0\nadr x0, 0x63490d7\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, x22\nmov x3, xzr\nbl 0x3059d08\npack_next3:\n\nadr x0, 0x63490de\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov w2, #-1\nmov x3, xzr\nbl 0x3059ee0\nmov w0, w0\ncmp w0, #0\nb.eq pool_4_0\ncmp w0, #1\nb.eq pool_4_1\ncmp w0, #2\nb.eq pool_4_2\ncmp w0, #3\nb.eq pool_4_3\ncmp w0, #4\nb.eq pool_4_4\ncmp w0, #5\nb.eq pool_4_5\ncmp w0, #6\nb.eq pool_4_6\ncmp w0, #7\nb.eq pool_4_7\ncmp w0, #8\nb.eq pool_4_8\ncmp w0, #9\nb.eq pool_4_9\ncmp w0, #10\nb.eq pool_4_10\ncmp w0, #11\nb.eq pool_4_11\ncmp w0, #12\nb.eq pool_4_12\ncmp w0, #13\nb.eq pool_4_13\ncmp w0, #14\nb.eq pool_4_14\ncmp w0, #15\nb.eq pool_4_15\ncmp w0, #16\nb.eq pool_4_16\ncmp w0, #17\nb.eq pool_4_17\ncmp w0, #18\nb.eq pool_4_18\ncmp w0, #19\nb.eq pool_4_19\ncmp w0, #20\nb.eq pool_4_20\ncmp w0, #21\nb.eq pool_4_21\ncmp w0, #22\nb.eq pool_4_22\ncmp w0, #23\nb.eq pool_4_23\ncmp w0, #24\nb.eq pool_4_24\ncmp w0, #25\nb.eq pool_4_25\ncmp w0, #26\nb.eq pool_4_26\ncmp w0, #27\nb.eq pool_4_27\ncmp w0, #28\nb.eq pool_4_28\ncmp w0, #29\nb.eq pool_4_29\ncmp w0, #30\nb.eq pool_4_30\ncmp w0, #31\nb.eq pool_4_31\ncmp w0, #32\nb.eq pool_4_32\ncmp w0, #33\nb.eq pool_4_33\ncmp w0, #34\nb.eq pool_4_34\ncmp w0, #35\nb.eq pool_4_35\ncmp w0, #36\nb.eq pool_4_36\ncmp w0, #37\nb.eq pool_4_37\ncmp w0, #38\nb.eq pool_4_38\ncmp w0, #39\nb.eq pool_4_39\ncmp w0, #40\nb.eq pool_4_40\ncmp w0, #41\nb.eq pool_4_41\ncmp w0, #42\nb.eq pool_4_42\ncmp w0, #43\nb.eq pool_4_43\ncmp w0, #44\nb.eq pool_4_44\ncmp w0, #45\nb.eq pool_4_45\ncmp w0, #46\nb.eq pool_4_46\ncmp w0, #47\nb.eq pool_4_47\ncmp w0, #48\nb.eq pool_4_48\ncmp w0, #49\nb.eq pool_4_49\ncmp w0, #50\nb.eq pool_4_50\ncmp w0, #51\nb.eq pool_4_51\ncmp w0, #52\nb.eq pool_4_52\ncmp w0, #53\nb.eq pool_4_53\ncmp w0, #54\nb.eq pool_4_54\ncmp w0, #55\nb.eq pool_4_55\ncmp w0, #56\nb.eq pool_4_56\ncmp w0, #57\nb.eq pool_4_57\ncmp w0, #58\nb.eq pool_4_58\ncmp w0, #59\nb.eq pool_4_59\ncmp w0, #60\nb.eq pool_4_60\ncmp w0, #61\nb.eq pool_4_61\ncmp w0, #62\nb.eq pool_4_62\nb pack_next4\npool_4_0:\nmov w0, #5001\nb pool_ready4\npool_4_1:\nmov w0, #5101\nb pool_ready4\npool_4_2:\nmov w0, #5201\nb pool_ready4\npool_4_3:\nmov w0, #5301\nb pool_ready4\npool_4_4:\nmov w0, #5401\nb pool_ready4\npool_4_5:\nmov w0, #5601\nb pool_ready4\npool_4_6:\nmov w0, #5002\nb pool_ready4\npool_4_7:\nmov w0, #5102\nb pool_ready4\npool_4_8:\nmov w0, #5202\nb pool_ready4\npool_4_9:\nmov w0, #5302\nb pool_ready4\npool_4_10:\nmov w0, #5402\nb pool_ready4\npool_4_11:\nmov w0, #5602\nb pool_ready4\npool_4_12:\nmov w0, #5003\nb pool_ready4\npool_4_13:\nmov w0, #5103\nb pool_ready4\npool_4_14:\nmov w0, #5203\nb pool_ready4\npool_4_15:\nmov w0, #5303\nb pool_ready4\npool_4_16:\nmov w0, #5403\nb pool_ready4\npool_4_17:\nmov w0, #5603\nb pool_ready4\npool_4_18:\nmov w0, #5004\nb pool_ready4\npool_4_19:\nmov w0, #5104\nb pool_ready4\npool_4_20:\nmov w0, #5204\nb pool_ready4\npool_4_21:\nmov w0, #5304\nb pool_ready4\npool_4_22:\nmov w0, #5404\nb pool_ready4\npool_4_23:\nmov w0, #5604\nb pool_ready4\npool_4_24:\nmov w0, #5005\nb pool_ready4\npool_4_25:\nmov w0, #5105\nb pool_ready4\npool_4_26:\nmov w0, #5205\nb pool_ready4\npool_4_27:\nmov w0, #5305\nb pool_ready4\npool_4_28:\nmov w0, #5405\nb pool_ready4\npool_4_29:\nmov w0, #5605\nb pool_ready4\npool_4_30:\nmov w0, #5006\nb pool_ready4\npool_4_31:\nmov w0, #5106\nb pool_ready4\npool_4_32:\nmov w0, #5206\nb pool_ready4\npool_4_33:\nmov w0, #5306\nb pool_ready4\npool_4_34:\nmov w0, #5406\nb pool_ready4\npool_4_35:\nmov w0, #5606\nb pool_ready4\npool_4_36:\nmov w0, #5007\nb pool_ready4\npool_4_37:\nmov w0, #5107\nb pool_ready4\npool_4_38:\nmov w0, #5207\nb pool_ready4\npool_4_39:\nmov w0, #5307\nb pool_ready4\npool_4_40:\nmov w0, #5407\nb pool_ready4\npool_4_41:\nmov w0, #5607\nb pool_ready4\npool_4_42:\nmov w0, #5008\nb pool_ready4\npool_4_43:\nmov w0, #5108\nb pool_ready4\npool_4_44:\nmov w0, #5208\nb pool_ready4\npool_4_45:\nmov w0, #5308\nb pool_ready4\npool_4_46:\nmov w0, #5408\nb pool_ready4\npool_4_47:\nmov w0, #5608\nb pool_ready4\npool_4_48:\nmov w0, #5009\nb pool_ready4\npool_4_49:\nmov w0, #5109\nb pool_ready4\npool_4_50:\nmov w0, #5209\nb pool_ready4\npool_4_51:\nmov w0, #5309\nb pool_ready4\npool_4_52:\nmov w0, #5409\nb pool_ready4\npool_4_53:\nmov w0, #5609\nb pool_ready4\npool_4_54:\nmov w0, #5010\nb pool_ready4\npool_4_55:\nmov w0, #5110\nb pool_ready4\npool_4_56:\nmov w0, #5210\nb pool_ready4\npool_4_57:\nmov w0, #5310\nb pool_ready4\npool_4_58:\nmov w0, #5610\nb pool_ready4\npool_4_59:\nmov w0, #5011\nb pool_ready4\npool_4_60:\nmov w0, #5111\nb pool_ready4\npool_4_61:\nmov w0, #5211\nb pool_ready4\npool_4_62:\nmov w0, #5311\nb pool_ready4\npool_ready4:\nmov w1, #0\nbl 0x6329000\ncbz x0, pack_next4\nmov x22, x0\nadr x0, 0x63490e3\nbl 0x223e8cc\nmov x1, x0\nmov x0, x21\nmov x2, x22\nmov x3, xzr\nbl 0x3059d08\npack_next4:\nb finish\nfinish:\nldp x0, x1, [sp, #0]\nldp x2, x3, [sp, #16]\nldp x4, x5, [sp, #32]\nldp x6, x7, [sp, #48]\nldp x8, x9, [sp, #64]\nldp x10, x11, [sp, #80]\nldp x12, x13, [sp, #96]\nldp x14, x15, [sp, #112]\nldp x16, x17, [sp, #128]\nldp x18, x19, [sp, #144]\nldp x20, x21, [sp, #160]\nldp x22, x23, [sp, #176]\nldp x24, x25, [sp, #192]\nldp x26, x27, [sp, #208]\nldp x28, x29, [sp, #224]\nldr x30, [sp, #0xf0]\nldp q0, q1, [sp, #256]\nldp q2, q3, [sp, #288]\nldp q4, q5, [sp, #320]\nldp q6, q7, [sp, #352]\nadd sp, sp, #0x180\nb 0x6320000\nb 0x321b470\nreturn_name:\nldp x0, x1, [sp, #0]\nldp x2, x3, [sp, #16]\nldp x4, x5, [sp, #32]\nldp x6, x7, [sp, #48]\nldp x8, x9, [sp, #64]\nldp x10, x11, [sp, #80]\nldp x12, x13, [sp, #96]\nldp x14, x15, [sp, #112]\nldp x16, x17, [sp, #128]\nldp x18, x19, [sp, #144]\nldp x20, x21, [sp, #160]\nldp x22, x23, [sp, #176]\nldp x24, x25, [sp, #192]\nldp x26, x27, [sp, #208]\nldp x28, x29, [sp, #224]\nldr x30, [sp, #0xf0]\nldp q0, q1, [sp, #256]\nldp q2, q3, [sp, #288]\nldp q4, q5, [sp, #320]\nldp q6, q7, [sp, #352]\nadd sp, sp, #0x180\nret"
+    }
+  ],
+  "reader": 103976960,
+  "reader_source": "stp x29, x30, [sp, #-0x140]!\n stp x19, x20, [sp, #0x10]\n stp x21, x22, [sp, #0x20]\n mov x21, xzr\n cmp w0, #1\n b.lt done\n mov w8, #9999\n cmp w0, w8\n b.gt done\n cmp w1, #2\n b.hi done\n mov w8, #10000\n madd w20, w1, w8, w0\n lsl w20, w20, #8\n add w20, w20, #32\n adr x0, 0x6349000\n adr x1, 0x634903d\n adrp x16, 0x5d1b000\nldr x16, [x16, #1992]\nblr x16\n cbz x0, done\n mov x19, x0\n add x0, sp, #0x40\n mov x1, #1\n mov x2, #32\n mov x3, x19\n adrp x16, 0x5d1b000\nldr x16, [x16, #904]\nblr x16\n cmp x0, #32\n b.ne close\n ldr x8, [sp, #0x40]\n movz x9, #0x5042\n movk x9, #0x414e, lsl #16\n movk x9, #0x454d, lsl #32\n movk x9, #0x3331, lsl #48\n cmp x8, x9\n b.ne close\n ldr w8, [sp, #0x48]\n cmp w8, #1\n b.ne close\n ldr w8, [sp, #0x4c]\n cmp w8, #256\n b.ne close\n mov x0, x19\n uxtw x1, w20\n mov w2, #0\n adrp x16, 0x5d1b000\nldr x16, [x16, #2000]\nblr x16\n cbnz w0, close\n add x0, sp, #0x40\n mov x1, #1\n mov x2, #256\n mov x3, x19\n adrp x16, 0x5d1b000\nldr x16, [x16, #904]\nblr x16\n cmp x0, #256\n b.ne close\n ldrb w8, [sp, #0x40]\n cbz w8, close\n ldrb w8, [sp, #0x13f]\n cbnz w8, close\n add x0, sp, #0x40\n bl 0x223e8cc\n mov x21, x0\n close:\n mov x0, x19\n adrp x16, 0x5d1b000\nldr x16, [x16, #2008]\nblr x16\n done:\n mov x0, x21\n ldp x21, x22, [sp, #0x20]\n ldp x19, x20, [sp, #0x10]\n ldp x29, x30, [sp], #0x140\n ret",
+  "got": {
+    "fopen": 97630152,
+    "fseek": 97630160,
+    "fread": 97629064,
+    "fclose": 97630168
+  },
+  "strings": {
+    "/data/data/com.candywriter.bitlife/files/namepack-active.bin": 104108032,
+    "rb": 104108093,
+    "President": 104108096,
+    "HomeCountry": 104108106,
+    "NativeApproval": 104108118,
+    "Office": 104108133,
+    "government_v13": 104108140,
+    "WarOpponent": 104108155,
+    "WarProgress": 104108167,
+    "Cup": 104108179,
+    "Competition": 104108183,
+    "TeamIndex": 104108195,
+    "TeamName": 104108205,
+    "Lookup": 104108214,
+    "Opponent": 104108221,
+    "T1ID": 104108230,
+    "T1Name": 104108235,
+    "T2ID": 104108242,
+    "T2Name": 104108247,
+    "T3ID": 104108254,
+    "T3Name": 104108259,
+    "OriginalTeamName": 104108266,
+    "OriginalOpponent": 104108283,
+    "OriginalT1Name": 104108300,
+    "OriginalT2Name": 104108315,
+    "OriginalT3Name": 104108330,
+    "Champions League": 104108345,
+    "CupName1": 104108362,
+    "Europa League": 104108371,
+    "CupName2": 104108385,
+    "Conference League": 104108394,
+    "CupName3": 104108412,
+    "World Cup": 104108421,
+    "CupName4": 104108431,
+    "CurrentOpponentID": 104108440
+  },
+  "segment_va": 103841792,
+  "segment_offset": 103776256,
+  "segment_size": 266666,
+  "pool_ids": [
+    5001,
+    5101,
+    5201,
+    5301,
+    5401,
+    5601,
+    5002,
+    5102,
+    5202,
+    5302,
+    5402,
+    5602,
+    5003,
+    5103,
+    5203,
+    5303,
+    5403,
+    5603,
+    5004,
+    5104,
+    5204,
+    5304,
+    5404,
+    5604,
+    5005,
+    5105,
+    5205,
+    5305,
+    5405,
+    5605,
+    5006,
+    5106,
+    5206,
+    5306,
+    5406,
+    5606,
+    5007,
+    5107,
+    5207,
+    5307,
+    5407,
+    5607,
+    5008,
+    5108,
+    5208,
+    5308,
+    5408,
+    5608,
+    5009,
+    5109,
+    5209,
+    5309,
+    5409,
+    5609,
+    5010,
+    5110,
+    5210,
+    5310,
+    5610,
+    5011,
+    5111,
+    5211,
+    5311
+  ],
+  "countries": [
+    {
+      "name": "Afghanistan",
+      "code": "af"
+    },
+    {
+      "name": "Algeria",
+      "code": "dz"
+    },
+    {
+      "name": "Andorra",
+      "code": "ad"
+    },
+    {
+      "name": "Angola",
+      "code": "ao"
+    },
+    {
+      "name": "Argentina",
+      "code": "ar"
+    },
+    {
+      "name": "Aruba",
+      "code": "aw"
+    },
+    {
+      "name": "Australia",
+      "code": "au"
+    },
+    {
+      "name": "Austria",
+      "code": "at"
+    },
+    {
+      "name": "Bahamas",
+      "code": "bs"
+    },
+    {
+      "name": "Bangladesh",
+      "code": "bd"
+    },
+    {
+      "name": "Belgium",
+      "code": "be"
+    },
+    {
+      "name": "Belize",
+      "code": "bz"
+    },
+    {
+      "name": "Bolivia",
+      "code": "bo"
+    },
+    {
+      "name": "Brazil",
+      "code": "br"
+    },
+    {
+      "name": "Canada",
+      "code": "ca"
+    },
+    {
+      "name": "Chile",
+      "code": "cl"
+    },
+    {
+      "name": "China",
+      "code": "cn"
+    },
+    {
+      "name": "Colombia",
+      "code": "co"
+    },
+    {
+      "name": "Costa Rica",
+      "code": "cr"
+    },
+    {
+      "name": "Croatia",
+      "code": "hr"
+    },
+    {
+      "name": "Cuba",
+      "code": "cu"
+    },
+    {
+      "name": "Czech Republic",
+      "code": "cz"
+    },
+    {
+      "name": "Denmark",
+      "code": "dk"
+    },
+    {
+      "name": "Djibouti",
+      "code": "dj"
+    },
+    {
+      "name": "Dominican Republic",
+      "code": "do"
+    },
+    {
+      "name": "DR Congo",
+      "code": "cd"
+    },
+    {
+      "name": "Ecuador",
+      "code": "ec"
+    },
+    {
+      "name": "Egypt",
+      "code": "eg"
+    },
+    {
+      "name": "El Salvador",
+      "code": "sv"
+    },
+    {
+      "name": "Estonia",
+      "code": "ee"
+    },
+    {
+      "name": "Ethiopia",
+      "code": "et"
+    },
+    {
+      "name": "Finland",
+      "code": "fi"
+    },
+    {
+      "name": "France",
+      "code": "fr"
+    },
+    {
+      "name": "Georgia",
+      "code": "ge"
+    },
+    {
+      "name": "Germany",
+      "code": "de"
+    },
+    {
+      "name": "Greece",
+      "code": "gr"
+    },
+    {
+      "name": "Guatemala",
+      "code": "gt"
+    },
+    {
+      "name": "Guyana",
+      "code": "gy"
+    },
+    {
+      "name": "Haiti",
+      "code": "ht"
+    },
+    {
+      "name": "Hong Kong",
+      "code": "hk"
+    },
+    {
+      "name": "Hungary",
+      "code": "hu"
+    },
+    {
+      "name": "India",
+      "code": "in"
+    },
+    {
+      "name": "Indonesia",
+      "code": "id"
+    },
+    {
+      "name": "Iran",
+      "code": "ir"
+    },
+    {
+      "name": "Iraq",
+      "code": "iq"
+    },
+    {
+      "name": "Ireland",
+      "code": "ie"
+    },
+    {
+      "name": "Israel",
+      "code": "il"
+    },
+    {
+      "name": "Italy",
+      "code": "it"
+    },
+    {
+      "name": "Jamaica",
+      "code": "jm"
+    },
+    {
+      "name": "Japan",
+      "code": "jp"
+    },
+    {
+      "name": "Jordan",
+      "code": "jo"
+    },
+    {
+      "name": "Kazakhstan",
+      "code": "kz"
+    },
+    {
+      "name": "Kenya",
+      "code": "ke"
+    },
+    {
+      "name": "Kuwait",
+      "code": "kw"
+    },
+    {
+      "name": "Lebanon",
+      "code": "lb"
+    },
+    {
+      "name": "Malaysia",
+      "code": "my"
+    },
+    {
+      "name": "Mexico",
+      "code": "mx"
+    },
+    {
+      "name": "Monaco",
+      "code": "mc"
+    },
+    {
+      "name": "Mongolia",
+      "code": "mn"
+    },
+    {
+      "name": "Morocco",
+      "code": "ma"
+    },
+    {
+      "name": "Nepal",
+      "code": "np"
+    },
+    {
+      "name": "Netherlands",
+      "code": "nl"
+    },
+    {
+      "name": "New Zealand",
+      "code": "nz"
+    },
+    {
+      "name": "Nicaragua",
+      "code": "ni"
+    },
+    {
+      "name": "Nigeria",
+      "code": "ng"
+    },
+    {
+      "name": "Norway",
+      "code": "no"
+    },
+    {
+      "name": "Pakistan",
+      "code": "pk"
+    },
+    {
+      "name": "Panama",
+      "code": "pa"
+    },
+    {
+      "name": "Papua New Guinea",
+      "code": "pg"
+    },
+    {
+      "name": "Paraguay",
+      "code": "py"
+    },
+    {
+      "name": "Peru",
+      "code": "pe"
+    },
+    {
+      "name": "Philippines",
+      "code": "ph"
+    },
+    {
+      "name": "Poland",
+      "code": "pl"
+    },
+    {
+      "name": "Portugal",
+      "code": "pt"
+    },
+    {
+      "name": "Puerto Rico",
+      "code": "pr"
+    },
+    {
+      "name": "Qatar",
+      "code": "qa"
+    },
+    {
+      "name": "Romania",
+      "code": "ro"
+    },
+    {
+      "name": "Russia",
+      "code": "ru"
+    },
+    {
+      "name": "Samoa",
+      "code": "ws"
+    },
+    {
+      "name": "Saudi Arabia",
+      "code": "sa"
+    },
+    {
+      "name": "Serbia",
+      "code": "rs"
+    },
+    {
+      "name": "Singapore",
+      "code": "sg"
+    },
+    {
+      "name": "Slovakia",
+      "code": "sk"
+    },
+    {
+      "name": "South Africa",
+      "code": "za"
+    },
+    {
+      "name": "South Korea",
+      "code": "kr"
+    },
+    {
+      "name": "Spain",
+      "code": "es"
+    },
+    {
+      "name": "Sweden",
+      "code": "se"
+    },
+    {
+      "name": "Switzerland",
+      "code": "ch"
+    },
+    {
+      "name": "Syria",
+      "code": "sy"
+    },
+    {
+      "name": "Taiwan",
+      "code": "tw"
+    },
+    {
+      "name": "Thailand",
+      "code": "th"
+    },
+    {
+      "name": "Tunisia",
+      "code": "tn"
+    },
+    {
+      "name": "Turkey",
+      "code": "tr"
+    },
+    {
+      "name": "Uganda",
+      "code": "ug"
+    },
+    {
+      "name": "Ukraine",
+      "code": "ua"
+    },
+    {
+      "name": "United Arab Emirates",
+      "code": "ae"
+    },
+    {
+      "name": "United Kingdom",
+      "code": "gb"
+    },
+    {
+      "name": "United States",
+      "code": "us"
+    },
+    {
+      "name": "Uruguay",
+      "code": "uy"
+    },
+    {
+      "name": "Venezuela",
+      "code": "ve"
+    },
+    {
+      "name": "Vietnam",
+      "code": "vn"
+    },
+    {
+      "name": "Zimbabwe",
+      "code": "zw"
+    }
+  ]
+}

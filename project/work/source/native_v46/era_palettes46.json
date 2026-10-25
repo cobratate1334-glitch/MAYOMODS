@@ -1,0 +1,118 @@
+{
+  "palettes": [
+    {
+      "name": "Vintage",
+      "paper": "#F5EDDB",
+      "cell": "#FFF9EC",
+      "alt": "#E9DCC3",
+      "ink": "#3C281D",
+      "secondary": "#70533E",
+      "accent": "#795032",
+      "bar": "#573822",
+      "light": "#FFF8E9",
+      "line": "#BAA078"
+    },
+    {
+      "name": "Noir",
+      "paper": "#22272D",
+      "cell": "#2D333B",
+      "alt": "#3C444D",
+      "ink": "#F6EFE0",
+      "secondary": "#D2C7B6",
+      "accent": "#E2B37A",
+      "bar": "#15191E",
+      "light": "#F6EFE0",
+      "line": "#69717B"
+    },
+    {
+      "name": "Retro",
+      "paper": "#FFF2DB",
+      "cell": "#FFF9ED",
+      "alt": "#F3DFC2",
+      "ink": "#193D3C",
+      "secondary": "#52635A",
+      "accent": "#A3421D",
+      "bar": "#17676A",
+      "light": "#FFF7E8",
+      "line": "#C2A98B"
+    },
+    {
+      "name": "Modern",
+      "paper": "#FFFFFF",
+      "cell": "#FFFFFF",
+      "alt": "#E5EDF5",
+      "ink": "#075C93",
+      "secondary": "#376780",
+      "accent": "#075C93",
+      "bar": "#075D9F",
+      "light": "#FFFFFF",
+      "line": "#9CAFBF"
+    }
+  ],
+  "theme_color_groups": {
+    "paper": [
+      7,
+      27,
+      92,
+      96,
+      102,
+      108
+    ],
+    "cell": [
+      3,
+      5,
+      107,
+      115
+    ],
+    "alt": [
+      2,
+      15,
+      17,
+      80
+    ],
+    "ink": [
+      8,
+      9,
+      14,
+      16,
+      84,
+      88,
+      90,
+      93,
+      99,
+      100,
+      101
+    ],
+    "secondary": [
+      10,
+      11,
+      25,
+      26,
+      85,
+      89
+    ],
+    "bar": [
+      6,
+      18,
+      19,
+      77,
+      106
+    ],
+    "light": [
+      12,
+      20,
+      21,
+      22,
+      23,
+      24,
+      78
+    ],
+    "line": [
+      13,
+      97
+    ],
+    "accent": [
+      116
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+[
+  {
+    "asset": "genesis_feature_containers",
+    "owner": "era44",
+    "column": "EntrySecondLine",
+    "before": "Era collections, vintage finds and your wardrobe",
+    "after": "Era collections; vintage finds and your wardrobe"
+  },
+  {
+    "asset": "genesis_feature_containers",
+    "owner": "expansions46",
+    "column": "EntrySecondLine",
+    "before": "Community, worlds and saved stories",
+    "after": "Community; worlds and saved stories"
+  },
+  {
+    "asset": "genesis_activities_v18",
+    "scenario": "scenario.activitiesV18.contact1",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v18",
+    "scenario": "scenario.activitiesV18.contact2",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v18",
+    "scenario": "scenario.activitiesV18.contact3",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v18",
+    "scenario": "scenario.activitiesV18.contact4",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v18",
+    "scenario": "scenario.activitiesV18.contact5",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v18",
+    "scenario": "scenario.activitiesV18.contact6",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v18",
+    "scenario": "scenario.activitiesV18.contact7",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v18",
+    "scenario": "scenario.activitiesV18.contact8",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v18",
+    "scenario": "scenario.activitiesV18.contact9",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v18",
+    "scenario": "scenario.activitiesV18.contact10",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v18",
+    "scenario": "scenario.activitiesV18.contact11",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v18",
+    "scenario": "scenario.activitiesV18.contact12",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v18",
+    "scenario": "scenario.activitiesV18.contact13",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v18",
+    "scenario": "scenario.activitiesV18.contact14",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v18",
+    "scenario": "scenario.activitiesV18.contact15",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v18",
+    "scenario": "scenario.activitiesV18.contact16",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v18",
+    "scenario": "scenario.activitiesV18.contact17",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v18",
+    "scenario": "scenario.activitiesV18.contact18",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v18",
+    "scenario": "scenario.activitiesV18.contact19",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v18",
+    "scenario": "scenario.activitiesV18.contact20",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v18",
+    "scenario": "scenario.activitiesV18.contact21",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v18",
+    "scenario": "scenario.activitiesV18.contact22",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v18",
+    "scenario": "scenario.activitiesV18.contact23",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v18",
+    "scenario": "scenario.activitiesV18.contact24",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v12",
+    "scenario": "scenario.activitiesV18.contact1",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v12",
+    "scenario": "scenario.activitiesV18.contact2",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v12",
+    "scenario": "scenario.activitiesV18.contact3",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v12",
+    "scenario": "scenario.activitiesV18.contact4",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v12",
+    "scenario": "scenario.activitiesV18.contact5",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v12",
+    "scenario": "scenario.activitiesV18.contact6",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v12",
+    "scenario": "scenario.activitiesV18.contact7",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v12",
+    "scenario": "scenario.activitiesV18.contact8",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v12",
+    "scenario": "scenario.activitiesV18.contact9",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v12",
+    "scenario": "scenario.activitiesV18.contact10",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v12",
+    "scenario": "scenario.activitiesV18.contact11",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v12",
+    "scenario": "scenario.activitiesV18.contact12",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v12",
+    "scenario": "scenario.activitiesV18.contact13",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v12",
+    "scenario": "scenario.activitiesV18.contact14",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v12",
+    "scenario": "scenario.activitiesV18.contact15",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v12",
+    "scenario": "scenario.activitiesV18.contact16",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v12",
+    "scenario": "scenario.activitiesV18.contact17",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v12",
+    "scenario": "scenario.activitiesV18.contact18",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v12",
+    "scenario": "scenario.activitiesV18.contact19",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v12",
+    "scenario": "scenario.activitiesV18.contact20",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v12",
+    "scenario": "scenario.activitiesV18.contact21",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v12",
+    "scenario": "scenario.activitiesV18.contact22",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v12",
+    "scenario": "scenario.activitiesV18.contact23",
+    "repair": "profile action no longer shadowed"
+  },
+  {
+    "asset": "genesis_activities_v12",
+    "scenario": "scenario.activitiesV18.contact24",
+    "repair": "profile action no longer shadowed"
+  }
+]

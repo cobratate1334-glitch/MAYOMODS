@@ -1,0 +1,45 @@
+{
+  "files": [
+    {
+      "name": "01-1000006497.png",
+      "sha256": "678c0a3c894a9b3423ab0bbc81999521e86f71bf4f295d2e896653cdb4866002",
+      "bytes": 1228704
+    },
+    {
+      "name": "02-1000006259.png",
+      "sha256": "1054695cd8af8976974f4caa9b4229000c95fafb67d9775c89e4a0f84786a04a",
+      "bytes": 1279219
+    },
+    {
+      "name": "03-1000006256.png",
+      "sha256": "33a65f7959067bff49afc299f07281de23af7f384900489c1a12c13c65bf76cd",
+      "bytes": 1184836
+    },
+    {
+      "name": "04-1000006257.png",
+      "sha256": "4d1ab9601437f257de52239c11ccab1704532b7d32a6bc4e17673e63ab702915",
+      "bytes": 1944231
+    },
+    {
+      "name": "05-1000006258.png",
+      "sha256": "828f3f629f3ced2b0b09f77753bca02ba3945db69e266965623d8e66c8f3550f",
+      "bytes": 1986993
+    },
+    {
+      "name": "06-1000006254.png",
+      "sha256": "c85e88ac3293c1cbd2f7517b1a5de3ba7e7d266519fbd26e7693c7dcb1c40bef",
+      "bytes": 1853998
+    },
+    {
+      "name": "07-1000006253.png",
+      "sha256": "92b6ffbaf0835522e51a116d31c297c4e61cfcf3208dd87b024e147deb91039f",
+      "bytes": 1550893
+    },
+    {
+      "name": "08-1000006255.png",
+      "sha256": "8337d038698a35d7982a108ebf189127c6da9910c01e7b2b2ed02e41da849a45",
+      "bytes": 1300417
+    }
+  ],
+  "scar_and_eyepatch_sheet": "03-1000006256.png"
+}

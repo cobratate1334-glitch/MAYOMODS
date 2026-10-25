@@ -1,0 +1,101 @@
+{
+  "ListID": "genesis_v7_job_cybersecurity_analyst",
+  "Title": "CYBERSECURITY ANALYST PROJECTS",
+  "PresentationMode": "Normal",
+  "Sections": [
+    {
+      "Items": [
+        {
+          "Title": "Project Dashboard",
+          "Icon": "clipboard",
+          "SecondLine": "Completed: <GFC.job_cybersecurity_analyst.Projects>",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.careersV7.job_cybersecurity_analystdeliver",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ],
+          "BarGraph": {
+            "Title": "Quality",
+            "Value": "<GFC.job_cybersecurity_analyst.Quality>",
+            "Style": "LOW_IS_RED"
+          }
+        }
+      ]
+    },
+    {
+      "Title": "Job Activities",
+      "Items": [
+        {
+          "Title": "Audit access permissions",
+          "Icon": "memo",
+          "SecondLine": "Project stage 1",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.careersV7.job_cybersecurity_analyst1",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Investigate a security alert",
+          "Icon": "memo",
+          "SecondLine": "Project stage 2",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.careersV7.job_cybersecurity_analyst2",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Present a remediation plan",
+          "Icon": "memo",
+          "SecondLine": "Project stage 3",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.careersV7.job_cybersecurity_analyst3",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Submit and Review",
+          "Icon": "chart-bar",
+          "SecondLine": "Turn project progress into job performance",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.careersV7.job_cybersecurity_analystdeliver",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

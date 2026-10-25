@@ -1,0 +1,13 @@
+key,type,value,reset_on_ageup,minimum,maximum
+NativeParoleSync,int,0,,0,1
+StartAge,int,0,,0,999
+EndAge,int,0,,0,999
+SentenceYears,int,0,,0,5
+Active,int,0,,0,1
+Remaining,int,0,,0,5
+LastCheckAge,int,-1,,-1,999
+CheckIns,int,0,,0,1000000
+Sessions,int,0,true,0,3
+Discipline,int,20,,0,100
+Education,int,0,,0,100
+Releases,int,0,,0,1000000

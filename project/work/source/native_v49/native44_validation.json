@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "binary_sha256": "d17f9a0b9c68eb67226640d1a92ad1b834edfeec352408cebfc41d966e78959a",
+  "arm64_checks": 1330,
+  "ASLR_biases": [
+    0,
+    68719476736
+  ],
+  "all_27_purchase_and_equip_paths": true,
+  "era_boundaries_and_rotating_stock": true,
+  "atomic_funds_and_duplicate_purchase_guards": true,
+  "independent_slots_and_three_outfits": true,
+  "preview_excluded_from_saved_outfit": true,
+  "starting_year_native_picker": true,
+  "serialized_save_reload_fixture": true,
+  "Unity_managed_APIs_and_bank_implementation_mocked": true,
+  "physical_device_tested": false
+}

@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "checks": 12028,
+  "assets": {
+    "datapack_sha256": "e81a8342990917a465a00e47b8e92fc5c9f0a274fc4a77cc8c9b85aa306b3b3b",
+    "data_sha256": "881d1af185b9a22658a49f7033221762b14d4a070c793b38a0983667335ca641"
+  },
+  "repaired_iris_paths": 480,
+  "repaired_genetic_variants": 36,
+  "changed_textures": 332,
+  "unchanged_Unity_objects": 39470,
+  "sprites_preserved": 9484,
+  "resources_bundle_byte_identical": true,
+  "actual_native_pupil_highlight_composites": true,
+  "physical_phone_tested": false,
+  "Unity_rendering_tested": false
+}

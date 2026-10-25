@@ -1,0 +1,93 @@
+{
+  "passed": true,
+  "presentation_data_only": true,
+  "all_native_instructions_unchanged": true,
+  "libraries": {
+    "libRocketGames.so": {
+      "before_sha256": "4c076edb3e9d8cc44ef22b4e84985704abd5d56bb10ebccd5a26437c9db593ff",
+      "after_sha256": "89e181eae98c44623c40f2732e8c0a899fa318b907576daf588159121b6764cb",
+      "same_size": true,
+      "edits": [
+        {
+          "kind": "neutral_MOD_icon",
+          "offset": 355271,
+          "size": 9312
+        },
+        {
+          "kind": "presentation_literal",
+          "offset": 337973,
+          "size": 13,
+          "before": "Rocket Games",
+          "after": "Mod menu"
+        },
+        {
+          "kind": "presentation_literal",
+          "offset": 326355,
+          "size": 38,
+          "before": "https://paypal.me/rocketgamesdonation",
+          "after": "about:blank"
+        },
+        {
+          "kind": "presentation_literal",
+          "offset": 338636,
+          "size": 50,
+          "before": "https://platinmods.com/members/smiley3rd.1328902/",
+          "after": "about:blank"
+        }
+      ],
+      "executable_sections_byte_identical": [
+        ".text",
+        "__lcxx_override",
+        ".plt"
+      ],
+      "ELF_load_segments_byte_identical": true,
+      "all_other_bytes_preserved": true,
+      "decoded_icon_RGBA_sha256": "5e24968b946a742745fcc77c0c5fa729789551899259cc83cb6f6b8bce6072a7"
+    },
+    "libRocketGamesTool.so": {
+      "before_sha256": "76436b15d32e5810b9f8a75636c946b0967e8e06f74a8847acd5a92ddb21f9be",
+      "after_sha256": "b906d287ea300bc45f4bbc5de1826b96f683bc6c1f9742cae2b9af619506691f",
+      "same_size": true,
+      "edits": [
+        {
+          "kind": "neutral_MOD_icon",
+          "offset": 889572,
+          "size": 9312
+        },
+        {
+          "kind": "presentation_literal",
+          "offset": 820680,
+          "size": 13,
+          "before": "Rocket Games",
+          "after": "Mod menu"
+        },
+        {
+          "kind": "presentation_literal",
+          "offset": 847127,
+          "size": 18,
+          "before": "Rocket Tool [1.0]",
+          "after": "Mod menu"
+        },
+        {
+          "kind": "presentation_literal",
+          "offset": 878506,
+          "size": 44,
+          "before": "Rocket Tool [1.0]###rocket-tool-menu-window",
+          "after": "Mod menu###rocket-tool-menu-window"
+        }
+      ],
+      "executable_sections_byte_identical": [
+        ".text",
+        "__lcxx_override",
+        ".plt"
+      ],
+      "ELF_load_segments_byte_identical": true,
+      "all_other_bytes_preserved": true,
+      "decoded_icon_RGBA_sha256": "5e24968b946a742745fcc77c0c5fa729789551899259cc83cb6f6b8bce6072a7"
+    }
+  },
+  "icon_png_sha256": "9fba30d350238f767c24ce3108a5199b91d0160acd9c4d53fe4db700c7f080f4",
+  "icon_RGBA_sha256": "5e24968b946a742745fcc77c0c5fa729789551899259cc83cb6f6b8bce6072a7",
+  "retained_internal_module_and_JNI_names": true,
+  "device_tested": false
+}

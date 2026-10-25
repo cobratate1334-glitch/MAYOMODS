@@ -1,0 +1,8 @@
+{
+  "reference_model_assertions": 57758,
+  "soccer_and_graph_assertions": 46748,
+  "government_assertions": 11010,
+  "scenarios": 736,
+  "countries": 102,
+  "device_runtime_tested": false
+}

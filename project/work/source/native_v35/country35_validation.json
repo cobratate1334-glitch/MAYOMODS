@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "binary_sha256": "538a02a1ffad46e1a6020e33eeb6ef223c4e8b8765d072f7057c36ad3dc467ca",
+  "arm64_cases": 1104,
+  "profiles": 106,
+  "aslr_biases": [
+    0,
+    68719476736
+  ],
+  "existing_farm_location_preserved": true,
+  "regional_override_preserved": true,
+  "unknown_country_and_missing_country_checked": true,
+  "all_GPR_vector_registers_and_stack_restored": true,
+  "country_profiles_are_simplified_gameplay_baselines": true,
+  "device_runtime_tested": false
+}

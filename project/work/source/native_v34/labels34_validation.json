@@ -1,0 +1,41 @@
+{
+  "passed": true,
+  "changed_strings": [
+    {
+      "index": 116,
+      "offset": 30925,
+      "before": "Build: MayoMods v33; app: ",
+      "after": "Build: MayoMods v34; app: "
+    },
+    {
+      "index": 485,
+      "offset": 41891,
+      "before": "MayoMods v33 \u2014 Android crash record\n\n",
+      "after": "MayoMods v34 \u2014 Android crash record\n\n"
+    },
+    {
+      "index": 486,
+      "offset": 41932,
+      "before": "MayoMods v33 \u2014 local crash diagnostics\n\nLAST RECORDED CRASH / ERROR\n",
+      "after": "MayoMods v34 \u2014 local crash diagnostics\n\nLAST RECORDED CRASH / ERROR\n"
+    },
+    {
+      "index": 487,
+      "offset": 42004,
+      "before": "MayoMods v33 \u2014 recorded error\n",
+      "after": "MayoMods v34 \u2014 recorded error\n"
+    },
+    {
+      "index": 511,
+      "offset": 42759,
+      "before": "New Life & Crash Diagnostics \u00b7 v33",
+      "after": "New Life & Crash Diagnostics \u00b7 v34"
+    }
+  ],
+  "binary_sha256": "70aae2ddab245015e64074106bc6f40e8a4bcb513b6c8ce3a193f5ccf3d1376a",
+  "bridge_sha256": "28cacbe267c6ef910ea67c40bd70c4c912273b9bcefa9fc99cc342e263c9cb92",
+  "every_method_code_item_byte_identical": true,
+  "identifiers_offsets_and_order_preserved": true,
+  "exact_inverse_verified": true,
+  "bridge_byte_identical": true
+}

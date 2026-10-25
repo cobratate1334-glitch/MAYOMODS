@@ -1,0 +1,4662 @@
+{
+  "affected_resources": [
+    {
+      "name": "a16_faces-male-stage0-iris-base42-95000",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base42-95000",
+      "texture": 37755,
+      "trait": 5,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "96162c0dd336c6cd19aed167332babc57d005b9e441ea593a3d59584f90b91f0"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base42-95010",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base42-95010",
+      "texture": 37781,
+      "trait": 5,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "f10c3ac0815287406416caf7dc078b782adc049990561f420636dd59ca9fa95f"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base42-95020",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base42-95020",
+      "texture": 37807,
+      "trait": 5,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "2f75da12f679e7e4dc49fd69ec6c90d1787f06f458a726d6eb70805f3cde8674"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base42-95030",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base42-95030",
+      "texture": 37833,
+      "trait": 5,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "6a12c23d2835c538b37971dbd42c57add9c5c1023a3ee04035ebb758fae2865e"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base42-95040",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base42-95040",
+      "texture": 37859,
+      "trait": 5,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "6a12c23d2835c538b37971dbd42c57add9c5c1023a3ee04035ebb758fae2865e"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base42-95050",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base42-95050",
+      "texture": 37885,
+      "trait": 5,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "cfee2747c553057fee07cef41d055a892ba90c69b59d06c3062db23dd1dd1000"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base42-95100",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base42-95100",
+      "texture": 37911,
+      "trait": 5,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "96162c0dd336c6cd19aed167332babc57d005b9e441ea593a3d59584f90b91f0"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base42-95110",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base42-95110",
+      "texture": 37937,
+      "trait": 5,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "f10c3ac0815287406416caf7dc078b782adc049990561f420636dd59ca9fa95f"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base42-95120",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base42-95120",
+      "texture": 37963,
+      "trait": 5,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "63249ebf3d249ad3cb2bf4e97b1312222afa5411b81e47da7910fd1fc7c04ed1"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base42-95130",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base42-95130",
+      "texture": 37989,
+      "trait": 5,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "027b2d1ee30e8666cc5c45d82d5e66fb68c38bf420535029ea4598e3aabc0ebe"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base42-95140",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base42-95140",
+      "texture": 38015,
+      "trait": 5,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "027b2d1ee30e8666cc5c45d82d5e66fb68c38bf420535029ea4598e3aabc0ebe"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base42-95150",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base42-95150",
+      "texture": 38041,
+      "trait": 5,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "9b567da6658b19e83bead31d4b4641c544f31315fe3d6efae487ea9d5e55b448"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base43-88500",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base43-88500",
+      "texture": 38073,
+      "trait": 12,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "3b69e3101a5e4f3315e722df39c3b978b0fca87ce845a7c2178421bccc4e8378"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base43-88600",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base43-88600",
+      "texture": 38075,
+      "trait": 13,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "237b960d46cf3a1488c931b634f487eb0458d92d598688e60fb29b4a2f9164b7"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base43-88501",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base43-88501",
+      "texture": 38107,
+      "trait": 12,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "90ad77fd4c04c4c494c5907a43dde11b83ecbeb281e3d2c273f2e28a0c81dbe2"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base43-88601",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base43-88601",
+      "texture": 38109,
+      "trait": 13,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "6057e1e2d9dcd7080d76aea97a9ae846db85d9a364236e39706f5e3946686337"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base43-88502",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base43-88502",
+      "texture": 38141,
+      "trait": 12,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "56e4f380ce72943869c647c9ed1a15540c445359fb37807c66472730d0bb4208"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base43-88602",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base43-88602",
+      "texture": 38143,
+      "trait": 13,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "841828d4ce6991f0ca88afb195e590b5564326af58cd544eb65ad21397f4a695"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base43-88503",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base43-88503",
+      "texture": 38175,
+      "trait": 12,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "8aa5b84066662dca5b770750fe477b7df6e65b49973cd9c5fb625e4070d1a1e2"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base43-88603",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base43-88603",
+      "texture": 38177,
+      "trait": 13,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "e17b779afaf91da0a10e79f87eaab4bc72901c424e13ef5914b1ee749dfaf839"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base43-88504",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base43-88504",
+      "texture": 38209,
+      "trait": 12,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "8aa5b84066662dca5b770750fe477b7df6e65b49973cd9c5fb625e4070d1a1e2"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base43-88604",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base43-88604",
+      "texture": 38211,
+      "trait": 13,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "e17b779afaf91da0a10e79f87eaab4bc72901c424e13ef5914b1ee749dfaf839"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base43-88505",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base43-88505",
+      "texture": 38243,
+      "trait": 12,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "7193ddd96e0d4fce76347b2ac13a58f30c3b8d5c38092cfc47678e0182caf7a8"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base43-88605",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base43-88605",
+      "texture": 38245,
+      "trait": 13,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "144a06cdb60694eca37098c43eb8f15e8d19aeb2bc537dcd866c85d1d43c04aa"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base43-88540",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base43-88540",
+      "texture": 38277,
+      "trait": 12,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "3b69e3101a5e4f3315e722df39c3b978b0fca87ce845a7c2178421bccc4e8378"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base43-88640",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base43-88640",
+      "texture": 38279,
+      "trait": 13,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "237b960d46cf3a1488c931b634f487eb0458d92d598688e60fb29b4a2f9164b7"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base43-88541",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base43-88541",
+      "texture": 38311,
+      "trait": 12,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "90ad77fd4c04c4c494c5907a43dde11b83ecbeb281e3d2c273f2e28a0c81dbe2"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base43-88641",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base43-88641",
+      "texture": 38313,
+      "trait": 13,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "6057e1e2d9dcd7080d76aea97a9ae846db85d9a364236e39706f5e3946686337"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base43-88542",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base43-88542",
+      "texture": 38345,
+      "trait": 12,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "8ae7576bbcb07a24e0311276acdffa484967b3d20bd8e8628897cc7e706af424"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base43-88642",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base43-88642",
+      "texture": 38347,
+      "trait": 13,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "3a6e320c37e836b0c5a7a5e71991660c787aef30869ca29fbd14ef5dbd84215d"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base43-88543",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base43-88543",
+      "texture": 38379,
+      "trait": 12,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "62bc22630559587f67a1c83f8f5ecc7110854bf7c0fe20060641245f6247bf2a"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base43-88643",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base43-88643",
+      "texture": 38381,
+      "trait": 13,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "2d5dbca8fb11221bb3c0592e375c4db7a88f5c5246fb7ed9ce1b5b223eda709e"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base43-88544",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base43-88544",
+      "texture": 38413,
+      "trait": 12,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "62bc22630559587f67a1c83f8f5ecc7110854bf7c0fe20060641245f6247bf2a"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base43-88644",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base43-88644",
+      "texture": 38415,
+      "trait": 13,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "2d5dbca8fb11221bb3c0592e375c4db7a88f5c5246fb7ed9ce1b5b223eda709e"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base43-88545",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base43-88545",
+      "texture": 38447,
+      "trait": 12,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "735ef50655b2dc9e134a5005e97787fb4815e06ec608943cb4ffcdad6826f34c"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base43-88645",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base43-88645",
+      "texture": 38449,
+      "trait": 13,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "48d51f03702297fa114e6c0591c9b6eeebf2aa80d9d5ea4ab1029bb2959c9ee3"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base149-88800",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base149-88800",
+      "texture": 38671,
+      "trait": 4,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "d13e3d5772ac8cd0a92d060a9eabf0cde5ea86b16578cb0f2bc68d82b2037291"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base149-88801",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base149-88801",
+      "texture": 38775,
+      "trait": 4,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "18cc036cea5fc16271c1505cc2b9de27dfda1dd04f159916b5bd7fba59222996"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base149-88802",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base149-88802",
+      "texture": 38879,
+      "trait": 4,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "f74877b6610c0253efad411dcf707c4a29590730f550a1b86e36cbcf702901b3"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base149-88803",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base149-88803",
+      "texture": 38983,
+      "trait": 4,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "176ba9a4bb36af369faea2a01ae97c1eea7af3eb8619202d5f02aeda707cae5e"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base149-88804",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base149-88804",
+      "texture": 38983,
+      "trait": 4,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "176ba9a4bb36af369faea2a01ae97c1eea7af3eb8619202d5f02aeda707cae5e"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base149-88805",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base149-88805",
+      "texture": 39128,
+      "trait": 4,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "1c02ec815a10507afc0d7238d8f16d8fbed98f24c94bfbf0dda1f1c774c93e80"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base149-88806",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base149-88806",
+      "texture": 38671,
+      "trait": 4,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "d13e3d5772ac8cd0a92d060a9eabf0cde5ea86b16578cb0f2bc68d82b2037291"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base149-88807",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base149-88807",
+      "texture": 38775,
+      "trait": 4,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "18cc036cea5fc16271c1505cc2b9de27dfda1dd04f159916b5bd7fba59222996"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base149-88808",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base149-88808",
+      "texture": 39321,
+      "trait": 4,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "c99be8b1ee7761ee46ee00946c7d3968c6d9d8bf9632df5c00a90124c683bf46"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base149-88809",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base149-88809",
+      "texture": 39425,
+      "trait": 4,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "52957aee0a8141414b5c5b7f4262e2af363abf25be7301858b2d899820f88878"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base149-88810",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base149-88810",
+      "texture": 39425,
+      "trait": 4,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "52957aee0a8141414b5c5b7f4262e2af363abf25be7301858b2d899820f88878"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base149-88811",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base149-88811",
+      "texture": 39581,
+      "trait": 4,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "24851b8ad76b4fa82d80d407e72c5582a1a60a3ec30c8a5091ada68a1e329e24"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base100-80000",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base100-80000",
+      "texture": 38599,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "f661aad99392fb301d82cd4c431d560f65e25def037952ed2d7e42fe59322c91"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base101-80012",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base101-80012",
+      "texture": 38601,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "214e73bc9e4f94a2626b5d096851002a9b343c71137bf47b13a0026b87445a11"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base102-80024",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base102-80024",
+      "texture": 38603,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "8b1636990c8c5075c9ca8c7105319c9ac2535b5487b151c6ce293e25009be120"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base103-80036",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base103-80036",
+      "texture": 38605,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "dace14ecc606ff0b982a52e5b599c55dcc94f826d5dfed20f2e870e78caa410c"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base104-80048",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base104-80048",
+      "texture": 38607,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "6c4ca898fe20b5f7dfed8c88042d158d3f9d903db108985e352efaccc8748370"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base105-80060",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base105-80060",
+      "texture": 38609,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "87a7557e66c82512b58cd5d8e8fdd22794b7d496da4322355e3f82a8c03d73ae"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base106-80072",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base106-80072",
+      "texture": 38611,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "6d5ebc526ed876057b2c927554cc475020ba15bd42176154ac292d31f3b949ef"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base107-80084",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base107-80084",
+      "texture": 38613,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "808fc736ac76d1808710d6e439b3a2db7bb0216ee5b872792429ef7f561c0841"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base108-80096",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base108-80096",
+      "texture": 38615,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "0f6981903bdd94090bd015d07632d4fba2740b78a955741256de9469dbb5e317"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base109-80108",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base109-80108",
+      "texture": 38617,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "722eded0451aab8e277a48cbbd1755c71429cbf513495e6c9786847da7cd2d60"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base110-80120",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base110-80120",
+      "texture": 38619,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "8f5186d1edbb2209c1e546e7b9a1879d0cfeb08f796e6bedc433214cf2ef0851"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base111-80132",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base111-80132",
+      "texture": 38621,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "db76bba22b94f1ea28efc23aa6194ee709fab8e9ece248557332f32431219e85"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base112-80144",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base112-80144",
+      "texture": 38623,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "ce752d0e52275f7f0792f68bc0924eab9ab7962cee58fc303cd43bbe6ab6caf2"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base113-80156",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base113-80156",
+      "texture": 38625,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "207bb1c1e855931fb348c63cf39257553e27adf22d32fd191562cc691148007f"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base114-80168",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base114-80168",
+      "texture": 38627,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "598ef7a81459544a435bfd33be20b3adfb61e03448300a9d2d99cb7805c9e3a1"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base115-80180",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base115-80180",
+      "texture": 38629,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "afa798034d4c5de02e639151254ecdcada17ab80bb7aca9f679321a53b9df54b"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base116-80192",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base116-80192",
+      "texture": 38631,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "bf266184f93cfe3471887c99a089ed82ecc0e48ab4fded9adc82ec4f1278b1da"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base117-80204",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base117-80204",
+      "texture": 38633,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "7165a967b727e0b5e1c81ed985fc479abe4de7ff895c6fdaa426d1ebb6f19555"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base118-80216",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base118-80216",
+      "texture": 38635,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "8dcbcd29dd6fe9d846b841a81b11da252e7b32d673078209d214f0b9927fc90d"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base119-80228",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base119-80228",
+      "texture": 38637,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "fb0f8d7267c6161544431b17a90bc459492f7b7694f84185f5714c8489a7e7dc"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base120-80240",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base120-80240",
+      "texture": 38639,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "ff261bbafceb704aa9fb68374b5ef3c1069560a7be07716f1c73a0f1c5295652"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base121-80252",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base121-80252",
+      "texture": 38641,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "9320fd62ad6fd9d3c5f1b0315c16a3e3644b38f7217394be06f08a971870b669"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base122-80264",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base122-80264",
+      "texture": 38643,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "0bd642b69efce05ab50c3c4e4f7bb366674ad7a266cf6f30aebcb886f1201994"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base123-80276",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base123-80276",
+      "texture": 38645,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "96162c0dd336c6cd19aed167332babc57d005b9e441ea593a3d59584f90b91f0"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base124-80288",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base124-80288",
+      "texture": 38647,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "f39ffabc50541cf98121b428cb9f7e2e2a142225c046e9bf79565479ea184a58"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base125-80300",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base125-80300",
+      "texture": 38649,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "593c656f80dac7c07e3921a03e40cc34aee2ad8790e1b9f110357c230ab20585"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base126-80312",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base126-80312",
+      "texture": 38651,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "5d2e85dff9c8a4af2e767b0882ec11857e298f3d9955b2c96e658244652bceaa"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base127-80324",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base127-80324",
+      "texture": 38653,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "ff7666ce4942beba86eb1a5216f1d1dca6742b0a8767de18636f0239a802f134"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base128-80336",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base128-80336",
+      "texture": 38655,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "0bc4c5c7a661fb680fdb846ddf1ca3e9fa808fb13102be6f101bbed801a3cf15"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base129-80348",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base129-80348",
+      "texture": 38657,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "0cf5615860e176688f20a475da49987d28ce7959c4a6252c21712af87cb7c9b9"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base130-80360",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base130-80360",
+      "texture": 38659,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "d72f0741e65a6e0969e0cbdbad0eaece546326560a1711e74732f89020311287"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base131-80372",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base131-80372",
+      "texture": 38661,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "ba751d9bad86876cef702b0a310ce0a14cbbd95a00dea4f64ecbd30e0edb2e0f"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base132-80384",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base132-80384",
+      "texture": 38663,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "45a2b3936e5f81966459d717be0fdf79e5912077f182eec40cd675327b7012d6"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base133-80396",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base133-80396",
+      "texture": 38665,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "984bad31955957e02a15fda0e5ab558a098d1c0ef9c485f0424843eb1041deb6"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base134-80408",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base134-80408",
+      "texture": 38667,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "5de36b96c8e091670e46475a33d6255950dedb14f87a28b0e9fca565f0f21bd7"
+    },
+    {
+      "name": "a16_faces-male-stage0-iris-base135-80420",
+      "path": "emoji/voltron/faces/face/stage 0 male/a16_faces-male-stage0-iris-base135-80420",
+      "texture": 38669,
+      "trait": 0,
+      "stage": 0,
+      "gender": 0,
+      "pixel_sha256": "ff6b46059cbef4d6703fd16787ed576f919fc5516be6a2beab2e0283a4d95727"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base100-80001",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base100-80001",
+      "texture": 38703,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "adab24af73201ecb2bc73004fce87d7665199434d33d31138fd570ef655b2b19"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base101-80013",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base101-80013",
+      "texture": 38705,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "5457dcec3a2c5c4465de55daa3caf76c4948d41bf6a3d7afca35d23f8312f977"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base102-80025",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base102-80025",
+      "texture": 38707,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "360b6148ac3ed3577d7276e7637883ec42749f525a35a37554b93e5f05790c7e"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base103-80037",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base103-80037",
+      "texture": 38709,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "b8b2b142f3ada5157fb03a180319a2fcd8471186835fdfd6ed16843b4775204f"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base104-80049",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base104-80049",
+      "texture": 38711,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "b965c6b2ec8b39099be65b55b5aa7c0018c6112c5d34f1fe61cb97dbac861c76"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base105-80061",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base105-80061",
+      "texture": 38713,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "b2da74519895f42f595e37a4d94adbe88abaf34cbbb6c9d1799f7c7bd2c1b482"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base106-80073",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base106-80073",
+      "texture": 38715,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "771c177f0b68e5d5b56fe7a9d0d8cbc041294e44fcffd603bed4d82372c6ee08"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base107-80085",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base107-80085",
+      "texture": 38717,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "735bdaf1380e4701e819b9437b3ee26d0bc680391c4ab7cdb2d240ec53f5426a"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base108-80097",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base108-80097",
+      "texture": 38719,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "63689885b1ba4b75e7afa2d8bc74ed2c203fa39e7e6a4c8f4b486c20c8e4eed7"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base109-80109",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base109-80109",
+      "texture": 38721,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "cbbeb57e15a3d53d59105a0608f9989f3c67013cb41c9c25e684bccc6356a699"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base110-80121",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base110-80121",
+      "texture": 38723,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "3c0a3f2655f1bb9072f9f080bd1d9669a27f10162e174308e80e98cafe182cd5"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base111-80133",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base111-80133",
+      "texture": 38725,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "2c0ce123987ded61bab466d65306782b921eee81a5155e7f0eab2eb11f8579cc"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base112-80145",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base112-80145",
+      "texture": 38727,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "23972f529b70809b0a575e43ac5f50cedd5875ee9c44d8a50e5a57046ab39b34"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base113-80157",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base113-80157",
+      "texture": 38729,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "b96e5d12b4b6e94a9ee054796cecac55294f8d90579d9921032e6a687b1e246a"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base114-80169",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base114-80169",
+      "texture": 38731,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "1b1d5560ee96a8fe3bdfa7d342812953e4c7db35e7d5425c8b0f5d949290b365"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base115-80181",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base115-80181",
+      "texture": 38733,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "fa4392524040aa09d650ec00024817cd93dd12884b8f8a32d56221c9f8a7d61d"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base116-80193",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base116-80193",
+      "texture": 38735,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "896ed91fddd263873abb6ab3b00e2fca0bbadc61d37a2d7d6cd33d3b7a8594d9"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base117-80205",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base117-80205",
+      "texture": 38737,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "9673bf11143222351ae563c994e64d56ea7bfdb593225362e34f6643ce57f6bc"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base118-80217",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base118-80217",
+      "texture": 38739,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "2cc515794c7663991fcbe4820eb08129853fac2463ca892adaa3812318e8d7f8"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base119-80229",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base119-80229",
+      "texture": 38741,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "0ab0ce69ba4013f50d89d87d7a6652e634efc2f233d8514ffbfebb7fb46ec268"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base120-80241",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base120-80241",
+      "texture": 38743,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "6c31bb52ee0d6298287c585bdda4794a2381932f0991ad117070a28b4e5b2906"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base121-80253",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base121-80253",
+      "texture": 38745,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "95b9e5541b8c1546336ee92450779b4fccd763b0143ae508c8a05442fb9e89cc"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base122-80265",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base122-80265",
+      "texture": 38747,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "1ed2883251c8c2ab8e12e1c57319fd8f581f1f54c6ae64bdf3ebbc4ce9f5edbe"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base123-80277",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base123-80277",
+      "texture": 38749,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "f10c3ac0815287406416caf7dc078b782adc049990561f420636dd59ca9fa95f"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base124-80289",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base124-80289",
+      "texture": 38751,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "fbb260ddff4b44164dcdfc9c4a06294c359e2ec9f666d1e0facd76bee141d709"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base125-80301",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base125-80301",
+      "texture": 38753,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "b1547eac1b38d45503d996f1223fe54f347c067d48c7b72f94b87cd6311b8570"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base126-80313",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base126-80313",
+      "texture": 38755,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "973b5687222dc4903a77b73d8519a1bcce61ebc1d9cdf5f0e06385a1aa6e5342"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base127-80325",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base127-80325",
+      "texture": 38757,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "ade50aedebe983d02f131b04b8c50b0872f1984c47a605395c42aeb932765348"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base128-80337",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base128-80337",
+      "texture": 38759,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "25ab7ecfdd92c53c476c6ac1a8ade59cc16b7b8a43d8c96e12da9cccdac4c638"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base129-80349",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base129-80349",
+      "texture": 38761,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "26fa04a3a8afe4acab97108732076fb1ff0edc7907e64baf0d3dca969eff54be"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base130-80361",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base130-80361",
+      "texture": 38763,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "438d8a821f2bb776db61e86a8fd1791d16e3aaf3b89831737962c79dbe6cbb02"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base131-80373",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base131-80373",
+      "texture": 38765,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "b4aedd301afbf0ee60ab7c84976d7114fe23b26d966c48f2dc4a559be4a40852"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base132-80385",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base132-80385",
+      "texture": 38767,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "eae4012608f74b28f4674b471a3d1eadb6e9bc1a9c7652826aae2e6cbe8ce6a7"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base133-80397",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base133-80397",
+      "texture": 38769,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "39f770a4e15234bf95142ab63ca640a1b1c693de1ebb3a9b622e5b44da9225bc"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base134-80409",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base134-80409",
+      "texture": 38771,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "b267c34135ae4b0016768217706e309273d97123df266520fdd509bede3951ee"
+    },
+    {
+      "name": "a16_faces-male-stage1-iris-base135-80421",
+      "path": "emoji/voltron/faces/face/stage 1 male/a16_faces-male-stage1-iris-base135-80421",
+      "texture": 38773,
+      "trait": 0,
+      "stage": 1,
+      "gender": 0,
+      "pixel_sha256": "eb4948cfe0fcd297561887396f144dd4ea9f38a8e54f6125246fcfd4a8f0b344"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base100-80002",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base100-80002",
+      "texture": 38807,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "01b0d704cc7956359befce77b02ab63a1cda7e621c58cfafbd38d48f3078a48c"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base101-80014",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base101-80014",
+      "texture": 38809,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "5048965b98dd478b99f5d637e345df38456562813ff33d6cdfd8a13df494ed86"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base102-80026",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base102-80026",
+      "texture": 38811,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "a365b58d5b345a62397527ee043a60a24fee10eebd30390f06d88df3726bfdaf"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base103-80038",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base103-80038",
+      "texture": 38813,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "d05311e94ddd6e6109bd2d850dfb48a1b7a03dacb8982bee04c82f1b13eb64dc"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base104-80050",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base104-80050",
+      "texture": 38815,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "bb1fda3b044556b14c8a2ac2916b4a936a70ad39b57e6eba5629526f89673405"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base105-80062",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base105-80062",
+      "texture": 38817,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "e20e10102686bdd596523e834c9e1316098074e7f362b3f6cf9d3be4b63b0a64"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base106-80074",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base106-80074",
+      "texture": 38819,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "0a0ee4770bbf1469ce27a45b5c1613722fe81723415fc7f0f6d2ce022036c523"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base107-80086",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base107-80086",
+      "texture": 38821,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "30d54b78d102a0b7aee9cbdf33a50e88775e29676b8b64cb0777e8b642b8238b"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base108-80098",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base108-80098",
+      "texture": 38823,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "e64b4b75aaf4b27806a8b9a016435b046aa9ca6d4b40341a8c36dbb0020e0fb1"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base109-80110",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base109-80110",
+      "texture": 38825,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "4a13dc1076f1310ffc0d67da338ca40762062db5339b6d5b0d49b607d7563b37"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base110-80122",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base110-80122",
+      "texture": 38827,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "027330d4a7e87fbaebdc27b66cb6b6bcc38c4006f3e415811b21297d70559885"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base111-80134",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base111-80134",
+      "texture": 38829,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "2b230346aa0c3ebce39c927c11b418affb648d8eb5abd67510d7c96656228bf0"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base112-80146",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base112-80146",
+      "texture": 38831,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "d4fdb66f010f0e513117410e6e5692e22ab7838d2eb4cde12699dab73b367d2f"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base113-80158",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base113-80158",
+      "texture": 38833,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "4c4227025b3fe258fcd8c98d943d332ab2b34185e79f4364be9034d09c14e277"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base114-80170",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base114-80170",
+      "texture": 38835,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "ecd6de57b1e6be76170048aa6d7599b349ed6d356e014c3835fb650ed4e82100"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base115-80182",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base115-80182",
+      "texture": 38837,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "d294f896400ed612e4c90714cc9c0ab72ddbfa9ab301be2e635ebe2167ac8f05"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base116-80194",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base116-80194",
+      "texture": 38839,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "69913aff6b0db8c740e2e84f0c1ca7d07ef38d434474c1a35e6b1118617eba88"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base117-80206",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base117-80206",
+      "texture": 38841,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "19be93da7ac9ca2eaa28359e73c0ae50be3dcdca0e2c52bf6e6cb8523ac2ea08"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base118-80218",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base118-80218",
+      "texture": 38843,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "2e2b3f62b0c9416193ce13610dd2b440ed7e6d8ec9b318c1b1daa60786d75ec0"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base119-80230",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base119-80230",
+      "texture": 38845,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "02f4dbea574d4bd07f0ea08710afcd0e43f84f66d7abd2998c56537c16752650"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base120-80242",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base120-80242",
+      "texture": 38847,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "ab44d2d83ed387b4b967292199b20f5478afeba10c92b0a3b6ceeb2c61871a1a"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base121-80254",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base121-80254",
+      "texture": 38849,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "5173be06006d2f1be71fe54fee0f1b7f9864024fd3c7a0718ac47cbca127c2ea"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base122-80266",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base122-80266",
+      "texture": 38851,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "e6b47e703aa47cef8ab834e7090c2081c450948d54ec9a91e03a30c0ee7db157"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base123-80278",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base123-80278",
+      "texture": 38853,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "2f75da12f679e7e4dc49fd69ec6c90d1787f06f458a726d6eb70805f3cde8674"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base124-80290",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base124-80290",
+      "texture": 38855,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "df32b2c7c04a3205800dab3ea716abce1fb1dfc999f03b9eaff0510192e281da"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base125-80302",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base125-80302",
+      "texture": 38857,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "220c7fcb2f10903fd3feacd546e8f5c747d85c9cdb7f28032ae68e96ceb237ce"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base126-80314",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base126-80314",
+      "texture": 38859,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "64bba1945597847d9bd8f9187b4f5e231df01e19f9e551b41f0d90cda86bd4ed"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base127-80326",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base127-80326",
+      "texture": 38861,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "afe669ef4074a778243e8fa859de5fb04b620b75778379fc6a0cb48dbfa4f297"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base128-80338",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base128-80338",
+      "texture": 38863,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "99820a7fb82e83255df35897635874c9981c143a5921922688aae3a736cd2bc3"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base129-80350",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base129-80350",
+      "texture": 38865,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "c66547ddc50897c7669e8bdb07fe0fb6b585b216ecee533da66e36111975c5c1"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base130-80362",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base130-80362",
+      "texture": 38867,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "f884c16c02d9b52e3c57f9f0b98261ad792502e21aa62c18c86507ae7a5d542d"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base131-80374",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base131-80374",
+      "texture": 38869,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "a396933302a245dac5dac6c3b3024860850be11e843df47b6bdc63d4e584cb73"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base132-80386",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base132-80386",
+      "texture": 38871,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "a8fdff7c0ed1a1d630335a6b918268c2b6ba0597c4fba47b30b92e5914d7fac4"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base133-80398",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base133-80398",
+      "texture": 38873,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "4e21c2bdebc3458201beb15d8734e9f1a1e1cb6f74ef2d1ef39f5b198a2acc87"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base134-80410",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base134-80410",
+      "texture": 38875,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "1abb4fb0a742f935d8420ad7e6e5b942bee9754192617bf4c9ada38383f87501"
+    },
+    {
+      "name": "a16_faces-male-stage2-iris-base135-80422",
+      "path": "emoji/voltron/faces/face/stage 2 male/a16_faces-male-stage2-iris-base135-80422",
+      "texture": 38877,
+      "trait": 0,
+      "stage": 2,
+      "gender": 0,
+      "pixel_sha256": "fe6c6b7d16a6a42061cf0cbcd5d051170135d60e303554aaf00d5d5c9bc84074"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base100-80003",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base100-80003",
+      "texture": 38911,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "fe2fcee30595e5dd2dbae48c124241ab732df36a56b16cd5cc5ad129f82533ee"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base101-80015",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base101-80015",
+      "texture": 38913,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "2b170ba10bd1e170bf2761584377058f681cebd43c183c32ae3e1a7ef1c4b99f"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base102-80027",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base102-80027",
+      "texture": 38915,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "37d52fdec96f234d16e8c7cd344a7480ce29733625e9d81f8c4bc7c6eecbb644"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base103-80039",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base103-80039",
+      "texture": 38917,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "446645776dcc353652019b78b06f5c15c7d10e507f95f3d18ccc589466e41866"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base104-80051",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base104-80051",
+      "texture": 38919,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "5c86834a22b3b382758402498e6b2b8c85f9d289f18cf136db33907a2e9d2b1a"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base105-80063",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base105-80063",
+      "texture": 38921,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "3a2b7ec6b816784367b7548cd1285988bfe19502805f6d99a3c03329b9a0528e"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base106-80075",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base106-80075",
+      "texture": 38923,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "690242dc6261389d85a9a8c65b1eef004eb3a111b577dd7819eaf592b6344e17"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base107-80087",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base107-80087",
+      "texture": 38925,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "61ea0d66314527330c512ae7e96029daacca573bedd8cd163314970a555f02fc"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base108-80099",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base108-80099",
+      "texture": 38927,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "dc15d13a403c83f4256ccf4eabc95c63b016adc5efb38218667d15beb734960a"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base109-80111",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base109-80111",
+      "texture": 38929,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "2426f1689fab2c1005c8f2a2af1dea44b064bc63d9429b0c021434748afa0f64"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base110-80123",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base110-80123",
+      "texture": 38931,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "6ade4d1c8e0d536c205f5d89983925f66c5efc9ae7b95a93eab94d7a2cca951b"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base111-80135",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base111-80135",
+      "texture": 38933,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "6a2eae218e3bb7275ed7a077e98c6e314634c5fe2019d9d32b9226a5955b35a3"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base112-80147",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base112-80147",
+      "texture": 38935,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "f60d3acbd23b3cc80d12c868fc5c574755d0b7e983ae03de4d6ae014397fd66a"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base113-80159",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base113-80159",
+      "texture": 38937,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "e8a2172d51d690e2c81d612410cca07c73c44c991f1271e5f2aa4ec39286ce49"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base114-80171",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base114-80171",
+      "texture": 38939,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "dd4571b790af70f109badbc7a3c79895ff228f7971718e67a855dbc6183ac02f"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base115-80183",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base115-80183",
+      "texture": 38941,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "481582d47b53d11077bc3654f2e8a1157b218e400d29da6dbb00973d78e1bccb"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base116-80195",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base116-80195",
+      "texture": 38943,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "09015460e70740e8ece67f214ae1975e36c6eeb2b8312737f23829fa7246d2c2"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base117-80207",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base117-80207",
+      "texture": 38945,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "63543d171c0e05cf4fbecdbd94e2866c49d12573ab3e34d28d721c91b0d036fa"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base118-80219",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base118-80219",
+      "texture": 38947,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "bbc2242efa34ea002dc779c47fbc801d6b26addc2c0a95afc5c7331eace026f2"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base119-80231",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base119-80231",
+      "texture": 38949,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "0ba82e141e30fcb367b1fef8729e7d3e57697e3b4d5ffa73e296bff6042634ea"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base120-80243",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base120-80243",
+      "texture": 38951,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "fe1b1db72b1533bfc3a4d80c6c54c03a13710f37330551702f12b7343ce3779e"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base121-80255",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base121-80255",
+      "texture": 38953,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "d8e178f8512dda14b291cc78c3ec480e1824561ad03386cefaf8af787aae1230"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base122-80267",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base122-80267",
+      "texture": 38955,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "46a7abe9daf726838e454be0830b0f97b4db7d491fc782c8e6bfa5473f60ba78"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base123-80279",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base123-80279",
+      "texture": 38957,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "6a12c23d2835c538b37971dbd42c57add9c5c1023a3ee04035ebb758fae2865e"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base124-80291",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base124-80291",
+      "texture": 38959,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "866b83952bc9657fbc83a1bef2de8cca2cc22548322a1742941e20c7f2300944"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base125-80303",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base125-80303",
+      "texture": 38961,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "92e8273839f61d515340e325885dc0ed714dc7d8a0a572a1552d151fc0349f2c"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base126-80315",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base126-80315",
+      "texture": 38963,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "9d094f571923ddb3b9b710dd8fb51384273f47447e5f48ce7b154f10c8a0a588"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base127-80327",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base127-80327",
+      "texture": 38965,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "4a6853786f945ddb340c947429552c27fc0012087d8ee1c1d79cf1974ea6c455"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base128-80339",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base128-80339",
+      "texture": 38967,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "07bc09a6163fbdbef4ee599053d5015098f2d689b964149054516d014c69cc0e"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base129-80351",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base129-80351",
+      "texture": 38969,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "f158780ca41e927648ac9b83aa3cec0648f4a193d7ae18773978d15ecf5caf40"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base130-80363",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base130-80363",
+      "texture": 38971,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "f806548c58be559edd1ec2e5d3559c2ab534fb5129ca116c4efb166bb99f5808"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base131-80375",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base131-80375",
+      "texture": 38973,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "68102758ad7492ebcf00bb5a410cb48ad031542c9b1f08051e50c842f10a852c"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base132-80387",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base132-80387",
+      "texture": 38975,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "29437a62d9d23da5a8b0bf41eaef4b9a95f9d673bdb247e82ebcfab46321b233"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base133-80399",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base133-80399",
+      "texture": 38977,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "98863532c5cab443f6db739528902ac2f180acab6fefa3f1a37815c75293edd2"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base134-80411",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base134-80411",
+      "texture": 38979,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "6bf719d6b61a4f6d0a440c72c1af0ca7f0f338f04030ddfb8e7d9bc6e4cad959"
+    },
+    {
+      "name": "a16_faces-male-stage3-iris-base135-80423",
+      "path": "emoji/voltron/faces/face/stage 3 male/a16_faces-male-stage3-iris-base135-80423",
+      "texture": 38981,
+      "trait": 0,
+      "stage": 3,
+      "gender": 0,
+      "pixel_sha256": "1e49c9dac5dbf8a505e0dea9836d06064aa9511433ea4663bc788c9045ce72a9"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base100-80004",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base100-80004",
+      "texture": 38911,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "fe2fcee30595e5dd2dbae48c124241ab732df36a56b16cd5cc5ad129f82533ee"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base101-80016",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base101-80016",
+      "texture": 38913,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "2b170ba10bd1e170bf2761584377058f681cebd43c183c32ae3e1a7ef1c4b99f"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base102-80028",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base102-80028",
+      "texture": 38915,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "37d52fdec96f234d16e8c7cd344a7480ce29733625e9d81f8c4bc7c6eecbb644"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base103-80040",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base103-80040",
+      "texture": 38917,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "446645776dcc353652019b78b06f5c15c7d10e507f95f3d18ccc589466e41866"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base104-80052",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base104-80052",
+      "texture": 38919,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "5c86834a22b3b382758402498e6b2b8c85f9d289f18cf136db33907a2e9d2b1a"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base105-80064",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base105-80064",
+      "texture": 38921,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "3a2b7ec6b816784367b7548cd1285988bfe19502805f6d99a3c03329b9a0528e"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base106-80076",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base106-80076",
+      "texture": 38923,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "690242dc6261389d85a9a8c65b1eef004eb3a111b577dd7819eaf592b6344e17"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base107-80088",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base107-80088",
+      "texture": 38925,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "61ea0d66314527330c512ae7e96029daacca573bedd8cd163314970a555f02fc"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base108-80100",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base108-80100",
+      "texture": 38927,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "dc15d13a403c83f4256ccf4eabc95c63b016adc5efb38218667d15beb734960a"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base109-80112",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base109-80112",
+      "texture": 38929,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "2426f1689fab2c1005c8f2a2af1dea44b064bc63d9429b0c021434748afa0f64"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base110-80124",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base110-80124",
+      "texture": 38931,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "6ade4d1c8e0d536c205f5d89983925f66c5efc9ae7b95a93eab94d7a2cca951b"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base111-80136",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base111-80136",
+      "texture": 38933,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "6a2eae218e3bb7275ed7a077e98c6e314634c5fe2019d9d32b9226a5955b35a3"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base112-80148",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base112-80148",
+      "texture": 38935,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "f60d3acbd23b3cc80d12c868fc5c574755d0b7e983ae03de4d6ae014397fd66a"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base113-80160",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base113-80160",
+      "texture": 38937,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "e8a2172d51d690e2c81d612410cca07c73c44c991f1271e5f2aa4ec39286ce49"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base114-80172",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base114-80172",
+      "texture": 38939,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "dd4571b790af70f109badbc7a3c79895ff228f7971718e67a855dbc6183ac02f"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base115-80184",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base115-80184",
+      "texture": 38941,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "481582d47b53d11077bc3654f2e8a1157b218e400d29da6dbb00973d78e1bccb"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base116-80196",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base116-80196",
+      "texture": 38943,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "09015460e70740e8ece67f214ae1975e36c6eeb2b8312737f23829fa7246d2c2"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base117-80208",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base117-80208",
+      "texture": 38945,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "63543d171c0e05cf4fbecdbd94e2866c49d12573ab3e34d28d721c91b0d036fa"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base118-80220",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base118-80220",
+      "texture": 38947,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "bbc2242efa34ea002dc779c47fbc801d6b26addc2c0a95afc5c7331eace026f2"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base119-80232",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base119-80232",
+      "texture": 38949,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "0ba82e141e30fcb367b1fef8729e7d3e57697e3b4d5ffa73e296bff6042634ea"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base120-80244",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base120-80244",
+      "texture": 38951,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "fe1b1db72b1533bfc3a4d80c6c54c03a13710f37330551702f12b7343ce3779e"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base121-80256",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base121-80256",
+      "texture": 38953,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "d8e178f8512dda14b291cc78c3ec480e1824561ad03386cefaf8af787aae1230"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base122-80268",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base122-80268",
+      "texture": 38955,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "46a7abe9daf726838e454be0830b0f97b4db7d491fc782c8e6bfa5473f60ba78"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base123-80280",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base123-80280",
+      "texture": 38957,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "6a12c23d2835c538b37971dbd42c57add9c5c1023a3ee04035ebb758fae2865e"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base124-80292",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base124-80292",
+      "texture": 38959,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "866b83952bc9657fbc83a1bef2de8cca2cc22548322a1742941e20c7f2300944"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base125-80304",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base125-80304",
+      "texture": 38961,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "92e8273839f61d515340e325885dc0ed714dc7d8a0a572a1552d151fc0349f2c"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base126-80316",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base126-80316",
+      "texture": 38963,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "9d094f571923ddb3b9b710dd8fb51384273f47447e5f48ce7b154f10c8a0a588"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base127-80328",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base127-80328",
+      "texture": 38965,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "4a6853786f945ddb340c947429552c27fc0012087d8ee1c1d79cf1974ea6c455"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base128-80340",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base128-80340",
+      "texture": 38967,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "07bc09a6163fbdbef4ee599053d5015098f2d689b964149054516d014c69cc0e"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base129-80352",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base129-80352",
+      "texture": 38969,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "f158780ca41e927648ac9b83aa3cec0648f4a193d7ae18773978d15ecf5caf40"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base130-80364",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base130-80364",
+      "texture": 38971,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "f806548c58be559edd1ec2e5d3559c2ab534fb5129ca116c4efb166bb99f5808"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base131-80376",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base131-80376",
+      "texture": 38973,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "68102758ad7492ebcf00bb5a410cb48ad031542c9b1f08051e50c842f10a852c"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base132-80388",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base132-80388",
+      "texture": 38975,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "29437a62d9d23da5a8b0bf41eaef4b9a95f9d673bdb247e82ebcfab46321b233"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base133-80400",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base133-80400",
+      "texture": 38977,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "98863532c5cab443f6db739528902ac2f180acab6fefa3f1a37815c75293edd2"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base134-80412",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base134-80412",
+      "texture": 38979,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "6bf719d6b61a4f6d0a440c72c1af0ca7f0f338f04030ddfb8e7d9bc6e4cad959"
+    },
+    {
+      "name": "a16_faces-male-stage4-iris-base135-80424",
+      "path": "emoji/voltron/faces/face/stage 4 male/a16_faces-male-stage4-iris-base135-80424",
+      "texture": 38981,
+      "trait": 0,
+      "stage": 4,
+      "gender": 0,
+      "pixel_sha256": "1e49c9dac5dbf8a505e0dea9836d06064aa9511433ea4663bc788c9045ce72a9"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base100-80005",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base100-80005",
+      "texture": 39056,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "e4e47cbffff81406f7953c999aceea78d0834b5f22a2c0516d479663e34a00ad"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base101-80017",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base101-80017",
+      "texture": 39058,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "43b5536540be831bf5a50c84ea9ea8697a0f1305fd276f9d13207ae02feab17e"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base102-80029",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base102-80029",
+      "texture": 39060,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "40dcf7bef2669d99861365e8a62f5b19032e73f1820f137c9c251991c02459ba"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base103-80041",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base103-80041",
+      "texture": 39062,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "4d617360b4a8be7d50a2e0a62b408bc34398add2f511a824de03f1da66dbe9ef"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base104-80053",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base104-80053",
+      "texture": 39064,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "e18fdaf8c13e79cebdc7611ea61d799274115b26998f0839c9f04ed91aef1b30"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base105-80065",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base105-80065",
+      "texture": 39066,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "61c8d8ea7fe06968e14fb6f78a2499b6b396dc99bf5bbdfbddfb5234f071d45d"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base106-80077",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base106-80077",
+      "texture": 39068,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "c3eea112699d4c82f1a52ceff0b1cecbd9f3ed276442acf94b93484686114aaf"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base107-80089",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base107-80089",
+      "texture": 39070,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "23bb98c79e74462cff23635f4d9e39767b215653df5a440194d5ba143a076fe0"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base108-80101",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base108-80101",
+      "texture": 39072,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "6632ac5a9ee4399bd5738c42fb2883b15b001283cce168713e09678b74fe831b"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base109-80113",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base109-80113",
+      "texture": 39074,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "e1a0abc26e9c1854805c06365b636c7a2c6e2b6eea540d6021e8c80dbecbca70"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base110-80125",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base110-80125",
+      "texture": 39076,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "aae7d6539306c8830f8e901277fce2a62966af5d01175a7633a289a4e27d5317"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base111-80137",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base111-80137",
+      "texture": 39078,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "140cc08717a1bf9442cd6463bc03087f9cf8ca1bc2fdd43cc164ee507b8a00ca"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base112-80149",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base112-80149",
+      "texture": 39080,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "9f7e187129406e18c4b8e8f1072c901617e10d2cdf39fafc8e70ac0d4b8c1caa"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base113-80161",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base113-80161",
+      "texture": 39082,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "87dc5d893efefc3a71acc2a46bc1bfaa718938cec4b2375e39415209b6fc185d"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base114-80173",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base114-80173",
+      "texture": 39084,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "79410ca2581e160991d82d1980eadefe54e1bb4278a5067988a0901fcb953467"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base115-80185",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base115-80185",
+      "texture": 39086,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "7ab308e99ec5d24ca9f51fae009c42bb581fefad348389da6d318cb7d40c24b8"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base116-80197",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base116-80197",
+      "texture": 39088,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "0242931f7c54e5e94b72d9130fee9097305e74454ea2c5aee74a758cf6ea9215"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base117-80209",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base117-80209",
+      "texture": 39090,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "9c6798fd3d4eef0da94a7489fba27d902430c091404cc755334a67a98f374e90"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base118-80221",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base118-80221",
+      "texture": 39092,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "aad58caaaeaa6ec41b3c6a47e7a9ed08a486344a96756e48e4ae032206916506"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base119-80233",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base119-80233",
+      "texture": 39094,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "7ea3c5f937d2c8dc30f34dfa29a6596cb262d0a6318ccb6430519b8e4c479da3"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base120-80245",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base120-80245",
+      "texture": 39096,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "5042c3a44624ba4367329188287dcfee89bdea790cfc49e3f461186b3a1b41bb"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base121-80257",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base121-80257",
+      "texture": 39098,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "a10003f05ff575a1eddcbc63b417672490297b0e247a8b76c5431ec31c94a65d"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base122-80269",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base122-80269",
+      "texture": 39100,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "adeadb22827783ea7c5864225570e05a02184e69731fbfb15ce99185b13f1fda"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base123-80281",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base123-80281",
+      "texture": 39102,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "cfee2747c553057fee07cef41d055a892ba90c69b59d06c3062db23dd1dd1000"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base124-80293",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base124-80293",
+      "texture": 39104,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "8b8f904113d616ba9380c4a8a67cc01167f238f737c8761cfb6ec321faeb78ed"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base125-80305",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base125-80305",
+      "texture": 39106,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "260f50ea80ccce9568d7525b9ef0a38bd7ddcb2b4244b91fba99cb715017edae"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base126-80317",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base126-80317",
+      "texture": 39108,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "1bb010c898d97c8bc18e7ddf31ebf876e256f478da26dbff3df49eb1623068c7"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base127-80329",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base127-80329",
+      "texture": 39110,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "defe8c55641bfdc61f1c309598d012d21f3c6c01ae9bc230d49d441143413e1d"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base128-80341",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base128-80341",
+      "texture": 39112,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "61d4f9b2d52e3da635523f9afde4ebd13546f3b81851570c81b086dedf9975bb"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base129-80353",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base129-80353",
+      "texture": 39114,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "0c0fe7886053ddf58255b26240e0090091d5ff632886554df6be96baea1ee253"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base130-80365",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base130-80365",
+      "texture": 39116,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "7428ac064d851220dd0b897260f6f13198b0b5fa07c829e237fd90c2ea0a9d45"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base131-80377",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base131-80377",
+      "texture": 39118,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "94c3bd2344b173ca60804955d413e52e04e7aaf4aa4c6f35ba29b17c9a35d977"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base132-80389",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base132-80389",
+      "texture": 39120,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "bddd3bc88eac4b9cda2505bee0bda43ac8c7319b3d3b94236e310077fc59627a"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base133-80401",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base133-80401",
+      "texture": 39122,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "c389a4b4151aa31858f3b8db6c6f9b796d7fb8b7e648aba165da30e063772833"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base134-80413",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base134-80413",
+      "texture": 39124,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "730a8e36fd7c1cf61cbd5fc077cb1eeae6d75f2d8230fed3febbe98523f30e72"
+    },
+    {
+      "name": "a16_faces-male-stage5-iris-base135-80425",
+      "path": "emoji/voltron/faces/face/stage 5 male/a16_faces-male-stage5-iris-base135-80425",
+      "texture": 39126,
+      "trait": 0,
+      "stage": 5,
+      "gender": 0,
+      "pixel_sha256": "6e8aeb92e371be1b777d0c965374aaf0b2399d2e9dad99a8300f6a2014a4227f"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base100-80006",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base100-80006",
+      "texture": 38599,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "f661aad99392fb301d82cd4c431d560f65e25def037952ed2d7e42fe59322c91"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base101-80018",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base101-80018",
+      "texture": 38601,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "214e73bc9e4f94a2626b5d096851002a9b343c71137bf47b13a0026b87445a11"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base102-80030",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base102-80030",
+      "texture": 38603,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "8b1636990c8c5075c9ca8c7105319c9ac2535b5487b151c6ce293e25009be120"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base103-80042",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base103-80042",
+      "texture": 38605,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "dace14ecc606ff0b982a52e5b599c55dcc94f826d5dfed20f2e870e78caa410c"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base104-80054",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base104-80054",
+      "texture": 38607,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "6c4ca898fe20b5f7dfed8c88042d158d3f9d903db108985e352efaccc8748370"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base105-80066",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base105-80066",
+      "texture": 38609,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "87a7557e66c82512b58cd5d8e8fdd22794b7d496da4322355e3f82a8c03d73ae"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base106-80078",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base106-80078",
+      "texture": 38611,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "6d5ebc526ed876057b2c927554cc475020ba15bd42176154ac292d31f3b949ef"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base107-80090",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base107-80090",
+      "texture": 38613,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "808fc736ac76d1808710d6e439b3a2db7bb0216ee5b872792429ef7f561c0841"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base108-80102",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base108-80102",
+      "texture": 38615,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "0f6981903bdd94090bd015d07632d4fba2740b78a955741256de9469dbb5e317"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base109-80114",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base109-80114",
+      "texture": 38617,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "722eded0451aab8e277a48cbbd1755c71429cbf513495e6c9786847da7cd2d60"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base110-80126",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base110-80126",
+      "texture": 38619,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "8f5186d1edbb2209c1e546e7b9a1879d0cfeb08f796e6bedc433214cf2ef0851"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base111-80138",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base111-80138",
+      "texture": 38621,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "db76bba22b94f1ea28efc23aa6194ee709fab8e9ece248557332f32431219e85"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base112-80150",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base112-80150",
+      "texture": 38623,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "ce752d0e52275f7f0792f68bc0924eab9ab7962cee58fc303cd43bbe6ab6caf2"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base113-80162",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base113-80162",
+      "texture": 38625,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "207bb1c1e855931fb348c63cf39257553e27adf22d32fd191562cc691148007f"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base114-80174",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base114-80174",
+      "texture": 38627,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "598ef7a81459544a435bfd33be20b3adfb61e03448300a9d2d99cb7805c9e3a1"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base115-80186",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base115-80186",
+      "texture": 38629,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "afa798034d4c5de02e639151254ecdcada17ab80bb7aca9f679321a53b9df54b"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base116-80198",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base116-80198",
+      "texture": 38631,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "bf266184f93cfe3471887c99a089ed82ecc0e48ab4fded9adc82ec4f1278b1da"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base117-80210",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base117-80210",
+      "texture": 38633,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "7165a967b727e0b5e1c81ed985fc479abe4de7ff895c6fdaa426d1ebb6f19555"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base118-80222",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base118-80222",
+      "texture": 38635,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "8dcbcd29dd6fe9d846b841a81b11da252e7b32d673078209d214f0b9927fc90d"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base119-80234",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base119-80234",
+      "texture": 38637,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "fb0f8d7267c6161544431b17a90bc459492f7b7694f84185f5714c8489a7e7dc"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base120-80246",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base120-80246",
+      "texture": 38639,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "ff261bbafceb704aa9fb68374b5ef3c1069560a7be07716f1c73a0f1c5295652"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base121-80258",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base121-80258",
+      "texture": 38641,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "9320fd62ad6fd9d3c5f1b0315c16a3e3644b38f7217394be06f08a971870b669"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base122-80270",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base122-80270",
+      "texture": 38643,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "0bd642b69efce05ab50c3c4e4f7bb366674ad7a266cf6f30aebcb886f1201994"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base123-80282",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base123-80282",
+      "texture": 38645,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "96162c0dd336c6cd19aed167332babc57d005b9e441ea593a3d59584f90b91f0"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base124-80294",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base124-80294",
+      "texture": 38647,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "f39ffabc50541cf98121b428cb9f7e2e2a142225c046e9bf79565479ea184a58"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base125-80306",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base125-80306",
+      "texture": 38649,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "593c656f80dac7c07e3921a03e40cc34aee2ad8790e1b9f110357c230ab20585"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base126-80318",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base126-80318",
+      "texture": 38651,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "5d2e85dff9c8a4af2e767b0882ec11857e298f3d9955b2c96e658244652bceaa"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base127-80330",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base127-80330",
+      "texture": 38653,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "ff7666ce4942beba86eb1a5216f1d1dca6742b0a8767de18636f0239a802f134"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base128-80342",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base128-80342",
+      "texture": 38655,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "0bc4c5c7a661fb680fdb846ddf1ca3e9fa808fb13102be6f101bbed801a3cf15"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base129-80354",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base129-80354",
+      "texture": 38657,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "0cf5615860e176688f20a475da49987d28ce7959c4a6252c21712af87cb7c9b9"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base130-80366",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base130-80366",
+      "texture": 38659,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "d72f0741e65a6e0969e0cbdbad0eaece546326560a1711e74732f89020311287"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base131-80378",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base131-80378",
+      "texture": 38661,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "ba751d9bad86876cef702b0a310ce0a14cbbd95a00dea4f64ecbd30e0edb2e0f"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base132-80390",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base132-80390",
+      "texture": 38663,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "45a2b3936e5f81966459d717be0fdf79e5912077f182eec40cd675327b7012d6"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base133-80402",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base133-80402",
+      "texture": 38665,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "984bad31955957e02a15fda0e5ab558a098d1c0ef9c485f0424843eb1041deb6"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base134-80414",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base134-80414",
+      "texture": 38667,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "5de36b96c8e091670e46475a33d6255950dedb14f87a28b0e9fca565f0f21bd7"
+    },
+    {
+      "name": "a16_faces-female-stage0-iris-base135-80426",
+      "path": "emoji/voltron/faces/face/stage 0 female/a16_faces-female-stage0-iris-base135-80426",
+      "texture": 38669,
+      "trait": 0,
+      "stage": 0,
+      "gender": 1,
+      "pixel_sha256": "ff6b46059cbef4d6703fd16787ed576f919fc5516be6a2beab2e0283a4d95727"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base100-80007",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base100-80007",
+      "texture": 38703,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "adab24af73201ecb2bc73004fce87d7665199434d33d31138fd570ef655b2b19"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base101-80019",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base101-80019",
+      "texture": 38705,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "5457dcec3a2c5c4465de55daa3caf76c4948d41bf6a3d7afca35d23f8312f977"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base102-80031",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base102-80031",
+      "texture": 38707,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "360b6148ac3ed3577d7276e7637883ec42749f525a35a37554b93e5f05790c7e"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base103-80043",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base103-80043",
+      "texture": 38709,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "b8b2b142f3ada5157fb03a180319a2fcd8471186835fdfd6ed16843b4775204f"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base104-80055",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base104-80055",
+      "texture": 38711,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "b965c6b2ec8b39099be65b55b5aa7c0018c6112c5d34f1fe61cb97dbac861c76"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base105-80067",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base105-80067",
+      "texture": 38713,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "b2da74519895f42f595e37a4d94adbe88abaf34cbbb6c9d1799f7c7bd2c1b482"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base106-80079",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base106-80079",
+      "texture": 38715,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "771c177f0b68e5d5b56fe7a9d0d8cbc041294e44fcffd603bed4d82372c6ee08"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base107-80091",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base107-80091",
+      "texture": 38717,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "735bdaf1380e4701e819b9437b3ee26d0bc680391c4ab7cdb2d240ec53f5426a"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base108-80103",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base108-80103",
+      "texture": 38719,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "63689885b1ba4b75e7afa2d8bc74ed2c203fa39e7e6a4c8f4b486c20c8e4eed7"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base109-80115",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base109-80115",
+      "texture": 38721,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "cbbeb57e15a3d53d59105a0608f9989f3c67013cb41c9c25e684bccc6356a699"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base110-80127",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base110-80127",
+      "texture": 38723,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "3c0a3f2655f1bb9072f9f080bd1d9669a27f10162e174308e80e98cafe182cd5"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base111-80139",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base111-80139",
+      "texture": 38725,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "2c0ce123987ded61bab466d65306782b921eee81a5155e7f0eab2eb11f8579cc"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base112-80151",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base112-80151",
+      "texture": 38727,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "23972f529b70809b0a575e43ac5f50cedd5875ee9c44d8a50e5a57046ab39b34"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base113-80163",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base113-80163",
+      "texture": 38729,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "b96e5d12b4b6e94a9ee054796cecac55294f8d90579d9921032e6a687b1e246a"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base114-80175",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base114-80175",
+      "texture": 38731,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "1b1d5560ee96a8fe3bdfa7d342812953e4c7db35e7d5425c8b0f5d949290b365"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base115-80187",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base115-80187",
+      "texture": 38733,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "fa4392524040aa09d650ec00024817cd93dd12884b8f8a32d56221c9f8a7d61d"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base116-80199",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base116-80199",
+      "texture": 38735,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "896ed91fddd263873abb6ab3b00e2fca0bbadc61d37a2d7d6cd33d3b7a8594d9"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base117-80211",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base117-80211",
+      "texture": 38737,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "9673bf11143222351ae563c994e64d56ea7bfdb593225362e34f6643ce57f6bc"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base118-80223",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base118-80223",
+      "texture": 38739,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "2cc515794c7663991fcbe4820eb08129853fac2463ca892adaa3812318e8d7f8"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base119-80235",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base119-80235",
+      "texture": 38741,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "0ab0ce69ba4013f50d89d87d7a6652e634efc2f233d8514ffbfebb7fb46ec268"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base120-80247",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base120-80247",
+      "texture": 38743,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "6c31bb52ee0d6298287c585bdda4794a2381932f0991ad117070a28b4e5b2906"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base121-80259",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base121-80259",
+      "texture": 38745,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "95b9e5541b8c1546336ee92450779b4fccd763b0143ae508c8a05442fb9e89cc"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base122-80271",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base122-80271",
+      "texture": 38747,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "1ed2883251c8c2ab8e12e1c57319fd8f581f1f54c6ae64bdf3ebbc4ce9f5edbe"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base123-80283",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base123-80283",
+      "texture": 38749,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "f10c3ac0815287406416caf7dc078b782adc049990561f420636dd59ca9fa95f"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base124-80295",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base124-80295",
+      "texture": 38751,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "fbb260ddff4b44164dcdfc9c4a06294c359e2ec9f666d1e0facd76bee141d709"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base125-80307",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base125-80307",
+      "texture": 38753,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "b1547eac1b38d45503d996f1223fe54f347c067d48c7b72f94b87cd6311b8570"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base126-80319",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base126-80319",
+      "texture": 38755,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "973b5687222dc4903a77b73d8519a1bcce61ebc1d9cdf5f0e06385a1aa6e5342"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base127-80331",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base127-80331",
+      "texture": 38757,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "ade50aedebe983d02f131b04b8c50b0872f1984c47a605395c42aeb932765348"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base128-80343",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base128-80343",
+      "texture": 38759,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "25ab7ecfdd92c53c476c6ac1a8ade59cc16b7b8a43d8c96e12da9cccdac4c638"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base129-80355",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base129-80355",
+      "texture": 38761,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "26fa04a3a8afe4acab97108732076fb1ff0edc7907e64baf0d3dca969eff54be"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base130-80367",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base130-80367",
+      "texture": 38763,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "438d8a821f2bb776db61e86a8fd1791d16e3aaf3b89831737962c79dbe6cbb02"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base131-80379",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base131-80379",
+      "texture": 38765,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "b4aedd301afbf0ee60ab7c84976d7114fe23b26d966c48f2dc4a559be4a40852"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base132-80391",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base132-80391",
+      "texture": 38767,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "eae4012608f74b28f4674b471a3d1eadb6e9bc1a9c7652826aae2e6cbe8ce6a7"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base133-80403",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base133-80403",
+      "texture": 38769,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "39f770a4e15234bf95142ab63ca640a1b1c693de1ebb3a9b622e5b44da9225bc"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base134-80415",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base134-80415",
+      "texture": 38771,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "b267c34135ae4b0016768217706e309273d97123df266520fdd509bede3951ee"
+    },
+    {
+      "name": "a16_faces-female-stage1-iris-base135-80427",
+      "path": "emoji/voltron/faces/face/stage 1 female/a16_faces-female-stage1-iris-base135-80427",
+      "texture": 38773,
+      "trait": 0,
+      "stage": 1,
+      "gender": 1,
+      "pixel_sha256": "eb4948cfe0fcd297561887396f144dd4ea9f38a8e54f6125246fcfd4a8f0b344"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base100-80008",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base100-80008",
+      "texture": 39249,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "0039d30ad2acbf745961f286ae5f0230701187cd577ab8506a9f8915a716e145"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base101-80020",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base101-80020",
+      "texture": 39251,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "5c03b89e8d46913e73fd0783f62cb2b5189ee22613d4021d385f24bb15e9fcde"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base102-80032",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base102-80032",
+      "texture": 39253,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "a067e744cf162b383d57053096b6b8fc8d28f178606664d894c2b646b96dcc32"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base103-80044",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base103-80044",
+      "texture": 39255,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "b9c079e01d655f364e092cdce8245cdc14ea151de2c23c2a6ac18189726e6e2d"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base104-80056",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base104-80056",
+      "texture": 39257,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "199ee1298964a099eeb81074f7ecfc3bc412e3191d49f00e2aa1702f1d24a6cb"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base105-80068",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base105-80068",
+      "texture": 39259,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "a923ae4835d4d6aa443a96cb9d786e76c3dbd5d44cef59f426e51a17a730a7c9"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base106-80080",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base106-80080",
+      "texture": 39261,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "1ed4efdeea16b82bafb7a3affe02c164b5ce4eaa70b0e620548d3e538335475c"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base107-80092",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base107-80092",
+      "texture": 39263,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "8c39df6bc9a65fadac392770036268b3db2793b3c40d66673cb4bbdf737f830f"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base108-80104",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base108-80104",
+      "texture": 39265,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "8e2fe5ae386021b1d21d349ac9106c521367efd1638aacac0e0e80f82b2b2d23"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base109-80116",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base109-80116",
+      "texture": 39267,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "512d2c1da0019b6ef4aa83530937896f010258e17a1d0818fb5e32c5bf36a9e4"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base110-80128",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base110-80128",
+      "texture": 39269,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "24ff418927eaf70608b9fbf72a19a692327351c4c08b631add78b2033599959b"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base111-80140",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base111-80140",
+      "texture": 39271,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "83e2d3d18eb6d2520d31f978bb42fe0dfe2e3d75ad6b1c6c93b0b8896f2ae88c"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base112-80152",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base112-80152",
+      "texture": 39273,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "c928bc574c3b4ffa84082c325c5d891ab5d0c3fb7e3dc42640edb76c35e8e2fc"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base113-80164",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base113-80164",
+      "texture": 39275,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "7aac53e312a6a2901de96f3e627bd6caeeacce5ad6472dec1ebb66f135e78947"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base114-80176",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base114-80176",
+      "texture": 39277,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "1cb418899ca4990e9c43598199f390d1082fde3ccf5742ab7b9395dd9f960664"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base115-80188",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base115-80188",
+      "texture": 39279,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "b3fa9e05ea82b662e0ec2aca5428f077102a88d7f625f8cfd8bbf2cf8b4308d2"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base116-80200",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base116-80200",
+      "texture": 39281,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "a17eb478a32fd0f02822ffa2243d14b936f49b642e6ab933e55dd52041c5141d"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base117-80212",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base117-80212",
+      "texture": 39283,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "f052adb42c8e741da8bc97f764a8eed53c550654ba57c3dcef8db04819aea1a1"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base118-80224",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base118-80224",
+      "texture": 39285,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "321fe7793bf35acb900381792212773c5ff13e206654f22542f31cda95633c9b"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base119-80236",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base119-80236",
+      "texture": 39287,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "979255d90d26747b3f7f1b427d67b0b7e8020c0c7c31028131e9468f7c78788f"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base120-80248",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base120-80248",
+      "texture": 39289,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "3dd52c275387dfdccc3da2b22c1ad2acdf4a0ac9345acbee1b6ff6e0063c1f49"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base121-80260",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base121-80260",
+      "texture": 39291,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "deedae8e0f9219915650b388992133db77affe92516a3a4e6746a50155611eae"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base122-80272",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base122-80272",
+      "texture": 39293,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "4729ef290631fcd5b29aec4caf272c5544312c7214f97f2d26dc772faf62f9bb"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base123-80284",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base123-80284",
+      "texture": 39295,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "63249ebf3d249ad3cb2bf4e97b1312222afa5411b81e47da7910fd1fc7c04ed1"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base124-80296",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base124-80296",
+      "texture": 39297,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "43ffa97d23d14d3a23f1f5c979378e743b1621d7d53c868f794695bc0672a005"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base125-80308",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base125-80308",
+      "texture": 39299,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "c0ea5e308765809a20956ad2dbcdaeccc0783bcef7d17b9a178171a75c0e6536"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base126-80320",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base126-80320",
+      "texture": 39301,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "2e8720cb69e769fd75e52432e934fd36050c1b772b98da305a64dbc12493594b"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base127-80332",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base127-80332",
+      "texture": 39303,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "f16b18b098d09861c37c8d97881521d277efebf14e4dae11511b9ea41d477292"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base128-80344",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base128-80344",
+      "texture": 39305,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "97fae8855c76ec8fb8c57e85819b5b672fc0786096ada5d42fa7374a92d0c4d4"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base129-80356",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base129-80356",
+      "texture": 39307,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "fbb03c1b964eead601d2a09cea76eca75c4667ce50e922839f6735d4da57f09d"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base130-80368",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base130-80368",
+      "texture": 39309,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "a6fb06f2375320365bedeab6b856a66334aaa6d85119f418712512d9482368a8"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base131-80380",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base131-80380",
+      "texture": 39311,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "596ada967563f9b1cbd8dc2adf45c9af81ac07ef934812110344c8230e8ff88e"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base132-80392",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base132-80392",
+      "texture": 39313,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "9e9376d9723501537cccd68d5811d7869cd351dd07359e6fbeebdc645ab9656d"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base133-80404",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base133-80404",
+      "texture": 39315,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "d005d0b69def221007b2c4a84231dca50b78dac5eb4af3a6857cfa614d13b4b1"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base134-80416",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base134-80416",
+      "texture": 39317,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "65067efca860cbb4a6d0812377da7b87574860f9e519b6c9f3579ce583286cea"
+    },
+    {
+      "name": "a16_faces-female-stage2-iris-base135-80428",
+      "path": "emoji/voltron/faces/face/stage 2 female/a16_faces-female-stage2-iris-base135-80428",
+      "texture": 39319,
+      "trait": 0,
+      "stage": 2,
+      "gender": 1,
+      "pixel_sha256": "8840530e786d8b2c5c373015b817fd45af38f9e514a0d5a2414ad84d89bb6ce8"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base100-80009",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base100-80009",
+      "texture": 39353,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "75d42e23e2f234013ef0dfce4ca45a48c9a56535128576b2f3f547d1de4e25f3"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base101-80021",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base101-80021",
+      "texture": 39355,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "f412cef547c873127f38c104be183e9a546820dfaf37dc39bfd27f28109a5c3d"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base102-80033",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base102-80033",
+      "texture": 39357,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "9a1b81126a8b98198f30418ca493047aca781b51db2886e35967a88dcc23b422"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base103-80045",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base103-80045",
+      "texture": 39359,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "f73507cb78002c0fcb8d70a5cf1924fcc9f41d968839a0ca5842013cac76cd6e"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base104-80057",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base104-80057",
+      "texture": 39361,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "b11ba67f617ed15f4d2b2932ebc86e98e98cc742061ab1c4c499ef7f54e56c44"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base105-80069",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base105-80069",
+      "texture": 39363,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "228318b0d87555655259be2f413c120062256317a67c5ea3356002b4dc2a1029"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base106-80081",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base106-80081",
+      "texture": 39365,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "adfe94f17af0c72c208ac8be7be045cfce4a25238513f32e520a346310ba8668"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base107-80093",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base107-80093",
+      "texture": 39367,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "981bbd98a8ae42ebec2283e51113b8901b9f07a902c8c104f6969642e2ea9059"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base108-80105",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base108-80105",
+      "texture": 39369,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "d9e9d59bf1a71203e986a808d3af0f68b1dcf4807586db0508789030b65a4a1d"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base109-80117",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base109-80117",
+      "texture": 39371,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "3ed94371aee83559ee874338d1943d9ae5af6225bfb9a0a76bed97e6ba9b4de1"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base110-80129",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base110-80129",
+      "texture": 39373,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "a8a6069aa004bc857c9cee2e3696cf56ee1c24918d0b6ae9bad4d4ebc88280ac"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base111-80141",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base111-80141",
+      "texture": 39375,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "1feb5312b7b98c11b185ba047a2d6608645b92f0566a5cc7cf519f78b4e30b3f"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base112-80153",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base112-80153",
+      "texture": 39377,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "aa8a7402e954e8d726819d511586c695af3ac1da77c2b48f103e98371d6a1efa"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base113-80165",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base113-80165",
+      "texture": 39379,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "6c068a215808c52bc0f05e2d0aec68b5a683f453a63735b26dea623c3ec0e7c3"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base114-80177",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base114-80177",
+      "texture": 39381,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "ce8032b768c7a459ab754b9817ed7b04ffdff2e4f14cfc9769dd8b3c284f1f1a"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base115-80189",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base115-80189",
+      "texture": 39383,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "7e5110f01470f618e83cc491e9ebf460b2849d24c43074d3ab3fca04a23a30cc"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base116-80201",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base116-80201",
+      "texture": 39385,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "eed939568e38aa83e65968be60c66c4f174b2c3d7a91b14bc3ac968d4d3236a7"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base117-80213",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base117-80213",
+      "texture": 39387,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "a7534212c01e680df4ad21eba4032e5fb2e25f93bfa254d1852ee36cbe001975"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base118-80225",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base118-80225",
+      "texture": 39389,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "8d41a271bac5a946215bda348bd65b7bd966299b9d61a275f6bb8092358da335"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base119-80237",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base119-80237",
+      "texture": 39391,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "8d56a43d949dff8a919f27958e02218ba84fcb678794914fecf0b55bb29b7b39"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base120-80249",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base120-80249",
+      "texture": 39393,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "0e97fffe2868c729324b91c77ec32c9a90f74a5994bf6cd99527dc35dfd91110"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base121-80261",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base121-80261",
+      "texture": 39395,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "145a87858d15c5f3c84308813a0f18427460d5d83a3d8066f5bc67c11c18a97f"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base122-80273",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base122-80273",
+      "texture": 39397,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "ff86fd3bfabe11968b1a9bcefcd764c21c6342aa2f741ddc423eb5ee7f20383a"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base123-80285",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base123-80285",
+      "texture": 39399,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "027b2d1ee30e8666cc5c45d82d5e66fb68c38bf420535029ea4598e3aabc0ebe"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base124-80297",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base124-80297",
+      "texture": 39401,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "eec98e9666ca1d6111dee1e1645b145f2d6fd402420e5cf9dfb9e93b8b6e7022"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base125-80309",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base125-80309",
+      "texture": 39403,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "875302def01c906ed2a555e9cce28eaf8b870a9be37371a1bc665a04b2bfbfa1"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base126-80321",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base126-80321",
+      "texture": 39405,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "31fef3a3ec0a2417bb8b9f357d72fe231dfd59a144e3423a5eaf788a2c4ecf20"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base127-80333",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base127-80333",
+      "texture": 39407,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "6a6b1d27c5cdc7fed64392f5c39d3efd7a35bee0a9fc30ad9ae1fdf230314228"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base128-80345",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base128-80345",
+      "texture": 39409,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "c828523bb7259d36187ef7d80b95272a9d0f437d7e4ced0c8d8a5cb043e9545a"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base129-80357",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base129-80357",
+      "texture": 39411,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "94514c126af10723bbe97a264606397134353f64c1f4eae11b957e18470de7ec"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base130-80369",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base130-80369",
+      "texture": 39413,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "d48ff88e5f222573a67978f2b68c14fedc079a70fc19a3eba54fbad79a0cee54"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base131-80381",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base131-80381",
+      "texture": 39415,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "6c21599abfad69a3d24f68b95943f7830471c3f07b3b724cba3d414a7dacae2d"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base132-80393",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base132-80393",
+      "texture": 39417,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "2467b356ac18075eb64d91bfcaaf009de86fc831df54f5472cae10cf05791fcd"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base133-80405",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base133-80405",
+      "texture": 39419,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "af641750b1eb2d1f8f947756b9dc1cc6cbf97899c5fe287251639ab818f1984d"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base134-80417",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base134-80417",
+      "texture": 39421,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "18288a3c39eb541d5a0fc327b32d826800599de89b2c53b199f8b7419cb61550"
+    },
+    {
+      "name": "a16_faces-female-stage3-iris-base135-80429",
+      "path": "emoji/voltron/faces/face/stage 3 female/a16_faces-female-stage3-iris-base135-80429",
+      "texture": 39423,
+      "trait": 0,
+      "stage": 3,
+      "gender": 1,
+      "pixel_sha256": "ec5f8938b8fbbbbf0756a73ef0629579d03e79ab1c7b90a943b80aab6d918638"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base100-80010",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base100-80010",
+      "texture": 39353,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "75d42e23e2f234013ef0dfce4ca45a48c9a56535128576b2f3f547d1de4e25f3"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base101-80022",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base101-80022",
+      "texture": 39355,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "f412cef547c873127f38c104be183e9a546820dfaf37dc39bfd27f28109a5c3d"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base102-80034",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base102-80034",
+      "texture": 39357,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "9a1b81126a8b98198f30418ca493047aca781b51db2886e35967a88dcc23b422"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base103-80046",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base103-80046",
+      "texture": 39359,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "f73507cb78002c0fcb8d70a5cf1924fcc9f41d968839a0ca5842013cac76cd6e"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base104-80058",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base104-80058",
+      "texture": 39361,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "b11ba67f617ed15f4d2b2932ebc86e98e98cc742061ab1c4c499ef7f54e56c44"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base105-80070",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base105-80070",
+      "texture": 39363,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "228318b0d87555655259be2f413c120062256317a67c5ea3356002b4dc2a1029"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base106-80082",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base106-80082",
+      "texture": 39365,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "adfe94f17af0c72c208ac8be7be045cfce4a25238513f32e520a346310ba8668"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base107-80094",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base107-80094",
+      "texture": 39367,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "981bbd98a8ae42ebec2283e51113b8901b9f07a902c8c104f6969642e2ea9059"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base108-80106",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base108-80106",
+      "texture": 39369,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "d9e9d59bf1a71203e986a808d3af0f68b1dcf4807586db0508789030b65a4a1d"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base109-80118",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base109-80118",
+      "texture": 39371,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "3ed94371aee83559ee874338d1943d9ae5af6225bfb9a0a76bed97e6ba9b4de1"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base110-80130",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base110-80130",
+      "texture": 39373,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "a8a6069aa004bc857c9cee2e3696cf56ee1c24918d0b6ae9bad4d4ebc88280ac"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base111-80142",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base111-80142",
+      "texture": 39375,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "1feb5312b7b98c11b185ba047a2d6608645b92f0566a5cc7cf519f78b4e30b3f"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base112-80154",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base112-80154",
+      "texture": 39377,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "aa8a7402e954e8d726819d511586c695af3ac1da77c2b48f103e98371d6a1efa"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base113-80166",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base113-80166",
+      "texture": 39379,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "6c068a215808c52bc0f05e2d0aec68b5a683f453a63735b26dea623c3ec0e7c3"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base114-80178",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base114-80178",
+      "texture": 39381,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "ce8032b768c7a459ab754b9817ed7b04ffdff2e4f14cfc9769dd8b3c284f1f1a"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base115-80190",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base115-80190",
+      "texture": 39383,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "7e5110f01470f618e83cc491e9ebf460b2849d24c43074d3ab3fca04a23a30cc"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base116-80202",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base116-80202",
+      "texture": 39385,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "eed939568e38aa83e65968be60c66c4f174b2c3d7a91b14bc3ac968d4d3236a7"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base117-80214",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base117-80214",
+      "texture": 39387,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "a7534212c01e680df4ad21eba4032e5fb2e25f93bfa254d1852ee36cbe001975"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base118-80226",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base118-80226",
+      "texture": 39389,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "8d41a271bac5a946215bda348bd65b7bd966299b9d61a275f6bb8092358da335"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base119-80238",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base119-80238",
+      "texture": 39391,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "8d56a43d949dff8a919f27958e02218ba84fcb678794914fecf0b55bb29b7b39"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base120-80250",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base120-80250",
+      "texture": 39393,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "0e97fffe2868c729324b91c77ec32c9a90f74a5994bf6cd99527dc35dfd91110"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base121-80262",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base121-80262",
+      "texture": 39395,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "145a87858d15c5f3c84308813a0f18427460d5d83a3d8066f5bc67c11c18a97f"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base122-80274",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base122-80274",
+      "texture": 39397,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "ff86fd3bfabe11968b1a9bcefcd764c21c6342aa2f741ddc423eb5ee7f20383a"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base123-80286",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base123-80286",
+      "texture": 39399,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "027b2d1ee30e8666cc5c45d82d5e66fb68c38bf420535029ea4598e3aabc0ebe"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base124-80298",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base124-80298",
+      "texture": 39401,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "eec98e9666ca1d6111dee1e1645b145f2d6fd402420e5cf9dfb9e93b8b6e7022"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base125-80310",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base125-80310",
+      "texture": 39403,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "875302def01c906ed2a555e9cce28eaf8b870a9be37371a1bc665a04b2bfbfa1"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base126-80322",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base126-80322",
+      "texture": 39405,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "31fef3a3ec0a2417bb8b9f357d72fe231dfd59a144e3423a5eaf788a2c4ecf20"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base127-80334",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base127-80334",
+      "texture": 39407,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "6a6b1d27c5cdc7fed64392f5c39d3efd7a35bee0a9fc30ad9ae1fdf230314228"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base128-80346",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base128-80346",
+      "texture": 39409,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "c828523bb7259d36187ef7d80b95272a9d0f437d7e4ced0c8d8a5cb043e9545a"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base129-80358",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base129-80358",
+      "texture": 39411,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "94514c126af10723bbe97a264606397134353f64c1f4eae11b957e18470de7ec"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base130-80370",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base130-80370",
+      "texture": 39413,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "d48ff88e5f222573a67978f2b68c14fedc079a70fc19a3eba54fbad79a0cee54"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base131-80382",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base131-80382",
+      "texture": 39415,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "6c21599abfad69a3d24f68b95943f7830471c3f07b3b724cba3d414a7dacae2d"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base132-80394",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base132-80394",
+      "texture": 39417,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "2467b356ac18075eb64d91bfcaaf009de86fc831df54f5472cae10cf05791fcd"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base133-80406",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base133-80406",
+      "texture": 39419,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "af641750b1eb2d1f8f947756b9dc1cc6cbf97899c5fe287251639ab818f1984d"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base134-80418",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base134-80418",
+      "texture": 39421,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "18288a3c39eb541d5a0fc327b32d826800599de89b2c53b199f8b7419cb61550"
+    },
+    {
+      "name": "a16_faces-female-stage4-iris-base135-80430",
+      "path": "emoji/voltron/faces/face/stage 4 female/a16_faces-female-stage4-iris-base135-80430",
+      "texture": 39423,
+      "trait": 0,
+      "stage": 4,
+      "gender": 1,
+      "pixel_sha256": "ec5f8938b8fbbbbf0756a73ef0629579d03e79ab1c7b90a943b80aab6d918638"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base100-80011",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base100-80011",
+      "texture": 39509,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "8b805c33823ac6aa3f1bf0e4da7233fa1d848902a993ef532cbed877bd50edea"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base101-80023",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base101-80023",
+      "texture": 39511,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "9512b1b226283b47b5b33373f05d1c673963d349c56a54db6f6fb7b53dbc38c4"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base102-80035",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base102-80035",
+      "texture": 39513,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "465d1169dbfab3641435e3555402ff119a4d241caee76f3c98abb3d8856f076f"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base103-80047",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base103-80047",
+      "texture": 39515,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "5e4831ccf9bb7473122d9a6b2ed3320b165c694a7a1840e19ff89ef356ae4258"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base104-80059",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base104-80059",
+      "texture": 39517,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "fd75c4e9fc95f62318a69db6b354801f6f38edf808d3877ae27383f69ea5aee6"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base105-80071",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base105-80071",
+      "texture": 39519,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "08acc0a84e9b251c7af017315d197e6cd23aaec81c7b8508ed07fc328ae164fe"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base106-80083",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base106-80083",
+      "texture": 39521,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "b9f725ea91889c31b9258739dc68b26ce28017cffb19dc870a612a9d81e888ac"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base107-80095",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base107-80095",
+      "texture": 39523,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "39b33705d2ebb2341f7fca6caf5771314d3f093a84d14c2efe5ec7e0f0fd4ab1"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base108-80107",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base108-80107",
+      "texture": 39525,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "047d70a66635c579c5d60880867eb1057abd12b5eac9b5806497816880356d5c"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base109-80119",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base109-80119",
+      "texture": 39527,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "844b361d9ca6af146d07adaa77c48b82174e6e82c959ab1caa98a1a41a8a64c3"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base110-80131",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base110-80131",
+      "texture": 39529,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "406f50a6d02c18878005a670337336222d7e701b32933fe796bd06a2b98817cb"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base111-80143",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base111-80143",
+      "texture": 39531,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "e072f4643fb50ee77e67c4da11aa5d181c873bef5591733642896bb7ac3b90a3"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base112-80155",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base112-80155",
+      "texture": 39533,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "75bb5876c8d0b12c8e434552536f9445e8d981eebd07d88bd4dd63b131c244e7"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base113-80167",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base113-80167",
+      "texture": 39535,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "e8070c81fc151af02952735171191d8281e7a49cf35ba776b5e568a4b519af1b"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base114-80179",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base114-80179",
+      "texture": 39537,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "f949c005a186a5cfdace4171411d3f73258ef1483ad438369da59f1bc05d209d"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base115-80191",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base115-80191",
+      "texture": 39539,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "0abbca003231045bafe678fcc43c471341d83e702c15bbda5c088872aa295d26"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base116-80203",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base116-80203",
+      "texture": 39541,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "d517c5281fa7fa4bd4032579dc00b00b8ef237642586c783d888f3ec5c59450b"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base117-80215",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base117-80215",
+      "texture": 39543,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "c51515b88cb88c86cfd4f7cf1dab8be62bb7e1c73377270ffbf9813d944b7597"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base118-80227",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base118-80227",
+      "texture": 39545,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "772c06397301c846dd972d45e110cdc3b9ac489e73229f05ee0c56876fd5aabd"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base119-80239",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base119-80239",
+      "texture": 39547,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "921465dc1765c9770f15f19eeb1a5f0590b01e7681a7bb25cfd85c868f7ea6cd"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base120-80251",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base120-80251",
+      "texture": 39549,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "c68089bf378ae111a97f2383228ad77cdb98c889265d1e494681415fa29182fd"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base121-80263",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base121-80263",
+      "texture": 39551,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "7d4afb50c6910c2c3dc405bea54a35ffc3704a27b2a1356afd8d7ee82217bdd5"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base122-80275",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base122-80275",
+      "texture": 39553,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "bd0f5e39afee10829f14df1c5af29eb104f1b466fc90e258f4388c5e7ecc9eaa"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base123-80287",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base123-80287",
+      "texture": 39555,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "9b567da6658b19e83bead31d4b4641c544f31315fe3d6efae487ea9d5e55b448"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base124-80299",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base124-80299",
+      "texture": 39557,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "bfcd4d8f6d503cbeff2822b1a51ed1fed39f345c3155de4f7593e2c4427af2a1"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base125-80311",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base125-80311",
+      "texture": 39559,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "db56ee415a1b8bad6619527adfe427dbd2eb6b5da0f8318af7d0a9beec0da932"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base126-80323",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base126-80323",
+      "texture": 39561,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "a1ea4e42243150459f8f62592be018c4f356d5458d922d0d78803ef0d3662174"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base127-80335",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base127-80335",
+      "texture": 39563,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "c8bb66806aeb28d1a4eda9534f0945c0b19ce9527ff6c79764c65d720f32adc8"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base128-80347",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base128-80347",
+      "texture": 39565,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "43d166e07308cedcc3a818d1f841db52a8efdef8af054b6352d80d76a34fd05a"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base129-80359",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base129-80359",
+      "texture": 39567,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "01ce10f2035815c91f6c9300ff673a518989cb26c0cd170f595ce253f2cd3564"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base130-80371",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base130-80371",
+      "texture": 39569,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "b11add8c96b3f84dd0f73964cfe19bf88a99cd51ca8a154708ff7e31a07f22b3"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base131-80383",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base131-80383",
+      "texture": 39571,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "de976077da86836e05199da5dcb3df29b87174f2b7a4d8fee3032c2b40066b1b"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base132-80395",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base132-80395",
+      "texture": 39573,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "60d3701d050e592fafa8b80bb57f3c63bfe9bbe59a2d44e0859ea62e157e0a88"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base133-80407",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base133-80407",
+      "texture": 39575,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "d8adde838c23fd6173bcbed831ef45afc020053b1db4fd24b37760ba555ff4ad"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base134-80419",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base134-80419",
+      "texture": 39577,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "6182c2e0b5b9334b89b6172e4d739565f4e5206169ba0857e369232662aed083"
+    },
+    {
+      "name": "a16_faces-female-stage5-iris-base135-80431",
+      "path": "emoji/voltron/faces/face/stage 5 female/a16_faces-female-stage5-iris-base135-80431",
+      "texture": 39579,
+      "trait": 0,
+      "stage": 5,
+      "gender": 1,
+      "pixel_sha256": "8085fd14ed1f4547a2b6cd37fc70076ab0a0645a1490f0ddaa149d6915cb85df"
+    }
+  ],
+  "changed_texture_ids": [
+    37755,
+    37781,
+    37807,
+    37833,
+    37859,
+    37885,
+    37911,
+    37937,
+    37963,
+    37989,
+    38015,
+    38041,
+    38073,
+    38075,
+    38107,
+    38109,
+    38141,
+    38143,
+    38175,
+    38177,
+    38209,
+    38211,
+    38243,
+    38245,
+    38277,
+    38279,
+    38311,
+    38313,
+    38345,
+    38347,
+    38379,
+    38381,
+    38413,
+    38415,
+    38447,
+    38449,
+    38599,
+    38601,
+    38603,
+    38605,
+    38607,
+    38609,
+    38611,
+    38613,
+    38615,
+    38617,
+    38619,
+    38621,
+    38623,
+    38625,
+    38627,
+    38629,
+    38631,
+    38633,
+    38635,
+    38637,
+    38639,
+    38641,
+    38643,
+    38645,
+    38647,
+    38649,
+    38651,
+    38653,
+    38655,
+    38657,
+    38659,
+    38661,
+    38663,
+    38665,
+    38667,
+    38669,
+    38671,
+    38703,
+    38705,
+    38707,
+    38709,
+    38711,
+    38713,
+    38715,
+    38717,
+    38719,
+    38721,
+    38723,
+    38725,
+    38727,
+    38729,
+    38731,
+    38733,
+    38735,
+    38737,
+    38739,
+    38741,
+    38743,
+    38745,
+    38747,
+    38749,
+    38751,
+    38753,
+    38755,
+    38757,
+    38759,
+    38761,
+    38763,
+    38765,
+    38767,
+    38769,
+    38771,
+    38773,
+    38775,
+    38807,
+    38809,
+    38811,
+    38813,
+    38815,
+    38817,
+    38819,
+    38821,
+    38823,
+    38825,
+    38827,
+    38829,
+    38831,
+    38833,
+    38835,
+    38837,
+    38839,
+    38841,
+    38843,
+    38845,
+    38847,
+    38849,
+    38851,
+    38853,
+    38855,
+    38857,
+    38859,
+    38861,
+    38863,
+    38865,
+    38867,
+    38869,
+    38871,
+    38873,
+    38875,
+    38877,
+    38879,
+    38911,
+    38913,
+    38915,
+    38917,
+    38919,
+    38921,
+    38923,
+    38925,
+    38927,
+    38929,
+    38931,
+    38933,
+    38935,
+    38937,
+    38939,
+    38941,
+    38943,
+    38945,
+    38947,
+    38949,
+    38951,
+    38953,
+    38955,
+    38957,
+    38959,
+    38961,
+    38963,
+    38965,
+    38967,
+    38969,
+    38971,
+    38973,
+    38975,
+    38977,
+    38979,
+    38981,
+    38983,
+    39056,
+    39058,
+    39060,
+    39062,
+    39064,
+    39066,
+    39068,
+    39070,
+    39072,
+    39074,
+    39076,
+    39078,
+    39080,
+    39082,
+    39084,
+    39086,
+    39088,
+    39090,
+    39092,
+    39094,
+    39096,
+    39098,
+    39100,
+    39102,
+    39104,
+    39106,
+    39108,
+    39110,
+    39112,
+    39114,
+    39116,
+    39118,
+    39120,
+    39122,
+    39124,
+    39126,
+    39128,
+    39249,
+    39251,
+    39253,
+    39255,
+    39257,
+    39259,
+    39261,
+    39263,
+    39265,
+    39267,
+    39269,
+    39271,
+    39273,
+    39275,
+    39277,
+    39279,
+    39281,
+    39283,
+    39285,
+    39287,
+    39289,
+    39291,
+    39293,
+    39295,
+    39297,
+    39299,
+    39301,
+    39303,
+    39305,
+    39307,
+    39309,
+    39311,
+    39313,
+    39315,
+    39317,
+    39319,
+    39321,
+    39353,
+    39355,
+    39357,
+    39359,
+    39361,
+    39363,
+    39365,
+    39367,
+    39369,
+    39371,
+    39373,
+    39375,
+    39377,
+    39379,
+    39381,
+    39383,
+    39385,
+    39387,
+    39389,
+    39391,
+    39393,
+    39395,
+    39397,
+    39399,
+    39401,
+    39403,
+    39405,
+    39407,
+    39409,
+    39411,
+    39413,
+    39415,
+    39417,
+    39419,
+    39421,
+    39423,
+    39425,
+    39509,
+    39511,
+    39513,
+    39515,
+    39517,
+    39519,
+    39521,
+    39523,
+    39525,
+    39527,
+    39529,
+    39531,
+    39533,
+    39535,
+    39537,
+    39539,
+    39541,
+    39543,
+    39545,
+    39547,
+    39549,
+    39551,
+    39553,
+    39555,
+    39557,
+    39559,
+    39561,
+    39563,
+    39565,
+    39567,
+    39569,
+    39571,
+    39573,
+    39575,
+    39577,
+    39579,
+    39581
+  ],
+  "all_existing_resource_paths_preserved": true,
+  "no_new_sprite_or_texture_objects": true,
+  "native_pupil_and_highlight_layers_preserved": true,
+  "datapack_sha256": "e81a8342990917a465a00e47b8e92fc5c9f0a274fc4a77cc8c9b85aa306b3b3b"
+}

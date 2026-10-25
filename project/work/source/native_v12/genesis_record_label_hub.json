@@ -1,0 +1,186 @@
+{
+  "ListID": "genesis_record_label_hub",
+  "Title": "RECORD LABEL",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Start a Record Label",
+      "Icon": "clipboard",
+      "SecondLine": "Open an imprint from age 18",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.labelOpen",
+              "ScenarioFile": "genesis_record_label"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.LabelStarted=0]",
+      "TileID": "v11_genesis_record_label_hub_0"
+    },
+    {
+      "Title": "<GFC.music_studio.LabelName>",
+      "Icon": "cd",
+      "SecondLine": "<GFC.music_studio.LabelReleases> label releases",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.labelProfile",
+              "ScenarioFile": "genesis_record_label"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.LabelStarted=1]",
+      "BarGraph": {
+        "Title": "Reputation",
+        "Value": "<GFC.music_studio.LabelReputation>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v11_genesis_record_label_hub_1"
+    },
+    {
+      "Title": "Scout Artists",
+      "Icon": "scroll",
+      "SecondLine": "Discover four artists or renew expired deals",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ListID": "genesis_record_label_scout"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.LabelStarted=1]",
+      "TileID": "v11_genesis_record_label_hub_2"
+    },
+    {
+      "Title": "Royalty Statement",
+      "Icon": "money-bag",
+      "SecondLine": "Settle artist shares and recoup advances",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.labelRoyalties",
+              "ScenarioFile": "genesis_record_label"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.LabelStarted=1]",
+      "TileID": "v11_genesis_record_label_hub_3"
+    },
+    {
+      "Title": "Nova Reed",
+      "Icon": "mic-studio",
+      "SecondLine": "Pop · <GFC.music_studio.Artist1Years> contract years",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ListID": "genesis_record_label_artist1"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.LabelStarted=1/gfc.music_studio.Artist1Signed=1]",
+      "BarGraph": {
+        "Title": "Morale",
+        "Value": "<GFC.music_studio.Artist1Morale>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v11_genesis_record_label_hub_4"
+    },
+    {
+      "Title": "Miles Echo",
+      "Icon": "memo",
+      "SecondLine": "Hip-hop · <GFC.music_studio.Artist2Years> contract years",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ListID": "genesis_record_label_artist2"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.LabelStarted=1/gfc.music_studio.Artist2Signed=1]",
+      "BarGraph": {
+        "Title": "Morale",
+        "Value": "<GFC.music_studio.Artist2Morale>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v11_genesis_record_label_hub_5"
+    },
+    {
+      "Title": "Avery Static",
+      "Icon": "notebook",
+      "SecondLine": "Electronic · <GFC.music_studio.Artist3Years> contract years",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ListID": "genesis_record_label_artist3"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.LabelStarted=1/gfc.music_studio.Artist3Signed=1]",
+      "BarGraph": {
+        "Title": "Morale",
+        "Value": "<GFC.music_studio.Artist3Morale>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v11_genesis_record_label_hub_6"
+    },
+    {
+      "Title": "Jules Harbor",
+      "Icon": "books",
+      "SecondLine": "Indie · <GFC.music_studio.Artist4Years> contract years",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ListID": "genesis_record_label_artist4"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.LabelStarted=1/gfc.music_studio.Artist4Signed=1]",
+      "BarGraph": {
+        "Title": "Morale",
+        "Value": "<GFC.music_studio.Artist4Morale>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v11_genesis_record_label_hub_7"
+    },
+    {
+      "Title": "Back to Music Studio",
+      "Icon": "pencil",
+      "TileID": "v11_back_genesis_record_label_hub",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ListID": "genesis_music_studio_hub"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

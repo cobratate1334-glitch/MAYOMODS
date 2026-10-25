@@ -1,0 +1,102 @@
+{
+  "ListID": "genesis_v7_job_museum_educator",
+  "Title": "MUSEUM EDUCATOR PROJECTS",
+  "PresentationMode": "Normal",
+  "Sections": [
+    {
+      "Items": [
+        {
+          "Title": "Project Dashboard",
+          "Icon": "clipboard",
+          "SecondLine": "Completed: <GFC.job_museum_educator.Projects>",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_museum_educator:NativeCareerSync:=1>>scenario.careersV7.job_museum_educatordeliver",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ],
+          "BarGraph": {
+            "Title": "Quality",
+            "Value": "<GFC.job_museum_educator.Quality>",
+            "Style": "LOW_IS_RED"
+          }
+        }
+      ],
+      "Header": "Activities"
+    },
+    {
+      "Items": [
+        {
+          "Title": "Design a workshop",
+          "Icon": "memo",
+          "SecondLine": "Project stage 1",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_museum_educator:NativeCareerSync:=1>>scenario.careersV7.job_museum_educator1",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Test it with visitors",
+          "Icon": "memo",
+          "SecondLine": "Project stage 2",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_museum_educator:NativeCareerSync:=1>>scenario.careersV7.job_museum_educator2",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Lead the public session",
+          "Icon": "memo",
+          "SecondLine": "Project stage 3",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_museum_educator:NativeCareerSync:=1>>scenario.careersV7.job_museum_educator3",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Submit and Review",
+          "Icon": "chart-bar",
+          "SecondLine": "Turn project progress into job performance",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_museum_educator:NativeCareerSync:=1>>scenario.careersV7.job_museum_educatordeliver",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "Header": "Job Activities"
+    }
+  ]
+}

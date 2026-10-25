@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "new_portrait_styles": 204,
+  "total_portrait_styles": 360,
+  "vitiligo_layers_revised": 36,
+  "trait_choices": 15,
+  "all_other_Unity_objects_preserved": true,
+  "existing_resource_paths_preserved": true,
+  "new_texture_pixel_roundtrips_verified": true,
+  "datapack_sha256": "d3414cd8f15ae0d2ec0e954e7a8831e00ab7b2bfe5fa18a37de76de147b7a481",
+  "data_sha256": "71ba7f84791c6a748e38526f12f4ed4b25a43bf263823dd8044b0c733169145f",
+  "device_rendering_tested": false
+}

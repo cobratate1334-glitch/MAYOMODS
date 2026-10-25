@@ -1,0 +1,20 @@
+{
+  "arm64_cases": 352,
+  "binary_sha256": "a3ad72b8b4451b109ad03bba95b60fc8fb1da4737ad2c475f5d863a2870aee01",
+  "aslr_biases": [
+    0,
+    68719476736
+  ],
+  "actual_Action_Invoke_executed": true,
+  "native_New_Life_rounded_buttons": true,
+  "ordered_native_profile_rows": true,
+  "relationship_profile_types": 14,
+  "birth_size_and_monotone_growth": true,
+  "actual_native_genetic_attributes": true,
+  "stock_Start_methods_unhooked": true,
+  "actual_Unity_Update_and_frame_advance_executed": true,
+  "all_120_frames_and_render_requests": true,
+  "pooled_animator_reused": true,
+  "role_and_age_gates": true,
+  "device_runtime_tested": false
+}

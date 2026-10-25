@@ -1,0 +1,332 @@
+{
+  "flattened": [
+    "genesis_music_studio_hub",
+    "genesis_music_studio_project",
+    "genesis_music_studio_catalog",
+    "genesis_record_label_artist1",
+    "genesis_record_label_artist2",
+    "genesis_record_label_artist3",
+    "genesis_record_label_artist4",
+    "genesis_record_label_hub",
+    "genesis_record_label_scout"
+  ],
+  "scenarios": 24,
+  "properties": {
+    "soccer_v11": {
+      "NativeSoccerSync": {
+        "key": "NativeSoccerSync",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 1
+      },
+      "NativeCupRoll": {
+        "key": "NativeCupRoll",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 1
+      },
+      "Playing": {
+        "key": "Playing",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 1
+      },
+      "LeagueRank": {
+        "key": "LeagueRank",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 1000
+      },
+      "TeamIndex": {
+        "key": "TeamIndex",
+        "type": "int",
+        "value": -1,
+        "reset_on_ageup": "",
+        "minimum": -1,
+        "maximum": 1000000
+      },
+      "QualifiedCup": {
+        "key": "QualifiedCup",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 3
+      },
+      "Roll": {
+        "key": "Roll",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 99
+      },
+      "Cup": {
+        "key": "Cup",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 4
+      },
+      "Stage": {
+        "key": "Stage",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 5
+      },
+      "MatchNo": {
+        "key": "MatchNo",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 6
+      },
+      "Pending": {
+        "key": "Pending",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 2
+      },
+      "Points": {
+        "key": "Points",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 9
+      },
+      "GoalsFor": {
+        "key": "GoalsFor",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 30
+      },
+      "GoalsAgainst": {
+        "key": "GoalsAgainst",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 30
+      },
+      "LastFor": {
+        "key": "LastFor",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 5
+      },
+      "LastAgainst": {
+        "key": "LastAgainst",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 5
+      },
+      "LastResult": {
+        "key": "LastResult",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 3
+      },
+      "TournamentAge": {
+        "key": "TournamentAge",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 999
+      },
+      "LastClubAge": {
+        "key": "LastClubAge",
+        "type": "int",
+        "value": -1,
+        "reset_on_ageup": "",
+        "minimum": -1,
+        "maximum": 999
+      },
+      "LastWorldAge": {
+        "key": "LastWorldAge",
+        "type": "int",
+        "value": -4,
+        "reset_on_ageup": "",
+        "minimum": -4,
+        "maximum": 999
+      },
+      "TournamentTeam": {
+        "key": "TournamentTeam",
+        "type": "int",
+        "value": -1,
+        "reset_on_ageup": "",
+        "minimum": -1,
+        "maximum": 1000000
+      },
+      "AttackPlan": {
+        "key": "AttackPlan",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 15
+      },
+      "ChampionsTitles": {
+        "key": "ChampionsTitles",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 1000000
+      },
+      "EuropaTitles": {
+        "key": "EuropaTitles",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 1000000
+      },
+      "ConferenceTitles": {
+        "key": "ConferenceTitles",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 1000000
+      },
+      "WorldTitles": {
+        "key": "WorldTitles",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 1000000
+      },
+      "Appearances": {
+        "key": "Appearances",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 1000000
+      }
+    },
+    "parole_v11": {
+      "NativeParoleSync": {
+        "key": "NativeParoleSync",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 1
+      },
+      "StartAge": {
+        "key": "StartAge",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 999
+      },
+      "EndAge": {
+        "key": "EndAge",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 999
+      },
+      "SentenceYears": {
+        "key": "SentenceYears",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 5
+      },
+      "Active": {
+        "key": "Active",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 1
+      },
+      "Remaining": {
+        "key": "Remaining",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 5
+      },
+      "LastCheckAge": {
+        "key": "LastCheckAge",
+        "type": "int",
+        "value": -1,
+        "reset_on_ageup": "",
+        "minimum": -1,
+        "maximum": 999
+      },
+      "CheckIns": {
+        "key": "CheckIns",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 1000000
+      },
+      "Sessions": {
+        "key": "Sessions",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "true",
+        "minimum": 0,
+        "maximum": 3
+      },
+      "Discipline": {
+        "key": "Discipline",
+        "type": "int",
+        "value": 20,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 100
+      },
+      "Education": {
+        "key": "Education",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 100
+      },
+      "Releases": {
+        "key": "Releases",
+        "type": "int",
+        "value": 0,
+        "reset_on_ageup": "",
+        "minimum": 0,
+        "maximum": 1000000
+      }
+    }
+  }
+}

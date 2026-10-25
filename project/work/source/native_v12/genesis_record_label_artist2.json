@@ -1,0 +1,192 @@
+{
+  "ListID": "genesis_record_label_artist2",
+  "Title": "MILES ECHO",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Miles Echo",
+      "Icon": "mic-studio",
+      "SecondLine": "Hip-hop · <GFC.music_studio.Artist2Years> contract years",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.label2Profile",
+              "ScenarioFile": "genesis_record_label"
+            }
+          ]
+        }
+      ],
+      "BarGraph": {
+        "Title": "Morale",
+        "Value": "<GFC.music_studio.Artist2Morale>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v11_genesis_record_label_artist2_0"
+    },
+    {
+      "Title": "Artist Development",
+      "Icon": "users",
+      "SecondLine": "Coaching, rehearsals and creative direction",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.label2Develop",
+              "ScenarioFile": "genesis_record_label"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.Artist2Years>=1]",
+      "TileID": "v11_genesis_record_label_artist2_1"
+    },
+    {
+      "Title": "Fund a Record",
+      "Icon": "clipboard",
+      "SecondLine": "Finance a single, EP or album",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.label2Fund",
+              "ScenarioFile": "genesis_record_label"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.Artist2Years>=1/gfc.music_studio.Artist2Active=0]",
+      "TileID": "v11_genesis_record_label_artist2_2"
+    },
+    {
+      "Title": "<GFC.music_studio.Artist2Project>",
+      "Icon": "hammer",
+      "SecondLine": "Direct production sessions",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.label2Produce",
+              "ScenarioFile": "genesis_record_label"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.Artist2Years>=1/gfc.music_studio.Artist2Active=1]",
+      "BarGraph": {
+        "Title": "Production",
+        "Value": "<GFC.music_studio.Artist2Progress>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v11_genesis_record_label_artist2_3"
+    },
+    {
+      "Title": "Release Campaign",
+      "Icon": "cd",
+      "SecondLine": "Choose your promotion strategy",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.label2Promote",
+              "ScenarioFile": "genesis_record_label"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.Artist2Years>=1/gfc.music_studio.Artist2Active=1]",
+      "TileID": "v11_genesis_record_label_artist2_4"
+    },
+    {
+      "Title": "Publish Record",
+      "Icon": "memo",
+      "SecondLine": "Release at 100% production",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.label2Release",
+              "ScenarioFile": "genesis_record_label"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.Artist2Years>=1/gfc.music_studio.Artist2Active=1]",
+      "TileID": "v11_genesis_record_label_artist2_5"
+    },
+    {
+      "Title": "Shelve Project",
+      "Icon": "hand-waving",
+      "SecondLine": "Discard the current record",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.label2Shelve",
+              "ScenarioFile": "genesis_record_label"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.Artist2Years>=1/gfc.music_studio.Artist2Active=1]",
+      "TileID": "v11_genesis_record_label_artist2_6"
+    },
+    {
+      "Title": "Royalty Breakdown",
+      "Icon": "bank",
+      "SecondLine": "Artist share, advance recovery and label income",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.label2Statement",
+              "ScenarioFile": "genesis_record_label"
+            }
+          ]
+        }
+      ],
+      "TileID": "v11_genesis_record_label_artist2_7"
+    },
+    {
+      "Title": "Renew Contract",
+      "Icon": "scroll",
+      "SecondLine": "Negotiate a new three-year deal",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.label2Contract",
+              "ScenarioFile": "genesis_record_label"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.Artist2Years=0]",
+      "TileID": "v11_genesis_record_label_artist2_8"
+    },
+    {
+      "Title": "Back to Music Studio",
+      "Icon": "notebook",
+      "TileID": "v11_back_genesis_record_label_artist2",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ListID": "genesis_music_studio_hub"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

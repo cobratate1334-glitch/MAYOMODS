@@ -1,0 +1,144 @@
+{
+  "hubs": {
+    "130": [
+      "Genetic appearances",
+      [
+        [
+          "Face editor",
+          "native"
+        ],
+        [
+          "Hair & facial hair",
+          131
+        ],
+        [
+          "Skin & eye colours",
+          132
+        ],
+        [
+          "Genetic features",
+          133
+        ],
+        [
+          "Scars & eyepatches",
+          134
+        ],
+        [
+          "Inherited abilities",
+          "inherited"
+        ]
+      ]
+    ],
+    "131": [
+      "Hair & facial hair",
+      [
+        [
+          "Hairstyle",
+          101
+        ],
+        [
+          "Hair colour",
+          102
+        ],
+        [
+          "Facial hair",
+          107
+        ],
+        [
+          "Facial hair colour",
+          108
+        ]
+      ]
+    ],
+    "132": [
+      "Skin & eye colours",
+      [
+        [
+          "Skin tone",
+          103
+        ],
+        [
+          "Eye colour",
+          104
+        ]
+      ]
+    ],
+    "133": [
+      "Genetic features",
+      [
+        [
+          "Eye patterns",
+          [
+            "marks",
+            1
+          ]
+        ],
+        [
+          "Skin markings",
+          [
+            "marks",
+            2
+          ]
+        ],
+        [
+          "Hair & face traits",
+          [
+            "marks",
+            3
+          ]
+        ]
+      ]
+    ],
+    "134": [
+      "Scars & eyepatches",
+      [
+        [
+          "Scars",
+          105
+        ],
+        [
+          "Eyepatches",
+          106
+        ]
+      ]
+    ]
+  },
+  "mark_groups": {
+    "1": [
+      "Eye patterns",
+      [
+        0,
+        5,
+        12,
+        13
+      ]
+    ],
+    "2": [
+      "Skin markings",
+      [
+        0,
+        1,
+        8,
+        2,
+        9,
+        10,
+        14,
+        3,
+        4,
+        11
+      ]
+    ],
+    "3": [
+      "Hair & face traits",
+      [
+        0,
+        6,
+        7
+      ]
+    ]
+  },
+  "choices_per_page": 4,
+  "maximum_picker_buttons": 8,
+  "root_custom_buttons": 6,
+  "stock_face_editor_reused": true
+}

@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "checks": 316,
+  "binary_sha256": "56dd08457791c7e1e20f23465c3255fdea5268e48daf72c0817b00f8b6e03809",
+  "bridge_sha256": "28cacbe267c6ef910ea67c40bd70c4c912273b9bcefa9fc99cc342e263c9cb92",
+  "visible_launcher_links": [
+    "https://patreon.com/mayomods",
+    "https://discord.gg/zVsR7ZzGrn"
+  ],
+  "actual_render_card_click_and_reset_bytecode_executed": true,
+  "exact_URL_subtitles": true,
+  "missing_browser_fallback_executed": true,
+  "all_branches_land_on_instructions": true,
+  "startup_and_diagnostics_methods_unchanged": true,
+  "Android_boundaries_modeled": true,
+  "ART_runtime_tested": false
+}

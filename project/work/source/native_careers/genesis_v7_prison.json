@@ -1,0 +1,149 @@
+{
+  "ListID": "genesis_v7_prison",
+  "Title": "PRISON REHABILITATION",
+  "PresentationMode": "Normal",
+  "Sections": [
+    {
+      "Items": [
+        {
+          "Title": "Current Case File",
+          "Icon": "clipboard",
+          "SecondLine": "Read actual sentence and conduct",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.careersV7.prison_plus_v7refresh",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Vocational Certification",
+          "Icon": "memo",
+          "SecondLine": "Turn education into a retained certificate",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.careersV7.prison_plus_v7certificate",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ],
+          "BarGraph": {
+            "Title": "Education",
+            "Value": "<GFC.prison_plus_v7.Education>",
+            "Style": "LOW_IS_RED"
+          }
+        }
+      ]
+    },
+    {
+      "Title": "Prison Activities",
+      "Items": [
+        {
+          "Title": "Education",
+          "Icon": "memo",
+          "SecondLine": "Literacy, numeracy and vocational study",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.careersV7.prison_plus_v7education",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Counselling",
+          "Icon": "users",
+          "SecondLine": "Rehabilitation and accountability",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.careersV7.prison_plus_v7therapy",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Supervised Mediation",
+          "Icon": "handshake",
+          "SecondLine": "Manage conflict and intimidation",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.careersV7.prison_plus_v7mediation",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Work Programme",
+          "Icon": "factory",
+          "SecondLine": "Reliable shifts and mentoring",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.careersV7.prison_plus_v7work",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Family Support",
+          "Icon": "users",
+          "SecondLine": "Letters and realistic re-entry support",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.careersV7.prison_plus_v7support",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Parole Preparation",
+          "Icon": "clipboard",
+          "SecondLine": "Prepare before the existing parole hearing",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.careersV7.prison_plus_v7parole",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

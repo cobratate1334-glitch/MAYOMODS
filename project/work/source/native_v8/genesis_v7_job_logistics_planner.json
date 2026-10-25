@@ -1,0 +1,102 @@
+{
+  "ListID": "genesis_v7_job_logistics_planner",
+  "Title": "LOGISTICS PLANNER PROJECTS",
+  "PresentationMode": "Normal",
+  "Sections": [
+    {
+      "Items": [
+        {
+          "Title": "Project Dashboard",
+          "Icon": "clipboard",
+          "SecondLine": "Completed: <GFC.job_logistics_planner.Projects>",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_logistics_planner:NativeCareerSync:=1>>scenario.careersV7.job_logistics_plannerdeliver",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ],
+          "BarGraph": {
+            "Title": "Quality",
+            "Value": "<GFC.job_logistics_planner.Quality>",
+            "Style": "LOW_IS_RED"
+          }
+        }
+      ],
+      "Header": "Activities"
+    },
+    {
+      "Items": [
+        {
+          "Title": "Plan delivery capacity",
+          "Icon": "memo",
+          "SecondLine": "Project stage 1",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_logistics_planner:NativeCareerSync:=1>>scenario.careersV7.job_logistics_planner1",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Resolve a route disruption",
+          "Icon": "memo",
+          "SecondLine": "Project stage 2",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_logistics_planner:NativeCareerSync:=1>>scenario.careersV7.job_logistics_planner2",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Review shipment performance",
+          "Icon": "memo",
+          "SecondLine": "Project stage 3",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_logistics_planner:NativeCareerSync:=1>>scenario.careersV7.job_logistics_planner3",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Submit and Review",
+          "Icon": "chart-bar",
+          "SecondLine": "Turn project progress into job performance",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_logistics_planner:NativeCareerSync:=1>>scenario.careersV7.job_logistics_plannerdeliver",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "Header": "Job Activities"
+    }
+  ]
+}

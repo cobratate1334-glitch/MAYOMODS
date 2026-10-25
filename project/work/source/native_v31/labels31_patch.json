@@ -1,0 +1,13 @@
+{
+  "binary_sha256": "4615ad2d65ca01c4e997221dc000b5a59197ba89dfa7848a32985c66c33eeccb",
+  "changed_string_ids": [
+    116,
+    212,
+    485,
+    486,
+    487,
+    511
+  ],
+  "all_startup_and_logging_code_items_byte_identical": true,
+  "current_native_New_Life_instructions": true
+}

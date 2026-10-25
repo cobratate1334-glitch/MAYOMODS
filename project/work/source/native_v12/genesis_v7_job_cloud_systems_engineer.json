@@ -1,0 +1,97 @@
+{
+  "ListID": "genesis_v7_job_cloud_systems_engineer",
+  "Title": "CLOUD SYSTEMS ENGINEER PROJECTS",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Project Dashboard",
+      "Icon": "hammer",
+      "SecondLine": "Completed: <GFC.job_cloud_systems_engineer.Projects>",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_cloud_systems_engineer:NativeCareerSync:=1>>scenario.careersV7.job_cloud_systems_engineerdeliver",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "BarGraph": {
+        "Title": "Quality",
+        "Value": "<GFC.job_cloud_systems_engineer.Quality>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v9_genesis_v7_job_cloud_systems_engineer_0"
+    },
+    {
+      "Title": "Plan a service migration",
+      "Icon": "medal-military",
+      "SecondLine": "Project stage 1",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_cloud_systems_engineer:NativeCareerSync:=1>>scenario.careersV7.job_cloud_systems_engineer1",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_cloud_systems_engineer_1"
+    },
+    {
+      "Title": "Test backup recovery",
+      "Icon": "memo",
+      "SecondLine": "Project stage 2",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_cloud_systems_engineer:NativeCareerSync:=1>>scenario.careersV7.job_cloud_systems_engineer2",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_cloud_systems_engineer_2"
+    },
+    {
+      "Title": "Review system reliability",
+      "Icon": "clipboard",
+      "SecondLine": "Project stage 3",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_cloud_systems_engineer:NativeCareerSync:=1>>scenario.careersV7.job_cloud_systems_engineer3",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_cloud_systems_engineer_3"
+    },
+    {
+      "Title": "Submit and Review",
+      "Icon": "chart-bar",
+      "SecondLine": "Turn project progress into job performance",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_cloud_systems_engineer:NativeCareerSync:=1>>scenario.careersV7.job_cloud_systems_engineerdeliver",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_cloud_systems_engineer_4"
+    }
+  ]
+}

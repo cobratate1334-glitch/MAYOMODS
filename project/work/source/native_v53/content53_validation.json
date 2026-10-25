@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "checks": 39810,
+  "assets": {
+    "datapack_sha256": "2eb07ee1e6f98f4a9501260e2724175113a5888a304979d821cca92376a1de58",
+    "data_sha256": "c8335e91f5d13ecc211f09b75a9ade68293c6d14867e1abbc7828b5bfd234406"
+  },
+  "changed_text_assets": [
+    "genesis_activities_v12",
+    "genesis_v18_life_v18",
+    "genesis_activities_v18",
+    "genesis_v18_era44_owned",
+    "genesis_v18_defaults_custom49",
+    "genesis_v18_custom49"
+  ],
+  "all_prior_objects_retained": true,
+  "all_Sprites_and_Textures_byte_identical": true,
+  "no_new_resources": true,
+  "physical_phone_tested": false,
+  "Unity_rendering_tested": false
+}

@@ -1,0 +1,177 @@
+{
+  "ListID": "genesis_record_label_hub",
+  "Title": "RECORD LABEL",
+  "PresentationMode": "Normal",
+  "Sections": [
+    {
+      "Items": [
+        {
+          "Title": "Start a Record Label",
+          "Icon": "cd",
+          "SecondLine": "Open an imprint from age 18",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.musicStudio.labelOpen",
+                  "ScenarioFile": "genesis_record_label"
+                }
+              ]
+            }
+          ],
+          "IsVisible": "[gfc.music_studio.LabelStarted=0]"
+        },
+        {
+          "Title": "<GFC.music_studio.LabelName>",
+          "Icon": "cd",
+          "SecondLine": "<GFC.music_studio.LabelReleases> label releases",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.musicStudio.labelProfile",
+                  "ScenarioFile": "genesis_record_label"
+                }
+              ]
+            }
+          ],
+          "IsVisible": "[gfc.music_studio.LabelStarted=1]",
+          "BarGraph": {
+            "Title": "Reputation",
+            "Value": "<GFC.music_studio.LabelReputation>",
+            "Style": "LOW_IS_RED"
+          }
+        }
+      ]
+    },
+    {
+      "Title": "Label Business",
+      "IsVisible": "[gfc.music_studio.LabelStarted=1]",
+      "Items": [
+        {
+          "Title": "Scout Artists",
+          "Icon": "users",
+          "SecondLine": "Discover four artists or renew expired deals",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ListID": "genesis_record_label_scout"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Royalty Statement",
+          "Icon": "money-bag",
+          "SecondLine": "Settle artist shares and recoup advances",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.musicStudio.labelRoyalties",
+                  "ScenarioFile": "genesis_record_label"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Signed Artists",
+      "IsVisible": "[gfc.music_studio.LabelStarted=1]",
+      "Items": [
+        {
+          "Title": "Nova Reed",
+          "Icon": "hero",
+          "SecondLine": "Pop · <GFC.music_studio.Artist1Years> contract years",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ListID": "genesis_record_label_artist1"
+                }
+              ]
+            }
+          ],
+          "IsVisible": "[gfc.music_studio.Artist1Signed=1]",
+          "BarGraph": {
+            "Title": "Morale",
+            "Value": "<GFC.music_studio.Artist1Morale>",
+            "Style": "LOW_IS_RED"
+          }
+        },
+        {
+          "Title": "Miles Echo",
+          "Icon": "hero",
+          "SecondLine": "Hip-hop · <GFC.music_studio.Artist2Years> contract years",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ListID": "genesis_record_label_artist2"
+                }
+              ]
+            }
+          ],
+          "IsVisible": "[gfc.music_studio.Artist2Signed=1]",
+          "BarGraph": {
+            "Title": "Morale",
+            "Value": "<GFC.music_studio.Artist2Morale>",
+            "Style": "LOW_IS_RED"
+          }
+        },
+        {
+          "Title": "Avery Static",
+          "Icon": "hero",
+          "SecondLine": "Electronic · <GFC.music_studio.Artist3Years> contract years",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ListID": "genesis_record_label_artist3"
+                }
+              ]
+            }
+          ],
+          "IsVisible": "[gfc.music_studio.Artist3Signed=1]",
+          "BarGraph": {
+            "Title": "Morale",
+            "Value": "<GFC.music_studio.Artist3Morale>",
+            "Style": "LOW_IS_RED"
+          }
+        },
+        {
+          "Title": "Jules Harbor",
+          "Icon": "hero",
+          "SecondLine": "Indie · <GFC.music_studio.Artist4Years> contract years",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ListID": "genesis_record_label_artist4"
+                }
+              ]
+            }
+          ],
+          "IsVisible": "[gfc.music_studio.Artist4Signed=1]",
+          "BarGraph": {
+            "Title": "Morale",
+            "Value": "<GFC.music_studio.Artist4Morale>",
+            "Style": "LOW_IS_RED"
+          }
+        }
+      ]
+    }
+  ]
+}

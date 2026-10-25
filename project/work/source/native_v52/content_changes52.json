@@ -1,0 +1,18 @@
+[
+  {
+    "asset": "genesis_loan",
+    "repair": "native legacy 32-column schema"
+  },
+  {
+    "asset": "genesis_entity_demo",
+    "repair": "native legacy 32-column schema"
+  },
+  {
+    "asset": "genesis_senior_center_entity_demo",
+    "repair": "native legacy 32-column schema"
+  },
+  {
+    "asset": "genesis_fight_ad_campaign",
+    "repair": "native legacy 32-column schema"
+  }
+]

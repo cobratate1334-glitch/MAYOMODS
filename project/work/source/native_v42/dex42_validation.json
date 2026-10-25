@@ -1,0 +1,76 @@
+{
+  "passed": true,
+  "binary_sha256": "5cd3bf98f50bbf4cb927eb8b71a7737bfcecc5a2879f21533ed45f59b475d0ee",
+  "preserved_classes_before_release_label_update": 114,
+  "launcher_families": [
+    "NamePackUI",
+    "PackGlyph42",
+    "PackWorkspace42",
+    "PresetPacks42"
+  ],
+  "all_classes_except_launcher_and_runtime_attachment_preserved": true,
+  "logging_collection_code_preserved": true,
+  "shortcuts_hidden_by_default": true,
+  "release_label_updates": [
+    {
+      "before": "Build: MayoMods v41; app: ",
+      "after": "Build: MayoMods v42; app: "
+    },
+    {
+      "before": "MayoMods v41 \u2014 Android crash record\n\n",
+      "after": "MayoMods v42 \u2014 Android crash record\n\n"
+    },
+    {
+      "before": "MayoMods v41 \u2014 local crash diagnostics\n\nLAST RECORDED CRASH / ERROR\n",
+      "after": "MayoMods v42 \u2014 local crash diagnostics\n\nLAST RECORDED CRASH / ERROR\n"
+    },
+    {
+      "before": "MayoMods v41 \u2014 recorded error\n",
+      "after": "MayoMods v42 \u2014 recorded error\n"
+    },
+    {
+      "before": "MayoMods-v41-crash-",
+      "after": "MayoMods-v42-crash-"
+    },
+    {
+      "before": "Native launch v41; packaged ABI: arm64-v8a; process: ",
+      "after": "Native launch v42; packaged ABI: arm64-v8a; process: "
+    },
+    {
+      "before": "New Life & Crash Diagnostics \u00b7 v41",
+      "after": "New Life & Crash Diagnostics \u00b7 v42"
+    }
+  ],
+  "label_update_preserves_every_code_item": true,
+  "original_play_native_load_and_signer_protection_retained": true,
+  "launch_context_logged": true,
+  "crash_report_document_export": true,
+  "modern_LOG_and_packs": true,
+  "community_icons_on_home": true,
+  "smali_roundtrip": true,
+  "min_api": 25,
+  "source_sha256": {
+    "PackWorkspace42.java": "216bf64f9a0ebd1df45c856aac8268ab7177708dd0d37523c048574ec3f4e347",
+    "NamePackUI.java": "8263ce76256f76249d77e1bf347c9d13f41a6b605d141a4db5682c6499d1201f",
+    "PackGlyph42.java": "1bc793b57b0320af607fef61d87d1e6f13d134226474a1b99b2eed03bc26d593",
+    "PresetPacks42.java": "cd5ea5c0215a9dbf30e0ec6b72efed9479562acde3b80181ad4e3e9303e16c2d",
+    "StartupActivity.java": "cbb600c2b9f883931c52cabbd00badab07abadf132a9647eb3c03765199a2b14",
+    "StartupProbe.java": "d7e1225dd842c44765c34bda2007a2bba490d53f7a48e9d88514a7ae1e6178c1",
+    "LaunchDiagnostics41.java": "ee87c201230f8a25699315caf070fd63b04e6f61cbc5a4c96c84c10c89d0d40d",
+    "ToolStyle41.java": "d25ce9dca9483c913d8237dd4e67e6dcc418491563020d238f4044dd3a740510",
+    "DiagnosticsUI.java": "23c376ec6ee6c69db9b7f17209dfe722d4fe3fc0ea2a3bd4d5c991657d81dcb7",
+    "LauncherIcon.java": "a82820cb152c008ccef2271deebf58b8f2ecbc048cd5381ab082523a5d8003fe",
+    "InGameTools41.java": "ac12466d7cc5c9017a0261f7b5a3c8dc0947d3e12617b6a6ec5fe025e04a884e",
+    "LifeSetupUI.java": "23a9a8eb150109d282b2db6b415b0f720ad97f70e710bcc89ad44af000d220da",
+    "CrashJournal.java": "07bf3fc7afcd826c86a54e056357743f5a2fa111754be916999545e7abb0cf6d",
+    "RuntimeLogCapture.java": "9baade8135fa3301e17aae97572e9bbb45e6a44a43c933a972d1309838bc167a",
+    "RuntimeLogStore.java": "4cfe617d0fd9da97d3df3fcef484f300efa35070bb299775fdfa501dd48c57cc",
+    "NativeCrashReader.java": "d1f65f068a3cdcfea680643e718fadc176ded0620516e83cfbef8f45c529e214",
+    "TombstoneReader.java": "b7896e9707f45f751c463a13b19a6898067a5c167de996afb62e40b95faa24bb",
+    "PackCatalog.java": "9af83b9b085ec13d218470351d17db97ded7d8c515a6a6ce26254a04d326501a",
+    "PackFormat.java": "4860dfdfdb706c041f2bd976729f3c9b042fc29c48c6bcb636b00e2ddfe37e75",
+    "LauncherMotion.java": "477d2d653fc089ef43482e6f922e267a853e6c1ced86f895eaeb8210e00a2455",
+    "FloatingDisplay.java": "abc2058b96ee9c9ed8b7a9fba55100daa5a11b0e747a143d2d056c6956860d78"
+  },
+  "device_runtime_tested": false
+}

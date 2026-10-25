@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "model_and_schema_checks": 6740,
+  "assets_sha256": "998bce8fd314aaf86dc0d58bf84421e875299171d478203051780b16c26980b4",
+  "author_source_sha256": "4e31aa9ec4794de8955dd29b2e9cb08ee5522add3f1b9e3a9e3feedaa3f55fd8",
+  "test_source_sha256": "3f1bde85176019d98e9ac93b1951117c91e91140bfb2875c5e4c3e48b7ecbb8f",
+  "police_assignments": 10,
+  "native_sentence_payloads": 76,
+  "duplicate_rewards_and_sentencing_guarded": true,
+  "actual_ARM64_performance_effects": true,
+  "Genesis_parser_UI_and_bank_modeled": true,
+  "device_runtime_tested": false
+}

@@ -1,0 +1,245 @@
+[
+  {
+    "id": 1,
+    "source": "20261013045637",
+    "name": "Cigarette",
+    "era": 0,
+    "base_price": 2,
+    "slot": "Mouth",
+    "regional": false
+  },
+  {
+    "id": 2,
+    "source": "20261013045725",
+    "name": "Feathered Fedora",
+    "era": 1,
+    "base_price": 18,
+    "slot": "Headwear",
+    "regional": false
+  },
+  {
+    "id": 3,
+    "source": "20261013045847",
+    "name": "Vintage Captain Cap",
+    "era": 0,
+    "base_price": 12,
+    "slot": "Headwear",
+    "regional": false
+  },
+  {
+    "id": 4,
+    "source": "20261013045921",
+    "name": "Classic Fedora",
+    "era": 1,
+    "base_price": 14,
+    "slot": "Headwear",
+    "regional": false
+  },
+  {
+    "id": 5,
+    "source": "20261013050214",
+    "name": "Brown Newsboy Cap",
+    "era": 0,
+    "base_price": 5,
+    "slot": "Headwear",
+    "regional": false
+  },
+  {
+    "id": 6,
+    "source": "20261013050452",
+    "name": "Service Cap",
+    "era": 0,
+    "base_price": 9,
+    "slot": "Headwear",
+    "regional": false
+  },
+  {
+    "id": 7,
+    "source": "20261013050826",
+    "name": "Bowler Hat",
+    "era": 0,
+    "base_price": 10,
+    "slot": "Headwear",
+    "regional": false
+  },
+  {
+    "id": 8,
+    "source": "20261013051244",
+    "name": "Black Trilby",
+    "era": 1,
+    "base_price": 13,
+    "slot": "Headwear",
+    "regional": false
+  },
+  {
+    "id": 9,
+    "source": "20261013051640",
+    "name": "Top Hat",
+    "era": 0,
+    "base_price": 25,
+    "slot": "Headwear",
+    "regional": false
+  },
+  {
+    "id": 10,
+    "source": "20261013052103",
+    "name": "Straw Fedora",
+    "era": 2,
+    "base_price": 9,
+    "slot": "Headwear",
+    "regional": false
+  },
+  {
+    "id": 11,
+    "source": "20261013052357",
+    "name": "Black Beret",
+    "era": 1,
+    "base_price": 8,
+    "slot": "Headwear",
+    "regional": false
+  },
+  {
+    "id": 12,
+    "source": "20261013071533",
+    "name": "Cream Fedora",
+    "era": 2,
+    "base_price": 12,
+    "slot": "Headwear",
+    "regional": false
+  },
+  {
+    "id": 13,
+    "source": "20261013072028",
+    "name": "Black Cowboy Hat",
+    "era": 0,
+    "base_price": 23,
+    "slot": "Headwear",
+    "regional": true
+  },
+  {
+    "id": 14,
+    "source": "20261013072345",
+    "name": "Grey Flat Cap",
+    "era": 0,
+    "base_price": 7,
+    "slot": "Headwear",
+    "regional": false
+  },
+  {
+    "id": 15,
+    "source": "20261013072710",
+    "name": "Tan Cowboy Hat",
+    "era": 0,
+    "base_price": 20,
+    "slot": "Headwear",
+    "regional": true
+  },
+  {
+    "id": 16,
+    "source": "20261014215042",
+    "name": "Cigar",
+    "era": 0,
+    "base_price": 4,
+    "slot": "Mouth",
+    "regional": false
+  },
+  {
+    "id": 17,
+    "source": "20261014215048",
+    "name": "Pipe",
+    "era": 0,
+    "base_price": 10,
+    "slot": "Mouth",
+    "regional": false
+  },
+  {
+    "id": 18,
+    "source": "20261014220009",
+    "name": "Pork Pie Hat",
+    "era": 2,
+    "base_price": 11,
+    "slot": "Headwear",
+    "regional": false
+  },
+  {
+    "id": 19,
+    "source": "20261015083955",
+    "name": "NY Baseball Cap",
+    "era": 3,
+    "base_price": 8,
+    "slot": "Headwear",
+    "regional": false
+  },
+  {
+    "id": 20,
+    "source": "20261015084612",
+    "name": "Cream Baseball Cap",
+    "era": 3,
+    "base_price": 7,
+    "slot": "Headwear",
+    "regional": false
+  },
+  {
+    "id": 21,
+    "source": "20261015115051",
+    "name": "Grey Beanie",
+    "era": 3,
+    "base_price": 6,
+    "slot": "Headwear",
+    "regional": false
+  },
+  {
+    "id": 22,
+    "source": "20261015115439",
+    "name": "Olive Bucket Hat",
+    "era": 3,
+    "base_price": 8,
+    "slot": "Headwear",
+    "regional": false
+  },
+  {
+    "id": 23,
+    "source": "20261015115740",
+    "name": "Charcoal Fedora",
+    "era": 3,
+    "base_price": 15,
+    "slot": "Headwear",
+    "regional": false
+  },
+  {
+    "id": 24,
+    "source": "cloche",
+    "name": "Burgundy Cloche",
+    "era": 0,
+    "base_price": 15,
+    "slot": "Headwear",
+    "regional": false
+  },
+  {
+    "id": 25,
+    "source": "homburg",
+    "name": "Navy Homburg",
+    "era": 1,
+    "base_price": 20,
+    "slot": "Headwear",
+    "regional": false
+  },
+  {
+    "id": 26,
+    "source": "pillbox",
+    "name": "Mustard Pillbox",
+    "era": 2,
+    "base_price": 14,
+    "slot": "Headwear",
+    "regional": false
+  },
+  {
+    "id": 27,
+    "source": "snapback",
+    "name": "Burgundy Snapback",
+    "era": 3,
+    "base_price": 9,
+    "slot": "Headwear",
+    "regional": false
+  }
+]

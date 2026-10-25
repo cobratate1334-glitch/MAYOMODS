@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "checks": 751,
+  "binary_sha256": "a667f5cfc30b4fdf8ccb8e5d92b550d0cc5ed8f6bae780c8ff652f433f98305a",
+  "native_post_channels": 8,
+  "custom_post_channels": 2,
+  "pack_records": 17955,
+  "real_native_String_Concat_executed": true,
+  "aslr_biases": [
+    0,
+    68719476736
+  ],
+  "volatile_registers_clobbered": true,
+  "saved_threads_reloaded": true,
+  "bounded_history": 24,
+  "stale_clicks_rejected": true,
+  "physical_phone_tested": false,
+  "Unity_rendering_tested": false
+}

@@ -1,0 +1,13 @@
+{
+  "arm64_cases": 34,
+  "sha256": "6d0d019d85fe85d668dbd0d3d58f2c35134ce92a4ee53397664dcf3f8d17e06b",
+  "aslr_biases": [
+    268435456,
+    68719476736
+  ],
+  "real_segment_permissions": true,
+  "JNI_environment_and_thread_lifetime": true,
+  "settings_clamped_and_consumed": true,
+  "load_failure_is_safe": true,
+  "device_runtime_tested": false
+}

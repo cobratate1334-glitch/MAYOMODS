@@ -1,0 +1,56 @@
+{
+  "ListID": "genesis_v9_v11_soccer_v11",
+  "Title": "SOCCER COMPETITIONS",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Competition Record",
+      "Icon": "clipboard",
+      "SecondLine": "",
+      "TileID": "v11_soccer_dashboard",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v11:NativeSoccerSync:=1>>scenario.activitiesV11.soccer_dashboard",
+              "ScenarioFile": "genesis_activities_v11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Current Tournament",
+      "Icon": "soccer-ball",
+      "SecondLine": "",
+      "TileID": "v11_soccer_fixtures",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v11:NativeSoccerSync:=1>>scenario.activitiesV11.soccer_fixtures",
+              "ScenarioFile": "genesis_activities_v11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "New Soccer Competitions",
+      "Icon": "stadium",
+      "TileID": "v12_new",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ListID": "genesis_v9_v12_soccer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

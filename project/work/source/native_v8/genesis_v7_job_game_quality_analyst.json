@@ -1,0 +1,102 @@
+{
+  "ListID": "genesis_v7_job_game_quality_analyst",
+  "Title": "GAME QUALITY ANALYST PROJECTS",
+  "PresentationMode": "Normal",
+  "Sections": [
+    {
+      "Items": [
+        {
+          "Title": "Project Dashboard",
+          "Icon": "clipboard",
+          "SecondLine": "Completed: <GFC.job_game_quality_analyst.Projects>",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_game_quality_analyst:NativeCareerSync:=1>>scenario.careersV7.job_game_quality_analystdeliver",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ],
+          "BarGraph": {
+            "Title": "Quality",
+            "Value": "<GFC.job_game_quality_analyst.Quality>",
+            "Style": "LOW_IS_RED"
+          }
+        }
+      ],
+      "Header": "Activities"
+    },
+    {
+      "Items": [
+        {
+          "Title": "Write a test plan",
+          "Icon": "memo",
+          "SecondLine": "Project stage 1",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_game_quality_analyst:NativeCareerSync:=1>>scenario.careersV7.job_game_quality_analyst1",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Reproduce a reported bug",
+          "Icon": "memo",
+          "SecondLine": "Project stage 2",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_game_quality_analyst:NativeCareerSync:=1>>scenario.careersV7.job_game_quality_analyst2",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Verify the release build",
+          "Icon": "memo",
+          "SecondLine": "Project stage 3",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_game_quality_analyst:NativeCareerSync:=1>>scenario.careersV7.job_game_quality_analyst3",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Submit and Review",
+          "Icon": "chart-bar",
+          "SecondLine": "Turn project progress into job performance",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_game_quality_analyst:NativeCareerSync:=1>>scenario.careersV7.job_game_quality_analystdeliver",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "Header": "Job Activities"
+    }
+  ]
+}

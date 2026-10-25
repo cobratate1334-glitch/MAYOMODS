@@ -1,0 +1,197 @@
+{
+  "passed": true,
+  "abis": [
+    "arm64-v8a"
+  ],
+  "minSdkVersion": 25,
+  "targetSdkVersion": 35,
+  "required_features": [
+    {
+      "glEsVersion": 196608
+    },
+    {
+      "name": "android.hardware.touchscreen",
+      "required": false
+    },
+    {
+      "name": "android.hardware.touchscreen.multitouch",
+      "required": false
+    },
+    {
+      "name": "android.hardware.touchscreen.multitouch.distinct",
+      "required": false
+    }
+  ],
+  "native_libraries": [
+    {
+      "name": "lib/arm64-v8a/libRocketGames.so",
+      "sha256": "89e181eae98c44623c40f2732e8c0a899fa318b907576daf588159121b6764cb",
+      "machine": "EM_AARCH64",
+      "minimum_load_alignment": 16384,
+      "offsets_congruent_16KB": true
+    },
+    {
+      "name": "lib/arm64-v8a/libRocketGamesTool.so",
+      "sha256": "b906d287ea300bc45f4bbc5de1826b96f683bc6c1f9742cae2b9af619506691f",
+      "machine": "EM_AARCH64",
+      "minimum_load_alignment": 16384,
+      "offsets_congruent_16KB": true
+    },
+    {
+      "name": "lib/arm64-v8a/libil2cpp.so",
+      "sha256": "d17f9a0b9c68eb67226640d1a92ad1b834edfeec352408cebfc41d966e78959a",
+      "machine": "EM_AARCH64",
+      "minimum_load_alignment": 16384,
+      "offsets_congruent_16KB": true
+    },
+    {
+      "name": "lib/arm64-v8a/libAsyncGPUReadbackPlugin.so",
+      "sha256": "7ceb04c6c42668e403e2607d34df1f129a003640ec93efcf2250f2762be98083",
+      "machine": "EM_AARCH64",
+      "minimum_load_alignment": 4096,
+      "offsets_congruent_16KB": false
+    },
+    {
+      "name": "lib/arm64-v8a/libapplovin-native-crash-reporter.so",
+      "sha256": "ecf2a7327be482870f4c791392a50cecfeaabb2c76a7224898e9713a18c4c36a",
+      "machine": "EM_AARCH64",
+      "minimum_load_alignment": 16384,
+      "offsets_congruent_16KB": true
+    },
+    {
+      "name": "lib/arm64-v8a/libmain.so",
+      "sha256": "ea04624f7afb2a4e426ddb8215651100c5c1d04456c2b9ca533cba943d2666e8",
+      "machine": "EM_AARCH64",
+      "minimum_load_alignment": 16384,
+      "offsets_congruent_16KB": true
+    },
+    {
+      "name": "lib/arm64-v8a/libcrashlytics-common.so",
+      "sha256": "db3c33bc6e1c0d049466280c32bd7419f9708f53ca8f5f95d584ef281996918f",
+      "machine": "EM_AARCH64",
+      "minimum_load_alignment": 16384,
+      "offsets_congruent_16KB": true
+    },
+    {
+      "name": "lib/arm64-v8a/libunity.so",
+      "sha256": "8275e81f19c467314182c43aa6e3e90d6bc43c8fe76c437fe5ed7cc9fb9ac024",
+      "machine": "EM_AARCH64",
+      "minimum_load_alignment": 16384,
+      "offsets_congruent_16KB": true
+    },
+    {
+      "name": "lib/arm64-v8a/libcrashlytics.so",
+      "sha256": "cad4bd6e1a6fb97cea9d02ac3f2c9c0e90c62064f7b018cf26b0a806e1489b6e",
+      "machine": "EM_AARCH64",
+      "minimum_load_alignment": 16384,
+      "offsets_congruent_16KB": true
+    },
+    {
+      "name": "lib/arm64-v8a/libcrashlytics-trampoline.so",
+      "sha256": "811584e54eed37e92c84beb6c66c12bc6cfaa864c53db2bbb96878d95b516d60",
+      "machine": "EM_AARCH64",
+      "minimum_load_alignment": 16384,
+      "offsets_congruent_16KB": true
+    },
+    {
+      "name": "lib/arm64-v8a/libFirebaseCppCrashlytics.so",
+      "sha256": "9dae132e917d17e3415de3752e4c2860f5b9f3e0b5370e4a76237771536493bd",
+      "machine": "EM_AARCH64",
+      "minimum_load_alignment": 16384,
+      "offsets_congruent_16KB": true
+    },
+    {
+      "name": "lib/arm64-v8a/libFirebaseCppMessaging.so",
+      "sha256": "7d5a37744d6796eaecb5eaa09be8732b70f35f098c60819956b8718bbafca9e9",
+      "machine": "EM_AARCH64",
+      "minimum_load_alignment": 16384,
+      "offsets_congruent_16KB": true
+    },
+    {
+      "name": "lib/arm64-v8a/libFirebaseCppApp-12_10_1.so",
+      "sha256": "eb2beed5455cabddb5833165b3d9e1a77b78acf6625449ad5edf2f3b1cd1d776",
+      "machine": "EM_AARCH64",
+      "minimum_load_alignment": 16384,
+      "offsets_congruent_16KB": true
+    },
+    {
+      "name": "lib/arm64-v8a/libquickjs.so",
+      "sha256": "535a179c2aafaad2e653b4f4944fe095eface9cc157897248f8b65f06ed3a9af",
+      "machine": "EM_AARCH64",
+      "minimum_load_alignment": 16384,
+      "offsets_congruent_16KB": true
+    },
+    {
+      "name": "lib/arm64-v8a/libGadsmeAndroidPlugin.so",
+      "sha256": "3a774ffab25a3673e9e944fedc1091b239cccb4572b8b58e80f0bf8bec8940a3",
+      "machine": "EM_AARCH64",
+      "minimum_load_alignment": 16384,
+      "offsets_congruent_16KB": true
+    },
+    {
+      "name": "lib/arm64-v8a/libFirebaseCppAnalytics.so",
+      "sha256": "fb1cfd21c9da0580ab4b9c3c39fc55cc5cac79d5998f66e94b7a16fd14c34e94",
+      "machine": "EM_AARCH64",
+      "minimum_load_alignment": 16384,
+      "offsets_congruent_16KB": true
+    },
+    {
+      "name": "lib/arm64-v8a/libembrace-native.so",
+      "sha256": "ac087790662b455f24cdcf72542891823bcb8ce3d9dc143f3960957aa55ce36f",
+      "machine": "EM_AARCH64",
+      "minimum_load_alignment": 16384,
+      "offsets_congruent_16KB": true
+    },
+    {
+      "name": "lib/arm64-v8a/libdatastore_shared_counter.so",
+      "sha256": "d3e48717c9aa147e0ab21063ba0e8e0211cabf8bf40b222640829519edbf58e1",
+      "machine": "EM_AARCH64",
+      "minimum_load_alignment": 16384,
+      "offsets_congruent_16KB": true
+    },
+    {
+      "name": "lib/arm64-v8a/libquack.so",
+      "sha256": "d31ec32443fe7e57a08cbd10534def7c3943f9a9df8fb97aa25d945189b34b4b",
+      "machine": "EM_AARCH64",
+      "minimum_load_alignment": 16384,
+      "offsets_congruent_16KB": true
+    },
+    {
+      "name": "lib/arm64-v8a/libcrashlytics-handler.so",
+      "sha256": "810521d2e125c4f87a8bd5fa70e73877dd832494acac9e9f86734258f359935f",
+      "machine": "EM_AARCH64",
+      "minimum_load_alignment": 16384,
+      "offsets_congruent_16KB": true
+    },
+    {
+      "name": "lib/arm64-v8a/libBufferToPointer.so",
+      "sha256": "f6bf1b9423aa369b8298efa8bf621f3341292dfd095aa65687970b8c1a198689",
+      "machine": "EM_AARCH64",
+      "minimum_load_alignment": 16384,
+      "offsets_congruent_16KB": true
+    },
+    {
+      "name": "lib/arm64-v8a/libpairipcore.so",
+      "sha256": "efd8c1d390215bd8cfce141635cd167a3ac8b0a7aa527018ffe09585728be408",
+      "machine": "EM_AARCH64",
+      "minimum_load_alignment": 16384,
+      "offsets_congruent_16KB": true
+    },
+    {
+      "name": "lib/arm64-v8a/libmayo21.so",
+      "sha256": "8ef7dfa64e841a459b3d4b341196d7215a9b2bf922a51d4e0f616c9c39d4c925",
+      "machine": "EM_AARCH64",
+      "minimum_load_alignment": 16384,
+      "offsets_congruent_16KB": true
+    }
+  ],
+  "universal_android_build": false,
+  "ARM32_engine_present": false,
+  "x86_engine_present": false,
+  "known_16KB_alignment_limit": [
+    "lib/arm64-v8a/libAsyncGPUReadbackPlugin.so"
+  ],
+  "manifest_compatibility_requirements_unchanged": true,
+  "physical_device_matrix_tested": false,
+  "policy": "Keep real engine requirements; do not advertise unsupported ABIs or lower SDK without matching native engines."
+}

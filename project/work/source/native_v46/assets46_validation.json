@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "modified_TextAssets": 16,
+  "added_TextAssets": [
+    "genesis_v18_expansions46",
+    "genesis_v18_defaults_expansions46"
+  ],
+  "unedited_Unity_objects_preserved": true,
+  "existing_resource_paths_preserved": true,
+  "datapack_sha256": "9cb74e21a6cd6ec236e03ab9cd88d775d91dd442b277bd16cf90cd1b69ae51b0",
+  "data_sha256": "ee4cfe50ff734cf6db77582076e39741bb8bbe9be92d32f47f49a671394af8fe"
+}

@@ -1,0 +1,33 @@
+{
+  "instrumented_methods": [
+    [
+      "smali12/com/android/support/Main.smali",
+      "private static enforceProtection(Landroid/content/Context;)Z"
+    ],
+    [
+      "smali12/com/android/support/Main.smali",
+      "public static Start(Landroid/content/Context;)V"
+    ],
+    [
+      "smali12/com/android/support/Main.smali",
+      "public static StartWithoutPermission(Landroid/content/Context;)V"
+    ],
+    [
+      "smali12/com/android/support/Main.smali",
+      "private static reject(Landroid/content/Context;Ljava/lang/String;)V"
+    ],
+    [
+      "smali12/com/android/support/CrashHandler$1.smali",
+      "public uncaughtException(Ljava/lang/Thread;Ljava/lang/Throwable;)V"
+    ],
+    [
+      "smali10/com/unity3d/player/UnityPlayerActivity.smali",
+      "protected onCreate(Landroid/os/Bundle;)V"
+    ],
+    [
+      "smali10/com/unity3d/player/UnityPlayerActivity.smali",
+      "protected onResume()V"
+    ]
+  ],
+  "original_instructions_preserved_after_removing_probe_blocks": true
+}

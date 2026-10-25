@@ -1,0 +1,102 @@
+{
+  "ListID": "genesis_v7_job_market_research_analyst",
+  "Title": "MARKET RESEARCH ANALYST PROJECTS",
+  "PresentationMode": "Normal",
+  "Sections": [
+    {
+      "Items": [
+        {
+          "Title": "Project Dashboard",
+          "Icon": "clipboard",
+          "SecondLine": "Completed: <GFC.job_market_research_analyst.Projects>",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_market_research_analyst:NativeCareerSync:=1>>scenario.careersV7.job_market_research_analystdeliver",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ],
+          "BarGraph": {
+            "Title": "Quality",
+            "Value": "<GFC.job_market_research_analyst.Quality>",
+            "Style": "LOW_IS_RED"
+          }
+        }
+      ],
+      "Header": "Activities"
+    },
+    {
+      "Items": [
+        {
+          "Title": "Design an audience survey",
+          "Icon": "memo",
+          "SecondLine": "Project stage 1",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_market_research_analyst:NativeCareerSync:=1>>scenario.careersV7.job_market_research_analyst1",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Analyse survey results",
+          "Icon": "memo",
+          "SecondLine": "Project stage 2",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_market_research_analyst:NativeCareerSync:=1>>scenario.careersV7.job_market_research_analyst2",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Present market findings",
+          "Icon": "memo",
+          "SecondLine": "Project stage 3",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_market_research_analyst:NativeCareerSync:=1>>scenario.careersV7.job_market_research_analyst3",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Submit and Review",
+          "Icon": "chart-bar",
+          "SecondLine": "Turn project progress into job performance",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_market_research_analyst:NativeCareerSync:=1>>scenario.careersV7.job_market_research_analystdeliver",
+                  "ScenarioFile": "genesis_careers_v7"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "Header": "Job Activities"
+    }
+  ]
+}

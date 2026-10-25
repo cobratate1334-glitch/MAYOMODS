@@ -1,0 +1,12 @@
+{
+  "site": 902332,
+  "stub": 2016256,
+  "resume": 902336,
+  "source": "sub sp, sp, #0x180\nstp x0, x1, [sp, #0]\nstp x2, x3, [sp, #16]\nstp x4, x5, [sp, #32]\nstp x6, x7, [sp, #48]\nstp x8, x9, [sp, #64]\nstp x10, x11, [sp, #80]\nstp x12, x13, [sp, #96]\nstp x14, x15, [sp, #112]\nstp x16, x17, [sp, #128]\nstp x18, x19, [sp, #144]\nstp x20, x21, [sp, #160]\nstp x22, x23, [sp, #176]\nstp x24, x25, [sp, #192]\nstp x26, x27, [sp, #208]\nstp x28, x29, [sp, #224]\nstr x30, [sp, #0xf0]\nstp q0, q1, [sp, #256]\nstp q2, q3, [sp, #288]\nstp q4, q5, [sp, #320]\nstp q6, q7, [sp, #352]\nadr x0, 0x1ee000\nadr x1, 0x1ee0a0\nbl 0x1b2d70\ncbz x0,finish\nbl 0x1b2d90\nstr xzr,[sp,#0xb8]\nfinish:\nldp x0, x1, [sp, #0]\nldp x2, x3, [sp, #16]\nldp x4, x5, [sp, #32]\nldp x6, x7, [sp, #48]\nldp x8, x9, [sp, #64]\nldp x10, x11, [sp, #80]\nldp x12, x13, [sp, #96]\nldp x14, x15, [sp, #112]\nldp x16, x17, [sp, #128]\nldp x18, x19, [sp, #144]\nldp x20, x21, [sp, #160]\nldp x22, x23, [sp, #176]\nldp x24, x25, [sp, #192]\nldp x26, x27, [sp, #208]\nldp x28, x29, [sp, #224]\nldr x30, [sp, #0xf0]\nldp q0, q1, [sp, #256]\nldp q2, q3, [sp, #288]\nldp q4, q5, [sp, #320]\nldp q6, q7, [sp, #352]\nadd sp, sp, #0x180\nadd x0,x19,#0xc\nb 0xdc4c0",
+  "segment_va": 2015232,
+  "segment_offset": 1835008,
+  "segment_size": 8448,
+  "marker": "/data/data/com.candywriter.bitlife/files/chance_hide_rocket_logo",
+  "binary_sha256": "ade09ea258a60b80f478e20604c94ba815b2030c870a5a9c521cad405495c3d7",
+  "original_verification_and_binding_preserved": true
+}

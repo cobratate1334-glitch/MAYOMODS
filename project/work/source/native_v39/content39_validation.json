@@ -1,0 +1,415 @@
+{
+  "new_scenarios": 367,
+  "new_assets": [
+    "genesis_v18_corpmarkets39",
+    "genesis_v18_familybranch039",
+    "genesis_v18_familybranch139",
+    "genesis_v18_familybranch239",
+    "genesis_v18_familybranch339",
+    "genesis_v18_familytree39",
+    "genesis_v18_worlds39",
+    "genesis_v18_defaults_worlds39"
+  ],
+  "modified_assets": [
+    "genesis_activities_v18",
+    "genesis_feature_containers",
+    "genesis_v18_community35"
+  ],
+  "owner": "worlds39",
+  "new_saved_properties": 425,
+  "features": [
+    {
+      "prefix": "Military",
+      "title": "Military & Special Forces",
+      "subtitle": "Training; branches; promotions; saved missions",
+      "icon": "suitcase",
+      "home": "w39_Military"
+    },
+    {
+      "prefix": "Police",
+      "title": "Police & Investigations",
+      "subtitle": "Training; branches; promotions; saved missions",
+      "icon": "suitcase",
+      "home": "w39_Police"
+    },
+    {
+      "prefix": "Intel",
+      "title": "Intelligence Agencies",
+      "subtitle": "Training; branches; promotions; saved missions",
+      "icon": "suitcase",
+      "home": "w39_Intel"
+    },
+    {
+      "prefix": "Science",
+      "title": "Science & Cosmic Research",
+      "subtitle": "Academic; public health; space; invented forbidden projects",
+      "icon": "light-bulb",
+      "home": "w39_Science"
+    },
+    {
+      "prefix": "Myth",
+      "title": "Mythology & Dark Folklore",
+      "subtitle": "Werewolves; vampire covens; full moons; legendary quests",
+      "icon": "face-thinking",
+      "home": "w39_Myth"
+    },
+    {
+      "prefix": "Alien",
+      "title": "Alien Lives & First Contact",
+      "subtitle": "Alien identities; invented worlds; camouflage; diplomacy",
+      "icon": "earth",
+      "home": "w39_Alien"
+    },
+    {
+      "prefix": "Disaster",
+      "title": "Disaster Survival & Prepping",
+      "subtitle": "Bunkers; supplies; four-week emergencies; family story safety",
+      "icon": "clipboard",
+      "home": "w39_Disaster"
+    },
+    {
+      "prefix": "Bio",
+      "title": "Cybernetics & Secret Projects",
+      "subtitle": "Invented augmentations; project funding; stability; oversight",
+      "icon": "light-bulb",
+      "home": "w39_Bio"
+    },
+    {
+      "prefix": "Racing",
+      "title": "Motorsport: Karts to the Grid",
+      "subtitle": "Karting; open wheel; stock cars; motorcycle race weekends",
+      "icon": "trophy",
+      "home": "w39_Racing"
+    },
+    {
+      "prefix": "Coach",
+      "title": "Sports Manager & Head Coach",
+      "subtitle": "Licenses; roster development; transfers; matchday; board demands",
+      "icon": "soccer-ball",
+      "home": "w39_Coach"
+    },
+    {
+      "prefix": "National",
+      "title": "National Teams & Olympic Stories",
+      "subtitle": "Call-ups; international camps; three-round tournaments; coaching",
+      "icon": "trophy",
+      "home": "w39_National"
+    },
+    {
+      "prefix": "Archaeology",
+      "title": "Archaeology & Museum Tycoon",
+      "subtitle": "Study; permitted expeditions; artifact records; museum operation",
+      "icon": "books",
+      "home": "w39_Archaeology"
+    },
+    {
+      "prefix": "Corp",
+      "title": "Corporate Empires & IPOs",
+      "subtitle": "Era sectors; global branches; shareholders; takeovers",
+      "icon": "suitcase",
+      "home": "w39_Corp"
+    },
+    {
+      "prefix": "Property",
+      "title": "Construction & Property Tycoon",
+      "subtitle": "Land; permits; contractors; build delays; tenants; rentals",
+      "icon": "suitcase",
+      "home": "w39_Property"
+    },
+    {
+      "prefix": "Influencer",
+      "title": "Influencer Studios & Talent Agencies",
+      "subtitle": "Equipment; staff; uploads; creators; brand management; PR",
+      "icon": "film-frames",
+      "home": "w39_Influencer"
+    },
+    {
+      "prefix": "Sponsor",
+      "title": "Global Sponsorships & Endorsements",
+      "subtitle": "Career reputation; offers; campaigns; multi-year payouts",
+      "icon": "handshake",
+      "home": "w39_Sponsor"
+    },
+    {
+      "prefix": "Lineage",
+      "title": "Celebrity Parents & Family Tree",
+      "subtitle": "Early-life celebrity origins; story relatives; marriages; descendants",
+      "icon": "handshake",
+      "home": "w39_Lineage"
+    },
+    {
+      "prefix": "Royal",
+      "title": "Royal Government & Diplomacy",
+      "subtitle": "Parliament; laws; treasury; fictional wars; royal scandals",
+      "icon": "trophy",
+      "home": "w39_Royal"
+    },
+    {
+      "prefix": "Court",
+      "title": "Judicial & Prison Stories",
+      "subtitle": "Defense counsel; trial stages; factions; contraband; sentence clock",
+      "icon": "clipboard",
+      "home": "w39_Court"
+    },
+    {
+      "prefix": "Publishing",
+      "title": "Publishing & TV Cast Expansion",
+      "subtitle": "New manga concepts; catalogue legacy; editor feedback; TV cast drama",
+      "icon": "notebook",
+      "home": "w39_Publishing"
+    }
+  ],
+  "cached_events": {
+    "1": {
+      "key": "Military_mission0",
+      "prefix": "Military",
+      "min_age": 18
+    },
+    "2": {
+      "key": "Military_mission1",
+      "prefix": "Military",
+      "min_age": 18
+    },
+    "3": {
+      "key": "Military_mission2",
+      "prefix": "Military",
+      "min_age": 18
+    },
+    "4": {
+      "key": "Police_mission0",
+      "prefix": "Police",
+      "min_age": 18
+    },
+    "5": {
+      "key": "Police_mission1",
+      "prefix": "Police",
+      "min_age": 18
+    },
+    "6": {
+      "key": "Police_mission2",
+      "prefix": "Police",
+      "min_age": 18
+    },
+    "7": {
+      "key": "Intel_mission0",
+      "prefix": "Intel",
+      "min_age": 18
+    },
+    "8": {
+      "key": "Intel_mission1",
+      "prefix": "Intel",
+      "min_age": 18
+    },
+    "9": {
+      "key": "Intel_mission2",
+      "prefix": "Intel",
+      "min_age": 18
+    },
+    "10": {
+      "key": "Science_experiment",
+      "prefix": "Science",
+      "min_age": 18
+    },
+    "11": {
+      "key": "Myth_quest0",
+      "prefix": "Myth",
+      "min_age": 18
+    },
+    "12": {
+      "key": "Myth_quest1",
+      "prefix": "Myth",
+      "min_age": 18
+    },
+    "13": {
+      "key": "Myth_quest2",
+      "prefix": "Myth",
+      "min_age": 18
+    },
+    "14": {
+      "key": "Alien_outing",
+      "prefix": "Alien",
+      "min_age": 6
+    },
+    "15": {
+      "key": "Disaster_turn0",
+      "prefix": "Disaster",
+      "min_age": 18
+    },
+    "16": {
+      "key": "Disaster_turn1",
+      "prefix": "Disaster",
+      "min_age": 18
+    },
+    "17": {
+      "key": "Disaster_turn2",
+      "prefix": "Disaster",
+      "min_age": 18
+    },
+    "18": {
+      "key": "Bio_project0",
+      "prefix": "Bio",
+      "min_age": 18
+    },
+    "19": {
+      "key": "Bio_project1",
+      "prefix": "Bio",
+      "min_age": 18
+    },
+    "20": {
+      "key": "Bio_project2",
+      "prefix": "Bio",
+      "min_age": 18
+    },
+    "21": {
+      "key": "Racing_race0",
+      "prefix": "Racing",
+      "min_age": 6
+    },
+    "22": {
+      "key": "Racing_race1",
+      "prefix": "Racing",
+      "min_age": 6
+    },
+    "23": {
+      "key": "Racing_race2",
+      "prefix": "Racing",
+      "min_age": 6
+    },
+    "24": {
+      "key": "Coach_match0",
+      "prefix": "Coach",
+      "min_age": 21
+    },
+    "25": {
+      "key": "Coach_match1",
+      "prefix": "Coach",
+      "min_age": 21
+    },
+    "26": {
+      "key": "Coach_match2",
+      "prefix": "Coach",
+      "min_age": 21
+    },
+    "27": {
+      "key": "National_round",
+      "prefix": "National",
+      "min_age": 16
+    },
+    "28": {
+      "key": "National_scandal",
+      "prefix": "National",
+      "min_age": 16
+    },
+    "29": {
+      "key": "Archaeology_expedition0",
+      "prefix": "Archaeology",
+      "min_age": 18
+    },
+    "30": {
+      "key": "Archaeology_expedition1",
+      "prefix": "Archaeology",
+      "min_age": 18
+    },
+    "31": {
+      "key": "Archaeology_expedition2",
+      "prefix": "Archaeology",
+      "min_age": 18
+    },
+    "32": {
+      "key": "Archaeology_incident",
+      "prefix": "Archaeology",
+      "min_age": 18
+    },
+    "33": {
+      "key": "Corp_crisis",
+      "prefix": "Corp",
+      "min_age": 18
+    },
+    "34": {
+      "key": "Corp_espionage",
+      "prefix": "Corp",
+      "min_age": 18
+    },
+    "35": {
+      "key": "Property_plot0_construction",
+      "prefix": "Property",
+      "min_age": 18
+    },
+    "36": {
+      "key": "Property_plot1_construction",
+      "prefix": "Property",
+      "min_age": 18
+    },
+    "37": {
+      "key": "Property_plot2_construction",
+      "prefix": "Property",
+      "min_age": 18
+    },
+    "38": {
+      "key": "Influencer_post",
+      "prefix": "Influencer",
+      "min_age": 13
+    },
+    "39": {
+      "key": "Lineage_birth",
+      "prefix": "Lineage",
+      "min_age": 0
+    },
+    "40": {
+      "key": "Royal_war",
+      "prefix": "Royal",
+      "min_age": 18
+    },
+    "41": {
+      "key": "Royal_scandal",
+      "prefix": "Royal",
+      "min_age": 18
+    },
+    "42": {
+      "key": "Court_verdict",
+      "prefix": "Court",
+      "min_age": 18
+    },
+    "43": {
+      "key": "Court_bribe",
+      "prefix": "Court",
+      "min_age": 18
+    },
+    "44": {
+      "key": "Court_contraband",
+      "prefix": "Court",
+      "min_age": 18
+    },
+    "45": {
+      "key": "Court_escape",
+      "prefix": "Court",
+      "min_age": 18
+    },
+    "46": {
+      "key": "Publishing_drama",
+      "prefix": "Publishing",
+      "min_age": 18
+    }
+  },
+  "stock_entities_unchanged": true,
+  "passed": true,
+  "datapack_sha256": "9c51cc00963e25dee72b29aca67af85860dc40321bc5a92c08eaaa9b5da85976",
+  "data_sha256": "1037556ca4ec4c573064c86a7110e1e574bb6d6c62faf9e1d83ca85674fe8b39",
+  "assets_sha256": "b72bf28c4c189f4c2e806b4bbf93b7b11967f265396e9b9b824f8e6594803829",
+  "added_TextAssets": {
+    "genesis_v18_corpmarkets39": 37719,
+    "genesis_v18_familybranch039": 37720,
+    "genesis_v18_familybranch139": 37721,
+    "genesis_v18_familybranch239": 37722,
+    "genesis_v18_familybranch339": 37723,
+    "genesis_v18_familytree39": 37724,
+    "genesis_v18_worlds39": 37725,
+    "genesis_v18_defaults_worlds39": 37726
+  },
+  "modified_TextAssets": 3,
+  "all_other_Unity_objects_byte_identical": true,
+  "all_original_resource_paths_preserved": true,
+  "all_original_scenario_rows_preserved": true,
+  "physical_device_tested": false,
+  "Unity_rendering_modeled": true
+}

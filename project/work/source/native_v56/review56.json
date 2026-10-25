@@ -1,0 +1,49 @@
+{
+  "emitted_arm64": true,
+  "Android_screenshot": false,
+  "physical_device_tested": false,
+  "cases": [
+    {
+      "title": "Base",
+      "scar": 0,
+      "patch": 0,
+      "width": 96,
+      "height": 96
+    },
+    {
+      "title": "Scar",
+      "scar": 49101,
+      "patch": 0,
+      "width": 96,
+      "height": 96
+    },
+    {
+      "title": "Black patch",
+      "scar": 0,
+      "patch": 49201,
+      "width": 96,
+      "height": 96
+    },
+    {
+      "title": "Red lens",
+      "scar": 0,
+      "patch": 49222,
+      "width": 96,
+      "height": 96
+    },
+    {
+      "title": "Scar + patch",
+      "scar": 49112,
+      "patch": 49208,
+      "width": 96,
+      "height": 96
+    },
+    {
+      "title": "Removed",
+      "scar": 0,
+      "patch": 0,
+      "width": 96,
+      "height": 96
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "passed": true,
+  "version": "v43",
+  "versionCode": 1087,
+  "sha256": "9bc2beed4310a678f85dcc53592e12c6864668976bed3bc18df3c0d4631bf697",
+  "bytes": 330768763,
+  "changed_entries": [
+    "AndroidManifest.xml",
+    "lib/arm64-v8a/libil2cpp.so",
+    "assets/bin/Data/data.unity3d",
+    "assets/bin/Data/datapack.unity3d"
+  ],
+  "preserved_entries": 2772,
+  "existing_signer_retained": true,
+  "signature_verification": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]",
+  "all_Dex_and_other_22_native_libraries_preserved": true,
+  "only_declared_native_edit_ranges": true,
+  "stored_entry_alignment_verified": true,
+  "manifest_version": {
+    "previous": 1086,
+    "current": 1087,
+    "byte_offset": 33508,
+    "other_manifest_bytes_preserved": true
+  },
+  "validation": {
+    "native43": {
+      "passed": true,
+      "binary_sha256": "c88b60926805a9edbaa567e61ab7b3e5e21c431a920a2e0215ef4a0228b22016",
+      "arm64_checks": 2212,
+      "ASLR_biases": [
+        0,
+        68719476736
+      ],
+      "all_360_styles_shuffled_actual_component_lists": true,
+      "missing_ID_negative_control": true,
+      "cache_recovery_and_idempotence": true,
+      "custom_clone_tint_preservation": true,
+      "all_15_picker_choices": true,
+      "Unity_and_managed_string_implementation_mocked": true,
+      "physical_device_tested": false
+    },
+    "content43": {
+      "passed": true,
+      "new_portrait_styles": 204,
+      "total_portrait_styles": 360,
+      "vitiligo_layers_revised": 36,
+      "trait_choices": 15,
+      "all_other_Unity_objects_preserved": true,
+      "existing_resource_paths_preserved": true,
+      "new_texture_pixel_roundtrips_verified": true,
+      "datapack_sha256": "d3414cd8f15ae0d2ec0e954e7a8831e00ab7b2bfe5fa18a37de76de147b7a481",
+      "data_sha256": "71ba7f84791c6a748e38526f12f4ed4b25a43bf263823dd8044b0c733169145f",
+      "device_rendering_tested": false
+    },
+    "retained43": {
+      "passed": true,
+      "binary_sha256": "c88b60926805a9edbaa567e61ab7b3e5e21c431a920a2e0215ef4a0228b22016",
+      "checks": 1251,
+      "reports": {
+        "gameplay41_native_validation.json": {
+          "passed": true,
+          "arm64_checks": 93,
+          "binary_sha256": "c88b60926805a9edbaa567e61ab7b3e5e21c431a920a2e0215ef4a0228b22016",
+          "test_sha256": "56ffbc2dcacf0cc8a3b367c61e0afd3413096f9a6a69d75dc288ad27b9411962",
+          "real_prison_conduct_instructions_executed": true,
+          "arrest_creation_and_Unity_UI_mocked": true,
+          "parole_board_matches_disassembled_stock_thresholds": true,
+          "checkin_warrant_and_expiry_checked": true,
+          "aslr_biases": [
+            0,
+            68719476736
+          ],
+          "device_runtime_tested": false
+        },
+        "retained40_validation.json": {
+          "passed": true,
+          "retained_arm64_behavior_checks": 76,
+          "binary_sha256": "c88b60926805a9edbaa567e61ab7b3e5e21c431a920a2e0215ef4a0228b22016",
+          "old_career_and_sentencing_cases_retained": true,
+          "Unity_and_allocation_mocked": true,
+          "device_runtime_tested": false
+        },
+        "native34_validation.json": {
+          "binary_sha256": "c88b60926805a9edbaa567e61ab7b3e5e21c431a920a2e0215ef4a0228b22016",
+          "arm64_cases": 1082,
+          "aslr_biases": [
+            0,
+            68719476736
+          ],
+          "actual_Action_Invoke_executed": true,
+          "real_ELF_RW_and_BSS_initial_contents_loaded": true,
+          "actual_return_hook_and_RefreshSetup_executed": true,
+          "all_293_choices_executed": true,
+          "six_fields_directly_in_New_Life": true,
+          "stock_rounded_selector_prefab_and_scroller": true,
+          "short_labels": true,
+          "rapid_repeat_edits_and_stale_Actions_checked": true,
+          "same_controller_close_reopen_checked": true,
+          "all_UI_GC_roots_released_on_dismiss_and_birth": true,
+          "existing_genetic_engine_and_baby_growth_preserved": true,
+          "stock_Start_methods_unhooked": true,
+          "Unity_prefabs_collections_and_transition_timing_modeled": true,
+          "device_runtime_tested": false,
+          "BlueStacks_runtime_tested": false
+        }
+      },
+      "Android_runtime_tested": false
+    }
+  },
+  "physical_phone_tested": false,
+  "ART_tested": false,
+  "Unity_rendering_tested": false
+}

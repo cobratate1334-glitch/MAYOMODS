@@ -1,0 +1,1156 @@
+{
+  "community35": {
+    "MangaPaidAge": {
+      "key": "MangaPaidAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "TVPaidAge": {
+      "key": "TVPaidAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "BusinessPaidAge": {
+      "key": "BusinessPaidAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "FootagePaidAge": {
+      "key": "FootagePaidAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "Trait35": {
+      "key": "Trait35",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 12
+    },
+    "TraitName35": {
+      "key": "TraitName35",
+      "type": "string",
+      "value": "No additional trait",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "TraitDescription35": {
+      "key": "TraitDescription35",
+      "type": "string",
+      "value": "Choose an additional personality trait.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "MangaGenre": {
+      "key": "MangaGenre",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 2
+    },
+    "MangaConcept": {
+      "key": "MangaConcept",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 2
+    },
+    "MangaActive": {
+      "key": "MangaActive",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "MangaQuality": {
+      "key": "MangaQuality",
+      "type": "int",
+      "value": 25,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "MangaReputation": {
+      "key": "MangaReputation",
+      "type": "int",
+      "value": 10,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "MangaAssistants": {
+      "key": "MangaAssistants",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "MangaWeek": {
+      "key": "MangaWeek",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "MangaSales": {
+      "key": "MangaSales",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 2000000000
+    },
+    "MangaFans": {
+      "key": "MangaFans",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 10000000
+    },
+    "MangaRoyalty": {
+      "key": "MangaRoyalty",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 20000000
+    },
+    "AnimeStudio": {
+      "key": "AnimeStudio",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "AnimeCast": {
+      "key": "AnimeCast",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "AnimeQuality": {
+      "key": "AnimeQuality",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "AnimeActive": {
+      "key": "AnimeActive",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "AnimeEpisodes": {
+      "key": "AnimeEpisodes",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 12
+    },
+    "AnimeSeries": {
+      "key": "AnimeSeries",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "MangaWork": {
+      "key": "MangaWork",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 8
+    },
+    "MangaGenreName": {
+      "key": "MangaGenreName",
+      "type": "string",
+      "value": "Shonen",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "MangaTitle": {
+      "key": "MangaTitle",
+      "type": "string",
+      "value": "Clockwork City",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "AnimeStudioName": {
+      "key": "AnimeStudioName",
+      "type": "string",
+      "value": "No studio selected",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "ChapterSales": {
+      "key": "ChapterSales",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 2000000
+    },
+    "TVActive": {
+      "key": "TVActive",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "TVNetwork": {
+      "key": "TVNetwork",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "TVFormat": {
+      "key": "TVFormat",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 2
+    },
+    "TVSeason": {
+      "key": "TVSeason",
+      "type": "int",
+      "value": 1,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000
+    },
+    "TVEpisode": {
+      "key": "TVEpisode",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 6
+    },
+    "TVQuality": {
+      "key": "TVQuality",
+      "type": "int",
+      "value": 35,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "TVMorale": {
+      "key": "TVMorale",
+      "type": "int",
+      "value": 60,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "TVRating": {
+      "key": "TVRating",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "TVRoyalty": {
+      "key": "TVRoyalty",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 20000000
+    },
+    "TVCompleted": {
+      "key": "TVCompleted",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "TVCanceled": {
+      "key": "TVCanceled",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "TVWork": {
+      "key": "TVWork",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 8
+    },
+    "TVTitle": {
+      "key": "TVTitle",
+      "type": "string",
+      "value": "Harbour Lights",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "TVNetworkName": {
+      "key": "TVNetworkName",
+      "type": "string",
+      "value": "No network contract",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "FarmLand": {
+      "key": "FarmLand",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "FarmClimate": {
+      "key": "FarmClimate",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "FarmHemisphere": {
+      "key": "FarmHemisphere",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "FarmRegionOverride": {
+      "key": "FarmRegionOverride",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "FarmSeason": {
+      "key": "FarmSeason",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "FarmPlanted": {
+      "key": "FarmPlanted",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 2
+    },
+    "FarmCropStage": {
+      "key": "FarmCropStage",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "FarmMachines": {
+      "key": "FarmMachines",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "FarmIrrigation": {
+      "key": "FarmIrrigation",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "FarmInsurance": {
+      "key": "FarmInsurance",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "FarmWeather": {
+      "key": "FarmWeather",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 99
+    },
+    "FarmRisk": {
+      "key": "FarmRisk",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "FarmHarvests": {
+      "key": "FarmHarvests",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "FarmLosses": {
+      "key": "FarmLosses",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "FarmYield": {
+      "key": "FarmYield",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 2000000
+    },
+    "FarmDebt": {
+      "key": "FarmDebt",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 2000000
+    },
+    "FarmBankrupt": {
+      "key": "FarmBankrupt",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "FarmTurns": {
+      "key": "FarmTurns",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 4
+    },
+    "FarmPlantAge": {
+      "key": "FarmPlantAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "FarmCountry": {
+      "key": "FarmCountry",
+      "type": "string",
+      "value": "No land",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "FarmClimateName": {
+      "key": "FarmClimateName",
+      "type": "string",
+      "value": "Temperate",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "FarmSeasonName": {
+      "key": "FarmSeasonName",
+      "type": "string",
+      "value": "Local spring",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "FarmReport": {
+      "key": "FarmReport",
+      "type": "string",
+      "value": "No crops planted yet.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "SchoolSupport": {
+      "key": "SchoolSupport",
+      "type": "int",
+      "value": 20,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "SchoolReputation": {
+      "key": "SchoolReputation",
+      "type": "int",
+      "value": 30,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "SchoolStress": {
+      "key": "SchoolStress",
+      "type": "int",
+      "value": 10,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "SchoolIncidents": {
+      "key": "SchoolIncidents",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "SchoolWarnings": {
+      "key": "SchoolWarnings",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "SchoolEnrolled35": {
+      "key": "SchoolEnrolled35",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CampusCampaign": {
+      "key": "CampusCampaign",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CampusVotes": {
+      "key": "CampusVotes",
+      "type": "int",
+      "value": 15,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "CampusPresident": {
+      "key": "CampusPresident",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CampusProjects": {
+      "key": "CampusProjects",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "CampusBudget": {
+      "key": "CampusBudget",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "SchoolSessions": {
+      "key": "SchoolSessions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 8
+    },
+    "CampusElectionAge": {
+      "key": "CampusElectionAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "SchoolReport": {
+      "key": "SchoolReport",
+      "type": "string",
+      "value": "Your school story is just beginning.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "FamilySessions": {
+      "key": "FamilySessions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 6
+    },
+    "Relative0Connection": {
+      "key": "Relative0Connection",
+      "type": "int",
+      "value": 45,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Relative0Memory": {
+      "key": "Relative0Memory",
+      "type": "string",
+      "value": "No shared activity yet.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Relative1Connection": {
+      "key": "Relative1Connection",
+      "type": "int",
+      "value": 45,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Relative1Memory": {
+      "key": "Relative1Memory",
+      "type": "string",
+      "value": "No shared activity yet.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Relative2Connection": {
+      "key": "Relative2Connection",
+      "type": "int",
+      "value": 45,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Relative2Memory": {
+      "key": "Relative2Memory",
+      "type": "string",
+      "value": "No shared activity yet.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Relative3Connection": {
+      "key": "Relative3Connection",
+      "type": "int",
+      "value": 45,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Relative3Memory": {
+      "key": "Relative3Memory",
+      "type": "string",
+      "value": "No shared activity yet.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Relative4Connection": {
+      "key": "Relative4Connection",
+      "type": "int",
+      "value": 45,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Relative4Memory": {
+      "key": "Relative4Memory",
+      "type": "string",
+      "value": "No shared activity yet.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Relative5Connection": {
+      "key": "Relative5Connection",
+      "type": "int",
+      "value": 45,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Relative5Memory": {
+      "key": "Relative5Memory",
+      "type": "string",
+      "value": "No shared activity yet.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "DealerHeat": {
+      "key": "DealerHeat",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Dependence": {
+      "key": "Dependence",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "ShopSessions": {
+      "key": "ShopSessions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 6
+    },
+    "ShopReport": {
+      "key": "ShopReport",
+      "type": "string",
+      "value": "No recent purchase.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Drug0": {
+      "key": "Drug0",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 25
+    },
+    "Drug1": {
+      "key": "Drug1",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 25
+    },
+    "Drug2": {
+      "key": "Drug2",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 25
+    },
+    "Drug3": {
+      "key": "Drug3",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 25
+    },
+    "Weapon0": {
+      "key": "Weapon0",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 5
+    },
+    "Weapon1": {
+      "key": "Weapon1",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 5
+    },
+    "Weapon2": {
+      "key": "Weapon2",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 5
+    },
+    "Weapon3": {
+      "key": "Weapon3",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 5
+    },
+    "Weapon4": {
+      "key": "Weapon4",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 5
+    },
+    "Weapon5": {
+      "key": "Weapon5",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 5
+    },
+    "SoccerSkill": {
+      "key": "SoccerSkill",
+      "type": "int",
+      "value": 10,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "SoccerStamina": {
+      "key": "SoccerStamina",
+      "type": "int",
+      "value": 20,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "SoccerAcademy": {
+      "key": "SoccerAcademy",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "SoccerYouthCaps": {
+      "key": "SoccerYouthCaps",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "SoccerGoals": {
+      "key": "SoccerGoals",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "SoccerScouts": {
+      "key": "SoccerScouts",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "SoccerSigned": {
+      "key": "SoccerSigned",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "SoccerAgreementAge": {
+      "key": "SoccerAgreementAge",
+      "type": "int",
+      "value": 18,
+      "reset_on_ageup": "",
+      "minimum": 16,
+      "maximum": 18
+    },
+    "SoccerYouthLevel": {
+      "key": "SoccerYouthLevel",
+      "type": "string",
+      "value": "Under-8 development",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "SoccerSessions": {
+      "key": "SoccerSessions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 6
+    },
+    "SoccerReport": {
+      "key": "SoccerReport",
+      "type": "string",
+      "value": "Join a local soccer school from age six.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "SoccerMatchGoals": {
+      "key": "SoccerMatchGoals",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 4
+    },
+    "BusinessBranches": {
+      "key": "BusinessBranches",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 15
+    },
+    "BusinessQuality": {
+      "key": "BusinessQuality",
+      "type": "int",
+      "value": 40,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "BusinessSupply": {
+      "key": "BusinessSupply",
+      "type": "int",
+      "value": 60,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "BusinessIncome": {
+      "key": "BusinessIncome",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 20000000
+    },
+    "BusinessCrises": {
+      "key": "BusinessCrises",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "BusinessActions": {
+      "key": "BusinessActions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 6
+    },
+    "BusinessReport": {
+      "key": "BusinessReport",
+      "type": "string",
+      "value": "No branch opened yet.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Branch0_0": {
+      "key": "Branch0_0",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Branch0_1": {
+      "key": "Branch0_1",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Branch0_2": {
+      "key": "Branch0_2",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Branch1_0": {
+      "key": "Branch1_0",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Branch1_1": {
+      "key": "Branch1_1",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Branch1_2": {
+      "key": "Branch1_2",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Branch2_0": {
+      "key": "Branch2_0",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Branch2_1": {
+      "key": "Branch2_1",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Branch2_2": {
+      "key": "Branch2_2",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Branch3_0": {
+      "key": "Branch3_0",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Branch3_1": {
+      "key": "Branch3_1",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Branch3_2": {
+      "key": "Branch3_2",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Branch4_0": {
+      "key": "Branch4_0",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Branch4_1": {
+      "key": "Branch4_1",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Branch4_2": {
+      "key": "Branch4_2",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "BusinessNet": {
+      "key": "BusinessNet",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 20000000
+    },
+    "StormFootage": {
+      "key": "StormFootage",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "StormRescues": {
+      "key": "StormRescues",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "StormFootageIncome": {
+      "key": "StormFootageIncome",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 20000000
+    }
+  }
+}

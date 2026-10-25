@@ -1,0 +1,29 @@
+key,type,value,reset_on_ageup,minimum,maximum
+Started,int,0,,0,1
+Active,int,0,,0,1
+NativeHireResult,int,0,,0,1
+NativeHireF1,int,0,,0,1
+NativeCareerSync,int,0,,0,1
+NativeWorkImpact,int,0,,-3,3
+Skill,int,20,,0,100
+Reputation,int,10,,0,100
+WorkUsed,int,0,true,0,6
+LastPaidAge,int,-1,,-1,999
+BonusDue,int,0,,0,10000000
+LifetimeBonus,int,0,,0,2000000000
+ExpectedCareer,string,F1 Driver,,,
+Fitness,int,40,,0,100
+CarPace,int,40,,0,100
+Reliability,int,70,,0,100
+Focus,int,50,,0,100
+Round,int,0,,0,6
+Points,int,0,,0,200
+Season,int,1,,1,1000
+LastSeasonAge,int,-1,,-1,999
+Wins,int,0,,0,1000000
+Strategy,int,0,,0,2
+Setup,int,0,,0,1
+Qualifying,int,0,,0,100
+LastFinish,int,20,,1,20
+Championships,int,0,,0,1000
+Team,string,Northstar Racing,,,

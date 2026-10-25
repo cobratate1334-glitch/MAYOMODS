@@ -1,0 +1,227 @@
+Make,Model,Type,Cost,Depreciation Score,Reliability Score,Longevity Score,Cool Score,Ease of Theft Score,Unavailable,Luxury Only,Race Car Dealership Only,Race Type Whitelist,Racing Class,Durability Score
+Ford,Bronco,4x4,"$44,990",2,4,4,4,3,,,,"street, demolition",C,70
+GMC,Hummer,4x4,"$55,650",4,4,4,3,2,,,,"street, demolition",C,70
+Ferrari,Portofino,Convertible,"$214,533",5,2,3,5,1,,,,"street, demolition, circuit",A,45
+Porsche,Boxster,Convertible,"$57,481",2,3,3,5,3,,,,"street, demolition, circuit",A,40
+Ferrari,488 Spider,Convertible,"$284,700",5,4,4,5,4,,,,"street, demolition, circuit",A,45
+Ford,Mustang,Convertible,"$34,550",4,4,4,4,4,,,,"street, demolition, circuit",B,50
+Chevrolet,Camaro,Convertible,"$36,720",4,4,4,4,4,,,,"street, demolition, circuit",B,55
+Mercedes-Benz,E-Class,Convertible,"$72,450",4,4,4,4,4,,,,"street, demolition, circuit",B,55
+Nissan,370Z Roadster,Convertible,"$42,370",4,5,5,5,4,,,,"street, demolition, circuit",B,50
+Rolls-Royce,Boat Tail,Convertible,"$2,800,000",1,5,4,5,1,,x,,"street, demolition",B,67
+Pagani,Zonda HP Barchetta,Convertible,"$1,750,000",1,5,4,5,1,,x,,"street, demolition, circuit",A,42
+Rolls-Royce,La Rose Noire Droptail,Convertible,"$3,200,000",1,5,4,5,1,,x,,"street, demolition",B,65
+Tesla,Starman Roadster,Convertible,"$5,500,000",1,5,5,5,1,,x,,"street, demolition, circuit",A,60
+Acura,NSX,Coupe,"$160,000",3,4,3,4,2,,,,"street, demolition, circuit",A,52
+Alfa Romeo,4C,Coupe,"$55,940",3,3,3,4,2,,,,"street, demolition, circuit",B,44
+Aston Martin,Vanquish,Coupe,"$297,831",5,2,3,5,1,,,,"street, demolition, circuit",B,67
+Audi,A5,Coupe,"$42,831",2,4,3,4,3,,,,"street, demolition, circuit",B,58
+Bentley,Mulsanne,Coupe,"$307,391",5,2,3,5,1,,,,"street, demolition",B,75
+Bentley,Continental GT,Coupe,"$220,000",4,2,2,5,2,,,,"street, demolition",B,70
+Bugatti,Chiron,Coupe,"$2,986,871",5,1,3,5,1,,,,"street, demolition, circuit",A,65
+Chevrolet,Corvette,Coupe,"$55,495",2,3,3,4,2,,,,"street, demolition, circuit",B,20
+Dodge,Viper,Coupe,"$87,895",5,1,1,5,2,,,,"street, demolition, circuit",B,44
+Ferrari,812 Superfast,Coupe,"$315,480",5,2,3,5,1,,,,"street, demolition, circuit",A,47
+Ford,Mustang,Coupe,"$30,695",3,2,2,4,3,,,,"street, demolition, circuit",B,50
+Honda,Civic,Coupe,"$18,940",1,4,5,2,5,,,,"street, demolition",C,30
+Lamborghini,Aventador,Coupe,"$402,992",5,2,3,5,1,,,,"street, demolition, circuit",A,59
+Lamborghini,Huracan,Coupe,"$203,291",5,2,3,5,1,,,,"street, demolition, circuit",A,64
+Lexus,LC,Coupe,"$92,004",3,5,3,4,2,,,,"street, demolition, circuit",B,55
+Maserati,GranTurismo,Coupe,"$134,771",5,2,3,5,2,,,,"street, demolition, circuit",B,60
+Mercedes-Benz,SL,Coupe,"$112,300",4,3,4,4,2,,,,"street, demolition",B,60
+Mercedes-Benz,AMG GT,Coupe,"$112,400",4,3,4,4,1,,,,"street, demolition, circuit",A,60
+Porsche,911,Coupe,"$91,131",2,3,3,5,2,,,,"street, demolition, circuit",A,38
+Smart,Fortwo,Coupe,"$23,817",4,2,3,2,5,,,,"street, demolition",C,11
+Subaru,Legacy,Coupe,"$22,196",2,4,5,2,4,,,,"street, demolition",C,40
+Tesla,Model S,Coupe,"$75,701",5,2,3,5,1,x,,,"street, demolition, circuit",A,55
+BMW,M4,Coupe,"$72,000",3,4,3,4,4,,,,"street, demolition, circuit",B,57
+Nissan,GT-R Nismo,Coupe,"$214,750",3,3,4,5,4,,,,"street, demolition, circuit",A,62
+Nissan,400Z,Coupe,"$42,050",2,5,5,4,4,,,,"street, demolition, circuit",A,47
+Toyota,Supra,Coupe,"$51,998",2,4,4,4,2,,,,"street, demolition, circuit",A,54
+Toyota,GR86,Coupe,"$29,900",2,4,4,4,3,,,,"street, demolition, circuit",B,39
+Mazda,Miata,Coupe,"$33,000",3,4,4,3,3,,,,"street, demolition",C,22
+Jaguar,F-TYPE,Coupe,"$74,400",4,2,3,4,3,,,,"street, demolition, circuit",B,60
+Chevrolet,Camaro ZL1,Coupe,"$63,865",4,3,4,5,4,,,,"street, demolition, circuit",A,65
+Bugatti,La Voiture Noire,Coupe,"$18,700,000",1,5,4,5,1,,x,,"street, demolition, circuit",A,49
+Nissan,Walker GT-R R34,Coupe,"$3,444,589",1,5,4,5,1,,x,,"street, demolition, circuit",A,67
+VW,Herbie the Love Bug,Coupe,"$2,233,541",2,5,4,5,1,,x,,"street, demolition",C,17
+Mercedes-Maybach,Exelero,Coupe,"$1,999,600",1,5,4,5,1,,x,,"street, demolition",B,72
+Mercedes-Benz,300 SLR Uhlenhaut,Coupe,"$4,275,621",1,5,4,5,1,,x,,"street, demolition, circuit",B,47
+DeLorean,Time Machine,Coupe,"$4,200,000",1,5,4,5,1,,x,,"street, demolition",A,75
+Audi,R8,Exotic,"$210,695",4,4,4,5,2,,,,"street, demolition, circuit",A,44
+Ford,GT,Exotic,"$550,000",3,3,4,5,2,,,,"street, demolition, circuit",A,49
+Porsche,GT2-RS,Exotic,"$293,200",4,3,4,5,4,,,,"street, demolition, circuit",A,45
+McLaren,720S,Exotic,"$311,130",4,3,4,5,2,,,,"street, demolition, circuit",A,51
+McLaren,Senna,Exotic,"$1,105,000",4,3,4,5,2,,,,"street, demolition, circuit",A,54
+Koenigsegg,Jesko,Exotic,"$2,900,000",5,3,4,5,3,,,,"street, demolition, circuit",A,50
+Pagani,Huayra,Exotic,"$3,500,000",5,3,4,5,4,,,,"street, demolition, circuit",A,40
+Bugatti,Centodieci,Exotic,"$9,000,000",1,5,4,5,1,,x,,"street, demolition, circuit",A,49
+Bugatti,Divo,Exotic,"$5,800,000",1,5,4,5,1,,x,,"street, demolition, circuit",A,40
+Ferrari,Liberty Walk F40,Exotic,"$4,266,421",1,5,4,5,1,,x,,"street, demolition, circuit",A,65
+Porsche,RWB,Exotic,"$2,587,622",1,5,4,5,1,,x,,"street, demolition, circuit",A,40
+Wayne Enterprises,Batmobile,Exotic,"$50,000,000",1,5,4,5,1,,x,,"street, demolition, circuit",A,75
+Koenigsegg,CCXR Trevita,Exotic,"$1,965,033",1,5,4,5,1,,x,,"street, demolition, circuit",A,65
+Bugatti,57SC Atlantic,Exotic,"4,793,627",1,5,4,5,1,,x,,"street, demolition, circuit",A,55
+Ferrari,335 Sport Scaglietti,Exotic,"$4,269,022",1,5,4,5,1,,x,,"street, demolition, circuit",A,50
+Mercedes-Benz,W196,Exotic,"$9,634,577",1,5,4,5,1,,x,,"street, demolition, circuit",A,27
+Ferrari,412B,Exotic,"$5,597,050",1,5,4,5,1,,x,,"street, demolition, circuit",A,27
+Aston Martin,Bond DB5,Exotic,"$2,197,725",1,5,4,5,1,,x,,"street, demolition, circuit",A,46
+Fiat,500,Hatchback,"$14,995",3,3,3,4,3,,,,"street, demolition",C,9
+Ford,Focus,Hatchback,"$17,981",3,3,4,1,5,,,,"street, demolition",C,33
+Mini,Cooper,Hatchback,"$21,983",3,3,3,3,4,,,,"street, demolition",C,22
+Toyota,Prius,Hatchback,"$23,470",1,5,5,2,3,,,,"street, demolition",C,13
+Volkswagen,Beetle,Hatchback,"$20,391",3,3,4,3,3,,,,"street, demolition",C,22
+Ford,Focus RS,Hatchback,"$31,200",2,3,4,4,3,,,,"street, demolition",C,39
+Hyundai,Veloster,Hatchback,"$34,300",3,3,3,3,3,,,,"street, demolition",B,37
+Kia,Rio,Hatchback,"$17,525",4,2,3,1,2,,,,"street, demolition",C,19
+Volkswagen,GTI,Hatchback,"$35,290",2,4,4,3,3,,,,"street, demolition, circuit",B,65
+Ferrari,GTC4Lusso,Hatchback,"$263,750",5,3,3,4,3,,,,"street, demolition, circuit",A,25
+Cadillac,Hearse,Hearse,"$52,630",2,4,4,3,2,,,,"street, demolition",C,75
+Chrysler,Pacifica,Minivan,"$26,995",3,3,4,1,3,,,,"street, demolition",C,50
+Honda,Odyssey,Minivan,"$30,093",2,4,5,1,4,,,,"street, demolition",C,50
+Nissan,Quest,Minivan,"$31,200",4,4,3,2,3,,,,"street, demolition",C,60
+Acura,RLX,Sedan,"$54,321",3,3,4,2,3,,,,"street, demolition",B,55
+Acura,ILX,Sedan,"$28,109",3,3,5,2,3,,,,"street, demolition",C,50
+Audi,S8,Sedan,"$115,841",2,5,3,5,2,,,,"street, demolition, circuit",B,57
+BMW,7-Series,Sedan,"$113,005",4,2,3,4,1,,,,"street, demolition, circuit",B,65
+BMW,5-Series,Sedan,"$55,000",4,2,2,4,2,,,,"street, demolition, circuit",B,63
+BMW,3-Series,Sedan,"$40,271",4,5,3,3,3,,,,"street, demolition",B,60
+Buick,Regal,Sedan,"$27,065",3,4,2,2,4,,,,"street, demolition",C,69
+Dodge,Charger,Sedan,"$28,994",2,1,2,4,3,,,,"street, demolition",B,72
+Ford,Fusion,Sedan,"$22,215",5,4,2,2,4,,,,"street, demolition",C,39
+Ford,Taurus,Sedan,"$27,690",4,3,2,2,4,,,,"street, demolition",C,44
+Honda,Accord,Sedan,"$23,579",1,4,5,2,5,,,,"street, demolition",C,37
+Hyundai,Accent,Sedan,"$14,937",2,4,4,1,5,,,,"street, demolition",C,30
+Hyundai,Sonata,Sedan,"$22,059",2,4,4,2,5,,,,"street, demolition",C,34
+Jaguar,XJ,Sedan,"$74,939",4,3,3,5,2,,,,"street, demolition",B,49
+Kia,Optima,Sedan,"$22,841",3,5,3,2,5,,,,"street, demolition",C,29
+Lexus,ES,Sedan,"$38,934",2,5,3,3,3,,,,"street, demolition",B,50
+Lincoln,Continental,Sedan,"$45,818",4,2,2,2,3,,,,"street, demolition",B,60
+Mazda,Mazda6,Sedan,"$21,951",3,3,3,2,4,,,,"street, demolition",C,45
+Mercedes-Benz,C-Class,Sedan,"$40,289",3,3,4,4,3,,,,"street, demolition",C,60
+Mercedes-Benz,S-Class,Sedan,"$89,914",4,3,4,4,2,,,,"street, demolition",B,67
+Mitsubishi,Lancer,Sedan,"$17,901",3,3,2,1,5,,,,"street, demolition",C,37
+Nissan,Altima,Sedan,"$23,260",2,4,4,2,4,,,,"street, demolition",C,44
+Nissan,Maxima,Sedan,"$33,490",3,4,4,2,4,,,,"street, demolition",B,49
+Rolls-Royce,Phantom,Sedan,"$420,321",5,2,3,5,1,,,,"street, demolition, circuit",B,75
+Subaru,Impreza,Sedan,"$18,734",1,4,5,1,2,,,,"street, demolition",C,47
+Toyota,Camry,Sedan,"$23,654",1,5,5,2,4,,,,"street, demolition",C,55
+Toyota,Corolla,Sedan,"$18,673",1,5,5,1,5,,,,"street, demolition",C,45
+Volkswagen,Jetta,Sedan,"$18,645",5,3,4,3,4,,,,"street, demolition",C,45
+Volkswagen,Passat,Sedan,"$22,987",3,3,4,2,3,,,,"street, demolition",C,45
+Volvo,S90,Sedan,"$48,173",3,2,4,4,3,,,,"street, demolition",C,67
+Subaru,WRX STI,Sedan,"$38,650",1,4,4,5,3,,,,"street, demolition, circuit",A,56
+Cadillac,CT5-V,Sedan,"$84,990",4,4,4,4,3,,,,"street, demolition, circuit",B,60
+Lexus,IS-500,Sedan,"$57,885",2,4,3,4,2,,,,"street, demolition, circuit",B,57
+Mitsubishi,Mirage,Sedan,"$14,634",3,3,2,1,4,,,,"street, demolition",C,47
+Mitsubishi,Evolution X,Sedan,"$45,770",2,3,4,4,3,,,,"street, demolition, circuit",A,52
+Chevrolet,Malibu,Sedan,"$26,400",3,4,4,2,2,,,,"street, demolition",B,57
+Acura,RDX,SUV,"$37,300",3,4,4,2,3,,,,"street, demolition",B,60
+Buick,Enclave,SUV,"$39,717",4,4,2,3,3,,,,"street, demolition",B,60
+Cadillac,Escalade,SUV,"$74,695",2,1,4,4,2,,,,"street, demolition",B,75
+Chevrolet,Suburban,SUV,"$50,275",3,2,4,3,3,,,,"street, demolition",C,72
+Chevrolet,Equinox,SUV,"$23,580",4,2,2,3,4,,,,"street, demolition",B,69
+Dodge,Durango,SUV,"$28,919",3,1,3,3,4,,,,"street, demolition",C,72
+Ford,Expedition,SUV,"$51,790",4,3,4,4,3,,,,"street, demolition",B,65
+Ford,Explorer,SUV,"$32,140",3,3,2,3,3,,,,"street, demolition",B,65
+GMC,Acadia,SUV,"$29,712",4,1,2,3,3,,,,"street, demolition",B,68
+GMC,Yukon,SUV,"$49,741",4,1,4,3,3,,,,"street, demolition",C,70
+Honda,CR-V,SUV,"$24,253",1,5,5,2,5,,,,"street, demolition",C,15
+Hyundai,Sante Fe,SUV,"$30,831",2,4,3,2,5,,,,"street, demolition",C,33
+Infiniti,QX,SUV,"$36,550",4,4,3,2,3,,,,"street, demolition",B,54
+Jeep,Cherokee,SUV,"$23,981",1,2,3,4,3,,,,"street, demolition",C,60
+Jeep,Wrangler,SUV,"$30,909",1,2,3,4,3,,,,"street, demolition",C,55
+Kia,Sorento,SUV,"$25,981",3,2,2,1,5,,,,"street, demolition",B,24
+Lamborghini,Urus,SUV,"$201,893",5,2,3,5,2,,,,"street, demolition, circuit",A,72
+Land Rover,Range Rover,SUV,"$87,351",4,2,3,4,2,,,,"street, demolition",B,70
+Land Rover,Discovery,SUV,"$52,116",4,2,3,4,3,,,,"street, demolition",B,70
+Lexus,RX,SUV,"$45,891",2,5,3,3,3,,,,"street, demolition",B,65
+Lincoln,Navigator,SUV,"$72,675",4,2,2,4,3,,,,"street, demolition",B,72
+Mazda,CX-3,SUV,"$20,391",3,3,2,3,4,,,,"street, demolition",B,46
+Mercedes-Benz,G Wagon,SUV,"$142,741",4,3,4,5,2,,,,"street, demolition",A,72
+Mitsubishi,Outlander,SUV,"$23,941",3,3,2,2,4,,,,"street, demolition",B,60
+Nissan,Pathfinder,SUV,"$31,803",1,4,4,3,3,,,,"street, demolition",B,70
+Nissan,Rogue,SUV,"$24,801",2,4,4,3,4,,,,"street, demolition",B,45
+Porsche,Cayenne,SUV,"$60,608",2,3,3,5,2,,,,"street, demolition",A,60
+Toyota,4Runner,SUV,"$34,857",1,5,5,4,3,,,,"street, demolition",B,67
+Toyota,Highlander,SUV,"$31,230",1,5,5,3,3,,,,"street, demolition",C,46
+Toyota,RAV4,SUV,"$24,661",1,5,5,3,4,,,,"street, demolition",C,31
+Toyota,FJ Cruiser,SUV,"$31,100",1,4,5,3,3,,,,"street, demolition",B,65
+Volvo,XC90,SUV,"$46,904",3,2,4,4,3,,,,"street, demolition",C,65
+Nissan,Murano,SUV,"$49,405",3,4,4,3,2,,,,"street, demolition",A,75
+Pontiac,Aztek,SUV,"$21,470",4,2,2,1,4,,,,"street, demolition",C,33
+Kia,Telluride,SUV,"$35,090",3,3,3,2,3,,,,"street, demolition",C,39
+Chevrolet,Silverado,Truck,"$35,495",3,2,4,3,3,,,,"street, demolition",B,64
+Ford,F-150,Truck,"$27,705",3,3,4,3,4,,,,"street, demolition",B,64
+Ford,F-450,Truck,"$51,795",4,3,4,3,2,,,,"street, demolition",B,70
+GMC,Sierra,Truck,"$35,823",3,1,4,3,3,,,,"street, demolition",B,64
+Honda,Ridgeline,Truck,"$29,963",2,3,5,3,4,,,,"street, demolition",C,56
+Nissan,Titan,Truck,"$30,971",2,4,3,3,3,,,,"street, demolition",B,62
+Nissan,Titan,Truck,"$30,383",2,4,4,3,3,,,,"street, demolition",B,62
+Dodge,Ram 1500,Truck,"$31,692",3,1,4,3,3,,,,"street, demolition",C,60
+Dodge,Ram 3500,Truck,"$33,981",3,1,4,4,2,,,,"street, demolition",B,65
+Toyota,Tacoma,Truck,"$25,490",1,4,5,3,5,,,,"street, demolition",B,60
+Toyota,Tundra,Truck,"$31,731",1,5,5,3,3,,,,"street, demolition",B,65
+Dodge,Ram 1500,Truck,"$42,420",3,4,4,2,3,,,,"street, demolition",B,62
+Jeep,Gladiator,Truck,"$39,065",3,4,5,3,3,,,,"street, demolition",B,63
+Subaru,Outback,Wagon,"$25,894",1,5,5,1,4,,,,"street, demolition",B,49
+Volvo,V60,Wagon,"$38,703",3,3,4,3,3,,,,"street, demolition",B,59
+BMW,M3 Touring,Wagon,"$49,800",4,4,4,3,3,,,,"street, demolition",A,57
+Audi,A4 allroad,Wagon,"$47,700",4,4,4,3,3,,,,"street, demolition",B,54
+Mercedes-Benz,E-Class,Wagon,"$72,450",4,4,4,4,4,,,,"street, demolition",B,50
+Ford,Mustang GT,Stock Car,"$600,000",3,4,3,5,2,,,x,circuit,S,40
+Ford,Fusion BBL,Stock Car,"$450,000",3,4,3,5,2,,,x,circuit,S,40
+Chevrolet,Camaro BLF1,Stock Car,"$620,000",3,4,3,5,2,,,x,circuit,S,40
+Chevrolet,SS,Stock Car,"$420,000",3,4,3,5,2,,,x,circuit,S,40
+Toyota,Camry XXL,Stock Car,"$575,000",3,4,3,5,2,,,x,circuit,S,40
+Dodge,Charger M4X,Stock Car,"$440,000",3,4,3,5,2,,,x,circuit,S,40
+Nissan ,Maxima ZUM,Stock Car,"$410,000",3,4,3,5,2,,,x,circuit,S,40
+BMW,M4-XL,Stock Car,"$525,000",3,4,3,5,2,,,x,circuit,S,40
+Mercedes,AMG,Formula,"$15,000,000",3,4,3,5,2,,,x,circuit,S,30
+Ferrari ,SF-24,Formula,"$20,000,000",3,4,3,5,2,,,x,circuit,S,30
+Alfa Romeo,C44,Formula,"$5,000,000",3,4,3,5,2,,,x,circuit,S,30
+Aston Martin,AMR24,Formula,"$10,000,000",3,4,3,5,2,,,x,circuit,S,30
+McLaren,MCL36,Formula,"$12,000,000",3,4,3,5,2,,,x,circuit,S,30
+BMW,Sauber,Formula,"$3,000,000",3,4,3,5,2,,,x,circuit,S,30
+Honda,RBPTH002,Formula,"$5,000,000",3,4,3,5,2,,,x,circuit,S,30
+Toyota,VF 24,Formula,"$2,500,000",3,4,3,5,2,,,x,circuit,S,30
+Mayo,1900 Brass Carriage,Convertible,$900,3,4,4,3,3,,,,"street, demolition, circuit",C,65
+Mayo,1900 Brass Carriage Grand,Convertible,"$2,700",3,4,4,5,3,,x,,"street, demolition, circuit",B,65
+Mayo,1910 Open Tourer,Convertible,"$1,400",3,4,4,3,3,,,,"street, demolition, circuit",C,65
+Mayo,1910 Open Tourer Grand,Convertible,"$4,200",3,4,4,5,3,,x,,"street, demolition, circuit",B,65
+Mayo,1920 Regent Saloon,Sedan,"$1,900",3,4,4,3,3,,,,"street, demolition, circuit",C,65
+Mayo,1920 Regent Saloon Grand,Sedan,"$5,700",3,4,4,5,3,,x,,"street, demolition, circuit",B,65
+Mayo,1930 Streamline,Sedan,"$2,400",3,4,4,3,3,,,,"street, demolition, circuit",C,65
+Mayo,1930 Streamline Grand,Sedan,"$7,200",3,4,4,5,3,,x,,"street, demolition, circuit",B,65
+Mayo,1940 Workshop Pickup,Truck,"$2,900",3,4,4,3,3,,,,"street, demolition, circuit",C,65
+Mayo,1940 Workshop Pickup Grand,Truck,"$8,700",3,4,4,5,3,,x,,"street, demolition, circuit",B,65
+Mayo,1950 Coastline,Convertible,"$3,700",3,4,4,3,3,,,,"street, demolition, circuit",C,65
+Mayo,1950 Coastline Grand,Convertible,"$11,100",3,4,4,5,3,,x,,"street, demolition, circuit",B,65
+Mayo,1960 Thunder Coupe,Coupe,"$5,200",3,4,4,3,3,,,,"street, demolition, circuit",C,65
+Mayo,1960 Thunder Coupe Grand,Coupe,"$15,600",3,4,4,5,3,,x,,"street, demolition, circuit",B,65
+Mayo,1970 Family Estate,Wagon,"$6,800",3,4,4,3,3,,,,"street, demolition, circuit",C,65
+Mayo,1970 Family Estate Grand,Wagon,"$20,400",3,4,4,5,3,,x,,"street, demolition, circuit",B,65
+Mayo,1980 Metro Hatch,Hatchback,"$9,000",3,4,4,3,3,,,,"street, demolition, circuit",C,65
+Mayo,1980 Metro Hatch Grand,Hatchback,"$27,000",3,4,4,5,3,,x,,"street, demolition, circuit",B,65
+Mayo,1990 Everyday Sedan,Sedan,"$15,000",3,4,4,3,3,,,,"street, demolition, circuit",C,65
+Mayo,1990 Everyday Sedan Grand,Sedan,"$45,000",3,4,4,5,3,,x,,"street, demolition, circuit",B,65
+Mayo,2000 Horizon SUV,SUV,"$27,000",3,4,4,3,3,,,,"street, demolition, circuit",C,65
+Mayo,2000 Horizon SUV Grand,SUV,"$81,000",3,4,4,5,3,,x,,"street, demolition, circuit",B,65
+Mayo,2010 Current EV,Hatchback,"$36,000",3,4,4,3,3,,,,"street, demolition, circuit",C,65
+Mayo,2010 Current EV Grand,Hatchback,"$108,000",3,4,4,5,3,,x,,"street, demolition, circuit",B,65
+Mayo,1900 Carriage Circuit C,Formula,"$12,000",3,4,4,5,3,,,x,"street, demolition, circuit",C,80
+Mayo,1900 Carriage Circuit B,Formula,"$24,000",3,4,4,5,3,,,x,"street, demolition, circuit",B,80
+Mayo,1900 Carriage Circuit A,Formula,"$36,000",3,4,4,5,3,,,x,"street, demolition, circuit",A,80
+Mayo,1900 Carriage Circuit S,Formula,"$48,000",3,4,4,5,3,,,x,"street, demolition, circuit",S,80
+Mayo,1950 Heritage Open Racer C,Formula,"$65,000",3,4,4,5,3,,,x,"street, demolition, circuit",C,80
+Mayo,1950 Heritage Open Racer B,Formula,"$130,000",3,4,4,5,3,,,x,"street, demolition, circuit",B,80
+Mayo,1950 Heritage Open Racer A,Formula,"$195,000",3,4,4,5,3,,,x,"street, demolition, circuit",A,80
+Mayo,1950 Heritage Open Racer S,Formula,"$260,000",3,4,4,5,3,,,x,"street, demolition, circuit",S,80
+Mayo,1900 Carriage Stock Special C,Stock Car,"$12,000",3,4,4,5,3,,,x,"street, demolition, circuit",C,80
+Mayo,1900 Carriage Stock Special B,Stock Car,"$24,000",3,4,4,5,3,,,x,"street, demolition, circuit",B,80
+Mayo,1900 Carriage Stock Special A,Stock Car,"$36,000",3,4,4,5,3,,,x,"street, demolition, circuit",A,80
+Mayo,1900 Carriage Stock Special S,Stock Car,"$48,000",3,4,4,5,3,,,x,"street, demolition, circuit",S,80
+Mayo,1960 Classic Stock Racer C,Stock Car,"$65,000",3,4,4,5,3,,,x,"street, demolition, circuit",C,80
+Mayo,1960 Classic Stock Racer B,Stock Car,"$130,000",3,4,4,5,3,,,x,"street, demolition, circuit",B,80
+Mayo,1960 Classic Stock Racer A,Stock Car,"$195,000",3,4,4,5,3,,,x,"street, demolition, circuit",A,80
+Mayo,1960 Classic Stock Racer S,Stock Car,"$260,000",3,4,4,5,3,,,x,"street, demolition, circuit",S,80

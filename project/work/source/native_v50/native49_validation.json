@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "binary_sha256": "728562b275a81a67126039c6979c84aab77a652e40c36730fd7b91d88ec94405",
+  "checks": 5721,
+  "ASLR_bases": [
+    0,
+    68719476736
+  ],
+  "negative_control_missing_style_ids": 853,
+  "real_ARM64_sort_and_key_builder": true,
+  "genetic_artwork_mappings": 372,
+  "new_portrait_mappings": 612,
+  "all_confirmation_buttons_and_back_callbacks": true,
+  "physical_phone_tested": false,
+  "Unity_rendering_tested": false,
+  "managed_APIs_modeled": true
+}

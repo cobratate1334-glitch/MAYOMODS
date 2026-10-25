@@ -1,0 +1,34 @@
+{
+  "binary_sha256": "afcc6862828983419dd77905dd742af96fb643d147375e2da38d8257aedc2434",
+  "arm64_cases": 258,
+  "aslr_biases": [
+    0,
+    68719476736
+  ],
+  "v26_negative_controls": [
+    {
+      "button": 0,
+      "editor_opens": true,
+      "New_Life_child_hidden": true,
+      "Darkly_shade_still_active": true
+    },
+    {
+      "button": 1,
+      "editor_opens": true,
+      "New_Life_child_hidden": true,
+      "Darkly_shade_still_active": true
+    }
+  ],
+  "actual_Action_Invoke_executed": true,
+  "actual_UIDarklyManager_OnDisable_executed": true,
+  "actual_UIListManager_DismissAllLists_executed": true,
+  "whole_Darkly_CanvasGroup_suspended": true,
+  "existing_controller_and_genotype_preserved": true,
+  "root_back_and_animated_close_restored_New_Life": true,
+  "stock_child_back_and_unanimated_choice_cleanup_preserved": true,
+  "failed_list_open_restores_page": true,
+  "rapid_repeat_open_return_checked": true,
+  "birth_and_full_width_handles_preserved": true,
+  "Unity_visibility_and_collections_are_modeled": true,
+  "device_runtime_tested": false
+}

@@ -1,0 +1,1498 @@
+{
+  "version": "v33",
+  "apk": "/workspace/scratch/feb83fa3a2be/deliverables/BitLife_MayoMods_v33.apk",
+  "size": 307357698,
+  "sha256": "3eb3eb17a3584713327e2409641c1dedf53ebb59dcd83935abbd7d49bcc73ac9",
+  "versionCode": 1077,
+  "base_sha256": "36419f84aa5da75efbe7c3eddf4a2c6d6891a0257a04a38a49dbc2659ef653c5",
+  "manifest_version": {
+    "previous": 1076,
+    "current": 1077,
+    "byte_offset": 33508,
+    "other_manifest_bytes_preserved": true
+  },
+  "changed_apk_entries": [
+    "AndroidManifest.xml",
+    "lib/arm64-v8a/libil2cpp.so",
+    "classes13.dex"
+  ],
+  "preserved_apk_entries": 2773,
+  "signing": {
+    "VerifyApk.java": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]",
+    "VerifyNativeSigner.java": "verified=true; actual APK signer matches native SHA-1 check; fingerprint=N3gA1+wRR7rLi+T23e/U4BZZu9Q="
+  },
+  "existing_signer_retained": true,
+  "native_libraries": {
+    "lib/arm64-v8a/libRocketGames.so": "4c076edb3e9d8cc44ef22b4e84985704abd5d56bb10ebccd5a26437c9db593ff",
+    "lib/arm64-v8a/libRocketGamesTool.so": "76436b15d32e5810b9f8a75636c946b0967e8e06f74a8847acd5a92ddb21f9be",
+    "lib/arm64-v8a/libil2cpp.so": "99d70c773b40587f2b6fb357308f57e1ed0a143ad4661a90bc328cffc2cf2374",
+    "lib/arm64-v8a/libAsyncGPUReadbackPlugin.so": "7ceb04c6c42668e403e2607d34df1f129a003640ec93efcf2250f2762be98083",
+    "lib/arm64-v8a/libapplovin-native-crash-reporter.so": "ecf2a7327be482870f4c791392a50cecfeaabb2c76a7224898e9713a18c4c36a",
+    "lib/arm64-v8a/libmain.so": "ea04624f7afb2a4e426ddb8215651100c5c1d04456c2b9ca533cba943d2666e8",
+    "lib/arm64-v8a/libcrashlytics-common.so": "db3c33bc6e1c0d049466280c32bd7419f9708f53ca8f5f95d584ef281996918f",
+    "lib/arm64-v8a/libunity.so": "8275e81f19c467314182c43aa6e3e90d6bc43c8fe76c437fe5ed7cc9fb9ac024",
+    "lib/arm64-v8a/libcrashlytics.so": "cad4bd6e1a6fb97cea9d02ac3f2c9c0e90c62064f7b018cf26b0a806e1489b6e",
+    "lib/arm64-v8a/libcrashlytics-trampoline.so": "811584e54eed37e92c84beb6c66c12bc6cfaa864c53db2bbb96878d95b516d60",
+    "lib/arm64-v8a/libFirebaseCppCrashlytics.so": "9dae132e917d17e3415de3752e4c2860f5b9f3e0b5370e4a76237771536493bd",
+    "lib/arm64-v8a/libFirebaseCppMessaging.so": "7d5a37744d6796eaecb5eaa09be8732b70f35f098c60819956b8718bbafca9e9",
+    "lib/arm64-v8a/libFirebaseCppApp-12_10_1.so": "eb2beed5455cabddb5833165b3d9e1a77b78acf6625449ad5edf2f3b1cd1d776",
+    "lib/arm64-v8a/libquickjs.so": "535a179c2aafaad2e653b4f4944fe095eface9cc157897248f8b65f06ed3a9af",
+    "lib/arm64-v8a/libGadsmeAndroidPlugin.so": "3a774ffab25a3673e9e944fedc1091b239cccb4572b8b58e80f0bf8bec8940a3",
+    "lib/arm64-v8a/libFirebaseCppAnalytics.so": "fb1cfd21c9da0580ab4b9c3c39fc55cc5cac79d5998f66e94b7a16fd14c34e94",
+    "lib/arm64-v8a/libembrace-native.so": "ac087790662b455f24cdcf72542891823bcb8ce3d9dc143f3960957aa55ce36f",
+    "lib/arm64-v8a/libdatastore_shared_counter.so": "d3e48717c9aa147e0ab21063ba0e8e0211cabf8bf40b222640829519edbf58e1",
+    "lib/arm64-v8a/libquack.so": "d31ec32443fe7e57a08cbd10534def7c3943f9a9df8fb97aa25d945189b34b4b",
+    "lib/arm64-v8a/libcrashlytics-handler.so": "810521d2e125c4f87a8bd5fa70e73877dd832494acac9e9f86734258f359935f",
+    "lib/arm64-v8a/libBufferToPointer.so": "f6bf1b9423aa369b8298efa8bf621f3341292dfd095aa65687970b8c1a198689",
+    "lib/arm64-v8a/libpairipcore.so": "efd8c1d390215bd8cfce141635cd167a3ac8b0a7aa527018ffe09585728be408",
+    "lib/arm64-v8a/libmayo21.so": "8ef7dfa64e841a459b3d4b341196d7215a9b2bf922a51d4e0f616c9c39d4c925"
+  },
+  "native_libraries_with_16KB_APK_alignment": 1,
+  "all_other_22_native_libraries_and_all_Unity_assets_byte_identical": true,
+  "native_checks": {
+    "binary_sha256": "99d70c773b40587f2b6fb357308f57e1ed0a143ad4661a90bc328cffc2cf2374",
+    "arm64_cases": 1068,
+    "aslr_biases": [
+      0,
+      68719476736
+    ],
+    "actual_Action_Invoke_executed": true,
+    "real_ELF_RW_and_BSS_initial_contents_loaded": true,
+    "actual_return_hook_and_RefreshSetup_executed": true,
+    "all_293_choices_executed": true,
+    "six_fields_directly_in_New_Life": true,
+    "stock_rounded_selector_prefab_and_scroller": true,
+    "short_labels": true,
+    "rapid_repeat_edits_and_stale_Actions_checked": true,
+    "same_controller_close_reopen_checked": true,
+    "all_UI_GC_roots_released_on_dismiss_and_birth": true,
+    "existing_genetic_engine_and_baby_growth_preserved": true,
+    "stock_Start_methods_unhooked": true,
+    "Unity_prefabs_collections_and_transition_timing_modeled": true,
+    "device_runtime_tested": false,
+    "BlueStacks_runtime_tested": false
+  },
+  "personality_and_Profile_checks": {
+    "passed": true,
+    "arm64_cases": 432,
+    "binary_sha256": "99d70c773b40587f2b6fb357308f57e1ed0a143ad4661a90bc328cffc2cf2374",
+    "all_nine_personality_choices_affect_game_attributes_at_birth": true,
+    "actual_SimPerson_getters_executed": true,
+    "effects_apply_once": true,
+    "existing_Profile_shows_measurements_and_personality": true,
+    "device_runtime_tested": false
+  },
+  "native_integrity": {
+    "passed": true,
+    "exact_changed_native_ranges": [
+      [
+        49738232,
+        49738236
+      ],
+      [
+        49756784,
+        49756788
+      ],
+      [
+        49757368,
+        49757372
+      ],
+      [
+        49761996,
+        49762000
+      ],
+      [
+        49765332,
+        49765336
+      ],
+      [
+        49780220,
+        49780224
+      ],
+      [
+        49806312,
+        49806316
+      ],
+      [
+        50291724,
+        50291728
+      ],
+      [
+        104799488,
+        104799492
+      ],
+      [
+        104800368,
+        104800372
+      ],
+      [
+        104801168,
+        104801172
+      ],
+      [
+        105548256,
+        105550484
+      ],
+      [
+        105550496,
+        105550804
+      ],
+      [
+        105550816,
+        105551124
+      ],
+      [
+        105551136,
+        105551444
+      ],
+      [
+        105551456,
+        105551764
+      ],
+      [
+        105551776,
+        105552084
+      ],
+      [
+        105552096,
+        105552404
+      ],
+      [
+        105552416,
+        105552724
+      ],
+      [
+        105552736,
+        105553044
+      ],
+      [
+        105553056,
+        105553364
+      ],
+      [
+        105553376,
+        105553684
+      ],
+      [
+        105553696,
+        105554004
+      ],
+      [
+        105554016,
+        105554324
+      ],
+      [
+        105554336,
+        105554644
+      ],
+      [
+        105554656,
+        105554964
+      ],
+      [
+        105554976,
+        105555284
+      ],
+      [
+        105555296,
+        105555604
+      ],
+      [
+        105555616,
+        105555924
+      ],
+      [
+        105555936,
+        105556244
+      ],
+      [
+        105556256,
+        105556564
+      ],
+      [
+        105556576,
+        105556884
+      ],
+      [
+        105556896,
+        105557204
+      ],
+      [
+        105557216,
+        105557524
+      ],
+      [
+        105557536,
+        105557844
+      ],
+      [
+        105557856,
+        105558164
+      ],
+      [
+        105558176,
+        105558484
+      ],
+      [
+        105558496,
+        105558804
+      ],
+      [
+        105558816,
+        105559124
+      ],
+      [
+        105559136,
+        105559444
+      ],
+      [
+        105559456,
+        105559764
+      ],
+      [
+        105559776,
+        105560084
+      ],
+      [
+        105560096,
+        105560404
+      ],
+      [
+        105560416,
+        105560724
+      ],
+      [
+        105560736,
+        105561044
+      ],
+      [
+        105561056,
+        105561364
+      ],
+      [
+        105561376,
+        105561684
+      ],
+      [
+        105561696,
+        105562004
+      ],
+      [
+        105562016,
+        105562324
+      ],
+      [
+        105562336,
+        105562644
+      ],
+      [
+        105562656,
+        105562964
+      ],
+      [
+        105562976,
+        105563284
+      ],
+      [
+        105563296,
+        105563604
+      ],
+      [
+        105563616,
+        105563924
+      ],
+      [
+        105563936,
+        105564244
+      ],
+      [
+        105564256,
+        105564564
+      ],
+      [
+        105564576,
+        105564884
+      ],
+      [
+        105564896,
+        105565204
+      ],
+      [
+        105565216,
+        105565524
+      ],
+      [
+        105565536,
+        105565844
+      ],
+      [
+        105565856,
+        105566164
+      ],
+      [
+        105566176,
+        105566484
+      ],
+      [
+        105566496,
+        105566804
+      ],
+      [
+        105566816,
+        105567124
+      ],
+      [
+        105567136,
+        105567444
+      ],
+      [
+        105567456,
+        105567764
+      ],
+      [
+        105567776,
+        105568084
+      ],
+      [
+        105568096,
+        105568404
+      ],
+      [
+        105568416,
+        105568724
+      ],
+      [
+        105568736,
+        105569044
+      ],
+      [
+        105569056,
+        105569364
+      ],
+      [
+        105569376,
+        105569684
+      ],
+      [
+        105569696,
+        105570004
+      ],
+      [
+        105570016,
+        105570324
+      ],
+      [
+        105570336,
+        105570644
+      ],
+      [
+        105570656,
+        105570964
+      ],
+      [
+        105570976,
+        105571284
+      ],
+      [
+        105571296,
+        105571604
+      ],
+      [
+        105571616,
+        105571924
+      ],
+      [
+        105571936,
+        105572244
+      ],
+      [
+        105572256,
+        105572564
+      ],
+      [
+        105572576,
+        105572884
+      ],
+      [
+        105572896,
+        105573204
+      ],
+      [
+        105573216,
+        105573524
+      ],
+      [
+        105573536,
+        105573844
+      ],
+      [
+        105573856,
+        105574164
+      ],
+      [
+        105574176,
+        105574484
+      ],
+      [
+        105574496,
+        105574804
+      ],
+      [
+        105574816,
+        105575124
+      ],
+      [
+        105575136,
+        105575444
+      ],
+      [
+        105575456,
+        105575764
+      ],
+      [
+        105575776,
+        105576084
+      ],
+      [
+        105576096,
+        105576404
+      ],
+      [
+        105576416,
+        105576724
+      ],
+      [
+        105576736,
+        105577044
+      ],
+      [
+        105577056,
+        105577364
+      ],
+      [
+        105577376,
+        105577684
+      ],
+      [
+        105577696,
+        105578004
+      ],
+      [
+        105578016,
+        105578324
+      ],
+      [
+        105578336,
+        105578644
+      ],
+      [
+        105578656,
+        105578964
+      ],
+      [
+        105578976,
+        105579284
+      ],
+      [
+        105579296,
+        105579604
+      ],
+      [
+        105579616,
+        105579924
+      ],
+      [
+        105579936,
+        105580244
+      ],
+      [
+        105580256,
+        105580564
+      ],
+      [
+        105580576,
+        105580884
+      ],
+      [
+        105580896,
+        105581204
+      ],
+      [
+        105581216,
+        105581524
+      ],
+      [
+        105581536,
+        105581844
+      ],
+      [
+        105581856,
+        105582164
+      ],
+      [
+        105582176,
+        105582484
+      ],
+      [
+        105582496,
+        105582804
+      ],
+      [
+        105582816,
+        105583124
+      ],
+      [
+        105583136,
+        105583444
+      ],
+      [
+        105583456,
+        105583764
+      ],
+      [
+        105583776,
+        105584084
+      ],
+      [
+        105584096,
+        105584404
+      ],
+      [
+        105584416,
+        105584724
+      ],
+      [
+        105584736,
+        105585044
+      ],
+      [
+        105585056,
+        105585364
+      ],
+      [
+        105585376,
+        105585684
+      ],
+      [
+        105585696,
+        105586004
+      ],
+      [
+        105586016,
+        105586324
+      ],
+      [
+        105586336,
+        105586644
+      ],
+      [
+        105586656,
+        105586964
+      ],
+      [
+        105586976,
+        105587284
+      ],
+      [
+        105587296,
+        105587604
+      ],
+      [
+        105587616,
+        105587924
+      ],
+      [
+        105587936,
+        105588244
+      ],
+      [
+        105588256,
+        105588564
+      ],
+      [
+        105588576,
+        105588884
+      ],
+      [
+        105588896,
+        105589204
+      ],
+      [
+        105589216,
+        105589524
+      ],
+      [
+        105589536,
+        105589844
+      ],
+      [
+        105589856,
+        105590164
+      ],
+      [
+        105590176,
+        105590484
+      ],
+      [
+        105590496,
+        105590804
+      ],
+      [
+        105590816,
+        105591124
+      ],
+      [
+        105591136,
+        105591444
+      ],
+      [
+        105591456,
+        105591764
+      ],
+      [
+        105591776,
+        105592084
+      ],
+      [
+        105592096,
+        105592404
+      ],
+      [
+        105592416,
+        105592724
+      ],
+      [
+        105592736,
+        105593044
+      ],
+      [
+        105593056,
+        105593364
+      ],
+      [
+        105593376,
+        105593684
+      ],
+      [
+        105593696,
+        105594004
+      ],
+      [
+        105594016,
+        105594324
+      ],
+      [
+        105594336,
+        105594644
+      ],
+      [
+        105594656,
+        105594964
+      ],
+      [
+        105594976,
+        105595284
+      ],
+      [
+        105595296,
+        105595604
+      ],
+      [
+        105595616,
+        105595924
+      ],
+      [
+        105595936,
+        105596244
+      ],
+      [
+        105596256,
+        105596564
+      ],
+      [
+        105596576,
+        105596884
+      ],
+      [
+        105596896,
+        105597204
+      ],
+      [
+        105597216,
+        105597524
+      ],
+      [
+        105597536,
+        105597844
+      ],
+      [
+        105597856,
+        105598164
+      ],
+      [
+        105598176,
+        105598484
+      ],
+      [
+        105598496,
+        105598804
+      ],
+      [
+        105598816,
+        105599124
+      ],
+      [
+        105599136,
+        105599444
+      ],
+      [
+        105599456,
+        105599764
+      ],
+      [
+        105599776,
+        105600084
+      ],
+      [
+        105600096,
+        105600404
+      ],
+      [
+        105600416,
+        105600724
+      ],
+      [
+        105600736,
+        105601044
+      ],
+      [
+        105601056,
+        105601364
+      ],
+      [
+        105601376,
+        105601684
+      ],
+      [
+        105601696,
+        105602004
+      ],
+      [
+        105602016,
+        105602324
+      ],
+      [
+        105602336,
+        105602644
+      ],
+      [
+        105602656,
+        105602964
+      ],
+      [
+        105602976,
+        105603284
+      ],
+      [
+        105603296,
+        105603604
+      ],
+      [
+        105603616,
+        105603924
+      ],
+      [
+        105603936,
+        105604244
+      ],
+      [
+        105604256,
+        105604564
+      ],
+      [
+        105604576,
+        105604884
+      ],
+      [
+        105604896,
+        105605204
+      ],
+      [
+        105605216,
+        105605524
+      ],
+      [
+        105605536,
+        105605844
+      ],
+      [
+        105605856,
+        105606164
+      ],
+      [
+        105606176,
+        105606484
+      ],
+      [
+        105606496,
+        105606804
+      ],
+      [
+        105606816,
+        105607124
+      ],
+      [
+        105607136,
+        105607444
+      ],
+      [
+        105607456,
+        105607764
+      ],
+      [
+        105607776,
+        105608084
+      ],
+      [
+        105608096,
+        105608404
+      ],
+      [
+        105608416,
+        105608724
+      ],
+      [
+        105608736,
+        105609044
+      ],
+      [
+        105609056,
+        105609364
+      ],
+      [
+        105609376,
+        105609684
+      ],
+      [
+        105609696,
+        105610004
+      ],
+      [
+        105610016,
+        105610324
+      ],
+      [
+        105610336,
+        105610644
+      ],
+      [
+        105610656,
+        105610964
+      ],
+      [
+        105610976,
+        105611284
+      ],
+      [
+        105611296,
+        105611604
+      ],
+      [
+        105611616,
+        105611924
+      ],
+      [
+        105611936,
+        105612244
+      ],
+      [
+        105612256,
+        105612564
+      ],
+      [
+        105612576,
+        105612884
+      ],
+      [
+        105612896,
+        105613204
+      ],
+      [
+        105613216,
+        105613524
+      ],
+      [
+        105613536,
+        105613844
+      ],
+      [
+        105613856,
+        105614164
+      ],
+      [
+        105614176,
+        105614484
+      ],
+      [
+        105614496,
+        105614804
+      ],
+      [
+        105614816,
+        105615124
+      ],
+      [
+        105615136,
+        105615444
+      ],
+      [
+        105615456,
+        105615764
+      ],
+      [
+        105615776,
+        105616084
+      ],
+      [
+        105616096,
+        105616404
+      ],
+      [
+        105616416,
+        105616724
+      ],
+      [
+        105616736,
+        105617044
+      ],
+      [
+        105617056,
+        105617364
+      ],
+      [
+        105617376,
+        105617684
+      ],
+      [
+        105617696,
+        105618004
+      ],
+      [
+        105618016,
+        105618324
+      ],
+      [
+        105618336,
+        105618644
+      ],
+      [
+        105618656,
+        105618964
+      ],
+      [
+        105618976,
+        105619284
+      ],
+      [
+        105619296,
+        105619604
+      ],
+      [
+        105619616,
+        105619924
+      ],
+      [
+        105619936,
+        105620244
+      ],
+      [
+        105620256,
+        105620564
+      ],
+      [
+        105620576,
+        105620884
+      ],
+      [
+        105620896,
+        105621204
+      ],
+      [
+        105621216,
+        105621524
+      ],
+      [
+        105621536,
+        105621844
+      ],
+      [
+        105621856,
+        105622164
+      ],
+      [
+        105622176,
+        105622484
+      ],
+      [
+        105622496,
+        105622804
+      ],
+      [
+        105622816,
+        105623124
+      ],
+      [
+        105623136,
+        105623444
+      ],
+      [
+        105623456,
+        105623764
+      ],
+      [
+        105623776,
+        105624084
+      ],
+      [
+        105624096,
+        105624404
+      ],
+      [
+        105624416,
+        105624724
+      ],
+      [
+        105624736,
+        105625044
+      ],
+      [
+        105625056,
+        105625364
+      ],
+      [
+        105625376,
+        105625684
+      ],
+      [
+        105625696,
+        105626004
+      ],
+      [
+        105626016,
+        105626324
+      ],
+      [
+        105626336,
+        105626644
+      ],
+      [
+        105626656,
+        105626964
+      ],
+      [
+        105626976,
+        105627284
+      ],
+      [
+        105627296,
+        105627604
+      ],
+      [
+        105627616,
+        105627924
+      ],
+      [
+        105627936,
+        105628244
+      ],
+      [
+        105628256,
+        105628564
+      ],
+      [
+        105628576,
+        105628884
+      ],
+      [
+        105628896,
+        105629204
+      ],
+      [
+        105629216,
+        105629524
+      ],
+      [
+        105629536,
+        105629844
+      ],
+      [
+        105629856,
+        105630164
+      ],
+      [
+        105630176,
+        105630484
+      ],
+      [
+        105630496,
+        105630804
+      ],
+      [
+        105630816,
+        105631124
+      ],
+      [
+        105631136,
+        105631444
+      ],
+      [
+        105631456,
+        105631764
+      ],
+      [
+        105631776,
+        105632084
+      ],
+      [
+        105632096,
+        105632404
+      ],
+      [
+        105632416,
+        105632724
+      ],
+      [
+        105632736,
+        105633044
+      ],
+      [
+        105633056,
+        105633364
+      ],
+      [
+        105633376,
+        105633684
+      ],
+      [
+        105633696,
+        105634004
+      ],
+      [
+        105634016,
+        105634324
+      ],
+      [
+        105634336,
+        105634644
+      ],
+      [
+        105634656,
+        105634964
+      ],
+      [
+        105634976,
+        105635284
+      ],
+      [
+        105635296,
+        105635604
+      ],
+      [
+        105635616,
+        105635924
+      ],
+      [
+        105635936,
+        105636244
+      ],
+      [
+        105636256,
+        105636564
+      ],
+      [
+        105636576,
+        105636884
+      ],
+      [
+        105636896,
+        105637204
+      ],
+      [
+        105637216,
+        105637524
+      ],
+      [
+        105637536,
+        105637844
+      ],
+      [
+        105637856,
+        105638164
+      ],
+      [
+        105638176,
+        105638484
+      ],
+      [
+        105638496,
+        105638804
+      ],
+      [
+        105638816,
+        105639124
+      ],
+      [
+        105639136,
+        105639444
+      ],
+      [
+        105639456,
+        105639764
+      ],
+      [
+        105639776,
+        105640084
+      ],
+      [
+        105640096,
+        105640404
+      ],
+      [
+        105640416,
+        105640724
+      ],
+      [
+        105640736,
+        105641044
+      ],
+      [
+        105641056,
+        105641364
+      ],
+      [
+        105641376,
+        105641684
+      ],
+      [
+        105641696,
+        105642004
+      ],
+      [
+        105642016,
+        105642324
+      ],
+      [
+        105642336,
+        105642644
+      ],
+      [
+        105642656,
+        105642964
+      ],
+      [
+        105642976,
+        105643284
+      ],
+      [
+        105643296,
+        105643604
+      ],
+      [
+        105643616,
+        105643924
+      ],
+      [
+        105664864,
+        105676992
+      ]
+    ],
+    "original_RW_payload_byte_identical": true,
+    "new_handle_state_in_loader_zeroed_BSS": true,
+    "dependencies_exports_and_original_game_methods_preserved": true,
+    "load_layout_checked_for_4KB_and_16KB": true
+  },
+  "supplied_crash_regression": {
+    "passed": true,
+    "binary_sha256": "99d70c773b40587f2b6fb357308f57e1ed0a143ad4661a90bc328cffc2cf2374",
+    "original_crash_reproduced": [
+      {
+        "aslr_bias": 0,
+        "pc": "0x2238d44",
+        "handle": "0x520000025c",
+        "fault": "0x5200000020"
+      },
+      {
+        "aslr_bias": 68719476736,
+        "pc": "0x2238d44",
+        "handle": "0x520000025c",
+        "fault": "0x5200000020"
+      }
+    ],
+    "actual_native_free_executed": true,
+    "initial_new_state_loader_zeroed": true,
+    "original_RW_payload_unchanged": true,
+    "fixed_setup_repeat_close_reopen_passed": true,
+    "Android_runtime_tested": false
+  },
+  "launcher_social_links_checks": {
+    "passed": true,
+    "checks": 316,
+    "binary_sha256": "56dd08457791c7e1e20f23465c3255fdea5268e48daf72c0817b00f8b6e03809",
+    "bridge_sha256": "28cacbe267c6ef910ea67c40bd70c4c912273b9bcefa9fc99cc342e263c9cb92",
+    "visible_launcher_links": [
+      "https://patreon.com/mayomods",
+      "https://discord.gg/zVsR7ZzGrn"
+    ],
+    "actual_render_card_click_and_reset_bytecode_executed": true,
+    "exact_URL_subtitles": true,
+    "missing_browser_fallback_executed": true,
+    "all_branches_land_on_instructions": true,
+    "startup_and_diagnostics_methods_unchanged": true,
+    "Android_boundaries_modeled": true,
+    "ART_runtime_tested": false
+  },
+  "navigation_regression": {
+    "passed": true,
+    "arm64_cases": 800,
+    "binary_sha256": "99d70c773b40587f2b6fb357308f57e1ed0a143ad4661a90bc328cffc2cf2374",
+    "v32_negative_controls": [
+      {
+        "aslr_bias": 0,
+        "actual_stock_RevealDarkly_selected_cached_picker": true,
+        "two_pages_active_after_map_Back": true
+      },
+      {
+        "aslr_bias": 68719476736,
+        "actual_stock_RevealDarkly_selected_cached_picker": true,
+        "two_pages_active_after_map_Back": true
+      }
+    ],
+    "aslr_biases": [
+      0,
+      68719476736
+    ],
+    "actual_Action_Invoke_and_stock_last_picker_lookup_executed": true,
+    "actual_DismissAllLists_DismissAllDarklies_and_ResetTypes_executed": true,
+    "repeated_map_back_close_and_row_preserve_draft": true,
+    "failed_map_open_rolls_back": true,
+    "fresh_entry_after_surrender_close_country_city_or_map_clears_obsolete_UI": true,
+    "pending_translation_does_not_change_custom_mode_or_genes": true,
+    "obsolete_callbacks_ignored": true,
+    "Unity_rendering_and_stock_surrender_event_are_modeled": true,
+    "device_runtime_tested": false,
+    "BlueStacks_runtime_tested": false
+  },
+  "settled_UI_header_recovery_regression": {
+    "passed": true,
+    "arm64_cases": 86,
+    "binary_sha256": "99d70c773b40587f2b6fb357308f57e1ed0a143ad4661a90bc328cffc2cf2374",
+    "aslr_biases": [
+      0,
+      68719476736
+    ],
+    "v32_negative_controls": [
+      {
+        "aslr_bias": 0,
+        "actual_stock_RefreshUI_executed": true,
+        "hidden_nav_remained_hidden": true
+      },
+      {
+        "aslr_bias": 68719476736,
+        "actual_stock_RefreshUI_executed": true,
+        "hidden_nav_remained_hidden": true
+      }
+    ],
+    "actual_UIManager_RefreshUI_body_executed": true,
+    "stock_widget_updates_and_caller_arguments_preserved": true,
+    "hidden_top_menu_restored_after_dialog_or_menu_closes": true,
+    "repeated_refresh_is_idempotent": true,
+    "active_scenario_Darkly_menu_and_pending_translation_do_not_reveal_nav": true,
+    "accessibility_focus_only_on_recovery": true,
+    "null_and_destroyed_component_guards_checked": true,
+    "Unity_and_child_widget_boundaries_modeled": true,
+    "complete_therapist_event_reproduced": false,
+    "device_runtime_tested": false,
+    "BlueStacks_runtime_tested": false
+  },
+  "version_label_regression": {
+    "passed": true,
+    "changed_strings": [
+      {
+        "index": 116,
+        "offset": 30925,
+        "before": "Build: MayoMods v32; app: ",
+        "after": "Build: MayoMods v33; app: "
+      },
+      {
+        "index": 485,
+        "offset": 41891,
+        "before": "MayoMods v32 \u2014 Android crash record\n\n",
+        "after": "MayoMods v33 \u2014 Android crash record\n\n"
+      },
+      {
+        "index": 486,
+        "offset": 41932,
+        "before": "MayoMods v32 \u2014 local crash diagnostics\n\nLAST RECORDED CRASH / ERROR\n",
+        "after": "MayoMods v33 \u2014 local crash diagnostics\n\nLAST RECORDED CRASH / ERROR\n"
+      },
+      {
+        "index": 487,
+        "offset": 42004,
+        "before": "MayoMods v32 \u2014 recorded error\n",
+        "after": "MayoMods v33 \u2014 recorded error\n"
+      },
+      {
+        "index": 511,
+        "offset": 42759,
+        "before": "New Life & Crash Diagnostics \u00b7 v32",
+        "after": "New Life & Crash Diagnostics \u00b7 v33"
+      }
+    ],
+    "binary_sha256": "56dd08457791c7e1e20f23465c3255fdea5268e48daf72c0817b00f8b6e03809",
+    "bridge_sha256": "28cacbe267c6ef910ea67c40bd70c4c912273b9bcefa9fc99cc342e263c9cb92",
+    "every_method_code_item_byte_identical": true,
+    "identifiers_offsets_and_order_preserved": true,
+    "exact_inverse_verified": true,
+    "bridge_byte_identical": true
+  },
+  "main_menu_age_zero_and_deceased_New_Life_entry_regression": {
+    "passed": true,
+    "arm64_cases": 224,
+    "binary_sha256": "99d70c773b40587f2b6fb357308f57e1ed0a143ad4661a90bc328cffc2cf2374",
+    "v32_negative_controls": [
+      {
+        "aslr_bias": 0,
+        "stock_main_menu_entry_skips_custom_life_reset": true,
+        "modeled_pending_transition_refused": true
+      },
+      {
+        "aslr_bias": 68719476736,
+        "stock_main_menu_entry_skips_custom_life_reset": true,
+        "modeled_pending_transition_refused": true
+      }
+    ],
+    "aslr_biases": [
+      0,
+      68719476736
+    ],
+    "actual_main_menu_action_1_tail_and_full_ShowDarklyWithScenario_executed": true,
+    "stock_save_confirmation_and_Start_unchanged": true,
+    "repeated_age_zero_and_deceased_entry_clears_cached_screens_and_pending_state": true,
+    "unrelated_scenarios_untouched": true,
+    "prefab_creation_rendering_and_transition_scheduling_modeled": true,
+    "video_sequence_inspected": true,
+    "exact_recorded_device_state_not_recovered": true,
+    "device_runtime_tested": false
+  },
+  "in_game_Mod_menu_social_links_preserved": true,
+  "retained_startup_and_crash_logging_bytecode": true,
+  "six_body_and_trait_fields_directly_in_New_Life": true,
+  "selectors_use_stock_rounded_buttons": true,
+  "root_close_cancels_draft_and_reopen_rearms_it": true,
+  "football_report_requires_specific_affected_screen": true,
+  "expansion_ideas_preserved_for_gradual_updates_not_implemented_in_v33": true,
+  "ART_verifier_tested": false,
+  "BlueStacks_runtime_tested": false,
+  "device_runtime_tested": false,
+  "startup_emulator_dlopen_compatibility_not_established": true
+}

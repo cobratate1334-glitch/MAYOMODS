@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "tests": {
+    "RuntimeLogStoreTest": "Runtime log filtering, exception preservation, rotation, persistence, reset and clipboard bounds passed",
+    "CrashJournalTest": "Crash journal cases passed: 19",
+    "TombstoneReaderTest": "PASS: crashing-thread frames, signal/fault, PID/process matching, unknown-field skipping, private data exclusion, malformed/fuzz inputs, byte limit, stalled stream",
+    "NativeCrashReaderTest": "Android crash reader cases passed: 14",
+    "RecoveredLauncherJournalTest": "Recovered launcher journal cases passed: 5"
+  },
+  "recovered_native_load_error_persisted": true,
+  "previous_sessions_and_API28_fallback_verified": true,
+  "checkpoint_trace_limit_chars": 1800,
+  "Android_service_responses_mocked": true,
+  "device_runtime_tested": false
+}

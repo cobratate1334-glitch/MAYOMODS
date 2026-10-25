@@ -1,0 +1,83 @@
+{
+  "credit": "Compiled by Atlanti.",
+  "status": "Awaiting readable exported files",
+  "documents_imported": false,
+  "reason": "All supplied public document links failed retrieval; no contents were available to inspect or import.",
+  "sources": [
+    {
+      "url": "https://drive.google.com/file/d/168b2eG89SBUbt9F5alSMn1xbn7tdHwLK/view",
+      "status": "unread",
+      "imported": false
+    },
+    {
+      "url": "https://docs.google.com/document/d/1J6EMihTmsj9AdSLrwFHTr3TDHwntN1ElL88ve8rlH3A/edit",
+      "status": "unread",
+      "imported": false
+    },
+    {
+      "url": "https://docs.google.com/document/d/1ljS8jDVfu8HAC-UuED6BAWhDFqBvXNqK5D2ut0jK574/edit",
+      "status": "unread",
+      "imported": false
+    },
+    {
+      "url": "https://docs.google.com/document/d/1IsD3ZX5avMzfmL7p8BJM4k-ave-Pj8mc-GrbxlHUuiI/edit",
+      "status": "unread",
+      "imported": false
+    },
+    {
+      "url": "https://docs.google.com/document/d/1zOciqkXLAlf2lfp6siN7EEmaXO-G5ywT18QWHIMEhZ4/edit",
+      "status": "unread",
+      "imported": false
+    },
+    {
+      "url": "https://docs.google.com/document/d/1jX3zFTEEM6oEmCdPcHTd_x8qUWIYBU4RfuO82EBisKY/edit",
+      "status": "unread",
+      "imported": false
+    },
+    {
+      "url": "https://docs.google.com/document/d/1N6hADSe3KqXkMzJdcWPvY0lT_9yCWdZqezqroR_0FtQ/edit",
+      "status": "unread",
+      "imported": false
+    },
+    {
+      "url": "https://docs.google.com/document/d/11drnTsdL73pbJBlFwcooVbwd-_paH-C7Omknse53uCY/edit",
+      "status": "unread",
+      "imported": false
+    },
+    {
+      "url": "https://docs.google.com/document/d/18xi0kK6pa7-q8c2Vm6TOU4bYFJ2yakG7eQjnpzF5Mcg/edit",
+      "status": "unread",
+      "imported": false
+    },
+    {
+      "url": "https://docs.google.com/document/d/1RtPCsEYDHsV4oLXT-d8nd65aDdowggKgwjLBNvRTcgc/edit",
+      "status": "unread",
+      "imported": false
+    },
+    {
+      "url": "https://docs.google.com/document/d/1YSF3CS77O1e9qZ5qrQdDlm0ZXJhxmXIv-9hdajo29w8/edit",
+      "status": "unread",
+      "imported": false
+    },
+    {
+      "url": "https://docs.google.com/document/u/0/d/1wZ46nG12ef4bvD3H2ROrjd7YmPLIxzu784FZRftl_es/mobilebasic",
+      "status": "unread",
+      "imported": false
+    },
+    {
+      "url": "https://docs.google.com/document/d/1mDHOD1qSocwE3hvVgLGztCh2lIKp1hpOt8EVu-Y99WU/edit",
+      "status": "unread",
+      "imported": false
+    },
+    {
+      "url": "https://docs.google.com/document/d/1VzIt7_nuo_tpD9nCIf8t2EFDXCXIDoX9hy1jmMFD4AI/edit?usp=sharing",
+      "status": "unread",
+      "imported": false
+    }
+  ],
+  "book_reference": {
+    "title": "The Last Yakuza: Life and Death in the Japanese Underworld",
+    "author": "Jake Adelstein",
+    "source": "User-supplied description only; book content not imported."
+  }
+}

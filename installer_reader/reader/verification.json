@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "package": "com.chance.mayoinstallcheck",
+  "apk": "MayoMods_Install_Reader_v1.apk",
+  "bytes": 16787,
+  "sha256": "d25edfca89fba6917b2a4c52214a0e0469c200a2f47e16816990f0afad165e3d",
+  "signature_android13": "verified=true\nv1=false\nv2=false\nv3=true\nerrors=[]\nwarnings=[]\n",
+  "android_package_parser_passed": true,
+  "requested_permissions": [],
+  "game_updates_performed": false,
+  "game_data_changes_performed": false,
+  "physical_device_tested": false,
+  "root_access_on_phone_tested": false
+}

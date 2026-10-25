@@ -1,0 +1,97 @@
+{
+  "ListID": "genesis_v7_job_content_strategist",
+  "Title": "CONTENT STRATEGIST PROJECTS",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Project Dashboard",
+      "Icon": "hammer",
+      "SecondLine": "Completed: <GFC.job_content_strategist.Projects>",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_content_strategist:NativeCareerSync:=1>>scenario.careersV7.job_content_strategistdeliver",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "BarGraph": {
+        "Title": "Quality",
+        "Value": "<GFC.job_content_strategist.Quality>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v9_genesis_v7_job_content_strategist_0"
+    },
+    {
+      "Title": "Plan an editorial calendar",
+      "Icon": "calendar",
+      "SecondLine": "Project stage 1",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_content_strategist:NativeCareerSync:=1>>scenario.careersV7.job_content_strategist1",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_content_strategist_1"
+    },
+    {
+      "Title": "Research audience needs",
+      "Icon": "anchor",
+      "SecondLine": "Project stage 2",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_content_strategist:NativeCareerSync:=1>>scenario.careersV7.job_content_strategist2",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_content_strategist_2"
+    },
+    {
+      "Title": "Present the content strategy",
+      "Icon": "compass",
+      "SecondLine": "Project stage 3",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_content_strategist:NativeCareerSync:=1>>scenario.careersV7.job_content_strategist3",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_content_strategist_3"
+    },
+    {
+      "Title": "Submit and Review",
+      "Icon": "clipboard",
+      "SecondLine": "Turn project progress into job performance",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_content_strategist:NativeCareerSync:=1>>scenario.careersV7.job_content_strategistdeliver",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_content_strategist_4"
+    }
+  ]
+}

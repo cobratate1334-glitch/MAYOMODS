@@ -1,0 +1,67 @@
+{
+  "pack": "MayoMods Social NPC Messages",
+  "version": "1.0",
+  "content_words": 702249,
+  "counting_method": "Count words only in JSON text fields (not keys, titles or instructional text); regex includes words with apostrophes and hyphens.",
+  "messages": 17955,
+  "platforms": {
+    "Reddit": {
+      "words": 140617,
+      "threads": 244,
+      "messages": 3624,
+      "parts": 5,
+      "posts": 244,
+      "comments": 2234,
+      "replies": 1146
+    },
+    "Discord": {
+      "words": 140227,
+      "threads": 239,
+      "messages": 3542,
+      "parts": 5,
+      "posts": 239,
+      "comments": 2150,
+      "replies": 1153
+    },
+    "YouTube": {
+      "words": 140609,
+      "threads": 240,
+      "messages": 3597,
+      "parts": 5,
+      "posts": 240,
+      "comments": 2180,
+      "replies": 1177
+    },
+    "OnlyFans": {
+      "words": 140322,
+      "threads": 241,
+      "messages": 3602,
+      "parts": 5,
+      "posts": 241,
+      "comments": 2216,
+      "replies": 1145
+    },
+    "SoundCloud": {
+      "words": 140474,
+      "threads": 239,
+      "messages": 3590,
+      "parts": 5,
+      "posts": 239,
+      "comments": 2181,
+      "replies": 1170
+    }
+  },
+  "encoding": "UTF-8",
+  "format": "Human-readable TXT with JSON objects on lines starting with {",
+  "notice": "OnlyFans records are age-gated for in-game adult characters (age_gate=18); they contain non-explicit creator community interactions.",
+  "placeholders": [
+    "{{PLAYER_NAME}}",
+    "{{CREATOR_NAME}}",
+    "{{TRACK_TITLE}}",
+    "{{VIDEO_TITLE}}",
+    "{{STREAM_TITLE}}",
+    "{{PLAYLIST_NAME}}",
+    "{{SERVER_NAME}}"
+  ],
+  "how_to_import": "Import one platform chunk at a time, index record id and thread_id, route by surface and destination, substitute placeholders, and display comments by parent_id."
+}

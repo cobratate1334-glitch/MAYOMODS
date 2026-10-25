@@ -1,0 +1,223 @@
+{
+  "ListID": "genesis_music_studio_catalog",
+  "Title": "RELEASE CATALOGUE",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Catalogue Information",
+      "Icon": "cd",
+      "SecondLine": "",
+      "TileID": "v11_catalog_info",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV11.catalog_info",
+              "ScenarioFile": "genesis_activities_v11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "<GFC.music_studio.Catalog1Title>",
+      "Icon": "cd",
+      "SecondLine": "<GFC.music_studio.Catalog1Format> · <GFC.music_studio.Catalog1Genre>",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.catalog1",
+              "ScenarioFile": "genesis_music_studio"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.TotalReleases>=1]",
+      "BarGraph": {
+        "Title": "Reception",
+        "Value": "<GFC.music_studio.Catalog1Quality>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v11_genesis_music_studio_catalog_0"
+    },
+    {
+      "Title": "<GFC.music_studio.Catalog2Title>",
+      "Icon": "cd",
+      "SecondLine": "<GFC.music_studio.Catalog2Format> · <GFC.music_studio.Catalog2Genre>",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.catalog2",
+              "ScenarioFile": "genesis_music_studio"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.TotalReleases>=2]",
+      "BarGraph": {
+        "Title": "Reception",
+        "Value": "<GFC.music_studio.Catalog2Quality>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v11_genesis_music_studio_catalog_1"
+    },
+    {
+      "Title": "<GFC.music_studio.Catalog3Title>",
+      "Icon": "cd",
+      "SecondLine": "<GFC.music_studio.Catalog3Format> · <GFC.music_studio.Catalog3Genre>",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.catalog3",
+              "ScenarioFile": "genesis_music_studio"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.TotalReleases>=3]",
+      "BarGraph": {
+        "Title": "Reception",
+        "Value": "<GFC.music_studio.Catalog3Quality>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v11_genesis_music_studio_catalog_2"
+    },
+    {
+      "Title": "<GFC.music_studio.Catalog4Title>",
+      "Icon": "cd",
+      "SecondLine": "<GFC.music_studio.Catalog4Format> · <GFC.music_studio.Catalog4Genre>",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.catalog4",
+              "ScenarioFile": "genesis_music_studio"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.TotalReleases>=4]",
+      "BarGraph": {
+        "Title": "Reception",
+        "Value": "<GFC.music_studio.Catalog4Quality>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v11_genesis_music_studio_catalog_3"
+    },
+    {
+      "Title": "<GFC.music_studio.Catalog5Title>",
+      "Icon": "cd",
+      "SecondLine": "<GFC.music_studio.Catalog5Format> · <GFC.music_studio.Catalog5Genre>",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.catalog5",
+              "ScenarioFile": "genesis_music_studio"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.TotalReleases>=5]",
+      "BarGraph": {
+        "Title": "Reception",
+        "Value": "<GFC.music_studio.Catalog5Quality>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v11_genesis_music_studio_catalog_4"
+    },
+    {
+      "Title": "<GFC.music_studio.Catalog6Title>",
+      "Icon": "cd",
+      "SecondLine": "<GFC.music_studio.Catalog6Format> · <GFC.music_studio.Catalog6Genre>",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.catalog6",
+              "ScenarioFile": "genesis_music_studio"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.TotalReleases>=6]",
+      "BarGraph": {
+        "Title": "Reception",
+        "Value": "<GFC.music_studio.Catalog6Quality>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v11_genesis_music_studio_catalog_5"
+    },
+    {
+      "Title": "<GFC.music_studio.Catalog7Title>",
+      "Icon": "cd",
+      "SecondLine": "<GFC.music_studio.Catalog7Format> · <GFC.music_studio.Catalog7Genre>",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.catalog7",
+              "ScenarioFile": "genesis_music_studio"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.TotalReleases>=7]",
+      "BarGraph": {
+        "Title": "Reception",
+        "Value": "<GFC.music_studio.Catalog7Quality>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v11_genesis_music_studio_catalog_6"
+    },
+    {
+      "Title": "<GFC.music_studio.Catalog8Title>",
+      "Icon": "cd",
+      "SecondLine": "<GFC.music_studio.Catalog8Format> · <GFC.music_studio.Catalog8Genre>",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.catalog8",
+              "ScenarioFile": "genesis_music_studio"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.TotalReleases>=8]",
+      "BarGraph": {
+        "Title": "Reception",
+        "Value": "<GFC.music_studio.Catalog8Quality>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v11_genesis_music_studio_catalog_7"
+    },
+    {
+      "Title": "Back to Music Studio",
+      "Icon": "mic-studio",
+      "TileID": "v11_back_genesis_music_studio_catalog",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ListID": "genesis_music_studio_hub"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

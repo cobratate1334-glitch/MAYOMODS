@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "arm64_cases": 1672,
+  "binary_sha256": "71f72fbf27b203353b6ff2a1c20866b8fb36abfa55615b946762b3ab825fc8fa",
+  "interrupted_return_retry": true,
+  "partial_list_cleanup": true,
+  "selected_relative_interleaving": true,
+  "new_life_context_replacement": true,
+  "all_102_game_countries": true,
+  "stable_existing_country_IDs": true,
+  "native_icon_texture_assignment": true,
+  "aslr_biases": [
+    0,
+    68719476736
+  ],
+  "Unity_GC_prefabs_and_rendering_modeled": true,
+  "device_runtime_tested": false
+}

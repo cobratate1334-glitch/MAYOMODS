@@ -1,0 +1,6 @@
+{
+  "changed_class": "com.android.support.Menu",
+  "unchanged_classes": 75,
+  "roundtrip_verified": true,
+  "change": "Register the existing logo ImageView for the display toggle"
+}

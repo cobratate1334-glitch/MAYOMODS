@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "sha256": "b8ef0a8c0ce9199481edb6d393a90fda743b61c9344daadb6322c508377dd301",
+  "modified_TextAssets": [
+    "genesis_activities_v18",
+    "genesis_v18_nations18",
+    "genesis_v12_defaults_soccer_v12"
+  ],
+  "preserved_object_count": 37706,
+  "all_other_Unity_objects_byte_identical": true,
+  "existing_63_country_IDs_preserved": true,
+  "game_country_count": 102,
+  "added_country_count": 39
+}

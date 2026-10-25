@@ -1,0 +1,35 @@
+{
+  "passed": true,
+  "tests": 7,
+  "Android_API_levels": [
+    28,
+    33
+  ],
+  "framework": "Robolectric 4.14.1",
+  "graphics": "native Skia",
+  "actual_Android_views_executed": true,
+  "layout_widths": [
+    280,
+    360,
+    600
+  ],
+  "large_font_scale": 1.6,
+  "settings_back_and_persistent_toggles": true,
+  "interrupted_animation_and_lifecycle_recovery": true,
+  "source_sha256": {
+    "LauncherMotion.java": "477d2d653fc089ef43482e6f922e267a853e6c1ced86f895eaeb8210e00a2455",
+    "FloatingDisplay.java": "abc2058b96ee9c9ed8b7a9fba55100daa5a11b0e747a143d2d056c6956860d78",
+    "LauncherIcon.java": "29ddeffc9d37c7af64a36d02dc15e56a7ba5a17f7109619d85da10bee17f3f96",
+    "StartupActivity.java": "0f7b0b9eae0b16136d0fe5bb93eccb92ba5668bea4ab1bfbe044bd960ef234aa",
+    "ModMenuBranding.java": "e13b693a681cae552af8c85bff603a322be0341082a9e793f89c6b14647b58fd"
+  },
+  "tests_sha256": "e2113b9dc2ba6fdb733f5c5cbfd52f7ab19aed3a5b4517d2eb480f36f924df7b",
+  "mod_menu_toggle_and_preference_migration": true,
+  "neutral_mod_button_action_preserved": true,
+  "menu_tests_sha256": "e3ddb011a87d4628ab2bb910d646326eed47da6fda047f988986be9d619ae8c4",
+  "icon_sha256": "9fba30d350238f767c24ce3108a5199b91d0160acd9c4d53fe4db700c7f080f4",
+  "screenshot_sha256": "71b283d34fe73e6aa719ff13df8b7602b983f04e8f955f65ed1dea2d87ec2bae",
+  "ART_tested": false,
+  "device_tested": false,
+  "BlueStacks_tested": false
+}

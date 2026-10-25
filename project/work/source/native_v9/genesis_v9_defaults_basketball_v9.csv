@@ -1,0 +1,13 @@
+key,type,value,reset_on_ageup,minimum,maximum
+Sessions,int,0,true,0,8
+Skill,int,20,,0,100
+Tactics,int,20,,0,100
+Respect,int,20,,0,100
+NativeFitnessImpact,int,0,,-3,3
+NativeRespectImpact,int,0,,-3,3
+shootStage,int,0,,0,6
+shootScore,int,0,,0,5
+shootBest,int,0,,0,5
+defenceStage,int,0,,0,4
+defenceScore,int,0,,0,3
+defenceBest,int,0,,0,3

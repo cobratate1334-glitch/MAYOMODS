@@ -1,0 +1,27 @@
+{
+  "original_sha256": "b69ab2ea9ab34380fd4b864339aac753c2b83e62766d0948356b95a14dac9ed4",
+  "binary_sha256": "923462fc8a15d8479b0775aa77845f4cd3c5072097e728495c7adacc6e36c57e",
+  "changed_string_ids": [
+    116,
+    485,
+    486,
+    487,
+    511
+  ],
+  "all_code_items_and_offsets_preserved": true,
+  "string_sorting_preserved": true,
+  "only_equal_width_build_labels_and_DEX_checksums_changed": true,
+  "source_sha256": {
+    "CrashJournal.java": "aeaf55d06491828460e7e70da01728e46762384a22e412ffbefd0f586ce30f05",
+    "DiagnosticsUI.java": "71a37e5a32a04c7bc985fd8c23a693116ecceff739c97f18f7fc05c9ac30a1e4",
+    "FloatingDisplay.java": "e2b9cf79ad7a5e2771ce8a46fcde328fe2fe58c8321e767034863d9475e51938",
+    "LauncherIcon.java": "e477cff047112c1738c108795c29c1d017170ce2b355a00efa3516411a134b5c",
+    "LifeSetupUI.java": "23a9a8eb150109d282b2db6b415b0f720ad97f70e710bcc89ad44af000d220da",
+    "NativeCrashReader.java": "d1f65f068a3cdcfea680643e718fadc176ded0620516e83cfbef8f45c529e214",
+    "RuntimeLogCapture.java": "087de6eae5c5393d922d755032863cd5bcba2fc24a70d2cab6857960e69f8aff",
+    "RuntimeLogStore.java": "de56e8487c445178ab48d57ecfa4d4e896299d8da463893577bf3adea7c612fc",
+    "StartupActivity.java": "418cee4eccd9d6589ff700c3e56518222e04949746633dedee8bb36601f32d05",
+    "StartupProbe.java": "d9afdf21c5a584dbad20d1d3a6097d9820dba87d129dc23b0eba5542796222b2",
+    "TombstoneReader.java": "b7896e9707f45f751c463a13b19a6898067a5c167de996afb62e40b95faa24bb"
+  }
+}

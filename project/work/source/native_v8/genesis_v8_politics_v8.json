@@ -1,0 +1,97 @@
+{
+  "ListID": "genesis_v8_politics_v8",
+  "Title": "CONSTITUENCY AND POLICY",
+  "PresentationMode": "Normal",
+  "Sections": [
+    {
+      "Header": "Activities",
+      "Items": [
+        {
+          "Title": "Constituency Surgery",
+          "Icon": "clipboard",
+          "SecondLine": "Help residents with local problems",
+          "TileID": "v8_politics_v8constituency",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.activitiesV8.politics_v8constituency",
+                  "ScenarioFile": "genesis_activities_v8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Policy Laboratory",
+          "Icon": "clipboard",
+          "SecondLine": "Research, consultation and a costed pilot",
+          "TileID": "v8_politics_v8policy",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.activitiesV8.politics_v8policy",
+                  "ScenarioFile": "genesis_activities_v8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Ethics and Disclosure",
+          "Icon": "clipboard",
+          "SecondLine": "Donations, conflicts and transparency",
+          "TileID": "v8_politics_v8ethics",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.activitiesV8.politics_v8ethics",
+                  "ScenarioFile": "genesis_activities_v8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Public Debate",
+          "Icon": "clipboard",
+          "SecondLine": "Evidence, accountability and trade-offs",
+          "TileID": "v8_politics_v8debate",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.activitiesV8.politics_v8debate",
+                  "ScenarioFile": "genesis_activities_v8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Crisis Response",
+          "Icon": "clipboard",
+          "SecondLine": "Coordinate help and communicate honestly",
+          "TileID": "v8_politics_v8crisis",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.activitiesV8.politics_v8crisis",
+                  "ScenarioFile": "genesis_activities_v8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

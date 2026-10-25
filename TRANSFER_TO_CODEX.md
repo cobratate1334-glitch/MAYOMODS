@@ -1,0 +1,63 @@
+# Transfer this project to Codex
+
+## Option A — local Codex
+
+1. Download the **full** `MayoMods_Codex_Handover.zip` and extract it on the
+   computer where Codex will run.
+2. Open the extracted `MayoMods_Codex_Handover` directory in Codex, or launch the
+   Codex CLI from that directory with `codex` and sign in with ChatGPT if prompted.
+   The directory should contain `AGENTS.md`, `project/` and `installer_reader/`.
+3. Paste the task in `CODEX_START_HERE.md`. Codex should read the root instructions
+   and verify the files before editing.
+4. Supply build-only APK/signing inputs privately when needed; follow `BUILD.md`.
+
+Downloading the ZIP or moving to a different chat does not automatically give
+Codex the files, signing backup or full old conversation history. This package
+is the portable source of continuity.
+
+## Option B — Codex cloud through GitHub
+
+The connected destination discovered during this handover is
+[`cobratate1334-glitch/MAYOMODS`](https://github.com/cobratate1334-glitch/MAYOMODS).
+It is public. The owner explicitly authorized publication on 25 October
+2026, and the source is now imported there. Select this repository in Codex;
+there is no need to upload the ZIP again. Keep private build inputs separate.
+
+After choosing the destination:
+
+1. Extract the full ZIP and commit its contents into the repository using Git.
+   Put `AGENTS.md` and the other root files at the repository root, rather than
+   uploading only the ZIP as a single opaque file. Retain the historical source
+   directories because newer modules import them.
+2. Review `.gitignore` and staged files. Keep APKs, keys, keystores, private inputs
+   and new device reports outside source control. The included diagnostic sample
+   is documented; review it before choosing a public destination.
+3. Open Codex in ChatGPT. Connect GitHub if prompted and choose the repository.
+4. Create its environment on the web or desktop under **Work in → Cloud →
+   Select environment → Create environment**. Review its setup and publish it.
+   OpenAI's current guidance says mobile can select an existing environment;
+   create a new one through the web or desktop.
+5. Start a task in that environment and paste `CODEX_START_HERE.md`'s prompt.
+   Use `BUILD.md` to configure dependencies. Add private build inputs only to an
+   appropriately private working environment; never commit them.
+
+This is a large, multi-file project. A source checkout is the useful input for
+cloud work; attaching the documents-only ZIP or a release APK is not equivalent.
+The handover does not itself connect a repository to a new Codex environment.
+
+## Instructions and setup
+
+Codex reads `AGENTS.md` before work and also checks more specific instructions
+below the project root. The root file in this handover selects v55 and preserves
+the distinction between source checks and device acceptance.
+
+Start with integrity verification. Configure a dedicated Python environment
+only when rebuilding; `requirements-legacy.txt` records versions stated by the
+historical source, not a newly validated universal lockfile. Avoid auto-building
+an APK in cloud setup: the required pinned APK and signer are separate inputs.
+
+## Official guidance checked on 25 October 2026
+
+- [Codex cloud and environments](https://learn.chatgpt.com/docs/cloud)
+- [Codex CLI](https://learn.chatgpt.com/docs/codex/cli)
+- [AGENTS.md discovery](https://learn.chatgpt.com/docs/agent-configuration/agents-md)

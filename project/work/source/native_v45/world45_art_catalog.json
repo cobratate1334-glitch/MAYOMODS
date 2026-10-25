@@ -1,0 +1,121 @@
+[
+  {
+    "name": "a16_emoji-mayo45-car01",
+    "source": "a16_emoji-mayo45-car01.png",
+    "path": "emoji/normal/a16_emoji-mayo45-car01",
+    "key": "mayo45-car01",
+    "pixel_sha256": "4f443241375bad3a39d67a198347ace4806e066b4f729866d289ff6a1d6ce954"
+  },
+  {
+    "name": "a16_emoji-mayo45-car02",
+    "source": "a16_emoji-mayo45-car02.png",
+    "path": "emoji/normal/a16_emoji-mayo45-car02",
+    "key": "mayo45-car02",
+    "pixel_sha256": "03ee830c50db426ac832724f082ba20394b72e79cd06aa8842784ba74973522e"
+  },
+  {
+    "name": "a16_emoji-mayo45-car03",
+    "source": "a16_emoji-mayo45-car03.png",
+    "path": "emoji/normal/a16_emoji-mayo45-car03",
+    "key": "mayo45-car03",
+    "pixel_sha256": "949e3bb7872e6ce43c12781a9aa5fa3efda8bf1c43ba57f41286d3acac0ee600"
+  },
+  {
+    "name": "a16_emoji-mayo45-car04",
+    "source": "a16_emoji-mayo45-car04.png",
+    "path": "emoji/normal/a16_emoji-mayo45-car04",
+    "key": "mayo45-car04",
+    "pixel_sha256": "86556d0c759b1d042ea03ee1d4576493b0e72b91da1cef7c666713a5414e58ec"
+  },
+  {
+    "name": "a16_emoji-mayo45-car05",
+    "source": "a16_emoji-mayo45-car05.png",
+    "path": "emoji/normal/a16_emoji-mayo45-car05",
+    "key": "mayo45-car05",
+    "pixel_sha256": "1212d6c18b368df3820ec8859e879dfa8b07b53162483dd09f3c759fe028822f"
+  },
+  {
+    "name": "a16_emoji-mayo45-car06",
+    "source": "a16_emoji-mayo45-car06.png",
+    "path": "emoji/normal/a16_emoji-mayo45-car06",
+    "key": "mayo45-car06",
+    "pixel_sha256": "b2a9663441d12f438c1c0830ec5bc2aed8374ada9bab55eaa591248292923da1"
+  },
+  {
+    "name": "a16_emoji-mayo45-car07",
+    "source": "a16_emoji-mayo45-car07.png",
+    "path": "emoji/normal/a16_emoji-mayo45-car07",
+    "key": "mayo45-car07",
+    "pixel_sha256": "7b03168e8241427a282359d2ab0e868cadb584326c868625b0f33357560b5e99"
+  },
+  {
+    "name": "a16_emoji-mayo45-car08",
+    "source": "a16_emoji-mayo45-car08.png",
+    "path": "emoji/normal/a16_emoji-mayo45-car08",
+    "key": "mayo45-car08",
+    "pixel_sha256": "07f7d47343f7252c8dc990948e64cd9efe753bac4579526c01ba200224c60e29"
+  },
+  {
+    "name": "a16_emoji-mayo45-car09",
+    "source": "a16_emoji-mayo45-car09.png",
+    "path": "emoji/normal/a16_emoji-mayo45-car09",
+    "key": "mayo45-car09",
+    "pixel_sha256": "1d4f63056c03ad639e34f8174d1d17bc4b300c7f9ed139a2a83fddda84fc619b"
+  },
+  {
+    "name": "a16_emoji-mayo45-car10",
+    "source": "a16_emoji-mayo45-car10.png",
+    "path": "emoji/normal/a16_emoji-mayo45-car10",
+    "key": "mayo45-car10",
+    "pixel_sha256": "a675c83b592bf9e7c9909f30a8b03b5572549f3a3f63ca6c56f39f5a0edaff34"
+  },
+  {
+    "name": "a16_emoji-mayo45-car11",
+    "source": "a16_emoji-mayo45-car11.png",
+    "path": "emoji/normal/a16_emoji-mayo45-car11",
+    "key": "mayo45-car11",
+    "pixel_sha256": "e4e2fd6807c01a7265e244ae4ce39250dcaf36c34d73d48d2b8c53fc44bd55c3"
+  },
+  {
+    "name": "a16_emoji-mayo45-car12",
+    "source": "a16_emoji-mayo45-car12.png",
+    "path": "emoji/normal/a16_emoji-mayo45-car12",
+    "key": "mayo45-car12",
+    "pixel_sha256": "38729cfa8dbb4c43d0c4c71d51570f717fdc263a51d5ec0e888b59c4b03fd00b"
+  },
+  {
+    "name": "a16_emoji-mayo45-car13",
+    "source": "a16_emoji-mayo45-car13.png",
+    "path": "emoji/normal/a16_emoji-mayo45-car13",
+    "key": "mayo45-car13",
+    "pixel_sha256": "365bb4f3dc4bae89e5f35118f7eeff8f1fa5e13f32b55fe560744ef808c2e502"
+  },
+  {
+    "name": "a16_emoji-mayo45-house01",
+    "source": "a16_emoji-mayo45-house01.png",
+    "path": "emoji/normal/a16_emoji-mayo45-house01",
+    "key": "mayo45-house01",
+    "pixel_sha256": "886fc583a0fbef0fe2a841a0e40078366c411add57acf1e599a3718cccdf3fc0"
+  },
+  {
+    "name": "a16_emoji-mayo45-house02",
+    "source": "a16_emoji-mayo45-house02.png",
+    "path": "emoji/normal/a16_emoji-mayo45-house02",
+    "key": "mayo45-house02",
+    "pixel_sha256": "eb035f0138f556689ffb152b5402517647a72029eb54bdb4173d82961f20f8bc"
+  },
+  {
+    "name": "a16_emoji-mayo45-house03",
+    "source": "a16_emoji-mayo45-house03.png",
+    "path": "emoji/normal/a16_emoji-mayo45-house03",
+    "key": "mayo45-house03",
+    "pixel_sha256": "ebb1a7b1511702c67eb67d6b2a5371ddf66c36007d3b953444056caa6e30bb99"
+  },
+  {
+    "name": "a16_emoji-mayo45-house04",
+    "source": "a16_emoji-mayo45-house04.png",
+    "path": "emoji/normal/a16_emoji-mayo45-house04",
+    "key": "mayo45-house04",
+    "pixel_sha256": "4e9f6f7c9857be745aedac41dafb788573ad91045118edf3ecf3d28b269c34de"
+  }
+]

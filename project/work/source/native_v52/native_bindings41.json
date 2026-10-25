@@ -1,0 +1,301 @@
+{
+  "metadata_sha256": "7bd1a0ddb9e1ac0b94bf23f43e5b821196a4eac25e968aaf01fec5b5e2409ac1",
+  "iterators": [
+    {
+      "name": "GoToMenuListAnimation",
+      "owner": "UIListManager",
+      "type_index": 6233,
+      "fields": [
+        {
+          "index": 31786,
+          "name": "<>1__state",
+          "typeIndex": 26376
+        },
+        {
+          "index": 31787,
+          "name": "<>2__current",
+          "typeIndex": 29873
+        },
+        {
+          "index": 31788,
+          "name": "<>4__this",
+          "typeIndex": 38743
+        }
+      ],
+      "factory": 49796448,
+      "stamp_site": 49796528,
+      "stamp_original": "str x19, [x20, #0x20]",
+      "iterator_register": "x20",
+      "ctor": 49797292,
+      "guard_site": 49802180
+    },
+    {
+      "name": "GoToNormalListAnimation",
+      "owner": "UIListManager",
+      "type_index": 6234,
+      "fields": [
+        {
+          "index": 31789,
+          "name": "<>1__state",
+          "typeIndex": 26376
+        },
+        {
+          "index": 31790,
+          "name": "<>2__current",
+          "typeIndex": 29873
+        },
+        {
+          "index": 31791,
+          "name": "<>4__this",
+          "typeIndex": 38743
+        }
+      ],
+      "factory": 49796276,
+      "stamp_site": 49796356,
+      "stamp_original": "str x19, [x20, #0x20]",
+      "iterator_register": "x20",
+      "ctor": 49797332,
+      "guard_site": 49802396
+    },
+    {
+      "name": "RemoveMenuListAnimation",
+      "owner": "UIListManager",
+      "type_index": 6236,
+      "fields": [
+        {
+          "index": 31796,
+          "name": "<>1__state",
+          "typeIndex": 26376
+        },
+        {
+          "index": 31797,
+          "name": "<>2__current",
+          "typeIndex": 29873
+        },
+        {
+          "index": 31798,
+          "name": "<>4__this",
+          "typeIndex": 38743
+        }
+      ],
+      "factory": 49796824,
+      "stamp_site": 49796904,
+      "stamp_original": "str x19, [x20, #0x20]",
+      "iterator_register": "x20",
+      "ctor": 49797484,
+      "guard_site": 49803040
+    },
+    {
+      "name": "RemoveMenuListNoAnimation",
+      "owner": "UIListManager",
+      "type_index": 6237,
+      "fields": [
+        {
+          "index": 31799,
+          "name": "<>1__state",
+          "typeIndex": 26376
+        },
+        {
+          "index": 31800,
+          "name": "<>2__current",
+          "typeIndex": 29873
+        },
+        {
+          "index": 31801,
+          "name": "<>4__this",
+          "typeIndex": 38743
+        }
+      ],
+      "factory": 49797016,
+      "stamp_site": 49797096,
+      "stamp_original": "str x19, [x20, #0x20]",
+      "iterator_register": "x20",
+      "ctor": 49797700,
+      "guard_site": 49803248
+    },
+    {
+      "name": "RemoveNormalListAnimation",
+      "owner": "UIListManager",
+      "type_index": 6238,
+      "fields": [
+        {
+          "index": 31802,
+          "name": "<>1__state",
+          "typeIndex": 26376
+        },
+        {
+          "index": 31803,
+          "name": "<>2__current",
+          "typeIndex": 29873
+        },
+        {
+          "index": 31804,
+          "name": "<>4__this",
+          "typeIndex": 38743
+        }
+      ],
+      "factory": 49796728,
+      "stamp_site": 49796808,
+      "stamp_original": "str x19, [x20, #0x20]",
+      "iterator_register": "x20",
+      "ctor": 49797524,
+      "guard_site": 49803452
+    },
+    {
+      "name": "RemoveNormalListAnimationNoReturn",
+      "owner": "UIListManager",
+      "type_index": 6239,
+      "fields": [
+        {
+          "index": 31805,
+          "name": "<>1__state",
+          "typeIndex": 26376
+        },
+        {
+          "index": 31806,
+          "name": "<>2__current",
+          "typeIndex": 29873
+        },
+        {
+          "index": 31807,
+          "name": "<>4__this",
+          "typeIndex": 38743
+        }
+      ],
+      "factory": 49797564,
+      "stamp_site": 49797644,
+      "stamp_original": "str x19, [x20, #0x20]",
+      "iterator_register": "x20",
+      "ctor": 49797660,
+      "guard_site": 49803700
+    },
+    {
+      "name": "RemoveNormalListNoAnimation",
+      "owner": "UIListManager",
+      "type_index": 6240,
+      "fields": [
+        {
+          "index": 31808,
+          "name": "<>1__state",
+          "typeIndex": 26376
+        },
+        {
+          "index": 31809,
+          "name": "<>2__current",
+          "typeIndex": 29873
+        },
+        {
+          "index": 31810,
+          "name": "<>4__this",
+          "typeIndex": 38743
+        }
+      ],
+      "factory": 49796920,
+      "stamp_site": 49797000,
+      "stamp_original": "str x19, [x20, #0x20]",
+      "iterator_register": "x20",
+      "ctor": 49797740,
+      "guard_site": 49803912
+    },
+    {
+      "name": "RemoveNormalListNoAnimationNoReturn",
+      "owner": "UIListManager",
+      "type_index": 6241,
+      "fields": [
+        {
+          "index": 31811,
+          "name": "<>1__state",
+          "typeIndex": 26376
+        },
+        {
+          "index": 31812,
+          "name": "<>2__current",
+          "typeIndex": 29873
+        },
+        {
+          "index": 31813,
+          "name": "<>4__this",
+          "typeIndex": 38743
+        }
+      ],
+      "factory": 49797780,
+      "stamp_site": 49797860,
+      "stamp_original": "str x19, [x20, #0x20]",
+      "iterator_register": "x20",
+      "ctor": 49797876,
+      "guard_site": 49804112
+    },
+    {
+      "name": "HideListPanel",
+      "owner": "UIListContainer",
+      "type_index": 6399,
+      "fields": [
+        {
+          "index": 33472,
+          "name": "<>1__state",
+          "typeIndex": 26376
+        },
+        {
+          "index": 33473,
+          "name": "<>2__current",
+          "typeIndex": 29873
+        },
+        {
+          "index": 33474,
+          "name": "<>4__this",
+          "typeIndex": 38735
+        },
+        {
+          "index": 33475,
+          "name": "duration",
+          "typeIndex": 36465
+        },
+        {
+          "index": 33476,
+          "name": "isHidingNavBar",
+          "typeIndex": 18482
+        }
+      ],
+      "factory": 50315100,
+      "stamp_site": 50315200,
+      "stamp_original": "str x20, [x21, #0x20]",
+      "iterator_register": "x21",
+      "ctor": 50399012,
+      "guard_site": 50399056
+    },
+    {
+      "name": "ShowListPanel",
+      "owner": "UIListContainer",
+      "type_index": 6402,
+      "fields": [
+        {
+          "index": 33489,
+          "name": "<>1__state",
+          "typeIndex": 26376
+        },
+        {
+          "index": 33490,
+          "name": "<>2__current",
+          "typeIndex": 29873
+        },
+        {
+          "index": 33491,
+          "name": "<>4__this",
+          "typeIndex": 38735
+        },
+        {
+          "index": 33492,
+          "name": "isHidingNavBar",
+          "typeIndex": 18482
+        }
+      ],
+      "factory": 50314612,
+      "stamp_site": 50314704,
+      "stamp_original": "str x20, [x21, #0x20]",
+      "iterator_register": "x21",
+      "ctor": 50400672,
+      "guard_site": 50400716
+    }
+  ],
+  "unused_alignment_padding": 20
+}

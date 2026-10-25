@@ -1,0 +1,105 @@
+{
+  "base_apk_sha256": "b63744c39d6fff4d8226412ebf85f3a58bc3a9b67f7a310884ce7799ba429608",
+  "metadata_sha256": "7bd1a0ddb9e1ac0b94bf23f43e5b821196a4eac25e968aaf01fec5b5e2409ac1",
+  "namespaces": {
+    "AnimationImageSequence": "",
+    "ConstraintContentSizeFitter": "BitLife.UI.Utils"
+  },
+  "prefab_path": "prefabs/darklies/darkly button template - candybutton",
+  "prefab_path_id": 20995,
+  "prefab_active": false,
+  "button_rect": {
+    "path_id": 28545,
+    "name": "Darkly Button Template - CandyButton",
+    "active": false,
+    "width": 1109.0,
+    "height": 186.0
+  },
+  "content_rect": 26795,
+  "fitter_path_id": 32394,
+  "fitter_raw_sha256": "a6eaa43dfbf4eb79c74796f5c6eb668f66dace559d843e308ab1ce67a11efa54",
+  "control_height": true,
+  "control_width": false,
+  "stacked_vertical": true,
+  "spacing": 25.0,
+  "drivers": [
+    {
+      "path_id": 28096,
+      "name": "Name - Darkly Button Template - CandyButton",
+      "active": true,
+      "width": 1109.0,
+      "height": 230.0
+    },
+    {
+      "path_id": 28108,
+      "name": "Gender - Darkly Button Template - CandyButton (1)",
+      "active": true,
+      "width": 1109.0,
+      "height": 230.0
+    },
+    {
+      "path_id": 28085,
+      "name": "Country - Darkly Button Template - CandyButton (2)",
+      "active": true,
+      "width": 1109.0,
+      "height": 230.0
+    },
+    {
+      "path_id": 28120,
+      "name": "City - Darkly Button Template - CandyButton (3)",
+      "active": true,
+      "width": 1109.0,
+      "height": 230.0
+    },
+    {
+      "path_id": 28078,
+      "name": "Royal - Darkly Button Template - CandyButton (4)",
+      "active": false,
+      "width": 1109.0,
+      "height": 230.0
+    },
+    null,
+    {
+      "path_id": 28148,
+      "name": "Special Talent - Darkly Button Template - CandyButton (5)",
+      "active": true,
+      "width": 1109.0,
+      "height": 230.0
+    },
+    {
+      "path_id": 28103,
+      "name": "Appearance - Darkly Button Template - CandyButton (6)",
+      "active": true,
+      "width": 1109.0,
+      "height": 230.0
+    },
+    {
+      "path_id": 28171,
+      "name": "Attributes - Darkly Button Template - CandyButton (7)",
+      "active": true,
+      "width": 1109.0,
+      "height": 230.0
+    },
+    {
+      "path_id": 27416,
+      "name": "Piggy Bank - Darkly Button Template - CandyButton",
+      "active": true,
+      "width": 1109.0,
+      "height": 0.0
+    },
+    {
+      "path_id": 26786,
+      "name": "Space",
+      "active": true,
+      "width": 0.0,
+      "height": 6.0
+    },
+    {
+      "path_id": 29002,
+      "name": "Space bottom",
+      "active": true,
+      "width": 0.0,
+      "height": 6.0
+    }
+  ]
+}

@@ -1,0 +1,1073 @@
+{
+  "passed": true,
+  "checks": 39826,
+  "changed_textures": [
+    {
+      "name": "a49_scar_49101",
+      "texture": 39660,
+      "id": 49101,
+      "kind": "scar",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "1c4472232b448bc21c9027ea352bf3bd2142fd4040419d995298b2c1912bfb54",
+      "geometry": {
+        "source_rect": [
+          0,
+          10,
+          138,
+          150
+        ],
+        "target_box": [
+          145,
+          188,
+          185,
+          239
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_scar_49102",
+      "texture": 39662,
+      "id": 49102,
+      "kind": "scar",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "11c0026ed01e2be12276175fb5ec7ebfabf19ee159b8591af51a8481a2aac7ae",
+      "geometry": {
+        "source_rect": [
+          140,
+          10,
+          278,
+          150
+        ],
+        "target_box": [
+          122,
+          305,
+          175,
+          365
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_scar_49103",
+      "texture": 39664,
+      "id": 49103,
+      "kind": "scar",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "55bf33507f52174d398a2ae86e856706ba8770c1b67d0343a885e4284cefcfa4",
+      "geometry": {
+        "source_rect": [
+          280,
+          10,
+          418,
+          150
+        ],
+        "target_box": [
+          122,
+          305,
+          183,
+          367
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_scar_49104",
+      "texture": 39666,
+      "id": 49104,
+      "kind": "scar",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "f6c149fb8fe23f3749912cb2414265574f2fe9f69559d3a7386f2857cb191fd5",
+      "geometry": {
+        "source_rect": [
+          420,
+          10,
+          558,
+          150
+        ],
+        "target_box": [
+          115,
+          295,
+          166,
+          390
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_scar_49105",
+      "texture": 39668,
+      "id": 49105,
+      "kind": "scar",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "9f6dcc64093dfafe0d45364c0b4bd37f9cc16f26da189af4c52a2d556edb00ea",
+      "geometry": {
+        "source_rect": [
+          560,
+          10,
+          698,
+          150
+        ],
+        "target_box": [
+          142,
+          185,
+          194,
+          237
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_scar_49106",
+      "texture": 39670,
+      "id": 49106,
+      "kind": "scar",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "791b6381599a3831ec8318e57c2048bba6d31ac69971a6400f0e41e077daafae",
+      "geometry": {
+        "source_rect": [
+          700,
+          10,
+          838,
+          150
+        ],
+        "target_box": [
+          131,
+          198,
+          195,
+          233
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_scar_49107",
+      "texture": 39672,
+      "id": 49107,
+      "kind": "scar",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "cc5f397c28b47441c9df5f8e9b5b565cd6a981f92e860ff87f43887315a72daf",
+      "geometry": {
+        "source_rect": [
+          840,
+          10,
+          978,
+          150
+        ],
+        "target_box": [
+          121,
+          313,
+          164,
+          358
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_scar_49108",
+      "texture": 39674,
+      "id": 49108,
+      "kind": "scar",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "29dc161d380b4ba2ba5093c7b750c88528f922c0075bf10bd9f6a52ec331cb9d",
+      "geometry": {
+        "source_rect": [
+          980,
+          10,
+          1118,
+          150
+        ],
+        "target_box": [
+          123,
+          301,
+          169,
+          375
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_scar_49109",
+      "texture": 39676,
+      "id": 49109,
+      "kind": "scar",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "30ca87c7544d011748b79d64a7a743b167883258ffed5d4e4adbc3555f3924d4",
+      "geometry": {
+        "source_rect": [
+          10,
+          440,
+          125,
+          572
+        ],
+        "target_box": [
+          332,
+          313,
+          379,
+          364
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_scar_49110",
+      "texture": 39678,
+      "id": 49110,
+      "kind": "scar",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "5abc6449c39a4f3c29ff2064ec32790f54271bf660c0cf44310ad0646070a84c",
+      "geometry": {
+        "source_rect": [
+          610,
+          438,
+          694,
+          572
+        ],
+        "target_box": [
+          300,
+          134,
+          351,
+          219
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_scar_49111",
+      "texture": 39680,
+      "id": 49111,
+      "kind": "scar",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "a6546ffeb3bf72f13fd14f9d7bcc8c9f56293820812947f978442a16c6a38da4",
+      "geometry": {
+        "source_rect": [
+          0,
+          570,
+          120,
+          674
+        ],
+        "target_box": [
+          234,
+          400,
+          270,
+          438
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_scar_49112",
+      "texture": 39682,
+      "id": 49112,
+      "kind": "scar",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "20ef0cbb4d9a0f918604557d02ba5d634faa1dfb9a74d5e98bd960ed910824b8",
+      "geometry": {
+        "source_rect": [
+          475,
+          438,
+          582,
+          574
+        ],
+        "target_box": [
+          131,
+          309,
+          175,
+          365
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_patch_49201",
+      "texture": 39684,
+      "id": 49201,
+      "kind": "patch",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "f86018c3e5df0e166808e634f5caf7ce5e4e36d922c10ca355a2fff496a8048b",
+      "geometry": {
+        "source_rect": [
+          16,
+          684,
+          141,
+          758
+        ],
+        "pad_centre": [
+          72.0,
+          41.5
+        ],
+        "target_eye": {
+          "x": 327.5,
+          "y": 274.5,
+          "height": 56
+        },
+        "scale": 1.593103448275862,
+        "position": [
+          213,
+          208
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_patch_49202",
+      "texture": 39686,
+      "id": 49202,
+      "kind": "patch",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "011c4ef249045981830a60f636b6cb84052faf6ba41132b098e9f1971a686cd5",
+      "geometry": {
+        "source_rect": [
+          154,
+          684,
+          271,
+          757
+        ],
+        "pad_centre": [
+          63.0,
+          39.0
+        ],
+        "target_eye": {
+          "x": 327.5,
+          "y": 274.5,
+          "height": 56
+        },
+        "scale": 1.5147540983606556,
+        "position": [
+          232,
+          215
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_patch_49203",
+      "texture": 39688,
+      "id": 49203,
+      "kind": "patch",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "82682b37061489f6cb114fd8545cb417fbf667375e62e34c840df893c9eca8e7",
+      "geometry": {
+        "source_rect": [
+          288,
+          686,
+          410,
+          758
+        ],
+        "pad_centre": [
+          59.0,
+          35.5
+        ],
+        "target_eye": {
+          "x": 327.5,
+          "y": 274.5,
+          "height": 56
+        },
+        "scale": 1.4,
+        "position": [
+          245,
+          225
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_patch_49204",
+      "texture": 39690,
+      "id": 49204,
+      "kind": "patch",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "6899698f0983f764bd2115fec9d1f1cb750de0e0bd14c126c12d3f7a5233440a",
+      "geometry": {
+        "source_rect": [
+          428,
+          686,
+          547,
+          755
+        ],
+        "pad_centre": [
+          82.5,
+          33.0
+        ],
+        "target_eye": {
+          "x": 327.5,
+          "y": 274.5,
+          "height": 56
+        },
+        "scale": 1.4215384615384614,
+        "position": [
+          210,
+          228
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_patch_49205",
+      "texture": 39692,
+      "id": 49205,
+      "kind": "patch",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "a25d93e75077c67e08b6d8a72508b9c8a37e802ca34c196f3506fc38c5285a5a",
+      "geometry": {
+        "source_rect": [
+          562,
+          681,
+          696,
+          758
+        ],
+        "pad_centre": [
+          85.5,
+          39.0
+        ],
+        "target_eye": {
+          "x": 327.5,
+          "y": 274.5,
+          "height": 56
+        },
+        "scale": 1.3391304347826085,
+        "position": [
+          213,
+          222
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_patch_49206",
+      "texture": 39694,
+      "id": 49206,
+      "kind": "patch",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "760c1b11a26ea39c1d762c593dd8d5e44e8ea6baf02089263ffcf2ffcdb5e219",
+      "geometry": {
+        "source_rect": [
+          710,
+          679,
+          838,
+          759
+        ],
+        "pad_centre": [
+          71.5,
+          45.5
+        ],
+        "target_eye": {
+          "x": 327.5,
+          "y": 274.5,
+          "height": 56
+        },
+        "scale": 1.4903225806451612,
+        "position": [
+          221,
+          207
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_patch_49207",
+      "texture": 39696,
+      "id": 49207,
+      "kind": "patch",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "4dfb896cb7c1178c54865148314027b1aab221b7b237b797b172ea6cada3333d",
+      "geometry": {
+        "source_rect": [
+          854,
+          681,
+          992,
+          758
+        ],
+        "pad_centre": [
+          71.0,
+          42.0
+        ],
+        "target_eye": {
+          "x": 327.5,
+          "y": 274.5,
+          "height": 56
+        },
+        "scale": 1.4666666666666666,
+        "position": [
+          223,
+          213
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_patch_49208",
+      "texture": 39698,
+      "id": 49208,
+      "kind": "patch",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "0547a03a5e1fc1d75daaae8085ae004147b18a5ff0069ed9b9f7a3850ca2d77d",
+      "geometry": {
+        "source_rect": [
+          1008,
+          682,
+          1139,
+          760
+        ],
+        "pad_centre": [
+          75.0,
+          42.5
+        ],
+        "target_eye": {
+          "x": 327.5,
+          "y": 274.5,
+          "height": 56
+        },
+        "scale": 1.4437499999999999,
+        "position": [
+          219,
+          213
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_patch_49209",
+      "texture": 39700,
+      "id": 49209,
+      "kind": "patch",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "7bc3e813acc0ff9346ea02cd64a495006827b15cbcccbf354e47e92c1ad97889",
+      "geometry": {
+        "source_rect": [
+          1154,
+          681,
+          1291,
+          763
+        ],
+        "pad_centre": [
+          73.0,
+          46.5
+        ],
+        "target_eye": {
+          "x": 327.5,
+          "y": 274.5,
+          "height": 56
+        },
+        "scale": 1.4437499999999999,
+        "position": [
+          222,
+          207
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_patch_49210",
+      "texture": 39702,
+      "id": 49210,
+      "kind": "patch",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "8d26aeb2a8d767949502f7bfa29699ed1d18fef4916a557c2cec6bc1e30f564a",
+      "geometry": {
+        "source_rect": [
+          1313,
+          673,
+          1452,
+          760
+        ],
+        "pad_centre": [
+          71.0,
+          51.0
+        ],
+        "target_eye": {
+          "x": 327.5,
+          "y": 274.5,
+          "height": 56
+        },
+        "scale": 1.4215384615384614,
+        "position": [
+          227,
+          202
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_patch_49211",
+      "texture": 39704,
+      "id": 49211,
+      "kind": "patch",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "98ab2a215213a2142d6a49e5dc91c22197294c7e46ceb0ef6c73ae9078698dc4",
+      "geometry": {
+        "source_rect": [
+          1473,
+          687,
+          1612,
+          758
+        ],
+        "pad_centre": [
+          70.5,
+          36.5
+        ],
+        "target_eye": {
+          "x": 327.5,
+          "y": 274.5,
+          "height": 56
+        },
+        "scale": 1.4903225806451612,
+        "position": [
+          222,
+          220
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_patch_49212",
+      "texture": 39706,
+      "id": 49212,
+      "kind": "patch",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "7186603728c0987478f1e7018c39dc2d5e3f9ace7f2750b30efb358ecde85f54",
+      "geometry": {
+        "source_rect": [
+          1630,
+          694,
+          1754,
+          762
+        ],
+        "pad_centre": [
+          52.5,
+          33.0
+        ],
+        "target_eye": {
+          "x": 327.5,
+          "y": 274.5,
+          "height": 56
+        },
+        "scale": 1.4666666666666666,
+        "position": [
+          250,
+          226
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_patch_49213",
+      "texture": 39708,
+      "id": 49213,
+      "kind": "patch",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "66e45edbfcf028bd38073de58df6a579c5f58ece10482f04393bd6319146d693",
+      "geometry": {
+        "source_rect": [
+          16,
+          773,
+          148,
+          854
+        ],
+        "pad_centre": [
+          76.0,
+          43.5
+        ],
+        "target_eye": {
+          "x": 327.5,
+          "y": 274.5,
+          "height": 56
+        },
+        "scale": 1.3588235294117645,
+        "position": [
+          224,
+          215
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_patch_49214",
+      "texture": 39710,
+      "id": 49214,
+      "kind": "patch",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "d466970fd41fc48e318b1dd02121786a506ac872033714c22c82bbe07fa5df97",
+      "geometry": {
+        "source_rect": [
+          161,
+          775,
+          288,
+          853
+        ],
+        "pad_centre": [
+          64.5,
+          43.0
+        ],
+        "target_eye": {
+          "x": 327.5,
+          "y": 274.5,
+          "height": 56
+        },
+        "scale": 1.4666666666666666,
+        "position": [
+          233,
+          211
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_patch_49215",
+      "texture": 39712,
+      "id": 49215,
+      "kind": "patch",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "56e7c6ccba395577770bd33cfd84f0667258f32f0d259e376975f720b5b61509",
+      "geometry": {
+        "source_rect": [
+          304,
+          776,
+          425,
+          853
+        ],
+        "pad_centre": [
+          71.0,
+          41.5
+        ],
+        "target_eye": {
+          "x": 327.5,
+          "y": 274.5,
+          "height": 56
+        },
+        "scale": 1.4437499999999999,
+        "position": [
+          225,
+          215
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_patch_49216",
+      "texture": 39714,
+      "id": 49216,
+      "kind": "patch",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "f9422fc3f4c6a7557ad3a13d8188649479a624590e4bba4c3a023ebd6d646f68",
+      "geometry": {
+        "source_rect": [
+          438,
+          773,
+          604,
+          855
+        ],
+        "pad_centre": [
+          112.0,
+          45.5
+        ],
+        "target_eye": {
+          "x": 327.5,
+          "y": 274.5,
+          "height": 56
+        },
+        "scale": 1.4,
+        "position": [
+          171,
+          211
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_patch_49217",
+      "texture": 39716,
+      "id": 49217,
+      "kind": "patch",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "5319fbb6c0ab30b847f98417fe96f16601f045d66618be87bad10d777a762c82",
+      "geometry": {
+        "source_rect": [
+          621,
+          775,
+          769,
+          855
+        ],
+        "pad_centre": [
+          80.5,
+          43.0
+        ],
+        "target_eye": {
+          "x": 327.5,
+          "y": 274.5,
+          "height": 56
+        },
+        "scale": 1.37910447761194,
+        "position": [
+          216,
+          215
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_patch_49218",
+      "texture": 39718,
+      "id": 49218,
+      "kind": "patch",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "059733bd1724a7090d90bda216be3b2e830c98ce08cc787f5b95f6176d308ddd",
+      "geometry": {
+        "source_rect": [
+          790,
+          776,
+          935,
+          854
+        ],
+        "pad_centre": [
+          78.5,
+          41.5
+        ],
+        "target_eye": {
+          "x": 327.5,
+          "y": 274.5,
+          "height": 56
+        },
+        "scale": 1.4,
+        "position": [
+          218,
+          216
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_patch_49219",
+      "texture": 39720,
+      "id": 49219,
+      "kind": "patch",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "0efa28d50f0e8cefeefdbddb1379a70a11e106246b2b738a4523d70f84d48f26",
+      "geometry": {
+        "source_rect": [
+          955,
+          771,
+          1088,
+          851
+        ],
+        "pad_centre": [
+          76.0,
+          44.0
+        ],
+        "target_eye": {
+          "x": 327.5,
+          "y": 274.5,
+          "height": 56
+        },
+        "scale": 1.37910447761194,
+        "position": [
+          223,
+          214
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_patch_49220",
+      "texture": 39722,
+      "id": 49220,
+      "kind": "patch",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "d055caa0f9f1278564e14d0487df7f7a96af91a8a632f33bf42e9862b000662c",
+      "geometry": {
+        "source_rect": [
+          1115,
+          782,
+          1258,
+          857
+        ],
+        "pad_centre": [
+          69.0,
+          36.0
+        ],
+        "target_eye": {
+          "x": 327.5,
+          "y": 274.5,
+          "height": 56
+        },
+        "scale": 1.3014084507042252,
+        "position": [
+          238,
+          228
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_patch_49221",
+      "texture": 39724,
+      "id": 49221,
+      "kind": "patch",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "e922ae78868da20f2de5c302c179e212e16151905d87d044b1b5e25507a41b4c",
+      "geometry": {
+        "source_rect": [
+          1281,
+          778,
+          1426,
+          869
+        ],
+        "pad_centre": [
+          68.5,
+          49.0
+        ],
+        "target_eye": {
+          "x": 327.5,
+          "y": 274.5,
+          "height": 56
+        },
+        "scale": 1.2,
+        "position": [
+          245,
+          216
+        ],
+        "preserve_aspect_ratio": true
+      }
+    },
+    {
+      "name": "a49_patch_49222",
+      "texture": 39726,
+      "id": 49222,
+      "kind": "patch",
+      "size": [
+        500,
+        500
+      ],
+      "rgba_sha256": "fa9730a0050b1fee08f4c093a432fdf3379638030e7aedee0b095f6327946504",
+      "geometry": {
+        "source_rect": [
+          1441,
+          771,
+          1621,
+          860
+        ],
+        "pad_centre": [
+          97.0,
+          51.0
+        ],
+        "target_eye": {
+          "x": 327.5,
+          "y": 274.5,
+          "height": 56
+        },
+        "scale": 1.3014084507042252,
+        "position": [
+          201,
+          208
+        ],
+        "preserve_aspect_ratio": true
+      }
+    }
+  ],
+  "source_sheet_sha256": "33a65f7959067bff49afc299f07281de23af7f384900489c1a12c13c65bf76cd",
+  "datapack_sha256": "af5f75657d0d9ab9906a542efcfa32c73d7d40e1d26c74f4d6f1c846921da857",
+  "all_other_unity_objects_unchanged": true,
+  "resource_manager_unchanged": true,
+  "original_native_faces_preserved": true,
+  "physical_phone_tested": false,
+  "Unity_rendering_tested": false
+}

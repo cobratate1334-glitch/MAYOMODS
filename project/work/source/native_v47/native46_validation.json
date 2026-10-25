@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "binary_sha256": "d0aedb376f2344bb535c1764ec00b6dca709d32e2c293ca1caf435815d58b229",
+  "checks": 841,
+  "ASLR_bases": [
+    0,
+    68719476736
+  ],
+  "native_ScenarioBase_choice_entries_tested": true,
+  "all_dealer_buttons_navigate": true,
+  "native_car_column_bounds_negative_control": true,
+  "region_country_register_negative_control": true,
+  "native_theme_Color_ABI_checked": true,
+  "modeled_boundaries": [
+    "Unity rendering and prefab allocation",
+    "managed APIs",
+    "Genesis scenario loader/list presentation",
+    "bank adjustment"
+  ],
+  "full_Unity_engine_tested": false,
+  "physical_device_tested": false
+}

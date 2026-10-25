@@ -1,0 +1,166 @@
+{
+  "date": "2026-10-25",
+  "scope": "Recovered payload directories only; excludes newly authored root documentation, handover helpers, this inventory and FILE_MANIFEST.sha256. Counts are local delivered bytes, not APK sizes.",
+  "sections": {
+    "project": {
+      "files": 3506,
+      "bytes": 1228868898,
+      "by_extension": {
+        ".asm": 4,
+        ".bin": 2,
+        ".c": 4,
+        ".csv": 206,
+        ".dat": 1,
+        ".dex": 55,
+        ".gif": 8,
+        ".jar": 4,
+        ".java": 257,
+        ".jpg": 18,
+        ".json": 1102,
+        ".md": 92,
+        ".png": 735,
+        ".py": 847,
+        ".smali": 44,
+        ".svg": 77,
+        ".txt": 44,
+        ".xml": 4,
+        ".zip": 2
+      }
+    },
+    "installer_reader": {
+      "files": 9,
+      "bytes": 40920,
+      "by_extension": {
+        ".java": 1,
+        ".json": 1,
+        ".py": 1,
+        ".txt": 5,
+        ".xml": 1
+      }
+    },
+    "optional_content": {
+      "files": 32,
+      "bytes": 24344401,
+      "by_extension": {
+        ".json": 1,
+        ".txt": 31
+      }
+    },
+    "supporting_tools": {
+      "files": 3,
+      "bytes": 11433,
+      "by_extension": {
+        ".bat": 1,
+        ".ps1": 1,
+        ".txt": 1
+      }
+    },
+    "evidence": {
+      "files": 22,
+      "bytes": 3262601,
+      "by_extension": {
+        "(none)": 3,
+        ".json": 6,
+        ".log": 5,
+        ".txt": 8
+      }
+    }
+  },
+  "native_version_directories": [
+    "native_v8",
+    "native_v9",
+    "native_v10",
+    "native_v11",
+    "native_v12",
+    "native_v13",
+    "native_v14",
+    "native_v15",
+    "native_v16",
+    "native_v18",
+    "native_v19",
+    "native_v20",
+    "native_v21",
+    "native_v22",
+    "native_v23",
+    "native_v24",
+    "native_v25",
+    "native_v26",
+    "native_v27",
+    "native_v28",
+    "native_v29",
+    "native_v30",
+    "native_v31",
+    "native_v32",
+    "native_v33",
+    "native_v34",
+    "native_v35",
+    "native_v36",
+    "native_v37",
+    "native_v38",
+    "native_v39",
+    "native_v40",
+    "native_v41",
+    "native_v42",
+    "native_v43",
+    "native_v44",
+    "native_v45",
+    "native_v46",
+    "native_v47",
+    "native_v48",
+    "native_v49",
+    "native_v50",
+    "native_v51",
+    "native_v52",
+    "native_v53",
+    "native_v54",
+    "native_v55",
+    "native_v55a",
+    "native_v56"
+  ],
+  "selected": "native_v55a based on exact v55 APK",
+  "reference_only": [
+    "native_v56"
+  ],
+  "largest_files": [
+    {
+      "path": "project/tools_v40/r8.jar",
+      "bytes": 51023743
+    },
+    {
+      "path": "project/work/source/native_v54/assets.json",
+      "bytes": 35719700
+    },
+    {
+      "path": "project/work/source/native_v53/assets.json",
+      "bytes": 35698061
+    },
+    {
+      "path": "project/work/source/native_v52/assets.json",
+      "bytes": 35694443
+    },
+    {
+      "path": "project/work/source/native_v50/assets.json",
+      "bytes": 35653567
+    },
+    {
+      "path": "project/work/source/native_v49/assets.json",
+      "bytes": 35653475
+    },
+    {
+      "path": "project/work/source/native_v55/assets.json",
+      "bytes": 35647204
+    },
+    {
+      "path": "project/work/source/native_v56/assets.json",
+      "bytes": 35647204
+    },
+    {
+      "path": "project/work/source/native_v51/assets.json",
+      "bytes": 35633276
+    },
+    {
+      "path": "project/work/source/native_v47/assets.json",
+      "bytes": 35474500
+    }
+  ]
+}

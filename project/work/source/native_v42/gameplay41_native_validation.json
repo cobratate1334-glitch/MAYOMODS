@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "arm64_checks": 93,
+  "binary_sha256": "822821595a928b59bf107336c321720e5169767755d652f795d62f4c378903e4",
+  "test_sha256": "56ffbc2dcacf0cc8a3b367c61e0afd3413096f9a6a69d75dc288ad27b9411962",
+  "real_prison_conduct_instructions_executed": true,
+  "arrest_creation_and_Unity_UI_mocked": true,
+  "parole_board_matches_disassembled_stock_thresholds": true,
+  "checkin_warrant_and_expiry_checked": true,
+  "aslr_biases": [
+    0,
+    68719476736
+  ],
+  "device_runtime_tested": false
+}

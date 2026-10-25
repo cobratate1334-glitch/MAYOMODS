@@ -1,0 +1,2 @@
+key,type,value,reset_on_ageup,minimum,maximum
+MenuVersion,int,9,,9,9

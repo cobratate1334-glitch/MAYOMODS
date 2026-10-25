@@ -1,0 +1,60 @@
+{
+  "test": "remove exactly the authored rows from V4; keep other variables as in V4",
+  "input_sha256": "06340597e06c9b7087d838bcafa07f97239e9b65528e02e84fe2ca56ce7481f8",
+  "output_sha256": "319971a4cc82546cf2d2483b2bc0caa3943ba948f30880403594389d2f9b30b7",
+  "output_bytes": 268232886,
+  "removed_entries": 196,
+  "tables": {
+    "a16_music-band-kicks-out-scenarios-enc": {
+      "remaining_original_rows": 51,
+      "removed_authored_rows": 12
+    },
+    "a16_music-producer-dumb-scenario-enc": {
+      "remaining_original_rows": 50,
+      "removed_authored_rows": 24
+    },
+    "a16_music-practice-scenarios-enc": {
+      "remaining_original_rows": 66,
+      "removed_authored_rows": 12
+    },
+    "a16_music-producer-artist-leave-string-enc": {
+      "remaining_original_rows": 32,
+      "removed_authored_rows": 12
+    },
+    "a16_music-band-breaks-up-scenarios-enc": {
+      "remaining_original_rows": 51,
+      "removed_authored_rows": 12
+    },
+    "a16_dumb-scenarios-music-enc": {
+      "remaining_original_rows": 98,
+      "removed_authored_rows": 56
+    },
+    "a16_music-soundcloud-comment-enc": {
+      "remaining_original_rows": 49,
+      "removed_authored_rows": 32
+    },
+    "a16_music-album-rejections-enc": {
+      "remaining_original_rows": 58,
+      "removed_authored_rows": 12
+    },
+    "a16_music-fan-interaction-scenarios-enc": {
+      "remaining_original_rows": 51,
+      "removed_authored_rows": 24
+    }
+  },
+  "unchanged_unrelated_unity_objects": 36777,
+  "changed_apk_entries": [
+    "assets/bin/Data/datapack.unity3d"
+  ],
+  "dex_native_libraries_manifest_protection_checks_unchanged": true,
+  "same_package_and_personal_test_signing_identity": true,
+  "embrace_native_collector_setting": "disabled as in V4; not changed by this test",
+  "diagnostic_screen": "V4 labels retained to keep DEX identical",
+  "original_game_rows_preserved": true,
+  "original_apk_or_bundle_byte_for_byte_restored": false,
+  "limitation": "Original untouched bundle unavailable; remaining CSV rows were reserialized. A failed test cannot exclude bundle serialization or other changes.",
+  "apk_crc_and_alignment": "passed",
+  "official_signature_verifier": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]\n",
+  "phone_runtime_tested": false,
+  "game_crash_fixed": "not established"
+}

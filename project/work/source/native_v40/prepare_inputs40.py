@@ -1,0 +1,16 @@
+"""Extract checked v39 inputs and a complete authoring asset snapshot."""
+import hashlib,json,sys,zipfile
+from pathlib import Path
+import UnityPy
+BASE_SHA='728a6beab4839f15cb1ba6a4415eff8d3083ebd2b88f7242a6065272a67561ac'
+def prepare(base,out):
+ base=Path(base);out=Path(out);out.mkdir(parents=True,exist_ok=True)
+ assert hashlib.sha256(base.read_bytes()).hexdigest()==BASE_SHA
+ with zipfile.ZipFile(base)as z:
+  for src,dst in [('lib/arm64-v8a/libil2cpp.so','libil2cpp.so'),('assets/bin/Data/Managed/Metadata/global-metadata.dat','global-metadata.dat')]:
+   (out/dst).write_bytes(z.read(src))
+  env=UnityPy.load(z.read('assets/bin/Data/datapack.unity3d'))
+ assets={o.read().m_Name:o.read().m_Script for o in env.objects if o.type.name=='TextAsset'}
+ Path('analysis').mkdir(exist_ok=True);Path('analysis/base_assets.json').write_text(json.dumps(assets,ensure_ascii=True)+'\n')
+ print(json.dumps({'TextAssets':len(assets),'checked_base':True}))
+if __name__=='__main__':prepare(*sys.argv[1:])

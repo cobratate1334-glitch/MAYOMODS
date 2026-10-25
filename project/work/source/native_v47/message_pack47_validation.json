@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "input_sha256": "2fefc587b7b538374b546fafdc4bee88b4cf27a53d049ecf6a795927bb6b882c",
+  "bank_sha256": "a8dd5ad81b18be9e5bb982b0d577844016c478bfdfdff59e27418ba38a0de73d",
+  "bank_va": 106397696,
+  "bytes": 6046099,
+  "records": 17955,
+  "words": 702249,
+  "threads": 1203,
+  "player_threads": 449,
+  "pools": 220,
+  "threads_offset": 9360,
+  "records_offset": 47856,
+  "strings_offset": 909696,
+  "platforms": {
+    "Discord": 0,
+    "Reddit": 1,
+    "YouTube": 6,
+    "OnlyFans": 8,
+    "SoundCloud": 9
+  },
+  "max_thread_records": 19,
+  "root_parent_platform_links_valid": true
+}

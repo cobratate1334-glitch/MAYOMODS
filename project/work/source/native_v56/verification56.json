@@ -1,0 +1,2082 @@
+{
+  "passed": true,
+  "build": "v56 scars and eyepatches",
+  "versionCode": 1100,
+  "apk": "BitLife_MayoMods_v56_Scars_Eyepatches.apk",
+  "bytes": 372841584,
+  "sha256": "2403654bd462ab42ebaa546daf27f473f072adc35ac0abaf05d2167968c43e90",
+  "base_v55_sha256": "7a4a37615d9c60962d1e2658d86154199a868d84439026478171fcf0d2f3c288",
+  "native_sha256": "183b37851fd7341260c0910691f43b5368fbfe8d22243823db4179766d0fe5d0",
+  "original_signer_verified": true,
+  "signature_verification": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]\n",
+  "new_permissions": [],
+  "dex_executable_code_unchanged": true,
+  "changed_apk_entries": [
+    "AndroidManifest.xml",
+    "lib/arm64-v8a/libil2cpp.so",
+    "assets/bin/Data/datapack.unity3d",
+    "classes13.dex",
+    "assets/mayomods54/native_symbols.json"
+  ],
+  "preserved_apk_entries": 2774,
+  "only_declared_native_changes": true,
+  "old_load_mappings_preserved": true,
+  "diagnostic_label_changes": [
+    {
+      "before": "\nBuild: v55\nNote: ",
+      "after": "\nBuild: v56\nNote: "
+    },
+    {
+      "before": "Build: MayoMods v55; app: ",
+      "after": "Build: MayoMods v56; app: "
+    },
+    {
+      "before": "MayoMods v55 \u2014 Android crash record\n\n",
+      "after": "MayoMods v56 \u2014 Android crash record\n\n"
+    },
+    {
+      "before": "MayoMods v55 \u2014 local crash diagnostics\n\nLAST RECORDED CRASH / ERROR\n",
+      "after": "MayoMods v56 \u2014 local crash diagnostics\n\nLAST RECORDED CRASH / ERROR\n"
+    },
+    {
+      "before": "MayoMods v55 \u2014 recorded error\n",
+      "after": "MayoMods v56 \u2014 recorded error\n"
+    },
+    {
+      "before": "MayoMods_v55_diagnostics.zip",
+      "after": "MayoMods_v56_diagnostics.zip"
+    },
+    {
+      "before": "Native launch v55; packaged ABI: arm64-v8a; process: ",
+      "after": "Native launch v56; packaged ABI: arm64-v8a; process: "
+    },
+    {
+      "before": "New Life & Crash Diagnostics \u00b7 v55",
+      "after": "New Life & Crash Diagnostics \u00b7 v56"
+    }
+  ],
+  "manifest_version": {
+    "previous": 1099,
+    "current": 1100,
+    "byte_offset": 33600,
+    "other_manifest_bytes_preserved": true
+  },
+  "validation": {
+    "native56_validation.json": {
+      "passed": true,
+      "binary_sha256": "183b37851fd7341260c0910691f43b5368fbfe8d22243823db4179766d0fe5d0",
+      "checks": 319,
+      "cases": [
+        "candidate hash binding",
+        "one renderer claims only authored scar/patch record (8, 49101)",
+        "one renderer claims only authored scar/patch record (8, 49112)",
+        "one renderer claims only authored scar/patch record (9, 49201)",
+        "one renderer claims only authored scar/patch record (9, 49222)",
+        "one renderer claims only authored scar/patch record (8, 49100)",
+        "one renderer claims only authored scar/patch record (9, 49223)",
+        "one renderer claims only authored scar/patch record (1, 49101)",
+        "one renderer claims only authored scar/patch record (10, 49322)",
+        "one renderer claims only authored scar/patch record (0, 1)",
+        "real alpha/clipping/resampling (0, 0, 0, 3, 2)",
+        "real alpha/clipping/resampling (0, -1, -1, 4, 3)",
+        "real alpha/clipping/resampling (0, 2, 1, 3, 2)",
+        "real alpha/clipping/resampling (0, 5, 6, 2, 2)",
+        "real alpha/clipping/resampling (0, 0, 0, 0, 2)",
+        "exact selected resource 49101",
+        "selection changes the returned portrait pixels 49101",
+        "temporary managed roots released 49101",
+        "exact selected resource 49102",
+        "selection changes the returned portrait pixels 49102",
+        "temporary managed roots released 49102",
+        "exact selected resource 49103",
+        "selection changes the returned portrait pixels 49103",
+        "temporary managed roots released 49103",
+        "exact selected resource 49104",
+        "selection changes the returned portrait pixels 49104",
+        "temporary managed roots released 49104",
+        "exact selected resource 49105",
+        "selection changes the returned portrait pixels 49105",
+        "temporary managed roots released 49105",
+        "exact selected resource 49106",
+        "selection changes the returned portrait pixels 49106",
+        "temporary managed roots released 49106",
+        "exact selected resource 49107",
+        "selection changes the returned portrait pixels 49107",
+        "temporary managed roots released 49107",
+        "exact selected resource 49108",
+        "selection changes the returned portrait pixels 49108",
+        "temporary managed roots released 49108",
+        "exact selected resource 49109",
+        "selection changes the returned portrait pixels 49109",
+        "temporary managed roots released 49109",
+        "exact selected resource 49110",
+        "selection changes the returned portrait pixels 49110",
+        "temporary managed roots released 49110",
+        "exact selected resource 49111",
+        "selection changes the returned portrait pixels 49111",
+        "temporary managed roots released 49111",
+        "exact selected resource 49112",
+        "selection changes the returned portrait pixels 49112",
+        "temporary managed roots released 49112",
+        "exact selected resource 49201",
+        "selection changes the returned portrait pixels 49201",
+        "temporary managed roots released 49201",
+        "exact selected resource 49202",
+        "selection changes the returned portrait pixels 49202",
+        "temporary managed roots released 49202",
+        "exact selected resource 49203",
+        "selection changes the returned portrait pixels 49203",
+        "temporary managed roots released 49203",
+        "exact selected resource 49204",
+        "selection changes the returned portrait pixels 49204",
+        "temporary managed roots released 49204",
+        "exact selected resource 49205",
+        "selection changes the returned portrait pixels 49205",
+        "temporary managed roots released 49205",
+        "exact selected resource 49206",
+        "selection changes the returned portrait pixels 49206",
+        "temporary managed roots released 49206",
+        "exact selected resource 49207",
+        "selection changes the returned portrait pixels 49207",
+        "temporary managed roots released 49207",
+        "exact selected resource 49208",
+        "selection changes the returned portrait pixels 49208",
+        "temporary managed roots released 49208",
+        "exact selected resource 49209",
+        "selection changes the returned portrait pixels 49209",
+        "temporary managed roots released 49209",
+        "exact selected resource 49210",
+        "selection changes the returned portrait pixels 49210",
+        "temporary managed roots released 49210",
+        "exact selected resource 49211",
+        "selection changes the returned portrait pixels 49211",
+        "temporary managed roots released 49211",
+        "exact selected resource 49212",
+        "selection changes the returned portrait pixels 49212",
+        "temporary managed roots released 49212",
+        "exact selected resource 49213",
+        "selection changes the returned portrait pixels 49213",
+        "temporary managed roots released 49213",
+        "exact selected resource 49214",
+        "selection changes the returned portrait pixels 49214",
+        "temporary managed roots released 49214",
+        "exact selected resource 49215",
+        "selection changes the returned portrait pixels 49215",
+        "temporary managed roots released 49215",
+        "exact selected resource 49216",
+        "selection changes the returned portrait pixels 49216",
+        "temporary managed roots released 49216",
+        "exact selected resource 49217",
+        "selection changes the returned portrait pixels 49217",
+        "temporary managed roots released 49217",
+        "exact selected resource 49218",
+        "selection changes the returned portrait pixels 49218",
+        "temporary managed roots released 49218",
+        "exact selected resource 49219",
+        "selection changes the returned portrait pixels 49219",
+        "temporary managed roots released 49219",
+        "exact selected resource 49220",
+        "selection changes the returned portrait pixels 49220",
+        "temporary managed roots released 49220",
+        "exact selected resource 49221",
+        "selection changes the returned portrait pixels 49221",
+        "temporary managed roots released 49221",
+        "exact selected resource 49222",
+        "selection changes the returned portrait pixels 49222",
+        "temporary managed roots released 49222",
+        "two overlays coexist for stage/gender (0, 0)",
+        "no roots retained after stage/gender (0, 0)",
+        "two overlays coexist for stage/gender (0, 1)",
+        "no roots retained after stage/gender (0, 1)",
+        "two overlays coexist for stage/gender (1, 0)",
+        "no roots retained after stage/gender (1, 0)",
+        "two overlays coexist for stage/gender (1, 1)",
+        "no roots retained after stage/gender (1, 1)",
+        "two overlays coexist for stage/gender (2, 0)",
+        "no roots retained after stage/gender (2, 0)",
+        "two overlays coexist for stage/gender (2, 1)",
+        "no roots retained after stage/gender (2, 1)",
+        "two overlays coexist for stage/gender (3, 0)",
+        "no roots retained after stage/gender (3, 0)",
+        "two overlays coexist for stage/gender (3, 1)",
+        "no roots retained after stage/gender (3, 1)",
+        "two overlays coexist for stage/gender (4, 0)",
+        "no roots retained after stage/gender (4, 0)",
+        "two overlays coexist for stage/gender (4, 1)",
+        "no roots retained after stage/gender (4, 1)",
+        "two overlays coexist for stage/gender (5, 0)",
+        "no roots retained after stage/gender (5, 0)",
+        "two overlays coexist for stage/gender (5, 1)",
+        "no roots retained after stage/gender (5, 1)",
+        "bounded unchanged fallback none",
+        "roots released on none",
+        "bounded unchanged fallback corrupt",
+        "roots released on corrupt",
+        "bounded unchanged fallback unreadable",
+        "roots released on unreadable",
+        "bounded unchanged fallback short_base",
+        "roots released on short_base",
+        "bounded unchanged fallback missing",
+        "roots released on missing",
+        "bounded unchanged fallback short_source",
+        "roots released on short_source",
+        "preview applies Scar to the draft face",
+        "Apply retains Scar",
+        "preview applies Patch to the draft face",
+        "Apply retains Patch",
+        "birth commit retains both appearance selections",
+        "saved hero reconstructs both renderer inputs",
+        "removing both choices clears both native records",
+        "one renderer claims only authored scar/patch record (8, 49101)",
+        "one renderer claims only authored scar/patch record (8, 49112)",
+        "one renderer claims only authored scar/patch record (9, 49201)",
+        "one renderer claims only authored scar/patch record (9, 49222)",
+        "one renderer claims only authored scar/patch record (8, 49100)",
+        "one renderer claims only authored scar/patch record (9, 49223)",
+        "one renderer claims only authored scar/patch record (1, 49101)",
+        "one renderer claims only authored scar/patch record (10, 49322)",
+        "one renderer claims only authored scar/patch record (0, 1)",
+        "real alpha/clipping/resampling (68719476736, 0, 0, 3, 2)",
+        "real alpha/clipping/resampling (68719476736, -1, -1, 4, 3)",
+        "real alpha/clipping/resampling (68719476736, 2, 1, 3, 2)",
+        "real alpha/clipping/resampling (68719476736, 5, 6, 2, 2)",
+        "real alpha/clipping/resampling (68719476736, 0, 0, 0, 2)",
+        "exact selected resource 49101",
+        "selection changes the returned portrait pixels 49101",
+        "temporary managed roots released 49101",
+        "exact selected resource 49102",
+        "selection changes the returned portrait pixels 49102",
+        "temporary managed roots released 49102",
+        "exact selected resource 49103",
+        "selection changes the returned portrait pixels 49103",
+        "temporary managed roots released 49103",
+        "exact selected resource 49104",
+        "selection changes the returned portrait pixels 49104",
+        "temporary managed roots released 49104",
+        "exact selected resource 49105",
+        "selection changes the returned portrait pixels 49105",
+        "temporary managed roots released 49105",
+        "exact selected resource 49106",
+        "selection changes the returned portrait pixels 49106",
+        "temporary managed roots released 49106",
+        "exact selected resource 49107",
+        "selection changes the returned portrait pixels 49107",
+        "temporary managed roots released 49107",
+        "exact selected resource 49108",
+        "selection changes the returned portrait pixels 49108",
+        "temporary managed roots released 49108",
+        "exact selected resource 49109",
+        "selection changes the returned portrait pixels 49109",
+        "temporary managed roots released 49109",
+        "exact selected resource 49110",
+        "selection changes the returned portrait pixels 49110",
+        "temporary managed roots released 49110",
+        "exact selected resource 49111",
+        "selection changes the returned portrait pixels 49111",
+        "temporary managed roots released 49111",
+        "exact selected resource 49112",
+        "selection changes the returned portrait pixels 49112",
+        "temporary managed roots released 49112",
+        "exact selected resource 49201",
+        "selection changes the returned portrait pixels 49201",
+        "temporary managed roots released 49201",
+        "exact selected resource 49202",
+        "selection changes the returned portrait pixels 49202",
+        "temporary managed roots released 49202",
+        "exact selected resource 49203",
+        "selection changes the returned portrait pixels 49203",
+        "temporary managed roots released 49203",
+        "exact selected resource 49204",
+        "selection changes the returned portrait pixels 49204",
+        "temporary managed roots released 49204",
+        "exact selected resource 49205",
+        "selection changes the returned portrait pixels 49205",
+        "temporary managed roots released 49205",
+        "exact selected resource 49206",
+        "selection changes the returned portrait pixels 49206",
+        "temporary managed roots released 49206",
+        "exact selected resource 49207",
+        "selection changes the returned portrait pixels 49207",
+        "temporary managed roots released 49207",
+        "exact selected resource 49208",
+        "selection changes the returned portrait pixels 49208",
+        "temporary managed roots released 49208",
+        "exact selected resource 49209",
+        "selection changes the returned portrait pixels 49209",
+        "temporary managed roots released 49209",
+        "exact selected resource 49210",
+        "selection changes the returned portrait pixels 49210",
+        "temporary managed roots released 49210",
+        "exact selected resource 49211",
+        "selection changes the returned portrait pixels 49211",
+        "temporary managed roots released 49211",
+        "exact selected resource 49212",
+        "selection changes the returned portrait pixels 49212",
+        "temporary managed roots released 49212",
+        "exact selected resource 49213",
+        "selection changes the returned portrait pixels 49213",
+        "temporary managed roots released 49213",
+        "exact selected resource 49214",
+        "selection changes the returned portrait pixels 49214",
+        "temporary managed roots released 49214",
+        "exact selected resource 49215",
+        "selection changes the returned portrait pixels 49215",
+        "temporary managed roots released 49215",
+        "exact selected resource 49216",
+        "selection changes the returned portrait pixels 49216",
+        "temporary managed roots released 49216",
+        "exact selected resource 49217",
+        "selection changes the returned portrait pixels 49217",
+        "temporary managed roots released 49217",
+        "exact selected resource 49218",
+        "selection changes the returned portrait pixels 49218",
+        "temporary managed roots released 49218",
+        "exact selected resource 49219",
+        "selection changes the returned portrait pixels 49219",
+        "temporary managed roots released 49219",
+        "exact selected resource 49220",
+        "selection changes the returned portrait pixels 49220",
+        "temporary managed roots released 49220",
+        "exact selected resource 49221",
+        "selection changes the returned portrait pixels 49221",
+        "temporary managed roots released 49221",
+        "exact selected resource 49222",
+        "selection changes the returned portrait pixels 49222",
+        "temporary managed roots released 49222",
+        "two overlays coexist for stage/gender (0, 0)",
+        "no roots retained after stage/gender (0, 0)",
+        "two overlays coexist for stage/gender (0, 1)",
+        "no roots retained after stage/gender (0, 1)",
+        "two overlays coexist for stage/gender (1, 0)",
+        "no roots retained after stage/gender (1, 0)",
+        "two overlays coexist for stage/gender (1, 1)",
+        "no roots retained after stage/gender (1, 1)",
+        "two overlays coexist for stage/gender (2, 0)",
+        "no roots retained after stage/gender (2, 0)",
+        "two overlays coexist for stage/gender (2, 1)",
+        "no roots retained after stage/gender (2, 1)",
+        "two overlays coexist for stage/gender (3, 0)",
+        "no roots retained after stage/gender (3, 0)",
+        "two overlays coexist for stage/gender (3, 1)",
+        "no roots retained after stage/gender (3, 1)",
+        "two overlays coexist for stage/gender (4, 0)",
+        "no roots retained after stage/gender (4, 0)",
+        "two overlays coexist for stage/gender (4, 1)",
+        "no roots retained after stage/gender (4, 1)",
+        "two overlays coexist for stage/gender (5, 0)",
+        "no roots retained after stage/gender (5, 0)",
+        "two overlays coexist for stage/gender (5, 1)",
+        "no roots retained after stage/gender (5, 1)",
+        "bounded unchanged fallback none",
+        "roots released on none",
+        "bounded unchanged fallback corrupt",
+        "roots released on corrupt",
+        "bounded unchanged fallback unreadable",
+        "roots released on unreadable",
+        "bounded unchanged fallback short_base",
+        "roots released on short_base",
+        "bounded unchanged fallback missing",
+        "roots released on missing",
+        "bounded unchanged fallback short_source",
+        "roots released on short_source",
+        "preview applies Scar to the draft face",
+        "Apply retains Scar",
+        "preview applies Patch to the draft face",
+        "Apply retains Patch",
+        "birth commit retains both appearance selections",
+        "saved hero reconstructs both renderer inputs",
+        "removing both choices clears both native records"
+      ],
+      "physical_phone_tested": false,
+      "ART_tested": false,
+      "Unity_rendering_tested": false,
+      "boundaries": "ARM64 code executes. Unity texture allocation/upload/resource calls and managed objects are explicit models, not an Android rendering test."
+    },
+    "assets56_validation.json": {
+      "passed": true,
+      "checks": 39826,
+      "changed_textures": [
+        {
+          "name": "a49_scar_49101",
+          "texture": 39660,
+          "id": 49101,
+          "kind": "scar",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "1c4472232b448bc21c9027ea352bf3bd2142fd4040419d995298b2c1912bfb54",
+          "geometry": {
+            "source_rect": [
+              0,
+              10,
+              138,
+              150
+            ],
+            "target_box": [
+              145,
+              188,
+              185,
+              239
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_scar_49102",
+          "texture": 39662,
+          "id": 49102,
+          "kind": "scar",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "11c0026ed01e2be12276175fb5ec7ebfabf19ee159b8591af51a8481a2aac7ae",
+          "geometry": {
+            "source_rect": [
+              140,
+              10,
+              278,
+              150
+            ],
+            "target_box": [
+              122,
+              305,
+              175,
+              365
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_scar_49103",
+          "texture": 39664,
+          "id": 49103,
+          "kind": "scar",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "55bf33507f52174d398a2ae86e856706ba8770c1b67d0343a885e4284cefcfa4",
+          "geometry": {
+            "source_rect": [
+              280,
+              10,
+              418,
+              150
+            ],
+            "target_box": [
+              122,
+              305,
+              183,
+              367
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_scar_49104",
+          "texture": 39666,
+          "id": 49104,
+          "kind": "scar",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "f6c149fb8fe23f3749912cb2414265574f2fe9f69559d3a7386f2857cb191fd5",
+          "geometry": {
+            "source_rect": [
+              420,
+              10,
+              558,
+              150
+            ],
+            "target_box": [
+              115,
+              295,
+              166,
+              390
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_scar_49105",
+          "texture": 39668,
+          "id": 49105,
+          "kind": "scar",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "9f6dcc64093dfafe0d45364c0b4bd37f9cc16f26da189af4c52a2d556edb00ea",
+          "geometry": {
+            "source_rect": [
+              560,
+              10,
+              698,
+              150
+            ],
+            "target_box": [
+              142,
+              185,
+              194,
+              237
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_scar_49106",
+          "texture": 39670,
+          "id": 49106,
+          "kind": "scar",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "791b6381599a3831ec8318e57c2048bba6d31ac69971a6400f0e41e077daafae",
+          "geometry": {
+            "source_rect": [
+              700,
+              10,
+              838,
+              150
+            ],
+            "target_box": [
+              131,
+              198,
+              195,
+              233
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_scar_49107",
+          "texture": 39672,
+          "id": 49107,
+          "kind": "scar",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "cc5f397c28b47441c9df5f8e9b5b565cd6a981f92e860ff87f43887315a72daf",
+          "geometry": {
+            "source_rect": [
+              840,
+              10,
+              978,
+              150
+            ],
+            "target_box": [
+              121,
+              313,
+              164,
+              358
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_scar_49108",
+          "texture": 39674,
+          "id": 49108,
+          "kind": "scar",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "29dc161d380b4ba2ba5093c7b750c88528f922c0075bf10bd9f6a52ec331cb9d",
+          "geometry": {
+            "source_rect": [
+              980,
+              10,
+              1118,
+              150
+            ],
+            "target_box": [
+              123,
+              301,
+              169,
+              375
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_scar_49109",
+          "texture": 39676,
+          "id": 49109,
+          "kind": "scar",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "30ca87c7544d011748b79d64a7a743b167883258ffed5d4e4adbc3555f3924d4",
+          "geometry": {
+            "source_rect": [
+              10,
+              440,
+              125,
+              572
+            ],
+            "target_box": [
+              332,
+              313,
+              379,
+              364
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_scar_49110",
+          "texture": 39678,
+          "id": 49110,
+          "kind": "scar",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "5abc6449c39a4f3c29ff2064ec32790f54271bf660c0cf44310ad0646070a84c",
+          "geometry": {
+            "source_rect": [
+              610,
+              438,
+              694,
+              572
+            ],
+            "target_box": [
+              300,
+              134,
+              351,
+              219
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_scar_49111",
+          "texture": 39680,
+          "id": 49111,
+          "kind": "scar",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "a6546ffeb3bf72f13fd14f9d7bcc8c9f56293820812947f978442a16c6a38da4",
+          "geometry": {
+            "source_rect": [
+              0,
+              570,
+              120,
+              674
+            ],
+            "target_box": [
+              234,
+              400,
+              270,
+              438
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_scar_49112",
+          "texture": 39682,
+          "id": 49112,
+          "kind": "scar",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "20ef0cbb4d9a0f918604557d02ba5d634faa1dfb9a74d5e98bd960ed910824b8",
+          "geometry": {
+            "source_rect": [
+              475,
+              438,
+              582,
+              574
+            ],
+            "target_box": [
+              131,
+              309,
+              175,
+              365
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_patch_49201",
+          "texture": 39684,
+          "id": 49201,
+          "kind": "patch",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "f86018c3e5df0e166808e634f5caf7ce5e4e36d922c10ca355a2fff496a8048b",
+          "geometry": {
+            "source_rect": [
+              16,
+              684,
+              141,
+              758
+            ],
+            "pad_centre": [
+              72.0,
+              41.5
+            ],
+            "target_eye": {
+              "x": 327.5,
+              "y": 274.5,
+              "height": 56
+            },
+            "scale": 1.593103448275862,
+            "position": [
+              213,
+              208
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_patch_49202",
+          "texture": 39686,
+          "id": 49202,
+          "kind": "patch",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "011c4ef249045981830a60f636b6cb84052faf6ba41132b098e9f1971a686cd5",
+          "geometry": {
+            "source_rect": [
+              154,
+              684,
+              271,
+              757
+            ],
+            "pad_centre": [
+              63.0,
+              39.0
+            ],
+            "target_eye": {
+              "x": 327.5,
+              "y": 274.5,
+              "height": 56
+            },
+            "scale": 1.5147540983606556,
+            "position": [
+              232,
+              215
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_patch_49203",
+          "texture": 39688,
+          "id": 49203,
+          "kind": "patch",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "82682b37061489f6cb114fd8545cb417fbf667375e62e34c840df893c9eca8e7",
+          "geometry": {
+            "source_rect": [
+              288,
+              686,
+              410,
+              758
+            ],
+            "pad_centre": [
+              59.0,
+              35.5
+            ],
+            "target_eye": {
+              "x": 327.5,
+              "y": 274.5,
+              "height": 56
+            },
+            "scale": 1.4,
+            "position": [
+              245,
+              225
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_patch_49204",
+          "texture": 39690,
+          "id": 49204,
+          "kind": "patch",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "6899698f0983f764bd2115fec9d1f1cb750de0e0bd14c126c12d3f7a5233440a",
+          "geometry": {
+            "source_rect": [
+              428,
+              686,
+              547,
+              755
+            ],
+            "pad_centre": [
+              82.5,
+              33.0
+            ],
+            "target_eye": {
+              "x": 327.5,
+              "y": 274.5,
+              "height": 56
+            },
+            "scale": 1.4215384615384614,
+            "position": [
+              210,
+              228
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_patch_49205",
+          "texture": 39692,
+          "id": 49205,
+          "kind": "patch",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "a25d93e75077c67e08b6d8a72508b9c8a37e802ca34c196f3506fc38c5285a5a",
+          "geometry": {
+            "source_rect": [
+              562,
+              681,
+              696,
+              758
+            ],
+            "pad_centre": [
+              85.5,
+              39.0
+            ],
+            "target_eye": {
+              "x": 327.5,
+              "y": 274.5,
+              "height": 56
+            },
+            "scale": 1.3391304347826085,
+            "position": [
+              213,
+              222
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_patch_49206",
+          "texture": 39694,
+          "id": 49206,
+          "kind": "patch",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "760c1b11a26ea39c1d762c593dd8d5e44e8ea6baf02089263ffcf2ffcdb5e219",
+          "geometry": {
+            "source_rect": [
+              710,
+              679,
+              838,
+              759
+            ],
+            "pad_centre": [
+              71.5,
+              45.5
+            ],
+            "target_eye": {
+              "x": 327.5,
+              "y": 274.5,
+              "height": 56
+            },
+            "scale": 1.4903225806451612,
+            "position": [
+              221,
+              207
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_patch_49207",
+          "texture": 39696,
+          "id": 49207,
+          "kind": "patch",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "4dfb896cb7c1178c54865148314027b1aab221b7b237b797b172ea6cada3333d",
+          "geometry": {
+            "source_rect": [
+              854,
+              681,
+              992,
+              758
+            ],
+            "pad_centre": [
+              71.0,
+              42.0
+            ],
+            "target_eye": {
+              "x": 327.5,
+              "y": 274.5,
+              "height": 56
+            },
+            "scale": 1.4666666666666666,
+            "position": [
+              223,
+              213
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_patch_49208",
+          "texture": 39698,
+          "id": 49208,
+          "kind": "patch",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "0547a03a5e1fc1d75daaae8085ae004147b18a5ff0069ed9b9f7a3850ca2d77d",
+          "geometry": {
+            "source_rect": [
+              1008,
+              682,
+              1139,
+              760
+            ],
+            "pad_centre": [
+              75.0,
+              42.5
+            ],
+            "target_eye": {
+              "x": 327.5,
+              "y": 274.5,
+              "height": 56
+            },
+            "scale": 1.4437499999999999,
+            "position": [
+              219,
+              213
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_patch_49209",
+          "texture": 39700,
+          "id": 49209,
+          "kind": "patch",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "7bc3e813acc0ff9346ea02cd64a495006827b15cbcccbf354e47e92c1ad97889",
+          "geometry": {
+            "source_rect": [
+              1154,
+              681,
+              1291,
+              763
+            ],
+            "pad_centre": [
+              73.0,
+              46.5
+            ],
+            "target_eye": {
+              "x": 327.5,
+              "y": 274.5,
+              "height": 56
+            },
+            "scale": 1.4437499999999999,
+            "position": [
+              222,
+              207
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_patch_49210",
+          "texture": 39702,
+          "id": 49210,
+          "kind": "patch",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "8d26aeb2a8d767949502f7bfa29699ed1d18fef4916a557c2cec6bc1e30f564a",
+          "geometry": {
+            "source_rect": [
+              1313,
+              673,
+              1452,
+              760
+            ],
+            "pad_centre": [
+              71.0,
+              51.0
+            ],
+            "target_eye": {
+              "x": 327.5,
+              "y": 274.5,
+              "height": 56
+            },
+            "scale": 1.4215384615384614,
+            "position": [
+              227,
+              202
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_patch_49211",
+          "texture": 39704,
+          "id": 49211,
+          "kind": "patch",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "98ab2a215213a2142d6a49e5dc91c22197294c7e46ceb0ef6c73ae9078698dc4",
+          "geometry": {
+            "source_rect": [
+              1473,
+              687,
+              1612,
+              758
+            ],
+            "pad_centre": [
+              70.5,
+              36.5
+            ],
+            "target_eye": {
+              "x": 327.5,
+              "y": 274.5,
+              "height": 56
+            },
+            "scale": 1.4903225806451612,
+            "position": [
+              222,
+              220
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_patch_49212",
+          "texture": 39706,
+          "id": 49212,
+          "kind": "patch",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "7186603728c0987478f1e7018c39dc2d5e3f9ace7f2750b30efb358ecde85f54",
+          "geometry": {
+            "source_rect": [
+              1630,
+              694,
+              1754,
+              762
+            ],
+            "pad_centre": [
+              52.5,
+              33.0
+            ],
+            "target_eye": {
+              "x": 327.5,
+              "y": 274.5,
+              "height": 56
+            },
+            "scale": 1.4666666666666666,
+            "position": [
+              250,
+              226
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_patch_49213",
+          "texture": 39708,
+          "id": 49213,
+          "kind": "patch",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "66e45edbfcf028bd38073de58df6a579c5f58ece10482f04393bd6319146d693",
+          "geometry": {
+            "source_rect": [
+              16,
+              773,
+              148,
+              854
+            ],
+            "pad_centre": [
+              76.0,
+              43.5
+            ],
+            "target_eye": {
+              "x": 327.5,
+              "y": 274.5,
+              "height": 56
+            },
+            "scale": 1.3588235294117645,
+            "position": [
+              224,
+              215
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_patch_49214",
+          "texture": 39710,
+          "id": 49214,
+          "kind": "patch",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "d466970fd41fc48e318b1dd02121786a506ac872033714c22c82bbe07fa5df97",
+          "geometry": {
+            "source_rect": [
+              161,
+              775,
+              288,
+              853
+            ],
+            "pad_centre": [
+              64.5,
+              43.0
+            ],
+            "target_eye": {
+              "x": 327.5,
+              "y": 274.5,
+              "height": 56
+            },
+            "scale": 1.4666666666666666,
+            "position": [
+              233,
+              211
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_patch_49215",
+          "texture": 39712,
+          "id": 49215,
+          "kind": "patch",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "56e7c6ccba395577770bd33cfd84f0667258f32f0d259e376975f720b5b61509",
+          "geometry": {
+            "source_rect": [
+              304,
+              776,
+              425,
+              853
+            ],
+            "pad_centre": [
+              71.0,
+              41.5
+            ],
+            "target_eye": {
+              "x": 327.5,
+              "y": 274.5,
+              "height": 56
+            },
+            "scale": 1.4437499999999999,
+            "position": [
+              225,
+              215
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_patch_49216",
+          "texture": 39714,
+          "id": 49216,
+          "kind": "patch",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "f9422fc3f4c6a7557ad3a13d8188649479a624590e4bba4c3a023ebd6d646f68",
+          "geometry": {
+            "source_rect": [
+              438,
+              773,
+              604,
+              855
+            ],
+            "pad_centre": [
+              112.0,
+              45.5
+            ],
+            "target_eye": {
+              "x": 327.5,
+              "y": 274.5,
+              "height": 56
+            },
+            "scale": 1.4,
+            "position": [
+              171,
+              211
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_patch_49217",
+          "texture": 39716,
+          "id": 49217,
+          "kind": "patch",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "5319fbb6c0ab30b847f98417fe96f16601f045d66618be87bad10d777a762c82",
+          "geometry": {
+            "source_rect": [
+              621,
+              775,
+              769,
+              855
+            ],
+            "pad_centre": [
+              80.5,
+              43.0
+            ],
+            "target_eye": {
+              "x": 327.5,
+              "y": 274.5,
+              "height": 56
+            },
+            "scale": 1.37910447761194,
+            "position": [
+              216,
+              215
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_patch_49218",
+          "texture": 39718,
+          "id": 49218,
+          "kind": "patch",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "059733bd1724a7090d90bda216be3b2e830c98ce08cc787f5b95f6176d308ddd",
+          "geometry": {
+            "source_rect": [
+              790,
+              776,
+              935,
+              854
+            ],
+            "pad_centre": [
+              78.5,
+              41.5
+            ],
+            "target_eye": {
+              "x": 327.5,
+              "y": 274.5,
+              "height": 56
+            },
+            "scale": 1.4,
+            "position": [
+              218,
+              216
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_patch_49219",
+          "texture": 39720,
+          "id": 49219,
+          "kind": "patch",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "0efa28d50f0e8cefeefdbddb1379a70a11e106246b2b738a4523d70f84d48f26",
+          "geometry": {
+            "source_rect": [
+              955,
+              771,
+              1088,
+              851
+            ],
+            "pad_centre": [
+              76.0,
+              44.0
+            ],
+            "target_eye": {
+              "x": 327.5,
+              "y": 274.5,
+              "height": 56
+            },
+            "scale": 1.37910447761194,
+            "position": [
+              223,
+              214
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_patch_49220",
+          "texture": 39722,
+          "id": 49220,
+          "kind": "patch",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "d055caa0f9f1278564e14d0487df7f7a96af91a8a632f33bf42e9862b000662c",
+          "geometry": {
+            "source_rect": [
+              1115,
+              782,
+              1258,
+              857
+            ],
+            "pad_centre": [
+              69.0,
+              36.0
+            ],
+            "target_eye": {
+              "x": 327.5,
+              "y": 274.5,
+              "height": 56
+            },
+            "scale": 1.3014084507042252,
+            "position": [
+              238,
+              228
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_patch_49221",
+          "texture": 39724,
+          "id": 49221,
+          "kind": "patch",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "e922ae78868da20f2de5c302c179e212e16151905d87d044b1b5e25507a41b4c",
+          "geometry": {
+            "source_rect": [
+              1281,
+              778,
+              1426,
+              869
+            ],
+            "pad_centre": [
+              68.5,
+              49.0
+            ],
+            "target_eye": {
+              "x": 327.5,
+              "y": 274.5,
+              "height": 56
+            },
+            "scale": 1.2,
+            "position": [
+              245,
+              216
+            ],
+            "preserve_aspect_ratio": true
+          }
+        },
+        {
+          "name": "a49_patch_49222",
+          "texture": 39726,
+          "id": 49222,
+          "kind": "patch",
+          "size": [
+            500,
+            500
+          ],
+          "rgba_sha256": "fa9730a0050b1fee08f4c093a432fdf3379638030e7aedee0b095f6327946504",
+          "geometry": {
+            "source_rect": [
+              1441,
+              771,
+              1621,
+              860
+            ],
+            "pad_centre": [
+              97.0,
+              51.0
+            ],
+            "target_eye": {
+              "x": 327.5,
+              "y": 274.5,
+              "height": 56
+            },
+            "scale": 1.3014084507042252,
+            "position": [
+              201,
+              208
+            ],
+            "preserve_aspect_ratio": true
+          }
+        }
+      ],
+      "source_sheet_sha256": "33a65f7959067bff49afc299f07281de23af7f384900489c1a12c13c65bf76cd",
+      "datapack_sha256": "af5f75657d0d9ab9906a542efcfa32c73d7d40e1d26c74f4d6f1c846921da857",
+      "all_other_unity_objects_unchanged": true,
+      "resource_manager_unchanged": true,
+      "original_native_faces_preserved": true,
+      "physical_phone_tested": false,
+      "Unity_rendering_tested": false
+    },
+    "retained53_validation56.json": {
+      "passed": true,
+      "binary_sha256": "183b37851fd7341260c0910691f43b5368fbfe8d22243823db4179766d0fe5d0",
+      "checks": 391,
+      "cases": [
+        "candidate hash matches manifest",
+        "New Life has six custom body/personality/region/year rows instead of sixteen",
+        "appearance rows removed from New Life root",
+        "stock Appearance action opens one consolidated hub",
+        "clear hub categories and one stock face-editor link ['Face editor', 'Hair & facial hair', 'Skin & eye colours', 'Genetic features', 'Scars & eyepatches', 'Inherited abilities', 'Back to New Life']",
+        "hair options are grouped inside the hub",
+        "inherited stat traits remain accessible under their own name",
+        "integrated face-editor link delegates to the original God Mode editor once",
+        "bounded page Hair0:0",
+        "reachable Hair:0",
+        "reachable Hair:1",
+        "reachable Hair:2",
+        "reachable Hair:3",
+        "bounded page Hair0:1",
+        "reachable Hair:4",
+        "reachable Hair:5",
+        "reachable Hair:6",
+        "reachable Hair:7",
+        "bounded page Hair0:2",
+        "reachable Hair:8",
+        "reachable Hair:9",
+        "reachable Hair:10",
+        "reachable Hair:11",
+        "bounded page Hair0:3",
+        "reachable Hair:12",
+        "reachable Hair:13",
+        "reachable Hair:14",
+        "reachable Hair:15",
+        "no omitted or duplicated choices Hair0",
+        "Back cancels Hair0",
+        "Save commits then returns to parent Hair0",
+        "stale category callback rejected Hair0",
+        "bounded page HairColour0:0",
+        "reachable HairColour:0",
+        "reachable HairColour:1",
+        "reachable HairColour:2",
+        "reachable HairColour:3",
+        "bounded page HairColour0:1",
+        "reachable HairColour:4",
+        "reachable HairColour:5",
+        "reachable HairColour:6",
+        "reachable HairColour:7",
+        "bounded page HairColour0:2",
+        "reachable HairColour:8",
+        "no omitted or duplicated choices HairColour0",
+        "Back cancels HairColour0",
+        "Save commits then returns to parent HairColour0",
+        "stale category callback rejected HairColour0",
+        "bounded page Skin0:0",
+        "reachable Skin:0",
+        "reachable Skin:1",
+        "reachable Skin:2",
+        "reachable Skin:3",
+        "bounded page Skin0:1",
+        "reachable Skin:4",
+        "reachable Skin:5",
+        "reachable Skin:6",
+        "reachable Skin:7",
+        "bounded page Skin0:2",
+        "reachable Skin:8",
+        "no omitted or duplicated choices Skin0",
+        "Back cancels Skin0",
+        "Save commits then returns to parent Skin0",
+        "stale category callback rejected Skin0",
+        "bounded page EyeColour0:0",
+        "reachable EyeColour:0",
+        "reachable EyeColour:1",
+        "reachable EyeColour:2",
+        "reachable EyeColour:3",
+        "bounded page EyeColour0:1",
+        "reachable EyeColour:4",
+        "reachable EyeColour:5",
+        "reachable EyeColour:6",
+        "no omitted or duplicated choices EyeColour0",
+        "Back cancels EyeColour0",
+        "Save commits then returns to parent EyeColour0",
+        "stale category callback rejected EyeColour0",
+        "bounded page Scar0:0",
+        "reachable Scar:0",
+        "reachable Scar:1",
+        "reachable Scar:2",
+        "reachable Scar:3",
+        "bounded page Scar0:1",
+        "reachable Scar:4",
+        "reachable Scar:5",
+        "reachable Scar:6",
+        "reachable Scar:7",
+        "bounded page Scar0:2",
+        "reachable Scar:8",
+        "reachable Scar:9",
+        "reachable Scar:10",
+        "reachable Scar:11",
+        "bounded page Scar0:3",
+        "reachable Scar:12",
+        "no omitted or duplicated choices Scar0",
+        "Back cancels Scar0",
+        "Save commits then returns to parent Scar0",
+        "stale category callback rejected Scar0",
+        "bounded page Patch0:0",
+        "reachable Patch:0",
+        "reachable Patch:1",
+        "reachable Patch:2",
+        "reachable Patch:3",
+        "bounded page Patch0:1",
+        "reachable Patch:4",
+        "reachable Patch:5",
+        "reachable Patch:6",
+        "reachable Patch:7",
+        "bounded page Patch0:2",
+        "reachable Patch:8",
+        "reachable Patch:9",
+        "reachable Patch:10",
+        "reachable Patch:11",
+        "bounded page Patch0:3",
+        "reachable Patch:12",
+        "reachable Patch:13",
+        "reachable Patch:14",
+        "reachable Patch:15",
+        "bounded page Patch0:4",
+        "reachable Patch:16",
+        "reachable Patch:17",
+        "reachable Patch:18",
+        "reachable Patch:19",
+        "bounded page Patch0:5",
+        "reachable Patch:20",
+        "reachable Patch:21",
+        "reachable Patch:22",
+        "no omitted or duplicated choices Patch0",
+        "Back cancels Patch0",
+        "Save commits then returns to parent Patch0",
+        "stale category callback rejected Patch0",
+        "bounded page Beard0:0",
+        "reachable Beard:0",
+        "reachable Beard:1",
+        "reachable Beard:2",
+        "reachable Beard:3",
+        "bounded page Beard0:1",
+        "reachable Beard:4",
+        "reachable Beard:5",
+        "reachable Beard:6",
+        "no omitted or duplicated choices Beard0",
+        "Back cancels Beard0",
+        "Save commits then returns to parent Beard0",
+        "stale category callback rejected Beard0",
+        "bounded page BeardColour0:0",
+        "reachable BeardColour:0",
+        "reachable BeardColour:1",
+        "reachable BeardColour:2",
+        "reachable BeardColour:3",
+        "bounded page BeardColour0:1",
+        "reachable BeardColour:4",
+        "reachable BeardColour:5",
+        "reachable BeardColour:6",
+        "reachable BeardColour:7",
+        "bounded page BeardColour0:2",
+        "reachable BeardColour:8",
+        "no omitted or duplicated choices BeardColour0",
+        "Back cancels BeardColour0",
+        "Save commits then returns to parent BeardColour0",
+        "stale category callback rejected BeardColour0",
+        "bounded page Mark1:0",
+        "reachable Mark:0",
+        "reachable Mark:5",
+        "reachable Mark:12",
+        "reachable Mark:13",
+        "no omitted or duplicated choices Mark1",
+        "Back cancels Mark1",
+        "Save commits then returns to parent Mark1",
+        "stale category callback rejected Mark1",
+        "bounded page Mark2:0",
+        "reachable Mark:0",
+        "reachable Mark:1",
+        "reachable Mark:8",
+        "reachable Mark:2",
+        "bounded page Mark2:1",
+        "reachable Mark:9",
+        "reachable Mark:10",
+        "reachable Mark:14",
+        "reachable Mark:3",
+        "bounded page Mark2:2",
+        "reachable Mark:4",
+        "reachable Mark:11",
+        "no omitted or duplicated choices Mark2",
+        "Back cancels Mark2",
+        "Save commits then returns to parent Mark2",
+        "stale category callback rejected Mark2",
+        "bounded page Mark3:0",
+        "reachable Mark:0",
+        "reachable Mark:6",
+        "reachable Mark:7",
+        "no omitted or duplicated choices Mark3",
+        "Back cancels Mark3",
+        "Save commits then returns to parent Mark3",
+        "stale category callback rejected Mark3",
+        "ordinary colour clears explicit genetic eye override",
+        "Back closes the unified hub cleanly",
+        "New Life has six custom body/personality/region/year rows instead of sixteen",
+        "appearance rows removed from New Life root",
+        "stock Appearance action opens one consolidated hub",
+        "clear hub categories and one stock face-editor link ['Face editor', 'Hair & facial hair', 'Skin & eye colours', 'Genetic features', 'Scars & eyepatches', 'Inherited abilities', 'Back to New Life']",
+        "hair options are grouped inside the hub",
+        "inherited stat traits remain accessible under their own name",
+        "integrated face-editor link delegates to the original God Mode editor once",
+        "bounded page Hair0:0",
+        "reachable Hair:0",
+        "reachable Hair:1",
+        "reachable Hair:2",
+        "reachable Hair:3",
+        "bounded page Hair0:1",
+        "reachable Hair:4",
+        "reachable Hair:5",
+        "reachable Hair:6",
+        "reachable Hair:7",
+        "bounded page Hair0:2",
+        "reachable Hair:8",
+        "reachable Hair:9",
+        "reachable Hair:10",
+        "reachable Hair:11",
+        "bounded page Hair0:3",
+        "reachable Hair:12",
+        "reachable Hair:13",
+        "reachable Hair:14",
+        "reachable Hair:15",
+        "no omitted or duplicated choices Hair0",
+        "Back cancels Hair0",
+        "Save commits then returns to parent Hair0",
+        "stale category callback rejected Hair0",
+        "bounded page HairColour0:0",
+        "reachable HairColour:0",
+        "reachable HairColour:1",
+        "reachable HairColour:2",
+        "reachable HairColour:3",
+        "bounded page HairColour0:1",
+        "reachable HairColour:4",
+        "reachable HairColour:5",
+        "reachable HairColour:6",
+        "reachable HairColour:7",
+        "bounded page HairColour0:2",
+        "reachable HairColour:8",
+        "no omitted or duplicated choices HairColour0",
+        "Back cancels HairColour0",
+        "Save commits then returns to parent HairColour0",
+        "stale category callback rejected HairColour0",
+        "bounded page Skin0:0",
+        "reachable Skin:0",
+        "reachable Skin:1",
+        "reachable Skin:2",
+        "reachable Skin:3",
+        "bounded page Skin0:1",
+        "reachable Skin:4",
+        "reachable Skin:5",
+        "reachable Skin:6",
+        "reachable Skin:7",
+        "bounded page Skin0:2",
+        "reachable Skin:8",
+        "no omitted or duplicated choices Skin0",
+        "Back cancels Skin0",
+        "Save commits then returns to parent Skin0",
+        "stale category callback rejected Skin0",
+        "bounded page EyeColour0:0",
+        "reachable EyeColour:0",
+        "reachable EyeColour:1",
+        "reachable EyeColour:2",
+        "reachable EyeColour:3",
+        "bounded page EyeColour0:1",
+        "reachable EyeColour:4",
+        "reachable EyeColour:5",
+        "reachable EyeColour:6",
+        "no omitted or duplicated choices EyeColour0",
+        "Back cancels EyeColour0",
+        "Save commits then returns to parent EyeColour0",
+        "stale category callback rejected EyeColour0",
+        "bounded page Scar0:0",
+        "reachable Scar:0",
+        "reachable Scar:1",
+        "reachable Scar:2",
+        "reachable Scar:3",
+        "bounded page Scar0:1",
+        "reachable Scar:4",
+        "reachable Scar:5",
+        "reachable Scar:6",
+        "reachable Scar:7",
+        "bounded page Scar0:2",
+        "reachable Scar:8",
+        "reachable Scar:9",
+        "reachable Scar:10",
+        "reachable Scar:11",
+        "bounded page Scar0:3",
+        "reachable Scar:12",
+        "no omitted or duplicated choices Scar0",
+        "Back cancels Scar0",
+        "Save commits then returns to parent Scar0",
+        "stale category callback rejected Scar0",
+        "bounded page Patch0:0",
+        "reachable Patch:0",
+        "reachable Patch:1",
+        "reachable Patch:2",
+        "reachable Patch:3",
+        "bounded page Patch0:1",
+        "reachable Patch:4",
+        "reachable Patch:5",
+        "reachable Patch:6",
+        "reachable Patch:7",
+        "bounded page Patch0:2",
+        "reachable Patch:8",
+        "reachable Patch:9",
+        "reachable Patch:10",
+        "reachable Patch:11",
+        "bounded page Patch0:3",
+        "reachable Patch:12",
+        "reachable Patch:13",
+        "reachable Patch:14",
+        "reachable Patch:15",
+        "bounded page Patch0:4",
+        "reachable Patch:16",
+        "reachable Patch:17",
+        "reachable Patch:18",
+        "reachable Patch:19",
+        "bounded page Patch0:5",
+        "reachable Patch:20",
+        "reachable Patch:21",
+        "reachable Patch:22",
+        "no omitted or duplicated choices Patch0",
+        "Back cancels Patch0",
+        "Save commits then returns to parent Patch0",
+        "stale category callback rejected Patch0",
+        "bounded page Beard0:0",
+        "reachable Beard:0",
+        "reachable Beard:1",
+        "reachable Beard:2",
+        "reachable Beard:3",
+        "bounded page Beard0:1",
+        "reachable Beard:4",
+        "reachable Beard:5",
+        "reachable Beard:6",
+        "no omitted or duplicated choices Beard0",
+        "Back cancels Beard0",
+        "Save commits then returns to parent Beard0",
+        "stale category callback rejected Beard0",
+        "bounded page BeardColour0:0",
+        "reachable BeardColour:0",
+        "reachable BeardColour:1",
+        "reachable BeardColour:2",
+        "reachable BeardColour:3",
+        "bounded page BeardColour0:1",
+        "reachable BeardColour:4",
+        "reachable BeardColour:5",
+        "reachable BeardColour:6",
+        "reachable BeardColour:7",
+        "bounded page BeardColour0:2",
+        "reachable BeardColour:8",
+        "no omitted or duplicated choices BeardColour0",
+        "Back cancels BeardColour0",
+        "Save commits then returns to parent BeardColour0",
+        "stale category callback rejected BeardColour0",
+        "bounded page Mark1:0",
+        "reachable Mark:0",
+        "reachable Mark:5",
+        "reachable Mark:12",
+        "reachable Mark:13",
+        "no omitted or duplicated choices Mark1",
+        "Back cancels Mark1",
+        "Save commits then returns to parent Mark1",
+        "stale category callback rejected Mark1",
+        "bounded page Mark2:0",
+        "reachable Mark:0",
+        "reachable Mark:1",
+        "reachable Mark:8",
+        "reachable Mark:2",
+        "bounded page Mark2:1",
+        "reachable Mark:9",
+        "reachable Mark:10",
+        "reachable Mark:14",
+        "reachable Mark:3",
+        "bounded page Mark2:2",
+        "reachable Mark:4",
+        "reachable Mark:11",
+        "no omitted or duplicated choices Mark2",
+        "Back cancels Mark2",
+        "Save commits then returns to parent Mark2",
+        "stale category callback rejected Mark2",
+        "bounded page Mark3:0",
+        "reachable Mark:0",
+        "reachable Mark:6",
+        "reachable Mark:7",
+        "no omitted or duplicated choices Mark3",
+        "Back cancels Mark3",
+        "Save commits then returns to parent Mark3",
+        "stale category callback rejected Mark3",
+        "ordinary colour clears explicit genetic eye override",
+        "Back closes the unified hub cleanly"
+      ],
+      "exhaustive_for_UI_changes": true,
+      "ASLR_bases": [
+        0,
+        68719476736
+      ],
+      "physical_phone_tested": false,
+      "Unity_rendering_tested": false,
+      "modeled_boundaries": [
+        "managed allocation, Unity layout and portrait serialization",
+        "original God Mode editor after its native entry prologue"
+      ],
+      "prior_v52_regressions_retained_by_declared_byte_ranges": true
+    },
+    "retained54_validation56.json": {
+      "passed": true,
+      "binary_sha256": "183b37851fd7341260c0910691f43b5368fbfe8d22243823db4179766d0fe5d0",
+      "checks": 82,
+      "cases": [
+        "candidate hash binding",
+        "v52 saves initialize new vocation fields",
+        "vocation migration preserves previous activity result",
+        "vocation migration runs once",
+        "typed adapter preserves original entry and appends compatible new entry False",
+        "typed adapter preserves original entry and appends compatible new entry True",
+        "managed inject failure contained and checkpointed",
+        "managed add failure contained and checkpointed",
+        "portrait blank/transparent/coloured pixel distinction 0",
+        "portrait blank/transparent/coloured pixel distinction 0",
+        "portrait blank/transparent/coloured pixel distinction 0",
+        "portrait blank/transparent/coloured pixel distinction 1",
+        "portrait blank/transparent/coloured pixel distinction 1",
+        "portrait upload retains readable pixel data",
+        "children remain visitors",
+        "seminary enrollment is persisted with age",
+        "duplicate enrollment preserves formation start",
+        "theology study has a persistent consequence",
+        "annual action quota prevents unlimited skill farming",
+        "age and service gates (21, 1)",
+        "age and service gates (23, 2)",
+        "age and service gates (24, 2)",
+        "age and service gates (25, 3)",
+        "age and service gates (32, 3)",
+        "age and service gates (35, 4)",
+        "age and service gates (42, 4)",
+        "age and service gates (45, 5)",
+        "unsuccessful conclave records four rounds",
+        "election repeat blocked at the same age",
+        "eligible cardinal can become Pope",
+        "leaving preserves knowledge",
+        "food relief spends parish funds and builds trust",
+        "building repair changes a different outcome",
+        "custom year has three controls and no arithmetic buttons",
+        "cancelled numeric dialog leaves a valid unchanged selection",
+        "retyping preserves the last numeric draft",
+        "numeric prompt carries an owner token",
+        "stale numeric response rejected",
+        "out-of-range numeric response rejected",
+        "out-of-range numeric response rejected",
+        "typed birth year applies and returns to New Life",
+        "v52 saves initialize new vocation fields",
+        "vocation migration preserves previous activity result",
+        "vocation migration runs once",
+        "typed adapter preserves original entry and appends compatible new entry False",
+        "typed adapter preserves original entry and appends compatible new entry True",
+        "managed inject failure contained and checkpointed",
+        "managed add failure contained and checkpointed",
+        "portrait blank/transparent/coloured pixel distinction 0",
+        "portrait blank/transparent/coloured pixel distinction 0",
+        "portrait blank/transparent/coloured pixel distinction 0",
+        "portrait blank/transparent/coloured pixel distinction 1",
+        "portrait blank/transparent/coloured pixel distinction 1",
+        "portrait upload retains readable pixel data",
+        "children remain visitors",
+        "seminary enrollment is persisted with age",
+        "duplicate enrollment preserves formation start",
+        "theology study has a persistent consequence",
+        "annual action quota prevents unlimited skill farming",
+        "age and service gates (21, 1)",
+        "age and service gates (23, 2)",
+        "age and service gates (24, 2)",
+        "age and service gates (25, 3)",
+        "age and service gates (32, 3)",
+        "age and service gates (35, 4)",
+        "age and service gates (42, 4)",
+        "age and service gates (45, 5)",
+        "unsuccessful conclave records four rounds",
+        "election repeat blocked at the same age",
+        "eligible cardinal can become Pope",
+        "leaving preserves knowledge",
+        "food relief spends parish funds and builds trust",
+        "building repair changes a different outcome",
+        "custom year has three controls and no arithmetic buttons",
+        "cancelled numeric dialog leaves a valid unchanged selection",
+        "retyping preserves the last numeric draft",
+        "numeric prompt carries an owner token",
+        "stale numeric response rejected",
+        "out-of-range numeric response rejected",
+        "out-of-range numeric response rejected",
+        "typed birth year applies and returns to New Life",
+        "all shared injector call sites adapted"
+      ],
+      "ASLR_bases": [
+        0,
+        68719476736
+      ],
+      "physical_phone_tested": false,
+      "Unity_rendering_tested": false,
+      "modeled_boundaries": [
+        "IL2CPP class lookup, runtime_invoke and managed collection operations",
+        "Unity rendering and Android numeric dialog"
+      ],
+      "managed_Cpp_exception_unwinding_tested": false
+    },
+    "retained55_validation56.json": {
+      "passed": true,
+      "binary_sha256": "183b37851fd7341260c0910691f43b5368fbfe8d22243823db4179766d0fe5d0",
+      "checks": 81,
+      "cases": [
+        "candidate hash binding",
+        "real native life log API receives outcome",
+        "rejected setter cannot journal f1_career",
+        "successful receipt records actual f1_career outcome",
+        "result panel and journal agree f1_career",
+        "rejected setter cannot journal tv_host",
+        "successful receipt records actual tv_host outcome",
+        "result panel and journal agree tv_host",
+        "rejected setter cannot journal music_studio",
+        "successful receipt records actual music_studio outcome",
+        "result panel and journal agree music_studio",
+        "real parent-linked reply pair 0",
+        "player identity and reply flag 0",
+        "reply is a real journal deed 0",
+        "duplicate reply blocked 0",
+        "real parent-linked reply pair 1",
+        "player identity and reply flag 1",
+        "reply is a real journal deed 1",
+        "duplicate reply blocked 1",
+        "real parent-linked reply pair 2",
+        "player identity and reply flag 2",
+        "reply is a real journal deed 2",
+        "duplicate reply blocked 2",
+        "full thread preserves existing messages",
+        "coloured-layer tint flag ('80000', 1)",
+        "coloured-layer tint flag ('88800', 1)",
+        "coloured-layer tint flag ('90005', 1)",
+        "coloured-layer tint flag ('99999', 4)",
+        "coloured-layer tint flag ('00123', 1)",
+        "coloured-layer tint flag ('80000', 8)",
+        "emitted bounded CPU resampler preserves exact RGBA pixels",
+        "typed full icon path mayomods49/icons/49-priest",
+        "typed full icon path mayomods49/icons/49-basilica",
+        "old saved story path resolves supplied illustration 49-gate",
+        "old saved story path resolves supplied illustration 49-conclave",
+        "old saved story path resolves supplied illustration 49-pope",
+        "old saved story path resolves supplied illustration 49-smoke",
+        "old saved story path resolves supplied illustration books",
+        "unfunded church choice consumes no quota and creates no deed",
+        "successful church study appends to the real journal",
+        "status view is not a deed",
+        "real native life log API receives outcome",
+        "rejected setter cannot journal f1_career",
+        "successful receipt records actual f1_career outcome",
+        "result panel and journal agree f1_career",
+        "rejected setter cannot journal tv_host",
+        "successful receipt records actual tv_host outcome",
+        "result panel and journal agree tv_host",
+        "rejected setter cannot journal music_studio",
+        "successful receipt records actual music_studio outcome",
+        "result panel and journal agree music_studio",
+        "real parent-linked reply pair 0",
+        "player identity and reply flag 0",
+        "reply is a real journal deed 0",
+        "duplicate reply blocked 0",
+        "real parent-linked reply pair 1",
+        "player identity and reply flag 1",
+        "reply is a real journal deed 1",
+        "duplicate reply blocked 1",
+        "real parent-linked reply pair 2",
+        "player identity and reply flag 2",
+        "reply is a real journal deed 2",
+        "duplicate reply blocked 2",
+        "full thread preserves existing messages",
+        "coloured-layer tint flag ('80000', 1)",
+        "coloured-layer tint flag ('88800', 1)",
+        "coloured-layer tint flag ('90005', 1)",
+        "coloured-layer tint flag ('99999', 4)",
+        "coloured-layer tint flag ('00123', 1)",
+        "coloured-layer tint flag ('80000', 8)",
+        "emitted bounded CPU resampler preserves exact RGBA pixels",
+        "typed full icon path mayomods49/icons/49-priest",
+        "typed full icon path mayomods49/icons/49-basilica",
+        "old saved story path resolves supplied illustration 49-gate",
+        "old saved story path resolves supplied illustration 49-conclave",
+        "old saved story path resolves supplied illustration 49-pope",
+        "old saved story path resolves supplied illustration 49-smoke",
+        "old saved story path resolves supplied illustration books",
+        "unfunded church choice consumes no quota and creates no deed",
+        "successful church study appends to the real journal",
+        "status view is not a deed"
+      ],
+      "ASLR_bases": [
+        0,
+        68719476736
+      ],
+      "physical_phone_tested": false,
+      "ART_tested": false,
+      "Unity_rendering_tested": false,
+      "modeled_boundaries": [
+        "Managed GFC storage and API calls",
+        "Unity texture API, allocation and resource loading",
+        "LifeLog.Log native-to-managed boundary"
+      ]
+    }
+  },
+  "physical_phone_tested": false,
+  "ART_tested": false,
+  "Unity_rendering_tested": false
+}

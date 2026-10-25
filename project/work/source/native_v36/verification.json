@@ -1,0 +1,265 @@
+{
+  "version": "v36",
+  "apk": "/workspace/scratch/26a4eb37d56a/deliverables/BitLife_MayoMods_v36.apk",
+  "size": 307393812,
+  "sha256": "252d80b3733a23316773d69eb88382d6e4a5bfadbb64cc5208c67bd50af29118",
+  "versionCode": 1080,
+  "base_sha256": "5922cd2e3dbcbbf2118b309b48b1f343371dcb25fc1a3d887aa46e9e99c753c0",
+  "manifest_version": {
+    "previous": 1079,
+    "current": 1080,
+    "byte_offset": 33508,
+    "other_manifest_bytes_preserved": true
+  },
+  "changed_apk_entries": [
+    "AndroidManifest.xml",
+    "classes13.dex"
+  ],
+  "preserved_apk_entries": 2774,
+  "signing": {
+    "VerifyApk.java": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]",
+    "VerifyNativeSigner.java": "verified=true; actual APK signer matches native SHA-1 check; fingerprint=N3gA1+wRR7rLi+T23e/U4BZZu9Q="
+  },
+  "existing_signer_retained": true,
+  "native_libraries": {
+    "lib/arm64-v8a/libRocketGames.so": "4c076edb3e9d8cc44ef22b4e84985704abd5d56bb10ebccd5a26437c9db593ff",
+    "lib/arm64-v8a/libRocketGamesTool.so": "76436b15d32e5810b9f8a75636c946b0967e8e06f74a8847acd5a92ddb21f9be",
+    "lib/arm64-v8a/libil2cpp.so": "538a02a1ffad46e1a6020e33eeb6ef223c4e8b8765d072f7057c36ad3dc467ca",
+    "lib/arm64-v8a/libAsyncGPUReadbackPlugin.so": "7ceb04c6c42668e403e2607d34df1f129a003640ec93efcf2250f2762be98083",
+    "lib/arm64-v8a/libapplovin-native-crash-reporter.so": "ecf2a7327be482870f4c791392a50cecfeaabb2c76a7224898e9713a18c4c36a",
+    "lib/arm64-v8a/libmain.so": "ea04624f7afb2a4e426ddb8215651100c5c1d04456c2b9ca533cba943d2666e8",
+    "lib/arm64-v8a/libcrashlytics-common.so": "db3c33bc6e1c0d049466280c32bd7419f9708f53ca8f5f95d584ef281996918f",
+    "lib/arm64-v8a/libunity.so": "8275e81f19c467314182c43aa6e3e90d6bc43c8fe76c437fe5ed7cc9fb9ac024",
+    "lib/arm64-v8a/libcrashlytics.so": "cad4bd6e1a6fb97cea9d02ac3f2c9c0e90c62064f7b018cf26b0a806e1489b6e",
+    "lib/arm64-v8a/libcrashlytics-trampoline.so": "811584e54eed37e92c84beb6c66c12bc6cfaa864c53db2bbb96878d95b516d60",
+    "lib/arm64-v8a/libFirebaseCppCrashlytics.so": "9dae132e917d17e3415de3752e4c2860f5b9f3e0b5370e4a76237771536493bd",
+    "lib/arm64-v8a/libFirebaseCppMessaging.so": "7d5a37744d6796eaecb5eaa09be8732b70f35f098c60819956b8718bbafca9e9",
+    "lib/arm64-v8a/libFirebaseCppApp-12_10_1.so": "eb2beed5455cabddb5833165b3d9e1a77b78acf6625449ad5edf2f3b1cd1d776",
+    "lib/arm64-v8a/libquickjs.so": "535a179c2aafaad2e653b4f4944fe095eface9cc157897248f8b65f06ed3a9af",
+    "lib/arm64-v8a/libGadsmeAndroidPlugin.so": "3a774ffab25a3673e9e944fedc1091b239cccb4572b8b58e80f0bf8bec8940a3",
+    "lib/arm64-v8a/libFirebaseCppAnalytics.so": "fb1cfd21c9da0580ab4b9c3c39fc55cc5cac79d5998f66e94b7a16fd14c34e94",
+    "lib/arm64-v8a/libembrace-native.so": "ac087790662b455f24cdcf72542891823bcb8ce3d9dc143f3960957aa55ce36f",
+    "lib/arm64-v8a/libdatastore_shared_counter.so": "d3e48717c9aa147e0ab21063ba0e8e0211cabf8bf40b222640829519edbf58e1",
+    "lib/arm64-v8a/libquack.so": "d31ec32443fe7e57a08cbd10534def7c3943f9a9df8fb97aa25d945189b34b4b",
+    "lib/arm64-v8a/libcrashlytics-handler.so": "810521d2e125c4f87a8bd5fa70e73877dd832494acac9e9f86734258f359935f",
+    "lib/arm64-v8a/libBufferToPointer.so": "f6bf1b9423aa369b8298efa8bf621f3341292dfd095aa65687970b8c1a198689",
+    "lib/arm64-v8a/libpairipcore.so": "efd8c1d390215bd8cfce141635cd167a3ac8b0a7aa527018ffe09585728be408",
+    "lib/arm64-v8a/libmayo21.so": "8ef7dfa64e841a459b3d4b341196d7215a9b2bf922a51d4e0f616c9c39d4c925"
+  },
+  "native_libraries_with_16KB_APK_alignment": 1,
+  "all_23_native_libraries_byte_identical": true,
+  "gameplay_bundles_byte_identical": true,
+  "gameplay_bundle_sha256": {
+    "assets/bin/Data/data.unity3d": "05414ef6c84864f0f080633293476a7bbbf5dd39468ae80329830a91038e5650",
+    "assets/bin/Data/datapack.unity3d": "d0120fea04a48ac4ce562e2aa830fbfddd55e6626b372a91fb0c5b25178f8e59"
+  },
+  "new_validation": {
+    "dex36": {
+      "passed": true,
+      "binary_sha256": "d6d6ed39dacb15d7e550fae626c242039928fb6931a85bb5d24e7f60fd3d52bb",
+      "preserved_classes_before_release_label_update": 61,
+      "launcher_families": [
+        "LauncherIcon",
+        "LauncherMotion",
+        "StartupActivity"
+      ],
+      "all_other_class_code_preserved": true,
+      "release_label_updates": [
+        {
+          "before": "Build: MayoMods v35; app: ",
+          "after": "Build: MayoMods v36; app: "
+        },
+        {
+          "before": "MayoMods v35 \u2014 Android crash record\n\n",
+          "after": "MayoMods v36 \u2014 Android crash record\n\n"
+        },
+        {
+          "before": "MayoMods v35 \u2014 local crash diagnostics\n\nLAST RECORDED CRASH / ERROR\n",
+          "after": "MayoMods v36 \u2014 local crash diagnostics\n\nLAST RECORDED CRASH / ERROR\n"
+        },
+        {
+          "before": "MayoMods v35 \u2014 recorded error\n",
+          "after": "MayoMods v36 \u2014 recorded error\n"
+        }
+      ],
+      "label_update_preserves_every_code_item": true,
+      "original_play_method_preserved": true,
+      "smali_roundtrip": true,
+      "min_api": 25,
+      "source_sha256": {
+        "LauncherIcon.java": "658e5a92297d9de789c56adfcb7e1a3f03e6bdc6871b5da8af30f8dd94098a62",
+        "LauncherMotion.java": "477d2d653fc089ef43482e6f922e267a853e6c1ced86f895eaeb8210e00a2455",
+        "StartupActivity.java": "af0dad373e11e601dceed56f2ae4e3c4b72f6658d4e2cc82baf07e2a1b2f8dab",
+        "NativeCrashReader.java": "d1f65f068a3cdcfea680643e718fadc176ded0620516e83cfbef8f45c529e214",
+        "StartupProbe.java": "d9afdf21c5a584dbad20d1d3a6097d9820dba87d129dc23b0eba5542796222b2",
+        "FloatingDisplay.java": "e2b9cf79ad7a5e2771ce8a46fcde328fe2fe58c8321e767034863d9475e51938",
+        "CrashJournal.java": "07bf3fc7afcd826c86a54e056357743f5a2fa111754be916999545e7abb0cf6d",
+        "LifeSetupUI.java": "23a9a8eb150109d282b2db6b415b0f720ad97f70e710bcc89ad44af000d220da",
+        "RuntimeLogStore.java": "4cfe617d0fd9da97d3df3fcef484f300efa35070bb299775fdfa501dd48c57cc",
+        "TombstoneReader.java": "b7896e9707f45f751c463a13b19a6898067a5c167de996afb62e40b95faa24bb",
+        "DiagnosticsUI.java": "71a37e5a32a04c7bc985fd8c23a693116ecceff739c97f18f7fc05c9ac30a1e4",
+        "RuntimeLogCapture.java": "9baade8135fa3301e17aae97572e9bbb45e6a44a43c933a972d1309838bc167a",
+        "NamePackUI.java": "6444d147c9254f9aaa2eadda1fc6d24e561f006487b75ac7839d8ee7ed7f2b7f",
+        "PackCatalog.java": "9af83b9b085ec13d218470351d17db97ded7d8c515a6a6ce26254a04d326501a",
+        "PackFormat.java": "4860dfdfdb706c041f2bd976729f3c9b042fc29c48c6bcb636b00e2ddfe37e75"
+      },
+      "device_runtime_tested": false
+    },
+    "ui36": {
+      "passed": true,
+      "tests": 4,
+      "Android_API_levels": [
+        28,
+        33
+      ],
+      "framework": "Robolectric 4.14.1",
+      "graphics": "native Skia",
+      "actual_Android_views_executed": true,
+      "layout_widths": [
+        280,
+        360,
+        600
+      ],
+      "large_font_scale": 1.6,
+      "settings_back_and_persistent_toggles": true,
+      "interrupted_animation_and_lifecycle_recovery": true,
+      "source_sha256": {
+        "LauncherIcon.java": "658e5a92297d9de789c56adfcb7e1a3f03e6bdc6871b5da8af30f8dd94098a62",
+        "LauncherMotion.java": "477d2d653fc089ef43482e6f922e267a853e6c1ced86f895eaeb8210e00a2455",
+        "StartupActivity.java": "af0dad373e11e601dceed56f2ae4e3c4b72f6658d4e2cc82baf07e2a1b2f8dab"
+      },
+      "tests_sha256": "e2113b9dc2ba6fdb733f5c5cbfd52f7ab19aed3a5b4517d2eb480f36f924df7b",
+      "screenshot_sha256": "0bfcf3e1890a26c9a9baa0353baa60262f793646502e22fde91e958f7ca1bf91",
+      "ART_tested": false,
+      "device_tested": false,
+      "BlueStacks_tested": false
+    }
+  },
+  "retained_v35_validation": {
+    "retained_selectors35": {
+      "binary_sha256": "538a02a1ffad46e1a6020e33eeb6ef223c4e8b8765d072f7057c36ad3dc467ca",
+      "arm64_cases": 1068,
+      "aslr_biases": [
+        0,
+        68719476736
+      ],
+      "actual_Action_Invoke_executed": true,
+      "real_ELF_RW_and_BSS_initial_contents_loaded": true,
+      "actual_return_hook_and_RefreshSetup_executed": true,
+      "all_293_choices_executed": true,
+      "six_fields_directly_in_New_Life": true,
+      "stock_rounded_selector_prefab_and_scroller": true,
+      "short_labels": true,
+      "rapid_repeat_edits_and_stale_Actions_checked": true,
+      "same_controller_close_reopen_checked": true,
+      "all_UI_GC_roots_released_on_dismiss_and_birth": true,
+      "existing_genetic_engine_and_baby_growth_preserved": true,
+      "stock_Start_methods_unhooked": true,
+      "Unity_prefabs_collections_and_transition_timing_modeled": true,
+      "device_runtime_tested": false,
+      "BlueStacks_runtime_tested": false,
+      "passed": true
+    },
+    "retained_regressions35": {
+      "passed": true,
+      "arm64_cases": 1672,
+      "binary_sha256": "538a02a1ffad46e1a6020e33eeb6ef223c4e8b8765d072f7057c36ad3dc467ca",
+      "interrupted_return_retry": true,
+      "partial_list_cleanup": true,
+      "selected_relative_interleaving": true,
+      "new_life_context_replacement": true,
+      "all_102_game_countries": true,
+      "stable_existing_country_IDs": true,
+      "native_icon_texture_assignment": true,
+      "aslr_biases": [
+        0,
+        68719476736
+      ],
+      "Unity_GC_prefabs_and_rendering_modeled": true,
+      "device_runtime_tested": false
+    },
+    "country35": {
+      "passed": true,
+      "binary_sha256": "538a02a1ffad46e1a6020e33eeb6ef223c4e8b8765d072f7057c36ad3dc467ca",
+      "arm64_cases": 1104,
+      "profiles": 106,
+      "aslr_biases": [
+        0,
+        68719476736
+      ],
+      "existing_farm_location_preserved": true,
+      "regional_override_preserved": true,
+      "unknown_country_and_missing_country_checked": true,
+      "all_GPR_vector_registers_and_stack_restored": true,
+      "country_profiles_are_simplified_gameplay_baselines": true,
+      "device_runtime_tested": false
+    },
+    "gameplay35": {
+      "passed": true,
+      "binary_sha256": "538a02a1ffad46e1a6020e33eeb6ef223c4e8b8765d072f7057c36ad3dc467ca",
+      "assets_sha256": "67581f13ee0023d8b4bda3ccd04faa59b891ce92c02a7e15903ec2a362bad2b8",
+      "model_checks": 1762,
+      "new_scenarios": 143,
+      "cost_age_and_inventory_guards_checked": true,
+      "duplicate_income_and_rewards_checked": true,
+      "crop_bankruptcy_commits_before_dialog_close": true,
+      "academy_enrollment_requires_acceptance": true,
+      "reserved_native_triggers_executed_in_ARM64": true,
+      "scene_expression_parser_banking_and_serialization_modeled": true,
+      "device_runtime_tested": false
+    },
+    "content35": {
+      "new_scenarios": 143,
+      "new_assets": [
+        "genesis_v18_traits35",
+        "genesis_v18_family35",
+        "genesis_v18_drugshop35",
+        "genesis_v18_armshop35",
+        "genesis_v18_franchises35",
+        "genesis_v18_community35",
+        "genesis_v18_defaults_community35"
+      ],
+      "modified_assets": [
+        "genesis_activities_v18",
+        "genesis_feature_containers",
+        "genesis_v9_school_v9",
+        "genesis_v18_life_v18",
+        "genesis_v18_storm_career19"
+      ],
+      "trait_count": 12,
+      "relative_count": 6,
+      "drug_count": 4,
+      "weapon_count": 6,
+      "franchise_markets": 5,
+      "old_scenario_IDs_retained": true,
+      "passed": true,
+      "datapack_sha256": "d0120fea04a48ac4ce562e2aa830fbfddd55e6626b372a91fb0c5b25178f8e59",
+      "data_sha256": "05414ef6c84864f0f080633293476a7bbbf5dd39468ae80329830a91038e5650",
+      "added_TextAssets": {
+        "genesis_v18_traits35": 37710,
+        "genesis_v18_family35": 37711,
+        "genesis_v18_drugshop35": 37712,
+        "genesis_v18_armshop35": 37713,
+        "genesis_v18_franchises35": 37714,
+        "genesis_v18_community35": 37715,
+        "genesis_v18_defaults_community35": 37716
+      },
+      "preserved_Unity_objects": 50519,
+      "all_other_objects_byte_identical": true,
+      "original_resource_paths_preserved": true,
+      "original_scenarios_preserved": true,
+      "new_scenarios_in_shipped_genesis_schema": true
+    }
+  },
+  "retained_checks_not_rerun_because_native_and_game_assets_are_byte_identical": true,
+  "original_game_launch_and_crash_logging_code_preserved": true,
+  "reference_launcher_layout_restored": true,
+  "main_page_display_toggles_and_position_resets": true,
+  "expanded_session_panel_by_default": true,
+  "existing_v35_gameplay_preserved": true,
+  "Android_UI_tested_in_JVM_native_Skia": true,
+  "ART_verifier_tested": false,
+  "device_runtime_tested": false,
+  "BlueStacks_runtime_tested": false,
+  "RocketGames_loading_error_unresolved": true
+}

@@ -1,0 +1,146 @@
+{
+  "passed": true,
+  "version": "v44",
+  "versionCode": 1088,
+  "sha256": "27628db7928ad64f492d61e4da0e42d59594cedd279a6c24dc049b4c34389bff",
+  "bytes": 334364537,
+  "changed_entries": [
+    "AndroidManifest.xml",
+    "lib/arm64-v8a/libil2cpp.so",
+    "assets/bin/Data/data.unity3d",
+    "assets/bin/Data/datapack.unity3d"
+  ],
+  "preserved_entries": 2772,
+  "existing_signer_retained": true,
+  "signature_verification": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]",
+  "all_Dex_and_other_22_native_libraries_preserved": true,
+  "only_declared_native_edit_ranges": true,
+  "stored_entry_alignment_verified": true,
+  "manifest_version": {
+    "previous": 1087,
+    "current": 1088,
+    "byte_offset": 33508,
+    "other_manifest_bytes_preserved": true
+  },
+  "validation": {
+    "native44": {
+      "passed": true,
+      "binary_sha256": "0f9531adb50a833bde7bfdae0a60ad243b4e43db7eebeb3600ae57398ce72a12",
+      "arm64_checks": 1330,
+      "ASLR_biases": [
+        0,
+        68719476736
+      ],
+      "all_27_purchase_and_equip_paths": true,
+      "era_boundaries_and_rotating_stock": true,
+      "atomic_funds_and_duplicate_purchase_guards": true,
+      "independent_slots_and_three_outfits": true,
+      "preview_excluded_from_saved_outfit": true,
+      "starting_year_native_picker": true,
+      "serialized_save_reload_fixture": true,
+      "Unity_managed_APIs_and_bank_implementation_mocked": true,
+      "physical_device_tested": false
+    },
+    "content44": {
+      "passed": true,
+      "accessories": 27,
+      "user_assets": 23,
+      "new_original_assets": 4,
+      "new_Texture2D_and_Sprite_objects": 54,
+      "added_TextAssets": {
+        "genesis_v18_era44_stock0": 38451,
+        "genesis_v18_era44_vintage0": 38452,
+        "genesis_v18_era44_stock1": 38453,
+        "genesis_v18_era44_vintage1": 38454,
+        "genesis_v18_era44_stock2": 38455,
+        "genesis_v18_era44_vintage2": 38456,
+        "genesis_v18_era44_stock3": 38457,
+        "genesis_v18_era44_vintage3": 38458,
+        "genesis_v18_era44_regional": 38459,
+        "genesis_v18_era44_owned": 38460,
+        "genesis_v18_era44": 38461,
+        "genesis_v18_defaults_era44": 38462
+      },
+      "modified_TextAssets": 3,
+      "all_unedited_Unity_objects_preserved": true,
+      "all_existing_resource_paths_preserved": true,
+      "all_accessory_texture_pixel_roundtrips_verified": true,
+      "datapack_sha256": "adf8293e1fedb1f3dc4de9fa5c2a2ac52682d5d22544a6c9928ec18cb41465aa",
+      "data_sha256": "38271fe7ca52b62f1836f127ec333ff0f75b064c1bcb2f81667c0c6eee8df2da",
+      "device_rendering_tested": false
+    },
+    "retained44": {
+      "passed": true,
+      "binary_sha256": "0f9531adb50a833bde7bfdae0a60ad243b4e43db7eebeb3600ae57398ce72a12",
+      "checks": 3463,
+      "reports": {
+        "gameplay41_native": {
+          "passed": true,
+          "arm64_checks": 93,
+          "binary_sha256": "0f9531adb50a833bde7bfdae0a60ad243b4e43db7eebeb3600ae57398ce72a12",
+          "test_sha256": "56ffbc2dcacf0cc8a3b367c61e0afd3413096f9a6a69d75dc288ad27b9411962",
+          "real_prison_conduct_instructions_executed": true,
+          "arrest_creation_and_Unity_UI_mocked": true,
+          "parole_board_matches_disassembled_stock_thresholds": true,
+          "checkin_warrant_and_expiry_checked": true,
+          "aslr_biases": [
+            0,
+            68719476736
+          ],
+          "device_runtime_tested": false
+        },
+        "retained40": {
+          "passed": true,
+          "retained_arm64_behavior_checks": 76,
+          "binary_sha256": "0f9531adb50a833bde7bfdae0a60ad243b4e43db7eebeb3600ae57398ce72a12",
+          "old_career_and_sentencing_cases_retained": true,
+          "Unity_and_allocation_mocked": true,
+          "device_runtime_tested": false
+        },
+        "native34": {
+          "binary_sha256": "0f9531adb50a833bde7bfdae0a60ad243b4e43db7eebeb3600ae57398ce72a12",
+          "arm64_cases": 1082,
+          "aslr_biases": [
+            0,
+            68719476736
+          ],
+          "actual_Action_Invoke_executed": true,
+          "real_ELF_RW_and_BSS_initial_contents_loaded": true,
+          "actual_return_hook_and_RefreshSetup_executed": true,
+          "all_293_choices_executed": true,
+          "six_fields_directly_in_New_Life": true,
+          "stock_rounded_selector_prefab_and_scroller": true,
+          "short_labels": true,
+          "rapid_repeat_edits_and_stale_Actions_checked": true,
+          "same_controller_close_reopen_checked": true,
+          "all_UI_GC_roots_released_on_dismiss_and_birth": true,
+          "existing_genetic_engine_and_baby_growth_preserved": true,
+          "stock_Start_methods_unhooked": true,
+          "Unity_prefabs_collections_and_transition_timing_modeled": true,
+          "device_runtime_tested": false,
+          "BlueStacks_runtime_tested": false
+        },
+        "native43": {
+          "passed": true,
+          "binary_sha256": "0f9531adb50a833bde7bfdae0a60ad243b4e43db7eebeb3600ae57398ce72a12",
+          "arm64_checks": 2212,
+          "ASLR_biases": [
+            0,
+            68719476736
+          ],
+          "all_360_styles_shuffled_actual_component_lists": true,
+          "missing_ID_negative_control": true,
+          "cache_recovery_and_idempotence": true,
+          "custom_clone_tint_preservation": true,
+          "all_15_picker_choices": true,
+          "Unity_and_managed_string_implementation_mocked": true,
+          "physical_device_tested": false
+        }
+      },
+      "physical_device_tested": false
+    }
+  },
+  "physical_phone_tested": false,
+  "ART_tested": false,
+  "Unity_rendering_tested": false
+}

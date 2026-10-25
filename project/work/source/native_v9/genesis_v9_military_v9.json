@@ -1,0 +1,194 @@
+{
+  "ListID": "genesis_v9_military_v9",
+  "Title": "BRANCH OPERATIONS",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Service Record",
+      "Icon": "clipboard",
+      "SecondLine": "Refresh and review skills and qualifications",
+      "TileID": "v9_military_v9file",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=military_v9:NativeMilitarySync:=1>>scenario.activitiesV9.military_v9file",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Fitness Training",
+      "Icon": "rescue-helmet",
+      "SecondLine": "",
+      "TileID": "v9_military_v9fitness",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=military_v9:NativeMilitarySync:=1>>scenario.activitiesV9.military_v9fitness",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Strategy Classroom",
+      "Icon": "rescue-helmet",
+      "SecondLine": "",
+      "TileID": "v9_military_v9strategy",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=military_v9:NativeMilitarySync:=1>>scenario.activitiesV9.military_v9strategy",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Combat Training",
+      "Icon": "rescue-helmet",
+      "SecondLine": "",
+      "TileID": "v9_military_v9combat",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=military_v9:NativeMilitarySync:=1>>scenario.activitiesV9.military_v9combat",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Allied Training Tour",
+      "Icon": "rescue-helmet",
+      "SecondLine": "",
+      "TileID": "v9_military_v9tour",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=military_v9:NativeMilitarySync:=1>>scenario.activitiesV9.military_v9tour",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Special Forces Qualification",
+      "Icon": "rescue-helmet",
+      "SecondLine": "",
+      "TileID": "v9_military_v9special",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=military_v9:NativeMilitarySync:=1>>scenario.activitiesV9.military_v9special",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Unit Martial Arts",
+      "Icon": "rescue-helmet",
+      "SecondLine": "",
+      "TileID": "v9_military_v9martial",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=military_v9:NativeMilitarySync:=1>>scenario.activitiesV9.military_v9martial",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Air interception simulator",
+      "Icon": "airplane",
+      "SecondLine": "Three-stage decision simulator",
+      "TileID": "v9_military_v9air",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=military_v9:NativeMilitarySync:=1>>scenario.activitiesV9.military_v9air",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Ocean patrol simulator",
+      "Icon": "sailboat",
+      "SecondLine": "Three-stage decision simulator",
+      "TileID": "v9_military_v9navy",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=military_v9:NativeMilitarySync:=1>>scenario.activitiesV9.military_v9navy",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Marine patrol decisions",
+      "Icon": "rescue-helmet",
+      "SecondLine": "Three-stage decision simulator",
+      "TileID": "v9_military_v9marines",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=military_v9:NativeMilitarySync:=1>>scenario.activitiesV9.military_v9marines",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Minefield logic exercise",
+      "Icon": "clipboard",
+      "SecondLine": "Three-stage decision simulator",
+      "TileID": "v9_military_v9army",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=military_v9:NativeMilitarySync:=1>>scenario.activitiesV9.military_v9army",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

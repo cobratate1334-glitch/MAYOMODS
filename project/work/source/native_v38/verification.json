@@ -1,0 +1,149 @@
+{
+  "version": "v38",
+  "apk": "/workspace/scratch/26a4eb37d56a/deliverables/BitLife_MayoMods_v38.apk",
+  "sha256": "600ec209600b2784efa024cb7a24fced71d3b34b77c499bccf1eac4b320cbc87",
+  "size": 307388488,
+  "versionCode": 1082,
+  "base_sha256": "01fcbf77e9898ee2f71b698d86d6d1eba992e963a670f984d90acbebfcbe2bb3",
+  "manifest_version": {
+    "previous": 1081,
+    "current": 1082,
+    "byte_offset": 33508,
+    "other_manifest_bytes_preserved": true
+  },
+  "changed_apk_entries": [
+    "AndroidManifest.xml",
+    "assets/bin/Data/data.unity3d",
+    "assets/bin/Data/datapack.unity3d",
+    "classes13.dex"
+  ],
+  "preserved_apk_entries": 2772,
+  "signing": {
+    "VerifyApk.java": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]",
+    "VerifyNativeSigner.java": "verified=true; actual APK signer matches native SHA-1 check; fingerprint=N3gA1+wRR7rLi+T23e/U4BZZu9Q="
+  },
+  "existing_signer_retained": true,
+  "all_23_native_libraries_byte_identical": true,
+  "native_libraries": {
+    "lib/arm64-v8a/libRocketGames.so": "89e181eae98c44623c40f2732e8c0a899fa318b907576daf588159121b6764cb",
+    "lib/arm64-v8a/libRocketGamesTool.so": "b906d287ea300bc45f4bbc5de1826b96f683bc6c1f9742cae2b9af619506691f",
+    "lib/arm64-v8a/libil2cpp.so": "538a02a1ffad46e1a6020e33eeb6ef223c4e8b8765d072f7057c36ad3dc467ca",
+    "lib/arm64-v8a/libAsyncGPUReadbackPlugin.so": "7ceb04c6c42668e403e2607d34df1f129a003640ec93efcf2250f2762be98083",
+    "lib/arm64-v8a/libapplovin-native-crash-reporter.so": "ecf2a7327be482870f4c791392a50cecfeaabb2c76a7224898e9713a18c4c36a",
+    "lib/arm64-v8a/libmain.so": "ea04624f7afb2a4e426ddb8215651100c5c1d04456c2b9ca533cba943d2666e8",
+    "lib/arm64-v8a/libcrashlytics-common.so": "db3c33bc6e1c0d049466280c32bd7419f9708f53ca8f5f95d584ef281996918f",
+    "lib/arm64-v8a/libunity.so": "8275e81f19c467314182c43aa6e3e90d6bc43c8fe76c437fe5ed7cc9fb9ac024",
+    "lib/arm64-v8a/libcrashlytics.so": "cad4bd6e1a6fb97cea9d02ac3f2c9c0e90c62064f7b018cf26b0a806e1489b6e",
+    "lib/arm64-v8a/libcrashlytics-trampoline.so": "811584e54eed37e92c84beb6c66c12bc6cfaa864c53db2bbb96878d95b516d60",
+    "lib/arm64-v8a/libFirebaseCppCrashlytics.so": "9dae132e917d17e3415de3752e4c2860f5b9f3e0b5370e4a76237771536493bd",
+    "lib/arm64-v8a/libFirebaseCppMessaging.so": "7d5a37744d6796eaecb5eaa09be8732b70f35f098c60819956b8718bbafca9e9",
+    "lib/arm64-v8a/libFirebaseCppApp-12_10_1.so": "eb2beed5455cabddb5833165b3d9e1a77b78acf6625449ad5edf2f3b1cd1d776",
+    "lib/arm64-v8a/libquickjs.so": "535a179c2aafaad2e653b4f4944fe095eface9cc157897248f8b65f06ed3a9af",
+    "lib/arm64-v8a/libGadsmeAndroidPlugin.so": "3a774ffab25a3673e9e944fedc1091b239cccb4572b8b58e80f0bf8bec8940a3",
+    "lib/arm64-v8a/libFirebaseCppAnalytics.so": "fb1cfd21c9da0580ab4b9c3c39fc55cc5cac79d5998f66e94b7a16fd14c34e94",
+    "lib/arm64-v8a/libembrace-native.so": "ac087790662b455f24cdcf72542891823bcb8ce3d9dc143f3960957aa55ce36f",
+    "lib/arm64-v8a/libdatastore_shared_counter.so": "d3e48717c9aa147e0ab21063ba0e8e0211cabf8bf40b222640829519edbf58e1",
+    "lib/arm64-v8a/libquack.so": "d31ec32443fe7e57a08cbd10534def7c3943f9a9df8fb97aa25d945189b34b4b",
+    "lib/arm64-v8a/libcrashlytics-handler.so": "810521d2e125c4f87a8bd5fa70e73877dd832494acac9e9f86734258f359935f",
+    "lib/arm64-v8a/libBufferToPointer.so": "f6bf1b9423aa369b8298efa8bf621f3341292dfd095aa65687970b8c1a198689",
+    "lib/arm64-v8a/libpairipcore.so": "efd8c1d390215bd8cfce141635cd167a3ac8b0a7aa527018ffe09585728be408",
+    "lib/arm64-v8a/libmayo21.so": "8ef7dfa64e841a459b3d4b341196d7215a9b2bf922a51d4e0f616c9c39d4c925"
+  },
+  "mod_menu_advertising_removal_preserved": true,
+  "all_DEX_code_items_and_Play_preserved": true,
+  "only_DEX_release_labels_changed": true,
+  "all_previous_scenarios_and_feature_items_preserved": true,
+  "validation": {
+    "content38": {
+      "new_scenarios": 23,
+      "new_assets": [
+        "genesis_v18_stalker38",
+        "genesis_v18_defaults_stalker38"
+      ],
+      "modified_assets": [
+        "genesis_activities_v18",
+        "genesis_feature_containers",
+        "genesis_v18_community35"
+      ],
+      "owner": "stalker38",
+      "new_saved_properties": 21,
+      "adult_only": true,
+      "abstract_fiction": true,
+      "existing_scenarios_preserved": true,
+      "passed": true,
+      "datapack_sha256": "a76a9c69fd3d220bd9d1d769a0ac333896fc2af506310ffd8de6c1e3893504c3",
+      "data_sha256": "31fec573de155e43166787e5f601b2cbc739e5a81c9e6a5dda09909fd22f724e",
+      "assets_sha256": "8e2059eb99bf0d480c18925bcb5c2469deabfcfe39be33027c6be21960af8f3d",
+      "added_TextAssets": {
+        "genesis_v18_stalker38": 37717,
+        "genesis_v18_defaults_stalker38": 37718
+      },
+      "modified_TextAssets": 3,
+      "all_other_Unity_objects_byte_identical": true,
+      "all_original_resource_paths_preserved": true,
+      "all_original_scenario_rows_preserved": true,
+      "physical_device_tested": false,
+      "Unity_rendering_modeled": true
+    },
+    "story38": {
+      "passed": true,
+      "checks": 489,
+      "new_scenarios": 23,
+      "binary_sha256": "538a02a1ffad46e1a6020e33eeb6ef223c4e8b8765d072f7057c36ad3dc467ca",
+      "assets_sha256": "8e2059eb99bf0d480c18925bcb5c2469deabfcfe39be33027c6be21960af8f3d",
+      "author_source_sha256": "702e1377b195367f05d809f2de2a74aee67acc31751ef0c1de6d736e895c1848",
+      "test_source_sha256": "6be5f886e9ea4e3bef6d18dba7fde43d25ab5d1f59ede83cd81e22668af3e455",
+      "all_100_rolls_checked": true,
+      "cached_results_no_rerolls": true,
+      "dismiss_and_reentry_cannot_reset_state": true,
+      "adult_mutation_gates_checked": true,
+      "per_age_limits_and_clock_checked": true,
+      "retirement_preserves_evidence": true,
+      "case_and_ending_irreversible": true,
+      "representation_affordability_and_duplicate_payment_checked": true,
+      "save_reload_and_fresh_life_modeled": true,
+      "actual_retained_ARM64_random_bridge_executed": true,
+      "scene_parser_banking_and_serialization_modeled": true,
+      "physical_device_tested": false,
+      "ART_tested": false
+    },
+    "labels38": {
+      "passed": true,
+      "sha256": "38deb70f8e65021a7bbed152d6fa2094ab02db8dc3f76827ecb37d6eb8b01aa2",
+      "source_sha256": "229e67f704d5a74df9577fca1b9ae7413f1bb2ad435631976b3cd5000db9fa5d",
+      "release_label_updates": [
+        {
+          "before": "Build: MayoMods v37; app: ",
+          "after": "Build: MayoMods v38; app: "
+        },
+        {
+          "before": "MayoMods v37 \u2014 Android crash record\n\n",
+          "after": "MayoMods v38 \u2014 Android crash record\n\n"
+        },
+        {
+          "before": "MayoMods v37 \u2014 local crash diagnostics\n\nLAST RECORDED CRASH / ERROR\n",
+          "after": "MayoMods v38 \u2014 local crash diagnostics\n\nLAST RECORDED CRASH / ERROR\n"
+        },
+        {
+          "before": "MayoMods v37 \u2014 recorded error\n",
+          "after": "MayoMods v38 \u2014 recorded error\n"
+        },
+        {
+          "before": "New Life & Crash Diagnostics \u00b7 v37",
+          "after": "New Life & Crash Diagnostics \u00b7 v38"
+        }
+      ],
+      "every_code_item_byte_identical": true,
+      "original_Play_method_and_callbacks_preserved": true,
+      "DEX_string_order_checksums_and_metadata_checked": true,
+      "ART_tested": false
+    }
+  },
+  "new_path_is_saved_fictional_story": true,
+  "stock_murder_and_prison_mechanics_unchanged": true,
+  "scene_parser_finances_save_reload_and_Unity_rendering_modeled": true,
+  "physical_device_tested": false,
+  "ART_tested": false,
+  "BlueStacks_tested": false,
+  "earlier_native_loading_failure_unresolved": true
+}

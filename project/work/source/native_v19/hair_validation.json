@@ -1,0 +1,11 @@
+{
+  "arm64_cases": 1258,
+  "all_added_portrait_links": true,
+  "aslr_biases": [
+    0,
+    68719476736
+  ],
+  "preserved_registers": true,
+  "binary_sha256": "f40c4ccb07e18f8ecb374088028b47f858906ff7bb2282458b6f20b8be8cd3cd",
+  "device_runtime_tested": false
+}

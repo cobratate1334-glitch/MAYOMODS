@@ -1,0 +1,19 @@
+{
+  "binary_sha256": "6b06aefe61cfc32b6074fe5389956117ce785b8a605fde265578d104a81fe92f",
+  "arm64_cases": 82,
+  "actual_prefab_and_metadata_verified": true,
+  "old_v25_missing_buttons_reproduced": true,
+  "exact_fitter_namespace_verified": true,
+  "actual_public_GetComponent_executed": true,
+  "actual_stock_AddDriver_executed": true,
+  "actual_stock_UpdateConstraint_executed": true,
+  "hidden_prefab_activated": true,
+  "both_controls_in_scroll_height": true,
+  "royalty_visibility_changes": true,
+  "repeated_refresh_without_duplicates": true,
+  "aslr_biases": [
+    0,
+    68719476736
+  ],
+  "device_runtime_tested": false
+}

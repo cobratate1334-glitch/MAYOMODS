@@ -1,0 +1,97 @@
+{
+  "ListID": "genesis_v7_job_user_experience_designer",
+  "Title": "USER EXPERIENCE DESIGNER PROJECTS",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Project Dashboard",
+      "Icon": "clipboard",
+      "SecondLine": "Completed: <GFC.job_user_experience_designer.Projects>",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_user_experience_designer:NativeCareerSync:=1>>scenario.careersV7.job_user_experience_designerdeliver",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "BarGraph": {
+        "Title": "Quality",
+        "Value": "<GFC.job_user_experience_designer.Quality>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v9_genesis_v7_job_user_experience_designer_0"
+    },
+    {
+      "Title": "Interview users",
+      "Icon": "memo",
+      "SecondLine": "Project stage 1",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_user_experience_designer:NativeCareerSync:=1>>scenario.careersV7.job_user_experience_designer1",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_user_experience_designer_1"
+    },
+    {
+      "Title": "Test an accessible prototype",
+      "Icon": "memo",
+      "SecondLine": "Project stage 2",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_user_experience_designer:NativeCareerSync:=1>>scenario.careersV7.job_user_experience_designer2",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_user_experience_designer_2"
+    },
+    {
+      "Title": "Present design findings",
+      "Icon": "memo",
+      "SecondLine": "Project stage 3",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_user_experience_designer:NativeCareerSync:=1>>scenario.careersV7.job_user_experience_designer3",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_user_experience_designer_3"
+    },
+    {
+      "Title": "Submit and Review",
+      "Icon": "chart-bar",
+      "SecondLine": "Turn project progress into job performance",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_user_experience_designer:NativeCareerSync:=1>>scenario.careersV7.job_user_experience_designerdeliver",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_user_experience_designer_4"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "passed": true,
+  "binary_sha256": "5b74ac2ac714fedb57098c8cf03b849ff4ab751460012e3d28733995be03b4c8",
+  "checks": 15319,
+  "reports": {
+    "native47": {
+      "passed": true,
+      "checks": 751,
+      "binary_sha256": "5b74ac2ac714fedb57098c8cf03b849ff4ab751460012e3d28733995be03b4c8",
+      "native_post_channels": 8,
+      "custom_post_channels": 2,
+      "pack_records": 17955,
+      "real_native_String_Concat_executed": true,
+      "aslr_biases": [
+        0,
+        68719476736
+      ],
+      "volatile_registers_clobbered": true,
+      "saved_threads_reloaded": true,
+      "bounded_history": 24,
+      "stale_clicks_rejected": true,
+      "physical_phone_tested": false,
+      "Unity_rendering_tested": false
+    },
+    "native46": {
+      "passed": true,
+      "binary_sha256": "5b74ac2ac714fedb57098c8cf03b849ff4ab751460012e3d28733995be03b4c8",
+      "checks": 841,
+      "ASLR_bases": [
+        0,
+        68719476736
+      ],
+      "native_ScenarioBase_choice_entries_tested": true,
+      "all_dealer_buttons_navigate": true,
+      "native_car_column_bounds_negative_control": true,
+      "region_country_register_negative_control": true,
+      "native_theme_Color_ABI_checked": true,
+      "modeled_boundaries": [
+        "Unity rendering and prefab allocation",
+        "managed APIs",
+        "Genesis scenario loader/list presentation",
+        "bank adjustment"
+      ],
+      "full_Unity_engine_tested": false,
+      "physical_device_tested": false
+    },
+    "native45": {
+      "passed": true,
+      "binary_sha256": "5b74ac2ac714fedb57098c8cf03b849ff4ab751460012e3d28733995be03b4c8",
+      "arm64_checks": 8934,
+      "ASLR_bases": [
+        0,
+        68719476736
+      ],
+      "new_car_models": 40,
+      "new_house_types": 8,
+      "new_sprite_routes": 17,
+      "native_finance_and_owned_lookups_unchanged": true,
+      "modeled_boundaries": [
+        "Genesis storage",
+        "Unity Resources.Load<Sprite>",
+        "native car/house lookup"
+      ],
+      "physical_device_tested": false,
+      "Unity_rendering_tested": false
+    },
+    "native44": {
+      "passed": true,
+      "binary_sha256": "5b74ac2ac714fedb57098c8cf03b849ff4ab751460012e3d28733995be03b4c8",
+      "arm64_checks": 1330,
+      "ASLR_biases": [
+        0,
+        68719476736
+      ],
+      "all_27_purchase_and_equip_paths": true,
+      "era_boundaries_and_rotating_stock": true,
+      "atomic_funds_and_duplicate_purchase_guards": true,
+      "independent_slots_and_three_outfits": true,
+      "preview_excluded_from_saved_outfit": true,
+      "starting_year_native_picker": true,
+      "serialized_save_reload_fixture": true,
+      "Unity_managed_APIs_and_bank_implementation_mocked": true,
+      "physical_device_tested": false
+    },
+    "native43": {
+      "passed": true,
+      "binary_sha256": "5b74ac2ac714fedb57098c8cf03b849ff4ab751460012e3d28733995be03b4c8",
+      "arm64_checks": 2212,
+      "ASLR_biases": [
+        0,
+        68719476736
+      ],
+      "all_360_styles_shuffled_actual_component_lists": true,
+      "missing_ID_negative_control": true,
+      "cache_recovery_and_idempotence": true,
+      "custom_clone_tint_preservation": true,
+      "all_15_picker_choices": true,
+      "Unity_and_managed_string_implementation_mocked": true,
+      "physical_device_tested": false
+    },
+    "native34": {
+      "binary_sha256": "5b74ac2ac714fedb57098c8cf03b849ff4ab751460012e3d28733995be03b4c8",
+      "arm64_cases": 1082,
+      "aslr_biases": [
+        0,
+        68719476736
+      ],
+      "actual_Action_Invoke_executed": true,
+      "real_ELF_RW_and_BSS_initial_contents_loaded": true,
+      "actual_return_hook_and_RefreshSetup_executed": true,
+      "all_293_choices_executed": true,
+      "six_fields_directly_in_New_Life": true,
+      "stock_rounded_selector_prefab_and_scroller": true,
+      "short_labels": true,
+      "rapid_repeat_edits_and_stale_Actions_checked": true,
+      "same_controller_close_reopen_checked": true,
+      "all_UI_GC_roots_released_on_dismiss_and_birth": true,
+      "existing_genetic_engine_and_baby_growth_preserved": true,
+      "stock_Start_methods_unhooked": true,
+      "Unity_prefabs_collections_and_transition_timing_modeled": true,
+      "device_runtime_tested": false,
+      "BlueStacks_runtime_tested": false
+    },
+    "gameplay41_native": {
+      "passed": true,
+      "arm64_checks": 93,
+      "binary_sha256": "5b74ac2ac714fedb57098c8cf03b849ff4ab751460012e3d28733995be03b4c8",
+      "test_sha256": "56ffbc2dcacf0cc8a3b367c61e0afd3413096f9a6a69d75dc288ad27b9411962",
+      "real_prison_conduct_instructions_executed": true,
+      "arrest_creation_and_Unity_UI_mocked": true,
+      "parole_board_matches_disassembled_stock_thresholds": true,
+      "checkin_warrant_and_expiry_checked": true,
+      "aslr_biases": [
+        0,
+        68719476736
+      ],
+      "device_runtime_tested": false
+    },
+    "retained40": {
+      "passed": true,
+      "retained_arm64_behavior_checks": 76,
+      "binary_sha256": "5b74ac2ac714fedb57098c8cf03b849ff4ab751460012e3d28733995be03b4c8",
+      "old_career_and_sentencing_cases_retained": true,
+      "Unity_and_allocation_mocked": true,
+      "device_runtime_tested": false
+    }
+  },
+  "comparison_input": "pinned released v50",
+  "physical_phone_tested": false,
+  "Unity_rendering_tested": false
+}

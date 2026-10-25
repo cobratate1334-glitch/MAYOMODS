@@ -1,0 +1,97 @@
+{
+  "ListID": "genesis_v7_job_digital_archivist",
+  "Title": "DIGITAL ARCHIVIST PROJECTS",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Project Dashboard",
+      "Icon": "clipboard",
+      "SecondLine": "Completed: <GFC.job_digital_archivist.Projects>",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_digital_archivist:NativeCareerSync:=1>>scenario.careersV7.job_digital_archivistdeliver",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "BarGraph": {
+        "Title": "Quality",
+        "Value": "<GFC.job_digital_archivist.Quality>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v9_genesis_v7_job_digital_archivist_0"
+    },
+    {
+      "Title": "Plan digital preservation",
+      "Icon": "memo",
+      "SecondLine": "Project stage 1",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_digital_archivist:NativeCareerSync:=1>>scenario.careersV7.job_digital_archivist1",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_digital_archivist_1"
+    },
+    {
+      "Title": "Check file integrity",
+      "Icon": "memo",
+      "SecondLine": "Project stage 2",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_digital_archivist:NativeCareerSync:=1>>scenario.careersV7.job_digital_archivist2",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_digital_archivist_2"
+    },
+    {
+      "Title": "Publish the collection catalogue",
+      "Icon": "memo",
+      "SecondLine": "Project stage 3",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_digital_archivist:NativeCareerSync:=1>>scenario.careersV7.job_digital_archivist3",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_digital_archivist_3"
+    },
+    {
+      "Title": "Submit and Review",
+      "Icon": "chart-bar",
+      "SecondLine": "Turn project progress into job performance",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_digital_archivist:NativeCareerSync:=1>>scenario.careersV7.job_digital_archivistdeliver",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_digital_archivist_4"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "arm64_cases": 86,
+  "binary_sha256": "99d70c773b40587f2b6fb357308f57e1ed0a143ad4661a90bc328cffc2cf2374",
+  "aslr_biases": [
+    0,
+    68719476736
+  ],
+  "v32_negative_controls": [
+    {
+      "aslr_bias": 0,
+      "actual_stock_RefreshUI_executed": true,
+      "hidden_nav_remained_hidden": true
+    },
+    {
+      "aslr_bias": 68719476736,
+      "actual_stock_RefreshUI_executed": true,
+      "hidden_nav_remained_hidden": true
+    }
+  ],
+  "actual_UIManager_RefreshUI_body_executed": true,
+  "stock_widget_updates_and_caller_arguments_preserved": true,
+  "hidden_top_menu_restored_after_dialog_or_menu_closes": true,
+  "repeated_refresh_is_idempotent": true,
+  "active_scenario_Darkly_menu_and_pending_translation_do_not_reveal_nav": true,
+  "accessibility_focus_only_on_recovery": true,
+  "null_and_destroyed_component_guards_checked": true,
+  "Unity_and_child_widget_boundaries_modeled": true,
+  "complete_therapist_event_reproduced": false,
+  "device_runtime_tested": false,
+  "BlueStacks_runtime_tested": false
+}

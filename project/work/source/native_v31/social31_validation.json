@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "checks": 5,
+  "binary_sha256": "2ccd442cde826fbad1318fccd93811b656caf65c6cdd39160c8034fa5bfda615",
+  "actual_Mod_menu_prefix_executed": true,
+  "exact_creator_URLs": true,
+  "settings_menu_unchanged": true,
+  "stock_ButtonLink_click_uses_ACTION_VIEW_Uri_parse_startActivity": true,
+  "Android_runtime_tested": false
+}

@@ -1,0 +1,1635 @@
+{
+  "genesis_music_studio_hub": [
+    {
+      "title": "Studio Profile",
+      "before": "hero",
+      "after": "clipboard"
+    },
+    {
+      "title": "New Project",
+      "before": "cd",
+      "after": "hammer"
+    },
+    {
+      "title": "Release Catalogue",
+      "before": "cd",
+      "after": "memo"
+    },
+    {
+      "title": "Equipment",
+      "before": "imac",
+      "after": "gear"
+    },
+    {
+      "title": "Royalties",
+      "before": "money-bag",
+      "after": "bank"
+    },
+    {
+      "title": "Record Label",
+      "before": "cd",
+      "after": "scroll"
+    }
+  ],
+  "genesis_music_studio_project": [
+    {
+      "title": "<GFC.music_studio.ProjectTitle>",
+      "before": "cd",
+      "after": "mic-studio"
+    },
+    {
+      "title": "Songwriting",
+      "before": "memo",
+      "after": "musical-notes"
+    },
+    {
+      "title": "Recording",
+      "before": "mic",
+      "after": "clipboard"
+    },
+    {
+      "title": "Shelve Project",
+      "before": "hand-waving",
+      "after": "hammer"
+    },
+    {
+      "title": "Back to Music Studio",
+      "before": "mic-studio",
+      "after": "memo"
+    }
+  ],
+  "genesis_music_studio_catalog": [
+    {
+      "title": "<GFC.music_studio.Catalog1Title>",
+      "before": "cd",
+      "after": "mic-studio"
+    },
+    {
+      "title": "<GFC.music_studio.Catalog2Title>",
+      "before": "cd",
+      "after": "memo"
+    },
+    {
+      "title": "<GFC.music_studio.Catalog3Title>",
+      "before": "cd",
+      "after": "notebook"
+    },
+    {
+      "title": "<GFC.music_studio.Catalog4Title>",
+      "before": "cd",
+      "after": "books"
+    },
+    {
+      "title": "<GFC.music_studio.Catalog5Title>",
+      "before": "cd",
+      "after": "pencil"
+    },
+    {
+      "title": "<GFC.music_studio.Catalog6Title>",
+      "before": "cd",
+      "after": "pen"
+    },
+    {
+      "title": "<GFC.music_studio.Catalog7Title>",
+      "before": "cd",
+      "after": "chart-up"
+    },
+    {
+      "title": "<GFC.music_studio.Catalog8Title>",
+      "before": "cd",
+      "after": "chart-down"
+    },
+    {
+      "title": "Back to Music Studio",
+      "before": "mic-studio",
+      "after": "index-cards"
+    }
+  ],
+  "genesis_record_label_artist1": [
+    {
+      "title": "Nova Reed",
+      "before": "hero",
+      "after": "mic-studio"
+    },
+    {
+      "title": "Fund a Record",
+      "before": "money-bag",
+      "after": "clipboard"
+    },
+    {
+      "title": "<GFC.music_studio.Artist1Project>",
+      "before": "cd",
+      "after": "hammer"
+    },
+    {
+      "title": "Release Campaign",
+      "before": "megaphone",
+      "after": "cd"
+    },
+    {
+      "title": "Publish Record",
+      "before": "cd",
+      "after": "memo"
+    },
+    {
+      "title": "Royalty Breakdown",
+      "before": "chart-bar",
+      "after": "bank"
+    },
+    {
+      "title": "Renew Contract",
+      "before": "handshake",
+      "after": "scroll"
+    },
+    {
+      "title": "Back to Music Studio",
+      "before": "mic-studio",
+      "after": "notebook"
+    }
+  ],
+  "genesis_record_label_artist2": [
+    {
+      "title": "Miles Echo",
+      "before": "hero",
+      "after": "mic-studio"
+    },
+    {
+      "title": "Fund a Record",
+      "before": "money-bag",
+      "after": "clipboard"
+    },
+    {
+      "title": "<GFC.music_studio.Artist2Project>",
+      "before": "cd",
+      "after": "hammer"
+    },
+    {
+      "title": "Release Campaign",
+      "before": "megaphone",
+      "after": "cd"
+    },
+    {
+      "title": "Publish Record",
+      "before": "cd",
+      "after": "memo"
+    },
+    {
+      "title": "Royalty Breakdown",
+      "before": "chart-bar",
+      "after": "bank"
+    },
+    {
+      "title": "Renew Contract",
+      "before": "handshake",
+      "after": "scroll"
+    },
+    {
+      "title": "Back to Music Studio",
+      "before": "mic-studio",
+      "after": "notebook"
+    }
+  ],
+  "genesis_record_label_artist3": [
+    {
+      "title": "Avery Static",
+      "before": "hero",
+      "after": "mic-studio"
+    },
+    {
+      "title": "Fund a Record",
+      "before": "money-bag",
+      "after": "clipboard"
+    },
+    {
+      "title": "<GFC.music_studio.Artist3Project>",
+      "before": "cd",
+      "after": "hammer"
+    },
+    {
+      "title": "Release Campaign",
+      "before": "megaphone",
+      "after": "cd"
+    },
+    {
+      "title": "Publish Record",
+      "before": "cd",
+      "after": "memo"
+    },
+    {
+      "title": "Royalty Breakdown",
+      "before": "chart-bar",
+      "after": "bank"
+    },
+    {
+      "title": "Renew Contract",
+      "before": "handshake",
+      "after": "scroll"
+    },
+    {
+      "title": "Back to Music Studio",
+      "before": "mic-studio",
+      "after": "notebook"
+    }
+  ],
+  "genesis_record_label_artist4": [
+    {
+      "title": "Jules Harbor",
+      "before": "hero",
+      "after": "mic-studio"
+    },
+    {
+      "title": "Fund a Record",
+      "before": "money-bag",
+      "after": "clipboard"
+    },
+    {
+      "title": "<GFC.music_studio.Artist4Project>",
+      "before": "cd",
+      "after": "hammer"
+    },
+    {
+      "title": "Release Campaign",
+      "before": "megaphone",
+      "after": "cd"
+    },
+    {
+      "title": "Publish Record",
+      "before": "cd",
+      "after": "memo"
+    },
+    {
+      "title": "Royalty Breakdown",
+      "before": "chart-bar",
+      "after": "bank"
+    },
+    {
+      "title": "Renew Contract",
+      "before": "handshake",
+      "after": "scroll"
+    },
+    {
+      "title": "Back to Music Studio",
+      "before": "mic-studio",
+      "after": "notebook"
+    }
+  ],
+  "genesis_record_label_hub": [
+    {
+      "title": "Start a Record Label",
+      "before": "cd",
+      "after": "clipboard"
+    },
+    {
+      "title": "Scout Artists",
+      "before": "users",
+      "after": "scroll"
+    },
+    {
+      "title": "Nova Reed",
+      "before": "hero",
+      "after": "mic-studio"
+    },
+    {
+      "title": "Miles Echo",
+      "before": "hero",
+      "after": "memo"
+    },
+    {
+      "title": "Avery Static",
+      "before": "hero",
+      "after": "notebook"
+    },
+    {
+      "title": "Jules Harbor",
+      "before": "hero",
+      "after": "books"
+    },
+    {
+      "title": "Back to Music Studio",
+      "before": "mic-studio",
+      "after": "pencil"
+    }
+  ],
+  "genesis_record_label_scout": [
+    {
+      "title": "Nova Reed",
+      "before": "hero",
+      "after": "mic-studio"
+    },
+    {
+      "title": "Miles Echo",
+      "before": "hero",
+      "after": "memo"
+    },
+    {
+      "title": "Avery Static",
+      "before": "hero",
+      "after": "notebook"
+    },
+    {
+      "title": "Jules Harbor",
+      "before": "hero",
+      "after": "books"
+    },
+    {
+      "title": "Back to Music Studio",
+      "before": "mic-studio",
+      "after": "pencil"
+    }
+  ],
+  "genesis_v7_job_game_designer": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "scroll"
+    },
+    {
+      "title": "Build a playable prototype",
+      "before": "memo",
+      "after": "soccer-ball"
+    },
+    {
+      "title": "Run a player test",
+      "before": "memo",
+      "after": "hammer"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_game_quality_analyst": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Write a test plan",
+      "before": "memo",
+      "after": "musical-notes"
+    },
+    {
+      "title": "Reproduce a reported bug",
+      "before": "memo",
+      "after": "headphones"
+    },
+    {
+      "title": "Verify the release build",
+      "before": "memo",
+      "after": "cd"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_cybersecurity_analyst": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Audit access permissions",
+      "before": "memo",
+      "after": "map"
+    },
+    {
+      "title": "Present a remediation plan",
+      "before": "memo",
+      "after": "calendar"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_cloud_systems_engineer": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Plan a service migration",
+      "before": "memo",
+      "after": "medal-military"
+    },
+    {
+      "title": "Review system reliability",
+      "before": "memo",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_data_analyst": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Validate the analysis",
+      "before": "memo",
+      "after": "notebook"
+    },
+    {
+      "title": "Present a business report",
+      "before": "memo",
+      "after": "books"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_user_experience_designer": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "scroll"
+    },
+    {
+      "title": "Interview users",
+      "before": "memo",
+      "after": "hammer"
+    },
+    {
+      "title": "Present design findings",
+      "before": "memo",
+      "after": "notebook"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_digital_illustrator": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Review client revisions",
+      "before": "memo",
+      "after": "clipboard"
+    },
+    {
+      "title": "Deliver finished artwork",
+      "before": "memo",
+      "after": "notebook"
+    }
+  ],
+  "genesis_v7_job_motion_graphics_designer": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "scroll"
+    },
+    {
+      "title": "Storyboard an animation",
+      "before": "memo",
+      "after": "hammer"
+    },
+    {
+      "title": "Review motion and timing",
+      "before": "memo",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_accessibility_specialist": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Test with assistive technology",
+      "before": "memo",
+      "after": "notebook"
+    },
+    {
+      "title": "Publish an improvement plan",
+      "before": "memo",
+      "after": "calendar"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_technical_writer": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "musical-notes"
+    },
+    {
+      "title": "Draft a user guide",
+      "before": "memo",
+      "after": "hammer"
+    },
+    {
+      "title": "Publish reviewed documentation",
+      "before": "memo",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_copy_editor": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Review the manuscript",
+      "before": "memo",
+      "after": "clipboard"
+    },
+    {
+      "title": "Approve the final copy",
+      "before": "memo",
+      "after": "notebook"
+    }
+  ],
+  "genesis_v7_job_content_strategist": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Plan an editorial calendar",
+      "before": "memo",
+      "after": "calendar"
+    },
+    {
+      "title": "Research audience needs",
+      "before": "memo",
+      "after": "anchor"
+    },
+    {
+      "title": "Present the content strategy",
+      "before": "memo",
+      "after": "compass"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_community_manager": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Plan a community event",
+      "before": "memo",
+      "after": "calendar"
+    },
+    {
+      "title": "Report community feedback",
+      "before": "memo",
+      "after": "notebook"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_event_coordinator": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Build an event plan",
+      "before": "memo",
+      "after": "calendar"
+    },
+    {
+      "title": "Manage event day",
+      "before": "memo",
+      "after": "notebook"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_sustainability_coordinator": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Evaluate reduction measures",
+      "before": "memo",
+      "after": "notebook"
+    },
+    {
+      "title": "Present sustainability results",
+      "before": "memo",
+      "after": "chart-bar"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_research_coordinator": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "anchor"
+    },
+    {
+      "title": "Plan a study schedule",
+      "before": "memo",
+      "after": "book"
+    },
+    {
+      "title": "Check consent and data quality",
+      "before": "memo",
+      "after": "hammer"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_museum_educator": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Design a workshop",
+      "before": "memo",
+      "after": "scroll"
+    },
+    {
+      "title": "Lead the public session",
+      "before": "memo",
+      "after": "notebook"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_archive_technician": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Catalogue a collection",
+      "before": "memo",
+      "after": "cd"
+    },
+    {
+      "title": "Prepare records for access",
+      "before": "memo",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_literacy_coordinator": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Design reading support",
+      "before": "memo",
+      "after": "scroll"
+    },
+    {
+      "title": "Review learner progress",
+      "before": "memo",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_learning_support_officer": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Prepare a support plan",
+      "before": "memo",
+      "after": "calendar"
+    },
+    {
+      "title": "Coordinate classroom adjustments",
+      "before": "memo",
+      "after": "book"
+    },
+    {
+      "title": "Review student progress",
+      "before": "memo",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_education_programme_coordinator": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "book"
+    },
+    {
+      "title": "Design a programme",
+      "before": "memo",
+      "after": "scroll"
+    },
+    {
+      "title": "Arrange teaching resources",
+      "before": "memo",
+      "after": "hammer"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_student_services_officer": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "medal-military"
+    },
+    {
+      "title": "Review support requests",
+      "before": "memo",
+      "after": "clipboard"
+    },
+    {
+      "title": "Coordinate student assistance",
+      "before": "memo",
+      "after": "hammer"
+    }
+  ],
+  "genesis_v7_job_library_programme_coordinator": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Plan a library programme",
+      "before": "memo",
+      "after": "calendar"
+    },
+    {
+      "title": "Run a community session",
+      "before": "memo",
+      "after": "notebook"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_audio_editor": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Repair dialogue and levels",
+      "before": "memo",
+      "after": "gear"
+    },
+    {
+      "title": "Deliver the final audio",
+      "before": "memo",
+      "after": "notebook"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_podcast_producer": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "headphones"
+    },
+    {
+      "title": "Plan and book an episode",
+      "before": "memo",
+      "after": "hammer"
+    },
+    {
+      "title": "Record guests and interviews",
+      "before": "memo",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_music_rights_coordinator": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Negotiate licensing terms",
+      "before": "memo",
+      "after": "notebook"
+    },
+    {
+      "title": "Clear the release rights",
+      "before": "memo",
+      "after": "cd"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_live_sound_technician": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Run soundcheck",
+      "before": "memo",
+      "after": "notebook"
+    },
+    {
+      "title": "Mix the live show",
+      "before": "memo",
+      "after": "headphones"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_lighting_technician": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Design a lighting cue sheet",
+      "before": "memo",
+      "after": "scroll"
+    },
+    {
+      "title": "Operate the live show",
+      "before": "memo",
+      "after": "notebook"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_production_coordinator": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Build the production schedule",
+      "before": "memo",
+      "after": "calendar"
+    },
+    {
+      "title": "Deliver the production",
+      "before": "memo",
+      "after": "notebook"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_location_coordinator": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Secure permissions",
+      "before": "memo",
+      "after": "map"
+    },
+    {
+      "title": "Coordinate the location shoot",
+      "before": "memo",
+      "after": "notebook"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_brand_designer": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "scroll"
+    },
+    {
+      "title": "Develop brand concepts",
+      "before": "memo",
+      "after": "hammer"
+    },
+    {
+      "title": "Deliver the brand system",
+      "before": "memo",
+      "after": "notebook"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_market_research_analyst": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "anchor"
+    },
+    {
+      "title": "Design an audience survey",
+      "before": "memo",
+      "after": "scroll"
+    },
+    {
+      "title": "Analyse survey results",
+      "before": "memo",
+      "after": "chart-bar"
+    },
+    {
+      "title": "Present market findings",
+      "before": "memo",
+      "after": "hammer"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_customer_experience_analyst": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Investigate feedback patterns",
+      "before": "memo",
+      "after": "notebook"
+    },
+    {
+      "title": "Present service improvements",
+      "before": "memo",
+      "after": "medal-military"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_operations_coordinator": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "map"
+    },
+    {
+      "title": "Plan the workflow",
+      "before": "memo",
+      "after": "hammer"
+    },
+    {
+      "title": "Review delivery performance",
+      "before": "memo",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_quality_assurance_coordinator": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Plan a quality audit",
+      "before": "memo",
+      "after": "calendar"
+    },
+    {
+      "title": "Close corrective actions",
+      "before": "memo",
+      "after": "notebook"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_recruitment_coordinator": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Coordinate structured interviews",
+      "before": "memo",
+      "after": "notebook"
+    },
+    {
+      "title": "Present hiring recommendations",
+      "before": "memo",
+      "after": "books"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_training_coordinator": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "running-shoe"
+    },
+    {
+      "title": "Assess training needs",
+      "before": "memo",
+      "after": "hammer"
+    },
+    {
+      "title": "Evaluate staff learning",
+      "before": "memo",
+      "after": "notebook"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_logistics_planner": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Plan delivery capacity",
+      "before": "memo",
+      "after": "calendar"
+    },
+    {
+      "title": "Review shipment performance",
+      "before": "memo",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_digital_archivist": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Plan digital preservation",
+      "before": "memo",
+      "after": "calendar"
+    },
+    {
+      "title": "Publish the collection catalogue",
+      "before": "memo",
+      "after": "cd"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_exhibition_coordinator": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Plan the exhibition",
+      "before": "memo",
+      "after": "calendar"
+    },
+    {
+      "title": "Open the exhibition",
+      "before": "memo",
+      "after": "notebook"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_reality_tv_producer": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "headphones"
+    },
+    {
+      "title": "Develop the season concept",
+      "before": "memo",
+      "after": "chart-bar"
+    },
+    {
+      "title": "Coordinate safe filming",
+      "before": "memo",
+      "after": "hammer"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_race_engineer": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "flag-checkered"
+    },
+    {
+      "title": "Plan the car setup",
+      "before": "memo",
+      "after": "gear"
+    },
+    {
+      "title": "Analyse practice telemetry",
+      "before": "memo",
+      "after": "running-shoe"
+    },
+    {
+      "title": "Lead the race debrief",
+      "before": "memo",
+      "after": "hammer"
+    },
+    {
+      "title": "Submit and Review",
+      "before": "chart-bar",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_sports_physiotherapist": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Supervise a recovery session",
+      "before": "memo",
+      "after": "notebook"
+    },
+    {
+      "title": "Review return-to-sport readiness",
+      "before": "memo",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_job_luxury_asset_manager": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Review the asset portfolio",
+      "before": "memo",
+      "after": "clipboard"
+    },
+    {
+      "title": "Present an investment review",
+      "before": "memo",
+      "after": "notebook"
+    }
+  ],
+  "genesis_v7_job_community_moderator": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Review moderation reports",
+      "before": "memo",
+      "after": "clipboard"
+    },
+    {
+      "title": "Publish a transparency report",
+      "before": "memo",
+      "after": "notebook"
+    }
+  ],
+  "genesis_v7_job_independent_music_promoter": [
+    {
+      "title": "Project Dashboard",
+      "before": "clipboard",
+      "after": "hammer"
+    },
+    {
+      "title": "Plan a release campaign",
+      "before": "memo",
+      "after": "cd"
+    },
+    {
+      "title": "Coordinate radio and playlist pitches",
+      "before": "memo",
+      "after": "soccer-ball"
+    },
+    {
+      "title": "Review campaign performance",
+      "before": "memo",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v7_f1_career": [
+    {
+      "title": "Career Status",
+      "before": "hero",
+      "after": "clipboard"
+    },
+    {
+      "title": "Driver Development",
+      "before": "race-car",
+      "after": "flag-checkered"
+    },
+    {
+      "title": "Team Development",
+      "before": "clipboard",
+      "after": "memo"
+    },
+    {
+      "title": "Race Setup",
+      "before": "race-car",
+      "after": "gear"
+    },
+    {
+      "title": "Qualifying",
+      "before": "flag-checkered",
+      "after": "notebook"
+    },
+    {
+      "title": "Race Weekend",
+      "before": "flag-checkered",
+      "after": "books"
+    }
+  ],
+  "genesis_v7_tv_host": [
+    {
+      "title": "Career Status",
+      "before": "hero",
+      "after": "clipboard"
+    },
+    {
+      "title": "On-Camera Practice",
+      "before": "tv",
+      "after": "running-shoe"
+    },
+    {
+      "title": "Show Format",
+      "before": "tv",
+      "after": "house"
+    },
+    {
+      "title": "Episode Preparation",
+      "before": "memo",
+      "after": "anchor"
+    }
+  ],
+  "genesis_v7_police": [
+    {
+      "title": "Interview Witnesses",
+      "before": "users",
+      "after": "bank"
+    },
+    {
+      "title": "Search Authorisation",
+      "before": "clipboard",
+      "after": "anchor"
+    },
+    {
+      "title": "Case Review",
+      "before": "chart-bar",
+      "after": "hammer"
+    }
+  ],
+  "genesis_v7_prison": [
+    {
+      "title": "Vocational Certification",
+      "before": "memo",
+      "after": "book"
+    },
+    {
+      "title": "Counselling",
+      "before": "users",
+      "after": "bank"
+    },
+    {
+      "title": "Work Programme",
+      "before": "factory",
+      "after": "hammer"
+    },
+    {
+      "title": "Parole Preparation",
+      "before": "clipboard",
+      "after": "balance-scale"
+    }
+  ],
+  "genesis_v8_prison_tape": [
+    {
+      "title": "Write Verses",
+      "before": "memo",
+      "after": "musical-notes"
+    },
+    {
+      "title": "Record a Tape",
+      "before": "mic",
+      "after": "clipboard"
+    }
+  ],
+  "genesis_v8_military_v8": [
+    {
+      "title": "Physical readiness",
+      "before": "rescue-helmet",
+      "after": "hammer"
+    },
+    {
+      "title": "Equipment inspection",
+      "before": "rescue-helmet",
+      "after": "memo"
+    },
+    {
+      "title": "Unit welfare",
+      "before": "rescue-helmet",
+      "after": "notebook"
+    },
+    {
+      "title": "Navigation Exercise",
+      "before": "clipboard",
+      "after": "running-shoe"
+    }
+  ],
+  "genesis_v8_politics_v8": [
+    {
+      "title": "Policy Laboratory",
+      "before": "clipboard",
+      "after": "anchor"
+    },
+    {
+      "title": "Ethics and Disclosure",
+      "before": "clipboard",
+      "after": "memo"
+    },
+    {
+      "title": "Public Debate",
+      "before": "clipboard",
+      "after": "bank"
+    },
+    {
+      "title": "Crisis Response",
+      "before": "clipboard",
+      "after": "notebook"
+    }
+  ],
+  "genesis_v8_shopping_v8": [
+    {
+      "title": "Home Fitness Equipment",
+      "before": "man-lifting-weights",
+      "after": "running-shoe"
+    }
+  ],
+  "genesis_v8_football_v8": [
+    {
+      "title": "Passing Challenge",
+      "before": "soccer-ball",
+      "after": "memo"
+    },
+    {
+      "title": "Match Tactics",
+      "before": "clipboard",
+      "after": "compass"
+    },
+    {
+      "title": "Pressing and build-up",
+      "before": "soccer-ball",
+      "after": "hammer"
+    },
+    {
+      "title": "Captain and team meeting",
+      "before": "soccer-ball",
+      "after": "notebook"
+    },
+    {
+      "title": "Football press conference",
+      "before": "soccer-ball",
+      "after": "books"
+    }
+  ],
+  "genesis_v9_school_v9": [
+    {
+      "title": "Study group",
+      "before": "books",
+      "after": "book"
+    },
+    {
+      "title": "Science fair",
+      "before": "books",
+      "after": "airplane"
+    },
+    {
+      "title": "Debate practice",
+      "before": "users",
+      "after": "running-shoe"
+    },
+    {
+      "title": "School performance",
+      "before": "users",
+      "after": "memo"
+    },
+    {
+      "title": "Student council",
+      "before": "users",
+      "after": "notebook"
+    },
+    {
+      "title": "Community project",
+      "before": "users",
+      "after": "hammer"
+    },
+    {
+      "title": "School sport",
+      "before": "users",
+      "after": "books"
+    },
+    {
+      "title": "Revision planning",
+      "before": "books",
+      "after": "calendar"
+    },
+    {
+      "title": "Lunch break",
+      "before": "users",
+      "after": "pencil"
+    },
+    {
+      "title": "Class Quiz",
+      "before": "memo",
+      "after": "pen"
+    }
+  ],
+  "genesis_v9_basketball_v9": [
+    {
+      "title": "Defensive reads",
+      "before": "basketball",
+      "after": "memo"
+    },
+    {
+      "title": "Recovery and Conditioning",
+      "before": "clipboard",
+      "after": "notebook"
+    },
+    {
+      "title": "Post-match Interview",
+      "before": "clipboard",
+      "after": "soccer-ball"
+    }
+  ],
+  "genesis_v9_rugby_v9": [
+    {
+      "title": "Defensive positioning",
+      "before": "rugby",
+      "after": "memo"
+    },
+    {
+      "title": "Recovery and Conditioning",
+      "before": "clipboard",
+      "after": "notebook"
+    },
+    {
+      "title": "Post-match Interview",
+      "before": "clipboard",
+      "after": "soccer-ball"
+    }
+  ],
+  "genesis_v9_military_v9": [
+    {
+      "title": "Fitness Training",
+      "before": "rescue-helmet",
+      "after": "running-shoe"
+    },
+    {
+      "title": "Strategy Classroom",
+      "before": "rescue-helmet",
+      "after": "book"
+    },
+    {
+      "title": "Combat Training",
+      "before": "rescue-helmet",
+      "after": "shield"
+    },
+    {
+      "title": "Special Forces Qualification",
+      "before": "rescue-helmet",
+      "after": "memo"
+    },
+    {
+      "title": "Unit Martial Arts",
+      "before": "rescue-helmet",
+      "after": "notebook"
+    },
+    {
+      "title": "Ocean patrol simulator",
+      "before": "sailboat",
+      "after": "anchor"
+    },
+    {
+      "title": "Marine patrol decisions",
+      "before": "rescue-helmet",
+      "after": "books"
+    },
+    {
+      "title": "Minefield logic exercise",
+      "before": "clipboard",
+      "after": "bomb"
+    }
+  ],
+  "genesis_v9_v11_parole_v11": [
+    {
+      "title": "Sentence Record",
+      "before": "house",
+      "after": "clipboard"
+    },
+    {
+      "title": "Parole Officer Check-in",
+      "before": "clipboard",
+      "after": "balance-scale"
+    },
+    {
+      "title": "Study at Home",
+      "before": "house",
+      "after": "book"
+    },
+    {
+      "title": "Home Exercise",
+      "before": "house",
+      "after": "running-shoe"
+    }
+  ]
+}

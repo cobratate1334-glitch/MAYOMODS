@@ -1,0 +1,8 @@
+key,type,value,reset_on_ageup,minimum,maximum
+Sessions,int,0,true,0,6
+Trust,int,50,,0,100
+Evidence,int,0,,0,100
+PolicyStage,int,0,,0,3
+Programmes,int,0,,0,1000000
+Transparency,int,50,,0,100
+NativeApprovalImpact,int,0,,-3,3

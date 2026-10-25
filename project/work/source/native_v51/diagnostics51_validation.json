@@ -1,0 +1,50 @@
+{
+  "passed": true,
+  "sha256": "96a5e8f02e2f52623f7212e492b3bff4744e72e33b0ef9fde6170da208c8cfc4",
+  "version_strings": [
+    {
+      "index": 165,
+      "offset": 41726,
+      "before": "Build: MayoMods v50; app: ",
+      "after": "Build: MayoMods v51; app: "
+    },
+    {
+      "index": 730,
+      "offset": 59754,
+      "before": "MayoMods v50 \u2014 Android crash record\n\n",
+      "after": "MayoMods v51 \u2014 Android crash record\n\n"
+    },
+    {
+      "index": 731,
+      "offset": 59795,
+      "before": "MayoMods v50 \u2014 local crash diagnostics\n\nLAST RECORDED CRASH / ERROR\n",
+      "after": "MayoMods v51 \u2014 local crash diagnostics\n\nLAST RECORDED CRASH / ERROR\n"
+    },
+    {
+      "index": 732,
+      "offset": 59867,
+      "before": "MayoMods v50 \u2014 recorded error\n",
+      "after": "MayoMods v51 \u2014 recorded error\n"
+    },
+    {
+      "index": 733,
+      "offset": 59901,
+      "before": "MayoMods-v50-crash-",
+      "after": "MayoMods-v51-crash-"
+    },
+    {
+      "index": 762,
+      "offset": 60739,
+      "before": "Native launch v50; packaged ABI: arm64-v8a; process: ",
+      "after": "Native launch v51; packaged ABI: arm64-v8a; process: "
+    },
+    {
+      "index": 775,
+      "offset": 61045,
+      "before": "New Life & Crash Diagnostics \u00b7 v50",
+      "after": "New Life & Crash Diagnostics \u00b7 v51"
+    }
+  ],
+  "every_Dex_method_byte_identical": true,
+  "exact_inverse_verified": true
+}

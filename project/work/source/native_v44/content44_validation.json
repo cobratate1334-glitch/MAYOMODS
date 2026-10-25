@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "accessories": 27,
+  "user_assets": 23,
+  "new_original_assets": 4,
+  "new_Texture2D_and_Sprite_objects": 54,
+  "added_TextAssets": {
+    "genesis_v18_era44_stock0": 38451,
+    "genesis_v18_era44_vintage0": 38452,
+    "genesis_v18_era44_stock1": 38453,
+    "genesis_v18_era44_vintage1": 38454,
+    "genesis_v18_era44_stock2": 38455,
+    "genesis_v18_era44_vintage2": 38456,
+    "genesis_v18_era44_stock3": 38457,
+    "genesis_v18_era44_vintage3": 38458,
+    "genesis_v18_era44_regional": 38459,
+    "genesis_v18_era44_owned": 38460,
+    "genesis_v18_era44": 38461,
+    "genesis_v18_defaults_era44": 38462
+  },
+  "modified_TextAssets": 3,
+  "all_unedited_Unity_objects_preserved": true,
+  "all_existing_resource_paths_preserved": true,
+  "all_accessory_texture_pixel_roundtrips_verified": true,
+  "datapack_sha256": "adf8293e1fedb1f3dc4de9fa5c2a2ac52682d5d22544a6c9928ec18cb41465aa",
+  "data_sha256": "38271fe7ca52b62f1836f127ec333ff0f75b064c1bcb2f81667c0c6eee8df2da",
+  "device_rendering_tested": false
+}

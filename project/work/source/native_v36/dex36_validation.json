@@ -1,0 +1,51 @@
+{
+  "passed": true,
+  "binary_sha256": "d6d6ed39dacb15d7e550fae626c242039928fb6931a85bb5d24e7f60fd3d52bb",
+  "preserved_classes_before_release_label_update": 61,
+  "launcher_families": [
+    "LauncherIcon",
+    "LauncherMotion",
+    "StartupActivity"
+  ],
+  "all_other_class_code_preserved": true,
+  "release_label_updates": [
+    {
+      "before": "Build: MayoMods v35; app: ",
+      "after": "Build: MayoMods v36; app: "
+    },
+    {
+      "before": "MayoMods v35 \u2014 Android crash record\n\n",
+      "after": "MayoMods v36 \u2014 Android crash record\n\n"
+    },
+    {
+      "before": "MayoMods v35 \u2014 local crash diagnostics\n\nLAST RECORDED CRASH / ERROR\n",
+      "after": "MayoMods v36 \u2014 local crash diagnostics\n\nLAST RECORDED CRASH / ERROR\n"
+    },
+    {
+      "before": "MayoMods v35 \u2014 recorded error\n",
+      "after": "MayoMods v36 \u2014 recorded error\n"
+    }
+  ],
+  "label_update_preserves_every_code_item": true,
+  "original_play_method_preserved": true,
+  "smali_roundtrip": true,
+  "min_api": 25,
+  "source_sha256": {
+    "LauncherIcon.java": "658e5a92297d9de789c56adfcb7e1a3f03e6bdc6871b5da8af30f8dd94098a62",
+    "LauncherMotion.java": "477d2d653fc089ef43482e6f922e267a853e6c1ced86f895eaeb8210e00a2455",
+    "StartupActivity.java": "af0dad373e11e601dceed56f2ae4e3c4b72f6658d4e2cc82baf07e2a1b2f8dab",
+    "NativeCrashReader.java": "d1f65f068a3cdcfea680643e718fadc176ded0620516e83cfbef8f45c529e214",
+    "StartupProbe.java": "d9afdf21c5a584dbad20d1d3a6097d9820dba87d129dc23b0eba5542796222b2",
+    "FloatingDisplay.java": "e2b9cf79ad7a5e2771ce8a46fcde328fe2fe58c8321e767034863d9475e51938",
+    "CrashJournal.java": "07bf3fc7afcd826c86a54e056357743f5a2fa111754be916999545e7abb0cf6d",
+    "LifeSetupUI.java": "23a9a8eb150109d282b2db6b415b0f720ad97f70e710bcc89ad44af000d220da",
+    "RuntimeLogStore.java": "4cfe617d0fd9da97d3df3fcef484f300efa35070bb299775fdfa501dd48c57cc",
+    "TombstoneReader.java": "b7896e9707f45f751c463a13b19a6898067a5c167de996afb62e40b95faa24bb",
+    "DiagnosticsUI.java": "71a37e5a32a04c7bc985fd8c23a693116ecceff739c97f18f7fc05c9ac30a1e4",
+    "RuntimeLogCapture.java": "9baade8135fa3301e17aae97572e9bbb45e6a44a43c933a972d1309838bc167a",
+    "NamePackUI.java": "6444d147c9254f9aaa2eadda1fc6d24e561f006487b75ac7839d8ee7ed7f2b7f",
+    "PackCatalog.java": "9af83b9b085ec13d218470351d17db97ded7d8c515a6a6ce26254a04d326501a",
+    "PackFormat.java": "4860dfdfdb706c041f2bd976729f3c9b042fc29c48c6bcb636b00e2ddfe37e75"
+  },
+  "device_runtime_tested": false
+}

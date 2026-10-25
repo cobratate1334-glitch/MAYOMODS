@@ -1,0 +1,79 @@
+{
+  "baseline_sha256": "92bf5dd7373b764d1c80fc0035842736548f08ebc09c3486869debf4f97b5bef",
+  "output_sha256": "c937876ebd518ce6a4c5095439f37bd22b496b4e97b0988166af5a199073dd8f",
+  "output_bytes": 268835972,
+  "zip_sha256": "742a1014bf96728cbd451ee50eedf20000ee8630415374c0006a73f827d83b64",
+  "zip_bytes": 253021451,
+  "age_scenes_added": 60,
+  "tables": {
+    "a16_dumb-scenarios-universal-enc": {
+      "preserved": 438,
+      "added": 60,
+      "total": 498
+    }
+  },
+  "prior_1708_added_records_preserved": true,
+  "state_simulation_test": "Passed 27 simulation assertions: identity, annual settlement, persistence, project stages, ownership, race/TV seasons, school, budgets, prison/death gates, long lives.",
+  "diagnostic_test": "Runtime log filtering, exception preservation, rotation, persistence, reset and clipboard bounds passed",
+  "frame_instruction_emulation": {
+    "status": "passed",
+    "cases": 4,
+    "coverage": "disabled/active callback, original prologue, arguments, callee-saved registers, SP, 2 ASLR biases",
+    "phone_tested": false
+  },
+  "dealer_guard_emulation": {
+    "status": "passed",
+    "instruction_emulation_cases": 712,
+    "aslr_load_biases": [
+      "0x0",
+      "0x1000000000"
+    ],
+    "coverage": [
+      "valid weighted indices unchanged",
+      "negative and oversized indices clamped",
+      "empty filtered pool retries catalogue once",
+      "missing or empty catalogue returns null",
+      "item generation preserves original nonnull paths",
+      "callee-saved registers and SP preserved"
+    ],
+    "limitation": "Existing virtual Count/RNG calls are simulated; not a device gameplay test."
+  },
+  "prison_icon_emulation": {
+    "status": "passed",
+    "cases": 32,
+    "fallback": "factory",
+    "known_job_branches_preserved": true
+  },
+  "unrelated_unity_objects_byte_preserved": 36785,
+  "changed_or_added_apk_entries": [
+    "lib/arm64-v8a/libil2cpp.so",
+    "assets/bin/Data/datapack.unity3d",
+    "classes13.dex",
+    "lib/arm64-v8a/libchance_expansion.so"
+  ],
+  "other_apk_entries_byte_preserved": true,
+  "signature_checks": {
+    "VerifyApk.java": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]",
+    "VerifyNativeSigner.java": "verified=true; actual APK signer matches native SHA-1 check; fingerprint=N3gA1+wRR7rLi+T23e/U4BZZu9Q="
+  },
+  "dex_smali_roundtrip": "passed",
+  "crc_alignment_eocd": "passed",
+  "native_bridge_deps": [
+    "libc.so",
+    "libdl.so"
+  ],
+  "systems": [
+    "Music studio and independent distribution",
+    "Social creator business",
+    "Work portfolios",
+    "School enrichment and adult study",
+    "Sports academy",
+    "Motorsport championships",
+    "Reality TV seasons",
+    "Luxury asset ledger and expansion tax",
+    "Annual decision queue"
+  ],
+  "integration": "Native MOD+ hub; read-only game identity, age and occupation; addon saves and credits separate from base game. Original menus unchanged.",
+  "phone_runtime_tested": false,
+  "read_only_bridge_host_API_test": "passed: hero identity, age, flags, balance, UTF-16, absent hero, caught managed exception"
+}

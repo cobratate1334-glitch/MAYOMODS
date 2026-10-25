@@ -1,0 +1,23 @@
+{
+  "12": {
+    "preserved_classes": 75,
+    "roundtrip": true,
+    "guards": [
+      ".method static synthetic lambda$onNativeNpcEditorSnapshot$0(JILjava/lang/String;[FIIZLjava/lang/String;I)V",
+      ".method static synthetic lambda$onNativeSelectorRequestStarted$0(Lcom/android/support/Menu;JJI)V",
+      ".method static synthetic lambda$onNativeSelectorSnapshot$0(JILjava/lang/String;[Ljava/lang/String;[ILjava/lang/String;)V",
+      ".method static synthetic lambda$onNativeUnityAsyncRequestStarted$0(Lcom/android/support/Menu;JIJ)V",
+      ".method static synthetic lambda$onNativeUnityAsyncResult$0(Lcom/android/support/Menu;JIJ[Ljava/lang/String;[ZLjava/lang/String;)V",
+      ".method public NPCEditor(JIIZLjava/lang/String;I[F)V",
+      ".method public PurchaseDialog([Ljava/lang/String;[Z)V",
+      ".method public StatsModifierDialog(JIILjava/lang/String;I[FLandroid/widget/TextView;)V"
+    ],
+    "removed_capture_implementation": false
+  },
+  "13": {
+    "preserved_classes": 33,
+    "roundtrip": true,
+    "guards": [],
+    "removed_capture_implementation": true
+  }
+}

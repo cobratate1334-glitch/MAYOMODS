@@ -1,0 +1,470 @@
+[
+  {
+    "name": "a16_faces-male-stage0-iris-base42-95000",
+    "left": {
+      "blue": 2181,
+      "amber": 0,
+      "green": 0
+    },
+    "right": {
+      "blue": 3,
+      "amber": 2097,
+      "green": 0
+    }
+  },
+  {
+    "name": "a16_faces-male-stage1-iris-base42-95010",
+    "left": {
+      "blue": 2283,
+      "amber": 0,
+      "green": 0
+    },
+    "right": {
+      "blue": 0,
+      "amber": 2234,
+      "green": 0
+    }
+  },
+  {
+    "name": "a16_faces-male-stage2-iris-base42-95020",
+    "left": {
+      "blue": 1943,
+      "amber": 0,
+      "green": 0
+    },
+    "right": {
+      "blue": 0,
+      "amber": 1946,
+      "green": 0
+    }
+  },
+  {
+    "name": "a16_faces-male-stage3-iris-base42-95030",
+    "left": {
+      "blue": 1916,
+      "amber": 0,
+      "green": 0
+    },
+    "right": {
+      "blue": 0,
+      "amber": 1909,
+      "green": 0
+    }
+  },
+  {
+    "name": "a16_faces-male-stage4-iris-base42-95040",
+    "left": {
+      "blue": 1916,
+      "amber": 0,
+      "green": 0
+    },
+    "right": {
+      "blue": 0,
+      "amber": 1909,
+      "green": 0
+    }
+  },
+  {
+    "name": "a16_faces-male-stage5-iris-base42-95050",
+    "left": {
+      "blue": 1914,
+      "amber": 0,
+      "green": 0
+    },
+    "right": {
+      "blue": 0,
+      "amber": 1917,
+      "green": 0
+    }
+  },
+  {
+    "name": "a16_faces-female-stage0-iris-base42-95100",
+    "left": {
+      "blue": 2181,
+      "amber": 0,
+      "green": 0
+    },
+    "right": {
+      "blue": 3,
+      "amber": 2097,
+      "green": 0
+    }
+  },
+  {
+    "name": "a16_faces-female-stage1-iris-base42-95110",
+    "left": {
+      "blue": 2283,
+      "amber": 0,
+      "green": 0
+    },
+    "right": {
+      "blue": 0,
+      "amber": 2234,
+      "green": 0
+    }
+  },
+  {
+    "name": "a16_faces-female-stage2-iris-base42-95120",
+    "left": {
+      "blue": 1969,
+      "amber": 0,
+      "green": 0
+    },
+    "right": {
+      "blue": 0,
+      "amber": 1956,
+      "green": 0
+    }
+  },
+  {
+    "name": "a16_faces-female-stage3-iris-base42-95130",
+    "left": {
+      "blue": 1964,
+      "amber": 0,
+      "green": 0
+    },
+    "right": {
+      "blue": 0,
+      "amber": 1966,
+      "green": 0
+    }
+  },
+  {
+    "name": "a16_faces-female-stage4-iris-base42-95140",
+    "left": {
+      "blue": 1964,
+      "amber": 0,
+      "green": 0
+    },
+    "right": {
+      "blue": 0,
+      "amber": 1966,
+      "green": 0
+    }
+  },
+  {
+    "name": "a16_faces-female-stage5-iris-base42-95150",
+    "left": {
+      "blue": 2191,
+      "amber": 0,
+      "green": 0
+    },
+    "right": {
+      "blue": 0,
+      "amber": 2220,
+      "green": 0
+    }
+  },
+  {
+    "name": "a16_faces-male-stage0-iris-base43-88500",
+    "left": {
+      "blue": 1414,
+      "amber": 736,
+      "green": 0
+    },
+    "right": {
+      "blue": 2145,
+      "amber": 0,
+      "green": 0
+    }
+  },
+  {
+    "name": "a16_faces-male-stage0-iris-base43-88600",
+    "left": {
+      "blue": 12,
+      "amber": 1060,
+      "green": 1042
+    },
+    "right": {
+      "blue": 3,
+      "amber": 1061,
+      "green": 1037
+    }
+  },
+  {
+    "name": "a16_faces-male-stage1-iris-base43-88501",
+    "left": {
+      "blue": 1494,
+      "amber": 781,
+      "green": 0
+    },
+    "right": {
+      "blue": 2278,
+      "amber": 0,
+      "green": 0
+    }
+  },
+  {
+    "name": "a16_faces-male-stage1-iris-base43-88601",
+    "left": {
+      "blue": 0,
+      "amber": 1124,
+      "green": 1112
+    },
+    "right": {
+      "blue": 0,
+      "amber": 1160,
+      "green": 1075
+    }
+  },
+  {
+    "name": "a16_faces-male-stage2-iris-base43-88502",
+    "left": {
+      "blue": 1262,
+      "amber": 690,
+      "green": 0
+    },
+    "right": {
+      "blue": 1942,
+      "amber": 0,
+      "green": 0
+    }
+  },
+  {
+    "name": "a16_faces-male-stage2-iris-base43-88602",
+    "left": {
+      "blue": 0,
+      "amber": 1042,
+      "green": 919
+    },
+    "right": {
+      "blue": 0,
+      "amber": 1123,
+      "green": 847
+    }
+  },
+  {
+    "name": "a16_faces-male-stage3-iris-base43-88503",
+    "left": {
+      "blue": 1249,
+      "amber": 666,
+      "green": 0
+    },
+    "right": {
+      "blue": 1916,
+      "amber": 0,
+      "green": 0
+    }
+  },
+  {
+    "name": "a16_faces-male-stage3-iris-base43-88603",
+    "left": {
+      "blue": 0,
+      "amber": 991,
+      "green": 924
+    },
+    "right": {
+      "blue": 0,
+      "amber": 989,
+      "green": 923
+    }
+  },
+  {
+    "name": "a16_faces-male-stage4-iris-base43-88504",
+    "left": {
+      "blue": 1249,
+      "amber": 666,
+      "green": 0
+    },
+    "right": {
+      "blue": 1916,
+      "amber": 0,
+      "green": 0
+    }
+  },
+  {
+    "name": "a16_faces-male-stage4-iris-base43-88604",
+    "left": {
+      "blue": 0,
+      "amber": 991,
+      "green": 924
+    },
+    "right": {
+      "blue": 0,
+      "amber": 989,
+      "green": 923
+    }
+  },
+  {
+    "name": "a16_faces-male-stage5-iris-base43-88505",
+    "left": {
+      "blue": 1248,
+      "amber": 666,
+      "green": 0
+    },
+    "right": {
+      "blue": 1919,
+      "amber": 0,
+      "green": 0
+    }
+  },
+  {
+    "name": "a16_faces-male-stage5-iris-base43-88605",
+    "left": {
+      "blue": 0,
+      "amber": 992,
+      "green": 922
+    },
+    "right": {
+      "blue": 0,
+      "amber": 997,
+      "green": 922
+    }
+  },
+  {
+    "name": "a16_faces-female-stage0-iris-base43-88540",
+    "left": {
+      "blue": 1414,
+      "amber": 736,
+      "green": 0
+    },
+    "right": {
+      "blue": 2145,
+      "amber": 0,
+      "green": 0
+    }
+  },
+  {
+    "name": "a16_faces-female-stage0-iris-base43-88640",
+    "left": {
+      "blue": 12,
+      "amber": 1060,
+      "green": 1042
+    },
+    "right": {
+      "blue": 3,
+      "amber": 1061,
+      "green": 1037
+    }
+  },
+  {
+    "name": "a16_faces-female-stage1-iris-base43-88541",
+    "left": {
+      "blue": 1494,
+      "amber": 781,
+      "green": 0
+    },
+    "right": {
+      "blue": 2278,
+      "amber": 0,
+      "green": 0
+    }
+  },
+  {
+    "name": "a16_faces-female-stage1-iris-base43-88641",
+    "left": {
+      "blue": 0,
+      "amber": 1124,
+      "green": 1112
+    },
+    "right": {
+      "blue": 0,
+      "amber": 1160,
+      "green": 1075
+    }
+  },
+  {
+    "name": "a16_faces-female-stage2-iris-base43-88542",
+    "left": {
+      "blue": 1274,
+      "amber": 699,
+      "green": 0
+    },
+    "right": {
+      "blue": 1931,
+      "amber": 0,
+      "green": 0
+    }
+  },
+  {
+    "name": "a16_faces-female-stage2-iris-base43-88642",
+    "left": {
+      "blue": 0,
+      "amber": 1072,
+      "green": 915
+    },
+    "right": {
+      "blue": 0,
+      "amber": 1052,
+      "green": 914
+    }
+  },
+  {
+    "name": "a16_faces-female-stage3-iris-base43-88543",
+    "left": {
+      "blue": 1276,
+      "amber": 701,
+      "green": 0
+    },
+    "right": {
+      "blue": 1968,
+      "amber": 0,
+      "green": 0
+    }
+  },
+  {
+    "name": "a16_faces-female-stage3-iris-base43-88643",
+    "left": {
+      "blue": 0,
+      "amber": 1076,
+      "green": 920
+    },
+    "right": {
+      "blue": 0,
+      "amber": 1078,
+      "green": 920
+    }
+  },
+  {
+    "name": "a16_faces-female-stage4-iris-base43-88544",
+    "left": {
+      "blue": 1276,
+      "amber": 701,
+      "green": 0
+    },
+    "right": {
+      "blue": 1968,
+      "amber": 0,
+      "green": 0
+    }
+  },
+  {
+    "name": "a16_faces-female-stage4-iris-base43-88644",
+    "left": {
+      "blue": 0,
+      "amber": 1076,
+      "green": 920
+    },
+    "right": {
+      "blue": 0,
+      "amber": 1078,
+      "green": 920
+    }
+  },
+  {
+    "name": "a16_faces-female-stage5-iris-base43-88545",
+    "left": {
+      "blue": 1439,
+      "amber": 755,
+      "green": 0
+    },
+    "right": {
+      "blue": 2188,
+      "amber": 0,
+      "green": 0
+    }
+  },
+  {
+    "name": "a16_faces-female-stage5-iris-base43-88645",
+    "left": {
+      "blue": 0,
+      "amber": 1156,
+      "green": 1047
+    },
+    "right": {
+      "blue": 0,
+      "amber": 1176,
+      "green": 1047
+    }
+  }
+]

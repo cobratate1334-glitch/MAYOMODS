@@ -1,0 +1,532 @@
+{
+  "Afghanistan": {
+    "climate": 2,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Algeria": {
+    "climate": 2,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Andorra": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Angola": {
+    "climate": 1,
+    "hemisphere": 1,
+    "agreement_age": 18
+  },
+  "Argentina": {
+    "climate": 0,
+    "hemisphere": 1,
+    "agreement_age": 18
+  },
+  "Aruba": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Australia": {
+    "climate": 2,
+    "hemisphere": 1,
+    "agreement_age": 18
+  },
+  "Austria": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Bahamas": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Bangladesh": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Belgium": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Belize": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Bolivia": {
+    "climate": 0,
+    "hemisphere": 1,
+    "agreement_age": 18
+  },
+  "Brazil": {
+    "climate": 1,
+    "hemisphere": 1,
+    "agreement_age": 16
+  },
+  "Canada": {
+    "climate": 3,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Chile": {
+    "climate": 0,
+    "hemisphere": 1,
+    "agreement_age": 18
+  },
+  "China": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Colombia": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Costa Rica": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Croatia": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Cuba": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Czech Republic": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Denmark": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Djibouti": {
+    "climate": 2,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Dominican Republic": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "DR Congo": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Ecuador": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Egypt": {
+    "climate": 2,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "El Salvador": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Estonia": {
+    "climate": 3,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Ethiopia": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Finland": {
+    "climate": 3,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "France": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Georgia": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Germany": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Greece": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Guatemala": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Guyana": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Haiti": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Hong Kong": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Hungary": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "India": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Indonesia": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Iran": {
+    "climate": 2,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Iraq": {
+    "climate": 2,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Ireland": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Israel": {
+    "climate": 2,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Italy": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Jamaica": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Japan": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Jordan": {
+    "climate": 2,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Kazakhstan": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Kenya": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Kuwait": {
+    "climate": 2,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Lebanon": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Malaysia": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Mexico": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Monaco": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Mongolia": {
+    "climate": 3,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Morocco": {
+    "climate": 2,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Nepal": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Netherlands": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "New Zealand": {
+    "climate": 0,
+    "hemisphere": 1,
+    "agreement_age": 18
+  },
+  "Nicaragua": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Nigeria": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Norway": {
+    "climate": 3,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Pakistan": {
+    "climate": 2,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Panama": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Papua New Guinea": {
+    "climate": 1,
+    "hemisphere": 1,
+    "agreement_age": 18
+  },
+  "Paraguay": {
+    "climate": 0,
+    "hemisphere": 1,
+    "agreement_age": 18
+  },
+  "Peru": {
+    "climate": 1,
+    "hemisphere": 1,
+    "agreement_age": 18
+  },
+  "Philippines": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Poland": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Portugal": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Puerto Rico": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Qatar": {
+    "climate": 2,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Romania": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Russia": {
+    "climate": 3,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Samoa": {
+    "climate": 1,
+    "hemisphere": 1,
+    "agreement_age": 18
+  },
+  "Saudi Arabia": {
+    "climate": 2,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Serbia": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Singapore": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Slovakia": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "South Africa": {
+    "climate": 2,
+    "hemisphere": 1,
+    "agreement_age": 18
+  },
+  "South Korea": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Spain": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Sweden": {
+    "climate": 3,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Switzerland": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Syria": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Taiwan": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Thailand": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Tunisia": {
+    "climate": 2,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Turkey": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Uganda": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Ukraine": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "United Arab Emirates": {
+    "climate": 2,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "United Kingdom": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "United States": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Uruguay": {
+    "climate": 0,
+    "hemisphere": 1,
+    "agreement_age": 18
+  },
+  "Venezuela": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Vietnam": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Zimbabwe": {
+    "climate": 2,
+    "hemisphere": 1,
+    "agreement_age": 18
+  },
+  "US": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "USA": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "United States of America": {
+    "climate": 0,
+    "hemisphere": 0,
+    "agreement_age": 18
+  },
+  "Congo": {
+    "climate": 1,
+    "hemisphere": 0,
+    "agreement_age": 18
+  }
+}

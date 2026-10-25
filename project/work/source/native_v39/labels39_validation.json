@@ -1,0 +1,31 @@
+{
+  "passed": true,
+  "sha256": "3c4c7cb18b55924b419e274ba9ec8a1f18dd64521e624ab82ab43f37b34fe16f",
+  "source_sha256": "110fc004d8c77ba8b2bcee2a769b39531e891cb84ac2e1ae99b38ded723c7ef6",
+  "release_label_updates": [
+    {
+      "before": "Build: MayoMods v38; app: ",
+      "after": "Build: MayoMods v39; app: "
+    },
+    {
+      "before": "MayoMods v38 \u2014 Android crash record\n\n",
+      "after": "MayoMods v39 \u2014 Android crash record\n\n"
+    },
+    {
+      "before": "MayoMods v38 \u2014 local crash diagnostics\n\nLAST RECORDED CRASH / ERROR\n",
+      "after": "MayoMods v39 \u2014 local crash diagnostics\n\nLAST RECORDED CRASH / ERROR\n"
+    },
+    {
+      "before": "MayoMods v38 \u2014 recorded error\n",
+      "after": "MayoMods v39 \u2014 recorded error\n"
+    },
+    {
+      "before": "New Life & Crash Diagnostics \u00b7 v38",
+      "after": "New Life & Crash Diagnostics \u00b7 v39"
+    }
+  ],
+  "every_code_item_byte_identical": true,
+  "original_Play_method_and_callbacks_preserved": true,
+  "DEX_string_order_checksums_and_metadata_checked": true,
+  "ART_tested": false
+}

@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "arm64_checks": 86,
+  "binary_sha256": "6b300f00ccdbfb466c4098443abb586d4712482253185f79a1ced328f038a9ff",
+  "base_sha256": "538a02a1ffad46e1a6020e33eeb6ef223c4e8b8765d072f7057c36ad3dc467ca",
+  "test_sha256": "ad7cc61882c59c08aa2b7ad996c82b9f924e7a38feae97a1626d9c9cf69f3af2",
+  "aslr_biases": [
+    0,
+    68719476736
+  ],
+  "original_ImpactPerformance_executed": true,
+  "original_CurrentlyInPrison_executed": true,
+  "original_ScenarioJobApply_ctor_executed": true,
+  "allocation_and_other_scene_ctors_mocked": true,
+  "all_GPR_vector_registers_and_stack_restored": true,
+  "narrow_patch_ranges": true,
+  "device_runtime_tested": false
+}

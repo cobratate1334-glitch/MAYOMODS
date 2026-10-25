@@ -1,0 +1,642 @@
+{
+  "input_sha256": "70c185e1523eff0169655818b8ef4bd65b163f26c64e47f41494933db7438afe",
+  "output_sha256": "92bf5dd7373b764d1c80fc0035842736548f08ebc09c3486869debf4f97b5bef",
+  "output_bytes": 268728502,
+  "backup_zip_sha256": "c4da26116e8bddce624ffb979a933f0d6aaa3cd60becc9225ed7d387e3ffb258",
+  "backup_zip_bytes": 252953495,
+  "new_records": 644,
+  "previous_additions_preserved": 1064,
+  "total_authored_additions": 1708,
+  "tables": {
+    "a16_careers-enc": {
+      "original": 208,
+      "added": 6,
+      "total": 214
+    },
+    "a16_school-teacher-call-outs-enc": {
+      "original": 71,
+      "added": 0,
+      "total": 71
+    },
+    "a16_dumb-scenarios-career-enc": {
+      "original": 419,
+      "added": 184,
+      "total": 603
+    },
+    "a16_school-teacher-suckups-enc": {
+      "original": 94,
+      "added": 20,
+      "total": 114
+    },
+    "a16_backtoschool-school-dance-theme-enc": {
+      "original": 26,
+      "added": 12,
+      "total": 38
+    },
+    "a16_social-media-channels-of-collabstrings-enc": {
+      "original": 47,
+      "added": 20,
+      "total": 67
+    },
+    "a16_prison-nicknames-enc": {
+      "original": 309,
+      "added": 0,
+      "total": 309
+    },
+    "a16_luxury-luxury-car-special-feature-enc": {
+      "original": 14,
+      "added": 8,
+      "total": 22
+    },
+    "a16_school-teacher-disrespects-enc": {
+      "original": 78,
+      "added": 0,
+      "total": 78
+    },
+    "a16_social-media-troll-inbounds-enc": {
+      "original": 28,
+      "added": 10,
+      "total": 38
+    },
+    "a16_luxury-luxury-watercraft-special-feature-enc": {
+      "original": 16,
+      "added": 8,
+      "total": 24
+    },
+    "a16_friend-advice-enc": {
+      "original": 78,
+      "added": 0,
+      "total": 78
+    },
+    "a16_prison-jobs-enc": {
+      "original": 58,
+      "added": 0,
+      "total": 58
+    },
+    "a16_backtoschool-school-dance-event-feedback-enc": {
+      "original": 74,
+      "added": 0,
+      "total": 74
+    },
+    "a16_school-activities-enc": {
+      "original": 145,
+      "added": 20,
+      "total": 165
+    },
+    "a16_music-track-vibe-enc": {
+      "original": 77,
+      "added": 18,
+      "total": 95
+    },
+    "a16_music-band-kicks-out-scenarios-enc": {
+      "original": 63,
+      "added": 0,
+      "total": 63
+    },
+    "a16_music-producer-dumb-scenario-enc": {
+      "original": 74,
+      "added": 40,
+      "total": 114
+    },
+    "a16_backtoschool-field-trip-location-enc": {
+      "original": 34,
+      "added": 12,
+      "total": 46
+    },
+    "a16_coworker-annoy-scenarios-enc": {
+      "original": 80,
+      "added": 0,
+      "total": 80
+    },
+    "a16_social-media-troll-outbounds-enc": {
+      "original": 38,
+      "added": 10,
+      "total": 48
+    },
+    "a16_school-act-up-scenarios-enc": {
+      "original": 87,
+      "added": 0,
+      "total": 87
+    },
+    "a16_music-practice-scenarios-enc": {
+      "original": 78,
+      "added": 0,
+      "total": 78
+    },
+    "a16_prison-letters-enc": {
+      "original": 90,
+      "added": 0,
+      "total": 90
+    },
+    "a16_music-producer-artist-leave-string-enc": {
+      "original": 44,
+      "added": 0,
+      "total": 44
+    },
+    "a16_prison-bully-outbound-scenarios-enc": {
+      "original": 62,
+      "added": 0,
+      "total": 62
+    },
+    "a16_prison-parole-questions-enc": {
+      "original": 35,
+      "added": 0,
+      "total": 35
+    },
+    "a16_friend-party-scenarios-enc": {
+      "original": 89,
+      "added": 0,
+      "total": 89
+    },
+    "a16_black-market-weapons-enc": {
+      "original": 60,
+      "added": 0,
+      "total": 60
+    },
+    "a16_dumb-scenarios-universal-enc": {
+      "original": 378,
+      "added": 60,
+      "total": 438
+    },
+    "a16_luxury-luxury-aircraft-special-feature-enc": {
+      "original": 16,
+      "added": 8,
+      "total": 24
+    },
+    "a16_social-media-promotion-products-enc": {
+      "original": 148,
+      "added": 20,
+      "total": 168
+    },
+    "a16_school-classmate-mess-scenarios-enc": {
+      "original": 43,
+      "added": 16,
+      "total": 59
+    },
+    "a16_backtoschool-field-trip-color-enc": {
+      "original": 77,
+      "added": 0,
+      "total": 77
+    },
+    "a16_music-signature-sound-enc": {
+      "original": 62,
+      "added": 12,
+      "total": 74
+    },
+    "a16_music-band-breaks-up-scenarios-enc": {
+      "original": 63,
+      "added": 0,
+      "total": 63
+    },
+    "a16_part-time-jobs-enc": {
+      "original": 122,
+      "added": 0,
+      "total": 122
+    },
+    "a16_music-soundcloud-dumb-scenario-enc": {
+      "original": 39,
+      "added": 32,
+      "total": 71
+    },
+    "a16_dumb-scenarios-music-enc": {
+      "original": 154,
+      "added": 0,
+      "total": 154
+    },
+    "a16_coworker-behavior-scenarios-enc": {
+      "original": 20,
+      "added": 16,
+      "total": 36
+    },
+    "a16_music-soundcloud-track-instrument-enc": {
+      "original": 43,
+      "added": 12,
+      "total": 55
+    },
+    "a16_music-soundcloud-comment-enc": {
+      "original": 81,
+      "added": 24,
+      "total": 105
+    },
+    "a16_music-album-rejections-enc": {
+      "original": 70,
+      "added": 0,
+      "total": 70
+    },
+    "a16_dumb-scenarios-prison-enc": {
+      "original": 144,
+      "added": 0,
+      "total": 144
+    },
+    "a16_music-score-production-project-title-enc": {
+      "original": 83,
+      "added": 12,
+      "total": 95
+    },
+    "a16_music-track-beat-enc": {
+      "original": 33,
+      "added": 18,
+      "total": 51
+    },
+    "a16_coworker-pranks-enc": {
+      "original": 65,
+      "added": 16,
+      "total": 81
+    },
+    "a16_prison-gifts-enc": {
+      "original": 89,
+      "added": 0,
+      "total": 89
+    },
+    "a16_prison-bully-inbound-scenarios-enc": {
+      "original": 68,
+      "added": 0,
+      "total": 68
+    },
+    "a16_social-media-post-types-enc": {
+      "original": 53,
+      "added": 30,
+      "total": 83
+    },
+    "a16_music-fan-interaction-scenarios-enc": {
+      "original": 75,
+      "added": 0,
+      "total": 75
+    }
+  },
+  "native_physical_line_regressions": {
+    "a16_careers-enc": {
+      "before": "physical record 209: 0 fields, expected 37",
+      "after": "passed",
+      "records": 214,
+      "columns": 37
+    },
+    "a16_school-teacher-call-outs-enc": {
+      "before": "physical record 72: 0 fields, expected 7",
+      "after": "passed",
+      "records": 71,
+      "columns": 7
+    },
+    "a16_dumb-scenarios-career-enc": {
+      "before": "passed",
+      "after": "passed",
+      "records": 603,
+      "columns": 39
+    },
+    "a16_school-teacher-suckups-enc": {
+      "before": "physical record 95: 0 fields, expected 8",
+      "after": "passed",
+      "records": 114,
+      "columns": 8
+    },
+    "a16_backtoschool-school-dance-theme-enc": {
+      "before": "physical record 27: 0 fields, expected 1",
+      "after": "passed",
+      "records": 38,
+      "columns": 1
+    },
+    "a16_social-media-channels-of-collabstrings-enc": {
+      "before": "passed",
+      "after": "passed",
+      "records": 67,
+      "columns": 5
+    },
+    "a16_prison-nicknames-enc": {
+      "before": "physical record 310: 0 fields, expected 3",
+      "after": "passed",
+      "records": 309,
+      "columns": 3
+    },
+    "a16_luxury-luxury-car-special-feature-enc": {
+      "before": "passed",
+      "after": "passed",
+      "records": 22,
+      "columns": 5
+    },
+    "a16_school-teacher-disrespects-enc": {
+      "before": "physical record 79: 0 fields, expected 6",
+      "after": "passed",
+      "records": 78,
+      "columns": 6
+    },
+    "a16_social-media-troll-inbounds-enc": {
+      "before": "passed",
+      "after": "passed",
+      "records": 38,
+      "columns": 5
+    },
+    "a16_luxury-luxury-watercraft-special-feature-enc": {
+      "before": "passed",
+      "after": "passed",
+      "records": 24,
+      "columns": 10
+    },
+    "a16_friend-advice-enc": {
+      "before": "physical record 79: 0 fields, expected 13",
+      "after": "passed",
+      "records": 78,
+      "columns": 13
+    },
+    "a16_prison-jobs-enc": {
+      "before": "physical record 59: 0 fields, expected 4",
+      "after": "passed",
+      "records": 58,
+      "columns": 4
+    },
+    "a16_backtoschool-school-dance-event-feedback-enc": {
+      "before": "physical record 75: 0 fields, expected 5",
+      "after": "passed",
+      "records": 74,
+      "columns": 5
+    },
+    "a16_school-activities-enc": {
+      "before": "physical record 146: 0 fields, expected 32",
+      "after": "passed",
+      "records": 165,
+      "columns": 32
+    },
+    "a16_music-track-vibe-enc": {
+      "before": "passed",
+      "after": "passed",
+      "records": 95,
+      "columns": 3
+    },
+    "a16_music-band-kicks-out-scenarios-enc": {
+      "before": "physical record 64: 0 fields, expected 5",
+      "after": "passed",
+      "records": 63,
+      "columns": 5
+    },
+    "a16_music-producer-dumb-scenario-enc": {
+      "before": "physical record 75: 0 fields, expected 24",
+      "after": "passed",
+      "records": 114,
+      "columns": 24
+    },
+    "a16_backtoschool-field-trip-location-enc": {
+      "before": "physical record 35: 0 fields, expected 4",
+      "after": "passed",
+      "records": 46,
+      "columns": 4
+    },
+    "a16_coworker-annoy-scenarios-enc": {
+      "before": "physical record 81: 0 fields, expected 4",
+      "after": "passed",
+      "records": 80,
+      "columns": 4
+    },
+    "a16_social-media-troll-outbounds-enc": {
+      "before": "passed",
+      "after": "passed",
+      "records": 48,
+      "columns": 5
+    },
+    "a16_school-act-up-scenarios-enc": {
+      "before": "physical record 88: 0 fields, expected 8",
+      "after": "passed",
+      "records": 87,
+      "columns": 8
+    },
+    "a16_music-practice-scenarios-enc": {
+      "before": "physical record 79: 0 fields, expected 3",
+      "after": "passed",
+      "records": 78,
+      "columns": 3
+    },
+    "a16_prison-letters-enc": {
+      "before": "physical record 91: 0 fields, expected 4",
+      "after": "passed",
+      "records": 90,
+      "columns": 4
+    },
+    "a16_music-producer-artist-leave-string-enc": {
+      "before": "physical record 45: 0 fields, expected 4",
+      "after": "passed",
+      "records": 44,
+      "columns": 4
+    },
+    "a16_prison-bully-outbound-scenarios-enc": {
+      "before": "physical record 63: 0 fields, expected 5",
+      "after": "passed",
+      "records": 62,
+      "columns": 5
+    },
+    "a16_prison-parole-questions-enc": {
+      "before": "physical record 36: 0 fields, expected 43",
+      "after": "passed",
+      "records": 35,
+      "columns": 43
+    },
+    "a16_friend-party-scenarios-enc": {
+      "before": "physical record 90: 0 fields, expected 13",
+      "after": "passed",
+      "records": 89,
+      "columns": 13
+    },
+    "a16_black-market-weapons-enc": {
+      "before": "physical record 61: 0 fields, expected 19",
+      "after": "passed",
+      "records": 60,
+      "columns": 19
+    },
+    "a16_dumb-scenarios-universal-enc": {
+      "before": "physical record 379: 0 fields, expected 42",
+      "after": "passed",
+      "records": 438,
+      "columns": 42
+    },
+    "a16_luxury-luxury-aircraft-special-feature-enc": {
+      "before": "passed",
+      "after": "passed",
+      "records": 24,
+      "columns": 5
+    },
+    "a16_social-media-promotion-products-enc": {
+      "before": "passed",
+      "after": "passed",
+      "records": 168,
+      "columns": 6
+    },
+    "a16_school-classmate-mess-scenarios-enc": {
+      "before": "physical record 44: 0 fields, expected 6",
+      "after": "passed",
+      "records": 59,
+      "columns": 6
+    },
+    "a16_backtoschool-field-trip-color-enc": {
+      "before": "physical record 78: 0 fields, expected 3",
+      "after": "passed",
+      "records": 77,
+      "columns": 3
+    },
+    "a16_music-signature-sound-enc": {
+      "before": "passed",
+      "after": "passed",
+      "records": 74,
+      "columns": 4
+    },
+    "a16_music-band-breaks-up-scenarios-enc": {
+      "before": "physical record 64: 0 fields, expected 3",
+      "after": "passed",
+      "records": 63,
+      "columns": 3
+    },
+    "a16_part-time-jobs-enc": {
+      "before": "physical record 123: 0 fields, expected 20",
+      "after": "passed",
+      "records": 122,
+      "columns": 20
+    },
+    "a16_music-soundcloud-dumb-scenario-enc": {
+      "before": "passed",
+      "after": "passed",
+      "records": 71,
+      "columns": 25
+    },
+    "a16_dumb-scenarios-music-enc": {
+      "before": "physical record 155: 0 fields, expected 36",
+      "after": "passed",
+      "records": 154,
+      "columns": 36
+    },
+    "a16_coworker-behavior-scenarios-enc": {
+      "before": "passed",
+      "after": "passed",
+      "records": 36,
+      "columns": 4
+    },
+    "a16_music-soundcloud-track-instrument-enc": {
+      "before": "passed",
+      "after": "passed",
+      "records": 55,
+      "columns": 4
+    },
+    "a16_music-soundcloud-comment-enc": {
+      "before": "physical record 82: 0 fields, expected 5",
+      "after": "passed",
+      "records": 105,
+      "columns": 5
+    },
+    "a16_music-album-rejections-enc": {
+      "before": "physical record 71: 0 fields, expected 4",
+      "after": "passed",
+      "records": 70,
+      "columns": 4
+    },
+    "a16_dumb-scenarios-prison-enc": {
+      "before": "physical record 145: 0 fields, expected 25",
+      "after": "passed",
+      "records": 144,
+      "columns": 25
+    },
+    "a16_music-score-production-project-title-enc": {
+      "before": "passed",
+      "after": "passed",
+      "records": 95,
+      "columns": 3
+    },
+    "a16_music-track-beat-enc": {
+      "before": "passed",
+      "after": "passed",
+      "records": 51,
+      "columns": 3
+    },
+    "a16_coworker-pranks-enc": {
+      "before": "passed",
+      "after": "passed",
+      "records": 81,
+      "columns": 4
+    },
+    "a16_prison-gifts-enc": {
+      "before": "physical record 90: 0 fields, expected 10",
+      "after": "passed",
+      "records": 89,
+      "columns": 10
+    },
+    "a16_prison-bully-inbound-scenarios-enc": {
+      "before": "physical record 69: 0 fields, expected 5",
+      "after": "passed",
+      "records": 68,
+      "columns": 5
+    },
+    "a16_social-media-post-types-enc": {
+      "before": "passed",
+      "after": "passed",
+      "records": 83,
+      "columns": 15
+    },
+    "a16_music-fan-interaction-scenarios-enc": {
+      "before": "physical record 76: 0 fields, expected 17",
+      "after": "passed",
+      "records": 75,
+      "columns": 17
+    }
+  },
+  "weapon_pool_checks": {
+    "fake=False,rare=False": {
+      "records": 60,
+      "weight": 180
+    },
+    "fake=False,rare=True": {
+      "records": 22,
+      "weight": 36
+    },
+    "fake=True,rare=False": {
+      "records": 27,
+      "weight": 59
+    },
+    "fake=True,rare=True": {
+      "records": 17,
+      "weight": 26
+    }
+  },
+  "prison_icon_patch": {
+    "site_va": "0x2b899dc",
+    "file_offset": 45636060,
+    "changed_instruction_bytes": 4,
+    "fallback": "factory"
+  },
+  "icon_instruction_emulation": {
+    "status": "passed",
+    "cases": 32,
+    "fallback": "factory",
+    "known_job_branches_preserved": true
+  },
+  "existing_age_guard_emulation": {
+    "status": "passed",
+    "instruction_emulation_cases": 712,
+    "aslr_load_biases": [
+      "0x0",
+      "0x1000000000"
+    ],
+    "coverage": [
+      "valid weighted indices unchanged",
+      "negative and oversized indices clamped",
+      "empty filtered pool retries catalogue once",
+      "missing or empty catalogue returns null",
+      "item generation preserves original nonnull paths",
+      "callee-saved registers and SP preserved"
+    ],
+    "limitation": "Existing virtual Count/RNG calls are simulated; not a device gameplay test."
+  },
+  "unrelated_unity_objects_preserved": 36735,
+  "changed_apk_entries": [
+    "lib/arm64-v8a/libil2cpp.so",
+    "assets/bin/Data/datapack.unity3d"
+  ],
+  "all_other_apk_entries_preserved": true,
+  "signature_checks": {
+    "VerifyApk.java": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]",
+    "VerifyNativeSigner.java": "verified=true; actual APK signer matches native SHA-1 check; fingerprint=N3gA1+wRR7rLi+T23e/U4BZZu9Q="
+  },
+  "crc_eocd_alignment_android_parse": "passed",
+  "phone_runtime_tested": false,
+  "limits": [
+    "Native menus retain existing access and eligibility rules.",
+    "Choice events remain probabilistic.",
+    "New prison jobs use a generic factory fallback; original job icons are preserved.",
+    "Reality TV, F1 and sports receive supporting careers/content, not full new simulation engines.",
+    "Taxes receive decision-event content, not a new tax calculation system.",
+    "No new face/hair asset system or paid entitlement changes."
+  ]
+}

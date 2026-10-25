@@ -1,0 +1,172 @@
+{
+  "stalker38": {
+    "Stage": {
+      "key": "Stage",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 4
+    },
+    "Cases": {
+      "key": "Cases",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000
+    },
+    "Evidence": {
+      "key": "Evidence",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Panic": {
+      "key": "Panic",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Profile": {
+      "key": "Profile",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "LabNorth": {
+      "key": "LabNorth",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "LabHarbor": {
+      "key": "LabHarbor",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Witnesses": {
+      "key": "Witnesses",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000
+    },
+    "Clippings": {
+      "key": "Clippings",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000
+    },
+    "Taskforce": {
+      "key": "Taskforce",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Counsel": {
+      "key": "Counsel",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Sentence": {
+      "key": "Sentence",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 40
+    },
+    "Pending": {
+      "key": "Pending",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "EventRoll": {
+      "key": "EventRoll",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 99
+    },
+    "LastAge": {
+      "key": "LastAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "ElapsedYears": {
+      "key": "ElapsedYears",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Sessions": {
+      "key": "Sessions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "Alias": {
+      "key": "Alias",
+      "type": "string",
+      "value": "Unchosen",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Motif": {
+      "key": "Motif",
+      "type": "string",
+      "value": "Unchosen",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Location": {
+      "key": "Location",
+      "type": "string",
+      "value": "No chapter selected",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Report": {
+      "key": "Report",
+      "type": "string",
+      "value": "No story incidents have occurred.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    }
+  }
+}

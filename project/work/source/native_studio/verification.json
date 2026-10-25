@@ -1,0 +1,54 @@
+{
+  "apk": "/workspace/scratch/206e17ff98a0/bitlife_annual_fix/native_studio_work/BitLife_Native_Music_Studio_v5.apk",
+  "size": 268758499,
+  "sha256": "5a92457192314e8a02d70a3b2ae30b89029eccf59612f7706fd7f684f8442663",
+  "backup": "/workspace/scratch/206e17ff98a0/bitlife_annual_fix/native_studio_work/BitLife_Native_Music_Studio_v5.zip",
+  "changed_entries": [
+    "lib/arm64-v8a/libil2cpp.so",
+    "assets/bin/Data/data.unity3d",
+    "assets/bin/Data/datapack.unity3d",
+    "classes13.dex"
+  ],
+  "removed_entries": [
+    "lib/arm64-v8a/libchance_expansion.so"
+  ],
+  "new_resource_paths": {
+    "genesis_music_studio": 36787,
+    "genesis_music_studio_ageup": 36788,
+    "genesis_music_studio_defaults": 36789,
+    "genesis_music_studio_hub": 36790,
+    "genesis_music_studio_project": 36791,
+    "genesis_music_studio_catalog": 36792
+  },
+  "preserved_resource_paths": 17397,
+  "preserved_datapack_objects": 36785,
+  "preserved_data_objects": 12815,
+  "dealer_tests": {
+    "status": "passed",
+    "instruction_emulation_cases": 712,
+    "aslr_load_biases": [
+      "0x0",
+      "0x1000000000"
+    ],
+    "coverage": [
+      "valid weighted indices unchanged",
+      "negative and oversized indices clamped",
+      "empty filtered pool retries catalogue once",
+      "missing or empty catalogue returns null",
+      "item generation preserves original nonnull paths",
+      "callee-saved registers and SP preserved"
+    ],
+    "limitation": "Existing virtual Count/RNG calls are simulated; not a device gameplay test."
+  },
+  "prison_icon_tests": {
+    "status": "passed",
+    "cases": 32,
+    "fallback": "factory",
+    "known_job_branches_preserved": true
+  },
+  "signing": {
+    "VerifyApk.java": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]",
+    "VerifyNativeSigner.java": "verified=true; actual APK signer matches native SHA-1 check; fingerprint=N3gA1+wRR7rLi+T23e/U4BZZu9Q="
+  },
+  "device_runtime_tested": false
+}

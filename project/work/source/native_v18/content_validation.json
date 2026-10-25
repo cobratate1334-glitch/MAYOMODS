@@ -1,0 +1,9 @@
+{
+  "checks": 55209,
+  "added_scenarios": 724,
+  "modified_resources": 48,
+  "typed_properties": 2900,
+  "registered_hairstyles": 20,
+  "genetic_portrait_variants": 5,
+  "device_runtime_tested": false
+}

@@ -1,0 +1,54 @@
+{
+  "metadata_sha256": "7bd1a0ddb9e1ac0b94bf23f43e5b821196a4eac25e968aaf01fec5b5e2409ac1",
+  "bindings": {
+    "ScenarioJobApply": {
+      "type_index": 3063,
+      "encoded_type_info": 536937815,
+      "cache_storage": 98947200,
+      "type_info_ref": 97011864,
+      "ctor": 59129788
+    },
+    "ScenarioJobRequestPromotion": {
+      "type_index": 3072,
+      "encoded_type_info": 536937833,
+      "cache_storage": 98947256,
+      "type_info_ref": 97012728,
+      "ctor": 59171652
+    },
+    "ScenarioJobRequestRaise": {
+      "type_index": 3073,
+      "encoded_type_info": 536937835,
+      "cache_storage": 98947264,
+      "type_info_ref": 97012736,
+      "ctor": 59175276
+    },
+    "ScenarioPrisonAppeal": {
+      "type_index": 3765,
+      "encoded_type_info": 536939063,
+      "cache_storage": 98951656,
+      "type_info_ref": 97006456,
+      "ctor": 38626932
+    },
+    "ScenarioPrisonLibrary": {
+      "type_index": 3794,
+      "encoded_type_info": 536939117,
+      "cache_storage": 98951856,
+      "type_info_ref": 97006536,
+      "ctor": 38716864
+    },
+    "ScenarioPrisonWorkout": {
+      "type_index": 3803,
+      "encoded_type_info": 536939135,
+      "cache_storage": 98951912,
+      "type_info_ref": 97006560,
+      "ctor": 38748520
+    },
+    "ScenarioPrisonParoleBoard": {
+      "type_index": 3796,
+      "encoded_type_info": 536939121,
+      "cache_storage": 98951872,
+      "type_info_ref": 96839856,
+      "ctor": 38717564
+    }
+  }
+}

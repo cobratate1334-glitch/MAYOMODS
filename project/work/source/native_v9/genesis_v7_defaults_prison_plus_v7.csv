@@ -1,0 +1,11 @@
+key,type,value,reset_on_ageup,minimum,maximum
+Education,int,0,,0,100
+Rehabilitation,int,0,,0,100
+Support,int,20,,0,100
+WorkUsed,int,0,true,0,6
+NativePrisonConduct,int,0,,-3,3
+NativePrisonSync,int,0,,0,1
+YearsRemaining,int,0,,-1,10000000
+NativeBehavior,int,0,,0,100
+Certifications,int,0,,0,1000000
+LastCertAge,int,-1,,-1,999

@@ -1,0 +1,97 @@
+{
+  "ListID": "genesis_v8_military_v8",
+  "Title": "DUTY AND READINESS",
+  "PresentationMode": "Normal",
+  "Sections": [
+    {
+      "Header": "Activities",
+      "Items": [
+        {
+          "Title": "Physical readiness",
+          "Icon": "rescue-helmet",
+          "SecondLine": "Build readiness and military performance",
+          "TileID": "v8_military_v8fitness",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.activitiesV8.military_v8fitness",
+                  "ScenarioFile": "genesis_activities_v8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Lead your unit",
+          "Icon": "rescue-helmet",
+          "SecondLine": "Build readiness and military performance",
+          "TileID": "v8_military_v8leadership",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.activitiesV8.military_v8leadership",
+                  "ScenarioFile": "genesis_activities_v8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Equipment inspection",
+          "Icon": "rescue-helmet",
+          "SecondLine": "Build readiness and military performance",
+          "TileID": "v8_military_v8logistics",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.activitiesV8.military_v8logistics",
+                  "ScenarioFile": "genesis_activities_v8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Unit welfare",
+          "Icon": "rescue-helmet",
+          "SecondLine": "Build readiness and military performance",
+          "TileID": "v8_military_v8welfare",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.activitiesV8.military_v8welfare",
+                  "ScenarioFile": "genesis_activities_v8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Navigation Exercise",
+          "Icon": "clipboard",
+          "SecondLine": "Three map-reading checkpoints",
+          "TileID": "v8_military_v8nav",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.activitiesV8.military_v8nav",
+                  "ScenarioFile": "genesis_activities_v8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

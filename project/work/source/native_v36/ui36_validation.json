@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "tests": 4,
+  "Android_API_levels": [
+    28,
+    33
+  ],
+  "framework": "Robolectric 4.14.1",
+  "graphics": "native Skia",
+  "actual_Android_views_executed": true,
+  "layout_widths": [
+    280,
+    360,
+    600
+  ],
+  "large_font_scale": 1.6,
+  "settings_back_and_persistent_toggles": true,
+  "interrupted_animation_and_lifecycle_recovery": true,
+  "source_sha256": {
+    "LauncherIcon.java": "658e5a92297d9de789c56adfcb7e1a3f03e6bdc6871b5da8af30f8dd94098a62",
+    "LauncherMotion.java": "477d2d653fc089ef43482e6f922e267a853e6c1ced86f895eaeb8210e00a2455",
+    "StartupActivity.java": "af0dad373e11e601dceed56f2ae4e3c4b72f6658d4e2cc82baf07e2a1b2f8dab"
+  },
+  "tests_sha256": "e2113b9dc2ba6fdb733f5c5cbfd52f7ab19aed3a5b4517d2eb480f36f924df7b",
+  "screenshot_sha256": "0bfcf3e1890a26c9a9baa0353baa60262f793646502e22fde91e958f7ca1bf91",
+  "ART_tested": false,
+  "device_tested": false,
+  "BlueStacks_tested": false
+}

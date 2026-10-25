@@ -1,0 +1,141 @@
+{
+  "passed": true,
+  "checks": 573,
+  "menu_entries_verified": true,
+  "all_27_item_aliases_verified": true,
+  "all_catalog_rows_match_header": true,
+  "contrast_checks": [
+    {
+      "era": "Vintage",
+      "foreground": "ink",
+      "background": "paper",
+      "contrast": 11.91
+    },
+    {
+      "era": "Vintage",
+      "foreground": "ink",
+      "background": "cell",
+      "contrast": 13.22
+    },
+    {
+      "era": "Vintage",
+      "foreground": "ink",
+      "background": "alt",
+      "contrast": 10.24
+    },
+    {
+      "era": "Vintage",
+      "foreground": "secondary",
+      "background": "paper",
+      "contrast": 6.01
+    },
+    {
+      "era": "Vintage",
+      "foreground": "light",
+      "background": "bar",
+      "contrast": 9.96
+    },
+    {
+      "era": "Noir",
+      "foreground": "ink",
+      "background": "paper",
+      "contrast": 13.14
+    },
+    {
+      "era": "Noir",
+      "foreground": "ink",
+      "background": "cell",
+      "contrast": 11.13
+    },
+    {
+      "era": "Noir",
+      "foreground": "ink",
+      "background": "alt",
+      "contrast": 8.63
+    },
+    {
+      "era": "Noir",
+      "foreground": "secondary",
+      "background": "paper",
+      "contrast": 9.01
+    },
+    {
+      "era": "Noir",
+      "foreground": "light",
+      "background": "bar",
+      "contrast": 15.42
+    },
+    {
+      "era": "Retro",
+      "foreground": "ink",
+      "background": "paper",
+      "contrast": 10.7
+    },
+    {
+      "era": "Retro",
+      "foreground": "ink",
+      "background": "cell",
+      "contrast": 11.29
+    },
+    {
+      "era": "Retro",
+      "foreground": "ink",
+      "background": "alt",
+      "contrast": 9.1
+    },
+    {
+      "era": "Retro",
+      "foreground": "secondary",
+      "background": "paper",
+      "contrast": 5.77
+    },
+    {
+      "era": "Retro",
+      "foreground": "light",
+      "background": "bar",
+      "contrast": 6.19
+    },
+    {
+      "era": "Modern",
+      "foreground": "ink",
+      "background": "paper",
+      "contrast": 7.09
+    },
+    {
+      "era": "Modern",
+      "foreground": "ink",
+      "background": "cell",
+      "contrast": 7.09
+    },
+    {
+      "era": "Modern",
+      "foreground": "ink",
+      "background": "alt",
+      "contrast": 6.0
+    },
+    {
+      "era": "Modern",
+      "foreground": "secondary",
+      "background": "paper",
+      "contrast": 6.15
+    },
+    {
+      "era": "Modern",
+      "foreground": "light",
+      "background": "bar",
+      "contrast": 6.83
+    }
+  ],
+  "assets": {
+    "passed": true,
+    "modified_TextAssets": 16,
+    "added_TextAssets": [
+      "genesis_v18_expansions46",
+      "genesis_v18_defaults_expansions46"
+    ],
+    "unedited_Unity_objects_preserved": true,
+    "existing_resource_paths_preserved": true,
+    "datapack_sha256": "9cb74e21a6cd6ec236e03ab9cd88d775d91dd442b277bd16cf90cd1b69ae51b0",
+    "data_sha256": "ee4cfe50ff734cf6db77582076e39741bb8bbe9be92d32f47f49a671394af8fe"
+  }
+}

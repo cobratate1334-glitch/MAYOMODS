@@ -1,0 +1,512 @@
+[
+  {
+    "<Name>k__BackingField": "Afghanistan",
+    "<Code>k__BackingField": "af",
+    "<Demonym>k__BackingField": "Afghan"
+  },
+  {
+    "<Name>k__BackingField": "Algeria",
+    "<Code>k__BackingField": "dz",
+    "<Demonym>k__BackingField": "Algerian"
+  },
+  {
+    "<Name>k__BackingField": "Andorra",
+    "<Code>k__BackingField": "ad",
+    "<Demonym>k__BackingField": "Andorran"
+  },
+  {
+    "<Name>k__BackingField": "Angola",
+    "<Code>k__BackingField": "ao",
+    "<Demonym>k__BackingField": "Angolan"
+  },
+  {
+    "<Name>k__BackingField": "Argentina",
+    "<Code>k__BackingField": "ar",
+    "<Demonym>k__BackingField": "Argentine"
+  },
+  {
+    "<Name>k__BackingField": "Aruba",
+    "<Code>k__BackingField": "aw",
+    "<Demonym>k__BackingField": "Aruban"
+  },
+  {
+    "<Name>k__BackingField": "Australia",
+    "<Code>k__BackingField": "au",
+    "<Demonym>k__BackingField": "Australian"
+  },
+  {
+    "<Name>k__BackingField": "Austria",
+    "<Code>k__BackingField": "at",
+    "<Demonym>k__BackingField": "Austrian"
+  },
+  {
+    "<Name>k__BackingField": "Bahamas",
+    "<Code>k__BackingField": "bs",
+    "<Demonym>k__BackingField": "Bahamian"
+  },
+  {
+    "<Name>k__BackingField": "Bangladesh",
+    "<Code>k__BackingField": "bd",
+    "<Demonym>k__BackingField": "Bangladeshi"
+  },
+  {
+    "<Name>k__BackingField": "Belgium",
+    "<Code>k__BackingField": "be",
+    "<Demonym>k__BackingField": "Belgian"
+  },
+  {
+    "<Name>k__BackingField": "Belize",
+    "<Code>k__BackingField": "bz",
+    "<Demonym>k__BackingField": "Belizean"
+  },
+  {
+    "<Name>k__BackingField": "Bolivia",
+    "<Code>k__BackingField": "bo",
+    "<Demonym>k__BackingField": "Bolivian"
+  },
+  {
+    "<Name>k__BackingField": "Brazil",
+    "<Code>k__BackingField": "br",
+    "<Demonym>k__BackingField": "Brazilian"
+  },
+  {
+    "<Name>k__BackingField": "Canada",
+    "<Code>k__BackingField": "ca",
+    "<Demonym>k__BackingField": "Canadian"
+  },
+  {
+    "<Name>k__BackingField": "Chile",
+    "<Code>k__BackingField": "cl",
+    "<Demonym>k__BackingField": "Chilean"
+  },
+  {
+    "<Name>k__BackingField": "China",
+    "<Code>k__BackingField": "cn",
+    "<Demonym>k__BackingField": "Chinese"
+  },
+  {
+    "<Name>k__BackingField": "Colombia",
+    "<Code>k__BackingField": "co",
+    "<Demonym>k__BackingField": "Colombian"
+  },
+  {
+    "<Name>k__BackingField": "Costa Rica",
+    "<Code>k__BackingField": "cr",
+    "<Demonym>k__BackingField": "Costa Rican"
+  },
+  {
+    "<Name>k__BackingField": "Croatia",
+    "<Code>k__BackingField": "hr",
+    "<Demonym>k__BackingField": "Croatian"
+  },
+  {
+    "<Name>k__BackingField": "Cuba",
+    "<Code>k__BackingField": "cu",
+    "<Demonym>k__BackingField": "Cuban"
+  },
+  {
+    "<Name>k__BackingField": "Czech Republic",
+    "<Code>k__BackingField": "cz",
+    "<Demonym>k__BackingField": "Czech"
+  },
+  {
+    "<Name>k__BackingField": "Denmark",
+    "<Code>k__BackingField": "dk",
+    "<Demonym>k__BackingField": "Dane"
+  },
+  {
+    "<Name>k__BackingField": "Djibouti",
+    "<Code>k__BackingField": "dj",
+    "<Demonym>k__BackingField": "Djiboutian"
+  },
+  {
+    "<Name>k__BackingField": "Dominican Republic",
+    "<Code>k__BackingField": "do",
+    "<Demonym>k__BackingField": "Dominican"
+  },
+  {
+    "<Name>k__BackingField": "DR Congo",
+    "<Code>k__BackingField": "cd",
+    "<Demonym>k__BackingField": "Congolese"
+  },
+  {
+    "<Name>k__BackingField": "Ecuador",
+    "<Code>k__BackingField": "ec",
+    "<Demonym>k__BackingField": "Ecuadorian"
+  },
+  {
+    "<Name>k__BackingField": "Egypt",
+    "<Code>k__BackingField": "eg",
+    "<Demonym>k__BackingField": "Egyptian"
+  },
+  {
+    "<Name>k__BackingField": "El Salvador",
+    "<Code>k__BackingField": "sv",
+    "<Demonym>k__BackingField": "Salvadoran"
+  },
+  {
+    "<Name>k__BackingField": "Estonia",
+    "<Code>k__BackingField": "ee",
+    "<Demonym>k__BackingField": "Estonian"
+  },
+  {
+    "<Name>k__BackingField": "Ethiopia",
+    "<Code>k__BackingField": "et",
+    "<Demonym>k__BackingField": "Ethiopian"
+  },
+  {
+    "<Name>k__BackingField": "Finland",
+    "<Code>k__BackingField": "fi",
+    "<Demonym>k__BackingField": "Finn"
+  },
+  {
+    "<Name>k__BackingField": "France",
+    "<Code>k__BackingField": "fr",
+    "<Demonym>k__BackingField": "French"
+  },
+  {
+    "<Name>k__BackingField": "Georgia",
+    "<Code>k__BackingField": "ge",
+    "<Demonym>k__BackingField": "Georgian"
+  },
+  {
+    "<Name>k__BackingField": "Germany",
+    "<Code>k__BackingField": "de",
+    "<Demonym>k__BackingField": "German"
+  },
+  {
+    "<Name>k__BackingField": "Greece",
+    "<Code>k__BackingField": "gr",
+    "<Demonym>k__BackingField": "Greek"
+  },
+  {
+    "<Name>k__BackingField": "Guatemala",
+    "<Code>k__BackingField": "gt",
+    "<Demonym>k__BackingField": "Guatemalan"
+  },
+  {
+    "<Name>k__BackingField": "Guyana",
+    "<Code>k__BackingField": "gy",
+    "<Demonym>k__BackingField": "Guyanese"
+  },
+  {
+    "<Name>k__BackingField": "Haiti",
+    "<Code>k__BackingField": "ht",
+    "<Demonym>k__BackingField": "Haitian"
+  },
+  {
+    "<Name>k__BackingField": "Hong Kong",
+    "<Code>k__BackingField": "hk",
+    "<Demonym>k__BackingField": "Hongkonger"
+  },
+  {
+    "<Name>k__BackingField": "Hungary",
+    "<Code>k__BackingField": "hu",
+    "<Demonym>k__BackingField": "Hungarian"
+  },
+  {
+    "<Name>k__BackingField": "India",
+    "<Code>k__BackingField": "in",
+    "<Demonym>k__BackingField": "Indian"
+  },
+  {
+    "<Name>k__BackingField": "Indonesia",
+    "<Code>k__BackingField": "id",
+    "<Demonym>k__BackingField": "Indonesian"
+  },
+  {
+    "<Name>k__BackingField": "Iran",
+    "<Code>k__BackingField": "ir",
+    "<Demonym>k__BackingField": "Iranian"
+  },
+  {
+    "<Name>k__BackingField": "Iraq",
+    "<Code>k__BackingField": "iq",
+    "<Demonym>k__BackingField": "Iraqi"
+  },
+  {
+    "<Name>k__BackingField": "Ireland",
+    "<Code>k__BackingField": "ie",
+    "<Demonym>k__BackingField": "Irish"
+  },
+  {
+    "<Name>k__BackingField": "Israel",
+    "<Code>k__BackingField": "il",
+    "<Demonym>k__BackingField": "Israeli"
+  },
+  {
+    "<Name>k__BackingField": "Italy",
+    "<Code>k__BackingField": "it",
+    "<Demonym>k__BackingField": "Italian"
+  },
+  {
+    "<Name>k__BackingField": "Jamaica",
+    "<Code>k__BackingField": "jm",
+    "<Demonym>k__BackingField": "Jamaican"
+  },
+  {
+    "<Name>k__BackingField": "Japan",
+    "<Code>k__BackingField": "jp",
+    "<Demonym>k__BackingField": "Japanese"
+  },
+  {
+    "<Name>k__BackingField": "Jordan",
+    "<Code>k__BackingField": "jo",
+    "<Demonym>k__BackingField": "Jordanian"
+  },
+  {
+    "<Name>k__BackingField": "Kazakhstan",
+    "<Code>k__BackingField": "kz",
+    "<Demonym>k__BackingField": "Kazakhstani"
+  },
+  {
+    "<Name>k__BackingField": "Kenya",
+    "<Code>k__BackingField": "ke",
+    "<Demonym>k__BackingField": "Kenyan"
+  },
+  {
+    "<Name>k__BackingField": "Kuwait",
+    "<Code>k__BackingField": "kw",
+    "<Demonym>k__BackingField": "Kuwaiti"
+  },
+  {
+    "<Name>k__BackingField": "Lebanon",
+    "<Code>k__BackingField": "lb",
+    "<Demonym>k__BackingField": "Lebanese"
+  },
+  {
+    "<Name>k__BackingField": "Malaysia",
+    "<Code>k__BackingField": "my",
+    "<Demonym>k__BackingField": "Malaysian"
+  },
+  {
+    "<Name>k__BackingField": "Mexico",
+    "<Code>k__BackingField": "mx",
+    "<Demonym>k__BackingField": "Mexican"
+  },
+  {
+    "<Name>k__BackingField": "Monaco",
+    "<Code>k__BackingField": "mc",
+    "<Demonym>k__BackingField": "Monacan"
+  },
+  {
+    "<Name>k__BackingField": "Mongolia",
+    "<Code>k__BackingField": "mn",
+    "<Demonym>k__BackingField": "Mongolian"
+  },
+  {
+    "<Name>k__BackingField": "Morocco",
+    "<Code>k__BackingField": "ma",
+    "<Demonym>k__BackingField": "Moroccan"
+  },
+  {
+    "<Name>k__BackingField": "Nepal",
+    "<Code>k__BackingField": "np",
+    "<Demonym>k__BackingField": "Nepalese"
+  },
+  {
+    "<Name>k__BackingField": "Netherlands",
+    "<Code>k__BackingField": "nl",
+    "<Demonym>k__BackingField": "Dutch"
+  },
+  {
+    "<Name>k__BackingField": "New Zealand",
+    "<Code>k__BackingField": "nz",
+    "<Demonym>k__BackingField": "New Zealander"
+  },
+  {
+    "<Name>k__BackingField": "Nicaragua",
+    "<Code>k__BackingField": "ni",
+    "<Demonym>k__BackingField": "Nicaraguan"
+  },
+  {
+    "<Name>k__BackingField": "Nigeria",
+    "<Code>k__BackingField": "ng",
+    "<Demonym>k__BackingField": "Nigerian"
+  },
+  {
+    "<Name>k__BackingField": "Norway",
+    "<Code>k__BackingField": "no",
+    "<Demonym>k__BackingField": "Norwegian"
+  },
+  {
+    "<Name>k__BackingField": "Pakistan",
+    "<Code>k__BackingField": "pk",
+    "<Demonym>k__BackingField": "Pakistani"
+  },
+  {
+    "<Name>k__BackingField": "Panama",
+    "<Code>k__BackingField": "pa",
+    "<Demonym>k__BackingField": "Panamanian"
+  },
+  {
+    "<Name>k__BackingField": "Papua New Guinea",
+    "<Code>k__BackingField": "pg",
+    "<Demonym>k__BackingField": "Papuan"
+  },
+  {
+    "<Name>k__BackingField": "Paraguay",
+    "<Code>k__BackingField": "py",
+    "<Demonym>k__BackingField": "Paraguayan"
+  },
+  {
+    "<Name>k__BackingField": "Peru",
+    "<Code>k__BackingField": "pe",
+    "<Demonym>k__BackingField": "Peruvian"
+  },
+  {
+    "<Name>k__BackingField": "Philippines",
+    "<Code>k__BackingField": "ph",
+    "<Demonym>k__BackingField": "Filipino"
+  },
+  {
+    "<Name>k__BackingField": "Poland",
+    "<Code>k__BackingField": "pl",
+    "<Demonym>k__BackingField": "Pole"
+  },
+  {
+    "<Name>k__BackingField": "Portugal",
+    "<Code>k__BackingField": "pt",
+    "<Demonym>k__BackingField": "Portuguese"
+  },
+  {
+    "<Name>k__BackingField": "Puerto Rico",
+    "<Code>k__BackingField": "pr",
+    "<Demonym>k__BackingField": "Puerto Rican"
+  },
+  {
+    "<Name>k__BackingField": "Qatar",
+    "<Code>k__BackingField": "qa",
+    "<Demonym>k__BackingField": "Qatari"
+  },
+  {
+    "<Name>k__BackingField": "Romania",
+    "<Code>k__BackingField": "ro",
+    "<Demonym>k__BackingField": "Romanian"
+  },
+  {
+    "<Name>k__BackingField": "Russia",
+    "<Code>k__BackingField": "ru",
+    "<Demonym>k__BackingField": "Russian"
+  },
+  {
+    "<Name>k__BackingField": "Samoa",
+    "<Code>k__BackingField": "ws",
+    "<Demonym>k__BackingField": "Samoan"
+  },
+  {
+    "<Name>k__BackingField": "Saudi Arabia",
+    "<Code>k__BackingField": "sa",
+    "<Demonym>k__BackingField": "Saudi Arabian"
+  },
+  {
+    "<Name>k__BackingField": "Serbia",
+    "<Code>k__BackingField": "rs",
+    "<Demonym>k__BackingField": "Serbian"
+  },
+  {
+    "<Name>k__BackingField": "Singapore",
+    "<Code>k__BackingField": "sg",
+    "<Demonym>k__BackingField": "Singaporean"
+  },
+  {
+    "<Name>k__BackingField": "Slovakia",
+    "<Code>k__BackingField": "sk",
+    "<Demonym>k__BackingField": "Slovakian"
+  },
+  {
+    "<Name>k__BackingField": "South Africa",
+    "<Code>k__BackingField": "za",
+    "<Demonym>k__BackingField": "South African"
+  },
+  {
+    "<Name>k__BackingField": "South Korea",
+    "<Code>k__BackingField": "kr",
+    "<Demonym>k__BackingField": "Korean"
+  },
+  {
+    "<Name>k__BackingField": "Spain",
+    "<Code>k__BackingField": "es",
+    "<Demonym>k__BackingField": "Spaniard"
+  },
+  {
+    "<Name>k__BackingField": "Sweden",
+    "<Code>k__BackingField": "se",
+    "<Demonym>k__BackingField": "Swede"
+  },
+  {
+    "<Name>k__BackingField": "Switzerland",
+    "<Code>k__BackingField": "ch",
+    "<Demonym>k__BackingField": "Swiss"
+  },
+  {
+    "<Name>k__BackingField": "Syria",
+    "<Code>k__BackingField": "sy",
+    "<Demonym>k__BackingField": "Syrian"
+  },
+  {
+    "<Name>k__BackingField": "Taiwan",
+    "<Code>k__BackingField": "tw",
+    "<Demonym>k__BackingField": "Taiwanese"
+  },
+  {
+    "<Name>k__BackingField": "Thailand",
+    "<Code>k__BackingField": "th",
+    "<Demonym>k__BackingField": "Thai"
+  },
+  {
+    "<Name>k__BackingField": "Tunisia",
+    "<Code>k__BackingField": "tn",
+    "<Demonym>k__BackingField": "Tunisian"
+  },
+  {
+    "<Name>k__BackingField": "Turkey",
+    "<Code>k__BackingField": "tr",
+    "<Demonym>k__BackingField": "Turk"
+  },
+  {
+    "<Name>k__BackingField": "Uganda",
+    "<Code>k__BackingField": "ug",
+    "<Demonym>k__BackingField": "Ugandan"
+  },
+  {
+    "<Name>k__BackingField": "Ukraine",
+    "<Code>k__BackingField": "ua",
+    "<Demonym>k__BackingField": "Ukrainian"
+  },
+  {
+    "<Name>k__BackingField": "United Arab Emirates",
+    "<Code>k__BackingField": "ae",
+    "<Demonym>k__BackingField": "Emirati"
+  },
+  {
+    "<Name>k__BackingField": "United Kingdom",
+    "<Code>k__BackingField": "gb",
+    "<Demonym>k__BackingField": "British"
+  },
+  {
+    "<Name>k__BackingField": "United States",
+    "<Code>k__BackingField": "us",
+    "<Demonym>k__BackingField": "American"
+  },
+  {
+    "<Name>k__BackingField": "Uruguay",
+    "<Code>k__BackingField": "uy",
+    "<Demonym>k__BackingField": "Uruguayan"
+  },
+  {
+    "<Name>k__BackingField": "Venezuela",
+    "<Code>k__BackingField": "ve",
+    "<Demonym>k__BackingField": "Venezuelan"
+  },
+  {
+    "<Name>k__BackingField": "Vietnam",
+    "<Code>k__BackingField": "vn",
+    "<Demonym>k__BackingField": "Vietnamese"
+  },
+  {
+    "<Name>k__BackingField": "Zimbabwe",
+    "<Code>k__BackingField": "zw",
+    "<Demonym>k__BackingField": "Zimbabwean"
+  }
+]

@@ -1,0 +1,26 @@
+Time: 1792480693932; process: com.candywriter.bitlife; PID: 28572
+Reason: Native crash (5); status / signal: 11
+System detail: crash
+Raw system trace retained for diagnostic ZIP.
+
+Native crash details:
+Signal 11 SIGSEGV SEGV_MAPERR
+Fault address: 0x0
+Cause: null pointer dereference
+Thread: ywriter.bitlife
+#0 libunity.so +0xe74a1c
+#1 libunity.so +0xe74b6c
+#2 libunity.so +0xe75600
+#3 libunity.so +0x7ab968
+#4 libunity.so +0xe5e8d0
+#5 libunity.so +0xe73c2c
+#6 libunity.so +0x7a9c0c
+#7 libunity.so +0xe745a4
+#8 libunity.so +0xe73ee8
+#9 libunity.so +0x7a3bf4
+#10 [vdso] +0x848
+#11 libc.so +0x757a4 (abort+156) [build 1253948024ce7eda9f9634b60ccd7f4b]
+#12 libRocketGames.so +0xdda48 [build 8c332c7f05db341a42633053bff26ca4b6e37107]
+#13 libRocketGames.so +0xde398 [build 8c332c7f05db341a42633053bff26ca4b6e37107]
+#14 libc.so +0x866ec (__pthread_start(void*) (.__uniq.67847048707805468364044055584648682506)+184) [build 1253948024ce7eda9f9634b60ccd7f4b]
+#15 libc.so +0x7900c (__start_thread+68) [build 1253948024ce7eda9f9634b60ccd7f4b]

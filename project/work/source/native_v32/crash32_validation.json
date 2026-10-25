@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "binary_sha256": "1ca76ea9c4b7e187a9845ff2fb2361544bbcccf1e681ebe59b89fa2a87d6060f",
+  "original_crash_reproduced": [
+    {
+      "aslr_bias": 0,
+      "pc": "0x2238d44",
+      "handle": "0x520000025c",
+      "fault": "0x5200000020"
+    },
+    {
+      "aslr_bias": 68719476736,
+      "pc": "0x2238d44",
+      "handle": "0x520000025c",
+      "fault": "0x5200000020"
+    }
+  ],
+  "actual_native_free_executed": true,
+  "initial_new_state_loader_zeroed": true,
+  "original_RW_payload_unchanged": true,
+  "fixed_setup_repeat_close_reopen_passed": true,
+  "Android_runtime_tested": false
+}

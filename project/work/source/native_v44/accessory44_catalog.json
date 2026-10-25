@@ -1,0 +1,218 @@
+[
+  {
+    "name": "a44_accessory_01",
+    "source": "a44_accessory_01.png",
+    "path": "emoji/voltron/accessories/era44/a44_accessory_01",
+    "item": 1,
+    "slot": "Mouth",
+    "pixel_sha256": "77d9973d8facd4316f390edbd1411f019a5693bdef8138a0fb7831f1179985d8"
+  },
+  {
+    "name": "a44_accessory_02",
+    "source": "a44_accessory_02.png",
+    "path": "emoji/voltron/accessories/era44/a44_accessory_02",
+    "item": 2,
+    "slot": "Headwear",
+    "pixel_sha256": "5be7a4fef919c80304652df65f5b5e9b4923316140383adda5936c7b70925c5f"
+  },
+  {
+    "name": "a44_accessory_03",
+    "source": "a44_accessory_03.png",
+    "path": "emoji/voltron/accessories/era44/a44_accessory_03",
+    "item": 3,
+    "slot": "Headwear",
+    "pixel_sha256": "0790aa30b394d3a300445cf57cc572189f72bff2f3dfd9efabaf9867e89a156d"
+  },
+  {
+    "name": "a44_accessory_04",
+    "source": "a44_accessory_04.png",
+    "path": "emoji/voltron/accessories/era44/a44_accessory_04",
+    "item": 4,
+    "slot": "Headwear",
+    "pixel_sha256": "7b5f5700f30b60ef4f971e9e5b8c71df327303353443d54a62f74d29df76b2c7"
+  },
+  {
+    "name": "a44_accessory_05",
+    "source": "a44_accessory_05.png",
+    "path": "emoji/voltron/accessories/era44/a44_accessory_05",
+    "item": 5,
+    "slot": "Headwear",
+    "pixel_sha256": "de38a094237ef1d8a983bdae67cc6fe90a865c7f35dd306c0597a94df984f061"
+  },
+  {
+    "name": "a44_accessory_06",
+    "source": "a44_accessory_06.png",
+    "path": "emoji/voltron/accessories/era44/a44_accessory_06",
+    "item": 6,
+    "slot": "Headwear",
+    "pixel_sha256": "0cc84c1ce4fb73229906031f91c4dbfee2157cedf7e03c6965ac14a2499498d8"
+  },
+  {
+    "name": "a44_accessory_07",
+    "source": "a44_accessory_07.png",
+    "path": "emoji/voltron/accessories/era44/a44_accessory_07",
+    "item": 7,
+    "slot": "Headwear",
+    "pixel_sha256": "f7c2a76e9fec1fcd9743d77c53d6675996ea1c82d9f1daf852f68b33120b8960"
+  },
+  {
+    "name": "a44_accessory_08",
+    "source": "a44_accessory_08.png",
+    "path": "emoji/voltron/accessories/era44/a44_accessory_08",
+    "item": 8,
+    "slot": "Headwear",
+    "pixel_sha256": "9e119716c870f5cf1e8240f278fca8951f1bc16e76d1709fbc157175d1795851"
+  },
+  {
+    "name": "a44_accessory_09",
+    "source": "a44_accessory_09.png",
+    "path": "emoji/voltron/accessories/era44/a44_accessory_09",
+    "item": 9,
+    "slot": "Headwear",
+    "pixel_sha256": "811b46951e107d3e2dfd1a4fdeb773b5b04f8fc1e1923160e7c90d77c47f7bfb"
+  },
+  {
+    "name": "a44_accessory_10",
+    "source": "a44_accessory_10.png",
+    "path": "emoji/voltron/accessories/era44/a44_accessory_10",
+    "item": 10,
+    "slot": "Headwear",
+    "pixel_sha256": "f236c98ec08cedf2efe5112671d64d234d4557db87d2890bba0013266e554bb5"
+  },
+  {
+    "name": "a44_accessory_11",
+    "source": "a44_accessory_11.png",
+    "path": "emoji/voltron/accessories/era44/a44_accessory_11",
+    "item": 11,
+    "slot": "Headwear",
+    "pixel_sha256": "de4085a8368932e6a42df8fa961599b424bcdb48be4f5f1e13db9b12793701fe"
+  },
+  {
+    "name": "a44_accessory_12",
+    "source": "a44_accessory_12.png",
+    "path": "emoji/voltron/accessories/era44/a44_accessory_12",
+    "item": 12,
+    "slot": "Headwear",
+    "pixel_sha256": "c22470e0dcd5199fd29583dc0fdbd4d2ed47a71f2fa832244018a3eea5214fb6"
+  },
+  {
+    "name": "a44_accessory_13",
+    "source": "a44_accessory_13.png",
+    "path": "emoji/voltron/accessories/era44/a44_accessory_13",
+    "item": 13,
+    "slot": "Headwear",
+    "pixel_sha256": "1923a6d1e7c432b13dbf8dd76a1da239fb8d3573f899b951c758d899c4a0d7df"
+  },
+  {
+    "name": "a44_accessory_14",
+    "source": "a44_accessory_14.png",
+    "path": "emoji/voltron/accessories/era44/a44_accessory_14",
+    "item": 14,
+    "slot": "Headwear",
+    "pixel_sha256": "7e67475b8264a286d219781f2db61cface548bd55b682d808893cffcce493073"
+  },
+  {
+    "name": "a44_accessory_15",
+    "source": "a44_accessory_15.png",
+    "path": "emoji/voltron/accessories/era44/a44_accessory_15",
+    "item": 15,
+    "slot": "Headwear",
+    "pixel_sha256": "34328d2b456e343d824090785482beedb53d402e68d08f6171a6fb45063209da"
+  },
+  {
+    "name": "a44_accessory_16",
+    "source": "a44_accessory_16.png",
+    "path": "emoji/voltron/accessories/era44/a44_accessory_16",
+    "item": 16,
+    "slot": "Mouth",
+    "pixel_sha256": "e35eb5086c76a07e702490906b4a40cae570badefd65579ea245e9cb24a23c1d"
+  },
+  {
+    "name": "a44_accessory_17",
+    "source": "a44_accessory_17.png",
+    "path": "emoji/voltron/accessories/era44/a44_accessory_17",
+    "item": 17,
+    "slot": "Mouth",
+    "pixel_sha256": "d504cdd1d4225e5f585985d2f17bbe281c4e295b41229c15700c6ffa2123a0a9"
+  },
+  {
+    "name": "a44_accessory_18",
+    "source": "a44_accessory_18.png",
+    "path": "emoji/voltron/accessories/era44/a44_accessory_18",
+    "item": 18,
+    "slot": "Headwear",
+    "pixel_sha256": "9ee84d9378681803cca3e884683abfdfb48f8e1ddc19b5fe6c6f595605b76245"
+  },
+  {
+    "name": "a44_accessory_19",
+    "source": "a44_accessory_19.png",
+    "path": "emoji/voltron/accessories/era44/a44_accessory_19",
+    "item": 19,
+    "slot": "Headwear",
+    "pixel_sha256": "7c2488ad4a1be78b260bc669fbdb640bd0bb877d131a6c3e2a77ade0810c95ff"
+  },
+  {
+    "name": "a44_accessory_20",
+    "source": "a44_accessory_20.png",
+    "path": "emoji/voltron/accessories/era44/a44_accessory_20",
+    "item": 20,
+    "slot": "Headwear",
+    "pixel_sha256": "c535bb294b5777e0297af1a492d5607b86d0e0f06368f4b678dc4bb80e908a32"
+  },
+  {
+    "name": "a44_accessory_21",
+    "source": "a44_accessory_21.png",
+    "path": "emoji/voltron/accessories/era44/a44_accessory_21",
+    "item": 21,
+    "slot": "Headwear",
+    "pixel_sha256": "27f108c05048570b82e9c0f95fc82fcb4364226e49cddd494a35c8cf5e24ecf0"
+  },
+  {
+    "name": "a44_accessory_22",
+    "source": "a44_accessory_22.png",
+    "path": "emoji/voltron/accessories/era44/a44_accessory_22",
+    "item": 22,
+    "slot": "Headwear",
+    "pixel_sha256": "dde1bed90e0ea4b0972b991718c56d2a828c494a16b2550b975fbe59627d5ba4"
+  },
+  {
+    "name": "a44_accessory_23",
+    "source": "a44_accessory_23.png",
+    "path": "emoji/voltron/accessories/era44/a44_accessory_23",
+    "item": 23,
+    "slot": "Headwear",
+    "pixel_sha256": "c63a7753c469f1ec42931e80b8cc3d79db71e083758df5ccce84f23a47c2eae2"
+  },
+  {
+    "name": "a44_accessory_24",
+    "source": "a44_accessory_24.png",
+    "path": "emoji/voltron/accessories/era44/a44_accessory_24",
+    "item": 24,
+    "slot": "Headwear",
+    "pixel_sha256": "5d7bf1625c2ccbb2ec319bc931e85eb935da3c79fc903a1910221d120583ee43"
+  },
+  {
+    "name": "a44_accessory_25",
+    "source": "a44_accessory_25.png",
+    "path": "emoji/voltron/accessories/era44/a44_accessory_25",
+    "item": 25,
+    "slot": "Headwear",
+    "pixel_sha256": "d06f542cc1274ea30c36cf694c2813dd477f2bfce8b99e58706294205075dc99"
+  },
+  {
+    "name": "a44_accessory_26",
+    "source": "a44_accessory_26.png",
+    "path": "emoji/voltron/accessories/era44/a44_accessory_26",
+    "item": 26,
+    "slot": "Headwear",
+    "pixel_sha256": "bd1c7142757b701709a8bfa56b11db624edb6c25c678a10cc6ef723a0f302049"
+  },
+  {
+    "name": "a44_accessory_27",
+    "source": "a44_accessory_27.png",
+    "path": "emoji/voltron/accessories/era44/a44_accessory_27",
+    "item": 27,
+    "slot": "Headwear",
+    "pixel_sha256": "44871f20c92964987586acfe53a29e82dbde838049bee021144a36b6f5f0ed38"
+  }
+]

@@ -1,0 +1,24 @@
+# Local build inputs and outputs; preserve versioned source/assets/reports.
+/.venv/
+__pycache__/
+*.py[cod]
+*.apk
+*.aab
+*.so
+*.class
+*.dex
+*.jks
+*.keystore
+*.pem
+*.p12
+*.pfx
+/private_inputs/
+/private_signer/
+/project/base/
+/project/local_tools/
+/out/
+/project/out/
+/project/work/build*/
+**/bundles/
+**/Reports/
+.DS_Store

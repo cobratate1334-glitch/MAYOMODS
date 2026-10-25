@@ -1,0 +1,295 @@
+{
+  "original_sha256": "12b478ba3a4740fccea18d68630e6b8097d1165ab571a7c3846375eb66a2bd19",
+  "binary_sha256": "d9088ded1337a47e895bceb91934ea6249665dbd58c922ec75c360b6bb269a6d",
+  "changes": [
+    {
+      "method": [
+        "Lcom/unity3d/player/UnityPlayerActivity;",
+        "onCreate",
+        "(Landroid/os/Bundle;)V"
+      ],
+      "original_sha256": "12b478ba3a4740fccea18d68630e6b8097d1165ab571a7c3846375eb66a2bd19",
+      "binary_sha256": "fc3b9c6d954ad0eeb5d0a858412605463b9e7ebae322f03d18fa459cfb61e288",
+      "delta_bytes": 40,
+      "exact_inverse_verified": true,
+      "other_method_bodies_and_identifiers_preserved": true,
+      "modified_method_debug_removed": false,
+      "failed_legacy_load_returns_to_launcher_without_Unity_creation": true
+    },
+    {
+      "method": [
+        "Lcom/unity3d/player/UnityPlayerActivity;",
+        "dispatchKeyEvent",
+        "(Landroid/view/KeyEvent;)Z"
+      ],
+      "original_sha256": "fc3b9c6d954ad0eeb5d0a858412605463b9e7ebae322f03d18fa459cfb61e288",
+      "binary_sha256": "36f6f7a7bfcb106d958726b2897934dbb361777a784535fa96197d43a84a7ada",
+      "delta_bytes": 16,
+      "exact_inverse_verified": true,
+      "other_method_bodies_and_identifiers_preserved": true,
+      "modified_method_debug_removed": true,
+      "null_player_safe": true,
+      "original_body_prefix_units": 9,
+      "superclass_or_setIntent_on_null": true
+    },
+    {
+      "method": [
+        "Lcom/unity3d/player/UnityPlayerActivity;",
+        "onConfigurationChanged",
+        "(Landroid/content/res/Configuration;)V"
+      ],
+      "original_sha256": "36f6f7a7bfcb106d958726b2897934dbb361777a784535fa96197d43a84a7ada",
+      "binary_sha256": "80edfdd09f3a9012ecd1e66989b91e7b226e5aa966656704c22d1d73b630d71e",
+      "delta_bytes": 16,
+      "exact_inverse_verified": true,
+      "other_method_bodies_and_identifiers_preserved": true,
+      "modified_method_debug_removed": true,
+      "null_player_safe": true,
+      "original_body_prefix_units": 8,
+      "superclass_or_setIntent_on_null": true
+    },
+    {
+      "method": [
+        "Lcom/unity3d/player/UnityPlayerActivity;",
+        "onDestroy",
+        "()V"
+      ],
+      "original_sha256": "80edfdd09f3a9012ecd1e66989b91e7b226e5aa966656704c22d1d73b630d71e",
+      "binary_sha256": "87e631eb32a39854813338be20139c35ca63958f943ecb3695328dff7629cdf5",
+      "delta_bytes": 16,
+      "exact_inverse_verified": true,
+      "other_method_bodies_and_identifiers_preserved": true,
+      "modified_method_debug_removed": false,
+      "null_player_safe": true,
+      "original_body_prefix_units": 8,
+      "superclass_or_setIntent_on_null": true
+    },
+    {
+      "method": [
+        "Lcom/unity3d/player/UnityPlayerActivity;",
+        "onGenericMotionEvent",
+        "(Landroid/view/MotionEvent;)Z"
+      ],
+      "original_sha256": "87e631eb32a39854813338be20139c35ca63958f943ecb3695328dff7629cdf5",
+      "binary_sha256": "586fcec5abaa91dfd3ea72710970338da9edf669da5d0cfb38d463fc14f01e85",
+      "delta_bytes": 12,
+      "exact_inverse_verified": true,
+      "other_method_bodies_and_identifiers_preserved": true,
+      "modified_method_debug_removed": true,
+      "null_player_safe": true,
+      "original_body_prefix_units": 6,
+      "superclass_or_setIntent_on_null": false
+    },
+    {
+      "method": [
+        "Lcom/unity3d/player/UnityPlayerActivity;",
+        "onKeyDown",
+        "(ILandroid/view/KeyEvent;)Z"
+      ],
+      "original_sha256": "586fcec5abaa91dfd3ea72710970338da9edf669da5d0cfb38d463fc14f01e85",
+      "binary_sha256": "44b8a0af55f145e639a1b8ad3e6ca10c76997bdf4b4e20111c51b29f002fe6fb",
+      "delta_bytes": 12,
+      "exact_inverse_verified": true,
+      "other_method_bodies_and_identifiers_preserved": true,
+      "modified_method_debug_removed": true,
+      "null_player_safe": true,
+      "original_body_prefix_units": 6,
+      "superclass_or_setIntent_on_null": false
+    },
+    {
+      "method": [
+        "Lcom/unity3d/player/UnityPlayerActivity;",
+        "onKeyUp",
+        "(ILandroid/view/KeyEvent;)Z"
+      ],
+      "original_sha256": "44b8a0af55f145e639a1b8ad3e6ca10c76997bdf4b4e20111c51b29f002fe6fb",
+      "binary_sha256": "976cb3b4350587603f9c01eda19556bac09db3034d3717a82b4bc704ebebc141",
+      "delta_bytes": 12,
+      "exact_inverse_verified": true,
+      "other_method_bodies_and_identifiers_preserved": true,
+      "modified_method_debug_removed": true,
+      "null_player_safe": true,
+      "original_body_prefix_units": 6,
+      "superclass_or_setIntent_on_null": false
+    },
+    {
+      "method": [
+        "Lcom/unity3d/player/UnityPlayerActivity;",
+        "onLowMemory",
+        "()V"
+      ],
+      "original_sha256": "976cb3b4350587603f9c01eda19556bac09db3034d3717a82b4bc704ebebc141",
+      "binary_sha256": "a3c76cf8517ba2496e981cd35389f733858b49ca5fc4a9fdccdc5659257a10c7",
+      "delta_bytes": 16,
+      "exact_inverse_verified": true,
+      "other_method_bodies_and_identifiers_preserved": true,
+      "modified_method_debug_removed": true,
+      "null_player_safe": true,
+      "original_body_prefix_units": 8,
+      "superclass_or_setIntent_on_null": true
+    },
+    {
+      "method": [
+        "Lcom/unity3d/player/UnityPlayerActivity;",
+        "onNewIntent",
+        "(Landroid/content/Intent;)V"
+      ],
+      "original_sha256": "a3c76cf8517ba2496e981cd35389f733858b49ca5fc4a9fdccdc5659257a10c7",
+      "binary_sha256": "ec2f95adb25d78e75d643d5f404a483ddff541a3be0a6428aa2539e810414fdd",
+      "delta_bytes": 16,
+      "exact_inverse_verified": true,
+      "other_method_bodies_and_identifiers_preserved": true,
+      "modified_method_debug_removed": true,
+      "null_player_safe": true,
+      "original_body_prefix_units": 8,
+      "superclass_or_setIntent_on_null": true
+    },
+    {
+      "method": [
+        "Lcom/unity3d/player/UnityPlayerActivity;",
+        "onPause",
+        "()V"
+      ],
+      "original_sha256": "ec2f95adb25d78e75d643d5f404a483ddff541a3be0a6428aa2539e810414fdd",
+      "binary_sha256": "7859e84968cc6ee84ae29647c66e60d710946430d9a56b48557cc9b024a9471a",
+      "delta_bytes": 16,
+      "exact_inverse_verified": true,
+      "other_method_bodies_and_identifiers_preserved": true,
+      "modified_method_debug_removed": false,
+      "null_player_safe": true,
+      "original_body_prefix_units": 8,
+      "superclass_or_setIntent_on_null": true
+    },
+    {
+      "method": [
+        "Lcom/unity3d/player/UnityPlayerActivity;",
+        "onRequestPermissionsResult",
+        "(I[Ljava/lang/String;[I)V"
+      ],
+      "original_sha256": "7859e84968cc6ee84ae29647c66e60d710946430d9a56b48557cc9b024a9471a",
+      "binary_sha256": "259fef1b63215a2e9873d04d7323c0adda1d0de8213da097e59cf8af4ec8c069",
+      "delta_bytes": 16,
+      "exact_inverse_verified": true,
+      "other_method_bodies_and_identifiers_preserved": true,
+      "modified_method_debug_removed": true,
+      "null_player_safe": true,
+      "original_body_prefix_units": 8,
+      "superclass_or_setIntent_on_null": true
+    },
+    {
+      "method": [
+        "Lcom/unity3d/player/UnityPlayerActivity;",
+        "onResume",
+        "()V"
+      ],
+      "original_sha256": "259fef1b63215a2e9873d04d7323c0adda1d0de8213da097e59cf8af4ec8c069",
+      "binary_sha256": "dba5f135612c9ce938eb114d28a89e435376f34c5c6f7f50533e016ab06a776b",
+      "delta_bytes": 16,
+      "exact_inverse_verified": true,
+      "other_method_bodies_and_identifiers_preserved": true,
+      "modified_method_debug_removed": false,
+      "null_player_safe": true,
+      "original_body_prefix_units": 8,
+      "superclass_or_setIntent_on_null": true
+    },
+    {
+      "method": [
+        "Lcom/unity3d/player/UnityPlayerActivity;",
+        "onStart",
+        "()V"
+      ],
+      "original_sha256": "dba5f135612c9ce938eb114d28a89e435376f34c5c6f7f50533e016ab06a776b",
+      "binary_sha256": "bb3e49f3e5fe5a98eee4f788dc3a01343a784688f36a6cc61775ef1f1ccdd810",
+      "delta_bytes": 16,
+      "exact_inverse_verified": true,
+      "other_method_bodies_and_identifiers_preserved": true,
+      "modified_method_debug_removed": false,
+      "null_player_safe": true,
+      "original_body_prefix_units": 8,
+      "superclass_or_setIntent_on_null": true
+    },
+    {
+      "method": [
+        "Lcom/unity3d/player/UnityPlayerActivity;",
+        "onStop",
+        "()V"
+      ],
+      "original_sha256": "bb3e49f3e5fe5a98eee4f788dc3a01343a784688f36a6cc61775ef1f1ccdd810",
+      "binary_sha256": "12f498796397d1da95a35bd301bc71707861379b2ab3843e6705b64c61e337ec",
+      "delta_bytes": 16,
+      "exact_inverse_verified": true,
+      "other_method_bodies_and_identifiers_preserved": true,
+      "modified_method_debug_removed": false,
+      "null_player_safe": true,
+      "original_body_prefix_units": 8,
+      "superclass_or_setIntent_on_null": true
+    },
+    {
+      "method": [
+        "Lcom/unity3d/player/UnityPlayerActivity;",
+        "onTouchEvent",
+        "(Landroid/view/MotionEvent;)Z"
+      ],
+      "original_sha256": "12f498796397d1da95a35bd301bc71707861379b2ab3843e6705b64c61e337ec",
+      "binary_sha256": "73901c6f7494813a4f8f33ad6e062a6200cfcbf45b1c21d3bc8ad9ff81219039",
+      "delta_bytes": 12,
+      "exact_inverse_verified": true,
+      "other_method_bodies_and_identifiers_preserved": true,
+      "modified_method_debug_removed": true,
+      "null_player_safe": true,
+      "original_body_prefix_units": 6,
+      "superclass_or_setIntent_on_null": false
+    },
+    {
+      "method": [
+        "Lcom/unity3d/player/UnityPlayerActivity;",
+        "onTrimMemory",
+        "(I)V"
+      ],
+      "original_sha256": "73901c6f7494813a4f8f33ad6e062a6200cfcbf45b1c21d3bc8ad9ff81219039",
+      "binary_sha256": "bcf46395b07b61ceb181cd6603a78d4a6dd014cf13c117a5f6391e418e99acd3",
+      "delta_bytes": 16,
+      "exact_inverse_verified": true,
+      "other_method_bodies_and_identifiers_preserved": true,
+      "modified_method_debug_removed": true,
+      "null_player_safe": true,
+      "original_body_prefix_units": 8,
+      "superclass_or_setIntent_on_null": true
+    },
+    {
+      "method": [
+        "Lcom/unity3d/player/UnityPlayerActivity;",
+        "onWindowFocusChanged",
+        "(Z)V"
+      ],
+      "original_sha256": "bcf46395b07b61ceb181cd6603a78d4a6dd014cf13c117a5f6391e418e99acd3",
+      "binary_sha256": "a461e91459ec000801afdf9ceb5a9a0959eb3e7822cd2f79e455014ed457c0f2",
+      "delta_bytes": 16,
+      "exact_inverse_verified": true,
+      "other_method_bodies_and_identifiers_preserved": true,
+      "modified_method_debug_removed": true,
+      "null_player_safe": true,
+      "original_body_prefix_units": 8,
+      "superclass_or_setIntent_on_null": true
+    },
+    {
+      "method": [
+        "Lcom/unity3d/player/UnityPlayerActivity;",
+        "requestPermissions",
+        "(Lcom/unity3d/player/PermissionRequest;)V"
+      ],
+      "original_sha256": "a461e91459ec000801afdf9ceb5a9a0959eb3e7822cd2f79e455014ed457c0f2",
+      "binary_sha256": "d9088ded1337a47e895bceb91934ea6249665dbd58c922ec75c360b6bb269a6d",
+      "delta_bytes": 12,
+      "exact_inverse_verified": true,
+      "other_method_bodies_and_identifiers_preserved": true,
+      "modified_method_debug_removed": true,
+      "null_player_safe": true,
+      "original_body_prefix_units": 5,
+      "superclass_or_setIntent_on_null": false
+    }
+  ],
+  "identifier_tables_preserved": true,
+  "changed_build_string_ids": [],
+  "ART_verifier_tested": false
+}

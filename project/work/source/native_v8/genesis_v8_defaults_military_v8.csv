@@ -1,0 +1,8 @@
+key,type,value,reset_on_ageup,minimum,maximum
+Sessions,int,0,true,0,6
+Readiness,int,30,,0,100
+Leadership,int,20,,0,100
+Qualifications,int,0,,0,1000000
+NavigationStage,int,0,,0,4
+NavigationScore,int,0,,0,3
+NativeMilitaryImpact,int,0,,-3,3

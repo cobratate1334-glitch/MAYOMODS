@@ -1,0 +1,97 @@
+{
+  "ListID": "genesis_v7_job_sports_physiotherapist",
+  "Title": "SPORTS PHYSIOTHERAPIST PROJECTS",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Project Dashboard",
+      "Icon": "clipboard",
+      "SecondLine": "Completed: <GFC.job_sports_physiotherapist.Projects>",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_sports_physiotherapist:NativeCareerSync:=1>>scenario.careersV7.job_sports_physiotherapistdeliver",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "BarGraph": {
+        "Title": "Quality",
+        "Value": "<GFC.job_sports_physiotherapist.Quality>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v9_genesis_v7_job_sports_physiotherapist_0"
+    },
+    {
+      "Title": "Assess rehabilitation needs",
+      "Icon": "memo",
+      "SecondLine": "Project stage 1",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_sports_physiotherapist:NativeCareerSync:=1>>scenario.careersV7.job_sports_physiotherapist1",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_sports_physiotherapist_1"
+    },
+    {
+      "Title": "Supervise a recovery session",
+      "Icon": "memo",
+      "SecondLine": "Project stage 2",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_sports_physiotherapist:NativeCareerSync:=1>>scenario.careersV7.job_sports_physiotherapist2",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_sports_physiotherapist_2"
+    },
+    {
+      "Title": "Review return-to-sport readiness",
+      "Icon": "memo",
+      "SecondLine": "Project stage 3",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_sports_physiotherapist:NativeCareerSync:=1>>scenario.careersV7.job_sports_physiotherapist3",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_sports_physiotherapist_3"
+    },
+    {
+      "Title": "Submit and Review",
+      "Icon": "chart-bar",
+      "SecondLine": "Turn project progress into job performance",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_sports_physiotherapist:NativeCareerSync:=1>>scenario.careersV7.job_sports_physiotherapistdeliver",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_sports_physiotherapist_4"
+    }
+  ]
+}

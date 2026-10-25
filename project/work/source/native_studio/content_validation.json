@@ -1,0 +1,7 @@
+{
+  "content_assertions": 1618,
+  "native_scenarios": 33,
+  "native_lists": 3,
+  "typed_properties": 79,
+  "android_runtime_tested": false
+}

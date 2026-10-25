@@ -1,0 +1,165 @@
+{
+  "ListID": "genesis_music_studio_project",
+  "Title": "CURRENT PROJECT",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "<GFC.music_studio.ProjectTitle>",
+      "Icon": "cd",
+      "SecondLine": "<GFC.music_studio.Format> · <GFC.music_studio.Genre>",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.release",
+              "ScenarioFile": "genesis_music_studio"
+            }
+          ]
+        }
+      ],
+      "BarGraph": {
+        "Title": "Production",
+        "Value": "<GFC.music_studio.Progress>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v11_genesis_music_studio_project_0"
+    },
+    {
+      "Title": "Songwriting",
+      "Icon": "memo",
+      "SecondLine": "Develop lyrics, hooks and arrangements",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.write",
+              "ScenarioFile": "genesis_music_studio"
+            }
+          ]
+        }
+      ],
+      "TileID": "v11_genesis_music_studio_project_1"
+    },
+    {
+      "Title": "Recording",
+      "Icon": "mic",
+      "SecondLine": "Record the finished songs",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.record",
+              "ScenarioFile": "genesis_music_studio"
+            }
+          ]
+        }
+      ],
+      "TileID": "v11_genesis_music_studio_project_2"
+    },
+    {
+      "Title": "Mix and Master",
+      "Icon": "headphones",
+      "SecondLine": "Polish the sound",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.mix",
+              "ScenarioFile": "genesis_music_studio"
+            }
+          ]
+        }
+      ],
+      "TileID": "v11_genesis_music_studio_project_3"
+    },
+    {
+      "Title": "Collaborator",
+      "Icon": "users",
+      "SecondLine": "Book a guest or session musician",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.collaborate",
+              "ScenarioFile": "genesis_music_studio"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.Collaborator=0]",
+      "TileID": "v11_genesis_music_studio_project_4"
+    },
+    {
+      "Title": "Promotion",
+      "Icon": "megaphone",
+      "SecondLine": "Launch a campaign",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.promote",
+              "ScenarioFile": "genesis_music_studio"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.PromotionUsed=0]",
+      "TileID": "v11_genesis_music_studio_project_5"
+    },
+    {
+      "Title": "Publish Project",
+      "Icon": "cd",
+      "SecondLine": "Release when production reaches 100%",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.release",
+              "ScenarioFile": "genesis_music_studio"
+            }
+          ]
+        }
+      ],
+      "TileID": "v11_genesis_music_studio_project_6"
+    },
+    {
+      "Title": "Shelve Project",
+      "Icon": "hand-waving",
+      "SecondLine": "Discard your current project",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.abandon",
+              "ScenarioFile": "genesis_music_studio"
+            }
+          ]
+        }
+      ],
+      "TileID": "v11_genesis_music_studio_project_7"
+    },
+    {
+      "Title": "Back to Music Studio",
+      "Icon": "mic-studio",
+      "TileID": "v11_back_genesis_music_studio_project",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ListID": "genesis_music_studio_hub"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

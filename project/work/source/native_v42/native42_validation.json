@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "binary_sha256": "822821595a928b59bf107336c321720e5169767755d652f795d62f4c378903e4",
+  "arm64_cases": 395,
+  "aslr_biases": [
+    0,
+    68719476736
+  ],
+  "all_156_portrait_styles_checked": true,
+  "real_native_stage_gender_mood_and_colour_methods_executed": true,
+  "relative_preview_negative_control": true,
+  "native_region_objects_retained": true,
+  "living_journal_uses_native_log_arrays": true,
+  "original_v41_callback_guard_bytes_preserved": true,
+  "Unity_rendering_and_allocations_mocked": true,
+  "Android_runtime_tested": false
+}

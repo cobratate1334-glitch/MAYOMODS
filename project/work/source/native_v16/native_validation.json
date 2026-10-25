@@ -1,0 +1,13 @@
+{
+  "arm64_cases": 122,
+  "aslr_biases": [
+    0,
+    68719476736
+  ],
+  "opposition_scoring_actual_arm64": true,
+  "own_scoring_silent_actual_arm64": true,
+  "score_queue_actual_arm64": true,
+  "retained_hair_and_ranking_code_unchanged": true,
+  "binary_sha256": "bd0c21d3dbbc12e710b174d4c4551938512fb7a3b65fdd165ca15cfd472c2425",
+  "device_runtime_tested": false
+}

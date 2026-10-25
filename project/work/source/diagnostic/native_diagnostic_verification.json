@@ -1,0 +1,29 @@
+{
+  "input_sha256": "60200febb39300dc9b7e511f7d90728412dd1caabf44c831cb7761b0753f48d5",
+  "output_sha256": "358e335e6e9ca8dadefb2d11e42e0e007c82f98fa1974f5a8d84237059f5c63c",
+  "output_bytes": 268294326,
+  "changed_game_entries": [
+    "classes13.dex"
+  ],
+  "gameplay_dex_manifest_content_and_native_libraries_unchanged": true,
+  "same_package_and_signer": true,
+  "new_permissions": [],
+  "dex_version": "037",
+  "apk_crc_and_alignment": "passed",
+  "official_verifier": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]\n",
+  "android_runtime_tested": false,
+  "confirmed_crash_fix": false,
+  "user_evidence": "v1 reached D13; both launcher checks accepted; Android reported REASON_SIGNALED status 11; no Java exception",
+  "trace_access": "own main-process ApplicationExitInfo only; Android 12+ tombstone when retained; bounded to 8 MiB; crashing-thread frames only",
+  "native_reader_tests": [
+    "signal and fault parsing",
+    "crashing thread selected",
+    "PID and process matching",
+    "unknown fields skipped",
+    "other threads, memory and log buffers excluded",
+    "malformed and 1000 randomized inputs rejected safely",
+    "8 MiB size bound",
+    "stalled stream containment"
+  ],
+  "probe_state_tests": "passed"
+}

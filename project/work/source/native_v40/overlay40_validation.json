@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "binary_sha256": "7c13aca6d5af33a88c72de33dbb490c3a1d2e0ba78fb04bd0320d684e85f8f41",
+  "only_Main_Start_and_non_Activity_fallback_changed": true,
+  "signature_and_native_protection_preserved": true,
+  "Activity_window_type": 2,
+  "overlay_permission_not_checked": true,
+  "system_overlay_service_not_started": true,
+  "smali_roundtrip": true,
+  "unmodified_classes": 75,
+  "physical_device_tested": false
+}

@@ -1,0 +1,205 @@
+# MayoMods project handover
+
+Prepared 25 October 2026, Australia/Adelaide. This package restores the available
+source and records the evidence boundary after repeated install failures.
+
+## Current state
+
+The current project is a BitLife 3.25 Android ARM64 expansion called MayoMods.
+It modifies a supplied APK through hash-pinned native AArch64 patches, Unity
+asset/table edits, Java/DEX diagnostics and native menus. It is **not** a complete
+Unity editor project or the original game's C# source. Original runtime APKs and
+private signing material remain separate required build inputs.
+
+The owner requested returning to v55 and fixing only scars and eyepatches after
+rejecting v56. A focused v55-based candidate was produced. Both that candidate
+and v56 were then reported to fail with Android's `App not installed` dialog.
+The installation cause remains unconfirmed. No successful phone installation,
+ART execution or Unity rendering test is established for those exact candidates.
+
+The latest delivered helper was a separate, read-only installer-log reader.
+It reports installed BitLife version/signers/storage and requests `su` to read
+retained Android installer logs. No report from it has been supplied in this
+handover conversation. The last request before migration was a ZIP attachment
+for downloading the helper through ChatGPT; that was a delivery wrapper, not
+another repair of the game.
+
+## Source included
+
+The source tree was reconstructed in this order:
+
+1. `MayoMods_v52_Source_and_Assets.zip`: cumulative historical source,
+   imported sheets, datasets, metadata, analysis, tests and build tools.
+2. `MayoMods_v54_Source_Update.zip`: cumulative v53/v54 changes.
+3. `MayoMods_v55_Source_Update.zip`: v55 recovery rebuild and its checks.
+4. `MayoMods_v55_Scar_Eyepatch_Source.zip`: focused `native_v55a` branch.
+5. `MayoMods_v56_Source_Update.zip`: separate, rejected experimental branch;
+   its presence does not make it the selected build.
+6. `MayoMods_Install_Reader_Source.zip`: independent Android diagnostic app.
+
+`evidence/source_recovery.json` records archive hashes, source origins and
+overlays. Cache/temporary items were excluded. No recovered source archive
+contained the user's private signing key. Raw unrelated conversation exports
+are not included. The supplied v54 diagnostic text/tombstones are included;
+the binary Android system trace is excluded. See the diagnostics handling note.
+
+The tree contains hundreds of Python patch/asset/test scripts, Java diagnostic
+sources, JSON/CSV content tables, PNG assets, release guides, native address maps,
+Unity metadata/analysis inputs and SDK support files. `SOURCE_INVENTORY.json`
+provides exact counts and sizes. `FILE_MANIFEST.sha256` verifies delivered bytes.
+
+## Important directories
+
+| Path | Purpose |
+| --- | --- |
+| `project/work/source/native_v8` … `native_v52` | Historical/native gameplay, asset import, state bridges, diagnostics and regressions. Numbered folders are not interchangeable. |
+| `project/work/source/native_v53` | Consolidated Genetic appearances hub and paged New Life controls. |
+| `project/work/source/native_v54` | Typed menu adapters, exception diagnostics, crime integration, year input, clergy vocation and portrait containment. |
+| `project/work/source/native_v55` | Recovery repairs for content IDs, enabled states, portraits, outcomes/journal, replies, icons/church images and startup readiness. |
+| `project/work/source/native_v55a` | Selected focused scar/eyepatch candidate based on the exact v55 APK. |
+| `project/work/source/native_v56` | Experimental final-texture compositor, retained as reference only. |
+| `project/analysis` | Base TextAsset/resource dictionaries and native method analysis required by historical imports. |
+| `project/global-metadata.dat` | IL2CPP metadata for the pinned game family, not the original managed C# source. |
+| `project/work/source/SignApk.java`, `VerifyApk.java`, `VerifyNativeSigner.java` | Retained signing and certificate/native expectation checks. |
+| `project/tools_v40` | Restored Android SDK support JARs; `apktool.jar` includes platform-specific aapt binaries. |
+| `installer_reader/reader` | Separate Android Java app; independent package, no gameplay changes. |
+| `supporting_tools/bluestacks_crash_logger` | Recovered Windows/ADB diagnostic scripts; separate companion tool. |
+| `optional_content/social_message_pack_700k` | Recovered platform message files and import guide; full native integration is not established. |
+| `evidence/v54_diagnostics` | User-supplied app logs, summary and Unity tombstones. |
+
+## Architecture
+
+### Native patch pipeline
+
+Versioned `patch_native*.py` scripts pin the exact input `libil2cpp.so` SHA-256,
+assemble AArch64 using Keystone, inspect ELF structure/addresses using
+pyelftools/Capstone, and emit changed ranges plus hook manifests. Several
+historical releases append page-aligned executable/state segments. Later
+patches may redirect or chain older stubs. Preserve this chain and the separate
+native state/BSS allocations; deleting an old folder or using a mismatched
+library can invalidate addresses, imports and emulation fixtures.
+
+Saved custom state uses the game's existing Genesis/property contexts; stable
+keys and IDs matter. Native menus and callbacks are adapted rather than replaced
+by an HTML overlay. JNI/Java bridges support the Android launcher, diagnostics,
+year entry and UI workflows.
+
+### Assets and content
+
+UnityPy edits the APK's `assets/bin/Data/datapack.unity3d` and, when required,
+`data.unity3d`. TextAssets hold gameplay lists/scenarios/defaults; imported PNGs
+become textures/sprites with registered resource paths. Many source directories
+contain an `assets.json` snapshot, schemas and catalogs specific to that build.
+Resource registration, actual requested Unity type, native component enums,
+coordinates and tint flags must agree. A named option does not ensure it renders.
+
+### Packaging
+
+Builders preserve declared APK payloads, check expected differences, regenerate
+signatures with the retained identity, and verify native signer expectations.
+DEX changes have compilation/structural checks in the appropriate version.
+The app package remains `com.candywriter.bitlife`. The baseline manifest has
+minSdk 25 and targetSdk 35; delivered native game code is arm64-v8a. The separate
+installer reader has its own package and minSdk 26.
+
+### Validation boundary
+
+Unicorn runs emitted ARM64 routines at two address bases. Managed allocation,
+Genesis APIs, many Unity operations and Android lifecycle boundaries are explicit
+models. Asset checks compare serialized Unity objects and decoded texture pixels.
+Java/apksig, aapt and archive checks address packaging, not device installation
+or a Unity graphics driver's behavior. This distinction is essential: previous
+replies repeatedly relied on passed checks despite the user's failed installs.
+
+## Release state and exact inputs
+
+| Build | Android code | APK SHA-256 | Current interpretation |
+| --- | --- | --- | --- |
+| v52 | 1096 | `895552077a23b675317f613a867e413caea20ef80a90e291197a41a997e107b2` | Historical baseline/source bundle; user reported runtime crashes. |
+| v53 | 1097 | `22a86d2794deb787479143674d66dbbf975e2bd6f22e65cd2c7b6fa3d0d55e57` | Organized appearance menus; cumulative source included. |
+| v54 | 1098 | `324c9ed859548cfe5a932ebf6d725a5db64ca65890b97d583b806cff9d4f4615` | Device diagnostic ZIP exists; its startup/resume crash informed v55. |
+| v55 recovery | 1099 | `7a4a37615d9c60962d1e2658d86154199a868d84439026478171fcf0d2f3c288` | Requested game-code baseline; do not label its phone install verified. |
+| v55 scar/eyepatch repair | 1099 | `1863eb828be62470a525cd2574e1d7e01453f2591c2b415c22d31f55a382a9e0` | Focused candidate; user subsequently reported install failure. |
+| v56 | 1100 | `2403654bd462ab42ebaa546daf27f473f072adc35ac0abaf05d2167968c43e90` | User rejected it; installation failed; do not adopt its renderer by default. |
+
+Public signing certificate SHA-256:
+`bbc52a5880962fa3ff35e943d9467cb550d8c19b8adeb38f78cef3da5f3b50fe`.
+The original private backup is separate. A matching recovered signer was verified
+against the v54/v55 lineage. That alone does not prove it matches whatever is
+currently installed in every Android profile on the user's device.
+
+### Focused v55a change
+
+The custom accessory filename routine put the numeric managed suffix in
+caller-saved `x1`, then called `String::New` to allocate `a49_`. That call
+overwrites `x1` before `String.Concat` consumes it. The repair retains the suffix
+in callee-saved `x20` and restores `x1` just before concatenation. It fits in the
+existing stub allocation: 1204 bytes became 1208 bytes. ELF headers, native file
+length, runtime renderer and the remaining native bytes stay unchanged.
+
+The 12 scar and 22 patch Texture2D objects were also refreshed from the supplied
+sheet, using measured nonuniform crops and corrected placement. These artifact
+improvements reuse asset work without importing v56 native code. The final APK
+changes only `lib/arm64-v8a/libil2cpp.so` and `datapack.unity3d`; manifest/version,
+DEX, native launcher and signer remain the v55 ones. Shared facial-hair filename
+cases are exercised because they use the same lookup routine.
+
+Archived v55a checks: 150 focused ARM64 cases with a negative unmodified-v55
+control; 39,826 Unity object comparisons with 34 changed textures; APK integrity,
+alignment and Android 13 signature checks. The recovered reader source contains
+aapt badging output for v55, v55a and v56. None of those checks established a
+successful installation/render on the phone.
+
+## Systems represented in source
+
+These are implementation artifacts, not claims that every flow works on-device:
+
+- Music/content expansions, prison events, weapons/dealer lists and community
+  encounters; later native career/menu adapters and saved-state bridges.
+- School, military, politics, football and special-career menu additions;
+  F1, reality-TV host, music-studio and other authored gameplay branches.
+- Family/social/personality/physical-profile data, country/region/year controls,
+  historical wardrobe/dealer/economy additions and customization catalogs.
+- Native social account/post receipt integration, saved comment/reply threads
+  and platform-specific reaction/content banks.
+- Inheritance/height and genetic appearance: skin/iris/hair layers, rare visual
+  traits, normal eye colors and supplied scars/patches/beards/hairstyles
+  as actually enumerated in each catalog. See `FEATURES.md` for requested scope.
+- Organized New Life/Genetic appearances UI, typed menu containment, integrated
+  custom crimes, saved church/seminary progression and outcome receipts.
+- Expanded Android crash diagnostics, Unity screenshot/note export, checkpoint
+  and native-address mapping, plus the separate installer-log reader.
+
+`FEATURES.md` keeps broader requested systems distinct from this evidence. Many
+items originated in the earlier Music Life/WebView game and are not proven to
+exist as complete systems in the current native BitLife mod.
+
+## Devices and actual failure evidence
+
+1. Earlier user reports: Samsung SM-A235F, Android 13/API 33, ARM64; root access
+   was explicitly described. The v52 school/fight failure included an uncaught
+   `Il2CppExceptionWrapper` and SIGABRT on UnityMain.
+2. The **included v54 diagnostic ZIP** identifies Samsung SM-A366B, Android 16/
+   API 36. It records an activity pause after startup, a much later resume,
+   `Fail-closed native binding: native runtime did not reach ready state`, an
+   abort through `libRocketGames.so`, and Unity crash information. This is
+   device evidence, not merely a later profile guess.
+3. Screenshots in this handover conversation show the completed v55a download
+   and Android's generic `App not installed` dialog. They provide no detailed
+   package-manager status code. The exact phone/profile/installed version for
+   the next test must be established; root on the newer phone is not confirmed.
+4. Historical compatibility reports retain an AsyncGPUReadbackPlugin limitation
+   on some 16 KiB-page devices. Do not infer the device page size from Android
+   version alone or identify that limitation as the current cause without data.
+
+## Work ready to continue
+
+1. Verify package contents with `python3 tools/verify_handover.py`.
+2. Read archived crash evidence and establish current installed package identity,
+   signer, version code, ABI, page size and exact install rejection reason.
+3. Supply the pinned v55 APK privately and use `tools/prepare_v55_base.py`.
+4. Reproduce the narrow v55a candidate as documented in `BUILD.md`; separate
+   archive/native/asset validation from actual Android acceptance.
+5. Confirm installation before proceeding to real portrait preview/apply/remove/
+   save/reload/age checks. Do not implement the backlog as a substitute.
+6. Keep `BUGS.md` and `HISTORY.md` current with evidence from the next test.

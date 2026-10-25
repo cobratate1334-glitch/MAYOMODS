@@ -1,0 +1,31 @@
+{
+  "passed": true,
+  "binary_sha256": "12b478ba3a4740fccea18d68630e6b8097d1165ab571a7c3846375eb66a2bd19",
+  "original_sha256": "731d103ef574168ace28aa2e32080dc6af69bea63d287ad355e92862d7c40815",
+  "bytecode_cases": 13,
+  "cases": [
+    "Successful legacy startup preserves original calls and Bundle/Context",
+    "Original bytecode reproduces reported dlopen failure before Unity",
+    "UnsatisfiedLinkError recovery persists full trace and continues to Unity view attachment",
+    "NoClassDefFoundError recovery persists full trace and continues to Unity view attachment",
+    "ExceptionInInitializerError recovery persists full trace and continues to Unity view attachment",
+    "VerifyError recovery persists full trace and continues to Unity view attachment",
+    "ClassFormatError recovery persists full trace and continues to Unity view attachment",
+    "IncompatibleClassChangeError recovery persists full trace and continues to Unity view attachment",
+    "LinkageError recovery persists full trace and continues to Unity view attachment",
+    "RuntimeException at legacy remains uncaught by recovery",
+    "OutOfMemoryError at legacy remains uncaught by recovery",
+    "LinkageError at Unity remains uncaught by recovery",
+    "RuntimeException at Unity remains uncaught by recovery"
+  ],
+  "independently_parsed_classes": 8780,
+  "unchanged_code_items": 52388,
+  "identifiers_class_metadata_and_other_methods_preserved": true,
+  "exception_range_only_covers_legacy_launcher": true,
+  "exception_table_and_branches_valid": true,
+  "actual_Dalvik_instructions_executed": true,
+  "Android_and_Unity_boundaries_modeled": true,
+  "recovered_checkpoint_trace_limit_chars": 1800,
+  "ART_verifier_tested": false,
+  "BlueStacks_runtime_tested": false
+}

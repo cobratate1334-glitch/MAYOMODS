@@ -1,0 +1,23 @@
+{
+  "binary_sha256": "659e6329eab8e38286a248a6ec591a030a44908f3a13a9cbc0664fc80fcd16a5",
+  "arm64_cases": 1082,
+  "aslr_biases": [
+    0,
+    68719476736
+  ],
+  "actual_Action_Invoke_executed": true,
+  "real_ELF_RW_and_BSS_initial_contents_loaded": true,
+  "actual_return_hook_and_RefreshSetup_executed": true,
+  "all_293_choices_executed": true,
+  "six_fields_directly_in_New_Life": true,
+  "stock_rounded_selector_prefab_and_scroller": true,
+  "short_labels": true,
+  "rapid_repeat_edits_and_stale_Actions_checked": true,
+  "same_controller_close_reopen_checked": true,
+  "all_UI_GC_roots_released_on_dismiss_and_birth": true,
+  "existing_genetic_engine_and_baby_growth_preserved": true,
+  "stock_Start_methods_unhooked": true,
+  "Unity_prefabs_collections_and_transition_timing_modeled": true,
+  "device_runtime_tested": false,
+  "BlueStacks_runtime_tested": false
+}

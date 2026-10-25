@@ -1,0 +1,53 @@
+{
+  "passed": true,
+  "binary_sha256": "6513a8d54fcd6e4ec32e5bc4938bb03c742478a6311cb93f9cb5f496906dfd66",
+  "preserved_classes_before_release_label_update": 84,
+  "launcher_families": [
+    "InGameTools40",
+    "StartupActivity"
+  ],
+  "all_classes_except_launcher_and_runtime_attachment_preserved": true,
+  "logging_collection_code_preserved": true,
+  "shortcuts_hidden_by_default": true,
+  "release_label_updates": [
+    {
+      "before": "Build: MayoMods v39; app: ",
+      "after": "Build: MayoMods v40; app: "
+    },
+    {
+      "before": "MayoMods v39 \u2014 Android crash record\n\n",
+      "after": "MayoMods v40 \u2014 Android crash record\n\n"
+    },
+    {
+      "before": "MayoMods v39 \u2014 local crash diagnostics\n\nLAST RECORDED CRASH / ERROR\n",
+      "after": "MayoMods v40 \u2014 local crash diagnostics\n\nLAST RECORDED CRASH / ERROR\n"
+    },
+    {
+      "before": "MayoMods v39 \u2014 recorded error\n",
+      "after": "MayoMods v40 \u2014 recorded error\n"
+    }
+  ],
+  "label_update_preserves_every_code_item": true,
+  "original_play_method_preserved": true,
+  "smali_roundtrip": true,
+  "min_api": 25,
+  "source_sha256": {
+    "InGameTools40.java": "6bd208a804b235aa7bf86fd79d2b47819b8209878d1b3d0bffa6df2b73001b79",
+    "StartupActivity.java": "913c949be3c834e02b1e6965eca5b69dd040e431bbe77418460e25534f32037d",
+    "NativeCrashReader.java": "d1f65f068a3cdcfea680643e718fadc176ded0620516e83cfbef8f45c529e214",
+    "TombstoneReader.java": "b7896e9707f45f751c463a13b19a6898067a5c167de996afb62e40b95faa24bb",
+    "RuntimeLogCapture.java": "9baade8135fa3301e17aae97572e9bbb45e6a44a43c933a972d1309838bc167a",
+    "StartupProbe.java": "d9afdf21c5a584dbad20d1d3a6097d9820dba87d129dc23b0eba5542796222b2",
+    "LifeSetupUI.java": "23a9a8eb150109d282b2db6b415b0f720ad97f70e710bcc89ad44af000d220da",
+    "RuntimeLogStore.java": "4cfe617d0fd9da97d3df3fcef484f300efa35070bb299775fdfa501dd48c57cc",
+    "CrashJournal.java": "07bf3fc7afcd826c86a54e056357743f5a2fa111754be916999545e7abb0cf6d",
+    "DiagnosticsUI.java": "71a37e5a32a04c7bc985fd8c23a693116ecceff739c97f18f7fc05c9ac30a1e4",
+    "NamePackUI.java": "6444d147c9254f9aaa2eadda1fc6d24e561f006487b75ac7839d8ee7ed7f2b7f",
+    "PackCatalog.java": "9af83b9b085ec13d218470351d17db97ded7d8c515a6a6ce26254a04d326501a",
+    "PackFormat.java": "4860dfdfdb706c041f2bd976729f3c9b042fc29c48c6bcb636b00e2ddfe37e75",
+    "LauncherIcon.java": "29ddeffc9d37c7af64a36d02dc15e56a7ba5a17f7109619d85da10bee17f3f96",
+    "LauncherMotion.java": "477d2d653fc089ef43482e6f922e267a853e6c1ced86f895eaeb8210e00a2455",
+    "FloatingDisplay.java": "abc2058b96ee9c9ed8b7a9fba55100daa5a11b0e747a143d2d056c6956860d78"
+  },
+  "device_runtime_tested": false
+}

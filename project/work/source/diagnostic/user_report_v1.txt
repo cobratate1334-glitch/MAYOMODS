@@ -1,0 +1,24 @@
+BitLife startup diagnostic v1
+D13 - Game activity resumed; engine running
+
+Stages:
+D01 - Opening game activity
+D02 - Entering mod launcher and native library
+D03 - Checking app signature
+D04 - Signature accepted; checking native protection
+D05 - Native protection accepted
+D06 - Starting mod update check
+D07 - Starting overlay permission check
+D03 - Checking app signature
+D04 - Signature accepted; checking native protection
+D05 - Native protection accepted
+D08 - Mod launcher returned
+D09 - Android game activity created
+D10 - Initializing Unity engine
+D11 - Unity player created
+D12 - Game view attached
+D13 - Game activity resumed; engine running
+
+Exception:
+
+Android recorded: Process ended by signal (status 11)

@@ -1,0 +1,17 @@
+{
+  "new_scenarios": 23,
+  "new_assets": [
+    "genesis_v18_stalker38",
+    "genesis_v18_defaults_stalker38"
+  ],
+  "modified_assets": [
+    "genesis_activities_v18",
+    "genesis_feature_containers",
+    "genesis_v18_community35"
+  ],
+  "owner": "stalker38",
+  "new_saved_properties": 21,
+  "adult_only": true,
+  "abstract_fiction": true,
+  "existing_scenarios_preserved": true
+}

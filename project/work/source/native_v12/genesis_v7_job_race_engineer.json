@@ -1,0 +1,97 @@
+{
+  "ListID": "genesis_v7_job_race_engineer",
+  "Title": "RACE ENGINEER PROJECTS",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Project Dashboard",
+      "Icon": "flag-checkered",
+      "SecondLine": "Completed: <GFC.job_race_engineer.Projects>",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_race_engineer:NativeCareerSync:=1>>scenario.careersV7.job_race_engineerdeliver",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "BarGraph": {
+        "Title": "Quality",
+        "Value": "<GFC.job_race_engineer.Quality>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v9_genesis_v7_job_race_engineer_0"
+    },
+    {
+      "Title": "Plan the car setup",
+      "Icon": "gear",
+      "SecondLine": "Project stage 1",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_race_engineer:NativeCareerSync:=1>>scenario.careersV7.job_race_engineer1",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_race_engineer_1"
+    },
+    {
+      "Title": "Analyse practice telemetry",
+      "Icon": "running-shoe",
+      "SecondLine": "Project stage 2",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_race_engineer:NativeCareerSync:=1>>scenario.careersV7.job_race_engineer2",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_race_engineer_2"
+    },
+    {
+      "Title": "Lead the race debrief",
+      "Icon": "hammer",
+      "SecondLine": "Project stage 3",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_race_engineer:NativeCareerSync:=1>>scenario.careersV7.job_race_engineer3",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_race_engineer_3"
+    },
+    {
+      "Title": "Submit and Review",
+      "Icon": "clipboard",
+      "SecondLine": "Turn project progress into job performance",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_race_engineer:NativeCareerSync:=1>>scenario.careersV7.job_race_engineerdeliver",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_race_engineer_4"
+    }
+  ]
+}

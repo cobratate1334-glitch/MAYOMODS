@@ -1,0 +1,27 @@
+{
+  "arm64_cases": 51,
+  "binary_sha256": "43fc111a9d5c3ddb2a75e63129d29a4badd98e0c27ddd9f5928134efc3d5a61b",
+  "actual_ELF_imports": {
+    "dlopen": {
+      "plt": 94141712,
+      "got": 97629112
+    },
+    "dlsym": {
+      "plt": 94142000,
+      "got": 97629256
+    }
+  },
+  "real_PLT_instructions_executed": true,
+  "v21_invalid_pointer_failures_reproduced": 4,
+  "new_life_first_open_and_start": true,
+  "pending_choices_preserved_on_refresh": true,
+  "settings_consumed_once": true,
+  "pooled_destroyed_buttons_replaced": true,
+  "missing_helper_falls_back_safely": true,
+  "stock_normal_and_piggy_bank_Start_methods_preserved": true,
+  "aslr_biases": [
+    0,
+    68719476736
+  ],
+  "device_runtime_tested": false
+}

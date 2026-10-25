@@ -1,0 +1,19 @@
+2026-10-20 17:41:49.342 Diagnostics initialized; previous reports preserved
+2026-10-20 17:41:49.349 Game log recording started; PID 28572
+2026-10-20 17:41:49.352 D02 - Entering mod launcher and native library
+2026-10-20 17:41:49.455 D03 - Checking app signature
+2026-10-20 17:41:49.458 D04 - Signature accepted; checking native protection
+2026-10-20 17:41:49.459 D05 - Native protection accepted
+2026-10-20 17:41:49.461 D06 - Starting mod update check
+2026-10-20 17:41:50.131 D08 - Mod launcher returned
+2026-10-20 17:41:50.144 Activity created: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:41:50.146 D09 - Android game activity created
+2026-10-20 17:41:50.148 D10 - Initializing Unity engine
+2026-10-20 17:41:50.380 D11 - Unity player created
+2026-10-20 17:41:50.382 D12 - Game view attached
+2026-10-20 17:41:50.405 Activity resumed: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:41:50.410 NL25: native checkpoint bridge ready
+2026-10-20 17:41:50.421 D13 - Game activity resumed; engine running
+2026-10-20 17:41:50.467 Activity paused: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:48:12.024 Activity resumed: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:48:12.046 D13 - Game activity resumed; engine running

@@ -1,0 +1,47 @@
+{
+  "routines": {
+    "JNI_OnLoad": {
+      "va": 16384,
+      "source": "sub sp,sp,#0x80\nstp x29,x30,[sp,#0x20]\nstp x20,x19,[sp,#0x30]\nstp x22,x21,[sp,#0x40]\nstp x24,x23,[sp,#0x50]\nstp x26,x25,[sp,#0x60]\nadrp x25,0xc000\nadd x25,x25,#0\nstr x0,[x25]\nmov x20,x0\nldr x8,[x20]\nldr x8,[x8,#48]\nadd x1,sp,#8\nmov w2,#6\nmovk w2,#1,lsl #16\nblr x8\ncbnz w0,load_fail\nldr x19,[sp,#8]\ncbz x19,load_fail\nmov x0,x19\nadrp x1,0x2000\nadd x1,x1,#0\nldr x8,[x19]\nldr x8,[x8,#48]\nblr x8\ncbz x0,load_exception\nmov x21,x0\nmov x1,x0\nmov x0,x19\nldr x8,[x19]\nldr x8,[x8,#168]\nblr x8\ncbz x0,load_exception\nstr x0,[x25,#8]\nmov x1,x21\nmov x0,x19\nldr x8,[x19]\nldr x8,[x8,#184]\nblr x8\nmov x0,x19\nldr x1,[x25,#8]\nadrp x2,0x2000\nadd x2,x2,#35\nadrp x3,0x2000\nadd x3,x3,#44\nldr x8,[x19]\nldr x8,[x8,#904]\nblr x8\nstr x0,[x25,#16]\ncbz x0,load_exception\nmov w0,#6\nmovk w0,#1,lsl #16\nb load_done\nload_exception:\nmov x0,x19\nldr x8,[x19]\nldr x8,[x8,#136]\nblr x8\nload_fail:\nmov w0,#-1\nload_done:\nldp x26,x25,[sp,#0x60]\nldp x24,x23,[sp,#0x50]\nldp x22,x21,[sp,#0x40]\nldp x20,x19,[sp,#0x30]\nldp x29,x30,[sp,#0x20]\nadd sp,sp,#0x80\nret\n",
+      "length": 260
+    },
+    "mayo21_ui": {
+      "va": 16656,
+      "source": "sub sp,sp,#0x80\nstp x29,x30,[sp,#0x20]\nstp x20,x19,[sp,#0x30]\nstp x22,x21,[sp,#0x40]\nstp x24,x23,[sp,#0x50]\nstp x26,x25,[sp,#0x60]\nmov w24,w0\nadrp x25,0xc000\nadd x25,x25,#0\nldr x20,[x25]\ncbz x20,ui_done\nldr x8,[x25,#8]\ncbz x8,ui_done\nldr x8,[x25,#16]\ncbz x8,ui_done\nmov x0,x20\nldr x8,[x20]\nldr x8,[x8,#48]\nadd x1,sp,#8\nmov w2,#6\nmovk w2,#1,lsl #16\nblr x8\nmov w26,#0\ncbz w0,ui_env\nmov x0,x20\nldr x8,[x20]\nldr x8,[x8,#32]\nadd x1,sp,#8\nmov x2,xzr\nblr x8\ncbnz w0,ui_done\nmov w26,#1\nui_env:\nldr x19,[sp,#8]\ncbz x19,ui_detach\nstr xzr,[sp]\nstr w24,[sp]\nmov x0,x19\nldr x1,[x25,#8]\nldr x2,[x25,#16]\nmov x3,sp\nldr x8,[x19]\nldr x8,[x8,#1144]\nblr x8\nmov x0,x19\nldr x8,[x19]\nldr x8,[x8,#1824]\nblr x8\ncbz w0,ui_detach\nmov x0,x19\nldr x8,[x19]\nldr x8,[x8,#136]\nblr x8\nui_detach:\ncbz w26,ui_done\nmov x0,x20\nldr x8,[x20]\nldr x8,[x8,#40]\nblr x8\nui_done:\nldp x26,x25,[sp,#0x60]\nldp x24,x23,[sp,#0x50]\nldp x22,x21,[sp,#0x40]\nldp x20,x19,[sp,#0x30]\nldp x29,x30,[sp,#0x20]\nadd sp,sp,#0x80\nret\n",
+      "length": 256
+    },
+    "Java_com_chance_bitlifediag_LifeSetupUI_read": {
+      "va": 16912,
+      "source": "adrp x8,0xc000\nadd x8,x8,#32\ncmp w2,#0\nb.lt read_bad\ncmp w2,#6\nb.gt read_bad\nldr w0,[x8,w2,uxtw #2]\nret\nread_bad:\nmov w0,#0\nret\n",
+      "length": 40
+    },
+    "Java_com_chance_bitlifediag_LifeSetupUI_configure": {
+      "va": 16960,
+      "source": "adrp x8,0xc000\nadd x8,x8,#32\nmov w9,#140\ncmp w2,w9\ncsel w2,w2,w9,ge\nmov w9,#235\ncmp w2,w9\ncsel w2,w2,w9,le\nstr w2,[x8,#4]\nmov w9,#40\ncmp w3,w9\ncsel w3,w3,w9,ge\nmov w9,#180\ncmp w3,w9\ncsel w3,w3,w9,le\nstr w3,[x8,#8]\nmov w9,#-10\ncmp w4,w9\ncsel w4,w4,w9,ge\nmov w9,#20\ncmp w4,w9\ncsel w4,w4,w9,le\nstr w4,[x8,#12]\nmov w9,#0\ncmp w5,w9\ncsel w5,w5,w9,ge\nmov w9,#7\ncmp w5,w9\ncsel w5,w5,w9,le\nstr w5,[x8,#16]\nmov w9,#0\ncmp w6,w9\ncsel w6,w6,w9,ge\nmov w9,#8\ncmp w6,w9\ncsel w6,w6,w9,le\nstr w6,[x8,#20]\nmov w9,#0\ncmp w7,w9\ncsel w7,w7,w9,ge\nmov w9,#7\ncmp w7,w9\ncsel w7,w7,w9,le\nstr w7,[x8,#24]\nmov w9,#1\nstr w9,[x8]\nret\n",
+      "length": 188
+    },
+    "mayo21_reset": {
+      "va": 17152,
+      "source": "adrp x8,0xc000\nadd x8,x8,#32\nstr wzr,[x8]\nmov w9,#178\nstr w9,[x8,#4]\nmov w9,#72\nstr w9,[x8,#8]\nmov w9,#2\nstr w9,[x8,#12]\nstr wzr,[x8,#16]\nstr wzr,[x8,#20]\nstr wzr,[x8,#24]\nret\n",
+      "length": 52
+    },
+    "Java_com_chance_bitlifediag_LifeSetupUI_submitBirthYear": {
+      "va": 17216,
+      "source": "adrp x8,0xc000\nadd x8,x8,#128\nstr w2,[x8]\nstr w3,[x8,#4]\nret\n",
+      "length": 20
+    }
+  },
+  "exports": {
+    "JNI_OnLoad": 16384,
+    "mayo21_ui": 16656,
+    "Java_com_chance_bitlifediag_LifeSetupUI_read": 16912,
+    "Java_com_chance_bitlifediag_LifeSetupUI_configure": 16960,
+    "mayo21_reset": 17152,
+    "Java_com_chance_bitlifediag_LifeSetupUI_submitBirthYear": 17216,
+    "mayo21_config": 49184,
+    "mayo54_year": 49280
+  },
+  "data": 49152,
+  "config": 49184,
+  "sha256": "6d0d019d85fe85d668dbd0d3d58f2c35134ce92a4ee53397664dcf3f8d17e06b"
+}

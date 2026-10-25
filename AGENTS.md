@@ -1,0 +1,93 @@
+# Instructions for Codex — MayoMods
+
+## Read first
+
+Read `PROJECT_SUMMARY.md`, `BUGS.md`, `FEATURES.md`, `HISTORY.md`, then
+`TRANSFER_TO_CODEX.md`. The project is an existing Android/Unity IL2CPP mod,
+not a new web game. Root handover documents describe the selected workstream;
+older release READMEs and `LATEST_BUILD.md` files are historical evidence.
+
+## Current objective and branch
+
+- Use the recovered **v55** APK/game logic as the requested baseline.
+- The focused scar/eyepatch candidate lives in `project/work/source/native_v55a`.
+- **Installation is unresolved.** The user reported `App not installed` for
+  both v56 and the v55 scar/eyepatch candidate. No successful install of these
+  exact APKs is established. Do not call either a known-working phone build.
+- Do not promote the v56 portrait compositor, rebuild on v56 by default, or
+  mix its native output into the v55 workstream. Its source is retained for
+  investigation only. Preserve supplied artwork/cropping work where appropriate.
+- Diagnose the install rejection before adding gameplay features. Keep the
+  next gameplay change limited to scars/eyepatches unless the user changes scope.
+
+## Protect continuity
+
+- Never prescribe uninstalling the game, clearing its data, changing its
+  package name, rotating the signer, or bypassing device verification as a
+  speculative fix. Preserve the user's saves and established update identity.
+- Compare the **actual installed** version code and signer with the candidate.
+  A v55 game-code baseline does not require an Android version-code downgrade.
+  Do not invent a version conflict, storage problem, corrupt download or cause.
+- The existing private signing backup is known and referenced in `BUILD.md`.
+  It is deliberately not inside this repository. Inspect supplied private
+  inputs before saying the key is lost or requesting another upload.
+- Keep keys, keystores, credentials and APKs out of Git. Never include secrets
+  in logs, source updates or diagnostics. The currently discovered GitHub
+  repository is public. On 25 October 2026 the owner explicitly authorized
+  publishing this handover, recovered source and supplied assets there.
+  That publication is authorized; keep private signing material separate.
+- Keep source/checkpoints in durable Git commits once a destination is agreed.
+  A scratch path from an old chat is not durable storage. Recover archived
+  files before declaring assets/source missing.
+
+## Engineering constraints
+
+- Build from the exact hash-pinned base for each script. Never substitute a
+  stock/newer BitLife APK under an old address map or assertion.
+- Run native scripts from `project/`; they depend on relative analysis files
+  and historical modules. Do not remove older version folders as cleanup.
+- Preserve serialized field names, stable choice IDs, resource identities,
+  stock menus and original entries. Integrate crimes into Activities → Crime.
+- Keep one **Genetic appearances** hub, including native face editing,
+  inherited abilities and added cosmetic layers. Avoid duplicated root tabs.
+- Use the supplied assets and existing visual language. Do not add 3D or a new
+  online/AI requirement during stability work. Respect offline gameplay.
+- Native AArch64 changes require correct calling conventions, saved registers,
+  managed-object lifetime, actual receiver types and safe exception boundaries.
+  Re-audit ELF segments/BSS, relocation assumptions, GC boundaries and page
+  alignment whenever changing layout. Never guess offsets or enum meanings.
+- Every new gameplay action needs a visible result, persistent consequences
+  and a real life-journal entry where appropriate. A menu button or counter
+  change alone is not a completed gameplay system.
+
+## Verification and claims
+
+- Treat archived `passed: true` as a result of its stated checks, not a phone
+  certification. Label archive integrity, aapt parsing, signatures, emulated
+  ARM64, modeled managed/Unity APIs, ART execution, device install, rendering,
+  persistence and gameplay separately.
+- The 150 v55a checks exercise accessory lookup/register preservation; the
+  tests do **not** install Android packages or render Unity on the user's phone.
+- Use `aapt2 dump badging` as well as apksig and ZIP/alignment checks. A previous
+  project APK passed weaker checks while Android's parser rejected its ZIP.
+  The latest v55/v55a/v56 archived parser checks accepted the packages; this did
+  not identify the user's current installation rejection.
+- A missing installer log, crash trace or tombstone does not prove success.
+  The separate installer reader has not been confirmed on the user's phone.
+- Test meaningful regressions at managed/native/UI boundaries, including a
+  negative control where available. Reuse already-passed checks when the exact
+  candidate hash and assumptions remain unchanged; avoid ceremonial reruns.
+- Do not relabel an identical failed APK and call it a new repair. Record the
+  precise code/data difference, APK hash, signer, version code and tested limits.
+
+## Work style and handoff
+
+- Make focused, reversible changes; inspect repository instructions and files
+  before asking the user questions already answered in this package.
+- Give concise progress updates. Explain evidence and uncertainty plainly.
+- Update `BUGS.md` and `HISTORY.md` when evidence changes. Mark a bug resolved
+  only at the layer actually verified; leave phone acceptance pending when so.
+- Do not implement the whole feature backlog during an installation repair.
+- Before the next release, document install/update, launch/resume, appearance
+  preview/apply/cancel/remove/save/reload/age-up, school/sports/fight navigation
+  and representative journaled actions. Record which checks actually ran.

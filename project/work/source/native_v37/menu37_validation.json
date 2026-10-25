@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "sha256": "909af977d70a5a934f81004ef0ea840ab261770ec9d87959e6880d5541663628",
+  "changed_classes": [
+    "com/android/support/Menu.smali",
+    "com/android/support/Update/UpdateManager.smali"
+  ],
+  "unchanged_classes": 74,
+  "native_methods_and_gameplay_callbacks_preserved": true,
+  "feature_loop_and_implicit_ID_bookkeeping_byte_exact": true,
+  "neutral_drawn_MOD_button": true,
+  "header_replaced_after_native_initialization": true,
+  "all_in_menu_link_widgets_disabled": true,
+  "third_party_update_network_and_prompts_disabled": true,
+  "smali_roundtrip": true,
+  "ART_tested": false
+}

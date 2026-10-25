@@ -1,0 +1,21 @@
+{
+  "input_sha256": "a7462d73d700ff94b365217c4f112e597fa8775c7bbed9489dc62323dc89d95c",
+  "output_sha256": "f2ced1723c507d737b2af58c953ac6e71127deb7c54b8c2a432c4e1802f4446c",
+  "output_bytes": 268544182,
+  "changed_entries": [
+    "classes13.dex"
+  ],
+  "status": "Diagnostic only; age-up and dealer bugs unresolved",
+  "capture": "Own process logcat; app-private bounded runtime and first-exception files; no root or ptrace",
+  "ui": "Launcher Start capture & open game; Unity activity right-side LOG button; Copy runtime log",
+  "tests": "Runtime log filtering, exception preservation, rotation, persistence, reset and clipboard bounds passed",
+  "signature_checks": {
+    "VerifyApk.java": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]",
+    "VerifyNativeSigner.java": "verified=true; actual APK signer matches native SHA-1 check; fingerprint=N3gA1+wRR7rLi+T23e/U4BZZu9Q="
+  },
+  "archive_crc_eocd_alignment": "passed",
+  "manifest_native_gameplay_content_other_dex_byte_preserved": true,
+  "saved_native_reader_disassembled_instructions_preserved": true,
+  "diagnostic_dex_roundtrip_verified": true,
+  "phone_runtime_tested": false
+}

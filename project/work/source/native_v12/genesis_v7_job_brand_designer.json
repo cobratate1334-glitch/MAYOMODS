@@ -1,0 +1,97 @@
+{
+  "ListID": "genesis_v7_job_brand_designer",
+  "Title": "BRAND DESIGNER PROJECTS",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Project Dashboard",
+      "Icon": "scroll",
+      "SecondLine": "Completed: <GFC.job_brand_designer.Projects>",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_brand_designer:NativeCareerSync:=1>>scenario.careersV7.job_brand_designerdeliver",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "BarGraph": {
+        "Title": "Quality",
+        "Value": "<GFC.job_brand_designer.Quality>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v9_genesis_v7_job_brand_designer_0"
+    },
+    {
+      "Title": "Develop brand concepts",
+      "Icon": "hammer",
+      "SecondLine": "Project stage 1",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_brand_designer:NativeCareerSync:=1>>scenario.careersV7.job_brand_designer1",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_brand_designer_1"
+    },
+    {
+      "Title": "Test the visual identity",
+      "Icon": "memo",
+      "SecondLine": "Project stage 2",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_brand_designer:NativeCareerSync:=1>>scenario.careersV7.job_brand_designer2",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_brand_designer_2"
+    },
+    {
+      "Title": "Deliver the brand system",
+      "Icon": "notebook",
+      "SecondLine": "Project stage 3",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_brand_designer:NativeCareerSync:=1>>scenario.careersV7.job_brand_designer3",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_brand_designer_3"
+    },
+    {
+      "Title": "Submit and Review",
+      "Icon": "clipboard",
+      "SecondLine": "Turn project progress into job performance",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_brand_designer:NativeCareerSync:=1>>scenario.careersV7.job_brand_designerdeliver",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_brand_designer_4"
+    }
+  ]
+}

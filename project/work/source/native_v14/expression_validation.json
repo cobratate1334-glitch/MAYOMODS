@@ -1,0 +1,6 @@
+{
+  "instruction_cases": 12,
+  "nested_rejection_reproduced": true,
+  "expanded_input_accepted": true,
+  "device_runtime_tested": false
+}

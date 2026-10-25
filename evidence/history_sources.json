@@ -1,0 +1,62 @@
+{
+  "raw_conversation_export_included": false,
+  "project_chat_index": [
+    {
+      "title": "Edit app features",
+      "conversation_id": "6aba6c9e-4a18-83ec-9381-b789c33538be",
+      "created": 1790602398.805292,
+      "updated": 1790650915.212086,
+      "user_message_count": 49
+    },
+    {
+      "title": "Edit APK game",
+      "conversation_id": "6abb2a2e-b55c-83ec-b6f4-425c3498f8ce",
+      "created": 1790650928.025157,
+      "updated": 1790655993.484862,
+      "user_message_count": 11
+    },
+    {
+      "title": "Game Upgrade Plan",
+      "conversation_id": "6abb43cf-19d8-83ec-ba9d-c9b753e53016",
+      "created": 1790657488.91641,
+      "updated": 1790665138.481181,
+      "user_message_count": 10
+    },
+    {
+      "title": "Game Upgrade Ideas",
+      "conversation_id": "6abb6336-b6d8-83ec-a79e-8ca7e17f4e1f",
+      "created": 1790665532.732923,
+      "updated": 1791017945.993377,
+      "user_message_count": 102
+    },
+    {
+      "title": "Update crash reader",
+      "conversation_id": "6ac0aff7-d3ec-83ec-8ae0-a5860785a624",
+      "created": 1791012861.294352,
+      "updated": 1791105813.262789,
+      "user_message_count": 73
+    },
+    {
+      "title": "Game Feature Suggestions",
+      "conversation_id": "6ac21b1b-2370-83ec-a1b5-84846f2926df",
+      "created": 1791105824.851192,
+      "updated": 1791174364.757428,
+      "user_message_count": 19
+    },
+    {
+      "title": "BitLife buttons not working",
+      "conversation_id": "6ac22443-a724-83ec-8dda-45c0f302e87f",
+      "created": 1791108169.013567,
+      "updated": 1791108188.390061,
+      "user_message_count": 1
+    },
+    {
+      "title": "BitLife Mod Server Description",
+      "conversation_id": "6ac24ee0-abd4-83ec-8ee3-98efc79e0487",
+      "created": 1791119073.1236,
+      "updated": 1791119094.755002,
+      "user_message_count": 1
+    }
+  ],
+  "recent_source": "Current MayoMods handover conversation through 2026-10-25; prior release READMEs and validation reports"
+}

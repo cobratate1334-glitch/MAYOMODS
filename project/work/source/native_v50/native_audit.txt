@@ -1,0 +1,585 @@
+
+FUNCTION 0x31f6d28 ['MonetizationVars.DoesUserOwnBitizenship'] bytes 0xec
+31f6d28: stp x30, x21, [sp, #-0x20]!
+31f6d2c: stp x20, x19, [sp, #0x10]
+31f6d30: adrp x20, #0x60c4000
+31f6d34: mov x19, x0
+31f6d38: ldrb w8, [x20, #0x89d]
+31f6d3c: tbnz w8, #0, #0x31f6d60
+31f6d40: adrp x0, #0x5c23000
+31f6d44: ldr x0, [x0, #0xc90]
+31f6d48: bl #0x2236f1c ; 
+31f6d4c: adrp x0, #0x5c88000
+31f6d50: ldr x0, [x0, #0xa68]
+31f6d54: bl #0x2236f1c ; 
+31f6d58: mov w8, #1
+31f6d5c: strb w8, [x20, #0x89d]
+31f6d60: mov x0, xzr
+31f6d64: bl #0x2e03944 ; GameManager.AppPlatform
+31f6d68: cmp w0, #1
+31f6d6c: b.ne #0x31f6d90
+31f6d70: ldrb w8, [x19, #0x10]
+31f6d74: cbnz w8, #0x31f6d88
+31f6d78: ldrb w8, [x19, #0x11]
+31f6d7c: cbnz w8, #0x31f6d88
+31f6d80: ldrb w8, [x19, #0x12]
+31f6d84: cbz w8, #0x31f6e00
+31f6d88: mov w0, #1
+31f6d8c: b #0x31f6df4 ; 
+31f6d90: adrp x21, #0x5c88000
+31f6d94: mov x1, xzr
+31f6d98: ldr x21, [x21, #0xa68]
+31f6d9c: ldr x0, [x21]
+31f6da0: bl #0x556c3a4 ; SqlBoolean.ToString, PlayerPrefs.HasKey
+31f6da4: tbz w0, #0, #0x31f6df0
+31f6da8: adrp x8, #0x5c23000
+31f6dac: ldr x8, [x8, #0xc90]
+31f6db0: ldr x8, [x8]
+31f6db4: ldr x8, [x8, #0xb8]
+31f6db8: ldr x8, [x8]
+31f6dbc: cbz x8, #0x31f6e10
+31f6dc0: ldr x8, [x8, #0x48]
+31f6dc4: cbz x8, #0x31f6e10
+31f6dc8: ldr x0, [x21]
+31f6dcc: ldr x20, [x8, #0x220]
+31f6dd0: mov x1, xzr
+31f6dd4: bl #0x556c35c ; SqlBoolean.get_ByteValue, PlayerPrefs.GetString
+31f6dd8: cbz x20, #0x31f6e10
+31f6ddc: mov x1, x0
+31f6de0: mov x0, x20
+31f6de4: mov x2, xzr
+31f6de8: bl #0x4dfe080 ; 
+31f6dec: tbnz w0, #0, #0x31f6d70
+31f6df0: mov w0, wzr
+31f6df4: ldp x20, x19, [sp, #0x10]
+31f6df8: ldp x30, x21, [sp], #0x20
+31f6dfc: ret 
+31f6e00: ldrb w8, [x19, #0x15]
+31f6e04: cmp w8, #0
+31f6e08: cset w0, ne
+31f6e0c: b #0x31f6df4 ; 
+31f6e10: bl #0x2237168 ; 
+
+FUNCTION 0x31f6e14 ['MonetizationVars.DoesUserOwnBossMode'] bytes 0xe4
+31f6e14: stp x30, x21, [sp, #-0x20]!
+31f6e18: stp x20, x19, [sp, #0x10]
+31f6e1c: adrp x20, #0x60c4000
+31f6e20: mov x19, x0
+31f6e24: ldrb w8, [x20, #0x89f]
+31f6e28: tbnz w8, #0, #0x31f6e4c
+31f6e2c: adrp x0, #0x5c23000
+31f6e30: ldr x0, [x0, #0xc90]
+31f6e34: bl #0x2236f1c ; 
+31f6e38: adrp x0, #0x5c88000
+31f6e3c: ldr x0, [x0, #0xa68]
+31f6e40: bl #0x2236f1c ; 
+31f6e44: mov w8, #1
+31f6e48: strb w8, [x20, #0x89f]
+31f6e4c: mov x0, xzr
+31f6e50: bl #0x2e03944 ; GameManager.AppPlatform
+31f6e54: cmp w0, #1
+31f6e58: b.ne #0x31f6e74
+31f6e5c: ldrb w8, [x19, #0x1a]
+31f6e60: cbnz w8, #0x31f6e6c
+31f6e64: ldrb w8, [x19, #0x1b]
+31f6e68: cbz w8, #0x31f6ee4
+31f6e6c: mov w0, #1
+31f6e70: b #0x31f6ed8 ; 
+31f6e74: adrp x21, #0x5c88000
+31f6e78: mov x1, xzr
+31f6e7c: ldr x21, [x21, #0xa68]
+31f6e80: ldr x0, [x21]
+31f6e84: bl #0x556c3a4 ; SqlBoolean.ToString, PlayerPrefs.HasKey
+31f6e88: tbz w0, #0, #0x31f6ed4
+31f6e8c: adrp x8, #0x5c23000
+31f6e90: ldr x8, [x8, #0xc90]
+31f6e94: ldr x8, [x8]
+31f6e98: ldr x8, [x8, #0xb8]
+31f6e9c: ldr x8, [x8]
+31f6ea0: cbz x8, #0x31f6ef4
+31f6ea4: ldr x8, [x8, #0x48]
+31f6ea8: cbz x8, #0x31f6ef4
+31f6eac: ldr x0, [x21]
+31f6eb0: ldr x20, [x8, #0x220]
+31f6eb4: mov x1, xzr
+31f6eb8: bl #0x556c35c ; SqlBoolean.get_ByteValue, PlayerPrefs.GetString
+31f6ebc: cbz x20, #0x31f6ef4
+31f6ec0: mov x1, x0
+31f6ec4: mov x0, x20
+31f6ec8: mov x2, xzr
+31f6ecc: bl #0x4dfe080 ; 
+31f6ed0: tbnz w0, #0, #0x31f6e5c
+31f6ed4: mov w0, wzr
+31f6ed8: ldp x20, x19, [sp, #0x10]
+31f6edc: ldp x30, x21, [sp], #0x20
+31f6ee0: ret 
+31f6ee4: mov x0, x19
+31f6ee8: ldp x20, x19, [sp, #0x10]
+31f6eec: ldp x30, x21, [sp], #0x20
+31f6ef0: b #0x31f7470 ; MonetizationVars.ShouldGrandfatherLegacyBitizenIntoBossMode
+31f6ef4: bl #0x2237168 ; 
+
+FUNCTION 0x31f6ef8 ['MonetizationVars.DoesUserOwnGodMode'] bytes 0xe4
+31f6ef8: stp x30, x21, [sp, #-0x20]!
+31f6efc: stp x20, x19, [sp, #0x10]
+31f6f00: adrp x20, #0x60c4000
+31f6f04: mov x19, x0
+31f6f08: ldrb w8, [x20, #0x89e]
+31f6f0c: tbnz w8, #0, #0x31f6f30
+31f6f10: adrp x0, #0x5c23000
+31f6f14: ldr x0, [x0, #0xc90]
+31f6f18: bl #0x2236f1c ; 
+31f6f1c: adrp x0, #0x5c88000
+31f6f20: ldr x0, [x0, #0xa68]
+31f6f24: bl #0x2236f1c ; 
+31f6f28: mov w8, #1
+31f6f2c: strb w8, [x20, #0x89e]
+31f6f30: mov x0, xzr
+31f6f34: bl #0x2e03944 ; GameManager.AppPlatform
+31f6f38: cmp w0, #1
+31f6f3c: b.ne #0x31f6f58
+31f6f40: ldrb w8, [x19, #0x13]
+31f6f44: cbnz w8, #0x31f6f50
+31f6f48: ldrb w8, [x19, #0x14]
+31f6f4c: cbz w8, #0x31f6fc8
+31f6f50: mov w0, #1
+31f6f54: b #0x31f6fbc ; 
+31f6f58: adrp x21, #0x5c88000
+31f6f5c: mov x1, xzr
+31f6f60: ldr x21, [x21, #0xa68]
+31f6f64: ldr x0, [x21]
+31f6f68: bl #0x556c3a4 ; SqlBoolean.ToString, PlayerPrefs.HasKey
+31f6f6c: tbz w0, #0, #0x31f6fb8
+31f6f70: adrp x8, #0x5c23000
+31f6f74: ldr x8, [x8, #0xc90]
+31f6f78: ldr x8, [x8]
+31f6f7c: ldr x8, [x8, #0xb8]
+31f6f80: ldr x8, [x8]
+31f6f84: cbz x8, #0x31f6fd8
+31f6f88: ldr x8, [x8, #0x48]
+31f6f8c: cbz x8, #0x31f6fd8
+31f6f90: ldr x0, [x21]
+31f6f94: ldr x20, [x8, #0x220]
+31f6f98: mov x1, xzr
+31f6f9c: bl #0x556c35c ; SqlBoolean.get_ByteValue, PlayerPrefs.GetString
+31f6fa0: cbz x20, #0x31f6fd8
+31f6fa4: mov x1, x0
+31f6fa8: mov x0, x20
+31f6fac: mov x2, xzr
+31f6fb0: bl #0x4dfe080 ; 
+31f6fb4: tbnz w0, #0, #0x31f6f40
+31f6fb8: mov w0, wzr
+31f6fbc: ldp x20, x19, [sp, #0x10]
+31f6fc0: ldp x30, x21, [sp], #0x20
+31f6fc4: ret 
+31f6fc8: ldrb w8, [x19, #0x15]
+31f6fcc: cmp w8, #0
+31f6fd0: cset w0, ne
+31f6fd4: b #0x31f6fbc ; 
+31f6fd8: bl #0x2237168 ; 
+
+FUNCTION 0x31f7064 ['MonetizationVars.DoesUserHaveAccessToExpansionPack'] bytes 0x114
+31f7064: stp x30, x23, [sp, #-0x30]!
+31f7068: stp x22, x21, [sp, #0x10]
+31f706c: stp x20, x19, [sp, #0x20]
+31f7070: adrp x21, #0x60c4000
+31f7074: mov w20, w1
+31f7078: mov x19, x0
+31f707c: ldrb w8, [x21, #0x8a7]
+31f7080: tbnz w8, #0, #0x31f70a4
+31f7084: adrp x0, #0x5c23000
+31f7088: ldr x0, [x0, #0xc90]
+31f708c: bl #0x2236f1c ; 
+31f7090: adrp x0, #0x5c88000
+31f7094: ldr x0, [x0, #0xa68]
+31f7098: bl #0x2236f1c ; 
+31f709c: mov w8, #1
+31f70a0: strb w8, [x21, #0x8a7]
+31f70a4: adrp x22, #0x5c23000
+31f70a8: mov x0, x19
+31f70ac: mov w1, w20
+31f70b0: ldr x22, [x22, #0xc90]
+31f70b4: bl #0x31f8430 ; MonetizationVars.DoesUserOwnExpansionPack
+31f70b8: mov w19, w0
+31f70bc: mov x0, xzr
+31f70c0: bl #0x2e03944 ; GameManager.AppPlatform
+31f70c4: cmp w0, #1
+31f70c8: b.ne #0x31f70f8
+31f70cc: ldr x8, [x22]
+31f70d0: ldr x8, [x8, #0xb8]
+31f70d4: ldr x8, [x8]
+31f70d8: cbz x8, #0x31f7174
+31f70dc: ldr x8, [x8, #0x20]
+31f70e0: cbz x8, #0x31f7154
+31f70e4: ldr w9, [x8, #0x5c8]
+31f70e8: cmp w9, w20
+31f70ec: b.ne #0x31f7150
+31f70f0: ldrb w8, [x8, #0x5cc]
+31f70f4: b #0x31f7154 ; 
+31f70f8: adrp x23, #0x5c88000
+31f70fc: mov x1, xzr
+31f7100: ldr x23, [x23, #0xa68]
+31f7104: ldr x0, [x23]
+31f7108: bl #0x556c3a4 ; SqlBoolean.ToString, PlayerPrefs.HasKey
+31f710c: tbz w0, #0, #0x31f7150
+31f7110: ldr x8, [x22]
+31f7114: ldr x8, [x8, #0xb8]
+31f7118: ldr x8, [x8]
+31f711c: cbz x8, #0x31f7174
+31f7120: ldr x8, [x8, #0x48]
+31f7124: cbz x8, #0x31f7174
+31f7128: ldr x0, [x23]
+31f712c: ldr x21, [x8, #0x220]
+31f7130: mov x1, xzr
+31f7134: bl #0x556c35c ; SqlBoolean.get_ByteValue, PlayerPrefs.GetString
+31f7138: cbz x21, #0x31f7174
+31f713c: mov x1, x0
+31f7140: mov x0, x21
+31f7144: mov x2, xzr
+31f7148: bl #0x4dfe080 ; 
+31f714c: tbnz w0, #0, #0x31f70cc
+31f7150: mov w8, wzr
+31f7154: and w9, w19, #1
+31f7158: ldp x20, x19, [sp, #0x20]
+31f715c: orr w8, w8, w9
+31f7160: ldp x22, x21, [sp, #0x10]
+31f7164: cmp w8, #0
+31f7168: cset w0, ne
+31f716c: ldp x30, x23, [sp], #0x30
+31f7170: ret 
+31f7174: bl #0x2237168 ; 
+
+FUNCTION 0x31f842c ['MonetizationVars.DoesUserHaveAccessToSpecialCareer'] bytes 0x4
+31f842c: b #0x31f7d30 ; MonetizationVars.DoesUserOwnSpecialCareer
+
+FUNCTION 0x31f8cf0 ['MonetizationVars.DoesUserOwnExpansionPack'] bytes 0x4
+31f8cf0: b #0x31f8430 ; MonetizationVars.DoesUserOwnExpansionPack
+
+FUNCTION 0x31f8430 ['MonetizationVars.DoesUserOwnExpansionPack'] bytes 0x3e0
+31f8430: str x30, [sp, #-0x30]!
+31f8434: stp x22, x21, [sp, #0x10]
+31f8438: stp x20, x19, [sp, #0x20]
+31f843c: adrp x20, #0x60c4000
+31f8440: mov w21, w1
+31f8444: mov x19, x0
+31f8448: ldrb w8, [x20, #0x8ad]
+31f844c: tbnz w8, #0, #0x31f847c
+31f8450: adrp x0, #0x5c23000
+31f8454: ldr x0, [x0, #0xc90]
+31f8458: bl #0x2236f1c ; 
+31f845c: adrp x0, #0x5c24000
+31f8460: ldr x0, [x0, #0x368]
+31f8464: bl #0x2236f1c ; 
+31f8468: adrp x0, #0x5c88000
+31f846c: ldr x0, [x0, #0xa68]
+31f8470: bl #0x2236f1c ; 
+31f8474: mov w8, #1
+31f8478: strb w8, [x20, #0x8ad]
+31f847c: mov x0, xzr
+31f8480: bl #0x2e03944 ; GameManager.AppPlatform
+31f8484: cmp w0, #1
+31f8488: b.ne #0x31f84dc
+31f848c: cmp w21, #5
+31f8490: mov w20, wzr
+31f8494: b.le #0x31f8544
+31f8498: cmp w21, #8
+31f849c: b.gt #0x31f8598
+31f84a0: cmp w21, #6
+31f84a4: b.eq #0x31f8754
+31f84a8: cmp w21, #7
+31f84ac: b.eq #0x31f86b8
+31f84b0: cmp w21, #8
+31f84b4: b.ne #0x31f87c4
+31f84b8: ldrb w8, [x19, #0x52]
+31f84bc: cbnz w8, #0x31f87c0
+31f84c0: ldrb w8, [x19, #0x51]
+31f84c4: cbnz w8, #0x31f87c0
+31f84c8: ldrb w8, [x19, #0x19]
+31f84cc: cbnz w8, #0x31f87c0
+31f84d0: adrp x8, #0x5c24000
+31f84d4: mov w19, #0x32
+31f84d8: b #0x31f87e0 ; 
+31f84dc: adrp x22, #0x5c88000
+31f84e0: mov x1, xzr
+31f84e4: ldr x22, [x22, #0xa68]
+31f84e8: ldr x0, [x22]
+31f84ec: bl #0x556c3a4 ; SqlBoolean.ToString, PlayerPrefs.HasKey
+31f84f0: tbz w0, #0, #0x31f853c
+31f84f4: adrp x8, #0x5c23000
+31f84f8: ldr x8, [x8, #0xc90]
+31f84fc: ldr x8, [x8]
+31f8500: ldr x8, [x8, #0xb8]
+31f8504: ldr x8, [x8]
+31f8508: cbz x8, #0x31f880c
+31f850c: ldr x8, [x8, #0x48]
+31f8510: cbz x8, #0x31f880c
+31f8514: ldr x0, [x22]
+31f8518: ldr x20, [x8, #0x220]
+31f851c: mov x1, xzr
+31f8520: bl #0x556c35c ; SqlBoolean.get_ByteValue, PlayerPrefs.GetString
+31f8524: cbz x20, #0x31f880c
+31f8528: mov x1, x0
+31f852c: mov x0, x20
+31f8530: mov x2, xzr
+31f8534: bl #0x4dfe080 ; 
+31f8538: tbnz w0, #0, #0x31f848c
+31f853c: mov w20, wzr
+31f8540: b #0x31f87c4 ; 
+31f8544: cmp w21, #2
+31f8548: b.le #0x31f85d4
+31f854c: cmp w21, #3
+31f8550: b.eq #0x31f8710
+31f8554: cmp w21, #4
+31f8558: b.eq #0x31f8684
+31f855c: cmp w21, #5
+31f8560: b.ne #0x31f87c4
+31f8564: ldrb w8, [x19, #0x3c]
+31f8568: cbnz w8, #0x31f87c0
+31f856c: ldrb w8, [x19, #0x3b]
+31f8570: cbnz w8, #0x31f87c0
+31f8574: mov x0, x19
+31f8578: mov w1, #8
+31f857c: bl #0x31f8108 ; MonetizationVars.DoesUserOwnBundle
+31f8580: tbnz w0, #0, #0x31f87c0
+31f8584: ldrb w8, [x19, #0x19]
+31f8588: cbnz w8, #0x31f87c0
+31f858c: adrp x8, #0x5c24000
+31f8590: mov w19, #0x27
+31f8594: b #0x31f87e0 ; 
+31f8598: cmp w21, #9
+31f859c: b.eq #0x31f8798
+31f85a0: cmp w21, #0xb
+31f85a4: b.eq #0x31f86ec
+31f85a8: cmp w21, #0xc
+31f85ac: b.ne #0x31f87c4
+31f85b0: ldrb w8, [x19, #0x7f]
+31f85b4: cbnz w8, #0x31f87c0
+31f85b8: ldrb w8, [x19, #0x7e]
+31f85bc: cbnz w8, #0x31f87c0
+31f85c0: ldrb w8, [x19, #0x19]
+31f85c4: cbnz w8, #0x31f87c0
+31f85c8: adrp x8, #0x5c24000
+31f85cc: mov w19, #0x41
+31f85d0: b #0x31f87e0 ; 
+31f85d4: cmp w21, #1
+31f85d8: b.eq #0x31f862c
+31f85dc: cmp w21, #2
+31f85e0: b.ne #0x31f87c4
+31f85e4: ldrb w8, [x19, #0x36]
+31f85e8: cbnz w8, #0x31f87c0
+31f85ec: ldrb w8, [x19, #0x35]
+31f85f0: cbnz w8, #0x31f87c0
+31f85f4: ldrb w8, [x19, #0x19]
+31f85f8: cbnz w8, #0x31f87c0
+31f85fc: mov x0, x19
+31f8600: mov w1, #9
+31f8604: bl #0x31f8108 ; MonetizationVars.DoesUserOwnBundle
+31f8608: tbnz w0, #0, #0x31f87c0
+31f860c: mov x0, x19
+31f8610: mov w1, #1
+31f8614: mov w20, #1
+31f8618: bl #0x31f8108 ; MonetizationVars.DoesUserOwnBundle
+31f861c: tbnz w0, #0, #0x31f87c4
+31f8620: adrp x8, #0x5c24000
+31f8624: mov w19, #0x13
+31f8628: b #0x31f87e0 ; 
+31f862c: ldrb w8, [x19, #0x34]
+31f8630: cbnz w8, #0x31f87c0
+31f8634: ldrb w8, [x19, #0x33]
+31f8638: cbnz w8, #0x31f87c0
+31f863c: ldrb w8, [x19, #0x19]
+31f8640: cbnz w8, #0x31f87c0
+31f8644: mov x0, x19
+31f8648: mov w1, #1
+31f864c: mov w20, #1
+31f8650: bl #0x31f8108 ; MonetizationVars.DoesUserOwnBundle
+31f8654: tbnz w0, #0, #0x31f87c4
+31f8658: mov x0, x19
+31f865c: mov w1, #9
+31f8660: bl #0x31f8108 ; MonetizationVars.DoesUserOwnBundle
+31f8664: tbnz w0, #0, #0x31f87c0
+31f8668: mov x0, x19
+31f866c: mov w1, #5
+31f8670: bl #0x31f8108 ; MonetizationVars.DoesUserOwnBundle
+31f8674: tbnz w0, #0, #0x31f87c0
+31f8678: adrp x8, #0x5c24000
+31f867c: mov w19, #0x12
+31f8680: b #0x31f87e0 ; 
+31f8684: ldrb w8, [x19, #0x3a]
+31f8688: cbnz w8, #0x31f87c0
+31f868c: ldrb w8, [x19, #0x39]
+31f8690: cbnz w8, #0x31f87c0
+31f8694: mov x0, x19
+31f8698: mov w1, #9
+31f869c: bl #0x31f8108 ; MonetizationVars.DoesUserOwnBundle
+31f86a0: tbnz w0, #0, #0x31f87c0
+31f86a4: ldrb w8, [x19, #0x19]
+31f86a8: cbnz w8, #0x31f87c0
+31f86ac: adrp x8, #0x5c24000
+31f86b0: mov w19, #0x1f
+31f86b4: b #0x31f87e0 ; 
+31f86b8: ldrb w8, [x19, #0x3e]
+31f86bc: cbnz w8, #0x31f87c0
+31f86c0: ldrb w8, [x19, #0x3d]
+31f86c4: cbnz w8, #0x31f87c0
+31f86c8: mov x0, x19
+31f86cc: mov w1, #8
+31f86d0: bl #0x31f8108 ; MonetizationVars.DoesUserOwnBundle
+31f86d4: tbnz w0, #0, #0x31f87c0
+31f86d8: ldrb w8, [x19, #0x19]
+31f86dc: cbnz w8, #0x31f87c0
+31f86e0: adrp x8, #0x5c24000
+31f86e4: mov w19, #0x31
+31f86e8: b #0x31f87e0 ; 
+31f86ec: ldrb w8, [x19, #0x40]
+31f86f0: cbnz w8, #0x31f87c0
+31f86f4: ldrb w8, [x19, #0x3f]
+31f86f8: cbnz w8, #0x31f87c0
+31f86fc: ldrb w8, [x19, #0x19]
+31f8700: cbnz w8, #0x31f87c0
+31f8704: adrp x8, #0x5c24000
+31f8708: mov w19, #0x3a
+31f870c: b #0x31f87e0 ; 
+31f8710: ldrb w8, [x19, #0x38]
+31f8714: cbnz w8, #0x31f87c0
+31f8718: ldrb w8, [x19, #0x37]
+31f871c: cbnz w8, #0x31f87c0
+31f8720: ldrb w8, [x19, #0x19]
+31f8724: cbnz w8, #0x31f87c0
+31f8728: mov x0, x19
+31f872c: mov w1, #9
+31f8730: bl #0x31f8108 ; MonetizationVars.DoesUserOwnBundle
+31f8734: tbnz w0, #0, #0x31f87c0
+31f8738: mov x0, x19
+31f873c: mov w1, #2
+31f8740: bl #0x31f8108 ; MonetizationVars.DoesUserOwnBundle
+31f8744: tbnz w0, #0, #0x31f87c0
+31f8748: adrp x8, #0x5c24000
+31f874c: mov w19, #0x1b
+31f8750: b #0x31f87e0 ; 
+31f8754: ldrb w8, [x19, #0x73]
+31f8758: cbnz w8, #0x31f87c0
+31f875c: ldrb w8, [x19, #0x72]
+31f8760: cbnz w8, #0x31f87c0
+31f8764: ldrb w8, [x19, #0x19]
+31f8768: cbnz w8, #0x31f87c0
+31f876c: mov x0, x19
+31f8770: mov w1, #8
+31f8774: bl #0x31f8108 ; MonetizationVars.DoesUserOwnBundle
+31f8778: tbnz w0, #0, #0x31f87c0
+31f877c: mov x0, x19
+31f8780: mov w1, #4
+31f8784: bl #0x31f8108 ; MonetizationVars.DoesUserOwnBundle
+31f8788: tbnz w0, #0, #0x31f87c0
+31f878c: adrp x8, #0x5c24000
+31f8790: mov w19, #0x29
+31f8794: b #0x31f87e0 ; 
+31f8798: ldrb w8, [x19, #0x77]
+31f879c: cbnz w8, #0x31f87c0
+31f87a0: ldrb w8, [x19, #0x76]
+31f87a4: cbnz w8, #0x31f87c0
+31f87a8: mov x0, x19
+31f87ac: mov w1, #9
+31f87b0: bl #0x31f8108 ; MonetizationVars.DoesUserOwnBundle
+31f87b4: tbnz w0, #0, #0x31f87c0
+31f87b8: ldrb w8, [x19, #0x19]
+31f87bc: cbz w8, #0x31f87d8
+31f87c0: mov w20, #1
+31f87c4: mov w0, w20
+31f87c8: ldp x20, x19, [sp, #0x20]
+31f87cc: ldp x22, x21, [sp, #0x10]
+31f87d0: ldr x30, [sp], #0x30
+31f87d4: ret 
+31f87d8: adrp x8, #0x5c24000
+31f87dc: mov w19, #0x34
+31f87e0: ldr x8, [x8, #0x368]
+31f87e4: ldr x0, [x8]
+31f87e8: ldr w8, [x0, #0xe4]
+31f87ec: cbnz w8, #0x31f87f4
+31f87f0: bl #0x223703c ; 
+31f87f4: mov w0, w19
+31f87f8: ldp x20, x19, [sp, #0x20]
+31f87fc: ldp x22, x21, [sp, #0x10]
+31f8800: mov x1, xzr
+31f8804: ldr x30, [sp], #0x30
+31f8808: b #0x32fa88c ; MyStuffController.IsIapActive
+31f880c: bl #0x2237168 ; 
+
+FUNCTION 0x31f7b44 ['MonetizationVars.PassesAACheck'] bytes 0xbc
+31f7b44: str x30, [sp, #-0x20]!
+31f7b48: stp x20, x19, [sp, #0x10]
+31f7b4c: adrp x19, #0x60c4000
+31f7b50: ldrb w8, [x19, #0x8b6]
+31f7b54: tbnz w8, #0, #0x31f7b78
+31f7b58: adrp x0, #0x5c23000
+31f7b5c: ldr x0, [x0, #0xc90]
+31f7b60: bl #0x2236f1c ; 
+31f7b64: adrp x0, #0x5c88000
+31f7b68: ldr x0, [x0, #0xa68]
+31f7b6c: bl #0x2236f1c ; 
+31f7b70: mov w8, #1
+31f7b74: strb w8, [x19, #0x8b6]
+31f7b78: mov x0, xzr
+31f7b7c: bl #0x2e03944 ; GameManager.AppPlatform
+31f7b80: cmp w0, #1
+31f7b84: b.eq #0x31f7bf0
+31f7b88: adrp x20, #0x5c88000
+31f7b8c: mov x1, xzr
+31f7b90: ldr x20, [x20, #0xa68]
+31f7b94: ldr x0, [x20]
+31f7b98: bl #0x556c3a4 ; SqlBoolean.ToString, PlayerPrefs.HasKey
+31f7b9c: tbz w0, #0, #0x31f7bec
+31f7ba0: adrp x8, #0x5c23000
+31f7ba4: ldr x8, [x8, #0xc90]
+31f7ba8: ldr x8, [x8]
+31f7bac: ldr x8, [x8, #0xb8]
+31f7bb0: ldr x8, [x8]
+31f7bb4: cbz x8, #0x31f7bfc
+31f7bb8: ldr x8, [x8, #0x48]
+31f7bbc: cbz x8, #0x31f7bfc
+31f7bc0: ldr x0, [x20]
+31f7bc4: ldr x19, [x8, #0x220]
+31f7bc8: mov x1, xzr
+31f7bcc: bl #0x556c35c ; SqlBoolean.get_ByteValue, PlayerPrefs.GetString
+31f7bd0: cbz x19, #0x31f7bfc
+31f7bd4: mov x1, x0
+31f7bd8: mov x0, x19
+31f7bdc: mov x2, xzr
+31f7be0: ldp x20, x19, [sp, #0x10]
+31f7be4: ldr x30, [sp], #0x20
+31f7be8: b #0x4dfe080 ; 
+31f7bec: mov w0, wzr
+31f7bf0: ldp x20, x19, [sp, #0x10]
+31f7bf4: ldr x30, [sp], #0x20
+31f7bf8: ret 
+31f7bfc: bl #0x2237168 ; 
+
+FUNCTION 0x31f7af0 ['MonetizationVars.CanHaveAds'] bytes 0x54
+31f7af0: stp x30, x19, [sp, #-0x10]!
+31f7af4: mov x19, x0
+31f7af8: bl #0x31f7b44 ; MonetizationVars.PassesAACheck
+31f7afc: tbz w0, #0, #0x31f7b28
+31f7b00: ldrb w8, [x19, #0x10]
+31f7b04: cbnz w8, #0x31f7b20
+31f7b08: ldrb w8, [x19, #0x11]
+31f7b0c: cbnz w8, #0x31f7b20
+31f7b10: ldrb w8, [x19, #0x15]
+31f7b14: cbnz w8, #0x31f7b20
+31f7b18: ldrb w8, [x19, #0x16]
+31f7b1c: cbz w8, #0x31f7b34
+31f7b20: mov w0, wzr
+31f7b24: b #0x31f7b2c ; 
+31f7b28: mov w0, #1
+31f7b2c: ldp x30, x19, [sp], #0x10
+31f7b30: ret 
+31f7b34: ldrb w8, [x19, #0x12]
+31f7b38: cmp w8, #0
+31f7b3c: cset w0, eq
+31f7b40: b #0x31f7b2c ; 
+
+FUNCTION 0x31f7ca4 ['MonetizationVars.DoesUserHaveAnyAds'] bytes 0x4
+31f7ca4: b #0x31f7af0 ; MonetizationVars.CanHaveAds
+
+FUNCTION 0x31faa68 ['MonetizationVars.OwnsIAP'] bytes 0x8
+31faa68: mov w0, wzr
+31faa6c: ret 

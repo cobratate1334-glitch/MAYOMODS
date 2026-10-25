@@ -1,0 +1,92 @@
+{
+  "ListID": "genesis_v9_basketball_v9",
+  "Title": "BASKETBALL COURT",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Shooting circuit",
+      "Icon": "basketball",
+      "SecondLine": "Resumable challenge",
+      "TileID": "v9_basketball_v9shoot",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV9.basketball_v9shoot",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Defensive reads",
+      "Icon": "memo",
+      "SecondLine": "Resumable challenge",
+      "TileID": "v9_basketball_v9defence",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV9.basketball_v9defence",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Team Meeting",
+      "Icon": "clipboard",
+      "SecondLine": "",
+      "TileID": "v9_basketball_v9team",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV9.basketball_v9team",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Recovery and Conditioning",
+      "Icon": "notebook",
+      "SecondLine": "",
+      "TileID": "v9_basketball_v9recovery",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV9.basketball_v9recovery",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Post-match Interview",
+      "Icon": "soccer-ball",
+      "SecondLine": "",
+      "TileID": "v9_basketball_v9media",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV9.basketball_v9media",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "datapack_sha256": "b02deb8dcc6a89503e051e1b038a89ccb70b0bec525b7a537ce5939274f9c796",
+  "data_sha256": "dd737125224076261181fbefc13df8789fb4b0cda256f21d788292855a3700f0",
+  "assets_sha256": "998bce8fd314aaf86dc0d58bf84421e875299171d478203051780b16c26980b4",
+  "added_TextAssets": {
+    "genesis_v18_defaults_prison40": 37727,
+    "genesis_v18_police40_board": 37728,
+    "genesis_v18_prison40": 37729
+  },
+  "modified_TextAssets": 7,
+  "all_unedited_Unity_objects_preserved": true,
+  "resource_paths_preserved": true,
+  "device_runtime_tested": false
+}

@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "jvm_log_retention_cases": 12,
+  "real_file_rotation_and_restart": true,
+  "Android_UI_tested": false,
+  "source_sha256": {
+    "java/com/chance/bitlifediag/RuntimeLogStore.java": "7cf04265398d2e482a56b2ebad9c3df3d2cde0d6c1d7e734303d196804a5d3d6",
+    "java/com/chance/bitlifediag/CrashJournal.java": "4894f806f2b64e1119e5270842df35cac39015791436c47d7c00371595d85b87",
+    "tests/DiagnosticRetention54Test.java": "e7bd427ff954cbb766b35e4c9de1271a2c80d8f6c3fe4607ae87745312cf433c"
+  }
+}

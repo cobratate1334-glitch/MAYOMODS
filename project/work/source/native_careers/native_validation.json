@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "instruction_emulation_cases": 200,
+  "aslr_biases": [
+    "0",
+    "0x1000000000"
+  ],
+  "android_runtime_tested": false
+}

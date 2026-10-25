@@ -1,0 +1,79 @@
+key,type,value,reset_on_ageup,minimum,maximum
+NativeSoccerSync,int,0,,0,1
+NativeCupRoll,int,0,,0,1
+Playing,int,0,,0,1
+LeagueRank,int,0,,0,1000
+TeamIndex,int,-1,,-1,1000000
+QualifiedCup,int,0,,0,3
+Roll,int,0,,0,99
+Cup,int,0,,0,4
+Stage,int,0,,0,7
+Size,int,32,,32,64
+Phase,int,0,,0,15
+GroupRound,int,0,,0,3
+GroupRank,int,1,,1,4
+TournamentAge,int,0,,0,999
+TournamentTeam,int,-1,,-1,1000000
+DrawIndex,int,0,,0,62
+Lookup,int,0,,0,62
+Return,int,0,,0,4
+Plan,int,0,,0,20
+HalfPlan,int,0,,0,20
+Stamina,int,100,,0,100
+Cards,int,0,,0,10
+LastFor,int,0,,0,12
+LastAgainst,int,0,,0,12
+PenFor,int,0,,0,10
+PenAgainst,int,0,,0,10
+Result,int,0,,0,3
+Appearances,int,0,,0,1000000
+Matches,int,0,,0,1000000
+TotalGoals,int,0,,0,1000000
+T0P,int,0,,0,100
+T0W,int,0,,0,100
+T0D,int,0,,0,100
+T0L,int,0,,0,100
+T0GF,int,0,,0,100
+T0GA,int,0,,0,100
+T1P,int,0,,0,100
+T1W,int,0,,0,100
+T1D,int,0,,0,100
+T1L,int,0,,0,100
+T1GF,int,0,,0,100
+T1GA,int,0,,0,100
+T2P,int,0,,0,100
+T2W,int,0,,0,100
+T2D,int,0,,0,100
+T2L,int,0,,0,100
+T2GF,int,0,,0,100
+T2GA,int,0,,0,100
+T3P,int,0,,0,100
+T3W,int,0,,0,100
+T3D,int,0,,0,100
+T3L,int,0,,0,100
+T3GF,int,0,,0,100
+T3GA,int,0,,0,100
+TeamName,string,Your club,,,
+TeamFlag,string,soccer-ball,,,
+CountryName,string,Choose a national team,,,
+CountryFlag,string,earth,,,
+Opponent,string,Awaiting draw,,,
+OpponentFlag,string,soccer-ball,,,
+RoundName,string,Group stage,,,
+Competition,string,Cup,,,
+T1Name,string,Awaiting draw,,,
+T2Name,string,Awaiting draw,,,
+T3Name,string,Awaiting draw,,,
+T1Flag,string,soccer-ball,,,
+T2Flag,string,soccer-ball,,,
+T3Flag,string,soccer-ball,,,
+FirstResolved,int,0,,0,1
+OtherFor,int,0,,0,5
+OtherAgainst,int,0,,0,5
+Counted,int,0,,0,1
+CountryChosen,int,0,,0,1
+CountryPool,int,-1,,-1,62
+TeamPool,int,-1,,-1,62
+T1ID,int,-1,,-1,62
+T2ID,int,-1,,-1,62
+T3ID,int,-1,,-1,62

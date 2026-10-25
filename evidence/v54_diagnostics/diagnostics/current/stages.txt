@@ -1,0 +1,75 @@
+2026-10-20 17:48:14.428 Diagnostics initialized; previous reports preserved
+2026-10-20 17:48:14.444 Game log recording started; PID 469
+2026-10-20 17:48:14.525 Activity resumed: com.chance.bitlifediag.StartupActivity
+2026-10-20 17:48:15.804 Native launch v54; packaged ABI: arm64-v8a; process: 64-bit
+Supported ABIs: [arm64-v8a]
+Native library directory: /data/app/~~8dw7jeMdd-j1COHDNGvjuQ==/com.candywriter.bitlife-hyxFB9io6rggxmDsxzueUw==/lib/arm64; extracted mod library: true; bytes: 1843456
+APK native loading: extracted; API: 36
+Mod menu uses the game window; system overlay permission is not requested or changed.
+2026-10-20 17:48:15.881 Activity paused: com.chance.bitlifediag.StartupActivity
+2026-10-20 17:48:15.895 D02 - Entering mod launcher and native library
+2026-10-20 17:48:15.897 D03 - Checking app signature
+2026-10-20 17:48:15.899 D04 - Signature accepted; checking native protection
+2026-10-20 17:48:15.900 D05 - Native protection accepted
+2026-10-20 17:48:15.902 D06 - Starting mod update check
+2026-10-20 17:48:16.392 D08 - Mod launcher returned
+2026-10-20 17:48:16.395 Activity created: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:48:16.396 D09 - Android game activity created
+2026-10-20 17:48:16.397 D10 - Initializing Unity engine
+2026-10-20 17:48:16.442 D11 - Unity player created
+2026-10-20 17:48:16.443 D12 - Game view attached
+2026-10-20 17:48:16.447 Activity resumed: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:48:16.449 NL25: native checkpoint bridge ready
+2026-10-20 17:48:16.454 D13 - Game activity resumed; engine running
+2026-10-20 17:48:17.942 LOG menu opened
+2026-10-20 17:48:19.233 NL25 native checkpoint 1070: Starting game life with normal ad eligibility
+2026-10-20 17:48:26.482 NL25 native checkpoint 1100: Player profile measurements requested
+2026-10-20 17:48:26.486 NL25 native checkpoint 1101: Visible profile rows updated
+2026-10-20 17:48:26.487 NL25 native checkpoint 1100: Player profile measurements requested
+2026-10-20 17:48:26.489 NL25 native checkpoint 1101: Visible profile rows updated
+2026-10-20 17:48:31.461 NL25 native checkpoint 1503: Avatar requested a fresh portrait render
+2026-10-20 17:48:31.497 NL25 native checkpoint 1503: Avatar requested a fresh portrait render
+2026-10-20 17:48:31.527 NL25 native checkpoint 1503: Avatar requested a fresh portrait render
+2026-10-20 17:48:31.565 NL25 native checkpoint 1503: Avatar requested a fresh portrait render
+2026-10-20 17:48:31.609 NL25 native checkpoint 1503: Avatar requested a fresh portrait render
+2026-10-20 17:48:31.655 NL25 native checkpoint 1503: Avatar requested a fresh portrait render
+2026-10-20 17:48:31.689 NL25 native checkpoint 1503: Avatar requested a fresh portrait render
+2026-10-20 17:48:31.722 NL25 native checkpoint 1503: Avatar requested a fresh portrait render
+2026-10-20 17:48:37.275 NL25 native checkpoint 1070: Starting game life with normal ad eligibility
+2026-10-20 17:48:43.753 NL25 native checkpoint 1070: Starting game life with normal ad eligibility
+2026-10-20 17:49:27.609 NL25 native checkpoint 1600: Native game checkpoint
+2026-10-20 17:49:57.318 Activity paused: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:50:39.403 Activity resumed: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:50:39.443 D13 - Game activity resumed; engine running
+2026-10-20 17:50:50.871 Activity paused: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:51:18.421 Activity resumed: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:51:18.463 D13 - Game activity resumed; engine running
+2026-10-20 17:51:21.231 NL25 native checkpoint 1600: Native game checkpoint
+2026-10-20 17:51:22.503 NL25 native checkpoint 1600: Native game checkpoint
+2026-10-20 17:51:39.016 NL25 native checkpoint 1600: Native game checkpoint
+2026-10-20 17:51:56.623 NL25 native checkpoint 1600: Native game checkpoint
+2026-10-20 17:52:12.316 NL25 native checkpoint 1600: Native game checkpoint
+2026-10-20 17:52:22.416 Activity paused: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:52:50.303 Activity resumed: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:52:50.341 D13 - Game activity resumed; engine running
+2026-10-20 17:52:55.539 Activity paused: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:53:09.943 Activity resumed: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:53:10.001 D13 - Game activity resumed; engine running
+2026-10-20 17:53:51.611 Activity paused: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:53:52.965 Activity resumed: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:53:53.011 D13 - Game activity resumed; engine running
+2026-10-20 17:53:55.980 NL25 native checkpoint 1600: Native game checkpoint
+2026-10-20 17:54:09.603 Activity paused: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:55:09.351 Activity resumed: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:55:09.420 D13 - Game activity resumed; engine running
+2026-10-20 17:55:20.525 NL25 native checkpoint 1600: Native game checkpoint
+2026-10-20 17:55:21.971 NL25 native checkpoint 1600: Native game checkpoint
+2026-10-20 17:55:24.976 Activity paused: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:56:04.597 Activity resumed: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:56:04.629 D13 - Game activity resumed; engine running
+2026-10-20 17:56:07.116 LOG menu opened
+2026-10-20 17:56:08.492 Activity paused: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:56:08.550 Activity created: com.chance.bitlifediag.DiagnosticsExport54
+2026-10-20 17:56:08.584 Activity resumed: com.chance.bitlifediag.DiagnosticsExport54
+2026-10-20 17:56:08.655 Activity paused: com.chance.bitlifediag.DiagnosticsExport54
+2026-10-20 17:56:17.073 Activity resumed: com.chance.bitlifediag.DiagnosticsExport54

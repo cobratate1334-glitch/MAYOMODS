@@ -1,0 +1,16 @@
+Index,Sport,Gender,Name,Description,Country Code,Money Score,Hall of Fame
+1000,football,male,BitLife Football League,Professional <sport> league,us,5,x
+2000,basketball,male,BitLife Basketball Association,Professional <sport> league,us,5,x
+2100,basketball,female,BitLife Women's Basketball Association,Women's <sport> league,us,5,x
+3000,baseball,male,BitLife Major League,Professional <sport> league,us,5,x
+4000,hockey,male,BitLife Hockey League,Professional <sport> league,us,5,x
+5000,soccer,male,BitLife Premier League,English league <sport>,gb,5,
+5100,soccer,male,BitLife Liga Espa\361ol,Spanish league <sport>,es,5,
+5200,soccer,male,BitLife Campionato Italiano,Italian league <sport>,it,5,
+5300,soccer,male,BitLife Deutsche Liga,German league <sport>,de,3,
+5310,soccer,male,BitLife Campeonato Brasileiro,Brazilian league <sport>,br,1,
+5400,soccer,female,BitLife Women's Soccer League,American women's league <sport>,us,5,x
+5500,soccer,female,BitLife Women's English League,English women's league <sport>,gb,5,
+6000,rugby,male,BitLife Rugby League,Australian league <sport>,au,1,
+6100,rugby,male,BitLife Super League,English league <sport>,gb,1,
+7000,volleyball,female,BitLife Volleyball League,Professional <sport> league,us,5,

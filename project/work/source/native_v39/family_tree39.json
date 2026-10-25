@@ -1,0 +1,223 @@
+{
+  "root": "hero",
+  "nodes": [
+    {
+      "id": "greatgrandmother",
+      "name": "Elena",
+      "relationship": "Great-grandmother",
+      "age_offset": 80,
+      "parents": [],
+      "spouse": "greatgrandfather",
+      "discover_age": 0
+    },
+    {
+      "id": "greatgrandfather",
+      "name": "Tomas",
+      "relationship": "Great-grandfather",
+      "age_offset": 82,
+      "parents": [],
+      "spouse": "greatgrandmother",
+      "discover_age": 0
+    },
+    {
+      "id": "grandmother",
+      "name": "Rosa",
+      "relationship": "Maternal grandmother",
+      "age_offset": 55,
+      "parents": [
+        "greatgrandmother",
+        "greatgrandfather"
+      ],
+      "spouse": "grandfather",
+      "discover_age": 0
+    },
+    {
+      "id": "grandfather",
+      "name": "Miguel",
+      "relationship": "Maternal grandfather",
+      "age_offset": 57,
+      "parents": [
+        "greatgrandfather"
+      ],
+      "spouse": "grandmother",
+      "discover_age": 0
+    },
+    {
+      "id": "pgrandmother",
+      "name": "Ada",
+      "relationship": "Paternal grandmother",
+      "age_offset": 54,
+      "parents": [],
+      "spouse": "pgrandfather",
+      "discover_age": 0
+    },
+    {
+      "id": "pgrandfather",
+      "name": "Eli",
+      "relationship": "Paternal grandfather",
+      "age_offset": 56,
+      "parents": [],
+      "spouse": "pgrandmother",
+      "discover_age": 0
+    },
+    {
+      "id": "mother",
+      "name": "Nora",
+      "relationship": "Story mother",
+      "age_offset": 28,
+      "parents": [
+        "grandmother",
+        "grandfather"
+      ],
+      "spouse": "father",
+      "discover_age": 0
+    },
+    {
+      "id": "father",
+      "name": "Leon",
+      "relationship": "Story father",
+      "age_offset": 30,
+      "parents": [
+        "pgrandmother",
+        "pgrandfather"
+      ],
+      "spouse": "mother",
+      "discover_age": 0
+    },
+    {
+      "id": "aunt",
+      "name": "Clara",
+      "relationship": "Aunt",
+      "age_offset": 26,
+      "parents": [
+        "grandmother",
+        "grandfather"
+      ],
+      "spouse": "uncle",
+      "discover_age": 0
+    },
+    {
+      "id": "uncle",
+      "name": "Sam",
+      "relationship": "Uncle by marriage",
+      "age_offset": 27,
+      "parents": [],
+      "spouse": "aunt",
+      "discover_age": 0
+    },
+    {
+      "id": "cousin1",
+      "name": "Mira",
+      "relationship": "Cousin",
+      "age_offset": 1,
+      "parents": [
+        "aunt",
+        "uncle"
+      ],
+      "spouse": null,
+      "discover_age": 0
+    },
+    {
+      "id": "cousin2",
+      "name": "Theo",
+      "relationship": "Cousin",
+      "age_offset": -3,
+      "parents": [
+        "aunt",
+        "uncle"
+      ],
+      "spouse": null,
+      "discover_age": 3
+    },
+    {
+      "id": "sibling",
+      "name": "Alex",
+      "relationship": "Sibling",
+      "age_offset": 3,
+      "parents": [
+        "mother",
+        "father"
+      ],
+      "spouse": "siblingpartner",
+      "discover_age": 0
+    },
+    {
+      "id": "siblingpartner",
+      "name": "Kai",
+      "relationship": "Sibling\u2019s partner",
+      "age_offset": 2,
+      "parents": [],
+      "spouse": "sibling",
+      "discover_age": 18
+    },
+    {
+      "id": "nephew",
+      "name": "Noah",
+      "relationship": "Nephew",
+      "age_offset": -22,
+      "parents": [
+        "sibling",
+        "siblingpartner"
+      ],
+      "spouse": null,
+      "discover_age": 22
+    },
+    {
+      "id": "niece",
+      "name": "Zoe",
+      "relationship": "Niece",
+      "age_offset": -25,
+      "parents": [
+        "sibling",
+        "siblingpartner"
+      ],
+      "spouse": null,
+      "discover_age": 25
+    },
+    {
+      "id": "partner",
+      "name": "Arin",
+      "relationship": "Your story spouse",
+      "age_offset": 0,
+      "parents": [],
+      "spouse": "hero",
+      "discover_age": 18
+    },
+    {
+      "id": "child1",
+      "name": "Lena",
+      "relationship": "First story child",
+      "age_offset": -24,
+      "parents": [
+        "hero",
+        "partner"
+      ],
+      "spouse": null,
+      "discover_age": 24
+    },
+    {
+      "id": "child2",
+      "name": "Rowan",
+      "relationship": "Second story child",
+      "age_offset": -27,
+      "parents": [
+        "hero",
+        "partner"
+      ],
+      "spouse": null,
+      "discover_age": 27
+    },
+    {
+      "id": "grandchild",
+      "name": "Iris",
+      "relationship": "Story grandchild",
+      "age_offset": -48,
+      "parents": [
+        "child1"
+      ],
+      "spouse": null,
+      "discover_age": 48
+    }
+  ],
+  "story_only": true
+}

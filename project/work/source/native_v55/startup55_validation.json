@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "base_sha256": "89e181eae98c44623c40f2732e8c0a899fa318b907576daf588159121b6764cb",
+  "sha256": "bfb19d928e5da3ca97c683bbde91336bfd876ce0b3eddb9333b985fb84860c53",
+  "changed_range": [
+    910112,
+    4
+  ],
+  "before": "tbz w19,#0,0xde380",
+  "after": "tbz w19,#0,0xde2b0",
+  "other_binding_and_signature_checks_preserved": true,
+  "physical_phone_tested": false
+}

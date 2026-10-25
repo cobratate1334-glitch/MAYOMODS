@@ -1,0 +1,38 @@
+[
+  [
+    "soccer_v11",
+    "SOCCER COMPETITIONS",
+    "",
+    "genesis_v11_defaults_soccer_v11",
+    "",
+    "content",
+    "",
+    "",
+    "Football",
+    "SOCCER COMPETITIONS",
+    "soccer-ball",
+    "Champions League; Europa; Conference and World Cup",
+    0,
+    "genesis_v9_v11_soccer_v11",
+    "",
+    ""
+  ],
+  [
+    "parole_v11",
+    "PAROLE AND HOUSE ARREST",
+    "",
+    "genesis_v11_defaults_parole_v11",
+    "",
+    "content",
+    "",
+    "",
+    "T1",
+    "PAROLE AND HOUSE ARREST",
+    "house",
+    "Parole sentences last 3–5 years",
+    0,
+    "genesis_v9_v11_parole_v11",
+    "",
+    ""
+  ]
+]

@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "datapack_sha256": "21437882d12240ff3b7678a32867dd95e844b8a6dad84c64b643fe9f2de44e1b",
+  "data_sha256": "c7a6d0fe27e420cfd21882105bfad6f8082443d664f93314b8fa9f539d5f467f",
+  "assets_sha256": "4572cec0b391a62acca3c5dff8c0c1a701f49138a3337420ca9c7152c8680c5b",
+  "added_TextAssets": {
+    "genesis_v41_parole_events": 37730
+  },
+  "modified_TextAssets": 9,
+  "all_unedited_Unity_objects_preserved": true,
+  "resource_paths_preserved": true,
+  "device_runtime_tested": false
+}

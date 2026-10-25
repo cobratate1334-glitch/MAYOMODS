@@ -1,0 +1,3 @@
+Started: 1792480694417
+Build: MayoMods v54; app: com.candywriter.bitlife; version: 3.25; PID: 469
+Device: samsung SM-A366B; Android 16; API 36

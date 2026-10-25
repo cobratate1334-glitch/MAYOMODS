@@ -1,0 +1,17 @@
+{
+  "binary_sha256": "c84f04a89444dbc36b8a479353df1d00376c4dbadd7d94f100b1c57372c7206e",
+  "arm64_cases": 31,
+  "reported_fault_reproduced_in_old_patch": true,
+  "old_fault_pc": "0x2238bc4",
+  "old_fault_address": "0x551e0020",
+  "actual_IL2CPP_GC_new_target_free_executed": true,
+  "actual_IL2CPP_reference_store_executed": true,
+  "full_64_bit_handles": true,
+  "repeated_New_Life_setup_callbacks_return_and_birth": true,
+  "tornado_replay_with_real_GC": true,
+  "aslr_biases": [
+    0,
+    68719476736
+  ],
+  "device_runtime_tested": false
+}

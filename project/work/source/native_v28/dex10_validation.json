@@ -1,0 +1,22 @@
+{
+  "original_sha256": "731d103ef574168ace28aa2e32080dc6af69bea63d287ad355e92862d7c40815",
+  "binary_sha256": "12b478ba3a4740fccea18d68630e6b8097d1165ab571a7c3846375eb66a2bd19",
+  "changed_method": "UnityPlayerActivity.onCreate(Bundle)",
+  "method_index": 46459,
+  "unchanged_methods": 56234,
+  "code_offset": 7871692,
+  "old_units": 85,
+  "new_units": 107,
+  "delta_bytes": 60,
+  "legacy_invoke_pc": 85,
+  "resume_pc": 8,
+  "handler_pc": 91,
+  "catch_type": "java.lang.LinkageError",
+  "catch_span_units": 3,
+  "strings_types_protos_method_ids_preserved": true,
+  "all_other_method_bodies_preserved": true,
+  "Context_and_Bundle_registers_preserved": true,
+  "offsets_relocated": 22231,
+  "exact_inverse_verified": true,
+  "recovered_error_saved_as_flushed_checkpoint": true
+}

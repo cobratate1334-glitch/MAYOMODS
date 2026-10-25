@@ -1,0 +1,73 @@
+{
+  "original_sha256": "923462fc8a15d8479b0775aa77845f4cd3c5072097e728495c7adacc6e36c57e",
+  "binary_sha256": "9f469893d5b6e094b99bcf2d864ec1667bd80f28c4106558451753cbae61ceeb",
+  "changes": [
+    {
+      "method": [
+        "Lcom/chance/bitlifediag/StartupActivity;",
+        "play",
+        "()V"
+      ],
+      "original_sha256": "923462fc8a15d8479b0775aa77845f4cd3c5072097e728495c7adacc6e36c57e",
+      "binary_sha256": "92e9eb613ff1aeb2ce683519ff7927f72a8b6e4f5519b3040b3883f318bc8036",
+      "delta_bytes": 164,
+      "exact_inverse_verified": true,
+      "other_method_bodies_and_identifiers_preserved": true,
+      "modified_method_debug_removed": true,
+      "required_library": "RocketGames",
+      "failed_preflight_never_starts_game_activity": true,
+      "load_try_pc": 67,
+      "old_body_prefix_units": 70,
+      "preflight_checkpoint_flushed_before_native_load": true
+    },
+    {
+      "method": [
+        "Lcom/chance/bitlifediag/RuntimeLogStore;",
+        "retain",
+        "(Ljava/lang/String;)Z"
+      ],
+      "original_sha256": "92e9eb613ff1aeb2ce683519ff7927f72a8b6e4f5519b3040b3883f318bc8036",
+      "binary_sha256": "88bf25a641f7c06c4049758986b4639cba32c1467aac3f44cf9ec13d31cc84e0",
+      "delta_bytes": 0,
+      "exact_inverse_verified": true,
+      "other_method_bodies_and_identifiers_preserved": true,
+      "modified_method_debug_removed": false
+    },
+    {
+      "method": [
+        "Lcom/chance/bitlifediag/RuntimeLogStore;",
+        "beginsError",
+        "(Ljava/lang/String;)Z"
+      ],
+      "original_sha256": "88bf25a641f7c06c4049758986b4639cba32c1467aac3f44cf9ec13d31cc84e0",
+      "binary_sha256": "e624d21f336a742d8f929900320cac86ac91f69c72109d2e62908c307d6b05d7",
+      "delta_bytes": 56,
+      "exact_inverse_verified": true,
+      "other_method_bodies_and_identifiers_preserved": true,
+      "modified_method_debug_removed": true
+    },
+    {
+      "method": [
+        "Lcom/chance/bitlifediag/CrashJournal;",
+        "lastCrash",
+        "()Ljava/lang/String;"
+      ],
+      "original_sha256": "e624d21f336a742d8f929900320cac86ac91f69c72109d2e62908c307d6b05d7",
+      "binary_sha256": "402f1225d4b9f85db15fe70875c13ec1fef1e9f2bc45cd1c015dbfb7a15f816c",
+      "delta_bytes": 24,
+      "exact_inverse_verified": true,
+      "other_method_bodies_and_identifiers_preserved": true,
+      "modified_method_debug_removed": true,
+      "previous_native_fatal_visible_when_no_saved_crash": true
+    }
+  ],
+  "identifier_tables_preserved": true,
+  "changed_build_string_ids": [
+    116,
+    485,
+    486,
+    487,
+    511
+  ],
+  "ART_verifier_tested": false
+}

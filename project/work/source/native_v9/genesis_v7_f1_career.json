@@ -1,0 +1,148 @@
+{
+  "ListID": "genesis_v7_f1_career",
+  "Title": "F1 RACING",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Career Status",
+      "Icon": "hero",
+      "SecondLine": "Contracts, salary and employment",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=f1_career:NativeCareerSync:=1>>scenario.careersV7.f1_careerstatus",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v8_f1_career_career_status"
+    },
+    {
+      "Title": "Driver Development",
+      "Icon": "race-car",
+      "SecondLine": "Build skill before applying",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=f1_career:NativeCareerSync:=1>>scenario.careersV7.f1_careertrain",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "BarGraph": {
+        "Title": "Skill",
+        "Value": "<GFC.f1_career.Skill>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v8_f1_career_driver_development"
+    },
+    {
+      "Title": "Team Development",
+      "Icon": "clipboard",
+      "SecondLine": "Pace, reliability and engineering",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=f1_career:NativeCareerSync:=1>>scenario.careersV7.f1_careerteam",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v8_f1_career_team_development"
+    },
+    {
+      "Title": "Race Setup",
+      "Icon": "race-car",
+      "SecondLine": "Tyres and strategy",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=f1_career:NativeCareerSync:=1>>scenario.careersV7.f1_careersetup",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v8_f1_career_race_setup"
+    },
+    {
+      "Title": "Qualifying",
+      "Icon": "flag-checkered",
+      "SecondLine": "Prepare your grid performance",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=f1_career:NativeCareerSync:=1>>scenario.careersV7.f1_careerqualify",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v8_f1_career_qualifying"
+    },
+    {
+      "Title": "Race Weekend",
+      "Icon": "flag-checkered",
+      "SecondLine": "Race the next round",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=f1_career:NativeCareerSync:=1>>scenario.careersV7.f1_careerrace",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v8_f1_career_race_weekend"
+    },
+    {
+      "Title": "Season Standings",
+      "Icon": "chart-bar",
+      "SecondLine": "Six rounds and championship points",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=f1_career:NativeCareerSync:=1>>scenario.careersV7.f1_careerseason",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v8_f1_career_season_standings"
+    },
+    {
+      "Title": "Bonuses",
+      "Icon": "money-bag",
+      "SecondLine": "Refresh employment and collect earned bonuses",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=f1_career:NativeCareerSync:=1>>scenario.careersV7.f1_careerannual",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v8_f1_career_bonuses"
+    }
+  ]
+}

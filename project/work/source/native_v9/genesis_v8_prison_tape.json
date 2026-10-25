@@ -1,0 +1,75 @@
+{
+  "ListID": "genesis_v8_prison_tape",
+  "Title": "PRISON TAPE",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Start a Tape",
+      "Icon": "memo",
+      "SecondLine": "Pick a title and begin writing",
+      "TileID": "v8_prison_tapenew",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV8.prison_tapenew",
+              "ScenarioFile": "genesis_activities_v8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Write Verses",
+      "Icon": "memo",
+      "SecondLine": "Tell a story from inside",
+      "TileID": "v8_prison_tapewrite",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV8.prison_tapewrite",
+              "ScenarioFile": "genesis_activities_v8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Record a Tape",
+      "Icon": "mic",
+      "SecondLine": "Approved workshop or acoustic take",
+      "TileID": "v8_prison_taperecord",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV8.prison_taperecord",
+              "ScenarioFile": "genesis_activities_v8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Prison Showcase",
+      "Icon": "cd",
+      "SecondLine": "Share your finished tape",
+      "TileID": "v8_prison_taperelease",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV8.prison_taperelease",
+              "ScenarioFile": "genesis_activities_v8"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

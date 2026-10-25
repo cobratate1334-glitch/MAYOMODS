@@ -1,0 +1,38 @@
+{
+  "12": {
+    "preserved_classes": 75,
+    "roundtrip": true,
+    "guards": [
+      ".method static synthetic lambda$onNativeNpcEditorSnapshot$0(JILjava/lang/String;[FIIZLjava/lang/String;I)V",
+      ".method static synthetic lambda$onNativeSelectorRequestStarted$0(Lcom/android/support/Menu;JJI)V",
+      ".method static synthetic lambda$onNativeSelectorSnapshot$0(JILjava/lang/String;[Ljava/lang/String;[ILjava/lang/String;)V",
+      ".method static synthetic lambda$onNativeUnityAsyncRequestStarted$0(Lcom/android/support/Menu;JIJ)V",
+      ".method static synthetic lambda$onNativeUnityAsyncResult$0(Lcom/android/support/Menu;JIJ[Ljava/lang/String;[ZLjava/lang/String;)V",
+      ".method public NPCEditor(JIIZLjava/lang/String;I[F)V",
+      ".method public PurchaseDialog([Ljava/lang/String;[Z)V",
+      ".method public StatsModifierDialog(JIILjava/lang/String;I[FLandroid/widget/TextView;)V"
+    ],
+    "persistent_crash_capture": false
+  },
+  "13": {
+    "preserved_classes": 31,
+    "roundtrip": true,
+    "guards": [],
+    "persistent_crash_capture": true,
+    "source_sha256": {
+      "NativeCrashReader.java": "d1f65f068a3cdcfea680643e718fadc176ded0620516e83cfbef8f45c529e214",
+      "LifeSetupUI.java": "cfbf0bdfc9be674301487734c4f0974dec4144c057b1cda1f26257e4d3a203b2",
+      "TombstoneReader.java": "b7896e9707f45f751c463a13b19a6898067a5c167de996afb62e40b95faa24bb",
+      "StartupActivity.java": "09784d64dac74fb0b64a5ee1a2189eea5bac5aef2fda0708f29bb828261f8b33",
+      "RuntimeLogCapture.java": "f0dea0ed44776bd5d094fbd660a9a58887bb428587b0c3f5a8d52c7618c82a1d",
+      "CrashJournal.java": "6bbd15ad227b2412974c53d93ff4d8fb54ad7b07e954f22a2400ee0fa83a14c1",
+      "DiagnosticsUI.java": "d3592b3e02e3ed3ef2954ca903b76475a70ae846e0c9877d501dde2e7976f56d",
+      "RuntimeLogStore.java": "de56e8487c445178ab48d57ecfa4d4e896299d8da463893577bf3adea7c612fc",
+      "StartupProbe.java": "d9afdf21c5a584dbad20d1d3a6097d9820dba87d129dc23b0eba5542796222b2",
+      "FloatingDisplay.java": "eb0e22ab5e1cea6acdabc178f19f61c600a4aca8913d4be511f71c289b00ac67",
+      "NamePackUI.java": "6444d147c9254f9aaa2eadda1fc6d24e561f006487b75ac7839d8ee7ed7f2b7f",
+      "PackCatalog.java": "9af83b9b085ec13d218470351d17db97ded7d8c515a6a6ce26254a04d326501a",
+      "PackFormat.java": "4860dfdfdb706c041f2bd976729f3c9b042fc29c48c6bcb636b00e2ddfe37e75"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "datapack_sha256": "543c174b560526e722531d5c0b1180e69799e7a8e63dd1b484dc18d7f97b9834",
+  "data_sha256": "0aa7315cf705c567b44516cdb26022338f1a0e7a6ef9aba3335a321fbc408a81",
+  "assets_sha256": "4189451edb849fadc600cc761a17e41900220edb9dc1a793e7eb10811bee0b24",
+  "portrait_styles": 156,
+  "new_Texture2D_and_Sprite_objects": 312,
+  "all_unedited_Unity_objects_preserved": true,
+  "all_existing_resource_paths_preserved": true,
+  "portrait_texture_roundtrip_verified": true,
+  "device_runtime_tested": false
+}

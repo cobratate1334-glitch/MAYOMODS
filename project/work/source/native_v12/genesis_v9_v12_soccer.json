@@ -1,0 +1,195 @@
+{
+  "ListID": "genesis_v9_v12_soccer",
+  "Title": "SOCCER COMPETITIONS",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Competition Record",
+      "Icon": "clipboard",
+      "SecondLine": "",
+      "TileID": "v12_CompetitionRecord",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeSoccerSync:=1>>scenario.activitiesV12.record",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Tournament Format",
+      "Icon": "stadium",
+      "SecondLine": "",
+      "TileID": "v12_TournamentFormat",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeSoccerSync:=1>>scenario.activitiesV12.formats",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Champions League",
+      "Icon": "trophy-silver",
+      "SecondLine": "",
+      "TileID": "v12_ChampionsLeague",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeSoccerSync:=1>>scenario.activitiesV12.enter1",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Europa League",
+      "Icon": "v12-europa",
+      "SecondLine": "",
+      "TileID": "v12_EuropaLeague",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeSoccerSync:=1>>scenario.activitiesV12.enter2",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Conference League",
+      "Icon": "v12-conference",
+      "SecondLine": "",
+      "TileID": "v12_ConferenceLeague",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeSoccerSync:=1>>scenario.activitiesV12.enter3",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "World Cup",
+      "Icon": "v12-worldcup",
+      "SecondLine": "",
+      "TileID": "v12_WorldCup",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeSoccerSync:=1>>scenario.activitiesV12.enter4",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "National Team",
+      "Icon": "earth",
+      "SecondLine": "",
+      "TileID": "v12_NationalTeam",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeSoccerSync:=1>>scenario.activitiesV12.national_hub",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Current Tournament",
+      "Icon": "soccer-ball",
+      "SecondLine": "",
+      "TileID": "v12_CurrentTournament",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeSoccerSync:=1>>scenario.activitiesV12.hub",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Group Standings",
+      "Icon": "chart-bar",
+      "SecondLine": "",
+      "TileID": "v12_GroupStandings",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV12.table",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Knockout Path",
+      "Icon": "trophy-bronze",
+      "SecondLine": "",
+      "TileID": "v12_KnockoutPath",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV12.bracket",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Resume v11 Tournament",
+      "Icon": "clock",
+      "SecondLine": "Finish an existing v11 cup",
+      "TileID": "v12_Resumev11Tournament",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v11:NativeSoccerSync:=1>>scenario.activitiesV11.soccer_fixtures",
+              "ScenarioFile": "genesis_activities_v11"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.soccer_v11.Stage>0]"
+    }
+  ]
+}

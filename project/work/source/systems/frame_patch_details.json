@@ -1,0 +1,10 @@
+{
+  "site": 89639636,
+  "entry": 104072192,
+  "trampoline": 104072320,
+  "slot": 104087552,
+  "segment_offset": 103792640,
+  "segments_added": 2,
+  "original_instruction": "ffc301d1",
+  "callback_slot_magic": 18938268762719540
+}

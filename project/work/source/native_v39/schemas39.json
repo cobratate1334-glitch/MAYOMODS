@@ -1,0 +1,3404 @@
+{
+  "worlds39": {
+    "Pending": {
+      "key": "Pending",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "EventKind": {
+      "key": "EventKind",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000
+    },
+    "EventRoll": {
+      "key": "EventRoll",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 99
+    },
+    "EventThreshold": {
+      "key": "EventThreshold",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 99
+    },
+    "Fame": {
+      "key": "Fame",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Reputation": {
+      "key": "Reputation",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "MilitaryActions": {
+      "key": "MilitaryActions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 8
+    },
+    "MilitaryReport": {
+      "key": "MilitaryReport",
+      "type": "string",
+      "value": "No chapter completed.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "MilitaryPaidAge": {
+      "key": "MilitaryPaidAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "MilitaryRole": {
+      "key": "MilitaryRole",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "MilitaryRegion": {
+      "key": "MilitaryRegion",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "MilitaryRank": {
+      "key": "MilitaryRank",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 5
+    },
+    "MilitarySkill": {
+      "key": "MilitarySkill",
+      "type": "int",
+      "value": 25,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "MilitaryFitness": {
+      "key": "MilitaryFitness",
+      "type": "int",
+      "value": 30,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "MilitaryTrust": {
+      "key": "MilitaryTrust",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "MilitaryXP": {
+      "key": "MilitaryXP",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000
+    },
+    "MilitaryCompleted": {
+      "key": "MilitaryCompleted",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 10000
+    },
+    "MilitaryFailed": {
+      "key": "MilitaryFailed",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 10000
+    },
+    "MilitaryRoleName": {
+      "key": "MilitaryRoleName",
+      "type": "string",
+      "value": "No branch selected",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "MilitaryRegionName": {
+      "key": "MilitaryRegionName",
+      "type": "string",
+      "value": "International story setting",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "PoliceActions": {
+      "key": "PoliceActions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 8
+    },
+    "PoliceReport": {
+      "key": "PoliceReport",
+      "type": "string",
+      "value": "No chapter completed.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "PolicePaidAge": {
+      "key": "PolicePaidAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "PoliceRole": {
+      "key": "PoliceRole",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "PoliceRegion": {
+      "key": "PoliceRegion",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "PoliceRank": {
+      "key": "PoliceRank",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 5
+    },
+    "PoliceSkill": {
+      "key": "PoliceSkill",
+      "type": "int",
+      "value": 25,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "PoliceFitness": {
+      "key": "PoliceFitness",
+      "type": "int",
+      "value": 30,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "PoliceTrust": {
+      "key": "PoliceTrust",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "PoliceXP": {
+      "key": "PoliceXP",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000
+    },
+    "PoliceCompleted": {
+      "key": "PoliceCompleted",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 10000
+    },
+    "PoliceFailed": {
+      "key": "PoliceFailed",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 10000
+    },
+    "PoliceRoleName": {
+      "key": "PoliceRoleName",
+      "type": "string",
+      "value": "No branch selected",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "PoliceRegionName": {
+      "key": "PoliceRegionName",
+      "type": "string",
+      "value": "International story setting",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "IntelActions": {
+      "key": "IntelActions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 8
+    },
+    "IntelReport": {
+      "key": "IntelReport",
+      "type": "string",
+      "value": "No chapter completed.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "IntelPaidAge": {
+      "key": "IntelPaidAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "IntelRole": {
+      "key": "IntelRole",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "IntelRegion": {
+      "key": "IntelRegion",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "IntelRank": {
+      "key": "IntelRank",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 5
+    },
+    "IntelSkill": {
+      "key": "IntelSkill",
+      "type": "int",
+      "value": 25,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "IntelFitness": {
+      "key": "IntelFitness",
+      "type": "int",
+      "value": 30,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "IntelTrust": {
+      "key": "IntelTrust",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "IntelXP": {
+      "key": "IntelXP",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000
+    },
+    "IntelCompleted": {
+      "key": "IntelCompleted",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 10000
+    },
+    "IntelFailed": {
+      "key": "IntelFailed",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 10000
+    },
+    "IntelRoleName": {
+      "key": "IntelRoleName",
+      "type": "string",
+      "value": "No branch selected",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "IntelRegionName": {
+      "key": "IntelRegionName",
+      "type": "string",
+      "value": "International story setting",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "ScienceActions": {
+      "key": "ScienceActions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 8
+    },
+    "ScienceReport": {
+      "key": "ScienceReport",
+      "type": "string",
+      "value": "No chapter completed.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "SciencePaidAge": {
+      "key": "SciencePaidAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "ScienceBranch": {
+      "key": "ScienceBranch",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 4
+    },
+    "ScienceKnowledge": {
+      "key": "ScienceKnowledge",
+      "type": "int",
+      "value": 25,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "ScienceLab": {
+      "key": "ScienceLab",
+      "type": "int",
+      "value": 30,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "ScienceContainment": {
+      "key": "ScienceContainment",
+      "type": "int",
+      "value": 60,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "ScienceProgress": {
+      "key": "ScienceProgress",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "SciencePapers": {
+      "key": "SciencePapers",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 10000
+    },
+    "ScienceDiscoveries": {
+      "key": "ScienceDiscoveries",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000
+    },
+    "SciencePrize": {
+      "key": "SciencePrize",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "ScienceOutbreaks": {
+      "key": "ScienceOutbreaks",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000
+    },
+    "ScienceAnomalies": {
+      "key": "ScienceAnomalies",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000
+    },
+    "ScienceSpecialty": {
+      "key": "ScienceSpecialty",
+      "type": "string",
+      "value": "Physics",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "MythActions": {
+      "key": "MythActions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 8
+    },
+    "MythReport": {
+      "key": "MythReport",
+      "type": "string",
+      "value": "No chapter completed.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "MythPaidAge": {
+      "key": "MythPaidAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "MythSpecies": {
+      "key": "MythSpecies",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "MythPower": {
+      "key": "MythPower",
+      "type": "int",
+      "value": 25,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "MythControl": {
+      "key": "MythControl",
+      "type": "int",
+      "value": 40,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "MythHunger": {
+      "key": "MythHunger",
+      "type": "int",
+      "value": 20,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "MythMoon": {
+      "key": "MythMoon",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "MythHierarchy": {
+      "key": "MythHierarchy",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 4
+    },
+    "MythMembers": {
+      "key": "MythMembers",
+      "type": "int",
+      "value": 1,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 12
+    },
+    "MythThralls": {
+      "key": "MythThralls",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 8
+    },
+    "MythQuests": {
+      "key": "MythQuests",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 10000
+    },
+    "MythCurses": {
+      "key": "MythCurses",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 5
+    },
+    "MythName": {
+      "key": "MythName",
+      "type": "string",
+      "value": "Mortal",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "AlienActions": {
+      "key": "AlienActions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 8
+    },
+    "AlienReport": {
+      "key": "AlienReport",
+      "type": "string",
+      "value": "No chapter completed.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "AlienPaidAge": {
+      "key": "AlienPaidAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "AlienRace": {
+      "key": "AlienRace",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "AlienState": {
+      "key": "AlienState",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 4
+    },
+    "AlienCamouflage": {
+      "key": "AlienCamouflage",
+      "type": "int",
+      "value": 70,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "AlienPower": {
+      "key": "AlienPower",
+      "type": "int",
+      "value": 25,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "AlienSuspicion": {
+      "key": "AlienSuspicion",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "AlienTreaty": {
+      "key": "AlienTreaty",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "AlienContact": {
+      "key": "AlienContact",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "AlienPlanet": {
+      "key": "AlienPlanet",
+      "type": "string",
+      "value": "Earth",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "AlienRaceName": {
+      "key": "AlienRaceName",
+      "type": "string",
+      "value": "Human",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "DisasterActions": {
+      "key": "DisasterActions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 8
+    },
+    "DisasterReport": {
+      "key": "DisasterReport",
+      "type": "string",
+      "value": "No chapter completed.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "DisasterPaidAge": {
+      "key": "DisasterPaidAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "DisasterBunker": {
+      "key": "DisasterBunker",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "DisasterFood": {
+      "key": "DisasterFood",
+      "type": "int",
+      "value": 10,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 200
+    },
+    "DisasterMedicine": {
+      "key": "DisasterMedicine",
+      "type": "int",
+      "value": 3,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "DisasterTools": {
+      "key": "DisasterTools",
+      "type": "int",
+      "value": 3,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "DisasterDefenses": {
+      "key": "DisasterDefenses",
+      "type": "int",
+      "value": 20,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "DisasterSafety": {
+      "key": "DisasterSafety",
+      "type": "int",
+      "value": 100,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "DisasterCommunity": {
+      "key": "DisasterCommunity",
+      "type": "int",
+      "value": 30,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "DisasterCrisis": {
+      "key": "DisasterCrisis",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "DisasterWeek": {
+      "key": "DisasterWeek",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 4
+    },
+    "DisasterSurvived": {
+      "key": "DisasterSurvived",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000
+    },
+    "DisasterCompleted": {
+      "key": "DisasterCompleted",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000
+    },
+    "DisasterType": {
+      "key": "DisasterType",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "DisasterStartAge": {
+      "key": "DisasterStartAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "DisasterName": {
+      "key": "DisasterName",
+      "type": "string",
+      "value": "No emergency",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "BioActions": {
+      "key": "BioActions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 8
+    },
+    "BioReport": {
+      "key": "BioReport",
+      "type": "string",
+      "value": "No chapter completed.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "BioPaidAge": {
+      "key": "BioPaidAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "BioLab": {
+      "key": "BioLab",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "BioRole": {
+      "key": "BioRole",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 2
+    },
+    "BioStability": {
+      "key": "BioStability",
+      "type": "int",
+      "value": 70,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "BioClassification": {
+      "key": "BioClassification",
+      "type": "int",
+      "value": 60,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "BioSubjects": {
+      "key": "BioSubjects",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 20
+    },
+    "BioPower": {
+      "key": "BioPower",
+      "type": "int",
+      "value": 20,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "BioFunding": {
+      "key": "BioFunding",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "BioProjects": {
+      "key": "BioProjects",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000
+    },
+    "BioState": {
+      "key": "BioState",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "BioLeak": {
+      "key": "BioLeak",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "RacingActions": {
+      "key": "RacingActions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 8
+    },
+    "RacingReport": {
+      "key": "RacingReport",
+      "type": "string",
+      "value": "No chapter completed.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "RacingPaidAge": {
+      "key": "RacingPaidAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "RacingSkill": {
+      "key": "RacingSkill",
+      "type": "int",
+      "value": 20,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "RacingLicense": {
+      "key": "RacingLicense",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 2
+    },
+    "RacingClass": {
+      "key": "RacingClass",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "RacingSetup": {
+      "key": "RacingSetup",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "RacingTeam": {
+      "key": "RacingTeam",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "RacingWins": {
+      "key": "RacingWins",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 10000
+    },
+    "RacingRaces": {
+      "key": "RacingRaces",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 10000
+    },
+    "RacingPoints": {
+      "key": "RacingPoints",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "RacingRivalry": {
+      "key": "RacingRivalry",
+      "type": "int",
+      "value": 20,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "RacingClassName": {
+      "key": "RacingClassName",
+      "type": "string",
+      "value": "Karting",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "RacingTeamName": {
+      "key": "RacingTeamName",
+      "type": "string",
+      "value": "No racing team",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "CoachActions": {
+      "key": "CoachActions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 8
+    },
+    "CoachReport": {
+      "key": "CoachReport",
+      "type": "string",
+      "value": "No chapter completed.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "CoachPaidAge": {
+      "key": "CoachPaidAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "CoachLicense": {
+      "key": "CoachLicense",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CoachTeam": {
+      "key": "CoachTeam",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 2
+    },
+    "CoachTactics": {
+      "key": "CoachTactics",
+      "type": "int",
+      "value": 30,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "CoachAttack": {
+      "key": "CoachAttack",
+      "type": "int",
+      "value": 45,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "CoachDefense": {
+      "key": "CoachDefense",
+      "type": "int",
+      "value": 45,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "CoachMorale": {
+      "key": "CoachMorale",
+      "type": "int",
+      "value": 60,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "CoachVeterans": {
+      "key": "CoachVeterans",
+      "type": "int",
+      "value": 40,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "CoachBoard": {
+      "key": "CoachBoard",
+      "type": "int",
+      "value": 60,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "CoachBudget": {
+      "key": "CoachBudget",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 10000000
+    },
+    "CoachScouts": {
+      "key": "CoachScouts",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000
+    },
+    "CoachFormation": {
+      "key": "CoachFormation",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "CoachMatches": {
+      "key": "CoachMatches",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 6
+    },
+    "CoachPoints": {
+      "key": "CoachPoints",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 18
+    },
+    "CoachSeasons": {
+      "key": "CoachSeasons",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 10000
+    },
+    "CoachTitles": {
+      "key": "CoachTitles",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000
+    },
+    "CoachActive": {
+      "key": "CoachActive",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CoachStartAge": {
+      "key": "CoachStartAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "NationalActions": {
+      "key": "NationalActions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 8
+    },
+    "NationalReport": {
+      "key": "NationalReport",
+      "type": "string",
+      "value": "No chapter completed.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "NationalPaidAge": {
+      "key": "NationalPaidAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "NationalSport": {
+      "key": "NationalSport",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 2
+    },
+    "NationalRole": {
+      "key": "NationalRole",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 2
+    },
+    "NationalSkill": {
+      "key": "NationalSkill",
+      "type": "int",
+      "value": 30,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "NationalChemistry": {
+      "key": "NationalChemistry",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "NationalReputation": {
+      "key": "NationalReputation",
+      "type": "int",
+      "value": 40,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "NationalTournament": {
+      "key": "NationalTournament",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "NationalRound": {
+      "key": "NationalRound",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "NationalWins": {
+      "key": "NationalWins",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "NationalMedals": {
+      "key": "NationalMedals",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 10000
+    },
+    "NationalScandal": {
+      "key": "NationalScandal",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "NationalSuspended": {
+      "key": "NationalSuspended",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "NationalGamesAge": {
+      "key": "NationalGamesAge",
+      "type": "int",
+      "value": -4,
+      "reset_on_ageup": "",
+      "minimum": -4,
+      "maximum": 999
+    },
+    "NationalSportName": {
+      "key": "NationalSportName",
+      "type": "string",
+      "value": "No sport selected",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "NationalCountry": {
+      "key": "NationalCountry",
+      "type": "string",
+      "value": "No federation selected",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "ArchaeologyActions": {
+      "key": "ArchaeologyActions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 8
+    },
+    "ArchaeologyReport": {
+      "key": "ArchaeologyReport",
+      "type": "string",
+      "value": "No chapter completed.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "ArchaeologyPaidAge": {
+      "key": "ArchaeologyPaidAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "ArchaeologyStudy": {
+      "key": "ArchaeologyStudy",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "ArchaeologySkill": {
+      "key": "ArchaeologySkill",
+      "type": "int",
+      "value": 25,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "ArchaeologyArtifacts": {
+      "key": "ArchaeologyArtifacts",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000
+    },
+    "ArchaeologyExpeditions": {
+      "key": "ArchaeologyExpeditions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000
+    },
+    "ArchaeologyMuseum": {
+      "key": "ArchaeologyMuseum",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "ArchaeologySecurity": {
+      "key": "ArchaeologySecurity",
+      "type": "int",
+      "value": 40,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "ArchaeologyTickets": {
+      "key": "ArchaeologyTickets",
+      "type": "int",
+      "value": 10,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 25
+    },
+    "ArchaeologyVisitors": {
+      "key": "ArchaeologyVisitors",
+      "type": "int",
+      "value": 40,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "ArchaeologyRenown": {
+      "key": "ArchaeologyRenown",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "ArchaeologyLatest": {
+      "key": "ArchaeologyLatest",
+      "type": "string",
+      "value": "No discovery",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "CorpActions": {
+      "key": "CorpActions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 8
+    },
+    "CorpReport": {
+      "key": "CorpReport",
+      "type": "string",
+      "value": "No chapter completed.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "CorpPaidAge": {
+      "key": "CorpPaidAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "CorpFounded": {
+      "key": "CorpFounded",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpCEO": {
+      "key": "CorpCEO",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpEra": {
+      "key": "CorpEra",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "CorpSector": {
+      "key": "CorpSector",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 4
+    },
+    "CorpBranches": {
+      "key": "CorpBranches",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 110
+    },
+    "CorpInnovation": {
+      "key": "CorpInnovation",
+      "type": "int",
+      "value": 30,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "CorpResilience": {
+      "key": "CorpResilience",
+      "type": "int",
+      "value": 40,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "CorpBoard": {
+      "key": "CorpBoard",
+      "type": "int",
+      "value": 60,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "CorpShareholders": {
+      "key": "CorpShareholders",
+      "type": "int",
+      "value": 65,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "CorpStock": {
+      "key": "CorpStock",
+      "type": "int",
+      "value": 100,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000
+    },
+    "CorpIPO": {
+      "key": "CorpIPO",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpScandal": {
+      "key": "CorpScandal",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpStartAge": {
+      "key": "CorpStartAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "CorpSectorName": {
+      "key": "CorpSectorName",
+      "type": "string",
+      "value": "No company",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "CorpMarket0": {
+      "key": "CorpMarket0",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket1": {
+      "key": "CorpMarket1",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket2": {
+      "key": "CorpMarket2",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket3": {
+      "key": "CorpMarket3",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket4": {
+      "key": "CorpMarket4",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket5": {
+      "key": "CorpMarket5",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket6": {
+      "key": "CorpMarket6",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket7": {
+      "key": "CorpMarket7",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket8": {
+      "key": "CorpMarket8",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket9": {
+      "key": "CorpMarket9",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket10": {
+      "key": "CorpMarket10",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket11": {
+      "key": "CorpMarket11",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket12": {
+      "key": "CorpMarket12",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket13": {
+      "key": "CorpMarket13",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket14": {
+      "key": "CorpMarket14",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket15": {
+      "key": "CorpMarket15",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket16": {
+      "key": "CorpMarket16",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket17": {
+      "key": "CorpMarket17",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket18": {
+      "key": "CorpMarket18",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket19": {
+      "key": "CorpMarket19",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket20": {
+      "key": "CorpMarket20",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket21": {
+      "key": "CorpMarket21",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket22": {
+      "key": "CorpMarket22",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket23": {
+      "key": "CorpMarket23",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket24": {
+      "key": "CorpMarket24",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket25": {
+      "key": "CorpMarket25",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket26": {
+      "key": "CorpMarket26",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket27": {
+      "key": "CorpMarket27",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket28": {
+      "key": "CorpMarket28",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket29": {
+      "key": "CorpMarket29",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket30": {
+      "key": "CorpMarket30",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket31": {
+      "key": "CorpMarket31",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket32": {
+      "key": "CorpMarket32",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket33": {
+      "key": "CorpMarket33",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket34": {
+      "key": "CorpMarket34",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket35": {
+      "key": "CorpMarket35",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket36": {
+      "key": "CorpMarket36",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket37": {
+      "key": "CorpMarket37",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket38": {
+      "key": "CorpMarket38",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket39": {
+      "key": "CorpMarket39",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket40": {
+      "key": "CorpMarket40",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket41": {
+      "key": "CorpMarket41",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket42": {
+      "key": "CorpMarket42",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket43": {
+      "key": "CorpMarket43",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket44": {
+      "key": "CorpMarket44",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket45": {
+      "key": "CorpMarket45",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket46": {
+      "key": "CorpMarket46",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket47": {
+      "key": "CorpMarket47",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket48": {
+      "key": "CorpMarket48",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket49": {
+      "key": "CorpMarket49",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket50": {
+      "key": "CorpMarket50",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket51": {
+      "key": "CorpMarket51",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket52": {
+      "key": "CorpMarket52",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket53": {
+      "key": "CorpMarket53",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket54": {
+      "key": "CorpMarket54",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket55": {
+      "key": "CorpMarket55",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket56": {
+      "key": "CorpMarket56",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket57": {
+      "key": "CorpMarket57",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket58": {
+      "key": "CorpMarket58",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket59": {
+      "key": "CorpMarket59",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket60": {
+      "key": "CorpMarket60",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket61": {
+      "key": "CorpMarket61",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket62": {
+      "key": "CorpMarket62",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket63": {
+      "key": "CorpMarket63",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket64": {
+      "key": "CorpMarket64",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket65": {
+      "key": "CorpMarket65",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket66": {
+      "key": "CorpMarket66",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket67": {
+      "key": "CorpMarket67",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket68": {
+      "key": "CorpMarket68",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket69": {
+      "key": "CorpMarket69",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket70": {
+      "key": "CorpMarket70",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket71": {
+      "key": "CorpMarket71",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket72": {
+      "key": "CorpMarket72",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket73": {
+      "key": "CorpMarket73",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket74": {
+      "key": "CorpMarket74",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket75": {
+      "key": "CorpMarket75",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket76": {
+      "key": "CorpMarket76",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket77": {
+      "key": "CorpMarket77",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket78": {
+      "key": "CorpMarket78",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket79": {
+      "key": "CorpMarket79",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket80": {
+      "key": "CorpMarket80",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket81": {
+      "key": "CorpMarket81",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket82": {
+      "key": "CorpMarket82",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket83": {
+      "key": "CorpMarket83",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket84": {
+      "key": "CorpMarket84",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket85": {
+      "key": "CorpMarket85",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket86": {
+      "key": "CorpMarket86",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket87": {
+      "key": "CorpMarket87",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket88": {
+      "key": "CorpMarket88",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket89": {
+      "key": "CorpMarket89",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket90": {
+      "key": "CorpMarket90",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket91": {
+      "key": "CorpMarket91",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket92": {
+      "key": "CorpMarket92",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket93": {
+      "key": "CorpMarket93",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket94": {
+      "key": "CorpMarket94",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket95": {
+      "key": "CorpMarket95",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket96": {
+      "key": "CorpMarket96",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket97": {
+      "key": "CorpMarket97",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket98": {
+      "key": "CorpMarket98",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket99": {
+      "key": "CorpMarket99",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket100": {
+      "key": "CorpMarket100",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpMarket101": {
+      "key": "CorpMarket101",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpRival0": {
+      "key": "CorpRival0",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpRival1": {
+      "key": "CorpRival1",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CorpRival2": {
+      "key": "CorpRival2",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "PropertyActions": {
+      "key": "PropertyActions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 8
+    },
+    "PropertyReport": {
+      "key": "PropertyReport",
+      "type": "string",
+      "value": "No chapter completed.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "PropertyPaidAge": {
+      "key": "PropertyPaidAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "Plot0Stage": {
+      "key": "Plot0Stage",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 4
+    },
+    "Plot0Type": {
+      "key": "Plot0Type",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "Plot0Progress": {
+      "key": "Plot0Progress",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Plot0Occupancy": {
+      "key": "Plot0Occupancy",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Plot0Rent": {
+      "key": "Plot0Rent",
+      "type": "int",
+      "value": 3000,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 10000
+    },
+    "Plot0Condition": {
+      "key": "Plot0Condition",
+      "type": "int",
+      "value": 70,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Plot0Amenities": {
+      "key": "Plot0Amenities",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "Plot0PaidAge": {
+      "key": "Plot0PaidAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "Plot1Stage": {
+      "key": "Plot1Stage",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 4
+    },
+    "Plot1Type": {
+      "key": "Plot1Type",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "Plot1Progress": {
+      "key": "Plot1Progress",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Plot1Occupancy": {
+      "key": "Plot1Occupancy",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Plot1Rent": {
+      "key": "Plot1Rent",
+      "type": "int",
+      "value": 3000,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 10000
+    },
+    "Plot1Condition": {
+      "key": "Plot1Condition",
+      "type": "int",
+      "value": 70,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Plot1Amenities": {
+      "key": "Plot1Amenities",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "Plot1PaidAge": {
+      "key": "Plot1PaidAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "Plot2Stage": {
+      "key": "Plot2Stage",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 4
+    },
+    "Plot2Type": {
+      "key": "Plot2Type",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "Plot2Progress": {
+      "key": "Plot2Progress",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Plot2Occupancy": {
+      "key": "Plot2Occupancy",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Plot2Rent": {
+      "key": "Plot2Rent",
+      "type": "int",
+      "value": 3000,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 10000
+    },
+    "Plot2Condition": {
+      "key": "Plot2Condition",
+      "type": "int",
+      "value": 70,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Plot2Amenities": {
+      "key": "Plot2Amenities",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "Plot2PaidAge": {
+      "key": "Plot2PaidAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "InfluencerActions": {
+      "key": "InfluencerActions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 8
+    },
+    "InfluencerReport": {
+      "key": "InfluencerReport",
+      "type": "string",
+      "value": "No chapter completed.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "InfluencerPaidAge": {
+      "key": "InfluencerPaidAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "InfluencerCamera": {
+      "key": "InfluencerCamera",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "InfluencerStudio": {
+      "key": "InfluencerStudio",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "InfluencerEditors": {
+      "key": "InfluencerEditors",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "InfluencerQuality": {
+      "key": "InfluencerQuality",
+      "type": "int",
+      "value": 25,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "InfluencerFollowers": {
+      "key": "InfluencerFollowers",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100000000
+    },
+    "InfluencerUploads": {
+      "key": "InfluencerUploads",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "InfluencerAgency": {
+      "key": "InfluencerAgency",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "InfluencerCreators": {
+      "key": "InfluencerCreators",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "InfluencerPR": {
+      "key": "InfluencerPR",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "InfluencerStrike": {
+      "key": "InfluencerStrike",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "InfluencerCreator0": {
+      "key": "InfluencerCreator0",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "InfluencerCreator1": {
+      "key": "InfluencerCreator1",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "InfluencerCreator2": {
+      "key": "InfluencerCreator2",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "SponsorActions": {
+      "key": "SponsorActions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 8
+    },
+    "SponsorReport": {
+      "key": "SponsorReport",
+      "type": "string",
+      "value": "No chapter completed.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "SponsorPaidAge": {
+      "key": "SponsorPaidAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "SponsorContract": {
+      "key": "SponsorContract",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "SponsorTermEnd": {
+      "key": "SponsorTermEnd",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 999
+    },
+    "SponsorIncome": {
+      "key": "SponsorIncome",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "SponsorCampaigns": {
+      "key": "SponsorCampaigns",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 10000
+    },
+    "SponsorBrand": {
+      "key": "SponsorBrand",
+      "type": "string",
+      "value": "No active brand",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "LineageActions": {
+      "key": "LineageActions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 8
+    },
+    "LineageReport": {
+      "key": "LineageReport",
+      "type": "string",
+      "value": "No chapter completed.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "LineagePaidAge": {
+      "key": "LineagePaidAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "LineageOrigin": {
+      "key": "LineageOrigin",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "LineageOriginSet": {
+      "key": "LineageOriginSet",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "LineageParentTrust": {
+      "key": "LineageParentTrust",
+      "type": "int",
+      "value": 60,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "LineageSupportPaid": {
+      "key": "LineageSupportPaid",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "LineageMedia": {
+      "key": "LineageMedia",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000
+    },
+    "LineageMarriage": {
+      "key": "LineageMarriage",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "LineageSiblingMarriage": {
+      "key": "LineageSiblingMarriage",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "LineageChildren": {
+      "key": "LineageChildren",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 2
+    },
+    "LineageParentCareer": {
+      "key": "LineageParentCareer",
+      "type": "string",
+      "value": "Ordinary story family",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "LineageStartAge": {
+      "key": "LineageStartAge",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 999
+    },
+    "Family0Connection": {
+      "key": "Family0Connection",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Family1Connection": {
+      "key": "Family1Connection",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Family2Connection": {
+      "key": "Family2Connection",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Family3Connection": {
+      "key": "Family3Connection",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Family4Connection": {
+      "key": "Family4Connection",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Family5Connection": {
+      "key": "Family5Connection",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Family6Connection": {
+      "key": "Family6Connection",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Family7Connection": {
+      "key": "Family7Connection",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Family8Connection": {
+      "key": "Family8Connection",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Family9Connection": {
+      "key": "Family9Connection",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Family10Connection": {
+      "key": "Family10Connection",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Family11Connection": {
+      "key": "Family11Connection",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Family12Connection": {
+      "key": "Family12Connection",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Family13Connection": {
+      "key": "Family13Connection",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Family14Connection": {
+      "key": "Family14Connection",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Family15Connection": {
+      "key": "Family15Connection",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Family16Connection": {
+      "key": "Family16Connection",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Family17Connection": {
+      "key": "Family17Connection",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Family18Connection": {
+      "key": "Family18Connection",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "Family19Connection": {
+      "key": "Family19Connection",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "RoyalActions": {
+      "key": "RoyalActions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 8
+    },
+    "RoyalReport": {
+      "key": "RoyalReport",
+      "type": "string",
+      "value": "No chapter completed.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "RoyalPaidAge": {
+      "key": "RoyalPaidAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "RoyalRealm": {
+      "key": "RoyalRealm",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "RoyalLegitimacy": {
+      "key": "RoyalLegitimacy",
+      "type": "int",
+      "value": 60,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "RoyalParliament": {
+      "key": "RoyalParliament",
+      "type": "int",
+      "value": 50,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "RoyalPeace": {
+      "key": "RoyalPeace",
+      "type": "int",
+      "value": 70,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "RoyalArmy": {
+      "key": "RoyalArmy",
+      "type": "int",
+      "value": 40,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "RoyalTreasury": {
+      "key": "RoyalTreasury",
+      "type": "int",
+      "value": 500000,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 5000000
+    },
+    "RoyalLaws": {
+      "key": "RoyalLaws",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000
+    },
+    "RoyalTreaties": {
+      "key": "RoyalTreaties",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000
+    },
+    "RoyalWar": {
+      "key": "RoyalWar",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "RoyalScandal": {
+      "key": "RoyalScandal",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "RoyalActive": {
+      "key": "RoyalActive",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "RoyalRealmName": {
+      "key": "RoyalRealmName",
+      "type": "string",
+      "value": "No realm chosen",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "CourtActions": {
+      "key": "CourtActions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 8
+    },
+    "CourtReport": {
+      "key": "CourtReport",
+      "type": "string",
+      "value": "No chapter completed.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "CourtPaidAge": {
+      "key": "CourtPaidAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "CourtStage": {
+      "key": "CourtStage",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 4
+    },
+    "CourtDefense": {
+      "key": "CourtDefense",
+      "type": "int",
+      "value": 20,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "CourtCounsel": {
+      "key": "CourtCounsel",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 2
+    },
+    "CourtTrialRound": {
+      "key": "CourtTrialRound",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 2
+    },
+    "CourtRisk": {
+      "key": "CourtRisk",
+      "type": "int",
+      "value": 40,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "CourtSentence": {
+      "key": "CourtSentence",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 40
+    },
+    "CourtFaction": {
+      "key": "CourtFaction",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "CourtRespect": {
+      "key": "CourtRespect",
+      "type": "int",
+      "value": 20,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "CourtContraband": {
+      "key": "CourtContraband",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "CourtVisits": {
+      "key": "CourtVisits",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000
+    },
+    "CourtBribe": {
+      "key": "CourtBribe",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "CourtPrisonAge": {
+      "key": "CourtPrisonAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "PublishingActions": {
+      "key": "PublishingActions",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "true",
+      "minimum": 0,
+      "maximum": 8
+    },
+    "PublishingReport": {
+      "key": "PublishingReport",
+      "type": "string",
+      "value": "No chapter completed.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "PublishingPaidAge": {
+      "key": "PublishingPaidAge",
+      "type": "int",
+      "value": -1,
+      "reset_on_ageup": "",
+      "minimum": -1,
+      "maximum": 999
+    },
+    "PublishingTitles": {
+      "key": "PublishingTitles",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 10000
+    },
+    "PublishingArchivedCopies": {
+      "key": "PublishingArchivedCopies",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 2000000000
+    },
+    "PublishingConcept": {
+      "key": "PublishingConcept",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "PublishingDrama": {
+      "key": "PublishingDrama",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000
+    }
+  }
+}

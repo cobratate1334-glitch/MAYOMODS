@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "binary_sha256": "b8c8686867d5fd2ba4e29623f061e7a0e837656312a842defe4fc03854a6e5a8",
+  "arm64_checks": 8870,
+  "ASLR_bases": [
+    0,
+    68719476736
+  ],
+  "new_car_models": 40,
+  "new_house_types": 8,
+  "new_sprite_routes": 17,
+  "native_finance_and_owned_lookups_unchanged": true,
+  "modeled_boundaries": [
+    "Genesis storage",
+    "Unity Resources.Load<Sprite>",
+    "native car/house lookup"
+  ],
+  "physical_device_tested": false,
+  "Unity_rendering_tested": false
+}

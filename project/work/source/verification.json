@@ -1,0 +1,86 @@
+{
+  "input_sha256": "60abca22a2a7e081264d6e14fd3b8a96e650294b587fdcd58e55a6b13b174df7",
+  "output_sha256": "a3d6cf1c9750f86cd2f450c92ef65722f82e9b8face161a97b32a580e5baf4cc",
+  "output_bytes": 268335232,
+  "added_content_entries": 196,
+  "tables": {
+    "a16_music-band-kicks-out-scenarios-enc": {
+      "original": 51,
+      "added": 12,
+      "total": 63
+    },
+    "a16_music-producer-dumb-scenario-enc": {
+      "original": 50,
+      "added": 24,
+      "total": 74
+    },
+    "a16_music-practice-scenarios-enc": {
+      "original": 66,
+      "added": 12,
+      "total": 78
+    },
+    "a16_music-producer-artist-leave-string-enc": {
+      "original": 32,
+      "added": 12,
+      "total": 44
+    },
+    "a16_music-band-breaks-up-scenarios-enc": {
+      "original": 51,
+      "added": 12,
+      "total": 63
+    },
+    "a16_dumb-scenarios-music-enc": {
+      "original": 98,
+      "added": 56,
+      "total": 154
+    },
+    "a16_music-soundcloud-comment-enc": {
+      "original": 49,
+      "added": 32,
+      "total": 81
+    },
+    "a16_music-album-rejections-enc": {
+      "original": 58,
+      "added": 12,
+      "total": 70
+    },
+    "a16_music-fan-interaction-scenarios-enc": {
+      "original": 51,
+      "added": 24,
+      "total": 75
+    }
+  },
+  "changed_zip_entries": [
+    "assets/bin/Data/datapack.unity3d"
+  ],
+  "unchanged_bundle_objects_verified": 36777,
+  "apk_zip_crc_passed": true,
+  "stored_entry_alignment_passed": true,
+  "signature": {
+    "scheme": "v2",
+    "algorithm": "RSA PKCS1 SHA256",
+    "digest_verified": true,
+    "certificate_sha256": "bbc52a5880962fa3ff35e943d9467cb550d8c19b8adeb38f78cef3da5f3b50fe"
+  },
+  "google_apksig_verification": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]\n",
+  "signing_schemes_generated": [
+    "v1",
+    "v2",
+    "v3"
+  ],
+  "android_phone_tested": false,
+  "application_integrity_checks_unchanged": true,
+  "compatibility": "Package, SDK requirements, DEX and native libraries unchanged. New test certificate cannot update original app.",
+  "legacy_v1_verification": {
+    "verified": true,
+    "checked_api": 23,
+    "errors": [],
+    "warnings": "Original META-INF dependency metadata is not covered by legacy v1; covered by v2/v3."
+  },
+  "previous_v2_only_build_google_verification": {
+    "verified": true,
+    "errors": [],
+    "warnings": []
+  },
+  "installer_failure_root_cause": "Not reproduced; unknown. User reports no existing BitLife installed."
+}

@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "binary_sha256": "a667f5cfc30b4fdf8ccb8e5d92b550d0cc5ed8f6bae780c8ff652f433f98305a",
+  "checks": 925,
+  "shipped_v47_negative_control_reproduced": true,
+  "wrong_RectTransform_receiver_rejected": true,
+  "interrupted_menu_cycles": 300,
+  "ASLR_bases": [
+    0,
+    68719476736
+  ],
+  "only_one_instruction_changed": true,
+  "physical_phone_tested": false,
+  "Unity_rendering_tested": false
+}

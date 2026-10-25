@@ -1,0 +1,97 @@
+{
+  "ListID": "genesis_v7_job_data_analyst",
+  "Title": "DATA ANALYST PROJECTS",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Project Dashboard",
+      "Icon": "hammer",
+      "SecondLine": "Completed: <GFC.job_data_analyst.Projects>",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_data_analyst:NativeCareerSync:=1>>scenario.careersV7.job_data_analystdeliver",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "BarGraph": {
+        "Title": "Quality",
+        "Value": "<GFC.job_data_analyst.Quality>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v9_genesis_v7_job_data_analyst_0"
+    },
+    {
+      "Title": "Clean a dataset",
+      "Icon": "memo",
+      "SecondLine": "Project stage 1",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_data_analyst:NativeCareerSync:=1>>scenario.careersV7.job_data_analyst1",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_data_analyst_1"
+    },
+    {
+      "Title": "Validate the analysis",
+      "Icon": "notebook",
+      "SecondLine": "Project stage 2",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_data_analyst:NativeCareerSync:=1>>scenario.careersV7.job_data_analyst2",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_data_analyst_2"
+    },
+    {
+      "Title": "Present a business report",
+      "Icon": "books",
+      "SecondLine": "Project stage 3",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_data_analyst:NativeCareerSync:=1>>scenario.careersV7.job_data_analyst3",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_data_analyst_3"
+    },
+    {
+      "Title": "Submit and Review",
+      "Icon": "clipboard",
+      "SecondLine": "Turn project progress into job performance",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_data_analyst:NativeCareerSync:=1>>scenario.careersV7.job_data_analystdeliver",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_data_analyst_4"
+    }
+  ]
+}

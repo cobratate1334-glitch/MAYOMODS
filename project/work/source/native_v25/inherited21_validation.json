@@ -1,0 +1,17 @@
+{
+  "arm64_cases": 942,
+  "current_residence_geography": true,
+  "once_per_age_disasters": true,
+  "inland_ocean_hazards_excluded": true,
+  "retired_portrait_save_migration": true,
+  "basketball_attributes_affect_gameplay": true,
+  "NFL_unaffected_by_basketball_attributes": true,
+  "stable_character_profiles": true,
+  "native_friendship_years": true,
+  "aslr_biases": [
+    0,
+    68719476736
+  ],
+  "binary_sha256": "3701991388d9cad9e4e27f5143830d09b711fc295efdbcef33225d11d918713c",
+  "device_runtime_tested": false
+}

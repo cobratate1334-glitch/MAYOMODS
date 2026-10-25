@@ -1,0 +1,10 @@
+{
+  "reference_model_assertions": 20041,
+  "scenarios": 155,
+  "countries": 102,
+  "custom_formats": [
+    32,
+    64
+  ],
+  "device_runtime_tested": false
+}

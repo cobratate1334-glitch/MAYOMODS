@@ -1,0 +1,211 @@
+{
+  "ListID": "genesis_v9_school_v9",
+  "Title": "SCHOOL LIFE",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Activity Record",
+      "Icon": "clipboard",
+      "SecondLine": "",
+      "TileID": "v9_school_v9dashboard",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV9.school_v9dashboard",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Study group",
+      "Icon": "book",
+      "SecondLine": "",
+      "TileID": "v9_school_v9study",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV9.school_v9study",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Science fair",
+      "Icon": "airplane",
+      "SecondLine": "",
+      "TileID": "v9_school_v9science",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV9.school_v9science",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Debate practice",
+      "Icon": "running-shoe",
+      "SecondLine": "",
+      "TileID": "v9_school_v9debate",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV9.school_v9debate",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "School newspaper",
+      "Icon": "users",
+      "SecondLine": "",
+      "TileID": "v9_school_v9newspaper",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV9.school_v9newspaper",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "School performance",
+      "Icon": "memo",
+      "SecondLine": "",
+      "TileID": "v9_school_v9performance",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV9.school_v9performance",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Student council",
+      "Icon": "notebook",
+      "SecondLine": "",
+      "TileID": "v9_school_v9election",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV9.school_v9election",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Community project",
+      "Icon": "hammer",
+      "SecondLine": "",
+      "TileID": "v9_school_v9volunteer",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV9.school_v9volunteer",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "School sport",
+      "Icon": "books",
+      "SecondLine": "",
+      "TileID": "v9_school_v9school_sport",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV9.school_v9school_sport",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Revision planning",
+      "Icon": "calendar",
+      "SecondLine": "",
+      "TileID": "v9_school_v9revision",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV9.school_v9revision",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Lunch break",
+      "Icon": "pencil",
+      "SecondLine": "",
+      "TileID": "v9_school_v9friendship",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV9.school_v9friendship",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Class Quiz",
+      "Icon": "pen",
+      "SecondLine": "Three questions and a saved best score",
+      "TileID": "v9_school_v9quiz",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV9.school_v9quiz",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

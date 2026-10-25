@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "road_models": 24,
+  "racing_variants": 16,
+  "new_house_types": 8,
+  "new_artwork": 17,
+  "new_Texture2D_and_Sprite_objects": 34,
+  "added_TextAssets": {
+    "genesis_v18_defaults_era45": 38517
+  },
+  "modified_TextAssets": 5,
+  "all_unedited_Unity_objects_preserved": true,
+  "all_existing_resource_paths_preserved": true,
+  "all_asset_texture_pixel_roundtrips_verified": true,
+  "datapack_sha256": "cd26c93cd415590b5e386a699aa89bf555afc004f0dc2fc24a799e332cf6a65e",
+  "data_sha256": "38fa8c0b7bb1bc02f2bb84f3c6c549bff1b2e206c0ea7ff485decc5e4c3bbd91",
+  "device_rendering_tested": false
+}

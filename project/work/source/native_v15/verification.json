@@ -1,0 +1,921 @@
+{
+  "apk": "/workspace/scratch/feb83fa3a2be/final/BitLife_Native_Activities_v15.apk",
+  "size": 300785131,
+  "sha256": "cf9442ac5585cfe7db028412228b28bc72532323ad579aacfbed36d5c9a7e6a5",
+  "backup": "/workspace/scratch/feb83fa3a2be/final/BitLife_Native_Activities_v15.zip",
+  "base_sha256": "19978b25bb13d11af34ddf038bd2aa13a3b7cb2b36a915da09ee251d4d13c8c2",
+  "changed_apk_entries": [
+    "assets/bin/Data/datapack.unity3d",
+    "assets/bin/Data/data.unity3d",
+    "lib/arm64-v8a/libil2cpp.so",
+    "lib/arm64-v8a/libRocketGames.so",
+    "classes13.dex",
+    "classes12.dex"
+  ],
+  "native_code_preserved": false,
+  "retained_native_hooks_tested": true,
+  "retained_validation_mode": "prior reports plus unchanged code verification",
+  "retained_v13_tests": {
+    "instruction_cases": 318,
+    "load_addresses": 2,
+    "volatile_registers_clobbered": true,
+    "file_descriptors_closed": true,
+    "device_runtime_tested": false
+  },
+  "added_native_tests": {
+    "arm64_cases": 1088,
+    "aslr_biases": [
+      0,
+      68719476736
+    ],
+    "rank_calculation_actual_arm64": true,
+    "score_queue_actual_arm64": true,
+    "hair_evolution_actual_arm64": true,
+    "logo_visibility_actual_arm64": true,
+    "binary_sha256": "811cb5f7aa53d977ef7011582ebade814cf319940855512c7473aa521194bae6",
+    "device_runtime_tested": false
+  },
+  "diagnostic_dex_tests": {
+    "changed_classes": [
+      "com/chance/bitlifediag/StartupActivity$3.smali",
+      "com/chance/bitlifediag/RuntimeLogCapture$2.smali",
+      "com/chance/bitlifediag/StartupActivity.smali",
+      "com/chance/bitlifediag/NamePackUI.smali",
+      "com/chance/bitlifediag/StartupActivity$1.smali",
+      "com/chance/bitlifediag/NamePackUI$14.smali",
+      "com/chance/bitlifediag/NamePackUI$10.smali",
+      "com/chance/bitlifediag/NamePackUI$22$2.smali",
+      "com/chance/bitlifediag/StartupActivity$6.smali",
+      "com/chance/bitlifediag/NamePackUI$1.smali",
+      "com/chance/bitlifediag/NamePackUI$15.smali",
+      "com/chance/bitlifediag/NamePackUI$22$1.smali",
+      "com/chance/bitlifediag/StartupActivity$2.smali",
+      "com/chance/bitlifediag/StartupActivity$4.smali",
+      "com/chance/bitlifediag/NamePackUI$4.smali",
+      "com/chance/bitlifediag/NamePackUI$5.smali",
+      "com/chance/bitlifediag/StartupActivity$10.smali",
+      "com/chance/bitlifediag/PackCatalog.smali",
+      "com/chance/bitlifediag/FloatingDisplay$1.smali",
+      "com/chance/bitlifediag/NamePackUI$11.smali",
+      "com/chance/bitlifediag/NamePackUI$19.smali",
+      "com/chance/bitlifediag/FloatingDisplay$2.smali",
+      "com/chance/bitlifediag/RuntimeLogCapture$1.smali",
+      "com/chance/bitlifediag/RuntimeLogCapture.smali",
+      "com/chance/bitlifediag/RuntimeLogCapture$1$1.smali",
+      "com/chance/bitlifediag/NamePackUI$12.smali",
+      "com/chance/bitlifediag/NamePackUI$21.smali",
+      "com/chance/bitlifediag/NamePackUI$13.smali",
+      "com/chance/bitlifediag/NamePackUI$7.smali",
+      "com/chance/bitlifediag/PackFormat$Pack.smali",
+      "com/chance/bitlifediag/NamePackUI$17.smali",
+      "com/chance/bitlifediag/NamePackUI$9.smali",
+      "com/chance/bitlifediag/NamePackUI$8.smali",
+      "com/chance/bitlifediag/NamePackUI$22.smali",
+      "com/chance/bitlifediag/StartupActivity$10$1.smali",
+      "com/chance/bitlifediag/StartupActivity$5.smali",
+      "com/chance/bitlifediag/StartupActivity$9.smali",
+      "com/chance/bitlifediag/PackFormat$Json.smali",
+      "com/chance/bitlifediag/NamePackUI$3.smali",
+      "com/chance/bitlifediag/RuntimeLogCapture$1$2.smali",
+      "com/chance/bitlifediag/FloatingDisplay.smali",
+      "com/chance/bitlifediag/NamePackUI$10$1.smali",
+      "com/chance/bitlifediag/NamePackUI$20.smali",
+      "com/chance/bitlifediag/StartupActivity$8.smali",
+      "com/chance/bitlifediag/NamePackUI$6.smali",
+      "com/chance/bitlifediag/PackFormat.smali",
+      "com/chance/bitlifediag/NamePackUI$18.smali",
+      "com/chance/bitlifediag/NamePackUI$16.smali",
+      "com/chance/bitlifediag/NamePackUI$2.smali",
+      "com/chance/bitlifediag/StartupActivity$7.smali"
+    ],
+    "preserved_diagnostic_classes": [
+      "com/chance/bitlifediag/StartupProbe$1.smali",
+      "com/chance/bitlifediag/TombstoneReader$Field.smali",
+      "com/chance/bitlifediag/TombstoneReader$Reader.smali",
+      "com/chance/bitlifediag/TombstoneReader.smali",
+      "com/chance/bitlifediag/NativeDiagnostics.smali",
+      "com/chance/bitlifediag/RuntimeLogStore.smali",
+      "com/chance/bitlifediag/StartupProbe.smali"
+    ],
+    "roundtrip_verified": true,
+    "min_api": 25
+  },
+  "new_country_aliases": 0,
+  "hair_graphics": {
+    "a16_faces-male-stage0-hair-base49-98000": {
+      "texture": 37103,
+      "sprite": 37104,
+      "source": "hair1.png",
+      "pixel_sha256": "e2845a77846bcce3859ff8f00d4f4703940bf862b41bc4cd722a95c50f08f094"
+    },
+    "a16_faces-male-stage1-hair-base49-98001": {
+      "texture": 37105,
+      "sprite": 37106,
+      "source": "hair1.png",
+      "pixel_sha256": "e2845a77846bcce3859ff8f00d4f4703940bf862b41bc4cd722a95c50f08f094"
+    },
+    "a16_faces-male-stage2-hair-base49-98002": {
+      "texture": 37107,
+      "sprite": 37108,
+      "source": "hair1.png",
+      "pixel_sha256": "e2845a77846bcce3859ff8f00d4f4703940bf862b41bc4cd722a95c50f08f094"
+    },
+    "a16_faces-male-stage3-hair-base49-98003": {
+      "texture": 37109,
+      "sprite": 37110,
+      "source": "hair1.png",
+      "pixel_sha256": "e2845a77846bcce3859ff8f00d4f4703940bf862b41bc4cd722a95c50f08f094"
+    },
+    "a16_faces-male-stage4-hair-base49-98004": {
+      "texture": 37111,
+      "sprite": 37112,
+      "source": "hair1.png",
+      "pixel_sha256": "e2845a77846bcce3859ff8f00d4f4703940bf862b41bc4cd722a95c50f08f094"
+    },
+    "a16_faces-male-stage5-hair-base49-98005": {
+      "texture": 37113,
+      "sprite": 37114,
+      "source": "hair1.png",
+      "pixel_sha256": "e2845a77846bcce3859ff8f00d4f4703940bf862b41bc4cd722a95c50f08f094"
+    },
+    "a16_faces-female-stage0-hair-base49-98010": {
+      "texture": 37115,
+      "sprite": 37116,
+      "source": "hair1.png",
+      "pixel_sha256": "e2845a77846bcce3859ff8f00d4f4703940bf862b41bc4cd722a95c50f08f094"
+    },
+    "a16_faces-female-stage1-hair-base49-98011": {
+      "texture": 37117,
+      "sprite": 37118,
+      "source": "hair1.png",
+      "pixel_sha256": "e2845a77846bcce3859ff8f00d4f4703940bf862b41bc4cd722a95c50f08f094"
+    },
+    "a16_faces-female-stage2-hair-base49-98012": {
+      "texture": 37119,
+      "sprite": 37120,
+      "source": "hair1.png",
+      "pixel_sha256": "e2845a77846bcce3859ff8f00d4f4703940bf862b41bc4cd722a95c50f08f094"
+    },
+    "a16_faces-female-stage3-hair-base49-98013": {
+      "texture": 37121,
+      "sprite": 37122,
+      "source": "hair1.png",
+      "pixel_sha256": "e2845a77846bcce3859ff8f00d4f4703940bf862b41bc4cd722a95c50f08f094"
+    },
+    "a16_faces-female-stage4-hair-base49-98014": {
+      "texture": 37123,
+      "sprite": 37124,
+      "source": "hair1.png",
+      "pixel_sha256": "e2845a77846bcce3859ff8f00d4f4703940bf862b41bc4cd722a95c50f08f094"
+    },
+    "a16_faces-female-stage5-hair-base49-98015": {
+      "texture": 37125,
+      "sprite": 37126,
+      "source": "hair1.png",
+      "pixel_sha256": "e2845a77846bcce3859ff8f00d4f4703940bf862b41bc4cd722a95c50f08f094"
+    },
+    "a16_faces-male-stage0-hair-base50-98100": {
+      "texture": 37127,
+      "sprite": 37128,
+      "source": "hair2.png",
+      "pixel_sha256": "57e62b278a897acab97448c2110a46d8556b556f199b0c45304186601f0e3326"
+    },
+    "a16_faces-male-stage1-hair-base50-98101": {
+      "texture": 37129,
+      "sprite": 37130,
+      "source": "hair2.png",
+      "pixel_sha256": "57e62b278a897acab97448c2110a46d8556b556f199b0c45304186601f0e3326"
+    },
+    "a16_faces-male-stage2-hair-base50-98102": {
+      "texture": 37131,
+      "sprite": 37132,
+      "source": "hair2.png",
+      "pixel_sha256": "57e62b278a897acab97448c2110a46d8556b556f199b0c45304186601f0e3326"
+    },
+    "a16_faces-male-stage3-hair-base50-98103": {
+      "texture": 37133,
+      "sprite": 37134,
+      "source": "hair2.png",
+      "pixel_sha256": "57e62b278a897acab97448c2110a46d8556b556f199b0c45304186601f0e3326"
+    },
+    "a16_faces-male-stage4-hair-base50-98104": {
+      "texture": 37135,
+      "sprite": 37136,
+      "source": "hair2.png",
+      "pixel_sha256": "57e62b278a897acab97448c2110a46d8556b556f199b0c45304186601f0e3326"
+    },
+    "a16_faces-male-stage5-hair-base50-98105": {
+      "texture": 37137,
+      "sprite": 37138,
+      "source": "hair2.png",
+      "pixel_sha256": "57e62b278a897acab97448c2110a46d8556b556f199b0c45304186601f0e3326"
+    },
+    "a16_faces-female-stage0-hair-base50-98110": {
+      "texture": 37139,
+      "sprite": 37140,
+      "source": "hair2.png",
+      "pixel_sha256": "57e62b278a897acab97448c2110a46d8556b556f199b0c45304186601f0e3326"
+    },
+    "a16_faces-female-stage1-hair-base50-98111": {
+      "texture": 37141,
+      "sprite": 37142,
+      "source": "hair2.png",
+      "pixel_sha256": "57e62b278a897acab97448c2110a46d8556b556f199b0c45304186601f0e3326"
+    },
+    "a16_faces-female-stage2-hair-base50-98112": {
+      "texture": 37143,
+      "sprite": 37144,
+      "source": "hair2.png",
+      "pixel_sha256": "57e62b278a897acab97448c2110a46d8556b556f199b0c45304186601f0e3326"
+    },
+    "a16_faces-female-stage3-hair-base50-98113": {
+      "texture": 37145,
+      "sprite": 37146,
+      "source": "hair2.png",
+      "pixel_sha256": "57e62b278a897acab97448c2110a46d8556b556f199b0c45304186601f0e3326"
+    },
+    "a16_faces-female-stage4-hair-base50-98114": {
+      "texture": 37147,
+      "sprite": 37148,
+      "source": "hair2.png",
+      "pixel_sha256": "57e62b278a897acab97448c2110a46d8556b556f199b0c45304186601f0e3326"
+    },
+    "a16_faces-female-stage5-hair-base50-98115": {
+      "texture": 37149,
+      "sprite": 37150,
+      "source": "hair2.png",
+      "pixel_sha256": "57e62b278a897acab97448c2110a46d8556b556f199b0c45304186601f0e3326"
+    },
+    "a16_faces-male-stage0-hair-base51-98200": {
+      "texture": 37151,
+      "sprite": 37152,
+      "source": "hair3.png",
+      "pixel_sha256": "5e1de1bd05e78e57fa60e2303f9795ef1650b71159565ada1bf9ddfe01f84c84"
+    },
+    "a16_faces-male-stage1-hair-base51-98201": {
+      "texture": 37153,
+      "sprite": 37154,
+      "source": "hair3.png",
+      "pixel_sha256": "5e1de1bd05e78e57fa60e2303f9795ef1650b71159565ada1bf9ddfe01f84c84"
+    },
+    "a16_faces-male-stage2-hair-base51-98202": {
+      "texture": 37155,
+      "sprite": 37156,
+      "source": "hair3.png",
+      "pixel_sha256": "5e1de1bd05e78e57fa60e2303f9795ef1650b71159565ada1bf9ddfe01f84c84"
+    },
+    "a16_faces-male-stage3-hair-base51-98203": {
+      "texture": 37157,
+      "sprite": 37158,
+      "source": "hair3.png",
+      "pixel_sha256": "5e1de1bd05e78e57fa60e2303f9795ef1650b71159565ada1bf9ddfe01f84c84"
+    },
+    "a16_faces-male-stage4-hair-base51-98204": {
+      "texture": 37159,
+      "sprite": 37160,
+      "source": "hair3.png",
+      "pixel_sha256": "5e1de1bd05e78e57fa60e2303f9795ef1650b71159565ada1bf9ddfe01f84c84"
+    },
+    "a16_faces-male-stage5-hair-base51-98205": {
+      "texture": 37161,
+      "sprite": 37162,
+      "source": "hair3.png",
+      "pixel_sha256": "5e1de1bd05e78e57fa60e2303f9795ef1650b71159565ada1bf9ddfe01f84c84"
+    },
+    "a16_faces-female-stage0-hair-base51-98210": {
+      "texture": 37163,
+      "sprite": 37164,
+      "source": "hair3.png",
+      "pixel_sha256": "5e1de1bd05e78e57fa60e2303f9795ef1650b71159565ada1bf9ddfe01f84c84"
+    },
+    "a16_faces-female-stage1-hair-base51-98211": {
+      "texture": 37165,
+      "sprite": 37166,
+      "source": "hair3.png",
+      "pixel_sha256": "5e1de1bd05e78e57fa60e2303f9795ef1650b71159565ada1bf9ddfe01f84c84"
+    },
+    "a16_faces-female-stage2-hair-base51-98212": {
+      "texture": 37167,
+      "sprite": 37168,
+      "source": "hair3.png",
+      "pixel_sha256": "5e1de1bd05e78e57fa60e2303f9795ef1650b71159565ada1bf9ddfe01f84c84"
+    },
+    "a16_faces-female-stage3-hair-base51-98213": {
+      "texture": 37169,
+      "sprite": 37170,
+      "source": "hair3.png",
+      "pixel_sha256": "5e1de1bd05e78e57fa60e2303f9795ef1650b71159565ada1bf9ddfe01f84c84"
+    },
+    "a16_faces-female-stage4-hair-base51-98214": {
+      "texture": 37171,
+      "sprite": 37172,
+      "source": "hair3.png",
+      "pixel_sha256": "5e1de1bd05e78e57fa60e2303f9795ef1650b71159565ada1bf9ddfe01f84c84"
+    },
+    "a16_faces-female-stage5-hair-base51-98215": {
+      "texture": 37173,
+      "sprite": 37174,
+      "source": "hair3.png",
+      "pixel_sha256": "5e1de1bd05e78e57fa60e2303f9795ef1650b71159565ada1bf9ddfe01f84c84"
+    },
+    "a16_faces-male-stage0-hair-base52-98300": {
+      "texture": 37175,
+      "sprite": 37176,
+      "source": "hair4.png",
+      "pixel_sha256": "4aab1bda3125f191873b43b443da4b0593f38257e80e7fa85014650da865f57c"
+    },
+    "a16_faces-male-stage1-hair-base52-98301": {
+      "texture": 37177,
+      "sprite": 37178,
+      "source": "hair4.png",
+      "pixel_sha256": "4aab1bda3125f191873b43b443da4b0593f38257e80e7fa85014650da865f57c"
+    },
+    "a16_faces-male-stage2-hair-base52-98302": {
+      "texture": 37179,
+      "sprite": 37180,
+      "source": "hair4.png",
+      "pixel_sha256": "4aab1bda3125f191873b43b443da4b0593f38257e80e7fa85014650da865f57c"
+    },
+    "a16_faces-male-stage3-hair-base52-98303": {
+      "texture": 37181,
+      "sprite": 37182,
+      "source": "hair4.png",
+      "pixel_sha256": "4aab1bda3125f191873b43b443da4b0593f38257e80e7fa85014650da865f57c"
+    },
+    "a16_faces-male-stage4-hair-base52-98304": {
+      "texture": 37183,
+      "sprite": 37184,
+      "source": "hair4.png",
+      "pixel_sha256": "4aab1bda3125f191873b43b443da4b0593f38257e80e7fa85014650da865f57c"
+    },
+    "a16_faces-male-stage5-hair-base52-98305": {
+      "texture": 37185,
+      "sprite": 37186,
+      "source": "hair4.png",
+      "pixel_sha256": "4aab1bda3125f191873b43b443da4b0593f38257e80e7fa85014650da865f57c"
+    },
+    "a16_faces-female-stage0-hair-base52-98310": {
+      "texture": 37187,
+      "sprite": 37188,
+      "source": "hair4.png",
+      "pixel_sha256": "4aab1bda3125f191873b43b443da4b0593f38257e80e7fa85014650da865f57c"
+    },
+    "a16_faces-female-stage1-hair-base52-98311": {
+      "texture": 37189,
+      "sprite": 37190,
+      "source": "hair4.png",
+      "pixel_sha256": "4aab1bda3125f191873b43b443da4b0593f38257e80e7fa85014650da865f57c"
+    },
+    "a16_faces-female-stage2-hair-base52-98312": {
+      "texture": 37191,
+      "sprite": 37192,
+      "source": "hair4.png",
+      "pixel_sha256": "4aab1bda3125f191873b43b443da4b0593f38257e80e7fa85014650da865f57c"
+    },
+    "a16_faces-female-stage3-hair-base52-98313": {
+      "texture": 37193,
+      "sprite": 37194,
+      "source": "hair4.png",
+      "pixel_sha256": "4aab1bda3125f191873b43b443da4b0593f38257e80e7fa85014650da865f57c"
+    },
+    "a16_faces-female-stage4-hair-base52-98314": {
+      "texture": 37195,
+      "sprite": 37196,
+      "source": "hair4.png",
+      "pixel_sha256": "4aab1bda3125f191873b43b443da4b0593f38257e80e7fa85014650da865f57c"
+    },
+    "a16_faces-female-stage5-hair-base52-98315": {
+      "texture": 37197,
+      "sprite": 37198,
+      "source": "hair4.png",
+      "pixel_sha256": "4aab1bda3125f191873b43b443da4b0593f38257e80e7fa85014650da865f57c"
+    },
+    "a16_faces-male-stage0-hair-base53-98400": {
+      "texture": 37199,
+      "sprite": 37200,
+      "source": "hair5.png",
+      "pixel_sha256": "6dffbdb9566f293a3e8345b27666e990867464897c36180ada2d7ca6e65a2de3"
+    },
+    "a16_faces-male-stage1-hair-base53-98401": {
+      "texture": 37201,
+      "sprite": 37202,
+      "source": "hair5.png",
+      "pixel_sha256": "6dffbdb9566f293a3e8345b27666e990867464897c36180ada2d7ca6e65a2de3"
+    },
+    "a16_faces-male-stage2-hair-base53-98402": {
+      "texture": 37203,
+      "sprite": 37204,
+      "source": "hair5.png",
+      "pixel_sha256": "6dffbdb9566f293a3e8345b27666e990867464897c36180ada2d7ca6e65a2de3"
+    },
+    "a16_faces-male-stage3-hair-base53-98403": {
+      "texture": 37205,
+      "sprite": 37206,
+      "source": "hair5.png",
+      "pixel_sha256": "6dffbdb9566f293a3e8345b27666e990867464897c36180ada2d7ca6e65a2de3"
+    },
+    "a16_faces-male-stage4-hair-base53-98404": {
+      "texture": 37207,
+      "sprite": 37208,
+      "source": "hair5.png",
+      "pixel_sha256": "6dffbdb9566f293a3e8345b27666e990867464897c36180ada2d7ca6e65a2de3"
+    },
+    "a16_faces-male-stage5-hair-base53-98405": {
+      "texture": 37209,
+      "sprite": 37210,
+      "source": "hair5.png",
+      "pixel_sha256": "6dffbdb9566f293a3e8345b27666e990867464897c36180ada2d7ca6e65a2de3"
+    },
+    "a16_faces-female-stage0-hair-base53-98410": {
+      "texture": 37211,
+      "sprite": 37212,
+      "source": "hair5.png",
+      "pixel_sha256": "6dffbdb9566f293a3e8345b27666e990867464897c36180ada2d7ca6e65a2de3"
+    },
+    "a16_faces-female-stage1-hair-base53-98411": {
+      "texture": 37213,
+      "sprite": 37214,
+      "source": "hair5.png",
+      "pixel_sha256": "6dffbdb9566f293a3e8345b27666e990867464897c36180ada2d7ca6e65a2de3"
+    },
+    "a16_faces-female-stage2-hair-base53-98412": {
+      "texture": 37215,
+      "sprite": 37216,
+      "source": "hair5.png",
+      "pixel_sha256": "6dffbdb9566f293a3e8345b27666e990867464897c36180ada2d7ca6e65a2de3"
+    },
+    "a16_faces-female-stage3-hair-base53-98413": {
+      "texture": 37217,
+      "sprite": 37218,
+      "source": "hair5.png",
+      "pixel_sha256": "6dffbdb9566f293a3e8345b27666e990867464897c36180ada2d7ca6e65a2de3"
+    },
+    "a16_faces-female-stage4-hair-base53-98414": {
+      "texture": 37219,
+      "sprite": 37220,
+      "source": "hair5.png",
+      "pixel_sha256": "6dffbdb9566f293a3e8345b27666e990867464897c36180ada2d7ca6e65a2de3"
+    },
+    "a16_faces-female-stage5-hair-base53-98415": {
+      "texture": 37221,
+      "sprite": 37222,
+      "source": "hair5.png",
+      "pixel_sha256": "6dffbdb9566f293a3e8345b27666e990867464897c36180ada2d7ca6e65a2de3"
+    },
+    "a16_faces-male-stage0-hair-base54-98500": {
+      "texture": 37223,
+      "sprite": 37224,
+      "source": "hair6.png",
+      "pixel_sha256": "52e4b503be95f35adb6197225cf92410f2e46d3fb4d03d07208da90efc460739"
+    },
+    "a16_faces-male-stage1-hair-base54-98501": {
+      "texture": 37225,
+      "sprite": 37226,
+      "source": "hair6.png",
+      "pixel_sha256": "52e4b503be95f35adb6197225cf92410f2e46d3fb4d03d07208da90efc460739"
+    },
+    "a16_faces-male-stage2-hair-base54-98502": {
+      "texture": 37227,
+      "sprite": 37228,
+      "source": "hair6.png",
+      "pixel_sha256": "52e4b503be95f35adb6197225cf92410f2e46d3fb4d03d07208da90efc460739"
+    },
+    "a16_faces-male-stage3-hair-base54-98503": {
+      "texture": 37229,
+      "sprite": 37230,
+      "source": "hair6.png",
+      "pixel_sha256": "52e4b503be95f35adb6197225cf92410f2e46d3fb4d03d07208da90efc460739"
+    },
+    "a16_faces-male-stage4-hair-base54-98504": {
+      "texture": 37231,
+      "sprite": 37232,
+      "source": "hair6.png",
+      "pixel_sha256": "52e4b503be95f35adb6197225cf92410f2e46d3fb4d03d07208da90efc460739"
+    },
+    "a16_faces-male-stage5-hair-base54-98505": {
+      "texture": 37233,
+      "sprite": 37234,
+      "source": "hair6.png",
+      "pixel_sha256": "52e4b503be95f35adb6197225cf92410f2e46d3fb4d03d07208da90efc460739"
+    },
+    "a16_faces-female-stage0-hair-base54-98510": {
+      "texture": 37235,
+      "sprite": 37236,
+      "source": "hair6.png",
+      "pixel_sha256": "52e4b503be95f35adb6197225cf92410f2e46d3fb4d03d07208da90efc460739"
+    },
+    "a16_faces-female-stage1-hair-base54-98511": {
+      "texture": 37237,
+      "sprite": 37238,
+      "source": "hair6.png",
+      "pixel_sha256": "52e4b503be95f35adb6197225cf92410f2e46d3fb4d03d07208da90efc460739"
+    },
+    "a16_faces-female-stage2-hair-base54-98512": {
+      "texture": 37239,
+      "sprite": 37240,
+      "source": "hair6.png",
+      "pixel_sha256": "52e4b503be95f35adb6197225cf92410f2e46d3fb4d03d07208da90efc460739"
+    },
+    "a16_faces-female-stage3-hair-base54-98513": {
+      "texture": 37241,
+      "sprite": 37242,
+      "source": "hair6.png",
+      "pixel_sha256": "52e4b503be95f35adb6197225cf92410f2e46d3fb4d03d07208da90efc460739"
+    },
+    "a16_faces-female-stage4-hair-base54-98514": {
+      "texture": 37243,
+      "sprite": 37244,
+      "source": "hair6.png",
+      "pixel_sha256": "52e4b503be95f35adb6197225cf92410f2e46d3fb4d03d07208da90efc460739"
+    },
+    "a16_faces-female-stage5-hair-base54-98515": {
+      "texture": 37245,
+      "sprite": 37246,
+      "source": "hair6.png",
+      "pixel_sha256": "52e4b503be95f35adb6197225cf92410f2e46d3fb4d03d07208da90efc460739"
+    },
+    "a16_faces-male-stage0-hair-base55-98600": {
+      "texture": 37247,
+      "sprite": 37248,
+      "source": "hair7.png",
+      "pixel_sha256": "1cb2bb423059e0138c5dc6b7e7f20af6bc336d7b7c1bfd867705161bde37e034"
+    },
+    "a16_faces-male-stage1-hair-base55-98601": {
+      "texture": 37249,
+      "sprite": 37250,
+      "source": "hair7.png",
+      "pixel_sha256": "1cb2bb423059e0138c5dc6b7e7f20af6bc336d7b7c1bfd867705161bde37e034"
+    },
+    "a16_faces-male-stage2-hair-base55-98602": {
+      "texture": 37251,
+      "sprite": 37252,
+      "source": "hair7.png",
+      "pixel_sha256": "1cb2bb423059e0138c5dc6b7e7f20af6bc336d7b7c1bfd867705161bde37e034"
+    },
+    "a16_faces-male-stage3-hair-base55-98603": {
+      "texture": 37253,
+      "sprite": 37254,
+      "source": "hair7.png",
+      "pixel_sha256": "1cb2bb423059e0138c5dc6b7e7f20af6bc336d7b7c1bfd867705161bde37e034"
+    },
+    "a16_faces-male-stage4-hair-base55-98604": {
+      "texture": 37255,
+      "sprite": 37256,
+      "source": "hair7.png",
+      "pixel_sha256": "1cb2bb423059e0138c5dc6b7e7f20af6bc336d7b7c1bfd867705161bde37e034"
+    },
+    "a16_faces-male-stage5-hair-base55-98605": {
+      "texture": 37257,
+      "sprite": 37258,
+      "source": "hair7.png",
+      "pixel_sha256": "1cb2bb423059e0138c5dc6b7e7f20af6bc336d7b7c1bfd867705161bde37e034"
+    },
+    "a16_faces-female-stage0-hair-base55-98610": {
+      "texture": 37259,
+      "sprite": 37260,
+      "source": "hair7.png",
+      "pixel_sha256": "1cb2bb423059e0138c5dc6b7e7f20af6bc336d7b7c1bfd867705161bde37e034"
+    },
+    "a16_faces-female-stage1-hair-base55-98611": {
+      "texture": 37261,
+      "sprite": 37262,
+      "source": "hair7.png",
+      "pixel_sha256": "1cb2bb423059e0138c5dc6b7e7f20af6bc336d7b7c1bfd867705161bde37e034"
+    },
+    "a16_faces-female-stage2-hair-base55-98612": {
+      "texture": 37263,
+      "sprite": 37264,
+      "source": "hair7.png",
+      "pixel_sha256": "1cb2bb423059e0138c5dc6b7e7f20af6bc336d7b7c1bfd867705161bde37e034"
+    },
+    "a16_faces-female-stage3-hair-base55-98613": {
+      "texture": 37265,
+      "sprite": 37266,
+      "source": "hair7.png",
+      "pixel_sha256": "1cb2bb423059e0138c5dc6b7e7f20af6bc336d7b7c1bfd867705161bde37e034"
+    },
+    "a16_faces-female-stage4-hair-base55-98614": {
+      "texture": 37267,
+      "sprite": 37268,
+      "source": "hair7.png",
+      "pixel_sha256": "1cb2bb423059e0138c5dc6b7e7f20af6bc336d7b7c1bfd867705161bde37e034"
+    },
+    "a16_faces-female-stage5-hair-base55-98615": {
+      "texture": 37269,
+      "sprite": 37270,
+      "source": "hair7.png",
+      "pixel_sha256": "1cb2bb423059e0138c5dc6b7e7f20af6bc336d7b7c1bfd867705161bde37e034"
+    },
+    "a16_faces-male-stage0-hair-base56-98700": {
+      "texture": 37271,
+      "sprite": 37272,
+      "source": "hair8.png",
+      "pixel_sha256": "2917576a48818b9f1d7fe0f9345a68cc5d2fb94ee3e2d483f9103936b39b565a"
+    },
+    "a16_faces-male-stage1-hair-base56-98701": {
+      "texture": 37273,
+      "sprite": 37274,
+      "source": "hair8.png",
+      "pixel_sha256": "2917576a48818b9f1d7fe0f9345a68cc5d2fb94ee3e2d483f9103936b39b565a"
+    },
+    "a16_faces-male-stage2-hair-base56-98702": {
+      "texture": 37275,
+      "sprite": 37276,
+      "source": "hair8.png",
+      "pixel_sha256": "2917576a48818b9f1d7fe0f9345a68cc5d2fb94ee3e2d483f9103936b39b565a"
+    },
+    "a16_faces-male-stage3-hair-base56-98703": {
+      "texture": 37277,
+      "sprite": 37278,
+      "source": "hair8.png",
+      "pixel_sha256": "2917576a48818b9f1d7fe0f9345a68cc5d2fb94ee3e2d483f9103936b39b565a"
+    },
+    "a16_faces-male-stage4-hair-base56-98704": {
+      "texture": 37279,
+      "sprite": 37280,
+      "source": "hair8.png",
+      "pixel_sha256": "2917576a48818b9f1d7fe0f9345a68cc5d2fb94ee3e2d483f9103936b39b565a"
+    },
+    "a16_faces-male-stage5-hair-base56-98705": {
+      "texture": 37281,
+      "sprite": 37282,
+      "source": "hair8.png",
+      "pixel_sha256": "2917576a48818b9f1d7fe0f9345a68cc5d2fb94ee3e2d483f9103936b39b565a"
+    },
+    "a16_faces-female-stage0-hair-base56-98710": {
+      "texture": 37283,
+      "sprite": 37284,
+      "source": "hair8.png",
+      "pixel_sha256": "2917576a48818b9f1d7fe0f9345a68cc5d2fb94ee3e2d483f9103936b39b565a"
+    },
+    "a16_faces-female-stage1-hair-base56-98711": {
+      "texture": 37285,
+      "sprite": 37286,
+      "source": "hair8.png",
+      "pixel_sha256": "2917576a48818b9f1d7fe0f9345a68cc5d2fb94ee3e2d483f9103936b39b565a"
+    },
+    "a16_faces-female-stage2-hair-base56-98712": {
+      "texture": 37287,
+      "sprite": 37288,
+      "source": "hair8.png",
+      "pixel_sha256": "2917576a48818b9f1d7fe0f9345a68cc5d2fb94ee3e2d483f9103936b39b565a"
+    },
+    "a16_faces-female-stage3-hair-base56-98713": {
+      "texture": 37289,
+      "sprite": 37290,
+      "source": "hair8.png",
+      "pixel_sha256": "2917576a48818b9f1d7fe0f9345a68cc5d2fb94ee3e2d483f9103936b39b565a"
+    },
+    "a16_faces-female-stage4-hair-base56-98714": {
+      "texture": 37291,
+      "sprite": 37292,
+      "source": "hair8.png",
+      "pixel_sha256": "2917576a48818b9f1d7fe0f9345a68cc5d2fb94ee3e2d483f9103936b39b565a"
+    },
+    "a16_faces-female-stage5-hair-base56-98715": {
+      "texture": 37293,
+      "sprite": 37294,
+      "source": "hair8.png",
+      "pixel_sha256": "2917576a48818b9f1d7fe0f9345a68cc5d2fb94ee3e2d483f9103936b39b565a"
+    },
+    "a16_faces-male-stage0-hair-base57-98800": {
+      "texture": 37295,
+      "sprite": 37296,
+      "source": "hair9.png",
+      "pixel_sha256": "7b97233db39d52e255a75b2d574070daff1da103af78500e47cca9a90bdc8939"
+    },
+    "a16_faces-male-stage1-hair-base57-98801": {
+      "texture": 37297,
+      "sprite": 37298,
+      "source": "hair9.png",
+      "pixel_sha256": "7b97233db39d52e255a75b2d574070daff1da103af78500e47cca9a90bdc8939"
+    },
+    "a16_faces-male-stage2-hair-base57-98802": {
+      "texture": 37299,
+      "sprite": 37300,
+      "source": "hair9.png",
+      "pixel_sha256": "7b97233db39d52e255a75b2d574070daff1da103af78500e47cca9a90bdc8939"
+    },
+    "a16_faces-male-stage3-hair-base57-98803": {
+      "texture": 37301,
+      "sprite": 37302,
+      "source": "hair9.png",
+      "pixel_sha256": "7b97233db39d52e255a75b2d574070daff1da103af78500e47cca9a90bdc8939"
+    },
+    "a16_faces-male-stage4-hair-base57-98804": {
+      "texture": 37303,
+      "sprite": 37304,
+      "source": "hair9.png",
+      "pixel_sha256": "7b97233db39d52e255a75b2d574070daff1da103af78500e47cca9a90bdc8939"
+    },
+    "a16_faces-male-stage5-hair-base57-98805": {
+      "texture": 37305,
+      "sprite": 37306,
+      "source": "hair9.png",
+      "pixel_sha256": "7b97233db39d52e255a75b2d574070daff1da103af78500e47cca9a90bdc8939"
+    },
+    "a16_faces-female-stage0-hair-base57-98810": {
+      "texture": 37307,
+      "sprite": 37308,
+      "source": "hair9.png",
+      "pixel_sha256": "7b97233db39d52e255a75b2d574070daff1da103af78500e47cca9a90bdc8939"
+    },
+    "a16_faces-female-stage1-hair-base57-98811": {
+      "texture": 37309,
+      "sprite": 37310,
+      "source": "hair9.png",
+      "pixel_sha256": "7b97233db39d52e255a75b2d574070daff1da103af78500e47cca9a90bdc8939"
+    },
+    "a16_faces-female-stage2-hair-base57-98812": {
+      "texture": 37311,
+      "sprite": 37312,
+      "source": "hair9.png",
+      "pixel_sha256": "7b97233db39d52e255a75b2d574070daff1da103af78500e47cca9a90bdc8939"
+    },
+    "a16_faces-female-stage3-hair-base57-98813": {
+      "texture": 37313,
+      "sprite": 37314,
+      "source": "hair9.png",
+      "pixel_sha256": "7b97233db39d52e255a75b2d574070daff1da103af78500e47cca9a90bdc8939"
+    },
+    "a16_faces-female-stage4-hair-base57-98814": {
+      "texture": 37315,
+      "sprite": 37316,
+      "source": "hair9.png",
+      "pixel_sha256": "7b97233db39d52e255a75b2d574070daff1da103af78500e47cca9a90bdc8939"
+    },
+    "a16_faces-female-stage5-hair-base57-98815": {
+      "texture": 37317,
+      "sprite": 37318,
+      "source": "hair9.png",
+      "pixel_sha256": "7b97233db39d52e255a75b2d574070daff1da103af78500e47cca9a90bdc8939"
+    }
+  },
+  "changed_existing_resources": [
+    "a16_voltron_componentFilenames",
+    "genesis_activities_v12",
+    "genesis_entity_death",
+    "genesis_entity_defs",
+    "genesis_feature_containers",
+    "genesis_v11_defaults_soccer_v11",
+    "genesis_v12_defaults_soccer_v12",
+    "genesis_v8_defaults_football_v8",
+    "genesis_v9_defaults_basketball_v9",
+    "genesis_v9_defaults_rugby_v9",
+    "genesis_v9_v12_countries0",
+    "genesis_v9_v12_countries1",
+    "genesis_v9_v12_countries2",
+    "genesis_v9_v12_countries3",
+    "genesis_v9_v12_countries4",
+    "genesis_v9_v12_countries5",
+    "genesis_v9_v12_countries6",
+    "genesis_v9_v12_countries7",
+    "genesis_v9_v12_countries8",
+    "genesis_v9_v12_soccer",
+    "genesis_v9_v14_clubgallery",
+    "genesis_v9_v14_mafia_operations_v14",
+    "genesis_v9_v14_music_people_v14",
+    "genesis_v9_v14_sports_people_v14",
+    "genesis_v9_v14_workplace_roles_v14"
+  ],
+  "new_resource_paths": {},
+  "preserved_resource_registrations": 17917,
+  "preserved_datapack_objects": 37077,
+  "preserved_data_objects": 12815,
+  "dealer_tests": {
+    "status": "passed",
+    "instruction_emulation_cases": 712,
+    "aslr_load_biases": [
+      "0x0",
+      "0x1000000000"
+    ],
+    "coverage": [
+      "valid weighted indices unchanged",
+      "negative and oversized indices clamped",
+      "empty filtered pool retries catalogue once",
+      "missing or empty catalogue returns null",
+      "item generation preserves original nonnull paths",
+      "callee-saved registers and SP preserved"
+    ],
+    "limitation": "Existing virtual Count/RNG calls are simulated; not a device gameplay test."
+  },
+  "prison_icon_tests": {
+    "status": "passed",
+    "cases": 32,
+    "fallback": "factory",
+    "known_job_branches_preserved": true
+  },
+  "native_menu_and_stat_tests": {
+    "instruction_cases": 488,
+    "load_addresses": 2,
+    "device_runtime_tested": false
+  },
+  "registry_tests": {
+    "instruction_cases": 300,
+    "load_addresses": 2,
+    "previous_bad_requests": {},
+    "correct_resource_paths": [
+      "genesis_lists/genesis_music_studio_hub",
+      "genesis_lists/genesis_v7_f1_career",
+      "genesis_lists/genesis_v7_job_accessibility_specialist",
+      "genesis_lists/genesis_v7_job_archive_technician",
+      "genesis_lists/genesis_v7_job_audio_editor",
+      "genesis_lists/genesis_v7_job_brand_designer",
+      "genesis_lists/genesis_v7_job_cloud_systems_engineer",
+      "genesis_lists/genesis_v7_job_community_manager",
+      "genesis_lists/genesis_v7_job_community_moderator",
+      "genesis_lists/genesis_v7_job_content_strategist",
+      "genesis_lists/genesis_v7_job_copy_editor",
+      "genesis_lists/genesis_v7_job_customer_experience_analyst",
+      "genesis_lists/genesis_v7_job_cybersecurity_analyst",
+      "genesis_lists/genesis_v7_job_data_analyst",
+      "genesis_lists/genesis_v7_job_digital_archivist",
+      "genesis_lists/genesis_v7_job_digital_illustrator",
+      "genesis_lists/genesis_v7_job_education_programme_coordinator",
+      "genesis_lists/genesis_v7_job_event_coordinator",
+      "genesis_lists/genesis_v7_job_exhibition_coordinator",
+      "genesis_lists/genesis_v7_job_game_designer",
+      "genesis_lists/genesis_v7_job_game_quality_analyst",
+      "genesis_lists/genesis_v7_job_independent_music_promoter",
+      "genesis_lists/genesis_v7_job_learning_support_officer",
+      "genesis_lists/genesis_v7_job_library_programme_coordinator",
+      "genesis_lists/genesis_v7_job_lighting_technician",
+      "genesis_lists/genesis_v7_job_literacy_coordinator",
+      "genesis_lists/genesis_v7_job_live_sound_technician",
+      "genesis_lists/genesis_v7_job_location_coordinator",
+      "genesis_lists/genesis_v7_job_logistics_planner",
+      "genesis_lists/genesis_v7_job_luxury_asset_manager",
+      "genesis_lists/genesis_v7_job_market_research_analyst",
+      "genesis_lists/genesis_v7_job_motion_graphics_designer",
+      "genesis_lists/genesis_v7_job_museum_educator",
+      "genesis_lists/genesis_v7_job_music_rights_coordinator",
+      "genesis_lists/genesis_v7_job_operations_coordinator",
+      "genesis_lists/genesis_v7_job_podcast_producer",
+      "genesis_lists/genesis_v7_job_production_coordinator",
+      "genesis_lists/genesis_v7_job_quality_assurance_coordinator",
+      "genesis_lists/genesis_v7_job_race_engineer",
+      "genesis_lists/genesis_v7_job_reality_tv_producer",
+      "genesis_lists/genesis_v7_job_recruitment_coordinator",
+      "genesis_lists/genesis_v7_job_research_coordinator",
+      "genesis_lists/genesis_v7_job_sports_physiotherapist",
+      "genesis_lists/genesis_v7_job_student_services_officer",
+      "genesis_lists/genesis_v7_job_sustainability_coordinator",
+      "genesis_lists/genesis_v7_job_technical_writer",
+      "genesis_lists/genesis_v7_job_training_coordinator",
+      "genesis_lists/genesis_v7_job_user_experience_designer",
+      "genesis_lists/genesis_v7_police",
+      "genesis_lists/genesis_v7_prison",
+      "genesis_lists/genesis_v7_tv_host",
+      "genesis_lists/genesis_v8_football_v8",
+      "genesis_lists/genesis_v8_military_v8",
+      "genesis_lists/genesis_v8_politics_v8",
+      "genesis_lists/genesis_v8_prison_tape",
+      "genesis_lists/genesis_v8_shopping_v8",
+      "genesis_lists/genesis_v9_basketball_v9",
+      "genesis_lists/genesis_v9_military_v9",
+      "genesis_lists/genesis_v9_rugby_v9",
+      "genesis_lists/genesis_v9_school_v9",
+      "genesis_lists/genesis_v9_v11_parole_v11",
+      "genesis_lists/genesis_v9_v12_soccer",
+      "genesis_lists/genesis_v9_v13_duty",
+      "genesis_lists/genesis_v9_v13_government",
+      "genesis_lists/genesis_v9_v13_packs",
+      "genesis_lists/genesis_v9_v14_mafia_operations_v14",
+      "genesis_lists/genesis_v9_v14_music_people_v14",
+      "genesis_lists/genesis_v9_v14_sports_people_v14",
+      "genesis_lists/genesis_v9_v14_workplace_roles_v14"
+    ],
+    "android_runtime_tested": false
+  },
+  "signing": {
+    "VerifyApk.java": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]",
+    "VerifyNativeSigner.java": "verified=true; actual APK signer matches native SHA-1 check; fingerprint=N3gA1+wRR7rLi+T23e/U4BZZu9Q="
+  },
+  "device_runtime_tested": false,
+  "logo_visibility_tests": {
+    "site": 902332,
+    "stub": 2016256,
+    "resume": 902336,
+    "source": "sub sp, sp, #0x180\nstp x0, x1, [sp, #0]\nstp x2, x3, [sp, #16]\nstp x4, x5, [sp, #32]\nstp x6, x7, [sp, #48]\nstp x8, x9, [sp, #64]\nstp x10, x11, [sp, #80]\nstp x12, x13, [sp, #96]\nstp x14, x15, [sp, #112]\nstp x16, x17, [sp, #128]\nstp x18, x19, [sp, #144]\nstp x20, x21, [sp, #160]\nstp x22, x23, [sp, #176]\nstp x24, x25, [sp, #192]\nstp x26, x27, [sp, #208]\nstp x28, x29, [sp, #224]\nstr x30, [sp, #0xf0]\nstp q0, q1, [sp, #256]\nstp q2, q3, [sp, #288]\nstp q4, q5, [sp, #320]\nstp q6, q7, [sp, #352]\nadr x0, 0x1ee000\nadr x1, 0x1ee0a0\nbl 0x1b2d70\ncbz x0,finish\nbl 0x1b2d90\nstr xzr,[sp,#0xb8]\nfinish:\nldp x0, x1, [sp, #0]\nldp x2, x3, [sp, #16]\nldp x4, x5, [sp, #32]\nldp x6, x7, [sp, #48]\nldp x8, x9, [sp, #64]\nldp x10, x11, [sp, #80]\nldp x12, x13, [sp, #96]\nldp x14, x15, [sp, #112]\nldp x16, x17, [sp, #128]\nldp x18, x19, [sp, #144]\nldp x20, x21, [sp, #160]\nldp x22, x23, [sp, #176]\nldp x24, x25, [sp, #192]\nldp x26, x27, [sp, #208]\nldp x28, x29, [sp, #224]\nldr x30, [sp, #0xf0]\nldp q0, q1, [sp, #256]\nldp q2, q3, [sp, #288]\nldp q4, q5, [sp, #320]\nldp q6, q7, [sp, #352]\nadd sp, sp, #0x180\nadd x0,x19,#0xc\nb 0xdc4c0",
+    "segment_va": 2015232,
+    "segment_offset": 1835008,
+    "segment_size": 8448,
+    "marker": "/data/data/com.candywriter.bitlife/files/chance_hide_rocket_logo",
+    "binary_sha256": "ade09ea258a60b80f478e20604c94ba815b2030c870a5a9c521cad405495c3d7",
+    "original_verification_and_binding_preserved": true
+  },
+  "pack_format_tests": {
+    "retained_format_code": true
+  },
+  "content_tests": {
+    "reference_model_assertions": 38201,
+    "retained_cup_and_government_assertions": 35633,
+    "new_career_assertions": 2568,
+    "new_scenarios": 28,
+    "custom_formats": [
+      32,
+      64
+    ],
+    "device_runtime_tested": false
+  }
+}

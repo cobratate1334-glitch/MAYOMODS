@@ -1,0 +1,17 @@
+{
+  "arm64_cases": 398,
+  "current_native_occupation": true,
+  "joined_school_team_required": true,
+  "euros_european_nations_only": true,
+  "copa_south_american_nations_only": true,
+  "grey_native_entries_and_tiles": true,
+  "native_social_menu_integration": true,
+  "legacy_score_replay_dropped": true,
+  "ordinary_injury_queue_unchanged": true,
+  "aslr_biases": [
+    0,
+    68719476736
+  ],
+  "binary_sha256": "6b06aefe61cfc32b6074fe5389956117ce785b8a605fde265578d104a81fe92f",
+  "device_runtime_tested": false
+}

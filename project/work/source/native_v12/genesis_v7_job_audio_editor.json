@@ -1,0 +1,97 @@
+{
+  "ListID": "genesis_v7_job_audio_editor",
+  "Title": "AUDIO EDITOR PROJECTS",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Project Dashboard",
+      "Icon": "hammer",
+      "SecondLine": "Completed: <GFC.job_audio_editor.Projects>",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_audio_editor:NativeCareerSync:=1>>scenario.careersV7.job_audio_editordeliver",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "BarGraph": {
+        "Title": "Quality",
+        "Value": "<GFC.job_audio_editor.Quality>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v9_genesis_v7_job_audio_editor_0"
+    },
+    {
+      "Title": "Assemble the rough edit",
+      "Icon": "memo",
+      "SecondLine": "Project stage 1",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_audio_editor:NativeCareerSync:=1>>scenario.careersV7.job_audio_editor1",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_audio_editor_1"
+    },
+    {
+      "Title": "Repair dialogue and levels",
+      "Icon": "gear",
+      "SecondLine": "Project stage 2",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_audio_editor:NativeCareerSync:=1>>scenario.careersV7.job_audio_editor2",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_audio_editor_2"
+    },
+    {
+      "Title": "Deliver the final audio",
+      "Icon": "notebook",
+      "SecondLine": "Project stage 3",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_audio_editor:NativeCareerSync:=1>>scenario.careersV7.job_audio_editor3",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_audio_editor_3"
+    },
+    {
+      "Title": "Submit and Review",
+      "Icon": "clipboard",
+      "SecondLine": "Turn project progress into job performance",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_audio_editor:NativeCareerSync:=1>>scenario.careersV7.job_audio_editordeliver",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_audio_editor_4"
+    }
+  ]
+}

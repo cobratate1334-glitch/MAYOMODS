@@ -1,0 +1,14 @@
+{
+  "apktool.jar": {
+    "download": "https://github.com/iBotPeaches/Apktool/releases/download/v2.12.1/apktool_2.12.1.jar",
+    "sha256": "66cf4524a4a45a7f56567d08b2c9b6ec237bcdd78cee69fd4a59c8a0243aeafa"
+  },
+  "r8.jar": {
+    "download": "https://storage.googleapis.com/r8-releases/raw/8.7.18/r8.jar",
+    "sha256": "badba8e0fd96dc9f41f53a0686f20fc08f1172a9816461fec13b6635b7c883fa"
+  },
+  "platform.zip": {
+    "download": "https://dl.google.com/android/repository/platform-35_r02.zip",
+    "sha256": "0988cacad01b38a18a47bac14a0695f246bc76c1b06c0eeb8eb0dc825ab0c8e0"
+  }
+}

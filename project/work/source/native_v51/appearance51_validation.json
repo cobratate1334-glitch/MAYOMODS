@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "binary_sha256": "5b74ac2ac714fedb57098c8cf03b849ff4ab751460012e3d28733995be03b4c8",
+  "checks": 8715,
+  "new_regression_checks": 2994,
+  "retained_appearance_checks": 5721,
+  "access_query_entries": 55,
+  "billing_methods_byte_identical": 410,
+  "v50_appearance_and_access_retained": true,
+  "ASLR_bases": [
+    0,
+    68719476736
+  ],
+  "no_segment_growth": true,
+  "no_purchase_field_writes": true,
+  "physical_phone_tested": false,
+  "Unity_rendering_tested": false,
+  "managed_APIs_modeled": true
+}

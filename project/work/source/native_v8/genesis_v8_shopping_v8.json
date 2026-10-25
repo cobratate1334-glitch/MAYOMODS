@@ -1,0 +1,97 @@
+{
+  "ListID": "genesis_v8_shopping_v8",
+  "Title": "HOBBIES AND COLLECTIBLES",
+  "PresentationMode": "Normal",
+  "Sections": [
+    {
+      "Header": "Activities",
+      "Items": [
+        {
+          "Title": "Camera Shop",
+          "Icon": "camera",
+          "SecondLine": "Own a camera for your hobbies",
+          "TileID": "v8_shopping_v8Camera",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.activitiesV8.shopping_v8Camera",
+                  "ScenarioFile": "genesis_activities_v8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Instrument Shop",
+          "Icon": "mic",
+          "SecondLine": "Buy a musical instrument",
+          "TileID": "v8_shopping_v8Instrument",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.activitiesV8.shopping_v8Instrument",
+                  "ScenarioFile": "genesis_activities_v8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Home Fitness Equipment",
+          "Icon": "man-lifting-weights",
+          "SecondLine": "Set up equipment for exercise",
+          "TileID": "v8_shopping_v8HomeGym",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.activitiesV8.shopping_v8HomeGym",
+                  "ScenarioFile": "genesis_activities_v8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Vintage Market",
+          "Icon": "money-bag",
+          "SecondLine": "Verified finds or a mystery lot",
+          "TileID": "v8_shopping_v8hunt",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.activitiesV8.shopping_v8hunt",
+                  "ScenarioFile": "genesis_activities_v8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Restore and Resell",
+          "Icon": "clipboard",
+          "SecondLine": "Track your collection and sale value",
+          "TileID": "v8_shopping_v8restore",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.activitiesV8.shopping_v8restore",
+                  "ScenarioFile": "genesis_activities_v8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

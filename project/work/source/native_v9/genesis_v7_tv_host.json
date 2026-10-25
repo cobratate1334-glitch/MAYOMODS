@@ -1,0 +1,165 @@
+{
+  "ListID": "genesis_v7_tv_host",
+  "Title": "REALITY TV HOST",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Career Status",
+      "Icon": "hero",
+      "SecondLine": "Apply or refresh your employment",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=tv_host:NativeCareerSync:=1>>scenario.careersV7.tv_hoststatus",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v8_tv_host_career_status"
+    },
+    {
+      "Title": "On-Camera Practice",
+      "Icon": "tv",
+      "SecondLine": "Develop presenting skill",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=tv_host:NativeCareerSync:=1>>scenario.careersV7.tv_hosttrain",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "BarGraph": {
+        "Title": "Skill",
+        "Value": "<GFC.tv_host.Skill>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v8_tv_host_on_camera_practice"
+    },
+    {
+      "Title": "Show Format",
+      "Icon": "tv",
+      "SecondLine": "Competition, dating, talent or celebrity house",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=tv_host:NativeCareerSync:=1>>scenario.careersV7.tv_hostformat",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v8_tv_host_show_format"
+    },
+    {
+      "Title": "Episode Preparation",
+      "Icon": "memo",
+      "SecondLine": "Research, rehearsals and contestant care",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=tv_host:NativeCareerSync:=1>>scenario.careersV7.tv_hostprepare",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v8_tv_host_episode_preparation"
+    },
+    {
+      "Title": "Sponsorship",
+      "Icon": "handshake",
+      "SecondLine": "Negotiate an episode sponsor",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=tv_host:NativeCareerSync:=1>>scenario.careersV7.tv_hostsponsor",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v8_tv_host_sponsorship"
+    },
+    {
+      "Title": "Live Filming",
+      "Icon": "mic",
+      "SecondLine": "Handle unscripted contestant situations",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=tv_host:NativeCareerSync:=1>>scenario.careersV7.tv_hostlive",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v8_tv_host_live_filming"
+    },
+    {
+      "Title": "Broadcast Episode",
+      "Icon": "tv",
+      "SecondLine": "Publish when preparation reaches 80",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=tv_host:NativeCareerSync:=1>>scenario.careersV7.tv_hostbroadcast",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v8_tv_host_broadcast_episode"
+    },
+    {
+      "Title": "Ratings and Reputation",
+      "Icon": "chart-bar",
+      "SecondLine": "Audience, drama and trust",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=tv_host:NativeCareerSync:=1>>scenario.careersV7.tv_hostratings",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v8_tv_host_ratings_and_reputation"
+    },
+    {
+      "Title": "Bonuses",
+      "Icon": "money-bag",
+      "SecondLine": "Refresh employment and collect earned bonuses",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=tv_host:NativeCareerSync:=1>>scenario.careersV7.tv_hostannual",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v8_tv_host_bonuses"
+    }
+  ]
+}

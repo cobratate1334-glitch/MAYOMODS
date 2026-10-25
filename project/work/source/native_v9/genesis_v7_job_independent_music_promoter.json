@@ -1,0 +1,97 @@
+{
+  "ListID": "genesis_v7_job_independent_music_promoter",
+  "Title": "INDEPENDENT MUSIC PROMOTER PROJECTS",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Project Dashboard",
+      "Icon": "clipboard",
+      "SecondLine": "Completed: <GFC.job_independent_music_promoter.Projects>",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_independent_music_promoter:NativeCareerSync:=1>>scenario.careersV7.job_independent_music_promoterdeliver",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "BarGraph": {
+        "Title": "Quality",
+        "Value": "<GFC.job_independent_music_promoter.Quality>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v9_genesis_v7_job_independent_music_promoter_0"
+    },
+    {
+      "Title": "Plan a release campaign",
+      "Icon": "memo",
+      "SecondLine": "Project stage 1",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_independent_music_promoter:NativeCareerSync:=1>>scenario.careersV7.job_independent_music_promoter1",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_independent_music_promoter_1"
+    },
+    {
+      "Title": "Coordinate radio and playlist pitches",
+      "Icon": "memo",
+      "SecondLine": "Project stage 2",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_independent_music_promoter:NativeCareerSync:=1>>scenario.careersV7.job_independent_music_promoter2",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_independent_music_promoter_2"
+    },
+    {
+      "Title": "Review campaign performance",
+      "Icon": "memo",
+      "SecondLine": "Project stage 3",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_independent_music_promoter:NativeCareerSync:=1>>scenario.careersV7.job_independent_music_promoter3",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_independent_music_promoter_3"
+    },
+    {
+      "Title": "Submit and Review",
+      "Icon": "chart-bar",
+      "SecondLine": "Turn project progress into job performance",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_independent_music_promoter:NativeCareerSync:=1>>scenario.careersV7.job_independent_music_promoterdeliver",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_independent_music_promoter_4"
+    }
+  ]
+}

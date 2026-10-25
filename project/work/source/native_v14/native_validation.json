@@ -1,0 +1,7 @@
+{
+  "binary_sha256": "ba7840f9fa19d1f470b37d4eea0c1803628039be485d21b3988af5d78bd9b684",
+  "instruction_cases": 472,
+  "load_addresses": 2,
+  "registers_preserved": true,
+  "device_runtime_tested": false
+}

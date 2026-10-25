@@ -1,0 +1,268 @@
+{
+  "passed": true,
+  "version": "v48",
+  "versionCode": 1092,
+  "bytes": 342272600,
+  "sha256": "4f805f1dda1864c4cd0f287a1c79ea6f052907d6745a17401182514bb3465975",
+  "base_v47_sha256": "31c192334dcd57fbe15db8743f1d99754e14a3992a5a97aec6f212131672acfc",
+  "changed_entries": [
+    "AndroidManifest.xml",
+    "lib/arm64-v8a/libil2cpp.so",
+    "classes13.dex"
+  ],
+  "preserved_entries": 2775,
+  "existing_signer_retained": true,
+  "signature_verification": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]",
+  "other_22_native_libraries_preserved": true,
+  "all_Unity_bundles_byte_identical": true,
+  "social_message_pack_byte_identical": true,
+  "all_menu_content_byte_identical": true,
+  "one_native_instruction_changed": true,
+  "stored_entry_alignment_verified": true,
+  "manifest_version": {
+    "previous": 1091,
+    "current": 1092,
+    "byte_offset": 33508,
+    "other_manifest_bytes_preserved": true
+  },
+  "repair": {
+    "routine": "v46_restore_native_hud",
+    "instruction_va": 106288092,
+    "before": "ldr x0,[x23,#0x20]",
+    "after": "mov x0,x23",
+    "receiver": "UIListManager",
+    "previous_receiver": "RectTransform",
+    "callee": "MonoBehaviour.StopAllCoroutines",
+    "callee_va": 89618912,
+    "reported_Unity_PC": 7556880,
+    "physical_device_tested": false
+  },
+  "validation": {
+    "native48": {
+      "passed": true,
+      "binary_sha256": "a667f5cfc30b4fdf8ccb8e5d92b550d0cc5ed8f6bae780c8ff652f433f98305a",
+      "checks": 925,
+      "shipped_v47_negative_control_reproduced": true,
+      "wrong_RectTransform_receiver_rejected": true,
+      "interrupted_menu_cycles": 300,
+      "ASLR_bases": [
+        0,
+        68719476736
+      ],
+      "only_one_instruction_changed": true,
+      "physical_phone_tested": false,
+      "Unity_rendering_tested": false
+    },
+    "retained48": {
+      "passed": true,
+      "binary_sha256": "a667f5cfc30b4fdf8ccb8e5d92b550d0cc5ed8f6bae780c8ff652f433f98305a",
+      "checks": 15319,
+      "reports": {
+        "native47": {
+          "passed": true,
+          "checks": 751,
+          "binary_sha256": "a667f5cfc30b4fdf8ccb8e5d92b550d0cc5ed8f6bae780c8ff652f433f98305a",
+          "native_post_channels": 8,
+          "custom_post_channels": 2,
+          "pack_records": 17955,
+          "real_native_String_Concat_executed": true,
+          "aslr_biases": [
+            0,
+            68719476736
+          ],
+          "volatile_registers_clobbered": true,
+          "saved_threads_reloaded": true,
+          "bounded_history": 24,
+          "stale_clicks_rejected": true,
+          "physical_phone_tested": false,
+          "Unity_rendering_tested": false
+        },
+        "native46": {
+          "passed": true,
+          "binary_sha256": "a667f5cfc30b4fdf8ccb8e5d92b550d0cc5ed8f6bae780c8ff652f433f98305a",
+          "checks": 841,
+          "ASLR_bases": [
+            0,
+            68719476736
+          ],
+          "native_ScenarioBase_choice_entries_tested": true,
+          "all_dealer_buttons_navigate": true,
+          "native_car_column_bounds_negative_control": true,
+          "region_country_register_negative_control": true,
+          "native_theme_Color_ABI_checked": true,
+          "modeled_boundaries": [
+            "Unity rendering and prefab allocation",
+            "managed APIs",
+            "Genesis scenario loader/list presentation",
+            "bank adjustment"
+          ],
+          "full_Unity_engine_tested": false,
+          "physical_device_tested": false
+        },
+        "native45": {
+          "passed": true,
+          "binary_sha256": "a667f5cfc30b4fdf8ccb8e5d92b550d0cc5ed8f6bae780c8ff652f433f98305a",
+          "arm64_checks": 8934,
+          "ASLR_bases": [
+            0,
+            68719476736
+          ],
+          "new_car_models": 40,
+          "new_house_types": 8,
+          "new_sprite_routes": 17,
+          "native_finance_and_owned_lookups_unchanged": true,
+          "modeled_boundaries": [
+            "Genesis storage",
+            "Unity Resources.Load<Sprite>",
+            "native car/house lookup"
+          ],
+          "physical_device_tested": false,
+          "Unity_rendering_tested": false
+        },
+        "native44": {
+          "passed": true,
+          "binary_sha256": "a667f5cfc30b4fdf8ccb8e5d92b550d0cc5ed8f6bae780c8ff652f433f98305a",
+          "arm64_checks": 1330,
+          "ASLR_biases": [
+            0,
+            68719476736
+          ],
+          "all_27_purchase_and_equip_paths": true,
+          "era_boundaries_and_rotating_stock": true,
+          "atomic_funds_and_duplicate_purchase_guards": true,
+          "independent_slots_and_three_outfits": true,
+          "preview_excluded_from_saved_outfit": true,
+          "starting_year_native_picker": true,
+          "serialized_save_reload_fixture": true,
+          "Unity_managed_APIs_and_bank_implementation_mocked": true,
+          "physical_device_tested": false
+        },
+        "retained44": {
+          "passed": true,
+          "binary_sha256": "a667f5cfc30b4fdf8ccb8e5d92b550d0cc5ed8f6bae780c8ff652f433f98305a",
+          "checks": 3463,
+          "reports": {
+            "gameplay41_native": {
+              "passed": true,
+              "arm64_checks": 93,
+              "binary_sha256": "a667f5cfc30b4fdf8ccb8e5d92b550d0cc5ed8f6bae780c8ff652f433f98305a",
+              "test_sha256": "56ffbc2dcacf0cc8a3b367c61e0afd3413096f9a6a69d75dc288ad27b9411962",
+              "real_prison_conduct_instructions_executed": true,
+              "arrest_creation_and_Unity_UI_mocked": true,
+              "parole_board_matches_disassembled_stock_thresholds": true,
+              "checkin_warrant_and_expiry_checked": true,
+              "aslr_biases": [
+                0,
+                68719476736
+              ],
+              "device_runtime_tested": false
+            },
+            "retained40": {
+              "passed": true,
+              "retained_arm64_behavior_checks": 76,
+              "binary_sha256": "a667f5cfc30b4fdf8ccb8e5d92b550d0cc5ed8f6bae780c8ff652f433f98305a",
+              "old_career_and_sentencing_cases_retained": true,
+              "Unity_and_allocation_mocked": true,
+              "device_runtime_tested": false
+            },
+            "native34": {
+              "binary_sha256": "a667f5cfc30b4fdf8ccb8e5d92b550d0cc5ed8f6bae780c8ff652f433f98305a",
+              "arm64_cases": 1082,
+              "aslr_biases": [
+                0,
+                68719476736
+              ],
+              "actual_Action_Invoke_executed": true,
+              "real_ELF_RW_and_BSS_initial_contents_loaded": true,
+              "actual_return_hook_and_RefreshSetup_executed": true,
+              "all_293_choices_executed": true,
+              "six_fields_directly_in_New_Life": true,
+              "stock_rounded_selector_prefab_and_scroller": true,
+              "short_labels": true,
+              "rapid_repeat_edits_and_stale_Actions_checked": true,
+              "same_controller_close_reopen_checked": true,
+              "all_UI_GC_roots_released_on_dismiss_and_birth": true,
+              "existing_genetic_engine_and_baby_growth_preserved": true,
+              "stock_Start_methods_unhooked": true,
+              "Unity_prefabs_collections_and_transition_timing_modeled": true,
+              "device_runtime_tested": false,
+              "BlueStacks_runtime_tested": false
+            },
+            "native43": {
+              "passed": true,
+              "binary_sha256": "a667f5cfc30b4fdf8ccb8e5d92b550d0cc5ed8f6bae780c8ff652f433f98305a",
+              "arm64_checks": 2212,
+              "ASLR_biases": [
+                0,
+                68719476736
+              ],
+              "all_360_styles_shuffled_actual_component_lists": true,
+              "missing_ID_negative_control": true,
+              "cache_recovery_and_idempotence": true,
+              "custom_clone_tint_preservation": true,
+              "all_15_picker_choices": true,
+              "Unity_and_managed_string_implementation_mocked": true,
+              "physical_device_tested": false
+            }
+          },
+          "physical_device_tested": false
+        }
+      },
+      "physical_device_tested": false,
+      "Unity_rendering_tested": false
+    },
+    "diagnostics48": {
+      "passed": true,
+      "sha256": "7f8610f7682df181cfcb0ce4acdb8de2c1e700e69af49a8e13a2d80339b9ad1d",
+      "version_strings": [
+        {
+          "index": 165,
+          "offset": 41726,
+          "before": "Build: MayoMods v47; app: ",
+          "after": "Build: MayoMods v48; app: "
+        },
+        {
+          "index": 730,
+          "offset": 59754,
+          "before": "MayoMods v47 \u2014 Android crash record\n\n",
+          "after": "MayoMods v48 \u2014 Android crash record\n\n"
+        },
+        {
+          "index": 731,
+          "offset": 59795,
+          "before": "MayoMods v47 \u2014 local crash diagnostics\n\nLAST RECORDED CRASH / ERROR\n",
+          "after": "MayoMods v48 \u2014 local crash diagnostics\n\nLAST RECORDED CRASH / ERROR\n"
+        },
+        {
+          "index": 732,
+          "offset": 59867,
+          "before": "MayoMods v47 \u2014 recorded error\n",
+          "after": "MayoMods v48 \u2014 recorded error\n"
+        },
+        {
+          "index": 733,
+          "offset": 59901,
+          "before": "MayoMods-v47-crash-",
+          "after": "MayoMods-v48-crash-"
+        },
+        {
+          "index": 762,
+          "offset": 60739,
+          "before": "Native launch v47; packaged ABI: arm64-v8a; process: ",
+          "after": "Native launch v48; packaged ABI: arm64-v8a; process: "
+        },
+        {
+          "index": 775,
+          "offset": 61045,
+          "before": "New Life & Crash Diagnostics \u00b7 v47",
+          "after": "New Life & Crash Diagnostics \u00b7 v48"
+        }
+      ],
+      "every_Dex_method_byte_identical": true,
+      "exact_inverse_verified": true
+    }
+  },
+  "physical_phone_tested": false,
+  "ART_tested": false,
+  "Unity_rendering_tested": false
+}

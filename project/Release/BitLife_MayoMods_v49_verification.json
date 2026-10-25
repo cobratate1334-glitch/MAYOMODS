@@ -1,0 +1,363 @@
+{
+  "passed": true,
+  "version": "v49",
+  "versionCode": 1093,
+  "bytes": 367564897,
+  "sha256": "c48aa2c535b59d52e5da0fae1fb94ccc44ac089979ae935138b9ec7a3148f9b7",
+  "binary_sha256": "d17f9a0b9c68eb67226640d1a92ad1b834edfeec352408cebfc41d966e78959a",
+  "base_v48_sha256": "4f805f1dda1864c4cd0f287a1c79ea6f052907d6745a17401182514bb3465975",
+  "changed_entries": [
+    "AndroidManifest.xml",
+    "lib/arm64-v8a/libil2cpp.so",
+    "assets/bin/Data/data.unity3d",
+    "assets/bin/Data/datapack.unity3d",
+    "classes13.dex"
+  ],
+  "preserved_entries": 2773,
+  "other_22_native_libraries_preserved": true,
+  "existing_signer_retained": true,
+  "signature_verification": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]",
+  "stored_entry_alignment_verified": true,
+  "only_declared_native_edit_ranges": true,
+  "v48_crash_repair_retained": true,
+  "existing_social_message_pack_unchanged": true,
+  "manifest_version": {
+    "previous": 1092,
+    "current": 1093,
+    "byte_offset": 33508,
+    "other_manifest_bytes_preserved": true
+  },
+  "validation": {
+    "native49": {
+      "passed": true,
+      "binary_sha256": "d17f9a0b9c68eb67226640d1a92ad1b834edfeec352408cebfc41d966e78959a",
+      "checks": 5721,
+      "ASLR_bases": [
+        0,
+        68719476736
+      ],
+      "negative_control_missing_style_ids": 853,
+      "real_ARM64_sort_and_key_builder": true,
+      "genetic_artwork_mappings": 372,
+      "new_portrait_mappings": 612,
+      "all_confirmation_buttons_and_back_callbacks": true,
+      "physical_phone_tested": false,
+      "Unity_rendering_tested": false,
+      "managed_APIs_modeled": true
+    },
+    "content49": {
+      "passed": true,
+      "checks": 45525,
+      "assets": {
+        "datapack_sha256": "dc32f511dad2edd815c2167ceb7aa1091916f844f95eec46a38485159955caeb",
+        "data_sha256": "881d1af185b9a22658a49f7033221762b14d4a070c793b38a0983667335ca641"
+      },
+      "new_portrait_styles": 612,
+      "new_hair_silhouettes": 15,
+      "scars": 12,
+      "eyepatches": 22,
+      "beard_styles": 5,
+      "independent_eye_pairs": 36,
+      "all_seven_paid_sheets_imported": true,
+      "unchanged_previous_Unity_objects": 38487,
+      "changed_objects": [
+        "a16_voltron_componentFilenames",
+        "genesis_feature_containers",
+        "genesis_activities_v12",
+        "genesis_v18_life_v18",
+        "genesis_v18_personality",
+        "genesis_v18_interests",
+        "genesis_v18_wellbeing",
+        "genesis_v18_therapist_access_v18",
+        "genesis_v18_social_v18",
+        "genesis_v18_contacts",
+        "genesis_v18_crushes",
+        "genesis_v18_discord19",
+        "genesis_v18_reddit19",
+        "genesis_v18_following19_2",
+        "genesis_v18_following19_3",
+        "genesis_v18_following19_4",
+        "genesis_v18_following19_5",
+        "genesis_v18_following19_6",
+        "genesis_v18_following19_7",
+        "genesis_v18_following19_8",
+        "genesis_v18_seasons_v18",
+        "genesis_v18_basket_build20",
+        "genesis_v18_basket_training20",
+        "genesis_v18_heights",
+        "genesis_v18_weights",
+        "genesis_v18_reach",
+        "genesis_v18_newlife_body20",
+        "genesis_v18_newlife_heights20",
+        "genesis_v18_newlife_weights20",
+        "genesis_v18_newlife_reach20",
+        "genesis_v18_relationship21",
+        "genesis_activities_v18",
+        "genesis_v18_newlife24",
+        "genesis_v18_newlife_height24",
+        "genesis_v18_newlife_reach24",
+        "genesis_v18_newlife_personality24",
+        "genesis_v18_family35",
+        "genesis_v18_community35",
+        "genesis_v18_familybranch039",
+        "genesis_v18_familybranch139",
+        "genesis_v18_familybranch239",
+        "genesis_v18_familybranch339",
+        "genesis_v18_familytree39",
+        "genesis_v18_worlds39",
+        "a16_faces-male-stage0-iris-base42-95000",
+        "a16_faces-male-stage1-iris-base42-95010",
+        "a16_faces-male-stage2-iris-base42-95020",
+        "a16_faces-male-stage3-iris-base42-95030",
+        "a16_faces-male-stage4-iris-base42-95040",
+        "a16_faces-male-stage5-iris-base42-95050",
+        "a16_faces-female-stage0-iris-base42-95100",
+        "a16_faces-female-stage1-iris-base42-95110",
+        "a16_faces-female-stage2-iris-base42-95120",
+        "a16_faces-female-stage3-iris-base42-95130",
+        "a16_faces-female-stage4-iris-base42-95140",
+        "a16_faces-female-stage5-iris-base42-95150",
+        "a16_faces-male-stage0-iris-base43-88500",
+        "a16_faces-male-stage0-iris-base43-88600",
+        "a16_faces-male-stage1-iris-base43-88501",
+        "a16_faces-male-stage1-iris-base43-88601",
+        "a16_faces-male-stage2-iris-base43-88502",
+        "a16_faces-male-stage2-iris-base43-88602",
+        "a16_faces-male-stage3-iris-base43-88503",
+        "a16_faces-male-stage3-iris-base43-88603",
+        "a16_faces-male-stage4-iris-base43-88504",
+        "a16_faces-male-stage4-iris-base43-88604",
+        "a16_faces-male-stage5-iris-base43-88505",
+        "a16_faces-male-stage5-iris-base43-88605",
+        "a16_faces-female-stage0-iris-base43-88540",
+        "a16_faces-female-stage0-iris-base43-88640",
+        "a16_faces-female-stage1-iris-base43-88541",
+        "a16_faces-female-stage1-iris-base43-88641",
+        "a16_faces-female-stage2-iris-base43-88542",
+        "a16_faces-female-stage2-iris-base43-88642",
+        "a16_faces-female-stage3-iris-base43-88543",
+        "a16_faces-female-stage3-iris-base43-88643",
+        "a16_faces-female-stage4-iris-base43-88544",
+        "a16_faces-female-stage4-iris-base43-88644",
+        "a16_faces-female-stage5-iris-base43-88545",
+        "a16_faces-female-stage5-iris-base43-88645",
+        "genesis_v18_era44_owned"
+      ],
+      "repaired_genetic_eye_textures": 36,
+      "stock_portrait_textures_and_all_previous_Sprites_unchanged": true,
+      "all_native_routes_resolve": true,
+      "device_rendering_tested": false
+    },
+    "retained49": {
+      "passed": true,
+      "binary_sha256": "d17f9a0b9c68eb67226640d1a92ad1b834edfeec352408cebfc41d966e78959a",
+      "checks": 15319,
+      "reports": {
+        "native47": {
+          "passed": true,
+          "checks": 751,
+          "binary_sha256": "d17f9a0b9c68eb67226640d1a92ad1b834edfeec352408cebfc41d966e78959a",
+          "native_post_channels": 8,
+          "custom_post_channels": 2,
+          "pack_records": 17955,
+          "real_native_String_Concat_executed": true,
+          "aslr_biases": [
+            0,
+            68719476736
+          ],
+          "volatile_registers_clobbered": true,
+          "saved_threads_reloaded": true,
+          "bounded_history": 24,
+          "stale_clicks_rejected": true,
+          "physical_phone_tested": false,
+          "Unity_rendering_tested": false
+        },
+        "native46": {
+          "passed": true,
+          "binary_sha256": "d17f9a0b9c68eb67226640d1a92ad1b834edfeec352408cebfc41d966e78959a",
+          "checks": 841,
+          "ASLR_bases": [
+            0,
+            68719476736
+          ],
+          "native_ScenarioBase_choice_entries_tested": true,
+          "all_dealer_buttons_navigate": true,
+          "native_car_column_bounds_negative_control": true,
+          "region_country_register_negative_control": true,
+          "native_theme_Color_ABI_checked": true,
+          "modeled_boundaries": [
+            "Unity rendering and prefab allocation",
+            "managed APIs",
+            "Genesis scenario loader/list presentation",
+            "bank adjustment"
+          ],
+          "full_Unity_engine_tested": false,
+          "physical_device_tested": false
+        },
+        "native45": {
+          "passed": true,
+          "binary_sha256": "d17f9a0b9c68eb67226640d1a92ad1b834edfeec352408cebfc41d966e78959a",
+          "arm64_checks": 8934,
+          "ASLR_bases": [
+            0,
+            68719476736
+          ],
+          "new_car_models": 40,
+          "new_house_types": 8,
+          "new_sprite_routes": 17,
+          "native_finance_and_owned_lookups_unchanged": true,
+          "modeled_boundaries": [
+            "Genesis storage",
+            "Unity Resources.Load<Sprite>",
+            "native car/house lookup"
+          ],
+          "physical_device_tested": false,
+          "Unity_rendering_tested": false
+        },
+        "native44": {
+          "passed": true,
+          "binary_sha256": "d17f9a0b9c68eb67226640d1a92ad1b834edfeec352408cebfc41d966e78959a",
+          "arm64_checks": 1330,
+          "ASLR_biases": [
+            0,
+            68719476736
+          ],
+          "all_27_purchase_and_equip_paths": true,
+          "era_boundaries_and_rotating_stock": true,
+          "atomic_funds_and_duplicate_purchase_guards": true,
+          "independent_slots_and_three_outfits": true,
+          "preview_excluded_from_saved_outfit": true,
+          "starting_year_native_picker": true,
+          "serialized_save_reload_fixture": true,
+          "Unity_managed_APIs_and_bank_implementation_mocked": true,
+          "physical_device_tested": false
+        },
+        "retained44": {
+          "passed": true,
+          "binary_sha256": "d17f9a0b9c68eb67226640d1a92ad1b834edfeec352408cebfc41d966e78959a",
+          "checks": 3463,
+          "reports": {
+            "gameplay41_native": {
+              "passed": true,
+              "arm64_checks": 93,
+              "binary_sha256": "d17f9a0b9c68eb67226640d1a92ad1b834edfeec352408cebfc41d966e78959a",
+              "test_sha256": "56ffbc2dcacf0cc8a3b367c61e0afd3413096f9a6a69d75dc288ad27b9411962",
+              "real_prison_conduct_instructions_executed": true,
+              "arrest_creation_and_Unity_UI_mocked": true,
+              "parole_board_matches_disassembled_stock_thresholds": true,
+              "checkin_warrant_and_expiry_checked": true,
+              "aslr_biases": [
+                0,
+                68719476736
+              ],
+              "device_runtime_tested": false
+            },
+            "retained40": {
+              "passed": true,
+              "retained_arm64_behavior_checks": 76,
+              "binary_sha256": "d17f9a0b9c68eb67226640d1a92ad1b834edfeec352408cebfc41d966e78959a",
+              "old_career_and_sentencing_cases_retained": true,
+              "Unity_and_allocation_mocked": true,
+              "device_runtime_tested": false
+            },
+            "native34": {
+              "binary_sha256": "d17f9a0b9c68eb67226640d1a92ad1b834edfeec352408cebfc41d966e78959a",
+              "arm64_cases": 1082,
+              "aslr_biases": [
+                0,
+                68719476736
+              ],
+              "actual_Action_Invoke_executed": true,
+              "real_ELF_RW_and_BSS_initial_contents_loaded": true,
+              "actual_return_hook_and_RefreshSetup_executed": true,
+              "all_293_choices_executed": true,
+              "six_fields_directly_in_New_Life": true,
+              "stock_rounded_selector_prefab_and_scroller": true,
+              "short_labels": true,
+              "rapid_repeat_edits_and_stale_Actions_checked": true,
+              "same_controller_close_reopen_checked": true,
+              "all_UI_GC_roots_released_on_dismiss_and_birth": true,
+              "existing_genetic_engine_and_baby_growth_preserved": true,
+              "stock_Start_methods_unhooked": true,
+              "Unity_prefabs_collections_and_transition_timing_modeled": true,
+              "device_runtime_tested": false,
+              "BlueStacks_runtime_tested": false
+            },
+            "native43": {
+              "passed": true,
+              "binary_sha256": "d17f9a0b9c68eb67226640d1a92ad1b834edfeec352408cebfc41d966e78959a",
+              "arm64_checks": 2212,
+              "ASLR_biases": [
+                0,
+                68719476736
+              ],
+              "all_360_styles_shuffled_actual_component_lists": true,
+              "missing_ID_negative_control": true,
+              "cache_recovery_and_idempotence": true,
+              "custom_clone_tint_preservation": true,
+              "all_15_picker_choices": true,
+              "Unity_and_managed_string_implementation_mocked": true,
+              "physical_device_tested": false
+            }
+          },
+          "physical_device_tested": false
+        }
+      },
+      "physical_phone_tested": false,
+      "Unity_rendering_tested": false
+    },
+    "diagnostics49": {
+      "passed": true,
+      "sha256": "b63920b61a06341c9bb4af39d6f22527599ed05315671e84f59255f1389c0e05",
+      "version_strings": [
+        {
+          "index": 165,
+          "offset": 41726,
+          "before": "Build: MayoMods v48; app: ",
+          "after": "Build: MayoMods v49; app: "
+        },
+        {
+          "index": 730,
+          "offset": 59754,
+          "before": "MayoMods v48 \u2014 Android crash record\n\n",
+          "after": "MayoMods v49 \u2014 Android crash record\n\n"
+        },
+        {
+          "index": 731,
+          "offset": 59795,
+          "before": "MayoMods v48 \u2014 local crash diagnostics\n\nLAST RECORDED CRASH / ERROR\n",
+          "after": "MayoMods v49 \u2014 local crash diagnostics\n\nLAST RECORDED CRASH / ERROR\n"
+        },
+        {
+          "index": 732,
+          "offset": 59867,
+          "before": "MayoMods v48 \u2014 recorded error\n",
+          "after": "MayoMods v49 \u2014 recorded error\n"
+        },
+        {
+          "index": 733,
+          "offset": 59901,
+          "before": "MayoMods-v48-crash-",
+          "after": "MayoMods-v49-crash-"
+        },
+        {
+          "index": 762,
+          "offset": 60739,
+          "before": "Native launch v48; packaged ABI: arm64-v8a; process: ",
+          "after": "Native launch v49; packaged ABI: arm64-v8a; process: "
+        },
+        {
+          "index": 775,
+          "offset": 61045,
+          "before": "New Life & Crash Diagnostics \u00b7 v48",
+          "after": "New Life & Crash Diagnostics \u00b7 v49"
+        }
+      ],
+      "every_Dex_method_byte_identical": true,
+      "exact_inverse_verified": true
+    }
+  },
+  "physical_phone_tested": false,
+  "ART_tested": false,
+  "Unity_rendering_tested": false
+}

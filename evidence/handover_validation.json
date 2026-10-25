@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-25",
+  "passed": true,
+  "source_files_compared_to_origin_archives": 3506,
+  "source_and_companion_comparisons_and_helper_syntax_checks": 3552,
+  "recovered_code_and_assets_modified": false,
+  "private_key_files_present": false,
+  "game_apks_or_compiled_native_outputs_present": false,
+  "raw_conversations_included": false,
+  "binary_system_trace_included": false,
+  "credential_scan_note": "No credential payloads detected in text scan. The PEM delimiter string in SignApk.java is parser code, not a private key.",
+  "game_build_or_device_test_performed_for_handover": false,
+  "scope": "Recovery integrity and handover helpers only; no new game repair or phone acceptance claim."
+}

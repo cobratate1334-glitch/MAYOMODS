@@ -1,0 +1,56 @@
+[
+  {
+    "original_sha256": "ade09ea258a60b80f478e20604c94ba815b2030c870a5a9c521cad405495c3d7",
+    "binary_sha256": "4c076edb3e9d8cc44ef22b4e84985704abd5d56bb10ebccd5a26437c9db593ff",
+    "name": "libRocketGames.so",
+    "old_phoff": 1835008,
+    "new_phoff": 64,
+    "program_header_count": 10,
+    "metadata_moves": [
+      {
+        "section": ".note.android.ident",
+        "from_file": 568,
+        "to_file": 1835008,
+        "from_vaddr": 568,
+        "to_vaddr": 2015232,
+        "size": 152
+      },
+      {
+        "section": ".note.gnu.build-id",
+        "from_file": 720,
+        "to_file": 1835160,
+        "from_vaddr": 720,
+        "to_vaddr": 2015384,
+        "size": 36
+      }
+    ],
+    "bytes_added": 0,
+    "only_ELF_headers_and_metadata_changed": true,
+    "dependencies_and_native_checks_retained": true,
+    "older_native_bridge_layout_candidate": true,
+    "BlueStacks_runtime_tested": false
+  },
+  {
+    "original_sha256": "afcc6862828983419dd77905dd742af96fb643d147375e2da38d8257aedc2434",
+    "binary_sha256": "0de74cd351ec22dfe6220b4dd0fb0c9d5008b0b6743606b36db169eb8318f8d6",
+    "name": "libil2cpp.so",
+    "old_phoff": 104710144,
+    "new_phoff": 64,
+    "program_header_count": 13,
+    "metadata_moves": [
+      {
+        "section": ".gnu.hash",
+        "from_file": 680,
+        "to_file": 106299520,
+        "from_vaddr": 680,
+        "to_vaddr": 106365056,
+        "size": 16192
+      }
+    ],
+    "bytes_added": 16192,
+    "only_ELF_headers_and_metadata_changed": true,
+    "dependencies_and_native_checks_retained": true,
+    "older_native_bridge_layout_candidate": true,
+    "BlueStacks_runtime_tested": false
+  }
+]

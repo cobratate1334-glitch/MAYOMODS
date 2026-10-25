@@ -1,0 +1,18 @@
+[
+  {
+    "archive": "MayoMods_Social_Message_Pack_700k.zip",
+    "sha256": "2fefc587b7b538374b546fafdc4bee88b4cf27a53d049ecf6a795927bb6b882c",
+    "bytes": 2619449,
+    "destination": "optional_content/social_message_pack_700k",
+    "files": 32,
+    "integration_status": "separate supplied content/tool; not a claimed native game integration"
+  },
+  {
+    "archive": "MayoMods_BlueStacks_Crash_Logger.zip",
+    "sha256": "d88f9702f2caa90d41bd114080d423be7fdd4967f89c40bc846c2e9f63672e02",
+    "bytes": 5306,
+    "destination": "supporting_tools/bluestacks_crash_logger",
+    "files": 3,
+    "integration_status": "separate supplied content/tool; not a claimed native game integration"
+  }
+]

@@ -1,0 +1,241 @@
+{
+  "ListID": "genesis_v9_v12_countries3",
+  "Title": "NATIONAL TEAMS",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Guatemala",
+      "Icon": "flag-gt",
+      "SecondLine": "",
+      "TileID": "v12_Guatemala",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV12.country_gt",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Guyana",
+      "Icon": "flag-gy",
+      "SecondLine": "",
+      "TileID": "v12_Guyana",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV12.country_gy",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Haiti",
+      "Icon": "flag-ht",
+      "SecondLine": "",
+      "TileID": "v12_Haiti",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV12.country_ht",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Hong Kong",
+      "Icon": "flag-hk",
+      "SecondLine": "",
+      "TileID": "v12_HongKong",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV12.country_hk",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Hungary",
+      "Icon": "flag-hu",
+      "SecondLine": "",
+      "TileID": "v12_Hungary",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV12.country_hu",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "India",
+      "Icon": "flag-in",
+      "SecondLine": "",
+      "TileID": "v12_India",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV12.country_in",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Indonesia",
+      "Icon": "flag-id",
+      "SecondLine": "",
+      "TileID": "v12_Indonesia",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV12.country_id",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Iran",
+      "Icon": "flag-ir",
+      "SecondLine": "",
+      "TileID": "v12_Iran",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV12.country_ir",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Iraq",
+      "Icon": "flag-iq",
+      "SecondLine": "",
+      "TileID": "v12_Iraq",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV12.country_iq",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Ireland",
+      "Icon": "flag-ie",
+      "SecondLine": "",
+      "TileID": "v12_Ireland",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV12.country_ie",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Israel",
+      "Icon": "flag-il",
+      "SecondLine": "",
+      "TileID": "v12_Israel",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV12.country_il",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Italy",
+      "Icon": "flag-it",
+      "SecondLine": "",
+      "TileID": "v12_Italy",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV12.country_it",
+              "ScenarioFile": "genesis_activities_v12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "More countries",
+      "Icon": "earth",
+      "TileID": "more3",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ListID": "genesis_v9_v12_countries4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Back to Soccer",
+      "Icon": "soccer-ball",
+      "TileID": "back3",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ListID": "genesis_v9_v12_soccer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

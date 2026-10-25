@@ -1,0 +1,33 @@
+{
+  "arm64_cases": 60,
+  "binary_sha256": "41ecbfd6a83221dc117fd8e7bbdc56ff50f755a69887a31e43945a3a30d71976",
+  "real_PLT_instructions_executed": true,
+  "actual_ELF_imports": {
+    "dlopen": {
+      "plt": 94141712,
+      "got": 97629112
+    },
+    "dlsym": {
+      "plt": 94142000,
+      "got": 97629256
+    },
+    "__android_log_print": {
+      "plt": 94139952,
+      "got": 97628232
+    }
+  },
+  "v21_invalid_pointer_failures_reproduced": 4,
+  "no_Unity_button_or_delegate_creation": true,
+  "panel_dispatched_on_New_Life": true,
+  "refresh_preserves_pending_traits": true,
+  "previous_page_close_does_not_hide_New_Life": true,
+  "creation_close_and_profile_checkpoints": true,
+  "helper_failure_keeps_native_breadcrumb": true,
+  "settings_consumed_once": true,
+  "stock_normal_and_piggy_bank_Start_methods_preserved": true,
+  "aslr_biases": [
+    0,
+    68719476736
+  ],
+  "device_runtime_tested": false
+}

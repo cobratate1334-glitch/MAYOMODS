@@ -1,0 +1,9 @@
+key,type,value,reset_on_ageup,minimum,maximum
+PurchaseSessions,int,0,true,0,6
+Camera,int,0,,0,1
+Instrument,int,0,,0,1
+HomeGym,int,0,,0,1
+VintageCollection,int,0,,0,100
+RepairSkill,int,10,,0,100
+SoldItems,int,0,,0,1000000
+MysteryPending,int,0,,0,1

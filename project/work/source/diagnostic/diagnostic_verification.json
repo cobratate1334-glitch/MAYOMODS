@@ -1,0 +1,39 @@
+{
+  "input_sha256": "fb684d06fbda0f83e063e6431c6c054a5937dc80bfd2260b4c589335953d9281",
+  "output_sha256": "60200febb39300dc9b7e511f7d90728412dd1caabf44c831cb7761b0753f48d5",
+  "output_bytes": 268290230,
+  "changed_files": [
+    "classes12.dex",
+    "classes10.dex",
+    "AndroidManifest.xml"
+  ],
+  "added_files": [
+    "classes13.dex"
+  ],
+  "native_libraries_and_music_content_unchanged": true,
+  "original_game_activity_attributes_unchanged": true,
+  "only_launcher_filter_moved_to_diagnostic_activity": true,
+  "same_package_and_test_signer": true,
+  "new_permissions": [],
+  "official_apksig": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]\n",
+  "zip_crc_and_stored_alignment_valid": true,
+  "android_runtime_tested": false,
+  "not_a_confirmed_crash_fix": true,
+  "reassembled_classes_verified": 8856,
+  "instrumented_instruction_roundtrip": "all classes identical to instrumented smali",
+  "probe_state_tests": [
+    "rejection checkpoint frozen",
+    "continued initialization traced",
+    "exception persistence",
+    "previous handler delegated",
+    "retry clears stale error",
+    "game preferences isolated",
+    "storage failure contained"
+  ],
+  "aapt2_manifest_parse": "passed",
+  "dex_versions": {
+    "classes10.dex": "037",
+    "classes12.dex": "037",
+    "classes13.dex": "037"
+  }
+}

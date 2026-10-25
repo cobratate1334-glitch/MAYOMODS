@@ -1,0 +1,534 @@
+[
+  {
+    "id": 1,
+    "owner": "f1_career",
+    "text": "I completed Contract result: Open my career.",
+    "scene": "scenario.careersV7.f1_careerhired",
+    "choice": 0
+  },
+  {
+    "id": 2,
+    "owner": "f1_career",
+    "text": "I completed Career bonus statement: Collect earned bonuses.",
+    "scene": "scenario.careersV7.f1_careerstatement",
+    "choice": 0
+  },
+  {
+    "id": 3,
+    "owner": "f1_career",
+    "text": "I completed Driver development: Simulator practice.",
+    "scene": "scenario.careersV7.f1_careertrain",
+    "choice": 0
+  },
+  {
+    "id": 4,
+    "owner": "f1_career",
+    "text": "I completed Driver development: Fitness and reaction training.",
+    "scene": "scenario.careersV7.f1_careertrain",
+    "choice": 1
+  },
+  {
+    "id": 5,
+    "owner": "f1_career",
+    "text": "I completed Driver development: Telemetry coaching.",
+    "scene": "scenario.careersV7.f1_careertrain",
+    "choice": 2
+  },
+  {
+    "id": 6,
+    "owner": "f1_career",
+    "text": "I completed Team development: Develop balanced upgrades.",
+    "scene": "scenario.careersV7.f1_careerteam",
+    "choice": 0
+  },
+  {
+    "id": 7,
+    "owner": "f1_career",
+    "text": "I completed Team development: Prioritise qualifying pace.",
+    "scene": "scenario.careersV7.f1_careerteam",
+    "choice": 1
+  },
+  {
+    "id": 8,
+    "owner": "f1_career",
+    "text": "I completed Team development: Improve reliability.",
+    "scene": "scenario.careersV7.f1_careerteam",
+    "choice": 2
+  },
+  {
+    "id": 9,
+    "owner": "f1_career",
+    "text": "I completed Race setup: Conservative tyre management.",
+    "scene": "scenario.careersV7.f1_careersetup",
+    "choice": 0
+  },
+  {
+    "id": 10,
+    "owner": "f1_career",
+    "text": "I completed Race setup: Balanced race strategy.",
+    "scene": "scenario.careersV7.f1_careersetup",
+    "choice": 1
+  },
+  {
+    "id": 11,
+    "owner": "f1_career",
+    "text": "I completed Race setup: Aggressive pace.",
+    "scene": "scenario.careersV7.f1_careersetup",
+    "choice": 2
+  },
+  {
+    "id": 12,
+    "owner": "f1_career",
+    "text": "I completed Qualifying: Run the qualifying session.",
+    "scene": "scenario.careersV7.f1_careerqualify",
+    "choice": 0
+  },
+  {
+    "id": 13,
+    "owner": "f1_career",
+    "text": "I completed Race result - WIN: Continue.",
+    "scene": "scenario.careersV7.f1_careerwin",
+    "choice": 0
+  },
+  {
+    "id": 14,
+    "owner": "f1_career",
+    "text": "I completed Race result - PODIUM: Continue.",
+    "scene": "scenario.careersV7.f1_careerpodium",
+    "choice": 0
+  },
+  {
+    "id": 15,
+    "owner": "f1_career",
+    "text": "I completed Race result - POINTS: Continue.",
+    "scene": "scenario.careersV7.f1_careerpoints",
+    "choice": 0
+  },
+  {
+    "id": 16,
+    "owner": "f1_career",
+    "text": "I completed Race result - FINISH: Continue.",
+    "scene": "scenario.careersV7.f1_careerfinish",
+    "choice": 0
+  },
+  {
+    "id": 17,
+    "owner": "f1_career",
+    "text": "I completed Race result - DNF: Continue.",
+    "scene": "scenario.careersV7.f1_careerdnf",
+    "choice": 0
+  },
+  {
+    "id": 18,
+    "owner": "f1_career",
+    "text": "I completed Season standings: Begin next season.",
+    "scene": "scenario.careersV7.f1_careerseason",
+    "choice": 0
+  },
+  {
+    "id": 19,
+    "owner": "tv_host",
+    "text": "I completed Contract result: Open my career.",
+    "scene": "scenario.careersV7.tv_hosthired",
+    "choice": 0
+  },
+  {
+    "id": 20,
+    "owner": "tv_host",
+    "text": "I completed Career bonus statement: Collect earned bonuses.",
+    "scene": "scenario.careersV7.tv_hoststatement",
+    "choice": 0
+  },
+  {
+    "id": 21,
+    "owner": "tv_host",
+    "text": "I completed On-camera practice: Practise live links.",
+    "scene": "scenario.careersV7.tv_hosttrain",
+    "choice": 0
+  },
+  {
+    "id": 22,
+    "owner": "tv_host",
+    "text": "I completed On-camera practice: Interview a mock contestant.",
+    "scene": "scenario.careersV7.tv_hosttrain",
+    "choice": 1
+  },
+  {
+    "id": 23,
+    "owner": "tv_host",
+    "text": "I completed On-camera practice: Rehearse an unscripted segment.",
+    "scene": "scenario.careersV7.tv_hosttrain",
+    "choice": 2
+  },
+  {
+    "id": 24,
+    "owner": "tv_host",
+    "text": "I completed Choose a show format: Competition show.",
+    "scene": "scenario.careersV7.tv_hostformat",
+    "choice": 0
+  },
+  {
+    "id": 25,
+    "owner": "tv_host",
+    "text": "I completed Choose a show format: Dating show.",
+    "scene": "scenario.careersV7.tv_hostformat",
+    "choice": 1
+  },
+  {
+    "id": 26,
+    "owner": "tv_host",
+    "text": "I completed Choose a show format: Talent contest.",
+    "scene": "scenario.careersV7.tv_hostformat",
+    "choice": 2
+  },
+  {
+    "id": 27,
+    "owner": "tv_host",
+    "text": "I completed Choose a show format: Celebrity house.",
+    "scene": "scenario.careersV7.tv_hostformat",
+    "choice": 3
+  },
+  {
+    "id": 28,
+    "owner": "tv_host",
+    "text": "I completed Prepare an episode: Research and rehearse.",
+    "scene": "scenario.careersV7.tv_hostprepare",
+    "choice": 0
+  },
+  {
+    "id": 29,
+    "owner": "tv_host",
+    "text": "I completed Prepare an episode: Brief contestants and crew.",
+    "scene": "scenario.careersV7.tv_hostprepare",
+    "choice": 1
+  },
+  {
+    "id": 30,
+    "owner": "tv_host",
+    "text": "I completed Prepare an episode: Push an unverified rumour.",
+    "scene": "scenario.careersV7.tv_hostprepare",
+    "choice": 2
+  },
+  {
+    "id": 31,
+    "owner": "tv_host",
+    "text": "I completed Sponsorship pitch: Pitch a responsible sponsor.",
+    "scene": "scenario.careersV7.tv_hostsponsor",
+    "choice": 0
+  },
+  {
+    "id": 32,
+    "owner": "tv_host",
+    "text": "I completed Live filming decision: Pause filming and offer support.",
+    "scene": "scenario.careersV7.tv_hostlive",
+    "choice": 0
+  },
+  {
+    "id": 33,
+    "owner": "tv_host",
+    "text": "I completed Live filming decision: Check consent before continuing.",
+    "scene": "scenario.careersV7.tv_hostlive",
+    "choice": 1
+  },
+  {
+    "id": 34,
+    "owner": "tv_host",
+    "text": "I completed Live filming decision: Keep provoking them for ratings.",
+    "scene": "scenario.careersV7.tv_hostlive",
+    "choice": 2
+  },
+  {
+    "id": 35,
+    "owner": "tv_host",
+    "text": "I completed Broadcast the episode: Broadcast.",
+    "scene": "scenario.careersV7.tv_hostbroadcast",
+    "choice": 0
+  },
+  {
+    "id": 36,
+    "owner": "music_studio",
+    "text": "I completed Open your studio: Start in my bedroom \u2014 free.",
+    "scene": "scenario.musicStudio.open",
+    "choice": 0
+  },
+  {
+    "id": 37,
+    "owner": "music_studio",
+    "text": "I completed Open your studio: Build a home studio \u2014 1,000.",
+    "scene": "scenario.musicStudio.open",
+    "choice": 1
+  },
+  {
+    "id": 38,
+    "owner": "music_studio",
+    "text": "I completed Choose your next project: Single.",
+    "scene": "scenario.musicStudio.new",
+    "choice": 0
+  },
+  {
+    "id": 39,
+    "owner": "music_studio",
+    "text": "I completed Choose your next project: Five-track EP.",
+    "scene": "scenario.musicStudio.new",
+    "choice": 1
+  },
+  {
+    "id": 40,
+    "owner": "music_studio",
+    "text": "I completed Choose your next project: Ten-track album.",
+    "scene": "scenario.musicStudio.new",
+    "choice": 2
+  },
+  {
+    "id": 41,
+    "owner": "music_studio",
+    "text": "I completed Choose a sound: Pop.",
+    "scene": "scenario.musicStudio.genre",
+    "choice": 0
+  },
+  {
+    "id": 42,
+    "owner": "music_studio",
+    "text": "I completed Choose a sound: Hip-hop.",
+    "scene": "scenario.musicStudio.genre",
+    "choice": 1
+  },
+  {
+    "id": 43,
+    "owner": "music_studio",
+    "text": "I completed Choose a sound: Electronic.",
+    "scene": "scenario.musicStudio.genre",
+    "choice": 2
+  },
+  {
+    "id": 44,
+    "owner": "music_studio",
+    "text": "I completed Choose a sound: Indie.",
+    "scene": "scenario.musicStudio.genre",
+    "choice": 3
+  },
+  {
+    "id": 45,
+    "owner": "music_studio",
+    "text": "I completed Name your project: After Hours.",
+    "scene": "scenario.musicStudio.title",
+    "choice": 0
+  },
+  {
+    "id": 46,
+    "owner": "music_studio",
+    "text": "I completed Name your project: New Beginnings.",
+    "scene": "scenario.musicStudio.title",
+    "choice": 1
+  },
+  {
+    "id": 47,
+    "owner": "music_studio",
+    "text": "I completed Name your project: City Lights.",
+    "scene": "scenario.musicStudio.title",
+    "choice": 2
+  },
+  {
+    "id": 48,
+    "owner": "music_studio",
+    "text": "I completed Name your project: No Signal.",
+    "scene": "scenario.musicStudio.title",
+    "choice": 3
+  },
+  {
+    "id": 49,
+    "owner": "music_studio",
+    "text": "I completed Songwriting: Write from personal experience.",
+    "scene": "scenario.musicStudio.write",
+    "choice": 0
+  },
+  {
+    "id": 50,
+    "owner": "music_studio",
+    "text": "I completed Songwriting: Experiment with a new arrangement.",
+    "scene": "scenario.musicStudio.write",
+    "choice": 1
+  },
+  {
+    "id": 51,
+    "owner": "music_studio",
+    "text": "I completed Songwriting: Book a co-writing session \u2014 300.",
+    "scene": "scenario.musicStudio.write",
+    "choice": 2
+  },
+  {
+    "id": 52,
+    "owner": "music_studio",
+    "text": "I completed Songwriting: Chase a trend.",
+    "scene": "scenario.musicStudio.write",
+    "choice": 3
+  },
+  {
+    "id": 53,
+    "owner": "music_studio",
+    "text": "I completed Recording: Record at home.",
+    "scene": "scenario.musicStudio.record",
+    "choice": 0
+  },
+  {
+    "id": 54,
+    "owner": "music_studio",
+    "text": "I completed Recording: Hire a studio \u2014 750.",
+    "scene": "scenario.musicStudio.record",
+    "choice": 1
+  },
+  {
+    "id": 55,
+    "owner": "music_studio",
+    "text": "I completed Recording: Book an engineer \u2014 1,500.",
+    "scene": "scenario.musicStudio.record",
+    "choice": 2
+  },
+  {
+    "id": 56,
+    "owner": "music_studio",
+    "text": "I completed Recording: Capture a live take.",
+    "scene": "scenario.musicStudio.record",
+    "choice": 3
+  },
+  {
+    "id": 57,
+    "owner": "music_studio",
+    "text": "I completed Mix and master: Mix it myself.",
+    "scene": "scenario.musicStudio.mix",
+    "choice": 0
+  },
+  {
+    "id": 58,
+    "owner": "music_studio",
+    "text": "I completed Mix and master: Hire a mixing engineer \u2014 500.",
+    "scene": "scenario.musicStudio.mix",
+    "choice": 1
+  },
+  {
+    "id": 59,
+    "owner": "music_studio",
+    "text": "I completed Mix and master: Professional mastering \u2014 1,000.",
+    "scene": "scenario.musicStudio.mix",
+    "choice": 2
+  },
+  {
+    "id": 60,
+    "owner": "music_studio",
+    "text": "I completed Mix and master: Test it on several speakers.",
+    "scene": "scenario.musicStudio.mix",
+    "choice": 3
+  },
+  {
+    "id": 61,
+    "owner": "music_studio",
+    "text": "I completed Choose a collaborator: Swap verses with a newcomer.",
+    "scene": "scenario.musicStudio.collaborate",
+    "choice": 0
+  },
+  {
+    "id": 62,
+    "owner": "music_studio",
+    "text": "I completed Choose a collaborator: Hire a session musician \u2014 400.",
+    "scene": "scenario.musicStudio.collaborate",
+    "choice": 1
+  },
+  {
+    "id": 63,
+    "owner": "music_studio",
+    "text": "I completed Choose a collaborator: Book an established guest \u2014 2,000.",
+    "scene": "scenario.musicStudio.collaborate",
+    "choice": 2
+  },
+  {
+    "id": 64,
+    "owner": "music_studio",
+    "text": "I completed Plan your campaign: Post behind-the-scenes clips.",
+    "scene": "scenario.musicStudio.promote",
+    "choice": 0
+  },
+  {
+    "id": 65,
+    "owner": "music_studio",
+    "text": "I completed Plan your campaign: Pitch blogs and playlists \u2014 250.",
+    "scene": "scenario.musicStudio.promote",
+    "choice": 1
+  },
+  {
+    "id": 66,
+    "owner": "music_studio",
+    "text": "I completed Plan your campaign: Run a targeted campaign \u2014 1,000.",
+    "scene": "scenario.musicStudio.promote",
+    "choice": 2
+  },
+  {
+    "id": 67,
+    "owner": "music_studio",
+    "text": "I completed Plan your campaign: Film a music video \u2014 3,000.",
+    "scene": "scenario.musicStudio.promote",
+    "choice": 3
+  },
+  {
+    "id": 68,
+    "owner": "music_studio",
+    "text": "I completed Upgrade your studio: Home recording setup \u2014 1,000.",
+    "scene": "scenario.musicStudio.equipment",
+    "choice": 0
+  },
+  {
+    "id": 69,
+    "owner": "music_studio",
+    "text": "I completed Upgrade your studio: Professional production room \u2014 5,000.",
+    "scene": "scenario.musicStudio.equipment",
+    "choice": 1
+  },
+  {
+    "id": 70,
+    "owner": "music_studio",
+    "text": "I completed Upgrade your studio: Commercial studio \u2014 20,000.",
+    "scene": "scenario.musicStudio.equipment",
+    "choice": 2
+  },
+  {
+    "id": 71,
+    "owner": "music_studio",
+    "text": "I completed Release rights: Stay independent \u2014 90%, normal reach.",
+    "scene": "scenario.musicStudio.distribution",
+    "choice": 0
+  },
+  {
+    "id": 72,
+    "owner": "music_studio",
+    "text": "I completed Release rights: Distribution partner \u2014 70%, 1.65\u00d7 reach.",
+    "scene": "scenario.musicStudio.distribution",
+    "choice": 1
+  },
+  {
+    "id": 73,
+    "owner": "music_studio",
+    "text": "I completed Release rights: Label-backed \u2014 55%, 2.5\u00d7 reach.",
+    "scene": "scenario.musicStudio.distribution",
+    "choice": 2
+  },
+  {
+    "id": 74,
+    "owner": "music_studio",
+    "text": "I completed Shelve this project?: Shelve it.",
+    "scene": "scenario.musicStudio.abandon",
+    "choice": 0
+  },
+  {
+    "id": 75,
+    "owner": "music_studio",
+    "text": "I completed Release your project: Publish project.",
+    "scene": "scenario.musicStudio.release",
+    "choice": 0
+  },
+  {
+    "id": 76,
+    "owner": "music_studio",
+    "text": "I completed Annual studio statement: Collect royalties.",
+    "scene": "scenario.musicStudio.royalties",
+    "choice": 0
+  }
+]

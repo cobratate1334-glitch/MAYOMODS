@@ -1,0 +1,47 @@
+{
+  "passed": true,
+  "libraries": [
+    {
+      "name": "libRocketGames.so",
+      "original_sha256": "ade09ea258a60b80f478e20604c94ba815b2030c870a5a9c521cad405495c3d7",
+      "binary_sha256": "4c076edb3e9d8cc44ef22b4e84985704abd5d56bb10ebccd5a26437c9db593ff",
+      "checks": [
+        "Complete program-header table maps in first load segment",
+        "4096-byte page mappings aligned and ordered; no new overlap",
+        "16384-byte page mappings aligned and ordered; no new overlap",
+        "Section payloads, symbols, relocations, notes and native instructions preserved",
+        "All native dependencies and strong gate import preserved",
+        "GNU/SysV dynamic export lookup retains original symbol addresses",
+        "PID gate instructions and pinned certificate check preserved"
+      ],
+      "export_lookups": 4066,
+      "changed_section_headers": [
+        ".note.android.ident",
+        ".note.gnu.build-id"
+      ]
+    },
+    {
+      "name": "libil2cpp.so",
+      "original_sha256": "afcc6862828983419dd77905dd742af96fb643d147375e2da38d8257aedc2434",
+      "binary_sha256": "0de74cd351ec22dfe6220b4dd0fb0c9d5008b0b6743606b36db169eb8318f8d6",
+      "checks": [
+        "Complete program-header table maps in first load segment",
+        "4096-byte page mappings aligned and ordered; no new overlap",
+        "16384-byte page mappings aligned and ordered; no new overlap",
+        "Section payloads, symbols, relocations, notes and native instructions preserved",
+        "All native dependencies and strong gate import preserved",
+        "Every IL2CPP executable load segment remains byte-identical to v27",
+        "GNU/SysV dynamic export lookup retains original symbol addresses"
+      ],
+      "export_lookups": 2416,
+      "changed_section_headers": [
+        ".gnu.hash"
+      ]
+    }
+  ],
+  "structural_cases": 14,
+  "export_lookups": 6482,
+  "native_checks_and_all_instructions_preserved": true,
+  "native_bridge_and_Android_linker_tested": false,
+  "BlueStacks_runtime_tested": false
+}

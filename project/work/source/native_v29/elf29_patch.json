@@ -1,0 +1,23 @@
+{
+  "original_sha256": "75f1ec386e95fee74250c6b0e86516209db6bec917b55445db1f41cd1aba7f6c",
+  "binary_sha256": "c84f04a89444dbc36b8a479353df1d00376c4dbadd7d94f100b1c57372c7206e",
+  "name": "libil2cpp.so",
+  "old_phoff": 104710144,
+  "new_phoff": 64,
+  "program_header_count": 13,
+  "metadata_moves": [
+    {
+      "section": ".gnu.hash",
+      "from_file": 680,
+      "to_file": 106299520,
+      "from_vaddr": 680,
+      "to_vaddr": 106365056,
+      "size": 16192
+    }
+  ],
+  "bytes_added": 16192,
+  "only_ELF_headers_and_metadata_changed": true,
+  "dependencies_and_native_checks_retained": true,
+  "older_native_bridge_layout_candidate": true,
+  "BlueStacks_runtime_tested": false
+}

@@ -1,0 +1,11 @@
+{
+  "reference_model_assertions": 38201,
+  "retained_cup_and_government_assertions": 35633,
+  "new_career_assertions": 2568,
+  "new_scenarios": 28,
+  "custom_formats": [
+    32,
+    64
+  ],
+  "device_runtime_tested": false
+}

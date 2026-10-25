@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "schema_and_progression_checks": 406,
+  "assets_sha256": "4572cec0b391a62acca3c5dff8c0c1a701f49138a3337420ca9c7152c8680c5b",
+  "author_source_sha256": "a9ee8496ac7984075fb8a5474104759be632f31c2253d67259b6d7bd1025ac3a",
+  "test_sha256": "24c7c8db251c06898714d66d1ef5cb9b44cf2c835afe44cc353ff4985bd03aee",
+  "legacy_dialogs_repaired": 16,
+  "all_prior_v18_scenes_retained": true,
+  "native_conduct_effects_executed": true,
+  "Genesis_UI_parser_and_save_serialization_modeled": true,
+  "device_runtime_tested": false
+}

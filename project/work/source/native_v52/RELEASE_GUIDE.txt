@@ -1,0 +1,175 @@
+MayoMods v52 — New Life and stability
+BitLife 3.25; Android versionCode 1096
+
+This is a cumulative update to the released v51 build. The implementation and
+automated checks are complete for the changes below. Full Android gameplay,
+ART and Unity rendering have not been tested on a physical phone or emulator.
+The release does not certify every button, league, event or device as bug-free.
+
+Crashes, navigation and profiles
+
+- Regions now reads the actual country field instead of interpreting the New
+  Life person configuration as a country. City filtering validates collection
+  bounds and actual string objects before inspecting them.
+- Life journal now matches the button label displayed by the game.
+- List open/close operations preserve their restoration coroutine and retain
+  generation guards. Visible HUD accessibility groups are re-enabled even when
+  the corresponding GameObjects stayed active.
+- Appearance choices map to the matching style at the character's age and
+  gender instead of using a nearby numeric ID. Active genetic styles take
+  precedence over obsolete portrait-ID migration rules. These address causes
+  of missing/black portraits; on-device portrait rendering still needs checking.
+- Legacy modified scenario sheets use the native RandomSelection column and
+  physical single-line CSV bodies. Existing Community Expansions and prior
+  dealer/navigation repairs are retained.
+
+New Life, eyes and the supplied assets
+
+- New Life now has the original eight controls plus hair, hair colour, skin,
+  ordinary eye colour, scars, eyepatches, facial hair and facial-hair colour.
+  Genetics is distinct from ordinary Appearance. Asset/genetic pickers show a
+  native portrait preview before Apply. Back discards the temporary choice.
+- Ordinary eye-colour choices set both eyes to the same colour. Existing mixed
+  ordinary palette IDs normalize to a matching pair. Complete, sectoral and
+  central heterochromia use explicit Genetics choices with priority over old
+  ordinary-eye overrides. Selecting an ordinary colour clears that eye trait.
+- Native appearance-editor saves become the New Life base face. Independent
+  scar, eyepatch and facial-hair layers remain separate.
+- All seven available supplied sprite sheets remain included. The existing
+  730 imported asset records are retained. 180 hair layers sharing 94 textures
+  have been refitted to the native scalp and face anchors. Before/after decoded
+  asset inspection sheets are included in the source archive; phone previews
+  are the final check for clipping, colour, hairstyle fit and portrait caching.
+- Generated non-newborn NPCs, including parents created during New Life, can
+  receive genetic appearances and supplied hair. Adult-stage NPCs can also
+  receive scars. These are stored on their own native face, not the hero's
+  appearance preferences. Random generation is not guaranteed to select a
+  rare trait for a particular person. Automatic age-zero assignment is excluded
+  so an unchosen newborn hero trait does not override the New Life selection.
+
+Family, height, calendar and variety
+
+- Living parents with implausible ages relative to the hero are repaired to a
+  plausible age gap. Valid and deceased-parent ages are preserved.
+- Automatic adult-height estimates use both sex-adjusted parental heights,
+  a smaller birth-country/cohort component and saved individual variation.
+  Explicit chosen adult heights remain explicit. Native relationship profiles
+  and social contacts use the same parent-height calculation.
+- The official NCD-RisC 2016 dataset supplies means for 200 countries and birth
+  cohorts from 1896 to 1996. The simulation interpolates selected historical
+  cohorts and uses the nearest endpoint beyond them. Countries without a
+  matched source use the fallback model. Individual spread and rare outliers
+  are included; a national mean is not a maximum or a mandatory height.
+- The model uses chosen individual SDs of 6.8 cm for male and 6.3 cm for female
+  sampling, with a 2-in-1000 rare-tail component and broad 120–250 cm automatic
+  bounds. These are game-model assumptions, not measured individual variance
+  from the paper. The source's confidence intervals are not used as SDs.
+- Social profiles now have six varied preference descriptions instead of the
+  same taller-partner phrase. Existing height preferences retain their dating
+  checks. New non-height descriptions do not implement a complete attraction
+  simulation.
+- Historical age rows display the corresponding year next to age. New Life
+  retains year presets and adds a custom birth-year picker from 1 to 3000,
+  adjusted by 1, 10 or 100 with preview, Apply and Back.
+
+Activities with saved outcomes
+
+- School has twelve situations: science, debate, newspaper, theatre, robotics,
+  mentoring, student council, athletics, music, writing, gardening and exams.
+  Each has distinct preparation, teamwork and shortcut choices. Subject skill,
+  Smarts, inherited Genius, personality and approach affect the result. Outcomes
+  save project experience and change the relevant actual game stat. Teamwork
+  improves the chance at an energy cost; failure still grants experience.
+- Fighter training improves striking, grappling, wrestling, conditioning and
+  tactics, plus actual Athleticism. Recovery reduces fatigue. Three match plans
+  and a repeatable circuit use skills, reach, Athleticism and fatigue. A win
+  changes the actual bank balance; a loss affects Health. Circuit W-L is saved.
+  The original Fight introduction and gym menus link to Training & fighter
+  circuit. This circuit record is separate from the stock professional league.
+- Church & community in Activities has services, choir, volunteering, reflection,
+  fundraising and family visits. Activities save service history and affect
+  Happiness, Karma, Willpower, Music or parental connections. The fundraiser
+  checks funds before deducting 25. Supplied church imagery is used.
+- Four underworld story activities save attention and crew trust; success and
+  failure change actual balance, Karma or Happiness. Rising attention makes
+  later attempts riskier. This is an added story system, not an integration
+  with every stock crime or the native criminal-record system.
+- Studio setup and practice use the existing studio's saved state. Practice
+  improves Music and studio skill and advances an active project's progress
+  and quality. Existing writing, recording, releases and royalties remain.
+  Complete stock music/producer career playthroughs still need a phone check.
+- Added community activities have an eight-action allowance per age. Age Up
+  refreshes the allowance and reduces fatigue. Rejected school/fatigue/funds
+  actions refund the allowance. Match-plan and status views stay available.
+- Actual native ScenarioBase callbacks own each activity. Repeated or stale
+  choices do not award duplicate results, and New Life releases old leases.
+- Newly authored community scenarios display “Compiled by Atlanti”. The linked
+  Atlanti documents and The Last Yakuza book were not imported into this build.
+
+Social and sports preservation
+
+- The native Facebook, Instagram, OnlyFans, TikTok, Twitch, Twitter, SoundCloud
+  and YouTube row construction is restored across custom calendar years.
+  Normal stock age/account requirements still apply. Existing Discord, Reddit,
+  following, social connections, post/comment and profile routes are retained.
+- Retained-feature tests exercise the prior social/post/comment, dealer, world,
+  year, wardrobe and gameplay paths against the final native binary. The asset
+  audit verifies all 102 nation chooser routes and existing competition content.
+  This is not an end-to-end phone test of every World Cup, NFL, basketball,
+  soccer or producer-career button. Those phone flows remain in the checklist.
+
+What was verified
+
+The verification JSON records exact hashes and check counts for the final build.
+Native tests execute the patched ARM64 routines at zero and a relocated load
+bias with modeled managed/Unity API boundaries. Content checks decode final
+Unity resources, validate scenario/menu destinations and compare prior objects.
+All existing Sprite objects and their geometry/reference data remain byte
+identical. Only declared text assets and refitted hair pixels change in the
+prior datapack, and six new text resources are registered. Every other packaged
+native library remains byte identical to v51. APK signing, signer continuity,
+entry comparisons and stored-library ZIP alignment are verified.
+
+Compatibility and installation
+
+This build requires arm64-v8a and Android API 25+ (Android 7.1+); target SDK is
+35. It is not a 32-bit or x86 build and has not been tested across all Android
+devices. Stored .so entries have 16 KB ZIP alignment. The retained
+libAsyncGPUReadbackPlugin.so ELF layout still limits 16 KB-page devices;
+ZIP alignment alone does not repair that library. The compatibility report
+lists the actual manifest and ELF requirements.
+
+The APK retains the v51 signing identity. Back up game saves before installing
+an update. Devices running a differently signed build require its matching
+update path; uninstalling may remove local saves.
+
+Phone checks still required
+
+1. Start New Life, preview/apply/cancel each asset and genetic category, save a
+   stock appearance edit, then choose country, gender, Regions and custom year.
+2. Verify matched ordinary eyes and complete/sectoral/central heterochromia on
+   the hero and edited NPCs. Age through infant, child, teen, adult and elderly;
+   inspect the portrait, profile and hair fit after each transition and reload.
+3. Open/close Activities, Community Expansions, occupation, achievements,
+   social profiles and native events. Check the top menu and bottom tabs after
+   Back, dismissal, resume and Age Up. Open Life journal.
+4. Check parent ages/heights in both native and social profiles, explicit
+   height persistence and NPC preference variety across several new lives.
+5. Open each social platform, create a post, view/reply to comments and follow
+   an existing contact. Confirm stock account and age rules behave normally.
+6. Choose a nation and play/resume World Cup and club competitions. Exercise
+   soccer, basketball and NFL career menus and their Back paths.
+7. Play distinct school choices, church activities, fighter training/recovery
+   and bouts, underworld stories and a full music project. Reload and compare
+   the saved stats, balance and activity allowance. Rapid taps must not pay twice.
+8. Keep the v52 crash diagnostics if a phone-only failure remains. Full fatal
+   exception/tombstone context is more useful than the preceding warning lines.
+
+Research source
+
+NCD Risk Factor Collaboration. A century of trends in adult human height.
+eLife 2016;5:e13410. doi:10.7554/eLife.13410.
+https://www.ncdrisc.org/data-downloads-height.html
+https://www.ncdrisc.org/downloads/height/NCD_RisC_eLife_2016_height_age18_countries.csv
+Original dataset SHA256:
+ba80be9f4a6fc464a45f80054a30a2b9e1f0473c8fe932f51492a7fe88770e0f

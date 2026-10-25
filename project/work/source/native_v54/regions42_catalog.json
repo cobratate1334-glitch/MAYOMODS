@@ -1,0 +1,223 @@
+[
+  [
+    "All game cities",
+    []
+  ],
+  [
+    "Central Plains",
+    [
+      "Oklahoma City",
+      "Tulsa",
+      "Norman",
+      "Wichita",
+      "Topeka",
+      "Kansas City",
+      "Lincoln",
+      "Omaha",
+      "Des Moines",
+      "Sioux Falls"
+    ]
+  ],
+  [
+    "Texas interior / Southern Plains",
+    [
+      "Dallas",
+      "Fort Worth",
+      "Austin",
+      "San Antonio",
+      "Lubbock",
+      "Amarillo",
+      "Waco"
+    ]
+  ],
+  [
+    "Lower Mississippi / Southeast",
+    [
+      "Memphis",
+      "Nashville",
+      "Birmingham",
+      "Huntsville",
+      "Jackson",
+      "Little Rock",
+      "Shreveport",
+      "Baton Rouge",
+      "St. Louis",
+      "Saint Louis",
+      "Springfield"
+    ]
+  ],
+  [
+    "Gulf Coast",
+    [
+      "Houston",
+      "Galveston",
+      "Corpus Christi",
+      "New Orleans",
+      "Mobile",
+      "Biloxi",
+      "Gulfport"
+    ]
+  ],
+  [
+    "Florida coast",
+    [
+      "Miami",
+      "Tampa",
+      "Fort Myers",
+      "Key West",
+      "Jacksonville",
+      "Pensacola",
+      "St. Petersburg",
+      "Saint Petersburg"
+    ]
+  ],
+  [
+    "Atlantic coast",
+    [
+      "Charleston",
+      "Savannah",
+      "Wilmington",
+      "Virginia Beach",
+      "Norfolk"
+    ]
+  ],
+  [
+    "Northeast Atlantic coast",
+    [
+      "New York",
+      "New York City",
+      "Boston",
+      "Atlantic City",
+      "Providence"
+    ]
+  ],
+  [
+    "Southeastern interior",
+    [
+      "Orlando",
+      "Tallahassee",
+      "Atlanta",
+      "Raleigh",
+      "Charlotte",
+      "Columbia",
+      "Greenville"
+    ]
+  ],
+  [
+    "Arizona interior",
+    [
+      "Phoenix",
+      "Tucson",
+      "Mesa",
+      "Scottsdale",
+      "Flagstaff"
+    ]
+  ],
+  [
+    "Western interior",
+    [
+      "Las Vegas",
+      "Reno",
+      "Salt Lake City",
+      "Denver",
+      "Albuquerque",
+      "Santa Fe",
+      "Boise",
+      "Colorado Springs",
+      "El Paso"
+    ]
+  ],
+  [
+    "Pacific coast",
+    [
+      "Los Angeles",
+      "San Diego",
+      "San Francisco",
+      "Santa Barbara",
+      "Santa Cruz",
+      "Monterey",
+      "Long Beach",
+      "Oakland"
+    ]
+  ],
+  [
+    "Pacific coast / Cascades",
+    [
+      "Seattle",
+      "Tacoma",
+      "Olympia",
+      "Astoria",
+      "Eureka"
+    ]
+  ],
+  [
+    "Cascades interior / volcanic ash region",
+    [
+      "Portland",
+      "Salem",
+      "Bend",
+      "Redding",
+      "Vancouver"
+    ]
+  ],
+  [
+    "Pacific inland",
+    [
+      "Sacramento",
+      "Fresno",
+      "Bakersfield",
+      "Spokane"
+    ]
+  ],
+  [
+    "Oahu coast",
+    [
+      "Honolulu"
+    ]
+  ],
+  [
+    "Hawaii Island coast / active volcanic region",
+    [
+      "Hilo",
+      "Kailua-Kona",
+      "Kona"
+    ]
+  ],
+  [
+    "Alaska coast / regional volcanic ash",
+    [
+      "Anchorage",
+      "Kodiak",
+      "Seward",
+      "Juneau"
+    ]
+  ],
+  [
+    "Alaska interior",
+    [
+      "Fairbanks"
+    ]
+  ],
+  [
+    "Eastern / northern interior",
+    [
+      "Chicago",
+      "Indianapolis",
+      "Columbus",
+      "Cleveland",
+      "Detroit",
+      "Milwaukee",
+      "Minneapolis",
+      "Madison",
+      "Louisville",
+      "Cincinnati",
+      "Pittsburgh",
+      "Buffalo",
+      "Philadelphia",
+      "Baltimore",
+      "Washington",
+      "Washington D.C.",
+      "Washington DC"
+    ]
+  ]
+]

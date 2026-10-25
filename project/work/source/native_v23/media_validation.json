@@ -1,0 +1,15 @@
+{
+  "file": "tornado_house.gif",
+  "sha256": "c084ae2c54a5fead02fbc139701ae24225deaa769520df850d33b352185fbc35",
+  "dimensions": [
+    640,
+    360
+  ],
+  "frames": 120,
+  "duration_ms": 8000,
+  "transparent_pixels_in_sample": 185191,
+  "finite_playback_in_view": true,
+  "original_watermark_retained": true,
+  "map_source_sha256": "7c9786efdf71d7d95acecc2a36c0f9b35d71c6062738b88465034c7dc11ff024",
+  "minivan_source_sha256": "96b511f5e602caafd42e49fdddcfb4b24e2d3e94e6d07213edd61ac41a26df30"
+}

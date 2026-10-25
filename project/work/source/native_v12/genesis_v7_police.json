@@ -1,0 +1,131 @@
+{
+  "ListID": "genesis_v7_police",
+  "Title": "POLICE CASEWORK",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Assigned Case",
+      "Icon": "clipboard",
+      "SecondLine": "<GFC.job_police_officer.CaseName>",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.careersV7.job_police_officerreview",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "BarGraph": {
+        "Title": "Evidence",
+        "Value": "<GFC.job_police_officer.Evidence>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v9_genesis_v7_police_0"
+    },
+    {
+      "Title": "Choose a Case",
+      "Icon": "police-car",
+      "SecondLine": "Missing persons, burglary, fraud or collision",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.careersV7.job_police_officerassign",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_police_1"
+    },
+    {
+      "Title": "Interview Witnesses",
+      "Icon": "bank",
+      "SecondLine": "Consent and independent accounts",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.careersV7.job_police_officerwitness",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_police_2"
+    },
+    {
+      "Title": "Handle Evidence",
+      "Icon": "memo",
+      "SecondLine": "Forensics and chain of custody",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.careersV7.job_police_officerevidence",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_police_3"
+    },
+    {
+      "Title": "Search Authorisation",
+      "Icon": "anchor",
+      "SecondLine": "Warrants and voluntary cooperation",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.careersV7.job_police_officerwarrant",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_police_4"
+    },
+    {
+      "Title": "Community Response",
+      "Icon": "handshake",
+      "SecondLine": "De-escalation and complaints",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.careersV7.job_police_officercommunity",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_police_5"
+    },
+    {
+      "Title": "Case Review",
+      "Icon": "hammer",
+      "SecondLine": "Submit reliable work or disclose flaws",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.careersV7.job_police_officerreview",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_police_6"
+    }
+  ]
+}

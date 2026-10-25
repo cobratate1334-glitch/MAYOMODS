@@ -1,0 +1,516 @@
+{
+  "producer_access_v9": {
+    "MenuVersion": {
+      "key": "MenuVersion",
+      "type": "int",
+      "value": 9,
+      "minimum": 9,
+      "maximum": 9,
+      "reset_on_ageup": ""
+    }
+  },
+  "school_v9": {
+    "Sessions": {
+      "key": "Sessions",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 8,
+      "reset_on_ageup": "true"
+    },
+    "Knowledge": {
+      "key": "Knowledge",
+      "type": "int",
+      "value": 20,
+      "minimum": 0,
+      "maximum": 100,
+      "reset_on_ageup": ""
+    },
+    "Confidence": {
+      "key": "Confidence",
+      "type": "int",
+      "value": 20,
+      "minimum": 0,
+      "maximum": 100,
+      "reset_on_ageup": ""
+    },
+    "Teamwork": {
+      "key": "Teamwork",
+      "type": "int",
+      "value": 20,
+      "minimum": 0,
+      "maximum": 100,
+      "reset_on_ageup": ""
+    },
+    "Projects": {
+      "key": "Projects",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 1000000,
+      "reset_on_ageup": ""
+    },
+    "QuizStage": {
+      "key": "QuizStage",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 100,
+      "reset_on_ageup": ""
+    },
+    "QuizScore": {
+      "key": "QuizScore",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 100,
+      "reset_on_ageup": ""
+    },
+    "QuizBest": {
+      "key": "QuizBest",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 100,
+      "reset_on_ageup": ""
+    }
+  },
+  "basketball_v9": {
+    "Sessions": {
+      "key": "Sessions",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 8,
+      "reset_on_ageup": "true"
+    },
+    "Skill": {
+      "key": "Skill",
+      "type": "int",
+      "value": 20,
+      "minimum": 0,
+      "maximum": 100,
+      "reset_on_ageup": ""
+    },
+    "Tactics": {
+      "key": "Tactics",
+      "type": "int",
+      "value": 20,
+      "minimum": 0,
+      "maximum": 100,
+      "reset_on_ageup": ""
+    },
+    "Respect": {
+      "key": "Respect",
+      "type": "int",
+      "value": 20,
+      "minimum": 0,
+      "maximum": 100,
+      "reset_on_ageup": ""
+    },
+    "NativeFitnessImpact": {
+      "key": "NativeFitnessImpact",
+      "type": "int",
+      "value": 0,
+      "minimum": -3,
+      "maximum": 3,
+      "reset_on_ageup": ""
+    },
+    "NativeRespectImpact": {
+      "key": "NativeRespectImpact",
+      "type": "int",
+      "value": 0,
+      "minimum": -3,
+      "maximum": 3,
+      "reset_on_ageup": ""
+    },
+    "shootStage": {
+      "key": "shootStage",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 6,
+      "reset_on_ageup": ""
+    },
+    "shootScore": {
+      "key": "shootScore",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 5,
+      "reset_on_ageup": ""
+    },
+    "shootBest": {
+      "key": "shootBest",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 5,
+      "reset_on_ageup": ""
+    },
+    "defenceStage": {
+      "key": "defenceStage",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 4,
+      "reset_on_ageup": ""
+    },
+    "defenceScore": {
+      "key": "defenceScore",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 3,
+      "reset_on_ageup": ""
+    },
+    "defenceBest": {
+      "key": "defenceBest",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 3,
+      "reset_on_ageup": ""
+    }
+  },
+  "rugby_v9": {
+    "Sessions": {
+      "key": "Sessions",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 8,
+      "reset_on_ageup": "true"
+    },
+    "Skill": {
+      "key": "Skill",
+      "type": "int",
+      "value": 20,
+      "minimum": 0,
+      "maximum": 100,
+      "reset_on_ageup": ""
+    },
+    "Tactics": {
+      "key": "Tactics",
+      "type": "int",
+      "value": 20,
+      "minimum": 0,
+      "maximum": 100,
+      "reset_on_ageup": ""
+    },
+    "Respect": {
+      "key": "Respect",
+      "type": "int",
+      "value": 20,
+      "minimum": 0,
+      "maximum": 100,
+      "reset_on_ageup": ""
+    },
+    "NativeFitnessImpact": {
+      "key": "NativeFitnessImpact",
+      "type": "int",
+      "value": 0,
+      "minimum": -3,
+      "maximum": 3,
+      "reset_on_ageup": ""
+    },
+    "NativeRespectImpact": {
+      "key": "NativeRespectImpact",
+      "type": "int",
+      "value": 0,
+      "minimum": -3,
+      "maximum": 3,
+      "reset_on_ageup": ""
+    },
+    "attackStage": {
+      "key": "attackStage",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 5,
+      "reset_on_ageup": ""
+    },
+    "attackScore": {
+      "key": "attackScore",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 4,
+      "reset_on_ageup": ""
+    },
+    "attackBest": {
+      "key": "attackBest",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 4,
+      "reset_on_ageup": ""
+    },
+    "defenceStage": {
+      "key": "defenceStage",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 4,
+      "reset_on_ageup": ""
+    },
+    "defenceScore": {
+      "key": "defenceScore",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 3,
+      "reset_on_ageup": ""
+    },
+    "defenceBest": {
+      "key": "defenceBest",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 3,
+      "reset_on_ageup": ""
+    }
+  },
+  "military_v9": {
+    "Sessions": {
+      "key": "Sessions",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 8,
+      "reset_on_ageup": "true"
+    },
+    "Branch": {
+      "key": "Branch",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 5,
+      "reset_on_ageup": ""
+    },
+    "Serving": {
+      "key": "Serving",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 1,
+      "reset_on_ageup": ""
+    },
+    "NativeMilitarySync": {
+      "key": "NativeMilitarySync",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 1,
+      "reset_on_ageup": ""
+    },
+    "CombatAbility": {
+      "key": "CombatAbility",
+      "type": "int",
+      "value": 20,
+      "minimum": 0,
+      "maximum": 100,
+      "reset_on_ageup": ""
+    },
+    "Fitness": {
+      "key": "Fitness",
+      "type": "int",
+      "value": 20,
+      "minimum": 0,
+      "maximum": 100,
+      "reset_on_ageup": ""
+    },
+    "Strategics": {
+      "key": "Strategics",
+      "type": "int",
+      "value": 20,
+      "minimum": 0,
+      "maximum": 100,
+      "reset_on_ageup": ""
+    },
+    "TourActive": {
+      "key": "TourActive",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 1,
+      "reset_on_ageup": ""
+    },
+    "TourStage": {
+      "key": "TourStage",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 3,
+      "reset_on_ageup": ""
+    },
+    "RangerQualified": {
+      "key": "RangerQualified",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 1,
+      "reset_on_ageup": ""
+    },
+    "SealQualified": {
+      "key": "SealQualified",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 1,
+      "reset_on_ageup": ""
+    },
+    "Deployments": {
+      "key": "Deployments",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 1000000,
+      "reset_on_ageup": ""
+    },
+    "ScoutIntel": {
+      "key": "ScoutIntel",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 100,
+      "reset_on_ageup": ""
+    },
+    "Communications": {
+      "key": "Communications",
+      "type": "int",
+      "value": 20,
+      "minimum": 0,
+      "maximum": 100,
+      "reset_on_ageup": ""
+    },
+    "Medals": {
+      "key": "Medals",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 1000000,
+      "reset_on_ageup": ""
+    },
+    "SpecialForces": {
+      "key": "SpecialForces",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 2,
+      "reset_on_ageup": ""
+    },
+    "MCMAP": {
+      "key": "MCMAP",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 100,
+      "reset_on_ageup": ""
+    },
+    "NativeMilitaryImpact": {
+      "key": "NativeMilitaryImpact",
+      "type": "int",
+      "value": 0,
+      "minimum": -3,
+      "maximum": 3,
+      "reset_on_ageup": ""
+    },
+    "airStage": {
+      "key": "airStage",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 4,
+      "reset_on_ageup": ""
+    },
+    "airScore": {
+      "key": "airScore",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 3,
+      "reset_on_ageup": ""
+    },
+    "airBest": {
+      "key": "airBest",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 3,
+      "reset_on_ageup": ""
+    },
+    "navyStage": {
+      "key": "navyStage",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 4,
+      "reset_on_ageup": ""
+    },
+    "navyScore": {
+      "key": "navyScore",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 3,
+      "reset_on_ageup": ""
+    },
+    "navyBest": {
+      "key": "navyBest",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 3,
+      "reset_on_ageup": ""
+    },
+    "marinesStage": {
+      "key": "marinesStage",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 4,
+      "reset_on_ageup": ""
+    },
+    "marinesScore": {
+      "key": "marinesScore",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 3,
+      "reset_on_ageup": ""
+    },
+    "marinesBest": {
+      "key": "marinesBest",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 3,
+      "reset_on_ageup": ""
+    },
+    "armyStage": {
+      "key": "armyStage",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 4,
+      "reset_on_ageup": ""
+    },
+    "armyScore": {
+      "key": "armyScore",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 3,
+      "reset_on_ageup": ""
+    },
+    "armyBest": {
+      "key": "armyBest",
+      "type": "int",
+      "value": 0,
+      "minimum": 0,
+      "maximum": 3,
+      "reset_on_ageup": ""
+    }
+  }
+}

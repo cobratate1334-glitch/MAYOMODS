@@ -1,0 +1,42 @@
+{
+  "binary_sha256": "2ccd442cde826fbad1318fccd93811b656caf65c6cdd39160c8034fa5bfda615",
+  "patreon": "https://patreon.com/mayomods",
+  "discord": "https://discord.gg/zVsR7ZzGrn",
+  "existing_stock_Mod_menu_ButtonLink_used": true,
+  "only_main_mods_container": true,
+  "obsolete_Telegram_popup_retired": true,
+  "string_identifiers_remain_sorted": true,
+  "all_DEX_identifiers_and_native_bindings_preserved": true,
+  "prefix_units": 32,
+  "link_method_index": 439,
+  "feature_method_index": 471,
+  "patches": [
+    {
+      "method": [
+        "Lcom/android/support/Menu;",
+        "featureList",
+        "([Ljava/lang/String;Landroid/widget/LinearLayout;)V"
+      ],
+      "original_sha256": "eb9dcacc1f564e7b018710f51b73ea9f42847bcd25458644d8ffd93cef8e08ad",
+      "binary_sha256": "583e014689b583a0bb4b68669b8efe1ca6a9cf04e1638d229cdd1cdaa0af915a",
+      "delta_bytes": 64,
+      "exact_inverse_verified": true,
+      "other_method_bodies_and_identifiers_preserved": true,
+      "modified_method_debug_removed": true
+    },
+    {
+      "method": [
+        "Lcom/android/support/Menu;",
+        "ShowTelegramNotice",
+        "()Z"
+      ],
+      "original_sha256": "583e014689b583a0bb4b68669b8efe1ca6a9cf04e1638d229cdd1cdaa0af915a",
+      "binary_sha256": "2ccd442cde826fbad1318fccd93811b656caf65c6cdd39160c8034fa5bfda615",
+      "delta_bytes": -820,
+      "exact_inverse_verified": true,
+      "other_method_bodies_and_identifiers_preserved": true,
+      "modified_method_debug_removed": true
+    }
+  ],
+  "Android_runtime_tested": false
+}

@@ -1,0 +1,9 @@
+key,type,value,reset_on_ageup,minimum,maximum
+Sessions,int,0,true,0,8
+Knowledge,int,20,,0,100
+Confidence,int,20,,0,100
+Teamwork,int,20,,0,100
+Projects,int,0,,0,1000000
+QuizStage,int,0,,0,100
+QuizScore,int,0,,0,100
+QuizBest,int,0,,0,100

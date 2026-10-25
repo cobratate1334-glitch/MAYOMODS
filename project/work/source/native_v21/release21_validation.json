@@ -1,0 +1,21 @@
+{
+  "arm64_cases": 426,
+  "binary_sha256": "c532b23345ab95240d380f64ff8f3cc53d57987591bf5847a46806b3e4f7d7ed",
+  "new_life_native_buttons": true,
+  "no_start_interception": true,
+  "writable_settings_and_GC_handles": true,
+  "birth_and_age_growth": true,
+  "native_profile_measurements_visible": true,
+  "retired_school_seasons": true,
+  "direct_relationship_details": true,
+  "actual_friendship_duration": true,
+  "quiet_incidental_death_notices": true,
+  "local_owned_home_damage_only": true,
+  "transparent_video_scoped": true,
+  "all_extended_school_icons": true,
+  "aslr_biases": [
+    0,
+    68719476736
+  ],
+  "device_runtime_tested": false
+}

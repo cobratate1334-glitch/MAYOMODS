@@ -1,0 +1,97 @@
+{
+  "ListID": "genesis_v7_job_learning_support_officer",
+  "Title": "LEARNING SUPPORT OFFICER PROJECTS",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Project Dashboard",
+      "Icon": "hammer",
+      "SecondLine": "Completed: <GFC.job_learning_support_officer.Projects>",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_learning_support_officer:NativeCareerSync:=1>>scenario.careersV7.job_learning_support_officerdeliver",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "BarGraph": {
+        "Title": "Quality",
+        "Value": "<GFC.job_learning_support_officer.Quality>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v9_genesis_v7_job_learning_support_officer_0"
+    },
+    {
+      "Title": "Prepare a support plan",
+      "Icon": "calendar",
+      "SecondLine": "Project stage 1",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_learning_support_officer:NativeCareerSync:=1>>scenario.careersV7.job_learning_support_officer1",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_learning_support_officer_1"
+    },
+    {
+      "Title": "Coordinate classroom adjustments",
+      "Icon": "book",
+      "SecondLine": "Project stage 2",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_learning_support_officer:NativeCareerSync:=1>>scenario.careersV7.job_learning_support_officer2",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_learning_support_officer_2"
+    },
+    {
+      "Title": "Review student progress",
+      "Icon": "clipboard",
+      "SecondLine": "Project stage 3",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_learning_support_officer:NativeCareerSync:=1>>scenario.careersV7.job_learning_support_officer3",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_learning_support_officer_3"
+    },
+    {
+      "Title": "Submit and Review",
+      "Icon": "chart-bar",
+      "SecondLine": "Turn project progress into job performance",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=job_learning_support_officer:NativeCareerSync:=1>>scenario.careersV7.job_learning_support_officerdeliver",
+              "ScenarioFile": "genesis_careers_v7"
+            }
+          ]
+        }
+      ],
+      "TileID": "v9_genesis_v7_job_learning_support_officer_4"
+    }
+  ]
+}

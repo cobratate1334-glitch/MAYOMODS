@@ -1,0 +1,11 @@
+key,type,value,reset_on_ageup,minimum,maximum
+Stage,int,0,,0,3
+Quality,int,0,,0,100
+Skill,int,20,,0,100
+Projects,int,0,,0,1000000
+WorkUsed,int,0,true,0,6
+LastDoneAge,int,-1,,-1,999
+NativeWorkImpact,int,0,,-3,3
+ExpectedCareer,string,Technical Writer,,,
+Active,int,1,,0,1
+NativeCareerSync,int,0,,0,1

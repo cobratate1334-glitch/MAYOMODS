@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "arm64_cases": 432,
+  "binary_sha256": "1ca76ea9c4b7e187a9845ff2fb2361544bbcccf1e681ebe59b89fa2a87d6060f",
+  "all_nine_personality_choices_affect_game_attributes_at_birth": true,
+  "actual_SimPerson_getters_executed": true,
+  "effects_apply_once": true,
+  "existing_Profile_shows_measurements_and_personality": true,
+  "device_runtime_tested": false
+}

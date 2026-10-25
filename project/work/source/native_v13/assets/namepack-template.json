@@ -1,0 +1,20 @@
+{
+  "format": "bitlife-namepack",
+  "version": 1,
+  "id": "my_sports_names",
+  "name": "My Sports Names",
+  "author": "Player",
+  "team_names": {
+    "5001": "Harbour FC",
+    "5002": "Capital United"
+  },
+  "competition_names": {
+    "5000": "National Soccer League"
+  },
+  "cup_names": {
+    "champions": "Continental Champions",
+    "europa": "Continental Cup",
+    "conference": "Conference Trophy",
+    "world_cup": "Nations World Cup"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "apk": "/workspace/scratch/feb83fa3a2be/final/BitLife_Native_Activities_v16.apk",
+  "sha256": "89be86661928ecdd8b88a1f5286b513f5af64c89cbb470b484292626d1abbc75",
+  "size": 300785134,
+  "base_sha256": "cf9442ac5585cfe7db028412228b28bc72532323ad579aacfbed36d5c9a7e6a5",
+  "changed_apk_entries": [
+    "assets/bin/Data/datapack.unity3d",
+    "assets/bin/Data/data.unity3d",
+    "lib/arm64-v8a/libil2cpp.so"
+  ],
+  "graphics": {
+    "a16_emoji-v16-champions": {
+      "texture": 37319,
+      "sprite": 37320,
+      "source": "champions.png",
+      "source_sha256": "1ab7258d0f82e71524efd4dc493bfecb67925a4be281cb6f9ec7ce574dd11340",
+      "pixel_sha256": "5ab2f9a8cdf748ffc0f83d52537670079dc64fde1bd231d4a68caa12adee629e"
+    },
+    "a16_emoji-v12-europa": {
+      "texture": 36947,
+      "sprite": 36948,
+      "source": "europa.png",
+      "source_sha256": "d792b0c4318509f567b4a6b90fe6a2c66c9bda4f0a2b85996678fec62680facb",
+      "pixel_sha256": "481be3d9ea3b11197dafbff10a7eed3e00092e2278206fbd529fe91bebcb82d4"
+    },
+    "a16_emoji-v12-conference": {
+      "texture": 36949,
+      "sprite": 36950,
+      "source": "conference.png",
+      "source_sha256": "c8acaba7cb5253c165cf27f3b62078b57e416d298b6b55727398b39c06291de1",
+      "pixel_sha256": "8422c4a0463ce9d1d59aaee43c6c4edfc9a379e0b29e3c4d52b08992c7e4208a"
+    }
+  },
+  "menu_and_entry_icons_verified": true,
+  "original_gameplay_routes_preserved": true,
+  "unchanged_unity_objects": 37314,
+  "native_feedback_tests": {
+    "arm64_cases": 122,
+    "aslr_biases": [
+      0,
+      68719476736
+    ],
+    "opposition_scoring_actual_arm64": true,
+    "own_scoring_silent_actual_arm64": true,
+    "score_queue_actual_arm64": true,
+    "retained_hair_and_ranking_code_unchanged": true,
+    "binary_sha256": "bd0c21d3dbbc12e710b174d4c4551938512fb7a3b65fdd165ca15cfd472c2425",
+    "device_runtime_tested": false
+  },
+  "suppressed_own_score_entry_points": [
+    {
+      "va": 104380056,
+      "file_offset": 104314520,
+      "old": "x0, #0x63eb000",
+      "new_target": 104382764
+    },
+    {
+      "va": 104380328,
+      "file_offset": 104314792,
+      "old": "x0, #0x63eb000",
+      "new_target": 104382764
+    },
+    {
+      "va": 104380856,
+      "file_offset": 104315320,
+      "old": "x0, #0x63eb000",
+      "new_target": 104382764
+    },
+    {
+      "va": 104381212,
+      "file_offset": 104315676,
+      "old": "x0, #0x63eb000",
+      "new_target": 104382764
+    },
+    {
+      "va": 104381492,
+      "file_offset": 104315956,
+      "old": "x0, #0x63eb000",
+      "new_target": 104382764
+    },
+    {
+      "va": 104381784,
+      "file_offset": 104316248,
+      "old": "x0, #0x63eb000",
+      "new_target": 104382764
+    }
+  ],
+  "other_native_bytes_preserved": true,
+  "signing": {
+    "VerifyApk.java": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]",
+    "VerifyNativeSigner.java": "verified=true; actual APK signer matches native SHA-1 check; fingerprint=N3gA1+wRR7rLi+T23e/U4BZZu9Q="
+  },
+  "device_runtime_tested": false
+}

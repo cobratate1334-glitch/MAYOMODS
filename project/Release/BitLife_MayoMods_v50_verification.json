@@ -1,0 +1,471 @@
+{
+  "passed": true,
+  "version": "v50",
+  "versionCode": 1094,
+  "bytes": 369916679,
+  "sha256": "f1bba91bbc4059cd92dca49da85495e8ef44fb1b2853c87c99b81d6279798ccd",
+  "binary_sha256": "728562b275a81a67126039c6979c84aab77a652e40c36730fd7b91d88ec94405",
+  "base_v49_apk_sha256": "c48aa2c535b59d52e5da0fae1fb94ccc44ac089979ae935138b9ec7a3148f9b7",
+  "changed_entries": [
+    "AndroidManifest.xml",
+    "lib/arm64-v8a/libil2cpp.so",
+    "assets/bin/Data/datapack.unity3d",
+    "classes13.dex"
+  ],
+  "preserved_entries": 2774,
+  "other_22_native_libraries_byte_identical": true,
+  "existing_signer_retained": true,
+  "signature_verification": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]",
+  "zip_native_entry_alignment_16KB_verified": true,
+  "all_native_libraries_ELF_16KB_compatible": false,
+  "only_declared_native_edit_ranges": true,
+  "no_native_segment_growth": true,
+  "v48_crash_repair_retained": true,
+  "social_content_and_existing_tabs_preserved": true,
+  "atlanti_documents_imported": false,
+  "manifest_version": {
+    "previous": 1093,
+    "current": 1094,
+    "byte_offset": 33508,
+    "other_manifest_bytes_preserved": true
+  },
+  "validation": {
+    "native50": {
+      "passed": true,
+      "binary_sha256": "728562b275a81a67126039c6979c84aab77a652e40c36730fd7b91d88ec94405",
+      "checks": 8716,
+      "new_regression_checks": 2995,
+      "retained_appearance_checks": 5721,
+      "access_query_entries": 55,
+      "billing_methods_byte_identical": 410,
+      "v49_negative_control_reproduced": true,
+      "ASLR_bases": [
+        0,
+        68719476736
+      ],
+      "no_segment_growth": true,
+      "no_purchase_field_writes": true,
+      "physical_phone_tested": false,
+      "Unity_rendering_tested": false,
+      "managed_APIs_modeled": true
+    },
+    "content50": {
+      "passed": true,
+      "checks": 12028,
+      "assets": {
+        "datapack_sha256": "e81a8342990917a465a00e47b8e92fc5c9f0a274fc4a77cc8c9b85aa306b3b3b",
+        "data_sha256": "881d1af185b9a22658a49f7033221762b14d4a070c793b38a0983667335ca641"
+      },
+      "repaired_iris_paths": 480,
+      "repaired_genetic_variants": 36,
+      "changed_textures": 332,
+      "unchanged_Unity_objects": 39470,
+      "sprites_preserved": 9484,
+      "resources_bundle_byte_identical": true,
+      "actual_native_pupil_highlight_composites": true,
+      "physical_phone_tested": false,
+      "Unity_rendering_tested": false
+    },
+    "retained50": {
+      "passed": true,
+      "binary_sha256": "728562b275a81a67126039c6979c84aab77a652e40c36730fd7b91d88ec94405",
+      "checks": 15319,
+      "reports": {
+        "native47": {
+          "passed": true,
+          "checks": 751,
+          "binary_sha256": "728562b275a81a67126039c6979c84aab77a652e40c36730fd7b91d88ec94405",
+          "native_post_channels": 8,
+          "custom_post_channels": 2,
+          "pack_records": 17955,
+          "real_native_String_Concat_executed": true,
+          "aslr_biases": [
+            0,
+            68719476736
+          ],
+          "volatile_registers_clobbered": true,
+          "saved_threads_reloaded": true,
+          "bounded_history": 24,
+          "stale_clicks_rejected": true,
+          "physical_phone_tested": false,
+          "Unity_rendering_tested": false
+        },
+        "native46": {
+          "passed": true,
+          "binary_sha256": "728562b275a81a67126039c6979c84aab77a652e40c36730fd7b91d88ec94405",
+          "checks": 841,
+          "ASLR_bases": [
+            0,
+            68719476736
+          ],
+          "native_ScenarioBase_choice_entries_tested": true,
+          "all_dealer_buttons_navigate": true,
+          "native_car_column_bounds_negative_control": true,
+          "region_country_register_negative_control": true,
+          "native_theme_Color_ABI_checked": true,
+          "modeled_boundaries": [
+            "Unity rendering and prefab allocation",
+            "managed APIs",
+            "Genesis scenario loader/list presentation",
+            "bank adjustment"
+          ],
+          "full_Unity_engine_tested": false,
+          "physical_device_tested": false
+        },
+        "native45": {
+          "passed": true,
+          "binary_sha256": "728562b275a81a67126039c6979c84aab77a652e40c36730fd7b91d88ec94405",
+          "arm64_checks": 8934,
+          "ASLR_bases": [
+            0,
+            68719476736
+          ],
+          "new_car_models": 40,
+          "new_house_types": 8,
+          "new_sprite_routes": 17,
+          "native_finance_and_owned_lookups_unchanged": true,
+          "modeled_boundaries": [
+            "Genesis storage",
+            "Unity Resources.Load<Sprite>",
+            "native car/house lookup"
+          ],
+          "physical_device_tested": false,
+          "Unity_rendering_tested": false
+        },
+        "native44": {
+          "passed": true,
+          "binary_sha256": "728562b275a81a67126039c6979c84aab77a652e40c36730fd7b91d88ec94405",
+          "arm64_checks": 1330,
+          "ASLR_biases": [
+            0,
+            68719476736
+          ],
+          "all_27_purchase_and_equip_paths": true,
+          "era_boundaries_and_rotating_stock": true,
+          "atomic_funds_and_duplicate_purchase_guards": true,
+          "independent_slots_and_three_outfits": true,
+          "preview_excluded_from_saved_outfit": true,
+          "starting_year_native_picker": true,
+          "serialized_save_reload_fixture": true,
+          "Unity_managed_APIs_and_bank_implementation_mocked": true,
+          "physical_device_tested": false
+        },
+        "native43": {
+          "passed": true,
+          "binary_sha256": "728562b275a81a67126039c6979c84aab77a652e40c36730fd7b91d88ec94405",
+          "arm64_checks": 2212,
+          "ASLR_biases": [
+            0,
+            68719476736
+          ],
+          "all_360_styles_shuffled_actual_component_lists": true,
+          "missing_ID_negative_control": true,
+          "cache_recovery_and_idempotence": true,
+          "custom_clone_tint_preservation": true,
+          "all_15_picker_choices": true,
+          "Unity_and_managed_string_implementation_mocked": true,
+          "physical_device_tested": false
+        },
+        "native34": {
+          "binary_sha256": "728562b275a81a67126039c6979c84aab77a652e40c36730fd7b91d88ec94405",
+          "arm64_cases": 1082,
+          "aslr_biases": [
+            0,
+            68719476736
+          ],
+          "actual_Action_Invoke_executed": true,
+          "real_ELF_RW_and_BSS_initial_contents_loaded": true,
+          "actual_return_hook_and_RefreshSetup_executed": true,
+          "all_293_choices_executed": true,
+          "six_fields_directly_in_New_Life": true,
+          "stock_rounded_selector_prefab_and_scroller": true,
+          "short_labels": true,
+          "rapid_repeat_edits_and_stale_Actions_checked": true,
+          "same_controller_close_reopen_checked": true,
+          "all_UI_GC_roots_released_on_dismiss_and_birth": true,
+          "existing_genetic_engine_and_baby_growth_preserved": true,
+          "stock_Start_methods_unhooked": true,
+          "Unity_prefabs_collections_and_transition_timing_modeled": true,
+          "device_runtime_tested": false,
+          "BlueStacks_runtime_tested": false
+        },
+        "gameplay41_native": {
+          "passed": true,
+          "arm64_checks": 93,
+          "binary_sha256": "728562b275a81a67126039c6979c84aab77a652e40c36730fd7b91d88ec94405",
+          "test_sha256": "56ffbc2dcacf0cc8a3b367c61e0afd3413096f9a6a69d75dc288ad27b9411962",
+          "real_prison_conduct_instructions_executed": true,
+          "arrest_creation_and_Unity_UI_mocked": true,
+          "parole_board_matches_disassembled_stock_thresholds": true,
+          "checkin_warrant_and_expiry_checked": true,
+          "aslr_biases": [
+            0,
+            68719476736
+          ],
+          "device_runtime_tested": false
+        },
+        "retained40": {
+          "passed": true,
+          "retained_arm64_behavior_checks": 76,
+          "binary_sha256": "728562b275a81a67126039c6979c84aab77a652e40c36730fd7b91d88ec94405",
+          "old_career_and_sentencing_cases_retained": true,
+          "Unity_and_allocation_mocked": true,
+          "device_runtime_tested": false
+        }
+      },
+      "comparison_input": "pinned released v49",
+      "physical_phone_tested": false,
+      "Unity_rendering_tested": false
+    },
+    "diagnostics50": {
+      "passed": true,
+      "sha256": "8ffb043e1996b07da0ce65532ee140f4ca867db1b765c96463740dac8d498a5c",
+      "version_strings": [
+        {
+          "index": 165,
+          "offset": 41726,
+          "before": "Build: MayoMods v49; app: ",
+          "after": "Build: MayoMods v50; app: "
+        },
+        {
+          "index": 730,
+          "offset": 59754,
+          "before": "MayoMods v49 \u2014 Android crash record\n\n",
+          "after": "MayoMods v50 \u2014 Android crash record\n\n"
+        },
+        {
+          "index": 731,
+          "offset": 59795,
+          "before": "MayoMods v49 \u2014 local crash diagnostics\n\nLAST RECORDED CRASH / ERROR\n",
+          "after": "MayoMods v50 \u2014 local crash diagnostics\n\nLAST RECORDED CRASH / ERROR\n"
+        },
+        {
+          "index": 732,
+          "offset": 59867,
+          "before": "MayoMods v49 \u2014 recorded error\n",
+          "after": "MayoMods v50 \u2014 recorded error\n"
+        },
+        {
+          "index": 733,
+          "offset": 59901,
+          "before": "MayoMods-v49-crash-",
+          "after": "MayoMods-v50-crash-"
+        },
+        {
+          "index": 762,
+          "offset": 60739,
+          "before": "Native launch v49; packaged ABI: arm64-v8a; process: ",
+          "after": "Native launch v50; packaged ABI: arm64-v8a; process: "
+        },
+        {
+          "index": 775,
+          "offset": 61045,
+          "before": "New Life & Crash Diagnostics \u00b7 v49",
+          "after": "New Life & Crash Diagnostics \u00b7 v50"
+        }
+      ],
+      "every_Dex_method_byte_identical": true,
+      "exact_inverse_verified": true
+    },
+    "compatibility50": {
+      "passed": true,
+      "abis": [
+        "arm64-v8a"
+      ],
+      "minSdkVersion": 25,
+      "targetSdkVersion": 35,
+      "required_features": [
+        {
+          "glEsVersion": 196608
+        },
+        {
+          "name": "android.hardware.touchscreen",
+          "required": false
+        },
+        {
+          "name": "android.hardware.touchscreen.multitouch",
+          "required": false
+        },
+        {
+          "name": "android.hardware.touchscreen.multitouch.distinct",
+          "required": false
+        }
+      ],
+      "native_libraries": [
+        {
+          "name": "lib/arm64-v8a/libRocketGames.so",
+          "sha256": "89e181eae98c44623c40f2732e8c0a899fa318b907576daf588159121b6764cb",
+          "machine": "EM_AARCH64",
+          "minimum_load_alignment": 16384,
+          "offsets_congruent_16KB": true
+        },
+        {
+          "name": "lib/arm64-v8a/libRocketGamesTool.so",
+          "sha256": "b906d287ea300bc45f4bbc5de1826b96f683bc6c1f9742cae2b9af619506691f",
+          "machine": "EM_AARCH64",
+          "minimum_load_alignment": 16384,
+          "offsets_congruent_16KB": true
+        },
+        {
+          "name": "lib/arm64-v8a/libil2cpp.so",
+          "sha256": "d17f9a0b9c68eb67226640d1a92ad1b834edfeec352408cebfc41d966e78959a",
+          "machine": "EM_AARCH64",
+          "minimum_load_alignment": 16384,
+          "offsets_congruent_16KB": true
+        },
+        {
+          "name": "lib/arm64-v8a/libAsyncGPUReadbackPlugin.so",
+          "sha256": "7ceb04c6c42668e403e2607d34df1f129a003640ec93efcf2250f2762be98083",
+          "machine": "EM_AARCH64",
+          "minimum_load_alignment": 4096,
+          "offsets_congruent_16KB": false
+        },
+        {
+          "name": "lib/arm64-v8a/libapplovin-native-crash-reporter.so",
+          "sha256": "ecf2a7327be482870f4c791392a50cecfeaabb2c76a7224898e9713a18c4c36a",
+          "machine": "EM_AARCH64",
+          "minimum_load_alignment": 16384,
+          "offsets_congruent_16KB": true
+        },
+        {
+          "name": "lib/arm64-v8a/libmain.so",
+          "sha256": "ea04624f7afb2a4e426ddb8215651100c5c1d04456c2b9ca533cba943d2666e8",
+          "machine": "EM_AARCH64",
+          "minimum_load_alignment": 16384,
+          "offsets_congruent_16KB": true
+        },
+        {
+          "name": "lib/arm64-v8a/libcrashlytics-common.so",
+          "sha256": "db3c33bc6e1c0d049466280c32bd7419f9708f53ca8f5f95d584ef281996918f",
+          "machine": "EM_AARCH64",
+          "minimum_load_alignment": 16384,
+          "offsets_congruent_16KB": true
+        },
+        {
+          "name": "lib/arm64-v8a/libunity.so",
+          "sha256": "8275e81f19c467314182c43aa6e3e90d6bc43c8fe76c437fe5ed7cc9fb9ac024",
+          "machine": "EM_AARCH64",
+          "minimum_load_alignment": 16384,
+          "offsets_congruent_16KB": true
+        },
+        {
+          "name": "lib/arm64-v8a/libcrashlytics.so",
+          "sha256": "cad4bd6e1a6fb97cea9d02ac3f2c9c0e90c62064f7b018cf26b0a806e1489b6e",
+          "machine": "EM_AARCH64",
+          "minimum_load_alignment": 16384,
+          "offsets_congruent_16KB": true
+        },
+        {
+          "name": "lib/arm64-v8a/libcrashlytics-trampoline.so",
+          "sha256": "811584e54eed37e92c84beb6c66c12bc6cfaa864c53db2bbb96878d95b516d60",
+          "machine": "EM_AARCH64",
+          "minimum_load_alignment": 16384,
+          "offsets_congruent_16KB": true
+        },
+        {
+          "name": "lib/arm64-v8a/libFirebaseCppCrashlytics.so",
+          "sha256": "9dae132e917d17e3415de3752e4c2860f5b9f3e0b5370e4a76237771536493bd",
+          "machine": "EM_AARCH64",
+          "minimum_load_alignment": 16384,
+          "offsets_congruent_16KB": true
+        },
+        {
+          "name": "lib/arm64-v8a/libFirebaseCppMessaging.so",
+          "sha256": "7d5a37744d6796eaecb5eaa09be8732b70f35f098c60819956b8718bbafca9e9",
+          "machine": "EM_AARCH64",
+          "minimum_load_alignment": 16384,
+          "offsets_congruent_16KB": true
+        },
+        {
+          "name": "lib/arm64-v8a/libFirebaseCppApp-12_10_1.so",
+          "sha256": "eb2beed5455cabddb5833165b3d9e1a77b78acf6625449ad5edf2f3b1cd1d776",
+          "machine": "EM_AARCH64",
+          "minimum_load_alignment": 16384,
+          "offsets_congruent_16KB": true
+        },
+        {
+          "name": "lib/arm64-v8a/libquickjs.so",
+          "sha256": "535a179c2aafaad2e653b4f4944fe095eface9cc157897248f8b65f06ed3a9af",
+          "machine": "EM_AARCH64",
+          "minimum_load_alignment": 16384,
+          "offsets_congruent_16KB": true
+        },
+        {
+          "name": "lib/arm64-v8a/libGadsmeAndroidPlugin.so",
+          "sha256": "3a774ffab25a3673e9e944fedc1091b239cccb4572b8b58e80f0bf8bec8940a3",
+          "machine": "EM_AARCH64",
+          "minimum_load_alignment": 16384,
+          "offsets_congruent_16KB": true
+        },
+        {
+          "name": "lib/arm64-v8a/libFirebaseCppAnalytics.so",
+          "sha256": "fb1cfd21c9da0580ab4b9c3c39fc55cc5cac79d5998f66e94b7a16fd14c34e94",
+          "machine": "EM_AARCH64",
+          "minimum_load_alignment": 16384,
+          "offsets_congruent_16KB": true
+        },
+        {
+          "name": "lib/arm64-v8a/libembrace-native.so",
+          "sha256": "ac087790662b455f24cdcf72542891823bcb8ce3d9dc143f3960957aa55ce36f",
+          "machine": "EM_AARCH64",
+          "minimum_load_alignment": 16384,
+          "offsets_congruent_16KB": true
+        },
+        {
+          "name": "lib/arm64-v8a/libdatastore_shared_counter.so",
+          "sha256": "d3e48717c9aa147e0ab21063ba0e8e0211cabf8bf40b222640829519edbf58e1",
+          "machine": "EM_AARCH64",
+          "minimum_load_alignment": 16384,
+          "offsets_congruent_16KB": true
+        },
+        {
+          "name": "lib/arm64-v8a/libquack.so",
+          "sha256": "d31ec32443fe7e57a08cbd10534def7c3943f9a9df8fb97aa25d945189b34b4b",
+          "machine": "EM_AARCH64",
+          "minimum_load_alignment": 16384,
+          "offsets_congruent_16KB": true
+        },
+        {
+          "name": "lib/arm64-v8a/libcrashlytics-handler.so",
+          "sha256": "810521d2e125c4f87a8bd5fa70e73877dd832494acac9e9f86734258f359935f",
+          "machine": "EM_AARCH64",
+          "minimum_load_alignment": 16384,
+          "offsets_congruent_16KB": true
+        },
+        {
+          "name": "lib/arm64-v8a/libBufferToPointer.so",
+          "sha256": "f6bf1b9423aa369b8298efa8bf621f3341292dfd095aa65687970b8c1a198689",
+          "machine": "EM_AARCH64",
+          "minimum_load_alignment": 16384,
+          "offsets_congruent_16KB": true
+        },
+        {
+          "name": "lib/arm64-v8a/libpairipcore.so",
+          "sha256": "efd8c1d390215bd8cfce141635cd167a3ac8b0a7aa527018ffe09585728be408",
+          "machine": "EM_AARCH64",
+          "minimum_load_alignment": 16384,
+          "offsets_congruent_16KB": true
+        },
+        {
+          "name": "lib/arm64-v8a/libmayo21.so",
+          "sha256": "8ef7dfa64e841a459b3d4b341196d7215a9b2bf922a51d4e0f616c9c39d4c925",
+          "machine": "EM_AARCH64",
+          "minimum_load_alignment": 16384,
+          "offsets_congruent_16KB": true
+        }
+      ],
+      "universal_android_build": false,
+      "ARM32_engine_present": false,
+      "x86_engine_present": false,
+      "known_16KB_alignment_limit": [
+        "lib/arm64-v8a/libAsyncGPUReadbackPlugin.so"
+      ],
+      "manifest_compatibility_requirements_unchanged": true,
+      "physical_device_matrix_tested": false,
+      "policy": "Keep real engine requirements; do not advertise unsupported ABIs or lower SDK without matching native engines."
+    }
+  },
+  "physical_phone_tested": false,
+  "ART_tested": false,
+  "Unity_rendering_tested": false
+}

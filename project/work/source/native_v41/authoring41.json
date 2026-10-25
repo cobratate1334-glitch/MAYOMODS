@@ -1,0 +1,27 @@
+{
+  "new_scenarios": 31,
+  "repaired_legacy_scene_ids": [
+    "scenario.careersV7.prison_plus_v7refresh",
+    "scenario.careersV7.prison_plus_v7education",
+    "scenario.careersV7.prison_plus_v7therapy",
+    "scenario.careersV7.prison_plus_v7mediation",
+    "scenario.careersV7.prison_plus_v7work",
+    "scenario.careersV7.prison_plus_v7support",
+    "scenario.careersV7.prison_plus_v7certificate",
+    "scenario.careersV7.prison_plus_v7parole",
+    "scenario.activitiesV11.parole_status",
+    "scenario.activitiesV11.parole_inactive",
+    "scenario.activitiesV11.parole_checkin",
+    "scenario.activitiesV11.parole_checked",
+    "scenario.activitiesV11.parole_study",
+    "scenario.activitiesV11.parole_routine",
+    "scenario.activitiesV11.parole_exercise",
+    "scenario.activitiesV11.parole_done"
+  ],
+  "rehabilitation_sessions_per_age": 6,
+  "home_sessions_per_age": 3,
+  "original_list_identities_retained": true,
+  "successful_native_release_required": true,
+  "missed_checkin_queues_warrant": true,
+  "warrant_resolution_uses_native_arrest": true
+}

@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "arm64_cases": 224,
+  "binary_sha256": "99d70c773b40587f2b6fb357308f57e1ed0a143ad4661a90bc328cffc2cf2374",
+  "v32_negative_controls": [
+    {
+      "aslr_bias": 0,
+      "stock_main_menu_entry_skips_custom_life_reset": true,
+      "modeled_pending_transition_refused": true
+    },
+    {
+      "aslr_bias": 68719476736,
+      "stock_main_menu_entry_skips_custom_life_reset": true,
+      "modeled_pending_transition_refused": true
+    }
+  ],
+  "aslr_biases": [
+    0,
+    68719476736
+  ],
+  "actual_main_menu_action_1_tail_and_full_ShowDarklyWithScenario_executed": true,
+  "stock_save_confirmation_and_Start_unchanged": true,
+  "repeated_age_zero_and_deceased_entry_clears_cached_screens_and_pending_state": true,
+  "unrelated_scenarios_untouched": true,
+  "prefab_creation_rendering_and_transition_scheduling_modeled": true,
+  "video_sequence_inspected": true,
+  "exact_recorded_device_state_not_recovered": true,
+  "device_runtime_tested": false
+}

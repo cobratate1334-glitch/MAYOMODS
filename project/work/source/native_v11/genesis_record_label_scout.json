@@ -1,0 +1,114 @@
+{
+  "ListID": "genesis_record_label_scout",
+  "Title": "SCOUT ARTISTS",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Nova Reed",
+      "Icon": "hero",
+      "SecondLine": "Pop · <GFC.music_studio.Artist1Fans> listeners",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.label1Scout",
+              "ScenarioFile": "genesis_record_label"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.Artist1Years=0]",
+      "BarGraph": {
+        "Title": "Skill",
+        "Value": "<GFC.music_studio.Artist1Skill>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v11_genesis_record_label_scout_0"
+    },
+    {
+      "Title": "Miles Echo",
+      "Icon": "hero",
+      "SecondLine": "Hip-hop · <GFC.music_studio.Artist2Fans> listeners",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.label2Scout",
+              "ScenarioFile": "genesis_record_label"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.Artist2Years=0]",
+      "BarGraph": {
+        "Title": "Skill",
+        "Value": "<GFC.music_studio.Artist2Skill>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v11_genesis_record_label_scout_1"
+    },
+    {
+      "Title": "Avery Static",
+      "Icon": "hero",
+      "SecondLine": "Electronic · <GFC.music_studio.Artist3Fans> listeners",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.label3Scout",
+              "ScenarioFile": "genesis_record_label"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.Artist3Years=0]",
+      "BarGraph": {
+        "Title": "Skill",
+        "Value": "<GFC.music_studio.Artist3Skill>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v11_genesis_record_label_scout_2"
+    },
+    {
+      "Title": "Jules Harbor",
+      "Icon": "hero",
+      "SecondLine": "Indie · <GFC.music_studio.Artist4Fans> listeners",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.musicStudio.label4Scout",
+              "ScenarioFile": "genesis_record_label"
+            }
+          ]
+        }
+      ],
+      "IsVisible": "[gfc.music_studio.Artist4Years=0]",
+      "BarGraph": {
+        "Title": "Skill",
+        "Value": "<GFC.music_studio.Artist4Skill>",
+        "Style": "LOW_IS_RED"
+      },
+      "TileID": "v11_genesis_record_label_scout_3"
+    },
+    {
+      "Title": "Back to Music Studio",
+      "Icon": "mic-studio",
+      "TileID": "v11_back_genesis_record_label_scout",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ListID": "genesis_music_studio_hub"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

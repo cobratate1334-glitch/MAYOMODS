@@ -1,0 +1,204 @@
+{
+  "version": "v28",
+  "apk": "/workspace/scratch/feb83fa3a2be/deliverables/BitLife_MayoMods_v28.apk",
+  "size": 307340760,
+  "sha256": "b3c62262468e025b179f3293585867d30e634d3e7730d0a4645cb0a37195d751",
+  "versionCode": 1072,
+  "base_sha256": "82c5d1ae84d1ebf94aea511291fcfed1ab818c5df4fda01a7a0b6ce6a93abfb2",
+  "manifest_version": {
+    "previous": 1071,
+    "current": 1072,
+    "byte_offset": 33508,
+    "other_manifest_bytes_preserved": true
+  },
+  "changed_apk_entries": [
+    "lib/arm64-v8a/libRocketGames.so",
+    "classes10.dex",
+    "AndroidManifest.xml",
+    "lib/arm64-v8a/libil2cpp.so",
+    "classes13.dex"
+  ],
+  "preserved_apk_entries": 2770,
+  "existing_signer_retained": true,
+  "signing": {
+    "VerifyApk.java": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]",
+    "VerifyNativeSigner.java": "verified=true; actual APK signer matches native SHA-1 check; fingerprint=N3gA1+wRR7rLi+T23e/U4BZZu9Q="
+  },
+  "stock_Start_methods_unhooked": true,
+  "classes12_and_JNI_byte_for_byte_preserved": true,
+  "all_Unity_bundles_and_existing_content_byte_for_byte_preserved": true,
+  "IL2CPP_executable_segments_byte_for_byte_preserved": true,
+  "native_gate_dependency_and_security_checks_preserved": true,
+  "startup_recovery_exception_type": "java.lang.LinkageError",
+  "startup_recovery_only_around_legacy_launcher": true,
+  "normal_legacy_launcher_path_preserved": true,
+  "recovered_load_error_checkpoint_in_LOG": true,
+  "ELF_program_headers_in_first_load_segment": true,
+  "native_libraries_with_16KB_APK_alignment": 1,
+  "diagnostic_build_heading": "MayoMods v28",
+  "checks": {
+    "dex10_validation.json": {
+      "original_sha256": "731d103ef574168ace28aa2e32080dc6af69bea63d287ad355e92862d7c40815",
+      "binary_sha256": "12b478ba3a4740fccea18d68630e6b8097d1165ab571a7c3846375eb66a2bd19",
+      "changed_method": "UnityPlayerActivity.onCreate(Bundle)",
+      "method_index": 46459,
+      "unchanged_methods": 56234,
+      "code_offset": 7871692,
+      "old_units": 85,
+      "new_units": 107,
+      "delta_bytes": 60,
+      "legacy_invoke_pc": 85,
+      "resume_pc": 8,
+      "handler_pc": 91,
+      "catch_type": "java.lang.LinkageError",
+      "catch_span_units": 3,
+      "strings_types_protos_method_ids_preserved": true,
+      "all_other_method_bodies_preserved": true,
+      "Context_and_Bundle_registers_preserved": true,
+      "offsets_relocated": 22231,
+      "exact_inverse_verified": true,
+      "recovered_error_saved_as_flushed_checkpoint": true
+    },
+    "dex13_validation.json": {
+      "original_sha256": "809ed83358efd9086b7e0ca3e7ed318ac4abbbc78c1c9be9ebe1274782e3e9b4",
+      "binary_sha256": "b69ab2ea9ab34380fd4b864339aac753c2b83e62766d0948356b95a14dac9ed4",
+      "only_equal_width_build_labels_and_DEX_checksums_changed": true,
+      "changed_string_ids": [
+        116,
+        485,
+        486,
+        487,
+        511
+      ],
+      "all_code_items_and_offsets_preserved": true,
+      "string_sorting_preserved": true,
+      "source_sha256": {
+        "CrashJournal.java": "eb6754094691d01fa78af67ef599894bc9e40c342f933db297ed0af04a80e9ca",
+        "DiagnosticsUI.java": "71a37e5a32a04c7bc985fd8c23a693116ecceff739c97f18f7fc05c9ac30a1e4",
+        "FloatingDisplay.java": "e2b9cf79ad7a5e2771ce8a46fcde328fe2fe58c8321e767034863d9475e51938",
+        "LauncherIcon.java": "e477cff047112c1738c108795c29c1d017170ce2b355a00efa3516411a134b5c",
+        "LifeSetupUI.java": "23a9a8eb150109d282b2db6b415b0f720ad97f70e710bcc89ad44af000d220da",
+        "NativeCrashReader.java": "d1f65f068a3cdcfea680643e718fadc176ded0620516e83cfbef8f45c529e214",
+        "RuntimeLogCapture.java": "0b7f004d410374187fbfa7042aee352b12f0d0a72faf498c8ee19f610f575055",
+        "RuntimeLogStore.java": "de56e8487c445178ab48d57ecfa4d4e896299d8da463893577bf3adea7c612fc",
+        "StartupActivity.java": "5b08dae25731f406cc07fa466a09dad2e799d74a1b9d2612848a0dc39ba0ef88",
+        "StartupProbe.java": "d9afdf21c5a584dbad20d1d3a6097d9820dba87d129dc23b0eba5542796222b2",
+        "TombstoneReader.java": "b7896e9707f45f751c463a13b19a6898067a5c167de996afb62e40b95faa24bb"
+      }
+    },
+    "compat28_validation.json": {
+      "passed": true,
+      "binary_sha256": "12b478ba3a4740fccea18d68630e6b8097d1165ab571a7c3846375eb66a2bd19",
+      "original_sha256": "731d103ef574168ace28aa2e32080dc6af69bea63d287ad355e92862d7c40815",
+      "bytecode_cases": 13,
+      "cases": [
+        "Successful legacy startup preserves original calls and Bundle/Context",
+        "Original bytecode reproduces reported dlopen failure before Unity",
+        "UnsatisfiedLinkError recovery persists full trace and continues to Unity view attachment",
+        "NoClassDefFoundError recovery persists full trace and continues to Unity view attachment",
+        "ExceptionInInitializerError recovery persists full trace and continues to Unity view attachment",
+        "VerifyError recovery persists full trace and continues to Unity view attachment",
+        "ClassFormatError recovery persists full trace and continues to Unity view attachment",
+        "IncompatibleClassChangeError recovery persists full trace and continues to Unity view attachment",
+        "LinkageError recovery persists full trace and continues to Unity view attachment",
+        "RuntimeException at legacy remains uncaught by recovery",
+        "OutOfMemoryError at legacy remains uncaught by recovery",
+        "LinkageError at Unity remains uncaught by recovery",
+        "RuntimeException at Unity remains uncaught by recovery"
+      ],
+      "independently_parsed_classes": 8780,
+      "unchanged_code_items": 52388,
+      "identifiers_class_metadata_and_other_methods_preserved": true,
+      "exception_range_only_covers_legacy_launcher": true,
+      "exception_table_and_branches_valid": true,
+      "actual_Dalvik_instructions_executed": true,
+      "Android_and_Unity_boundaries_modeled": true,
+      "recovered_checkpoint_trace_limit_chars": 1800,
+      "ART_verifier_tested": false,
+      "BlueStacks_runtime_tested": false
+    },
+    "elf28_validation.json": {
+      "passed": true,
+      "libraries": [
+        {
+          "name": "libRocketGames.so",
+          "original_sha256": "ade09ea258a60b80f478e20604c94ba815b2030c870a5a9c521cad405495c3d7",
+          "binary_sha256": "4c076edb3e9d8cc44ef22b4e84985704abd5d56bb10ebccd5a26437c9db593ff",
+          "checks": [
+            "Complete program-header table maps in first load segment",
+            "4096-byte page mappings aligned and ordered; no new overlap",
+            "16384-byte page mappings aligned and ordered; no new overlap",
+            "Section payloads, symbols, relocations, notes and native instructions preserved",
+            "All native dependencies and strong gate import preserved",
+            "GNU/SysV dynamic export lookup retains original symbol addresses",
+            "PID gate instructions and pinned certificate check preserved"
+          ],
+          "export_lookups": 4066,
+          "changed_section_headers": [
+            ".note.android.ident",
+            ".note.gnu.build-id"
+          ]
+        },
+        {
+          "name": "libil2cpp.so",
+          "original_sha256": "afcc6862828983419dd77905dd742af96fb643d147375e2da38d8257aedc2434",
+          "binary_sha256": "0de74cd351ec22dfe6220b4dd0fb0c9d5008b0b6743606b36db169eb8318f8d6",
+          "checks": [
+            "Complete program-header table maps in first load segment",
+            "4096-byte page mappings aligned and ordered; no new overlap",
+            "16384-byte page mappings aligned and ordered; no new overlap",
+            "Section payloads, symbols, relocations, notes and native instructions preserved",
+            "All native dependencies and strong gate import preserved",
+            "Every IL2CPP executable load segment remains byte-identical to v27",
+            "GNU/SysV dynamic export lookup retains original symbol addresses"
+          ],
+          "export_lookups": 2416,
+          "changed_section_headers": [
+            ".gnu.hash"
+          ]
+        }
+      ],
+      "structural_cases": 14,
+      "export_lookups": 6482,
+      "native_checks_and_all_instructions_preserved": true,
+      "native_bridge_and_Android_linker_tested": false,
+      "BlueStacks_runtime_tested": false
+    },
+    "logging28_validation.json": {
+      "passed": true,
+      "tests": {
+        "RuntimeLogStoreTest": "Runtime log filtering, exception preservation, rotation, persistence, reset and clipboard bounds passed",
+        "CrashJournalTest": "Crash journal cases passed: 19",
+        "TombstoneReaderTest": "PASS: crashing-thread frames, signal/fault, PID/process matching, unknown-field skipping, private data exclusion, malformed/fuzz inputs, byte limit, stalled stream",
+        "NativeCrashReaderTest": "Android crash reader cases passed: 14",
+        "RecoveredLauncherJournalTest": "Recovered launcher journal cases passed: 5"
+      },
+      "recovered_native_load_error_persisted": true,
+      "previous_sessions_and_API28_fallback_verified": true,
+      "checkpoint_trace_limit_chars": 1800,
+      "Android_service_responses_mocked": true,
+      "device_runtime_tested": false
+    }
+  },
+  "inherited_v27_native_regression_cases": 2672,
+  "inherited_v27_content_checks": {
+    "checks": 78568,
+    "added_scenarios": 1086,
+    "modified_resources": 120,
+    "typed_properties": 3328,
+    "registered_hairstyles": 0,
+    "genetic_portrait_variants": 0,
+    "original_appearance_restored": true,
+    "organized_native_menu_entries": true,
+    "distinct_entry_icons": 35,
+    "device_runtime_tested": false
+  },
+  "inherited_regressions_not_rerun_reason": "All IL2CPP executable bytes and Unity content are unchanged; new ELF metadata has separate structural/export checks.",
+  "confirmed_reported_failure": "UnsatisfiedLinkError loading RocketGames in Main.<clinit> before Unity starts",
+  "underlying_native_bridge_dlopen_reason": "Not exposed by supplied generic dlopen failed log; ELF layout repair is a compatibility candidate",
+  "optional_overlay_unavailable_if_legacy_load_still_fails": true,
+  "required_game_native_load_failures_remain_reported": true,
+  "ART_verifier_tested": false,
+  "BlueStacks_runtime_tested": false,
+  "device_runtime_tested": false
+}

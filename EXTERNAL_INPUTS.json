@@ -1,0 +1,81 @@
+{
+  "prepared_on": "2026-10-25",
+  "private_material_included": false,
+  "note": "Known separately saved inputs. Library IDs identify files; they do not grant a new Codex environment automatic access. Supply needed inputs privately. No key bytes, credentials or game APKs are in this source handover.",
+  "required_for_v55a": [
+    {
+      "name": "BitLife_MayoMods_v55_Recovery_Repairs.apk",
+      "library_file_id": "libfile_735bbd4c1d748191b3520388a1a7d0ee",
+      "bytes": 372659865,
+      "sha256": "7a4a37615d9c60962d1e2658d86154199a868d84439026478171fcf0d2f3c288",
+      "purpose": "Exact frozen base for native_v55a; external binary input"
+    },
+    {
+      "name": "MayoMods_Private_Signing_Backup.zip",
+      "library_file_id": "libfile_e10295cc7004819190370d95f22abb3e",
+      "bytes": 2542,
+      "purpose": "Existing signing identity. Keep private, outside source control. Do not rotate as an installation guess.",
+      "expected_key_filename": "music-test-key.pem",
+      "expected_certificate_filename": "music-test-cert.der",
+      "public_certificate_sha256": "bbc52a5880962fa3ff35e943d9467cb550d8c19b8adeb38f78cef3da5f3b50fe"
+    }
+  ],
+  "other_known_outputs": [
+    {
+      "name": "BitLife_MayoMods_v55_Scar_Eyepatch_Fix.apk",
+      "library_file_id": "libfile_d77c71b652248191895d5a5bcb707769",
+      "bytes": 372843359,
+      "sha256": "1863eb828be62470a525cd2574e1d7e01453f2591c2b415c22d31f55a382a9e0",
+      "status": "User reported App not installed; not a confirmed phone-working build"
+    },
+    {
+      "name": "v56 APK",
+      "library_file_id": "libfile_6198e815a528819198af91885ae36028",
+      "bytes": 372841584,
+      "sha256": "2403654bd462ab42ebaa546daf27f473f072adc35ac0abaf05d2167968c43e90",
+      "status": "Rejected branch; do not use as default baseline"
+    },
+    {
+      "name": "MayoMods_Install_Reader_v1.apk",
+      "library_file_id": "libfile_1782735c2ae08191897f9aed61921fa9",
+      "bytes": 16787,
+      "sha256": "d25edfca89fba6917b2a4c52214a0e0469c200a2f47e16816990f0afad165e3d",
+      "status": "Separate diagnostic app; phone execution/report not confirmed"
+    },
+    {
+      "name": "MayoMods_Install_Reader_Download.zip",
+      "library_file_id": "libfile_9ed78f20d6d881919ce0e076e90cc2e2",
+      "bytes": 11641,
+      "status": "Download wrapper only, not a game repair"
+    }
+  ],
+  "additional_content_recovered_in_this_package": [
+    {
+      "name": "MayoMods_Social_Message_Pack_700k.zip",
+      "library_file_id": "libfile_2776dab6b5d88191b7303402e59c4d34",
+      "path": "optional_content/social_message_pack_700k",
+      "status": "Restored optional content; not fully integrated by this handover"
+    },
+    {
+      "name": "MayoMods_BlueStacks_Crash_Logger.zip",
+      "library_file_id": "libfile_f0c17219542081918101f80e14e9f4c4",
+      "path": "supporting_tools/bluestacks_crash_logger",
+      "status": "Separate companion scripts"
+    },
+    {
+      "name": "messages.txt",
+      "library_file_id": "libfile_8ec7b1922f0c8191b22c94d232e41dab",
+      "status": "Separately saved master text; platform/chunk files are already included from the message-pack ZIP"
+    }
+  ],
+  "for_historical_v55_rebuild_only": {
+    "name": "BitLife_MayoMods_v54_Crash_Repairs.apk",
+    "sha256": "324c9ed859548cfe5a932ebf6d725a5db64ca65890b97d583b806cff9d4f4615",
+    "note": "Different pipeline in project/README_v55.md; not needed if the exact v55 APK is available"
+  },
+  "not_recovered": [
+    "Original BitLife C# or full Unity editor project (not the form of this mod)",
+    "Earlier Music Life WebView HTML/JavaScript project source",
+    "Old upload paths that no longer exist, unless their assets were retained in recovered source archives"
+  ]
+}

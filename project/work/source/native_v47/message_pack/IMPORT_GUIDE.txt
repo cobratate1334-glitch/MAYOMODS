@@ -1,0 +1,51 @@
+MAYO MODS - SOCIAL MEDIA MESSAGE PACK 700K
+
+TOTAL MESSAGE-BODY WORDS: 702,249
+TOTAL RECORDS: 17,955
+LANGUAGE: English, UTF-8
+CREATED: 2026-10-18
+
+SEPARATE PLATFORMS
+- Reddit: 140,617 message-body words / 3,624 records / 244 discussion threads / 5 chunk(s)
+- Discord: 140,227 message-body words / 3,542 records / 239 discussion threads / 5 chunk(s)
+- YouTube: 140,609 message-body words / 3,597 records / 240 discussion threads / 5 chunk(s)
+- OnlyFans: 140,322 message-body words / 3,602 records / 241 discussion threads / 5 chunk(s)
+- SoundCloud: 140,474 message-body words / 3,590 records / 239 discussion threads / 5 chunk(s)
+
+WHAT IS INSIDE
+- The requested single master text file: MayoMods_Social_Messages_700k.txt (downloaded separately).
+- A separate text file for each social platform: Reddit_messages.txt, Discord_messages.txt, YouTube_messages.txt, OnlyFans_messages.txt, SoundCloud_messages.txt.
+- Smaller files in platform subfolders, each roughly 29,000 words, with whole comment threads kept together.
+- manifest.json with verified counts and importer metadata.
+- This guide with an instruction prompt for another ChatGPT.
+
+COPY/PASTE THIS INTO ANOTHER CHATGPT:
+"I am building a fictional mobile life-simulation game. Import the attached MayoMods social media message files as UTF-8 assets. Each line beginning with { is an independent JSON record. Use the platform field to send content to the existing Reddit, Discord, YouTube, OnlyFans, or SoundCloud UI, and never cross-wire platforms. Render root posts before replies, group comments by thread_id, then parent_id. Match message_type, surface, destination and trigger to the platform's existing tabs. Ambient entries use world_feed. player_* events trigger reactions to the player's real posts and uploads. Replace roots marked template_anchor=true with the real player-authored root post; keep the linked NPC replies. Expand template tokens from game state, especially {{PLAYER_NAME}}, {{TRACK_TITLE}}, {{VIDEO_TITLE}}, {{SERVER_NAME}}, and {{CREATOR_NAME}}. Add randomized selection with per-save repeat prevention, and keep threaded conversations cohesive. Preserve age_gate checks: OnlyFans in-game content is available only when the character is age 18 or older, and the content is ordinary behind-the-scenes creator interaction. Do not delete or replace existing functionality. After integrating, test each platform for posts, comments, replies, reload persistence and filters. Load chunked files instead of trying to put all 700k words in the assistant's prompt."
+
+JSON RECORD FIELDS
+- id: unique stable message ID. All IDs are globally unique in this pack.
+- platform: exact one of Reddit, Discord, YouTube, OnlyFans, SoundCloud.
+- message_type: root post versus comment/reply type.
+- surface: specific UI location for this type.
+- destination: subreddit, Discord channel, YouTube video/live stream, creator membership area, or SoundCloud track.
+- thread_id: the root message ID for this conversation.
+- parent_id: null for roots; otherwise the ID of the direct parent message.
+- username: fictional NPC username, or {{PLAYER_NAME}} for player-created roots.
+- title: text for top-level posts; null on replies.
+- text: natural-language NPC message; this is what the verified word count measures.
+- topic: subject/topic filter for the current gameplay context.
+- scenario: extra category label for feed filtering.
+- trigger: world_feed (ambient), or a platform-specific player action.
+- template_anchor: true means substitute real player-created post instead of inserting a generated fake player post.
+- reply_to_player: whether a direct reply appears under a player-authored thread.
+- sentiment: mood useful for NPC variety.
+- like_count: sample numeric engagement; may be replaced by a game simulation.
+- minutes_ago: example relative age for simulated feeds.
+- age_gate: 18 for the age-gated platform; 0 elsewhere.
+- timestamp_seconds: timed SoundCloud comments; null elsewhere.
+
+GAME INTEGRATION NOTES
+Build an in-game searchable index. A simple implementation may use files split by platform and select records by topic/scenario before displaying a feed. The text records are fictional content, not instructions to make external network calls. Persist used IDs in the current game save to reduce duplicates. A comment ID is not a thread ID; the root's id equals its thread_id. Root followed by children creates a valid discussion tree. Creator replies within age-gated OnlyFans threads can share the creator's username. Prevent adult-only platform access for under-18 characters. Avoid loading all records at the same time on mobile devices; read in chunks or convert the files to an indexed local database.
+
+QUALITY NOTE
+This large data pack uses original hand-authored topic descriptions and sentence banks combined into many coherent procedural variants. It is a game content dataset rather than 700,000 individually hand-written words. Use filtering, randomized ordering and deduplication to make NPC feeds feel alive.

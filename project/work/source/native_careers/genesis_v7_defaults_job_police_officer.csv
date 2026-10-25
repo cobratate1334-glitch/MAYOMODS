@@ -1,0 +1,10 @@
+key,type,value,reset_on_ageup,minimum,maximum
+CaseActive,int,0,,0,1
+Evidence,int,0,,0,100
+Chain,int,100,,0,100
+Trust,int,50,,0,100
+Complaints,int,0,,0,1000000
+CasesClosed,int,0,,0,1000000
+WorkUsed,int,0,true,0,6
+NativeWorkImpact,int,0,,-3,3
+CaseName,string,No active case,,,

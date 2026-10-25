@@ -1,0 +1,1013 @@
+
+--- Exception context ---
+10-20 17:48:19.513   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceUtilities:SafeInvoke(Action, String)
+10-20 17:48:19.513   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceFlagResolver:UpdateVariants()
+10-20 17:48:19.513   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceFlagResolver:LoadFlagProperties(ConfidenceSnapshot)
+10-20 17:48:19.513   469   692 I Unity   : CandyBusiness.Confidence.<GateThenResolveAsync>d__20:MoveNext()
+10-20 17:48:19.513   469   692 I Unity   : System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+10-20 17:48:19.513   469   692 I Unity   : System.Runtime.CompilerServices.MoveNextRunner:Run()
+10-20 17:48:19.513   469   692 I Unity   : System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+10-20 17:48:19.513   469   692 I Unity   : System.Threading.Tasks.Task:FinishContinuations()
+10-20 17:48:19.513   469   692 I Unity   : System.Threading.Tasks.Task`1:TrySetResult(TResult)
+10-20 17:48:19.513   469   692 I Unity   : System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+10-20 17:48:19.513   469   692 I Unity   : CandyBusiness.Confidence.<ToTask>d__11`1:MoveNext()
+10-20 17:48:19.513   469   692 I Unity   : System.Th
+10-20 17:48:19.513   469   692 I Unity   : TranslationCaching: error loading <null> language
+10-20 17:48:19.513   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:48:19.513   469   692 I Unity   : TranslationApi:UnityInit()
+10-20 17:48:19.513   469   692 I Unity   : Game.Dynamic.DynamicController:SetConfidenceTranslation(Boolean)
+10-20 17:48:19.513   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceUtilities:SafeInvoke(Action, String)
+10-20 17:48:19.513   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceFlagResolver:UpdateVariants()
+10-20 17:48:19.513   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceFlagResolver:LoadFlagProperties(ConfidenceSnapshot)
+10-20 17:48:19.513   469   692 I Unity   : CandyBusiness.Confidence.<GateThenResolveAsync>d__20:MoveNext()
+10-20 17:48:19.513   469   692 I Unity   : System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+10-20 17:48:19.513   469   692 I Unity   : System.Runtime.CompilerServices.MoveNextRunner:Run()
+10-20 17:48:19.513   469   692 I Unity   : System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+10-20 17:48:19.513   469   692 I Unity   : System.Threading.Tasks.Task:FinishContinuations()
+10-20 17:48:19.513   469   692 I Unity   : System.Threading.Tasks.Task`1:TrySetResult(TResult)
+10-20 17:48:19.513   469   692 I Unity   : System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+10-20 17:48:19.513   469   692 I Unity   : CandyBusiness.Confidence.<ToTask>d__11`1:MoveNext()
+10-20 17:48:19.513   469   692 I Unity   : System.Threading.ExecutionContext:RunInternal(
+10-20 17:48:19.543   469   692 I Unity   : Provider set to: ConfidenceProvider
+10-20 17:48:19.543   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:48:19.543   469   692 I Unity   : UnityOpenFeature.Core.OpenFeatureAPI:SetProvider(IFeatureProvider, Action`2)
+10-20 17:48:19.543   469   692 I Unity   : CandyBusiness.Confidence.<GateThenResolveAsync>d__20:MoveNext()
+10-20 17:48:19.543   469   692 I Unity   : System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+10-20 17:48:19.543   469   692 I Unity   : System.Runtime.CompilerServices.MoveNextRunner:Run()
+10-20 17:48:19.543   469   692 I Unity   : System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+10-20 17:48:19.543   469   692 I Unity   : System.Threading.Tasks.Task:FinishContinuations()
+10-20 17:48:19.543   469   692 I Unity   : System.Threading.Tasks.Task`1:TrySetResult(TResult)
+10-20 17:48:19.543   469   692 I Unity   : System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+10-20 17:48:19.543   469   692 I Unity   : CandyBusiness.Confidence.<ToTask>d__11`1:MoveNext()
+10-20 17:48:19.543   469   692 I Unity   : System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+10-20 17:48:19.543   469   692 I Unity   : System.Runtime.CompilerServices.MoveNextRunner:Run()
+10-20 17:48:19.543   469   692 I Unity   : CandyBusiness.Confidence.Actions.ActionTypes.DirectAction:FindInvocableMethod(Object, Type, String)
+10-20 17:48:19.543   469   692 I Unity   : UnityEngine.AwaitableAsyncMethodBuilder`1:SetRes
+10-20 17:48:19.599   469   692 I Unity   : Semaphore request was successful!
+10-20 17:48:19.599   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:48:19.599   469   692 I Unity   : CandyBusiness.Managers.<GetRequest>d__5:MoveNext()
+10-20 17:48:19.599   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:48:19.599   469   692 I Unity   : 
+10-20 17:48:19.600   469   692 I Unity   : Attempted to initialize didomi notice
+10-20 17:48:19.600   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:48:19.600   469   692 I Unity   : GameManager:InitializeDidomi()
+10-20 17:48:19.600   469   692 I Unity   : GameManager:PreStartSDKs()
+10-20 17:48:19.600   469   692 I Unity   : GameManager:SDKInitialization()
+10-20 17:48:19.600   469   692 I Unity   : CandyBusiness.Managers.<GetRequest>d__5:MoveNext()
+10-20 17:48:19.600   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:48:19.600   469   692 I Unity   : 
+10-20 17:48:19.605   469   692 I Unity   : StaggerLoadExtraSDKs 1
+10-20 17:48:19.605   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:48:19.605   469   692 I Unity   : <StaggerLoadExtraSDKs>d__113:MoveNext()
+10-20 17:48:19.605   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:48:19.605   469   692 I Unity   : GameManager:SDKInitialization()
+10-20 17:48:19.605   469   692 I Unity   : CandyBusiness.Managers.<GetRequest>d__5:MoveNext()
+10-20 17:48:19.605   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:48:19.605   469   692 I Unity   : 
+10-20 17:48:19.784   469   825 E adservices: Failed binding to measurement service: com.android.adservices.shared.common.exception.ServiceUnavailableException: Service is not available.
+10-20 17:48:19.905   469   469 I Unity   : Attempted to show didomi notice
+10-20 17:48:19.905   469   469 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:48:19.905   469   469 I Unity   : GameManager:<InitializeDidomi>b__56_0()
+10-20 17:48:19.905   469   469 I Unity   : System.Reflection.RuntimeMethodInfo:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+10-20 17:48:19.905   469   469 I Unity   : UnityEngine.AndroidJavaProxy:Invoke(String, Object[])
+10-20 17:48:19.905   469   469 I Unity   : UnityEngine.AndroidJavaProxy:Invoke(String, IntPtr)
+10-20 17:48:19.905   469   469 I Unity   : UnityEngine._AndroidJNIHelper:InvokeJavaProxyMethod(AndroidJavaProxy, IntPtr, IntPtr)
+10-20 17:48:19.905   469   469 I Unity   : 
+10-20 17:48:20.041   469   692 I Unity   : [PAYMENT] ProductIDs initialized.
+10-20 17:48:20.041   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:48:20.041   469   692 I Unity   : IAPManager:StartPurchase(Int32)
+10-20 17:48:20.041   469   692 I Unity   : <Start>d__122:MoveNext()
+10-20 17:48:20.041   469   692 I Unity   : System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+10-20 17:48:20.041   469   692 I Unity   : System.Runtime.CompilerServices.MoveNextRunner:Run()
+10-20 17:48:20.041   469   692 I Unity   : System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+10-20 17:48:20.041   469   692 I Unity   : System.Threading.Tasks.Task:FinishContinuations()
+10-20 17:48:20.041   469   692 I Unity   : System.Threading.Tasks.Task`1:TrySetResult(TResult)
+10-20 17:48:20.041   469   692 I Unity   : System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+10-20 17:48:20.041   469   692 I Unity   : Unity.Services.Core.<InitializeAsync>d__26:MoveNext()
+10-20 17:48:20.041   469   692 I Unity   : System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+10-20 17:48:20.041   469   692 I Unity   : System.Runtime.CompilerServices.MoveNextRunner:Run()
+10-20 17:48:20.041   469   692 I Unity   : System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+10-20 17:48:20.041   469   692 I Unity   : System.Threading.Tasks.Task:FinishContinuations()
+10-20 17:48:20.041   469   692 I Unity   : System.Threading.Tasks.Task`1:TrySetResult(TResult)
+10-20 17:48:20.041   469   692 I Unity   : System.Runtime.CompilerServices.AsyncTask
+10-20 17:48:20.044   469   692 I Unity   : [PAYMENT] ProductIDs Initialize called.
+10-20 17:48:20.044   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:48:20.044   469   692 I Unity   : IAPManager:StartPurchase(Int32)
+10-20 17:48:20.044   469   692 I Unity   : <Start>d__122:MoveNext()
+10-20 17:48:20.044   469   692 I Unity   : System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+10-20 17:48:20.044   469   692 I Unity   : System.Runtime.CompilerServices.MoveNextRunner:Run()
+10-20 17:48:20.044   469   692 I Unity   : System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+10-20 17:48:20.044   469   692 I Unity   : System.Threading.Tasks.Task:FinishContinuations()
+10-20 17:48:20.044   469   692 I Unity   : System.Threading.Tasks.Task`1:TrySetResult(TResult)
+10-20 17:48:20.044   469   692 I Unity   : System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+10-20 17:48:20.044   469   692 I Unity   : Unity.Services.Core.<InitializeAsync>d__26:MoveNext()
+10-20 17:48:20.044   469   692 I Unity   : System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+10-20 17:48:20.044   469   692 I Unity   : System.Runtime.CompilerServices.MoveNextRunner:Run()
+10-20 17:48:20.044   469   692 I Unity   : System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+10-20 17:48:20.044   469   692 I Unity   : System.Threading.Tasks.Task:FinishContinuations()
+10-20 17:48:20.044   469   692 I Unity   : System.Threading.Tasks.Task`1:TrySetResult(TResult)
+10-20 17:48:20.044   469   692 I Unity   : System.Runtime.CompilerServices.Asy
+10-20 17:48:20.052   469   692 I Unity   : [PAYMENT] ProductIDs Initialize called. END
+10-20 17:48:20.052   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:48:20.052   469   692 I Unity   : <Start>d__122:MoveNext()
+10-20 17:48:20.052   469   692 I Unity   : System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+10-20 17:48:20.052   469   692 I Unity   : System.Runtime.CompilerServices.MoveNextRunner:Run()
+10-20 17:48:20.052   469   692 I Unity   : System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+10-20 17:48:20.052   469   692 I Unity   : System.Threading.Tasks.Task:FinishContinuations()
+10-20 17:48:20.052   469   692 I Unity   : System.Threading.Tasks.Task`1:TrySetResult(TResult)
+10-20 17:48:20.052   469   692 I Unity   : System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+10-20 17:48:20.052   469   692 I Unity   : Unity.Services.Core.<InitializeAsync>d__26:MoveNext()
+10-20 17:48:20.052   469   692 I Unity   : System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+10-20 17:48:20.052   469   692 I Unity   : System.Runtime.CompilerServices.MoveNextRunner:Run()
+10-20 17:48:20.052   469   692 I Unity   : System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+10-20 17:48:20.052   469   692 I Unity   : System.Threading.Tasks.Task:FinishContinuations()
+10-20 17:48:20.052   469   692 I Unity   : System.Threading.Tasks.Task`1:TrySetResult(TResult)
+10-20 17:48:20.052   469   692 I Unity   : System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetRes
+10-20 17:48:20.065   469   692 I Unity   : Successfully updated 20 flags
+10-20 17:48:20.065   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:48:20.065   469   692 I Unity   : UnityOpenFeature.Providers.<>c__DisplayClass17_0:<FetchAndActivate>b__0(ResolveFlagsResponse, String)
+10-20 17:48:20.065   469   692 I Unity   : UnityOpenFeature.Providers.<ResolveFlagsAsync>d__14:MoveNext()
+10-20 17:48:20.065   469   692 I Unity   : System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+10-20 17:48:20.065   469   692 I Unity   : System.Runtime.CompilerServices.MoveNextRunner:Run()
+10-20 17:48:20.065   469   692 I Unity   : UnityEngine.WorkRequest:Invoke()
+10-20 17:48:20.065   469   692 I Unity   : UnityEngine.UnitySynchronizationContext:Exec()
+10-20 17:48:20.065   469   692 I Unity   : 
+10-20 17:48:20.081   469   692 I Unity   : [DYNAMIC] LoadID MKT_DEFAULT, found model? False, _availableModels: None
+10-20 17:48:20.081   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:48:20.081   469   692 I Unity   : Game.Dynamic.Marketplace.MarketPlaceController:LoadID(String, String)
+10-20 17:48:20.081   469   692 I Unity   : Game.Dynamic.DynamicController:InitConfidenceMarketPlace()
+10-20 17:48:20.081   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceUtilities:SafeInvoke(Action, String)
+10-20 17:48:20.081   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceFlagResolver:UpdateVariants()
+10-20 17:48:20.081   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceFlagResolver:OnRuntimeFlagsResolved(ConfidenceRuntime)
+10-20 17:48:20.081   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceUtilities:SafeInvoke(Action`1, T, String)
+10-20 17:48:20.081   469   692 I Unity   : UnityOpenFeature.Providers.<>c__DisplayClass20_0:<Initialize>b__0(Boolean, String)
+10-20 17:48:20.081   469   692 I Unity   : UnityOpenFeature.Providers.<>c__DisplayClass17_0:<FetchAndActivate>b__0(ResolveFlagsResponse, String)
+10-20 17:48:20.081   469   692 I Unity   : UnityOpenFeature.Providers.<ResolveFlagsAsync>d__14:MoveNext()
+10-20 17:48:20.081   469   692 I Unity   : System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+10-20 17:48:20.081   469   692 I Unity   : System.Runtime.CompilerServices.MoveNextRunner:Run()
+10-20 17:48:20.081   469   692 I Unity   : UnityEngine.WorkRequest:Invoke()
+10-20 17:48:20.081   469   692 I Unity   : UnityEng
+10-20 17:48:20.082   469   692 I Unity   : [DYNAMIC] Loaded Default
+10-20 17:48:20.082   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:48:20.082   469   692 I Unity   : Game.Dynamic.Marketplace.MarketPlaceController:LoadDefault()
+10-20 17:48:20.082   469   692 I Unity   : Game.Dynamic.Marketplace.MarketPlaceController:LoadID(String, String)
+10-20 17:48:20.082   469   692 I Unity   : Game.Dynamic.DynamicController:InitConfidenceMarketPlace()
+10-20 17:48:20.082   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceUtilities:SafeInvoke(Action, String)
+10-20 17:48:20.082   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceFlagResolver:UpdateVariants()
+10-20 17:48:20.082   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceFlagResolver:OnRuntimeFlagsResolved(ConfidenceRuntime)
+10-20 17:48:20.082   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceUtilities:SafeInvoke(Action`1, T, String)
+10-20 17:48:20.082   469   692 I Unity   : UnityOpenFeature.Providers.<>c__DisplayClass20_0:<Initialize>b__0(Boolean, String)
+10-20 17:48:20.082   469   692 I Unity   : UnityOpenFeature.Providers.<>c__DisplayClass17_0:<FetchAndActivate>b__0(ResolveFlagsResponse, String)
+10-20 17:48:20.082   469   692 I Unity   : UnityOpenFeature.Providers.<ResolveFlagsAsync>d__14:MoveNext()
+10-20 17:48:20.082   469   692 I Unity   : System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+10-20 17:48:20.082   469   692 I Unity   : System.Runtime.CompilerServices.MoveNextRunner:Run()
+10-20 17:48:20.082   469   692 I Unity   : UnityEngine.WorkRequest:Invo
+10-20 17:48:20.082   469   692 I Unity   : [DynamicController] Translation API master switch value fetched as : True
+10-20 17:48:20.082   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:48:20.082   469   692 I Unity   : Game.Dynamic.DynamicController:SetConfidenceTranslation(Boolean)
+10-20 17:48:20.082   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceUtilities:SafeInvoke(Action, String)
+10-20 17:48:20.082   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceFlagResolver:UpdateVariants()
+10-20 17:48:20.082   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceFlagResolver:OnRuntimeFlagsResolved(ConfidenceRuntime)
+10-20 17:48:20.082   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceUtilities:SafeInvoke(Action`1, T, String)
+10-20 17:48:20.082   469   692 I Unity   : UnityOpenFeature.Providers.<>c__DisplayClass20_0:<Initialize>b__0(Boolean, String)
+10-20 17:48:20.082   469   692 I Unity   : UnityOpenFeature.Providers.<>c__DisplayClass17_0:<FetchAndActivate>b__0(ResolveFlagsResponse, String)
+10-20 17:48:20.082   469   692 I Unity   : UnityOpenFeature.Providers.<ResolveFlagsAsync>d__14:MoveNext()
+10-20 17:48:20.082   469   692 I Unity   : System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+10-20 17:48:20.082   469   692 I Unity   : System.Runtime.CompilerServices.MoveNextRunner:Run()
+10-20 17:48:20.082   469   692 I Unity   : UnityEngine.WorkRequest:Invoke()
+10-20 17:48:20.082   469   692 I Unity   : UnityEngine.UnitySynchronizationContext:Exec()
+10-20 17:48:20.082   469   692 I Unity   : 
+10-20 17:48:20.083   469   692 I Unity   : [TranslationController] Initializing Translation API trough master switch
+10-20 17:48:20.083   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:48:20.083   469   692 I Unity   : Game.Translation.TranslationController:ApplyMasterSwitch(Boolean, Boolean)
+10-20 17:48:20.083   469   692 I Unity   : Game.Dynamic.DynamicController:SetConfidenceTranslation(Boolean)
+10-20 17:48:20.083   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceUtilities:SafeInvoke(Action, String)
+10-20 17:48:20.083   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceFlagResolver:UpdateVariants()
+10-20 17:48:20.083   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceFlagResolver:OnRuntimeFlagsResolved(ConfidenceRuntime)
+10-20 17:48:20.083   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceUtilities:SafeInvoke(Action`1, T, String)
+10-20 17:48:20.083   469   692 I Unity   : UnityOpenFeature.Providers.<>c__DisplayClass20_0:<Initialize>b__0(Boolean, String)
+10-20 17:48:20.083   469   692 I Unity   : UnityOpenFeature.Providers.<>c__DisplayClass17_0:<FetchAndActivate>b__0(ResolveFlagsResponse, String)
+10-20 17:48:20.083   469   692 I Unity   : UnityOpenFeature.Providers.<ResolveFlagsAsync>d__14:MoveNext()
+10-20 17:48:20.083   469   692 I Unity   : System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+10-20 17:48:20.083   469   692 I Unity   : System.Runtime.CompilerServices.MoveNextRunner:Run()
+10-20 17:48:20.083   469   692 I Unity   : UnityEngine.WorkRequest:Invok
+10-20 17:48:20.083   469   692 I Unity   : [TranslationAnalytics] Initializing
+10-20 17:48:20.083   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:48:20.083   469   692 I Unity   : Game.Translation.TranslationAnalytics:Initialize()
+10-20 17:48:20.083   469   692 I Unity   : TranslationApi:UnityInit()
+10-20 17:48:20.083   469   692 I Unity   : Game.Dynamic.DynamicController:SetConfidenceTranslation(Boolean)
+10-20 17:48:20.083   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceUtilities:SafeInvoke(Action, String)
+10-20 17:48:20.083   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceFlagResolver:UpdateVariants()
+10-20 17:48:20.083   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceFlagResolver:OnRuntimeFlagsResolved(ConfidenceRuntime)
+10-20 17:48:20.083   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceUtilities:SafeInvoke(Action`1, T, String)
+10-20 17:48:20.083   469   692 I Unity   : UnityOpenFeature.Providers.<>c__DisplayClass20_0:<Initialize>b__0(Boolean, String)
+10-20 17:48:20.083   469   692 I Unity   : UnityOpenFeature.Providers.<>c__DisplayClass17_0:<FetchAndActivate>b__0(ResolveFlagsResponse, String)
+10-20 17:48:20.083   469   692 I Unity   : UnityOpenFeature.Providers.<ResolveFlagsAsync>d__14:MoveNext()
+10-20 17:48:20.083   469   692 I Unity   : System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+10-20 17:48:20.083   469   692 I Unity   : System.Runtime.CompilerServices.MoveNextRunner:Run()
+10-20 17:48:20.083   469   692 I Unity   : UnityEngine.WorkRequest:Invoke()
+10-20 17:48:20.083   469   692 I Unity   : UnityEngine.UnitySynchronizatio
+10-20 17:48:20.084   469   692 I Unity   : TranslationCaching: error loading <null> language
+10-20 17:48:20.084   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:48:20.084   469   692 I Unity   : TranslationApi:UnityInit()
+10-20 17:48:20.084   469   692 I Unity   : Game.Dynamic.DynamicController:SetConfidenceTranslation(Boolean)
+10-20 17:48:20.084   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceUtilities:SafeInvoke(Action, String)
+10-20 17:48:20.084   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceFlagResolver:UpdateVariants()
+10-20 17:48:20.084   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceFlagResolver:OnRuntimeFlagsResolved(ConfidenceRuntime)
+10-20 17:48:20.084   469   692 I Unity   : CandyBusiness.Confidence.ConfidenceUtilities:SafeInvoke(Action`1, T, String)
+10-20 17:48:20.084   469   692 I Unity   : UnityOpenFeature.Providers.<>c__DisplayClass20_0:<Initialize>b__0(Boolean, String)
+10-20 17:48:20.084   469   692 I Unity   : UnityOpenFeature.Providers.<>c__DisplayClass17_0:<FetchAndActivate>b__0(ResolveFlagsResponse, String)
+10-20 17:48:20.084   469   692 I Unity   : UnityOpenFeature.Providers.<ResolveFlagsAsync>d__14:MoveNext()
+10-20 17:48:20.084   469   692 I Unity   : System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+10-20 17:48:20.084   469   692 I Unity   : System.Runtime.CompilerServices.MoveNextRunner:Run()
+10-20 17:48:20.084   469   692 I Unity   : UnityEngine.WorkRequest:Invoke()
+10-20 17:48:20.084   469   692 I Unity   : UnityEngine.UnitySynchronizationContext:Exec()
+10-20 17:48:20.084   469   692 I Unity   : 
+10-20 17:48:20.084   469   692 W Unity   : [TextureUtility] FromBase64Png called with empty string.
+
+--- Exception context ---
+10-20 17:49:43.618   469   692 I Unity   : 
+10-20 17:49:44.736   469   692 I Unity   : SCROLL: END
+10-20 17:49:44.736   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:49:44.736   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnEndDrag(PointerEventData)
+10-20 17:49:44.736   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:49:44.736   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:49:44.736   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:49:44.736   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:49:44.736   469   692 I Unity   : 
+10-20 17:49:45.152   469   692 I Unity   : SCROLL: START
+10-20 17:49:45.152   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:49:45.152   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnBeginDrag(PointerEventData)
+10-20 17:49:45.152   469   692 I Unity   : BitLife.UI.CandyObjects.<PassOnBeginDragEvent>d__50:MoveNext()
+10-20 17:49:45.152   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:49:45.152   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:49:45.152   469   692 I Unity   : UnityEngine.EventSystems.PointerInputModule:ProcessDrag(PointerEventData)
+10-20 17:49:45.152   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:49:45.152   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:49:45.152   469   692 I Unity   : 
+10-20 17:49:45.285   469   692 I Unity   : SCROLL: END
+10-20 17:49:45.285   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:49:45.285   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnEndDrag(PointerEventData)
+10-20 17:49:45.285   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:49:45.285   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:49:45.285   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:49:45.285   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:49:45.285   469   692 I Unity   : 
+10-20 17:49:55.495   469   692 I Unity   : SCROLL: START
+10-20 17:49:55.495   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:49:55.495   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnBeginDrag(PointerEventData)
+10-20 17:49:55.495   469   692 I Unity   : BitLife.UI.CandyObjects.<PassOnBeginDragEvent>d__50:MoveNext()
+10-20 17:49:55.495   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:49:55.495   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:49:55.495   469   692 I Unity   : UnityEngine.EventSystems.PointerInputModule:ProcessDrag(PointerEventData)
+10-20 17:49:55.495   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:49:55.495   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:49:55.495   469   692 I Unity   : 
+10-20 17:49:55.634   469   692 I Unity   : SCROLL: END
+10-20 17:49:55.634   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:49:55.634   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnEndDrag(PointerEventData)
+10-20 17:49:55.634   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:49:55.634   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:49:55.634   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:49:55.634   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:49:55.634   469   692 I Unity   : 
+10-20 17:49:56.113   469   692 I Unity   : SCROLL: START
+10-20 17:49:56.113   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:49:56.113   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnBeginDrag(PointerEventData)
+10-20 17:49:56.113   469   692 I Unity   : BitLife.UI.CandyObjects.<PassOnBeginDragEvent>d__50:MoveNext()
+10-20 17:49:56.113   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:49:56.113   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:49:56.113   469   692 I Unity   : UnityEngine.EventSystems.PointerInputModule:ProcessDrag(PointerEventData)
+10-20 17:49:56.113   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:49:56.113   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:49:56.113   469   692 I Unity   : 
+10-20 17:49:56.209   469   692 I Unity   : SCROLL: END
+10-20 17:49:56.209   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:49:56.209   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnEndDrag(PointerEventData)
+10-20 17:49:56.209   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:49:56.209   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:49:56.209   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:49:56.209   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:49:56.209   469   692 I Unity   : 
+2026-10-20 17:49:57.318 Activity paused: com.unity3d.player.UnityPlayerActivity
+10-20 17:49:59.361   469   837 E adservices: Failed binding to measurement service: com.android.adservices.shared.common.exception.ServiceUnavailableException: Service is not available.
+2026-10-20 17:50:39.403 Activity resumed: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:50:39.443 D13 - Game activity resumed; engine running
+10-20 17:50:39.587   469   826 E adservices: Failed binding to measurement service: com.android.adservices.shared.common.exception.ServiceUnavailableException: Service is not available.
+10-20 17:50:40.219   469  1686 E AppLovinSdk: [AppLovinCommunicator] Attempting to re-subscribe subscriber (82546426) to topic (max_revenue_events)
+10-20 17:50:40.220   469  1686 E AppLovinSdk: [AppLovinCommunicator] Attempting to re-subscribe subscriber (82546426) to topic (max_revenue_events)
+10-20 17:50:40.480   469   692 I Unity   : Semaphore request was successful!
+10-20 17:50:40.480   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:50:40.480   469   692 I Unity   : CandyBusiness.Managers.<GetRequest>d__5:MoveNext()
+10-20 17:50:40.480   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:50:40.480   469   692 I Unity   : 
+10-20 17:50:41.132   469   692 I Unity   : Appsflyer conversion success {"install_time":"2026-10-09 20:05:56.688","af_message":"organic install","af_status":"Organic","is_first_launch":false}
+10-20 17:50:41.132   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:50:41.132   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:50:41.132   469   692 I Unity   : 
+10-20 17:50:41.138   469   692 I Unity   : AppsFlyer_Unity_v6.17.90 didReceiveConversionData called with {"install_time":"2026-10-09 20:05:56.688","af_message":"organic install","af_status":"Organic","is_first_launch":false}
+10-20 17:50:41.138   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:50:41.138   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:50:41.138   469   692 I Unity   : 
+10-20 17:50:41.138   469   692 I Unity   : install_time: 2026-10-09 20:05:56.688
+10-20 17:50:41.138   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:50:41.138   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:50:41.138   469   692 I Unity   : 
+10-20 17:50:41.139   469   692 I Unity   : af_message: organic install
+10-20 17:50:41.139   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:50:41.139   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:50:41.139   469   692 I Unity   : 
+10-20 17:50:41.139   469   692 I Unity   : af_status: Organic
+10-20 17:50:41.139   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:50:41.139   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:50:41.139   469   692 I Unity   : 
+10-20 17:50:41.140   469   692 I Unity   : is_first_launch: False
+10-20 17:50:41.140   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:50:41.140   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:50:41.140   469   692 I Unity   : 
+10-20 17:50:43.482   469   692 I Unity   : SCROLL: START
+10-20 17:50:43.482   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:50:43.482   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnBeginDrag(PointerEventData)
+10-20 17:50:43.482   469   692 I Unity   : BitLife.UI.CandyObjects.<PassOnBeginDragEvent>d__50:MoveNext()
+10-20 17:50:43.482   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:50:43.482   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:50:43.482   469   692 I Unity   : UnityEngine.EventSystems.PointerInputModule:ProcessDrag(PointerEventData)
+10-20 17:50:43.482   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:50:43.482   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:50:43.482   469   692 I Unity   : 
+10-20 17:50:44.031   469   692 I Unity   : SCROLL: END
+10-20 17:50:44.031   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:50:44.031   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnEndDrag(PointerEventData)
+10-20 17:50:44.031   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:50:44.031   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:50:44.031   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:50:44.031   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:50:44.031   469   692 I Unity   : 
+10-20 17:50:46.145   469   692 I Unity   : SCROLL: START
+10-20 17:50:46.145   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:50:46.145   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnBeginDrag(PointerEventData)
+10-20 17:50:46.145   469   692 I Unity   : BitLife.UI.CandyObjects.<PassOnBeginDragEvent>d__50:MoveNext()
+10-20 17:50:46.145   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:50:46.145   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:50:46.145   469   692 I Unity   : UnityEngine.EventSystems.PointerInputModule:ProcessDrag(PointerEventData)
+10-20 17:50:46.145   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:50:46.145   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:50:46.145   469   692 I Unity   : 
+10-20 17:50:46.511   469   692 I Unity   : SCROLL: END
+10-20 17:50:46.511   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:50:46.511   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnEndDrag(PointerEventData)
+10-20 17:50:46.511   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:50:46.511   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:50:46.511   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:50:46.511   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:50:46.511   469   692 I Unity   : 
+2026-10-20 17:50:50.871 Activity paused: com.unity3d.player.UnityPlayerActivity
+10-20 17:50:51.576   469   837 E adservices: Failed binding to measurement service: com.android.adservices.shared.common.exception.ServiceUnavailableException: Service is not available.
+2026-10-20 17:51:18.421 Activity resumed: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:51:18.463 D13 - Game activity resumed; engine running
+10-20 17:51:18.621   469   837 E adservices: Failed binding to measurement service: com.android.adservices.shared.common.exception.ServiceUnavailableException: Service is not available.
+10-20 17:51:19.356   469   692 I Unity   : Semaphore request was successful!
+10-20 17:51:19.356   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:51:19.356   469   692 I Unity   : CandyBusiness.Managers.<GetRequest>d__5:MoveNext()
+10-20 17:51:19.356   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:51:19.356   469   692 I Unity   : 
+10-20 17:51:20.110   469   692 I Unity   : <color=cyan>ScenarioCSVData: Detected Designer format (53 cols).</color>
+10-20 17:51:20.110   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:51:20.110   469   692 I Unity   : Genesis.Controllers.ScenarioCSVData:.ctor(String, Action`2, ScenarioController)
+10-20 17:51:20.110   469   692 I Unity   : Genesis.Controllers.ScenarioController:LoadAndShowScenario(String, Boolean, Action`2)
+10-20 17:51:20.110   469   692 I Unity   : Genesis.Controllers.GenesisController:TryLoadScenarioResource(String, ScenarioController, Boolean, Action`2)
+10-20 17:51:20.110   469   692 I Unity   : Genesis.Controllers.GenesisController:LoadScenario(String, String, ScenarioController)
+10-20 17:51:20.110   469   692 I Unity   : Genesis.Lists.Runtime.GenesisListActionRunner:ResolveScenario(ScenarioController, ScenarioCondition, Scenario, IBluePrint, Boolean&, Boolean&, Boolean&)
+10-20 17:51:20.110   469   692 I Unity   : Genesis.Lists.Runtime.GenesisListActionRunner:ExecuteActionInternal(ScenarioAction, GenesisListItemRuntimeContext, Boolean)
+10-20 17:51:20.110   469   692 I Unity   : Genesis.Lists.Runtime.GenesisListActionRunner:Run(GenesisListItemRuntimeContext)
+10-20 17:51:20.110   469   692 I Unity   : BitLife.UI.Containers.UIListItem:OnClick()
+10-20 17:51:20.110   469   692 I Unity   : 
+10-20 17:51:20.172   469   692 I BitLifeDiag: M54 scenario | scenario.careersV7.tv_hostsponsor
+10-20 17:51:20.337   469   692 I Unity   : Appsflyer conversion success {"install_time":"2026-10-09 20:05:56.688","af_message":"organic install","af_status":"Organic","is_first_launch":false}
+10-20 17:51:20.337   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:51:20.337   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:51:20.337   469   692 I Unity   : 
+10-20 17:51:20.340   469   692 I Unity   : AppsFlyer_Unity_v6.17.90 didReceiveConversionData called with {"install_time":"2026-10-09 20:05:56.688","af_message":"organic install","af_status":"Organic","is_first_launch":false}
+10-20 17:51:20.340   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:51:20.340   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:51:20.340   469   692 I Unity   : 
+10-20 17:51:20.340   469   692 I Unity   : install_time: 2026-10-09 20:05:56.688
+10-20 17:51:20.340   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:51:20.340   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:51:20.340   469   692 I Unity   : 
+10-20 17:51:20.341   469   692 I Unity   : af_message: organic install
+10-20 17:51:20.341   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:51:20.341   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:51:20.341   469   692 I Unity   : 
+10-20 17:51:20.341   469   692 I Unity   : af_status: Organic
+10-20 17:51:20.341   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:51:20.341   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:51:20.341   469   692 I Unity   : 
+10-20 17:51:20.341   469   692 I Unity   : is_first_launch: False
+10-20 17:51:20.341   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:51:20.341   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:51:20.341   469   692 I Unity   : 
+10-20 17:51:21.229   469   692 I BitLifeDiag: [NL25] native checkpoint 1600
+2026-10-20 17:51:21.231 NL25 native checkpoint 1600: Native game checkpoint
+10-20 17:51:21.258   469   692 I Unity   : True
+10-20 17:51:21.258   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:51:21.258   469   692 I Unity   : Genesis.Controllers.GenesisMemory:Process(String)
+10-20 17:51:21.258   469   692 I Unity   : Genesis.Services.GenesisAdvancedLogicRouter:EvaluateBooleanExpression(String, ScenarioController)
+10-20 17:51:21.258   469   692 I Unity   : Genesis.Services.GenesisAdvancedLogicRouter:EvaluateCondition(AdvancedLogicCondition, ScenarioController)
+10-20 17:51:21.258   469   692 I Unity   : Genesis.Services.GenesisAdvancedLogicRouter:ResolveWinningThen(AdvancedLogicBlock, ScenarioController)
+10-20 17:51:21.258   469   692 I Unity   : Genesis.Services.GenesisAdvancedLogicRouter:TrySelect(AdvancedLogicBlock, ScenarioController, Selection&)
+10-20 17:51:21.258   469   692 I Unity   : Genesis.Controllers.ScenarioAction:RunAdvancedLogic(ScenarioController)
+10-20 17:51:21.258   469   692 I Unity   : ScenarioBase:ChoiceSelectedAtIndex(Int32)
+10-20 17:51:21.258   469   692 I Unity   : BitLife.UI.Managers.UIScenarioManager:AcceptChoice(ScenarioChoice, Int32)
+10-20 17:51:21.258   469   692 I Unity   : BitLife.UI.Managers.UIScenarioManager:XChoiceButtonPress(Int32)
+10-20 17:51:21.258   469   692 I Unity   : BitLife.UI.CandyObjects.CandyButton:OnClick()
+10-20 17:51:21.258   469   692 I Unity   : BitLife.UI.CandyObjects.<ClickLogic>d__47:MoveNext()
+10-20 17:51:21.258   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:51:21.258   469   692 I Unity   : 
+10-20 17:51:21.258   469   692 I BitLifeDiag: M54 scenario | scenario.careersV7.tv_hostinactive
+2026-10-20 17:51:22.503 NL25 native checkpoint 1600: Native game checkpoint
+10-20 17:51:22.502   469   692 I BitLifeDiag: [NL25] native checkpoint 1600
+10-20 17:51:24.126   469   692 I BitLifeDiag: M54 menu | SocialMedia
+10-20 17:51:25.083   469   692 I BitLifeDiag: M54 menu | T2
+10-20 17:51:25.901   469   692 I Unity   : SCROLL: START
+10-20 17:51:25.901   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:51:25.901   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnBeginDrag(PointerEventData)
+10-20 17:51:25.901   469   692 I Unity   : BitLife.UI.CandyObjects.<PassOnBeginDragEvent>d__50:MoveNext()
+10-20 17:51:25.901   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:51:25.901   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:51:25.901   469   692 I Unity   : UnityEngine.EventSystems.PointerInputModule:ProcessDrag(PointerEventData)
+10-20 17:51:25.901   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:51:25.901   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:51:25.901   469   692 I Unity   : 
+10-20 17:51:26.017   469   692 I Unity   : SCROLL: END
+10-20 17:51:26.017   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:51:26.017   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnEndDrag(PointerEventData)
+10-20 17:51:26.017   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:51:26.017   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:51:26.017   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:51:26.017   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:51:26.017   469   692 I Unity   : 
+10-20 17:51:27.384   469   692 I Unity   : SCROLL: START
+10-20 17:51:27.384   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:51:27.384   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnBeginDrag(PointerEventData)
+
+--- Exception context ---
+10-20 17:51:58.410   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:51:58.410   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:51:58.410   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:51:58.410   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:51:58.410   469   692 I Unity   : 
+10-20 17:52:04.590   469   692 I BitLifeDiag: M54 scenario | scenario.activitiesV18.comments47_407
+10-20 17:52:10.875   469   692 I BitLifeDiag: M54 scenario | scenario.activitiesV18.comments47_001
+10-20 17:52:12.314   469   692 I BitLifeDiag: [NL25] native checkpoint 1600
+2026-10-20 17:52:12.316 NL25 native checkpoint 1600: Native game checkpoint
+10-20 17:52:13.506   469   692 I BitLifeDiag: M54 menu | SocialFollowing5
+10-20 17:52:13.509   469   692 I BitLifeDiag: M54 menu | SocialFollowing6
+10-20 17:52:13.509   469   692 I BitLifeDiag: M54 menu | SocialMedia
+10-20 17:52:13.527   469   692 I BitLifeDiag: M54 menu | T2
+10-20 17:52:14.112   469   692 I Unity   : SCROLL: START
+10-20 17:52:14.112   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:52:14.112   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnBeginDrag(PointerEventData)
+10-20 17:52:14.112   469   692 I Unity   : BitLife.UI.CandyObjects.<PassOnBeginDragEvent>d__50:MoveNext()
+10-20 17:52:14.112   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:52:14.112   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:52:14.112   469   692 I Unity   : UnityEngine.EventSystems.PointerInputModule:ProcessDrag(PointerEventData)
+10-20 17:52:14.112   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:52:14.112   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:52:14.112   469   692 I Unity   : 
+10-20 17:52:14.201   469   692 I Unity   : SCROLL: END
+10-20 17:52:14.201   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:52:14.201   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnEndDrag(PointerEventData)
+10-20 17:52:14.201   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:52:14.201   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:52:14.201   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:52:14.201   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:52:14.201   469   692 I Unity   : 
+10-20 17:52:14.433   469   692 I Unity   : SCROLL: START
+10-20 17:52:14.433   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:52:14.433   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnBeginDrag(PointerEventData)
+10-20 17:52:14.433   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:52:14.433   469   692 I Unity   : UnityEngine.EventSystems.PointerInputModule:ProcessDrag(PointerEventData)
+10-20 17:52:14.433   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:52:14.433   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:52:14.433   469   692 I Unity   : 
+10-20 17:52:14.650   469   692 I Unity   : SCROLL: END
+10-20 17:52:14.650   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:52:14.650   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnEndDrag(PointerEventData)
+10-20 17:52:14.650   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:52:14.650   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:52:14.650   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:52:14.650   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:52:14.650   469   692 I Unity   : 
+10-20 17:52:20.166   469   692 I Unity   : SCROLL: START
+10-20 17:52:20.166   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:52:20.166   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnBeginDrag(PointerEventData)
+10-20 17:52:20.166   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:52:20.166   469   692 I Unity   : UnityEngine.EventSystems.PointerInputModule:ProcessDrag(PointerEventData)
+10-20 17:52:20.166   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:52:20.166   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:52:20.166   469   692 I Unity   : 
+10-20 17:52:20.319   469   692 I Unity   : SCROLL: END
+10-20 17:52:20.319   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:52:20.319   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnEndDrag(PointerEventData)
+10-20 17:52:20.319   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:52:20.319   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:52:20.319   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:52:20.319   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:52:20.319   469   692 I Unity   : 
+2026-10-20 17:52:22.416 Activity paused: com.unity3d.player.UnityPlayerActivity
+10-20 17:52:23.394   469   826 E adservices: Failed binding to measurement service: com.android.adservices.shared.common.exception.ServiceUnavailableException: Service is not available.
+2026-10-20 17:52:50.303 Activity resumed: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:52:50.341 D13 - Game activity resumed; engine running
+10-20 17:52:50.463   469   837 E adservices: Failed binding to measurement service: com.android.adservices.shared.common.exception.ServiceUnavailableException: Service is not available.
+10-20 17:52:51.482   469   692 I Unity   : Semaphore request was successful!
+10-20 17:52:51.482   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:52:51.482   469   692 I Unity   : CandyBusiness.Managers.<GetRequest>d__5:MoveNext()
+10-20 17:52:51.482   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:52:51.482   469   692 I Unity   : 
+10-20 17:52:52.224   469   692 I Unity   : Appsflyer conversion success {"install_time":"2026-10-09 20:05:56.688","af_message":"organic install","af_status":"Organic","is_first_launch":false}
+10-20 17:52:52.224   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:52:52.224   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:52:52.224   469   692 I Unity   : 
+10-20 17:52:52.226   469   692 I Unity   : AppsFlyer_Unity_v6.17.90 didReceiveConversionData called with {"install_time":"2026-10-09 20:05:56.688","af_message":"organic install","af_status":"Organic","is_first_launch":false}
+10-20 17:52:52.226   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:52:52.226   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:52:52.226   469   692 I Unity   : 
+10-20 17:52:52.226   469   692 I Unity   : install_time: 2026-10-09 20:05:56.688
+10-20 17:52:52.226   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:52:52.226   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:52:52.226   469   692 I Unity   : 
+10-20 17:52:52.227   469   692 I Unity   : af_message: organic install
+10-20 17:52:52.227   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:52:52.227   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:52:52.227   469   692 I Unity   : 
+10-20 17:52:52.227   469   692 I Unity   : af_status: Organic
+10-20 17:52:52.227   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:52:52.227   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:52:52.227   469   692 I Unity   : 
+10-20 17:52:52.227   469   692 I Unity   : is_first_launch: False
+10-20 17:52:52.227   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:52:52.227   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:52:52.227   469   692 I Unity   : 
+10-20 17:52:52.263   469   692 I Unity   : SCROLL: START
+10-20 17:52:52.263   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:52:52.263   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnBeginDrag(PointerEventData)
+10-20 17:52:52.263   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:52:52.263   469   692 I Unity   : UnityEngine.EventSystems.PointerInputModule:ProcessDrag(PointerEventData)
+10-20 17:52:52.263   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:52:52.263   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:52:52.263   469   692 I Unity   : 
+10-20 17:52:52.408   469   692 I Unity   : SCROLL: END
+10-20 17:52:52.408   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:52:52.408   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnEndDrag(PointerEventData)
+10-20 17:52:52.408   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:52:52.408   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:52:52.408   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:52:52.408   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:52:52.408   469   692 I Unity   : 
+10-20 17:52:54.957   469   692 I Unity   : SCROLL: START
+10-20 17:52:54.957   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:52:54.957   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnBeginDrag(PointerEventData)
+10-20 17:52:54.957   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:52:54.957   469   692 I Unity   : UnityEngine.EventSystems.PointerInputModule:ProcessDrag(PointerEventData)
+10-20 17:52:54.957   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:52:54.957   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:52:54.957   469   692 I Unity   : 
+10-20 17:52:55.140   469   692 I Unity   : SCROLL: END
+10-20 17:52:55.140   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:52:55.140   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnEndDrag(PointerEventData)
+10-20 17:52:55.140   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:52:55.140   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:52:55.140   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:52:55.140   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:52:55.140   469   692 I Unity   : 
+2026-10-20 17:52:55.539 Activity paused: com.unity3d.player.UnityPlayerActivity
+10-20 17:52:56.055   469   837 E adservices: Failed binding to measurement service: com.android.adservices.shared.common.exception.ServiceUnavailableException: Service is not available.
+2026-10-20 17:53:09.943 Activity resumed: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:53:10.001 D13 - Game activity resumed; engine running
+10-20 17:53:10.413   469 11322 E adservices: Failed binding to measurement service: com.android.adservices.shared.common.exception.ServiceUnavailableException: Service is not available.
+10-20 17:53:11.492   469   692 I Unity   : Semaphore request was successful!
+10-20 17:53:11.492   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:11.492   469   692 I Unity   : CandyBusiness.Managers.<GetRequest>d__5:MoveNext()
+10-20 17:53:11.492   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:53:11.492   469   692 I Unity   : 
+10-20 17:53:11.798   469   692 I Unity   : Appsflyer conversion success {"install_time":"2026-10-09 20:05:56.688","af_message":"organic install","af_status":"Organic","is_first_launch":false}
+10-20 17:53:11.798   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:11.798   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:53:11.798   469   692 I Unity   : 
+10-20 17:53:11.799   469   692 I Unity   : AppsFlyer_Unity_v6.17.90 didReceiveConversionData called with {"install_time":"2026-10-09 20:05:56.688","af_message":"organic install","af_status":"Organic","is_first_launch":false}
+10-20 17:53:11.799   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:11.799   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:53:11.799   469   692 I Unity   : 
+10-20 17:53:11.800   469   692 I Unity   : install_time: 2026-10-09 20:05:56.688
+10-20 17:53:11.800   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:11.800   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:53:11.800   469   692 I Unity   : 
+10-20 17:53:11.801   469   692 I Unity   : af_message: organic install
+10-20 17:53:11.801   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:11.801   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:53:11.801   469   692 I Unity   : 
+10-20 17:53:11.801   469   692 I Unity   : af_status: Organic
+10-20 17:53:11.801   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:11.801   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:53:11.801   469   692 I Unity   : 
+10-20 17:53:11.801   469   692 I Unity   : is_first_launch: False
+10-20 17:53:11.801   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:11.801   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:53:11.801   469   692 I Unity   : 
+10-20 17:53:12.621   469   692 I Unity   : SCROLL: START
+10-20 17:53:12.621   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:12.621   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnBeginDrag(PointerEventData)
+10-20 17:53:12.621   469   692 I Unity   : BitLife.UI.CandyObjects.<PassOnBeginDragEvent>d__50:MoveNext()
+10-20 17:53:12.621   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:53:12.621   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:53:12.621   469   692 I Unity   : UnityEngine.EventSystems.PointerInputModule:ProcessDrag(PointerEventData)
+10-20 17:53:12.621   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:53:12.621   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:53:12.621   469   692 I Unity   : 
+10-20 17:53:12.711   469   692 I Unity   : SCROLL: END
+10-20 17:53:12.711   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:12.711   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnEndDrag(PointerEventData)
+10-20 17:53:12.711   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:53:12.711   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:53:12.711   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:53:12.711   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:53:12.711   469   692 I Unity   : 
+10-20 17:53:17.586   469   692 I BitLifeDiag: M54 menu | FightIntro52
+10-20 17:53:17.697   469   692 I BitLifeDiag: M54 menu | SpecialCareers
+10-20 17:53:17.711   469   692 I BitLifeDiag: M54 menu | T1
+10-20 17:53:18.660   469   692 I Unity   : SCROLL: START
+10-20 17:53:18.660   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:18.660   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnBeginDrag(PointerEventData)
+10-20 17:53:18.660   469   692 I Unity   : BitLife.UI.CandyObjects.<PassOnBeginDragEvent>d__50:MoveNext()
+10-20 17:53:18.660   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:53:18.660   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:53:18.660   469   692 I Unity   : UnityEngine.EventSystems.PointerInputModule:ProcessDrag(PointerEventData)
+10-20 17:53:18.660   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:53:18.660   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:53:18.660   469   692 I Unity   : 
+10-20 17:53:18.874   469   692 I Unity   : SCROLL: END
+10-20 17:53:18.874   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:18.874   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnEndDrag(PointerEventData)
+10-20 17:53:18.874   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:53:18.874   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:53:18.874   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:53:18.874   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:53:18.874   469   692 I Unity   : 
+10-20 17:53:24.094   469   692 I BitLifeDiag: M54 menu | T4:Crime
+10-20 17:53:24.094   469   692 I BitLifeDiag: M54 menu | Crime54
+10-20 17:53:24.383   469   692 I BitLifeDiag: M54 menu | SocialFollowing5
+10-20 17:53:24.384   469   692 I BitLifeDiag: M54 menu | SocialFollowing6
+10-20 17:53:24.384   469   692 I BitLifeDiag: M54 menu | SocialMedia
+10-20 17:53:24.400   469   692 I BitLifeDiag: M54 menu | T4
+10-20 17:53:25.088   469   692 I Unity   : SCROLL: START
+10-20 17:53:25.088   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:25.088   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnBeginDrag(PointerEventData)
+10-20 17:53:25.088   469   692 I Unity   : BitLife.UI.CandyObjects.<PassOnBeginDragEvent>d__50:MoveNext()
+10-20 17:53:25.088   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:53:25.088   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:53:25.088   469   692 I Unity   : UnityEngine.EventSystems.PointerInputModule:ProcessDrag(PointerEventData)
+10-20 17:53:25.088   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:53:25.088   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:53:25.088   469   692 I Unity   : 
+10-20 17:53:25.219   469   692 I Unity   : SCROLL: END
+10-20 17:53:25.219   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:25.219   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnEndDrag(PointerEventData)
+10-20 17:53:25.219   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:53:25.219   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:53:25.219   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+
+--- Exception context ---
+10-20 17:53:42.940   469   692 I Unity   : 
+10-20 17:53:43.241   469   692 I Unity   : SCROLL: END
+10-20 17:53:43.241   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:43.241   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnEndDrag(PointerEventData)
+10-20 17:53:43.241   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:53:43.241   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:53:43.241   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:53:43.241   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:53:43.241   469   692 I Unity   : 
+10-20 17:53:46.789   469   692 I Unity   : SCROLL: START
+10-20 17:53:46.789   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:46.789   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnBeginDrag(PointerEventData)
+10-20 17:53:46.789   469   692 I Unity   : BitLife.UI.CandyObjects.<PassOnBeginDragEvent>d__50:MoveNext()
+10-20 17:53:46.789   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:53:46.789   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:53:46.789   469   692 I Unity   : UnityEngine.EventSystems.PointerInputModule:ProcessDrag(PointerEventData)
+10-20 17:53:46.789   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:53:46.789   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:53:46.789   469   692 I Unity   : 
+10-20 17:53:46.905   469   692 I Unity   : SCROLL: END
+10-20 17:53:46.905   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:46.905   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnEndDrag(PointerEventData)
+10-20 17:53:46.905   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:53:46.905   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:53:46.905   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:53:46.905   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:53:46.905   469   692 I Unity   : 
+10-20 17:53:47.837   469   692 I Unity   : SCROLL: START
+10-20 17:53:47.837   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:47.837   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnBeginDrag(PointerEventData)
+10-20 17:53:47.837   469   692 I Unity   : BitLife.UI.CandyObjects.<PassOnBeginDragEvent>d__50:MoveNext()
+10-20 17:53:47.837   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:53:47.837   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:53:47.837   469   692 I Unity   : UnityEngine.EventSystems.PointerInputModule:ProcessDrag(PointerEventData)
+10-20 17:53:47.837   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:53:47.837   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:53:47.837   469   692 I Unity   : 
+10-20 17:53:49.637   469   692 I Unity   : SCROLL: END
+10-20 17:53:49.637   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:49.637   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnEndDrag(PointerEventData)
+10-20 17:53:49.637   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:53:49.637   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:53:49.637   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:53:49.637   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:53:49.637   469   692 I Unity   : 
+10-20 17:53:51.119   469   692 I Unity   : SCROLL: START
+10-20 17:53:51.119   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:51.119   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnBeginDrag(PointerEventData)
+10-20 17:53:51.119   469   692 I Unity   : BitLife.UI.CandyObjects.<PassOnBeginDragEvent>d__50:MoveNext()
+10-20 17:53:51.119   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:53:51.119   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:53:51.119   469   692 I Unity   : UnityEngine.EventSystems.PointerInputModule:ProcessDrag(PointerEventData)
+10-20 17:53:51.119   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:53:51.119   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:53:51.119   469   692 I Unity   : 
+10-20 17:53:51.202   469   692 I Unity   : SCROLL: END
+10-20 17:53:51.202   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:51.202   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnEndDrag(PointerEventData)
+10-20 17:53:51.202   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:53:51.202   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:53:51.202   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:53:51.202   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:53:51.202   469   692 I Unity   : 
+2026-10-20 17:53:51.611 Activity paused: com.unity3d.player.UnityPlayerActivity
+10-20 17:53:52.189   469   837 E adservices: Failed binding to measurement service: com.android.adservices.shared.common.exception.ServiceUnavailableException: Service is not available.
+2026-10-20 17:53:52.965 Activity resumed: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:53:53.011 D13 - Game activity resumed; engine running
+10-20 17:53:53.056   469 12521 E adservices: Failed binding to measurement service: com.android.adservices.shared.common.exception.ServiceUnavailableException: Service is not available.
+10-20 17:53:53.484   469   692 I Unity   : SCROLL: START
+10-20 17:53:53.484   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:53.484   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnBeginDrag(PointerEventData)
+10-20 17:53:53.484   469   692 I Unity   : BitLife.UI.CandyObjects.<PassOnBeginDragEvent>d__50:MoveNext()
+10-20 17:53:53.484   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:53:53.484   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:53:53.484   469   692 I Unity   : UnityEngine.EventSystems.PointerInputModule:ProcessDrag(PointerEventData)
+10-20 17:53:53.484   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:53:53.484   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:53:53.484   469   692 I Unity   : 
+10-20 17:53:53.634   469   692 I Unity   : SCROLL: END
+10-20 17:53:53.634   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:53.634   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnEndDrag(PointerEventData)
+10-20 17:53:53.634   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:53:53.634   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:53:53.634   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:53:53.634   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:53:53.634   469   692 I Unity   : 
+10-20 17:53:53.943   469   692 I Unity   : Semaphore request was successful!
+10-20 17:53:53.943   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:53.943   469   692 I Unity   : CandyBusiness.Managers.<GetRequest>d__5:MoveNext()
+10-20 17:53:53.943   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:53:53.943   469   692 I Unity   : 
+10-20 17:53:54.067   469   692 I Unity   : SCROLL: START
+10-20 17:53:54.067   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:54.067   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnBeginDrag(PointerEventData)
+10-20 17:53:54.067   469   692 I Unity   : BitLife.UI.CandyObjects.<PassOnBeginDragEvent>d__50:MoveNext()
+10-20 17:53:54.067   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:53:54.067   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:53:54.067   469   692 I Unity   : UnityEngine.EventSystems.PointerInputModule:ProcessDrag(PointerEventData)
+10-20 17:53:54.067   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:53:54.067   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:53:54.067   469   692 I Unity   : 
+10-20 17:53:54.282   469   692 I Unity   : Appsflyer conversion success {"install_time":"2026-10-09 20:05:56.688","af_message":"organic install","af_status":"Organic","is_first_launch":false}
+10-20 17:53:54.282   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:54.282   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:53:54.282   469   692 I Unity   : 
+10-20 17:53:54.283   469   692 I Unity   : AppsFlyer_Unity_v6.17.90 didReceiveConversionData called with {"install_time":"2026-10-09 20:05:56.688","af_message":"organic install","af_status":"Organic","is_first_launch":false}
+10-20 17:53:54.283   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:54.283   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:53:54.283   469   692 I Unity   : 
+10-20 17:53:54.283   469   692 I Unity   : install_time: 2026-10-09 20:05:56.688
+10-20 17:53:54.283   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:54.283   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:53:54.283   469   692 I Unity   : 
+10-20 17:53:54.284   469   692 I Unity   : af_message: organic install
+10-20 17:53:54.284   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:54.284   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:53:54.284   469   692 I Unity   : 
+10-20 17:53:54.284   469   692 I Unity   : af_status: Organic
+10-20 17:53:54.284   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:54.284   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:53:54.284   469   692 I Unity   : 
+10-20 17:53:54.285   469   692 I Unity   : is_first_launch: False
+10-20 17:53:54.285   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:54.285   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:53:54.285   469   692 I Unity   : 
+10-20 17:53:54.417   469   692 I Unity   : SCROLL: END
+10-20 17:53:54.417   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:53:54.417   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnEndDrag(PointerEventData)
+10-20 17:53:54.417   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:53:54.417   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:53:54.417   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:53:54.417   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:53:54.417   469   692 I Unity   : 
+10-20 17:53:55.050   469   692 I BitLifeDiag: M54 scenario | scenario.activitiesV18.action52_102
+10-20 17:53:55.978   469   692 I BitLifeDiag: [NL25] native checkpoint 1600
+2026-10-20 17:53:55.980 NL25 native checkpoint 1600: Native game checkpoint
+10-20 17:53:55.982   469   692 I BitLifeDiag: M54 scenario | scenario.activitiesV18.action52_91
+10-20 17:54:04.530   469   692 I BitLifeDiag: M54 menu | T4:Crime
+10-20 17:54:04.532   469   692 I BitLifeDiag: M54 menu | Crime54
+10-20 17:54:04.622   469   692 I BitLifeDiag: M54 menu | SocialFollowing5
+10-20 17:54:04.623   469   692 I BitLifeDiag: M54 menu | SocialFollowing6
+10-20 17:54:04.623   469   692 I BitLifeDiag: M54 menu | SocialMedia
+10-20 17:54:04.636   469   692 I BitLifeDiag: M54 menu | T4
+10-20 17:54:05.897   469   692 I Unity   : SCROLL: START
+10-20 17:54:05.897   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:54:05.897   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnBeginDrag(PointerEventData)
+10-20 17:54:05.897   469   692 I Unity   : BitLife.UI.CandyObjects.<PassOnBeginDragEvent>d__50:MoveNext()
+10-20 17:54:05.897   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:54:05.897   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:54:05.897   469   692 I Unity   : UnityEngine.EventSystems.PointerInputModule:ProcessDrag(PointerEventData)
+10-20 17:54:05.897   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:54:05.897   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:54:05.897   469   692 I Unity   : 
+10-20 17:54:06.307   469   692 I Unity   : SCROLL: END
+10-20 17:54:06.307   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:54:06.307   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnEndDrag(PointerEventData)
+10-20 17:54:06.307   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:54:06.307   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:54:06.307   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:54:06.307   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:54:06.307   469   692 I Unity   : 
+10-20 17:54:06.575   469   692 I Unity   : SCROLL: START
+10-20 17:54:06.575   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:54:06.575   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnBeginDrag(PointerEventData)
+10-20 17:54:06.575   469   692 I Unity   : BitLife.UI.CandyObjects.<PassOnBeginDragEvent>d__50:MoveNext()
+10-20 17:54:06.575   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:54:06.575   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:54:06.575   469   692 I Unity   : UnityEngine.EventSystems.PointerInputModule:ProcessDrag(PointerEventData)
+10-20 17:54:06.575   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:54:06.575   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:54:06.575   469   692 I Unity   : 
+10-20 17:54:06.930   469   692 I Unity   : SCROLL: END
+10-20 17:54:06.930   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:54:06.930   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnEndDrag(PointerEventData)
+10-20 17:54:06.930   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:54:06.930   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:54:06.930   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:54:06.930   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:54:06.930   469   692 I Unity   : 
+10-20 17:54:07.222   469   692 I Unity   : SCROLL: START
+10-20 17:54:07.222   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:54:07.222   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnBeginDrag(PointerEventData)
+10-20 17:54:07.222   469   692 I Unity   : BitLife.UI.CandyObjects.<PassOnBeginDragEvent>d__50:MoveNext()
+10-20 17:54:07.222   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:54:07.222   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:54:07.222   469   692 I Unity   : UnityEngine.EventSystems.PointerInputModule:ProcessDrag(PointerEventData)
+10-20 17:54:07.222   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:54:07.222   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:54:07.222   469   692 I Unity   : 
+10-20 17:54:07.506   469   692 I Unity   : SCROLL: END
+10-20 17:54:07.506   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:54:07.506   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnEndDrag(PointerEventData)
+10-20 17:54:07.506   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:54:07.506   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:54:07.506   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:54:07.506   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:54:07.506   469   692 I Unity   : 
+10-20 17:54:08.989   469   692 I Unity   : SCROLL: START
+10-20 17:54:08.989   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:54:08.989   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnBeginDrag(PointerEventData)
+10-20 17:54:08.989   469   692 I Unity   : BitLife.UI.CandyObjects.<PassOnBeginDragEvent>d__50:MoveNext()
+10-20 17:54:08.989   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:54:08.989   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:54:08.989   469   692 I Unity   : UnityEngine.EventSystems.PointerInputModule:ProcessDrag(PointerEventData)
+10-20 17:54:08.989   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:54:08.989   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:54:08.989   469   692 I Unity   : 
+10-20 17:54:09.107   469   692 I Unity   : SCROLL: END
+10-20 17:54:09.107   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:54:09.107   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnEndDrag(PointerEventData)
+10-20 17:54:09.107   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:54:09.107   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:54:09.107   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:54:09.107   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:54:09.107   469   692 I Unity   : 
+2026-10-20 17:54:09.603 Activity paused: com.unity3d.player.UnityPlayerActivity
+10-20 17:54:10.221   469 11322 E adservices: Failed binding to measurement service: com.android.adservices.shared.common.exception.ServiceUnavailableException: Service is not available.
+2026-10-20 17:55:09.351 Activity resumed: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:55:09.420 D13 - Game activity resumed; engine running
+10-20 17:55:09.557   469   837 E adservices: Failed binding to measurement service: com.android.adservices.shared.common.exception.ServiceUnavailableException: Service is not available.
+10-20 17:55:10.170   469  1686 E AppLovinSdk: [AppLovinCommunicator] Attempting to re-subscribe subscriber (82546426) to topic (max_revenue_events)
+10-20 17:55:10.171   469  1686 E AppLovinSdk: [AppLovinCommunicator] Attempting to re-subscribe subscriber (82546426) to topic (max_revenue_events)
+10-20 17:55:10.804   469   692 I Unity   : Semaphore request was successful!
+10-20 17:55:10.804   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+
+--- Exception context ---
+10-20 17:55:14.560   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:55:14.560   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:55:14.560   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:55:14.560   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:55:14.560   469   692 I Unity   : 
+10-20 17:55:15.344   469   692 I Unity   : SCROLL: START
+10-20 17:55:15.344   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:55:15.344   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnBeginDrag(PointerEventData)
+10-20 17:55:15.344   469   692 I Unity   : BitLife.UI.CandyObjects.<PassOnBeginDragEvent>d__50:MoveNext()
+10-20 17:55:15.344   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:55:15.344   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:55:15.344   469   692 I Unity   : UnityEngine.EventSystems.PointerInputModule:ProcessDrag(PointerEventData)
+10-20 17:55:15.344   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:55:15.344   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:55:15.344   469   692 I Unity   : 
+10-20 17:55:15.461   469   692 I Unity   : SCROLL: END
+10-20 17:55:15.461   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:55:15.461   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnEndDrag(PointerEventData)
+10-20 17:55:15.461   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:55:15.461   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:55:15.461   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:55:15.461   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:55:15.461   469   692 I Unity   : 
+10-20 17:55:18.092   469   692 I Unity   : SCROLL: START
+10-20 17:55:18.092   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:55:18.092   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnBeginDrag(PointerEventData)
+10-20 17:55:18.092   469   692 I Unity   : BitLife.UI.CandyObjects.<PassOnBeginDragEvent>d__50:MoveNext()
+10-20 17:55:18.092   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:55:18.092   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:55:18.092   469   692 I Unity   : UnityEngine.EventSystems.PointerInputModule:ProcessDrag(PointerEventData)
+10-20 17:55:18.092   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:55:18.092   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:55:18.092   469   692 I Unity   : 
+10-20 17:55:18.475   469   692 I Unity   : SCROLL: END
+10-20 17:55:18.475   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:55:18.475   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnEndDrag(PointerEventData)
+10-20 17:55:18.475   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:55:18.475   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:55:18.475   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:55:18.475   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:55:18.475   469   692 I Unity   : 
+10-20 17:55:18.990   469   692 I BitLifeDiag: M54 scenario | scenario.activitiesV18.action52_103
+10-20 17:55:20.521   469   692 I BitLifeDiag: [NL25] native checkpoint 1600
+2026-10-20 17:55:20.525 NL25 native checkpoint 1600: Native game checkpoint
+10-20 17:55:20.527   469   692 I BitLifeDiag: M54 scenario | scenario.activitiesV18.action52_91
+2026-10-20 17:55:21.971 NL25 native checkpoint 1600: Native game checkpoint
+10-20 17:55:21.970   469   692 I BitLifeDiag: [NL25] native checkpoint 1600
+10-20 17:55:23.337   469   692 I Unity   : SCROLL: START
+10-20 17:55:23.337   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:55:23.337   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnBeginDrag(PointerEventData)
+10-20 17:55:23.337   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:55:23.337   469   692 I Unity   : UnityEngine.EventSystems.PointerInputModule:ProcessDrag(PointerEventData)
+10-20 17:55:23.337   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:55:23.337   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:55:23.337   469   692 I Unity   : 
+10-20 17:55:23.469   469   692 I Unity   : SCROLL: END
+10-20 17:55:23.469   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:55:23.469   469   692 I Unity   : BitLife.UI.CandyObjects.CandyScroller:OnEndDrag(PointerEventData)
+10-20 17:55:23.469   469   692 I Unity   : UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+10-20 17:55:23.469   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchPress(PointerEventData, Boolean, Boolean)
+10-20 17:55:23.469   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:ProcessTouchEvents()
+10-20 17:55:23.469   469   692 I Unity   : UnityEngine.EventSystems.StandaloneInputModule:Process()
+10-20 17:55:23.469   469   692 I Unity   : 
+2026-10-20 17:55:24.976 Activity paused: com.unity3d.player.UnityPlayerActivity
+10-20 17:55:25.501   469 11322 E adservices: Failed binding to measurement service: com.android.adservices.shared.common.exception.ServiceUnavailableException: Service is not available.
+2026-10-20 17:56:04.597 Activity resumed: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:56:04.629 D13 - Game activity resumed; engine running
+10-20 17:56:04.776   469 15843 E adservices: Failed binding to measurement service: com.android.adservices.shared.common.exception.ServiceUnavailableException: Service is not available.
+10-20 17:56:05.246   469  1686 E AppLovinSdk: [AppLovinCommunicator] Attempting to re-subscribe subscriber (82546426) to topic (max_revenue_events)
+10-20 17:56:05.247   469  1686 E AppLovinSdk: [AppLovinCommunicator] Attempting to re-subscribe subscriber (82546426) to topic (max_revenue_events)
+10-20 17:56:05.503   469   692 I Unity   : Semaphore request was successful!
+10-20 17:56:05.503   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:56:05.503   469   692 I Unity   : CandyBusiness.Managers.<GetRequest>d__5:MoveNext()
+10-20 17:56:05.503   469   692 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+10-20 17:56:05.503   469   692 I Unity   : 
+10-20 17:56:05.990   469   692 I Unity   : Appsflyer conversion success {"install_time":"2026-10-09 20:05:56.688","af_message":"organic install","af_status":"Organic","is_first_launch":false}
+10-20 17:56:05.990   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:56:05.990   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:56:05.990   469   692 I Unity   : 
+10-20 17:56:05.991   469   692 I Unity   : AppsFlyer_Unity_v6.17.90 didReceiveConversionData called with {"install_time":"2026-10-09 20:05:56.688","af_message":"organic install","af_status":"Organic","is_first_launch":false}
+10-20 17:56:05.991   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:56:05.991   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:56:05.991   469   692 I Unity   : 
+10-20 17:56:05.992   469   692 I Unity   : install_time: 2026-10-09 20:05:56.688
+10-20 17:56:05.992   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:56:05.992   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:56:05.992   469   692 I Unity   : 
+10-20 17:56:05.993   469   692 I Unity   : af_message: organic install
+10-20 17:56:05.993   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:56:05.993   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:56:05.993   469   692 I Unity   : 
+10-20 17:56:05.994   469   692 I Unity   : af_status: Organic
+10-20 17:56:05.994   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:56:05.994   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:56:05.994   469   692 I Unity   : 
+10-20 17:56:05.995   469   692 I Unity   : is_first_launch: False
+10-20 17:56:05.995   469   692 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+10-20 17:56:05.995   469   692 I Unity   : AppsFlyerManager:onConversionDataSuccess(String)
+10-20 17:56:05.995   469   692 I Unity   : 
+2026-10-20 17:56:07.116 LOG menu opened
+2026-10-20 17:56:08.492 Activity paused: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:56:08.550 Activity created: com.chance.bitlifediag.DiagnosticsExport54
+2026-10-20 17:56:08.584 Activity resumed: com.chance.bitlifediag.DiagnosticsExport54
+2026-10-20 17:56:08.655 Activity paused: com.chance.bitlifediag.DiagnosticsExport54
+10-20 17:56:09.169   469 14988 E adservices: Failed binding to measurement service: com.android.adservices.shared.common.exception.ServiceUnavailableException: Service is not available.
+2026-10-20 17:56:17.073 Activity resumed: com.chance.bitlifediag.DiagnosticsExport54
+10-20 17:56:17.194   469   837 E adservices: Failed binding to measurement service: com.android.adservices.shared.common.exception.ServiceUnavailableException: Service is not available.

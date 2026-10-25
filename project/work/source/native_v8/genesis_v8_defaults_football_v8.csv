@@ -1,0 +1,14 @@
+key,type,value,reset_on_ageup,minimum,maximum
+Sessions,int,0,true,0,6
+Round,int,0,,0,5
+Goals,int,0,,0,5
+BestGoals,int,0,,0,5
+KeeperLane,int,0,,0,3
+ShotActive,int,0,,0,1
+GameActive,int,0,,0,1
+PassingStage,int,0,,0,4
+PassingScore,int,0,,0,3
+Shooting,int,20,,0,100
+Vision,int,20,,0,100
+NativeFitnessImpact,int,0,,-3,3
+NativeRespectImpact,int,0,,-3,3

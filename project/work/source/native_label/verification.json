@@ -1,0 +1,56 @@
+{
+  "apk": "/workspace/scratch/206e17ff98a0/bitlife_annual_fix/native_label_work/BitLife_Native_Record_Label_v6.apk",
+  "size": 268766698,
+  "sha256": "fe235ded807265f3364a8d18b46581a2bb241b24c4c4e1e59d53a48f7eac03d9",
+  "backup": "/workspace/scratch/206e17ff98a0/bitlife_annual_fix/native_label_work/BitLife_Native_Record_Label_v6.zip",
+  "base_sha256": "5a92457192314e8a02d70a3b2ae30b89029eccf59612f7706fd7f684f8442663",
+  "changed_apk_entries": [
+    "assets/bin/Data/datapack.unity3d",
+    "assets/bin/Data/data.unity3d"
+  ],
+  "changed_existing_resources": [
+    "genesis_music_studio_ageup",
+    "genesis_music_studio_defaults",
+    "genesis_music_studio_hub"
+  ],
+  "new_resource_paths": {
+    "genesis_record_label_artist1": 36793,
+    "genesis_record_label_artist2": 36794,
+    "genesis_record_label_artist3": 36795,
+    "genesis_record_label_artist4": 36796,
+    "genesis_record_label_hub": 36797,
+    "genesis_record_label_scout": 36798,
+    "genesis_record_label": 36799
+  },
+  "preserved_resource_registrations": 17403,
+  "preserved_datapack_objects": 36789,
+  "preserved_data_objects": 12815,
+  "dealer_tests": {
+    "status": "passed",
+    "instruction_emulation_cases": 712,
+    "aslr_load_biases": [
+      "0x0",
+      "0x1000000000"
+    ],
+    "coverage": [
+      "valid weighted indices unchanged",
+      "negative and oversized indices clamped",
+      "empty filtered pool retries catalogue once",
+      "missing or empty catalogue returns null",
+      "item generation preserves original nonnull paths",
+      "callee-saved registers and SP preserved"
+    ],
+    "limitation": "Existing virtual Count/RNG calls are simulated; not a device gameplay test."
+  },
+  "prison_icon_tests": {
+    "status": "passed",
+    "cases": 32,
+    "fallback": "factory",
+    "known_job_branches_preserved": true
+  },
+  "signing": {
+    "VerifyApk.java": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]",
+    "VerifyNativeSigner.java": "verified=true; actual APK signer matches native SHA-1 check; fingerprint=N3gA1+wRR7rLi+T23e/U4BZZu9Q="
+  },
+  "device_runtime_tested": false
+}

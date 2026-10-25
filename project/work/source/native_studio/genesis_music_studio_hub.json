@@ -1,0 +1,164 @@
+{
+  "ListID": "genesis_music_studio_hub",
+  "Title": "MUSIC STUDIO",
+  "PresentationMode": "Normal",
+  "Sections": [
+    {
+      "Items": [
+        {
+          "Title": "Open Music Studio",
+          "Icon": "mic-studio",
+          "SecondLine": "Start an independent production career",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.musicStudio.open",
+                  "ScenarioFile": "genesis_music_studio"
+                }
+              ]
+            }
+          ],
+          "IsVisible": "[gfc.music_studio.Started=0]"
+        },
+        {
+          "Title": "Studio Profile",
+          "Icon": "hero",
+          "SecondLine": "<GFC.music_studio.Fans> fans · <GFC.music_studio.TotalReleases> releases",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.musicStudio.profile",
+                  "ScenarioFile": "genesis_music_studio"
+                }
+              ]
+            }
+          ],
+          "IsVisible": "[gfc.music_studio.Started=1]",
+          "BarGraph": {
+            "Title": "Reputation",
+            "Value": "<GFC.music_studio.Reputation>",
+            "Style": "LOW_IS_RED"
+          }
+        }
+      ]
+    },
+    {
+      "Title": "Projects",
+      "IsVisible": "[gfc.music_studio.Started=1]",
+      "Items": [
+        {
+          "Title": "New Project",
+          "Icon": "cd",
+          "SecondLine": "Create a single, EP or album",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.musicStudio.new",
+                  "ScenarioFile": "genesis_music_studio"
+                }
+              ]
+            }
+          ],
+          "IsVisible": "[gfc.music_studio.Active=0]"
+        },
+        {
+          "Title": "<GFC.music_studio.ProjectTitle>",
+          "Icon": "cd",
+          "SecondLine": "<GFC.music_studio.Format> · <GFC.music_studio.Genre>",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ListID": "genesis_music_studio_project"
+                }
+              ]
+            }
+          ],
+          "IsVisible": "[gfc.music_studio.Active=1]",
+          "BarGraph": {
+            "Title": "Production",
+            "Value": "<GFC.music_studio.Progress>",
+            "Style": "LOW_IS_RED"
+          }
+        },
+        {
+          "Title": "Release Catalogue",
+          "Icon": "cd",
+          "SecondLine": "Browse your eight most recent releases",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ListID": "genesis_music_studio_catalog"
+                }
+              ]
+            }
+          ],
+          "IsVisible": "[gfc.music_studio.TotalReleases>=1]"
+        }
+      ]
+    },
+    {
+      "Title": "Studio Business",
+      "IsVisible": "[gfc.music_studio.Started=1]",
+      "Items": [
+        {
+          "Title": "Distribution",
+          "Icon": "handshake",
+          "SecondLine": "<GFC.music_studio.Distribution> · <GFC.music_studio.Share>% share",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.musicStudio.distribution",
+                  "ScenarioFile": "genesis_music_studio"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Equipment",
+          "Icon": "imac",
+          "SecondLine": "Upgrade your recording space",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.musicStudio.equipment",
+                  "ScenarioFile": "genesis_music_studio"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Royalties",
+          "Icon": "money-bag",
+          "SecondLine": "Annual income: <currency=<GFC.music_studio.AnnualRoyalty>>",
+          "ActionList": [
+            {
+              "Index": 0,
+              "ConditionList": [
+                {
+                  "ScenarioID": "scenario.musicStudio.royalties",
+                  "ScenarioFile": "genesis_music_studio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

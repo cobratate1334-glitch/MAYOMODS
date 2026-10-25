@@ -1,0 +1,13 @@
+{
+  "entry_menu": "T1",
+  "InjectMenuEntries": "0x30611d0",
+  "BuildListItem": "0x3061700",
+  "menu_callback": "0x3061b30",
+  "ShowList": "0x30895ac",
+  "GetOrCreateFeatureContainer": "0x32800fc",
+  "ProcessAgeUp": "0x305e134",
+  "bank_adjustment_blueprint": "0x3211400",
+  "bank_adjustment_method": "0x2a6eb5c",
+  "resource_manager": "globalgamemanagers path 13; external resources.assets file 5",
+  "runtime_tested": false
+}

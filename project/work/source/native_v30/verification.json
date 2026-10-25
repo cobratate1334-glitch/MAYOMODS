@@ -1,0 +1,547 @@
+{
+  "version": "v30",
+  "apk": "/workspace/scratch/feb83fa3a2be/deliverables/BitLife_MayoMods_v30.apk",
+  "size": 307340406,
+  "sha256": "c790518c1564b4be8d6baf8e508f2fe8f069677ed5d58e9b91aaf1fc740049b4",
+  "versionCode": 1074,
+  "base_sha256": "a0ac2e742937b5a91c2d4cdb6095a251647957dd7cc53228018755bf536274df",
+  "manifest_version": {
+    "previous": 1073,
+    "current": 1074,
+    "byte_offset": 33508,
+    "other_manifest_bytes_preserved": true
+  },
+  "changed_apk_entries": [
+    "classes10.dex",
+    "AndroidManifest.xml",
+    "classes13.dex"
+  ],
+  "preserved_apk_entries": 2772,
+  "signing": {
+    "VerifyApk.java": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]",
+    "VerifyNativeSigner.java": "verified=true; actual APK signer matches native SHA-1 check; fingerprint=N3gA1+wRR7rLi+T23e/U4BZZu9Q="
+  },
+  "existing_signer_retained": true,
+  "native_libraries_byte_for_byte_preserved": {
+    "lib/arm64-v8a/libRocketGames.so": "4c076edb3e9d8cc44ef22b4e84985704abd5d56bb10ebccd5a26437c9db593ff",
+    "lib/arm64-v8a/libRocketGamesTool.so": "76436b15d32e5810b9f8a75636c946b0967e8e06f74a8847acd5a92ddb21f9be",
+    "lib/arm64-v8a/libil2cpp.so": "c84f04a89444dbc36b8a479353df1d00376c4dbadd7d94f100b1c57372c7206e",
+    "lib/arm64-v8a/libAsyncGPUReadbackPlugin.so": "7ceb04c6c42668e403e2607d34df1f129a003640ec93efcf2250f2762be98083",
+    "lib/arm64-v8a/libapplovin-native-crash-reporter.so": "ecf2a7327be482870f4c791392a50cecfeaabb2c76a7224898e9713a18c4c36a",
+    "lib/arm64-v8a/libmain.so": "ea04624f7afb2a4e426ddb8215651100c5c1d04456c2b9ca533cba943d2666e8",
+    "lib/arm64-v8a/libcrashlytics-common.so": "db3c33bc6e1c0d049466280c32bd7419f9708f53ca8f5f95d584ef281996918f",
+    "lib/arm64-v8a/libunity.so": "8275e81f19c467314182c43aa6e3e90d6bc43c8fe76c437fe5ed7cc9fb9ac024",
+    "lib/arm64-v8a/libcrashlytics.so": "cad4bd6e1a6fb97cea9d02ac3f2c9c0e90c62064f7b018cf26b0a806e1489b6e",
+    "lib/arm64-v8a/libcrashlytics-trampoline.so": "811584e54eed37e92c84beb6c66c12bc6cfaa864c53db2bbb96878d95b516d60",
+    "lib/arm64-v8a/libFirebaseCppCrashlytics.so": "9dae132e917d17e3415de3752e4c2860f5b9f3e0b5370e4a76237771536493bd",
+    "lib/arm64-v8a/libFirebaseCppMessaging.so": "7d5a37744d6796eaecb5eaa09be8732b70f35f098c60819956b8718bbafca9e9",
+    "lib/arm64-v8a/libFirebaseCppApp-12_10_1.so": "eb2beed5455cabddb5833165b3d9e1a77b78acf6625449ad5edf2f3b1cd1d776",
+    "lib/arm64-v8a/libquickjs.so": "535a179c2aafaad2e653b4f4944fe095eface9cc157897248f8b65f06ed3a9af",
+    "lib/arm64-v8a/libGadsmeAndroidPlugin.so": "3a774ffab25a3673e9e944fedc1091b239cccb4572b8b58e80f0bf8bec8940a3",
+    "lib/arm64-v8a/libFirebaseCppAnalytics.so": "fb1cfd21c9da0580ab4b9c3c39fc55cc5cac79d5998f66e94b7a16fd14c34e94",
+    "lib/arm64-v8a/libembrace-native.so": "ac087790662b455f24cdcf72542891823bcb8ce3d9dc143f3960957aa55ce36f",
+    "lib/arm64-v8a/libdatastore_shared_counter.so": "d3e48717c9aa147e0ab21063ba0e8e0211cabf8bf40b222640829519edbf58e1",
+    "lib/arm64-v8a/libquack.so": "d31ec32443fe7e57a08cbd10534def7c3943f9a9df8fb97aa25d945189b34b4b",
+    "lib/arm64-v8a/libcrashlytics-handler.so": "810521d2e125c4f87a8bd5fa70e73877dd832494acac9e9f86734258f359935f",
+    "lib/arm64-v8a/libBufferToPointer.so": "f6bf1b9423aa369b8298efa8bf621f3341292dfd095aa65687970b8c1a198689",
+    "lib/arm64-v8a/libpairipcore.so": "efd8c1d390215bd8cfce141635cd167a3ac8b0a7aa527018ffe09585728be408",
+    "lib/arm64-v8a/libmayo21.so": "8ef7dfa64e841a459b3d4b341196d7215a9b2bf922a51d4e0f616c9c39d4c925"
+  },
+  "all_Unity_bundles_and_game_assets_byte_for_byte_preserved": true,
+  "New_Life_Profile_genetic_traits_and_native_command_routing_byte_for_byte_preserved": true,
+  "native_gate_dependency_and_security_checks_preserved": true,
+  "native_libraries_with_16KB_APK_alignment": 1,
+  "required_RocketGames_preflight_before_game_Activity": true,
+  "legacy_load_failure_returns_to_launcher": true,
+  "null_player_callbacks_guarded": 17,
+  "fatal_log_lines_and_API28_previous_session_evidence_retained": true,
+  "DEX_checks": {
+    "classes10.dex": {
+      "original_sha256": "12b478ba3a4740fccea18d68630e6b8097d1165ab571a7c3846375eb66a2bd19",
+      "binary_sha256": "d9088ded1337a47e895bceb91934ea6249665dbd58c922ec75c360b6bb269a6d",
+      "changes": [
+        {
+          "method": [
+            "Lcom/unity3d/player/UnityPlayerActivity;",
+            "onCreate",
+            "(Landroid/os/Bundle;)V"
+          ],
+          "original_sha256": "12b478ba3a4740fccea18d68630e6b8097d1165ab571a7c3846375eb66a2bd19",
+          "binary_sha256": "fc3b9c6d954ad0eeb5d0a858412605463b9e7ebae322f03d18fa459cfb61e288",
+          "delta_bytes": 40,
+          "exact_inverse_verified": true,
+          "other_method_bodies_and_identifiers_preserved": true,
+          "modified_method_debug_removed": false,
+          "failed_legacy_load_returns_to_launcher_without_Unity_creation": true
+        },
+        {
+          "method": [
+            "Lcom/unity3d/player/UnityPlayerActivity;",
+            "dispatchKeyEvent",
+            "(Landroid/view/KeyEvent;)Z"
+          ],
+          "original_sha256": "fc3b9c6d954ad0eeb5d0a858412605463b9e7ebae322f03d18fa459cfb61e288",
+          "binary_sha256": "36f6f7a7bfcb106d958726b2897934dbb361777a784535fa96197d43a84a7ada",
+          "delta_bytes": 16,
+          "exact_inverse_verified": true,
+          "other_method_bodies_and_identifiers_preserved": true,
+          "modified_method_debug_removed": true,
+          "null_player_safe": true,
+          "original_body_prefix_units": 9,
+          "superclass_or_setIntent_on_null": true
+        },
+        {
+          "method": [
+            "Lcom/unity3d/player/UnityPlayerActivity;",
+            "onConfigurationChanged",
+            "(Landroid/content/res/Configuration;)V"
+          ],
+          "original_sha256": "36f6f7a7bfcb106d958726b2897934dbb361777a784535fa96197d43a84a7ada",
+          "binary_sha256": "80edfdd09f3a9012ecd1e66989b91e7b226e5aa966656704c22d1d73b630d71e",
+          "delta_bytes": 16,
+          "exact_inverse_verified": true,
+          "other_method_bodies_and_identifiers_preserved": true,
+          "modified_method_debug_removed": true,
+          "null_player_safe": true,
+          "original_body_prefix_units": 8,
+          "superclass_or_setIntent_on_null": true
+        },
+        {
+          "method": [
+            "Lcom/unity3d/player/UnityPlayerActivity;",
+            "onDestroy",
+            "()V"
+          ],
+          "original_sha256": "80edfdd09f3a9012ecd1e66989b91e7b226e5aa966656704c22d1d73b630d71e",
+          "binary_sha256": "87e631eb32a39854813338be20139c35ca63958f943ecb3695328dff7629cdf5",
+          "delta_bytes": 16,
+          "exact_inverse_verified": true,
+          "other_method_bodies_and_identifiers_preserved": true,
+          "modified_method_debug_removed": false,
+          "null_player_safe": true,
+          "original_body_prefix_units": 8,
+          "superclass_or_setIntent_on_null": true
+        },
+        {
+          "method": [
+            "Lcom/unity3d/player/UnityPlayerActivity;",
+            "onGenericMotionEvent",
+            "(Landroid/view/MotionEvent;)Z"
+          ],
+          "original_sha256": "87e631eb32a39854813338be20139c35ca63958f943ecb3695328dff7629cdf5",
+          "binary_sha256": "586fcec5abaa91dfd3ea72710970338da9edf669da5d0cfb38d463fc14f01e85",
+          "delta_bytes": 12,
+          "exact_inverse_verified": true,
+          "other_method_bodies_and_identifiers_preserved": true,
+          "modified_method_debug_removed": true,
+          "null_player_safe": true,
+          "original_body_prefix_units": 6,
+          "superclass_or_setIntent_on_null": false
+        },
+        {
+          "method": [
+            "Lcom/unity3d/player/UnityPlayerActivity;",
+            "onKeyDown",
+            "(ILandroid/view/KeyEvent;)Z"
+          ],
+          "original_sha256": "586fcec5abaa91dfd3ea72710970338da9edf669da5d0cfb38d463fc14f01e85",
+          "binary_sha256": "44b8a0af55f145e639a1b8ad3e6ca10c76997bdf4b4e20111c51b29f002fe6fb",
+          "delta_bytes": 12,
+          "exact_inverse_verified": true,
+          "other_method_bodies_and_identifiers_preserved": true,
+          "modified_method_debug_removed": true,
+          "null_player_safe": true,
+          "original_body_prefix_units": 6,
+          "superclass_or_setIntent_on_null": false
+        },
+        {
+          "method": [
+            "Lcom/unity3d/player/UnityPlayerActivity;",
+            "onKeyUp",
+            "(ILandroid/view/KeyEvent;)Z"
+          ],
+          "original_sha256": "44b8a0af55f145e639a1b8ad3e6ca10c76997bdf4b4e20111c51b29f002fe6fb",
+          "binary_sha256": "976cb3b4350587603f9c01eda19556bac09db3034d3717a82b4bc704ebebc141",
+          "delta_bytes": 12,
+          "exact_inverse_verified": true,
+          "other_method_bodies_and_identifiers_preserved": true,
+          "modified_method_debug_removed": true,
+          "null_player_safe": true,
+          "original_body_prefix_units": 6,
+          "superclass_or_setIntent_on_null": false
+        },
+        {
+          "method": [
+            "Lcom/unity3d/player/UnityPlayerActivity;",
+            "onLowMemory",
+            "()V"
+          ],
+          "original_sha256": "976cb3b4350587603f9c01eda19556bac09db3034d3717a82b4bc704ebebc141",
+          "binary_sha256": "a3c76cf8517ba2496e981cd35389f733858b49ca5fc4a9fdccdc5659257a10c7",
+          "delta_bytes": 16,
+          "exact_inverse_verified": true,
+          "other_method_bodies_and_identifiers_preserved": true,
+          "modified_method_debug_removed": true,
+          "null_player_safe": true,
+          "original_body_prefix_units": 8,
+          "superclass_or_setIntent_on_null": true
+        },
+        {
+          "method": [
+            "Lcom/unity3d/player/UnityPlayerActivity;",
+            "onNewIntent",
+            "(Landroid/content/Intent;)V"
+          ],
+          "original_sha256": "a3c76cf8517ba2496e981cd35389f733858b49ca5fc4a9fdccdc5659257a10c7",
+          "binary_sha256": "ec2f95adb25d78e75d643d5f404a483ddff541a3be0a6428aa2539e810414fdd",
+          "delta_bytes": 16,
+          "exact_inverse_verified": true,
+          "other_method_bodies_and_identifiers_preserved": true,
+          "modified_method_debug_removed": true,
+          "null_player_safe": true,
+          "original_body_prefix_units": 8,
+          "superclass_or_setIntent_on_null": true
+        },
+        {
+          "method": [
+            "Lcom/unity3d/player/UnityPlayerActivity;",
+            "onPause",
+            "()V"
+          ],
+          "original_sha256": "ec2f95adb25d78e75d643d5f404a483ddff541a3be0a6428aa2539e810414fdd",
+          "binary_sha256": "7859e84968cc6ee84ae29647c66e60d710946430d9a56b48557cc9b024a9471a",
+          "delta_bytes": 16,
+          "exact_inverse_verified": true,
+          "other_method_bodies_and_identifiers_preserved": true,
+          "modified_method_debug_removed": false,
+          "null_player_safe": true,
+          "original_body_prefix_units": 8,
+          "superclass_or_setIntent_on_null": true
+        },
+        {
+          "method": [
+            "Lcom/unity3d/player/UnityPlayerActivity;",
+            "onRequestPermissionsResult",
+            "(I[Ljava/lang/String;[I)V"
+          ],
+          "original_sha256": "7859e84968cc6ee84ae29647c66e60d710946430d9a56b48557cc9b024a9471a",
+          "binary_sha256": "259fef1b63215a2e9873d04d7323c0adda1d0de8213da097e59cf8af4ec8c069",
+          "delta_bytes": 16,
+          "exact_inverse_verified": true,
+          "other_method_bodies_and_identifiers_preserved": true,
+          "modified_method_debug_removed": true,
+          "null_player_safe": true,
+          "original_body_prefix_units": 8,
+          "superclass_or_setIntent_on_null": true
+        },
+        {
+          "method": [
+            "Lcom/unity3d/player/UnityPlayerActivity;",
+            "onResume",
+            "()V"
+          ],
+          "original_sha256": "259fef1b63215a2e9873d04d7323c0adda1d0de8213da097e59cf8af4ec8c069",
+          "binary_sha256": "dba5f135612c9ce938eb114d28a89e435376f34c5c6f7f50533e016ab06a776b",
+          "delta_bytes": 16,
+          "exact_inverse_verified": true,
+          "other_method_bodies_and_identifiers_preserved": true,
+          "modified_method_debug_removed": false,
+          "null_player_safe": true,
+          "original_body_prefix_units": 8,
+          "superclass_or_setIntent_on_null": true
+        },
+        {
+          "method": [
+            "Lcom/unity3d/player/UnityPlayerActivity;",
+            "onStart",
+            "()V"
+          ],
+          "original_sha256": "dba5f135612c9ce938eb114d28a89e435376f34c5c6f7f50533e016ab06a776b",
+          "binary_sha256": "bb3e49f3e5fe5a98eee4f788dc3a01343a784688f36a6cc61775ef1f1ccdd810",
+          "delta_bytes": 16,
+          "exact_inverse_verified": true,
+          "other_method_bodies_and_identifiers_preserved": true,
+          "modified_method_debug_removed": false,
+          "null_player_safe": true,
+          "original_body_prefix_units": 8,
+          "superclass_or_setIntent_on_null": true
+        },
+        {
+          "method": [
+            "Lcom/unity3d/player/UnityPlayerActivity;",
+            "onStop",
+            "()V"
+          ],
+          "original_sha256": "bb3e49f3e5fe5a98eee4f788dc3a01343a784688f36a6cc61775ef1f1ccdd810",
+          "binary_sha256": "12f498796397d1da95a35bd301bc71707861379b2ab3843e6705b64c61e337ec",
+          "delta_bytes": 16,
+          "exact_inverse_verified": true,
+          "other_method_bodies_and_identifiers_preserved": true,
+          "modified_method_debug_removed": false,
+          "null_player_safe": true,
+          "original_body_prefix_units": 8,
+          "superclass_or_setIntent_on_null": true
+        },
+        {
+          "method": [
+            "Lcom/unity3d/player/UnityPlayerActivity;",
+            "onTouchEvent",
+            "(Landroid/view/MotionEvent;)Z"
+          ],
+          "original_sha256": "12f498796397d1da95a35bd301bc71707861379b2ab3843e6705b64c61e337ec",
+          "binary_sha256": "73901c6f7494813a4f8f33ad6e062a6200cfcbf45b1c21d3bc8ad9ff81219039",
+          "delta_bytes": 12,
+          "exact_inverse_verified": true,
+          "other_method_bodies_and_identifiers_preserved": true,
+          "modified_method_debug_removed": true,
+          "null_player_safe": true,
+          "original_body_prefix_units": 6,
+          "superclass_or_setIntent_on_null": false
+        },
+        {
+          "method": [
+            "Lcom/unity3d/player/UnityPlayerActivity;",
+            "onTrimMemory",
+            "(I)V"
+          ],
+          "original_sha256": "73901c6f7494813a4f8f33ad6e062a6200cfcbf45b1c21d3bc8ad9ff81219039",
+          "binary_sha256": "bcf46395b07b61ceb181cd6603a78d4a6dd014cf13c117a5f6391e418e99acd3",
+          "delta_bytes": 16,
+          "exact_inverse_verified": true,
+          "other_method_bodies_and_identifiers_preserved": true,
+          "modified_method_debug_removed": true,
+          "null_player_safe": true,
+          "original_body_prefix_units": 8,
+          "superclass_or_setIntent_on_null": true
+        },
+        {
+          "method": [
+            "Lcom/unity3d/player/UnityPlayerActivity;",
+            "onWindowFocusChanged",
+            "(Z)V"
+          ],
+          "original_sha256": "bcf46395b07b61ceb181cd6603a78d4a6dd014cf13c117a5f6391e418e99acd3",
+          "binary_sha256": "a461e91459ec000801afdf9ceb5a9a0959eb3e7822cd2f79e455014ed457c0f2",
+          "delta_bytes": 16,
+          "exact_inverse_verified": true,
+          "other_method_bodies_and_identifiers_preserved": true,
+          "modified_method_debug_removed": true,
+          "null_player_safe": true,
+          "original_body_prefix_units": 8,
+          "superclass_or_setIntent_on_null": true
+        },
+        {
+          "method": [
+            "Lcom/unity3d/player/UnityPlayerActivity;",
+            "requestPermissions",
+            "(Lcom/unity3d/player/PermissionRequest;)V"
+          ],
+          "original_sha256": "a461e91459ec000801afdf9ceb5a9a0959eb3e7822cd2f79e455014ed457c0f2",
+          "binary_sha256": "d9088ded1337a47e895bceb91934ea6249665dbd58c922ec75c360b6bb269a6d",
+          "delta_bytes": 12,
+          "exact_inverse_verified": true,
+          "other_method_bodies_and_identifiers_preserved": true,
+          "modified_method_debug_removed": true,
+          "null_player_safe": true,
+          "original_body_prefix_units": 5,
+          "superclass_or_setIntent_on_null": false
+        }
+      ],
+      "identifier_tables_preserved": true,
+      "changed_build_string_ids": [],
+      "ART_verifier_tested": false
+    },
+    "classes13.dex": {
+      "original_sha256": "923462fc8a15d8479b0775aa77845f4cd3c5072097e728495c7adacc6e36c57e",
+      "binary_sha256": "9f469893d5b6e094b99bcf2d864ec1667bd80f28c4106558451753cbae61ceeb",
+      "changes": [
+        {
+          "method": [
+            "Lcom/chance/bitlifediag/StartupActivity;",
+            "play",
+            "()V"
+          ],
+          "original_sha256": "923462fc8a15d8479b0775aa77845f4cd3c5072097e728495c7adacc6e36c57e",
+          "binary_sha256": "92e9eb613ff1aeb2ce683519ff7927f72a8b6e4f5519b3040b3883f318bc8036",
+          "delta_bytes": 164,
+          "exact_inverse_verified": true,
+          "other_method_bodies_and_identifiers_preserved": true,
+          "modified_method_debug_removed": true,
+          "required_library": "RocketGames",
+          "failed_preflight_never_starts_game_activity": true,
+          "load_try_pc": 67,
+          "old_body_prefix_units": 70,
+          "preflight_checkpoint_flushed_before_native_load": true
+        },
+        {
+          "method": [
+            "Lcom/chance/bitlifediag/RuntimeLogStore;",
+            "retain",
+            "(Ljava/lang/String;)Z"
+          ],
+          "original_sha256": "92e9eb613ff1aeb2ce683519ff7927f72a8b6e4f5519b3040b3883f318bc8036",
+          "binary_sha256": "88bf25a641f7c06c4049758986b4639cba32c1467aac3f44cf9ec13d31cc84e0",
+          "delta_bytes": 0,
+          "exact_inverse_verified": true,
+          "other_method_bodies_and_identifiers_preserved": true,
+          "modified_method_debug_removed": false
+        },
+        {
+          "method": [
+            "Lcom/chance/bitlifediag/RuntimeLogStore;",
+            "beginsError",
+            "(Ljava/lang/String;)Z"
+          ],
+          "original_sha256": "88bf25a641f7c06c4049758986b4639cba32c1467aac3f44cf9ec13d31cc84e0",
+          "binary_sha256": "e624d21f336a742d8f929900320cac86ac91f69c72109d2e62908c307d6b05d7",
+          "delta_bytes": 56,
+          "exact_inverse_verified": true,
+          "other_method_bodies_and_identifiers_preserved": true,
+          "modified_method_debug_removed": true
+        },
+        {
+          "method": [
+            "Lcom/chance/bitlifediag/CrashJournal;",
+            "lastCrash",
+            "()Ljava/lang/String;"
+          ],
+          "original_sha256": "e624d21f336a742d8f929900320cac86ac91f69c72109d2e62908c307d6b05d7",
+          "binary_sha256": "402f1225d4b9f85db15fe70875c13ec1fef1e9f2bc45cd1c015dbfb7a15f816c",
+          "delta_bytes": 24,
+          "exact_inverse_verified": true,
+          "other_method_bodies_and_identifiers_preserved": true,
+          "modified_method_debug_removed": true,
+          "previous_native_fatal_visible_when_no_saved_crash": true
+        }
+      ],
+      "identifier_tables_preserved": true,
+      "changed_build_string_ids": [
+        116,
+        485,
+        486,
+        487,
+        511
+      ],
+      "ART_verifier_tested": false
+    }
+  },
+  "startup_checks": {
+    "passed": true,
+    "cases": [
+      "Preflight success preserves the original game intent and starts it once",
+      "UnsatisfiedLinkError preflight remains in launcher and offers the existing LOG dialog",
+      "NoClassDefFoundError preflight remains in launcher and offers the existing LOG dialog",
+      "ExceptionInInitializerError preflight remains in launcher and offers the existing LOG dialog",
+      "VerifyError preflight remains in launcher and offers the existing LOG dialog",
+      "ClassFormatError preflight remains in launcher and offers the existing LOG dialog",
+      "IncompatibleClassChangeError preflight remains in launcher and offers the existing LOG dialog",
+      "LinkageError preflight remains in launcher and offers the existing LOG dialog",
+      "v29 negative control starts Unity activity without checking native loading",
+      "Existing Activity launch RuntimeException still persists and offers LOG",
+      "OutOfMemoryError preflight is not swallowed by the LinkageError guard",
+      "RuntimeException preflight is not swallowed by the LinkageError guard",
+      "Successful game Activity startup retains every v29 Unity call and checkpoint",
+      "UnsatisfiedLinkError direct game entry returns to launcher, while v29 incorrectly creates Unity",
+      "NoClassDefFoundError direct game entry returns to launcher, while v29 incorrectly creates Unity",
+      "ExceptionInInitializerError direct game entry returns to launcher, while v29 incorrectly creates Unity",
+      "VerifyError direct game entry returns to launcher, while v29 incorrectly creates Unity",
+      "ClassFormatError direct game entry returns to launcher, while v29 incorrectly creates Unity",
+      "IncompatibleClassChangeError direct game entry returns to launcher, while v29 incorrectly creates Unity",
+      "LinkageError direct game entry returns to launcher, while v29 incorrectly creates Unity",
+      "dispatchKeyEvent null player cleanup safely avoids Unity",
+      "dispatchKeyEvent initialized player keeps stock behavior",
+      "onConfigurationChanged null player cleanup safely avoids Unity",
+      "onConfigurationChanged initialized player keeps stock behavior",
+      "onDestroy null player cleanup safely avoids Unity",
+      "onDestroy initialized player keeps stock behavior",
+      "onGenericMotionEvent null player cleanup safely avoids Unity",
+      "onGenericMotionEvent initialized player keeps stock behavior",
+      "onKeyDown null player cleanup safely avoids Unity",
+      "onKeyDown initialized player keeps stock behavior",
+      "onKeyUp null player cleanup safely avoids Unity",
+      "onKeyUp initialized player keeps stock behavior",
+      "onLowMemory null player cleanup safely avoids Unity",
+      "onLowMemory initialized player keeps stock behavior",
+      "onNewIntent null player cleanup safely avoids Unity",
+      "onNewIntent initialized player keeps stock behavior",
+      "onPause null player cleanup safely avoids Unity",
+      "onPause initialized player keeps stock behavior",
+      "onRequestPermissionsResult null player cleanup safely avoids Unity",
+      "onRequestPermissionsResult initialized player keeps stock behavior",
+      "onResume null player cleanup safely avoids Unity",
+      "onResume initialized player keeps stock behavior",
+      "onStart null player cleanup safely avoids Unity",
+      "onStart initialized player keeps stock behavior",
+      "onStop null player cleanup safely avoids Unity",
+      "onStop initialized player keeps stock behavior",
+      "onTouchEvent null player cleanup safely avoids Unity",
+      "onTouchEvent initialized player keeps stock behavior",
+      "onTrimMemory null player cleanup safely avoids Unity",
+      "onTrimMemory initialized player keeps stock behavior",
+      "onWindowFocusChanged null player cleanup safely avoids Unity",
+      "onWindowFocusChanged initialized player keeps stock behavior",
+      "requestPermissions null player cleanup safely avoids Unity",
+      "requestPermissions initialized player keeps stock behavior",
+      "Actual DEX filter/context: 558] Aborting...",
+      "Actual DEX filter/context:  #06 pc libmain.so",
+      "Actual DEX filter/context:  cannot locate symbol",
+      "Actual DEX filter/context:  Fatal signal 6 (SIGABRT)",
+      "Actual DEX filter/context:  harmless line",
+      "Actual DEX filter/context:  normal Unity line",
+      "Actual DEX filter/context: not a log line",
+      "v29 negative control drops fatal abort and calling-frame evidence",
+      "API-28 lastCrash preserves saved error or recovered native fatal context",
+      "API-28 lastCrash preserves saved error or recovered native fatal context",
+      "API-28 lastCrash preserves saved error or recovered native fatal context"
+    ],
+    "bytecode_cases": 65,
+    "classes10_sha256": "d9088ded1337a47e895bceb91934ea6249665dbd58c922ec75c360b6bb269a6d",
+    "classes13_sha256": "9f469893d5b6e094b99bcf2d864ec1667bd80f28c4106558451753cbae61ceeb",
+    "actual_Dalvik_instructions_executed": true,
+    "unmodified_code_items": 52671,
+    "successful_startup_calls_preserved": true,
+    "failed_load_never_creates_Unity_player": true,
+    "fatal_abort_and_native_frame_lines_retained": true,
+    "null_player_callbacks": 17,
+    "Android_and_native_load_boundaries_modeled": true,
+    "ART_verifier_tested": false,
+    "BlueStacks_runtime_tested": false
+  },
+  "logging_checks": {
+    "passed": true,
+    "tests": {
+      "RuntimeLogStoreTest": "Runtime log filtering, exception preservation, rotation, persistence, reset and clipboard bounds passed",
+      "CrashJournalTest": "Crash journal cases passed: 19",
+      "TombstoneReaderTest": "PASS: crashing-thread frames, signal/fault, PID/process matching, unknown-field skipping, private data exclusion, malformed/fuzz inputs, byte limit, stalled stream",
+      "NativeCrashReaderTest": "Android crash reader cases passed: 14",
+      "RecoveredLauncherJournalTest": "Recovered launcher journal cases passed: 5",
+      "NativeFatalJournalTest": "Native fatal filtering, PID isolation, API-28 recovery and preflight persistence passed: 14"
+    },
+    "own_process_fatal_lines_preserved": true,
+    "native_fatal_recovered_without_Android11_exit_history": true,
+    "preflight_library_error_persisted": true,
+    "source_sha256": {
+      "CrashJournal.java": "732824552c3755b6b0f20af75d8f3769479497ecae8e5ef60debbd6210fc7af5",
+      "FloatingDisplay.java": "e2b9cf79ad7a5e2771ce8a46fcde328fe2fe58c8321e767034863d9475e51938",
+      "StartupActivity.java": "1e5071d04d0ed40c08db31090f2c4f69a253e1874a57928751540a6766892c19",
+      "TombstoneReader.java": "b7896e9707f45f751c463a13b19a6898067a5c167de996afb62e40b95faa24bb",
+      "DiagnosticsUI.java": "71a37e5a32a04c7bc985fd8c23a693116ecceff739c97f18f7fc05c9ac30a1e4",
+      "NativeCrashReader.java": "d1f65f068a3cdcfea680643e718fadc176ded0620516e83cfbef8f45c529e214",
+      "StartupProbe.java": "d9afdf21c5a584dbad20d1d3a6097d9820dba87d129dc23b0eba5542796222b2",
+      "LifeSetupUI.java": "23a9a8eb150109d282b2db6b415b0f720ad97f70e710bcc89ad44af000d220da",
+      "RuntimeLogCapture.java": "d286c49f6b324dbeddfd689337426277c40e6346c035d333991fece4b61c42ba",
+      "RuntimeLogStore.java": "4cfe617d0fd9da97d3df3fcef484f300efa35070bb299775fdfa501dd48c57cc",
+      "LauncherIcon.java": "e477cff047112c1738c108795c29c1d017170ce2b355a00efa3516411a134b5c"
+    },
+    "Android_service_responses_mocked": true,
+    "device_runtime_tested": false
+  },
+  "inherited_native_arm64_cases": 3580,
+  "inherited_native_checks_reason": "All 23 native libraries are byte-identical to the delivered v29. Native instruction tests were not repeated for this Java-only change.",
+  "reported_crash": "API 28: RocketGames UnsatisfiedLinkError: dlopen failed, followed by ART FatalError and native SIGABRT during Unity initialization.",
+  "underlying_emulator_dlopen_reason": "Unresolved: supplied v29 log omits the loader reason/ART abort message; v30 preserves fatal context and records the failed preflight.",
+  "does_not_claim_BlueStacks_native_library_compatibility": true,
+  "ART_verifier_tested": false,
+  "BlueStacks_runtime_tested": false,
+  "device_runtime_tested": false
+}

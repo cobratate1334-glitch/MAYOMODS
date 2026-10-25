@@ -1,0 +1,27 @@
+{
+  "index_stub_va": 103842464,
+  "item_stub_va": 103842576,
+  "segment_va": 103841792,
+  "segment_offset": 103776256,
+  "segment_size": 808,
+  "changed_original_byte_offsets": [
+    32,
+    33,
+    34,
+    35,
+    56,
+    41382292,
+    41382293,
+    41382294,
+    41382295,
+    44627352,
+    44627353,
+    44627354,
+    44627355
+  ],
+  "new_elf_program_headers": 12,
+  "all_original_section_addresses_and_non_phdr_segments_preserved": true,
+  "index_stub_source": "\n        cmp w20, #0\n        b.gt valid\n        adrp x8, 0x5c24000\n        ldr x8, [x8, #0x318]\n        cbz x8, empty\n        ldr x8, [x8]\n        cbz x8, empty\n        ldr x8, [x8, #0xb8]\n        cbz x8, empty\n        ldr x8, [x8, #0xeb8]\n        cbz x8, empty\n        cmp x8, x19\n        b.eq empty\n        mov x19, x8\n        b 0x277b150\n    valid:\n        mov w1, w0\n        cmp w1, #0\n        csel w1, w1, wzr, ge\n        sub w8, w20, #1\n        cmp w1, w20\n        csel w1, w1, w8, lt\n        ldr x8, [x19]\n        b 0x277b19c\n    empty:\n        mov x0, xzr\n        b 0x277b1dc\n    ",
+  "item_stub_source": "\n        cbz x0, missing\n        cbz x22, original_throw\n        b 0x2a9359c\n    original_throw:\n        b 0x2a936fc\n    missing:\n        mov x0, xzr\n        b 0x2a936dc\n    ",
+  "stub_disassembly": "0x63082a0 cmp w20, #0\n0x63082a4 b.gt #0x63082dc\n0x63082a8 adrp x8, #0x5c24000\n0x63082ac ldr x8, [x8, #0x318]\n0x63082b0 cbz x8, #0x63082fc\n0x63082b4 ldr x8, [x8]\n0x63082b8 cbz x8, #0x63082fc\n0x63082bc ldr x8, [x8, #0xb8]\n0x63082c0 cbz x8, #0x63082fc\n0x63082c4 ldr x8, [x8, #0xeb8]\n0x63082c8 cbz x8, #0x63082fc\n0x63082cc cmp x8, x19\n0x63082d0 b.eq #0x63082fc\n0x63082d4 mov x19, x8\n0x63082d8 b #0x277b150\n0x63082dc mov w1, w0\n0x63082e0 cmp w1, #0\n0x63082e4 csel w1, w1, wzr, ge\n0x63082e8 sub w8, w20, #1\n0x63082ec cmp w1, w20\n0x63082f0 csel w1, w1, w8, lt\n0x63082f4 ldr x8, [x19]\n0x63082f8 b #0x277b19c\n0x63082fc mov x0, xzr\n0x6308300 b #0x277b1dc\n\n0x6308310 cbz x0, #0x6308320\n0x6308314 cbz x22, #0x630831c\n0x6308318 b #0x2a9359c\n0x630831c b #0x2a936fc\n0x6308320 mov x0, xzr\n0x6308324 b #0x2a936dc"
+}

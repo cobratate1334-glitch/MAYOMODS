@@ -1,0 +1,361 @@
+{
+  "passed": true,
+  "version": "v46",
+  "versionCode": 1090,
+  "sha256": "f27f1182f6fc00044a1deaf30cc30f12151d57fe4f969067c917fd3adb1f1ea5",
+  "bytes": 338795246,
+  "changed_entries": [
+    "AndroidManifest.xml",
+    "lib/arm64-v8a/libil2cpp.so",
+    "assets/bin/Data/data.unity3d",
+    "assets/bin/Data/datapack.unity3d",
+    "classes13.dex"
+  ],
+  "preserved_entries": 2771,
+  "existing_signer_retained": true,
+  "signature_verification": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]",
+  "other_22_native_libraries_preserved": true,
+  "diagnostic_Dex_method_bodies_preserved": true,
+  "only_declared_native_edit_ranges": true,
+  "stored_entry_alignment_verified": true,
+  "manifest_version": {
+    "previous": 1089,
+    "current": 1090,
+    "byte_offset": 33508,
+    "other_manifest_bytes_preserved": true
+  },
+  "validation": {
+    "native46": {
+      "passed": true,
+      "binary_sha256": "659e6329eab8e38286a248a6ec591a030a44908f3a13a9cbc0664fc80fcd16a5",
+      "checks": 841,
+      "ASLR_bases": [
+        0,
+        68719476736
+      ],
+      "native_ScenarioBase_choice_entries_tested": true,
+      "all_dealer_buttons_navigate": true,
+      "native_car_column_bounds_negative_control": true,
+      "region_country_register_negative_control": true,
+      "native_theme_Color_ABI_checked": true,
+      "modeled_boundaries": [
+        "Unity rendering and prefab allocation",
+        "managed APIs",
+        "Genesis scenario loader/list presentation",
+        "bank adjustment"
+      ],
+      "full_Unity_engine_tested": false,
+      "physical_device_tested": false
+    },
+    "content46": {
+      "passed": true,
+      "checks": 573,
+      "menu_entries_verified": true,
+      "all_27_item_aliases_verified": true,
+      "all_catalog_rows_match_header": true,
+      "contrast_checks": [
+        {
+          "era": "Vintage",
+          "foreground": "ink",
+          "background": "paper",
+          "contrast": 11.91
+        },
+        {
+          "era": "Vintage",
+          "foreground": "ink",
+          "background": "cell",
+          "contrast": 13.22
+        },
+        {
+          "era": "Vintage",
+          "foreground": "ink",
+          "background": "alt",
+          "contrast": 10.24
+        },
+        {
+          "era": "Vintage",
+          "foreground": "secondary",
+          "background": "paper",
+          "contrast": 6.01
+        },
+        {
+          "era": "Vintage",
+          "foreground": "light",
+          "background": "bar",
+          "contrast": 9.96
+        },
+        {
+          "era": "Noir",
+          "foreground": "ink",
+          "background": "paper",
+          "contrast": 13.14
+        },
+        {
+          "era": "Noir",
+          "foreground": "ink",
+          "background": "cell",
+          "contrast": 11.13
+        },
+        {
+          "era": "Noir",
+          "foreground": "ink",
+          "background": "alt",
+          "contrast": 8.63
+        },
+        {
+          "era": "Noir",
+          "foreground": "secondary",
+          "background": "paper",
+          "contrast": 9.01
+        },
+        {
+          "era": "Noir",
+          "foreground": "light",
+          "background": "bar",
+          "contrast": 15.42
+        },
+        {
+          "era": "Retro",
+          "foreground": "ink",
+          "background": "paper",
+          "contrast": 10.7
+        },
+        {
+          "era": "Retro",
+          "foreground": "ink",
+          "background": "cell",
+          "contrast": 11.29
+        },
+        {
+          "era": "Retro",
+          "foreground": "ink",
+          "background": "alt",
+          "contrast": 9.1
+        },
+        {
+          "era": "Retro",
+          "foreground": "secondary",
+          "background": "paper",
+          "contrast": 5.77
+        },
+        {
+          "era": "Retro",
+          "foreground": "light",
+          "background": "bar",
+          "contrast": 6.19
+        },
+        {
+          "era": "Modern",
+          "foreground": "ink",
+          "background": "paper",
+          "contrast": 7.09
+        },
+        {
+          "era": "Modern",
+          "foreground": "ink",
+          "background": "cell",
+          "contrast": 7.09
+        },
+        {
+          "era": "Modern",
+          "foreground": "ink",
+          "background": "alt",
+          "contrast": 6.0
+        },
+        {
+          "era": "Modern",
+          "foreground": "secondary",
+          "background": "paper",
+          "contrast": 6.15
+        },
+        {
+          "era": "Modern",
+          "foreground": "light",
+          "background": "bar",
+          "contrast": 6.83
+        }
+      ],
+      "assets": {
+        "passed": true,
+        "modified_TextAssets": 16,
+        "added_TextAssets": [
+          "genesis_v18_expansions46",
+          "genesis_v18_defaults_expansions46"
+        ],
+        "unedited_Unity_objects_preserved": true,
+        "existing_resource_paths_preserved": true,
+        "datapack_sha256": "9cb74e21a6cd6ec236e03ab9cd88d775d91dd442b277bd16cf90cd1b69ae51b0",
+        "data_sha256": "ee4cfe50ff734cf6db77582076e39741bb8bbe9be92d32f47f49a671394af8fe"
+      }
+    },
+    "retained46": {
+      "passed": true,
+      "binary_sha256": "659e6329eab8e38286a248a6ec591a030a44908f3a13a9cbc0664fc80fcd16a5",
+      "checks": 13727,
+      "reports": {
+        "native45": {
+          "passed": true,
+          "binary_sha256": "659e6329eab8e38286a248a6ec591a030a44908f3a13a9cbc0664fc80fcd16a5",
+          "arm64_checks": 8934,
+          "ASLR_bases": [
+            0,
+            68719476736
+          ],
+          "new_car_models": 40,
+          "new_house_types": 8,
+          "new_sprite_routes": 17,
+          "native_finance_and_owned_lookups_unchanged": true,
+          "modeled_boundaries": [
+            "Genesis storage",
+            "Unity Resources.Load<Sprite>",
+            "native car/house lookup"
+          ],
+          "physical_device_tested": false,
+          "Unity_rendering_tested": false
+        },
+        "native44": {
+          "passed": true,
+          "binary_sha256": "659e6329eab8e38286a248a6ec591a030a44908f3a13a9cbc0664fc80fcd16a5",
+          "arm64_checks": 1330,
+          "ASLR_biases": [
+            0,
+            68719476736
+          ],
+          "all_27_purchase_and_equip_paths": true,
+          "era_boundaries_and_rotating_stock": true,
+          "atomic_funds_and_duplicate_purchase_guards": true,
+          "independent_slots_and_three_outfits": true,
+          "preview_excluded_from_saved_outfit": true,
+          "starting_year_native_picker": true,
+          "serialized_save_reload_fixture": true,
+          "Unity_managed_APIs_and_bank_implementation_mocked": true,
+          "physical_device_tested": false
+        },
+        "retained44": {
+          "passed": true,
+          "binary_sha256": "659e6329eab8e38286a248a6ec591a030a44908f3a13a9cbc0664fc80fcd16a5",
+          "checks": 3463,
+          "reports": {
+            "gameplay41_native": {
+              "passed": true,
+              "arm64_checks": 93,
+              "binary_sha256": "659e6329eab8e38286a248a6ec591a030a44908f3a13a9cbc0664fc80fcd16a5",
+              "test_sha256": "56ffbc2dcacf0cc8a3b367c61e0afd3413096f9a6a69d75dc288ad27b9411962",
+              "real_prison_conduct_instructions_executed": true,
+              "arrest_creation_and_Unity_UI_mocked": true,
+              "parole_board_matches_disassembled_stock_thresholds": true,
+              "checkin_warrant_and_expiry_checked": true,
+              "aslr_biases": [
+                0,
+                68719476736
+              ],
+              "device_runtime_tested": false
+            },
+            "retained40": {
+              "passed": true,
+              "retained_arm64_behavior_checks": 76,
+              "binary_sha256": "659e6329eab8e38286a248a6ec591a030a44908f3a13a9cbc0664fc80fcd16a5",
+              "old_career_and_sentencing_cases_retained": true,
+              "Unity_and_allocation_mocked": true,
+              "device_runtime_tested": false
+            },
+            "native34": {
+              "binary_sha256": "659e6329eab8e38286a248a6ec591a030a44908f3a13a9cbc0664fc80fcd16a5",
+              "arm64_cases": 1082,
+              "aslr_biases": [
+                0,
+                68719476736
+              ],
+              "actual_Action_Invoke_executed": true,
+              "real_ELF_RW_and_BSS_initial_contents_loaded": true,
+              "actual_return_hook_and_RefreshSetup_executed": true,
+              "all_293_choices_executed": true,
+              "six_fields_directly_in_New_Life": true,
+              "stock_rounded_selector_prefab_and_scroller": true,
+              "short_labels": true,
+              "rapid_repeat_edits_and_stale_Actions_checked": true,
+              "same_controller_close_reopen_checked": true,
+              "all_UI_GC_roots_released_on_dismiss_and_birth": true,
+              "existing_genetic_engine_and_baby_growth_preserved": true,
+              "stock_Start_methods_unhooked": true,
+              "Unity_prefabs_collections_and_transition_timing_modeled": true,
+              "device_runtime_tested": false,
+              "BlueStacks_runtime_tested": false
+            },
+            "native43": {
+              "passed": true,
+              "binary_sha256": "659e6329eab8e38286a248a6ec591a030a44908f3a13a9cbc0664fc80fcd16a5",
+              "arm64_checks": 2212,
+              "ASLR_biases": [
+                0,
+                68719476736
+              ],
+              "all_360_styles_shuffled_actual_component_lists": true,
+              "missing_ID_negative_control": true,
+              "cache_recovery_and_idempotence": true,
+              "custom_clone_tint_preservation": true,
+              "all_15_picker_choices": true,
+              "Unity_and_managed_string_implementation_mocked": true,
+              "physical_device_tested": false
+            }
+          },
+          "physical_device_tested": false
+        }
+      },
+      "physical_device_tested": false
+    },
+    "diagnostics46": {
+      "passed": true,
+      "sha256": "a8418885172fe17c47c2cb296c691b28ec39a1b22da54929e6a7b09ba858ee38",
+      "version_strings": [
+        {
+          "index": 165,
+          "offset": 41726,
+          "before": "Build: MayoMods v42; app: ",
+          "after": "Build: MayoMods v46; app: "
+        },
+        {
+          "index": 730,
+          "offset": 59754,
+          "before": "MayoMods v42 \u2014 Android crash record\n\n",
+          "after": "MayoMods v46 \u2014 Android crash record\n\n"
+        },
+        {
+          "index": 731,
+          "offset": 59795,
+          "before": "MayoMods v42 \u2014 local crash diagnostics\n\nLAST RECORDED CRASH / ERROR\n",
+          "after": "MayoMods v46 \u2014 local crash diagnostics\n\nLAST RECORDED CRASH / ERROR\n"
+        },
+        {
+          "index": 732,
+          "offset": 59867,
+          "before": "MayoMods v42 \u2014 recorded error\n",
+          "after": "MayoMods v46 \u2014 recorded error\n"
+        },
+        {
+          "index": 733,
+          "offset": 59901,
+          "before": "MayoMods-v42-crash-",
+          "after": "MayoMods-v46-crash-"
+        },
+        {
+          "index": 762,
+          "offset": 60739,
+          "before": "Native launch v42; packaged ABI: arm64-v8a; process: ",
+          "after": "Native launch v46; packaged ABI: arm64-v8a; process: "
+        },
+        {
+          "index": 775,
+          "offset": 61045,
+          "before": "New Life & Crash Diagnostics \u00b7 v42",
+          "after": "New Life & Crash Diagnostics \u00b7 v46"
+        }
+      ],
+      "every_Dex_method_byte_identical": true,
+      "exact_inverse_verified": true
+    }
+  },
+  "physical_phone_tested": false,
+  "ART_tested": false,
+  "Unity_rendering_tested": false
+}

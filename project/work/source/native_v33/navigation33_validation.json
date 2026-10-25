@@ -1,0 +1,31 @@
+{
+  "passed": true,
+  "arm64_cases": 800,
+  "binary_sha256": "99d70c773b40587f2b6fb357308f57e1ed0a143ad4661a90bc328cffc2cf2374",
+  "v32_negative_controls": [
+    {
+      "aslr_bias": 0,
+      "actual_stock_RevealDarkly_selected_cached_picker": true,
+      "two_pages_active_after_map_Back": true
+    },
+    {
+      "aslr_bias": 68719476736,
+      "actual_stock_RevealDarkly_selected_cached_picker": true,
+      "two_pages_active_after_map_Back": true
+    }
+  ],
+  "aslr_biases": [
+    0,
+    68719476736
+  ],
+  "actual_Action_Invoke_and_stock_last_picker_lookup_executed": true,
+  "actual_DismissAllLists_DismissAllDarklies_and_ResetTypes_executed": true,
+  "repeated_map_back_close_and_row_preserve_draft": true,
+  "failed_map_open_rolls_back": true,
+  "fresh_entry_after_surrender_close_country_city_or_map_clears_obsolete_UI": true,
+  "pending_translation_does_not_change_custom_mode_or_genes": true,
+  "obsolete_callbacks_ignored": true,
+  "Unity_rendering_and_stock_surrender_event_are_modeled": true,
+  "device_runtime_tested": false,
+  "BlueStacks_runtime_tested": false
+}

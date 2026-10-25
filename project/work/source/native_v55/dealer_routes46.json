@@ -1,0 +1,105 @@
+[
+  {
+    "id": "scenario.activitiesV18.era44_home",
+    "choices": [
+      "Browse current collection",
+      "Vintage finds & regional collection",
+      "My wardrobe",
+      "Calendar & era"
+    ]
+  },
+  {
+    "id": "scenario.activitiesV18.era44_vintage",
+    "choices": [
+      "Browse vintage finds",
+      "Regional cowboy collection",
+      "Back"
+    ]
+  },
+  {
+    "id": "scenario.activitiesV18.era44_calendar",
+    "choices": [
+      "Back to the dealer"
+    ]
+  },
+  {
+    "id": "scenario.activitiesV18.era44_wardrobe",
+    "choices": [
+      "Owned accessories",
+      "Remove accessories",
+      "Saved outfits",
+      "Back"
+    ]
+  },
+  {
+    "id": "scenario.activitiesV18.era44_remove",
+    "choices": [
+      "Remove headwear",
+      "Remove mouth accessory",
+      "Remove both",
+      "Back"
+    ]
+  },
+  {
+    "id": "scenario.activitiesV18.era44_outfits",
+    "choices": [
+      "Outfit 1",
+      "Outfit 2",
+      "Outfit 3",
+      "Back"
+    ]
+  },
+  {
+    "id": "scenario.activitiesV18.era44_outfit1",
+    "choices": [
+      "Save current outfit",
+      "Wear saved outfit",
+      "Back"
+    ]
+  },
+  {
+    "id": "scenario.activitiesV18.era44_outfit2",
+    "choices": [
+      "Save current outfit",
+      "Wear saved outfit",
+      "Back"
+    ]
+  },
+  {
+    "id": "scenario.activitiesV18.era44_outfit3",
+    "choices": [
+      "Save current outfit",
+      "Wear saved outfit",
+      "Back"
+    ]
+  },
+  {
+    "id": "scenario.activitiesV18.era44_item",
+    "choices": [
+      "Try on",
+      "Buy & wear \u2014 <GFC.era44.Price>",
+      "Wear owned item",
+      "Back"
+    ]
+  },
+  {
+    "id": "scenario.activitiesV18.era44_adult",
+    "choices": [
+      "Back"
+    ]
+  },
+  {
+    "id": "scenario.activitiesV18.era44_preview",
+    "choices": [
+      "Buy & wear \u2014 <GFC.era44.Price>",
+      "Wear owned item",
+      "Finish preview"
+    ]
+  },
+  {
+    "id": "scenario.activitiesV18.era44_result",
+    "choices": [
+      "Continue"
+    ]
+  }
+]

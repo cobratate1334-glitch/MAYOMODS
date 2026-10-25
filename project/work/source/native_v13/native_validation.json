@@ -1,0 +1,7 @@
+{
+  "instruction_cases": 318,
+  "load_addresses": 2,
+  "volatile_registers_clobbered": true,
+  "file_descriptors_closed": true,
+  "device_runtime_tested": false
+}

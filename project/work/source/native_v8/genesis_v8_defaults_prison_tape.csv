@@ -1,0 +1,9 @@
+key,type,value,reset_on_ageup,minimum,maximum
+Stage,int,0,,0,3
+Quality,int,0,,0,100
+Skill,int,20,,0,100
+Sessions,int,0,true,0,6
+Tapes,int,0,,0,1000000
+Listeners,int,0,,0,10000000
+NativePrisonConduct,int,0,,-3,3
+Title,string,Cellblock Stories,,,

@@ -1,0 +1,126 @@
+{
+  "native_constructor": "0x2f337c0",
+  "binary_sha256": "5b74ac2ac714fedb57098c8cf03b849ff4ab751460012e3d28733995be03b4c8",
+  "features": [
+    {
+      "feature": 0,
+      "name": "eye background",
+      "segment": "-eye-base",
+      "folder": "face",
+      "layer": 1,
+      "default_colour": "ffffff"
+    },
+    {
+      "feature": 1,
+      "name": "Eyes",
+      "segment": "-iris-base",
+      "folder": "face",
+      "layer": 0,
+      "default_colour": "FFFFFF"
+    },
+    {
+      "feature": 2,
+      "name": "eye lighting",
+      "segment": "-iris-lighting",
+      "folder": "face",
+      "layer": 1,
+      "default_colour": "ffffff"
+    },
+    {
+      "feature": 3,
+      "name": "Skin",
+      "segment": "-base",
+      "folder": "face",
+      "layer": 0,
+      "default_colour": "FFFFFF"
+    },
+    {
+      "feature": 4,
+      "name": "skin lighting",
+      "segment": "-lighting",
+      "folder": "face",
+      "layer": 1,
+      "default_colour": "ffffff"
+    },
+    {
+      "feature": 5,
+      "name": "Brows",
+      "segment": "-eyebrows",
+      "folder": "eyebrows",
+      "layer": 0,
+      "default_colour": "FFFFFF"
+    },
+    {
+      "feature": 6,
+      "name": "Facial Hair",
+      "segment": "-facial-hair",
+      "folder": "facial hair",
+      "layer": 0,
+      "default_colour": "FFFFFF"
+    },
+    {
+      "feature": 7,
+      "name": "mouth item",
+      "segment": "-mouth-accessory-base",
+      "folder": "face",
+      "layer": 1,
+      "default_colour": "ffffff"
+    },
+    {
+      "feature": 8,
+      "name": "Hair",
+      "segment": "-hair-base",
+      "folder": "hair",
+      "layer": 0,
+      "default_colour": "FFFFFF"
+    },
+    {
+      "feature": 9,
+      "name": "hair lighting",
+      "segment": "-hair-lighting",
+      "folder": "hair",
+      "layer": 1,
+      "default_colour": "ffffff"
+    },
+    {
+      "feature": 10,
+      "name": "hair item",
+      "segment": "-hair-accessory-base",
+      "folder": "hair",
+      "layer": 2,
+      "default_colour": "FFFFFF"
+    },
+    {
+      "feature": 11,
+      "name": "hair item lighting",
+      "segment": "-hair-accessory-lighting",
+      "folder": "hair",
+      "layer": 1,
+      "default_colour": "ffffff"
+    },
+    {
+      "feature": 12,
+      "name": "headgear",
+      "segment": "-headgear-base",
+      "folder": "headgear",
+      "layer": 0,
+      "default_colour": "FFFFFF"
+    },
+    {
+      "feature": 13,
+      "name": "headgear lighting",
+      "segment": "-headgear-lighting",
+      "folder": "headgear",
+      "layer": 1,
+      "default_colour": "ffffff"
+    },
+    {
+      "feature": 14,
+      "name": "Glasses",
+      "segment": "-glasses",
+      "folder": "glasses",
+      "layer": 0,
+      "default_colour": "FFFFFF"
+    }
+  ]
+}

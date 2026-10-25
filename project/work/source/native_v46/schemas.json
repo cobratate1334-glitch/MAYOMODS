@@ -1,0 +1,1176 @@
+{
+  "era44": {
+    "BirthYear": {
+      "key": "BirthYear",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3000
+    },
+    "Year": {
+      "key": "Year",
+      "type": "int",
+      "value": 2026,
+      "reset_on_ageup": "",
+      "minimum": 1900,
+      "maximum": 4000
+    },
+    "Era": {
+      "key": "Era",
+      "type": "int",
+      "value": 3,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "Action": {
+      "key": "Action",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 999
+    },
+    "Head": {
+      "key": "Head",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 27
+    },
+    "Mouth": {
+      "key": "Mouth",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 27
+    },
+    "Selected": {
+      "key": "Selected",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 27
+    },
+    "Price": {
+      "key": "Price",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Available": {
+      "key": "Available",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Owned": {
+      "key": "Owned",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "BuyStatus": {
+      "key": "BuyStatus",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 6
+    },
+    "Regional": {
+      "key": "Regional",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "NativeHead": {
+      "key": "NativeHead",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "NativeHeadSaved": {
+      "key": "NativeHeadSaved",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "EraName": {
+      "key": "EraName",
+      "type": "string",
+      "value": "Modern",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "ShopName": {
+      "key": "ShopName",
+      "type": "string",
+      "value": "Mayo\u2019s Streetwear",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "ShopDescription": {
+      "key": "ShopDescription",
+      "type": "string",
+      "value": "Caps, beanies and everyday streetwear.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "ItemName": {
+      "key": "ItemName",
+      "type": "string",
+      "value": "Choose an accessory",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "StockLabel": {
+      "key": "StockLabel",
+      "type": "string",
+      "value": "",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Country": {
+      "key": "Country",
+      "type": "string",
+      "value": "",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "HeadName": {
+      "key": "HeadName",
+      "type": "string",
+      "value": "None",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "MouthName": {
+      "key": "MouthName",
+      "type": "string",
+      "value": "None",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Result": {
+      "key": "Result",
+      "type": "string",
+      "value": "Welcome to Mayo\u2019s Wardrobe.",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Owned1": {
+      "key": "Owned1",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Price1": {
+      "key": "Price1",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Available1": {
+      "key": "Available1",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Label1": {
+      "key": "Label1",
+      "type": "string",
+      "value": "Browse this item",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Owned2": {
+      "key": "Owned2",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Price2": {
+      "key": "Price2",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Available2": {
+      "key": "Available2",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Label2": {
+      "key": "Label2",
+      "type": "string",
+      "value": "Browse this item",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Owned3": {
+      "key": "Owned3",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Price3": {
+      "key": "Price3",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Available3": {
+      "key": "Available3",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Label3": {
+      "key": "Label3",
+      "type": "string",
+      "value": "Browse this item",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Owned4": {
+      "key": "Owned4",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Price4": {
+      "key": "Price4",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Available4": {
+      "key": "Available4",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Label4": {
+      "key": "Label4",
+      "type": "string",
+      "value": "Browse this item",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Owned5": {
+      "key": "Owned5",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Price5": {
+      "key": "Price5",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Available5": {
+      "key": "Available5",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Label5": {
+      "key": "Label5",
+      "type": "string",
+      "value": "Browse this item",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Owned6": {
+      "key": "Owned6",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Price6": {
+      "key": "Price6",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Available6": {
+      "key": "Available6",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Label6": {
+      "key": "Label6",
+      "type": "string",
+      "value": "Browse this item",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Owned7": {
+      "key": "Owned7",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Price7": {
+      "key": "Price7",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Available7": {
+      "key": "Available7",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Label7": {
+      "key": "Label7",
+      "type": "string",
+      "value": "Browse this item",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Owned8": {
+      "key": "Owned8",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Price8": {
+      "key": "Price8",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Available8": {
+      "key": "Available8",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Label8": {
+      "key": "Label8",
+      "type": "string",
+      "value": "Browse this item",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Owned9": {
+      "key": "Owned9",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Price9": {
+      "key": "Price9",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Available9": {
+      "key": "Available9",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Label9": {
+      "key": "Label9",
+      "type": "string",
+      "value": "Browse this item",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Owned10": {
+      "key": "Owned10",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Price10": {
+      "key": "Price10",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Available10": {
+      "key": "Available10",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Label10": {
+      "key": "Label10",
+      "type": "string",
+      "value": "Browse this item",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Owned11": {
+      "key": "Owned11",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Price11": {
+      "key": "Price11",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Available11": {
+      "key": "Available11",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Label11": {
+      "key": "Label11",
+      "type": "string",
+      "value": "Browse this item",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Owned12": {
+      "key": "Owned12",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Price12": {
+      "key": "Price12",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Available12": {
+      "key": "Available12",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Label12": {
+      "key": "Label12",
+      "type": "string",
+      "value": "Browse this item",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Owned13": {
+      "key": "Owned13",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Price13": {
+      "key": "Price13",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Available13": {
+      "key": "Available13",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Label13": {
+      "key": "Label13",
+      "type": "string",
+      "value": "Browse this item",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Owned14": {
+      "key": "Owned14",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Price14": {
+      "key": "Price14",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Available14": {
+      "key": "Available14",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Label14": {
+      "key": "Label14",
+      "type": "string",
+      "value": "Browse this item",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Owned15": {
+      "key": "Owned15",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Price15": {
+      "key": "Price15",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Available15": {
+      "key": "Available15",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Label15": {
+      "key": "Label15",
+      "type": "string",
+      "value": "Browse this item",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Owned16": {
+      "key": "Owned16",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Price16": {
+      "key": "Price16",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Available16": {
+      "key": "Available16",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Label16": {
+      "key": "Label16",
+      "type": "string",
+      "value": "Browse this item",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Owned17": {
+      "key": "Owned17",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Price17": {
+      "key": "Price17",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Available17": {
+      "key": "Available17",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Label17": {
+      "key": "Label17",
+      "type": "string",
+      "value": "Browse this item",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Owned18": {
+      "key": "Owned18",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Price18": {
+      "key": "Price18",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Available18": {
+      "key": "Available18",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Label18": {
+      "key": "Label18",
+      "type": "string",
+      "value": "Browse this item",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Owned19": {
+      "key": "Owned19",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Price19": {
+      "key": "Price19",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Available19": {
+      "key": "Available19",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Label19": {
+      "key": "Label19",
+      "type": "string",
+      "value": "Browse this item",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Owned20": {
+      "key": "Owned20",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Price20": {
+      "key": "Price20",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Available20": {
+      "key": "Available20",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Label20": {
+      "key": "Label20",
+      "type": "string",
+      "value": "Browse this item",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Owned21": {
+      "key": "Owned21",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Price21": {
+      "key": "Price21",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Available21": {
+      "key": "Available21",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Label21": {
+      "key": "Label21",
+      "type": "string",
+      "value": "Browse this item",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Owned22": {
+      "key": "Owned22",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Price22": {
+      "key": "Price22",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Available22": {
+      "key": "Available22",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Label22": {
+      "key": "Label22",
+      "type": "string",
+      "value": "Browse this item",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Owned23": {
+      "key": "Owned23",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Price23": {
+      "key": "Price23",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Available23": {
+      "key": "Available23",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Label23": {
+      "key": "Label23",
+      "type": "string",
+      "value": "Browse this item",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Owned24": {
+      "key": "Owned24",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Price24": {
+      "key": "Price24",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Available24": {
+      "key": "Available24",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Label24": {
+      "key": "Label24",
+      "type": "string",
+      "value": "Browse this item",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Owned25": {
+      "key": "Owned25",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Price25": {
+      "key": "Price25",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Available25": {
+      "key": "Available25",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Label25": {
+      "key": "Label25",
+      "type": "string",
+      "value": "Browse this item",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Owned26": {
+      "key": "Owned26",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Price26": {
+      "key": "Price26",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Available26": {
+      "key": "Available26",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Label26": {
+      "key": "Label26",
+      "type": "string",
+      "value": "Browse this item",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Owned27": {
+      "key": "Owned27",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Price27": {
+      "key": "Price27",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "Available27": {
+      "key": "Available27",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Label27": {
+      "key": "Label27",
+      "type": "string",
+      "value": "Browse this item",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "Outfit1Head": {
+      "key": "Outfit1Head",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 27
+    },
+    "Outfit1Mouth": {
+      "key": "Outfit1Mouth",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 27
+    },
+    "Outfit1Saved": {
+      "key": "Outfit1Saved",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Outfit2Head": {
+      "key": "Outfit2Head",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 27
+    },
+    "Outfit2Mouth": {
+      "key": "Outfit2Mouth",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 27
+    },
+    "Outfit2Saved": {
+      "key": "Outfit2Saved",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "Outfit3Head": {
+      "key": "Outfit3Head",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 27
+    },
+    "Outfit3Mouth": {
+      "key": "Outfit3Mouth",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 27
+    },
+    "Outfit3Saved": {
+      "key": "Outfit3Saved",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    }
+  },
+  "era45": {
+    "MarketYear": {
+      "key": "MarketYear",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 9999
+    },
+    "LuxuryYear": {
+      "key": "LuxuryYear",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 9999
+    },
+    "RacingYear": {
+      "key": "RacingYear",
+      "type": "int",
+      "value": 0,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 9999
+    },
+    "MarketCity": {
+      "key": "MarketCity",
+      "type": "string",
+      "value": "",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    },
+    "MarketCountry": {
+      "key": "MarketCountry",
+      "type": "string",
+      "value": "",
+      "reset_on_ageup": "",
+      "minimum": "",
+      "maximum": ""
+    }
+  },
+  "expansions46": {
+    "Enabled": {
+      "key": "Enabled",
+      "type": "int",
+      "value": 1,
+      "reset_on_ageup": "",
+      "minimum": 0,
+      "maximum": 1
+    }
+  }
+}

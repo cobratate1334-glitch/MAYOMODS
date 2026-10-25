@@ -1,0 +1,15 @@
+{
+  "build": "v55 scar/eyepatch repair",
+  "base_apk_sha256": "7a4a37615d9c60962d1e2658d86154199a868d84439026478171fcf0d2f3c288",
+  "base_native_sha256": "a77460c7d5e095810d0f3cdbea8abca9254f878498ae2fa21957ec1d68ad74e2",
+  "binary_sha256": "babced1223acf44b7dcf8e2bad3eebdd2962af4fa0ffd662d7440f1599549f11",
+  "stub": 112508400,
+  "file_offset": 112442864,
+  "old_length": 1204,
+  "new_length": 1208,
+  "file_size_unchanged": true,
+  "elf_headers_unchanged": true,
+  "no_new_renderer": true,
+  "no_v56_native_code": true,
+  "repair": "Retain numeric resource suffix in callee-saved x20 across String::New; restore x1 immediately before String.Concat."
+}

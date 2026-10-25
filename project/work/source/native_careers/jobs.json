@@ -1,0 +1,232 @@
+{
+  "Game Designer": [
+    "Build a playable prototype",
+    "Run a player test",
+    "Pitch the finished design"
+  ],
+  "Game Quality Analyst": [
+    "Write a test plan",
+    "Reproduce a reported bug",
+    "Verify the release build"
+  ],
+  "Cybersecurity Analyst": [
+    "Audit access permissions",
+    "Investigate a security alert",
+    "Present a remediation plan"
+  ],
+  "Cloud Systems Engineer": [
+    "Plan a service migration",
+    "Test backup recovery",
+    "Review system reliability"
+  ],
+  "Data Analyst": [
+    "Clean a dataset",
+    "Validate the analysis",
+    "Present a business report"
+  ],
+  "User Experience Designer": [
+    "Interview users",
+    "Test an accessible prototype",
+    "Present design findings"
+  ],
+  "Digital Illustrator": [
+    "Develop a concept sketch",
+    "Review client revisions",
+    "Deliver finished artwork"
+  ],
+  "Motion Graphics Designer": [
+    "Storyboard an animation",
+    "Review motion and timing",
+    "Render the final sequence"
+  ],
+  "Accessibility Specialist": [
+    "Audit accessibility barriers",
+    "Test with assistive technology",
+    "Publish an improvement plan"
+  ],
+  "Technical Writer": [
+    "Draft a user guide",
+    "Verify technical examples",
+    "Publish reviewed documentation"
+  ],
+  "Copy Editor": [
+    "Review the manuscript",
+    "Check facts and references",
+    "Approve the final copy"
+  ],
+  "Content Strategist": [
+    "Plan an editorial calendar",
+    "Research audience needs",
+    "Present the content strategy"
+  ],
+  "Community Manager": [
+    "Plan a community event",
+    "Resolve member disputes",
+    "Report community feedback"
+  ],
+  "Event Coordinator": [
+    "Build an event plan",
+    "Coordinate vendors",
+    "Manage event day"
+  ],
+  "Sustainability Coordinator": [
+    "Audit environmental impact",
+    "Evaluate reduction measures",
+    "Present sustainability results"
+  ],
+  "Research Coordinator": [
+    "Plan a study schedule",
+    "Check consent and data quality",
+    "Submit study findings"
+  ],
+  "Museum Educator": [
+    "Design a workshop",
+    "Test it with visitors",
+    "Lead the public session"
+  ],
+  "Archive Technician": [
+    "Catalogue a collection",
+    "Check conservation needs",
+    "Prepare records for access"
+  ],
+  "Literacy Coordinator": [
+    "Assess learner needs",
+    "Design reading support",
+    "Review learner progress"
+  ],
+  "Learning Support Officer": [
+    "Prepare a support plan",
+    "Coordinate classroom adjustments",
+    "Review student progress"
+  ],
+  "Education Programme Coordinator": [
+    "Design a programme",
+    "Arrange teaching resources",
+    "Evaluate learning outcomes"
+  ],
+  "Student Services Officer": [
+    "Review support requests",
+    "Coordinate student assistance",
+    "Follow up student outcomes"
+  ],
+  "Library Programme Coordinator": [
+    "Plan a library programme",
+    "Coordinate guest speakers",
+    "Run a community session"
+  ],
+  "Audio Editor": [
+    "Assemble the rough edit",
+    "Repair dialogue and levels",
+    "Deliver the final audio"
+  ],
+  "Podcast Producer": [
+    "Plan and book an episode",
+    "Record guests and interviews",
+    "Edit and publish the episode"
+  ],
+  "Music Rights Coordinator": [
+    "Check ownership documentation",
+    "Negotiate licensing terms",
+    "Clear the release rights"
+  ],
+  "Live Sound Technician": [
+    "Prepare the stage input list",
+    "Run soundcheck",
+    "Mix the live show"
+  ],
+  "Lighting Technician": [
+    "Design a lighting cue sheet",
+    "Rehearse the cues",
+    "Operate the live show"
+  ],
+  "Production Coordinator": [
+    "Build the production schedule",
+    "Coordinate crew and resources",
+    "Deliver the production"
+  ],
+  "Location Coordinator": [
+    "Scout potential locations",
+    "Secure permissions",
+    "Coordinate the location shoot"
+  ],
+  "Brand Designer": [
+    "Develop brand concepts",
+    "Test the visual identity",
+    "Deliver the brand system"
+  ],
+  "Market Research Analyst": [
+    "Design an audience survey",
+    "Analyse survey results",
+    "Present market findings"
+  ],
+  "Customer Experience Analyst": [
+    "Map the customer journey",
+    "Investigate feedback patterns",
+    "Present service improvements"
+  ],
+  "Operations Coordinator": [
+    "Plan the workflow",
+    "Resolve a scheduling bottleneck",
+    "Review delivery performance"
+  ],
+  "Quality Assurance Coordinator": [
+    "Plan a quality audit",
+    "Inspect the production process",
+    "Close corrective actions"
+  ],
+  "Recruitment Coordinator": [
+    "Prepare the shortlist",
+    "Coordinate structured interviews",
+    "Present hiring recommendations"
+  ],
+  "Training Coordinator": [
+    "Assess training needs",
+    "Deliver the training session",
+    "Evaluate staff learning"
+  ],
+  "Logistics Planner": [
+    "Plan delivery capacity",
+    "Resolve a route disruption",
+    "Review shipment performance"
+  ],
+  "Digital Archivist": [
+    "Plan digital preservation",
+    "Check file integrity",
+    "Publish the collection catalogue"
+  ],
+  "Exhibition Coordinator": [
+    "Plan the exhibition",
+    "Coordinate installation",
+    "Open the exhibition"
+  ],
+  "Reality TV Producer": [
+    "Develop the season concept",
+    "Coordinate safe filming",
+    "Deliver the episode edit"
+  ],
+  "Race Engineer": [
+    "Plan the car setup",
+    "Analyse practice telemetry",
+    "Lead the race debrief"
+  ],
+  "Sports Physiotherapist": [
+    "Assess rehabilitation needs",
+    "Supervise a recovery session",
+    "Review return-to-sport readiness"
+  ],
+  "Luxury Asset Manager": [
+    "Review the asset portfolio",
+    "Audit ownership and upkeep",
+    "Present an investment review"
+  ],
+  "Community Moderator": [
+    "Review moderation reports",
+    "Resolve a difficult appeal",
+    "Publish a transparency report"
+  ],
+  "Independent Music Promoter": [
+    "Plan a release campaign",
+    "Coordinate radio and playlist pitches",
+    "Review campaign performance"
+  ]
+}

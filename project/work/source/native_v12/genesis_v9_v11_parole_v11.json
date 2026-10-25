@@ -1,0 +1,92 @@
+{
+  "ListID": "genesis_v9_v11_parole_v11",
+  "Title": "PAROLE AND HOUSE ARREST",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Sentence Record",
+      "Icon": "clipboard",
+      "SecondLine": "",
+      "TileID": "v11_parole_status",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=parole_v11:NativeParoleSync:=1>>scenario.activitiesV11.parole_status",
+              "ScenarioFile": "genesis_activities_v11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Parole Officer Check-in",
+      "Icon": "balance-scale",
+      "SecondLine": "",
+      "TileID": "v11_parole_checkin",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=parole_v11:NativeParoleSync:=1>>scenario.activitiesV11.parole_checkin",
+              "ScenarioFile": "genesis_activities_v11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Study at Home",
+      "Icon": "book",
+      "SecondLine": "",
+      "TileID": "v11_parole_study",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=parole_v11:NativeParoleSync:=1>>scenario.activitiesV11.parole_study",
+              "ScenarioFile": "genesis_activities_v11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Home Routine",
+      "Icon": "house",
+      "SecondLine": "",
+      "TileID": "v11_parole_routine",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=parole_v11:NativeParoleSync:=1>>scenario.activitiesV11.parole_routine",
+              "ScenarioFile": "genesis_activities_v11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Home Exercise",
+      "Icon": "running-shoe",
+      "SecondLine": "",
+      "TileID": "v11_parole_exercise",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=parole_v11:NativeParoleSync:=1>>scenario.activitiesV11.parole_exercise",
+              "ScenarioFile": "genesis_activities_v11"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

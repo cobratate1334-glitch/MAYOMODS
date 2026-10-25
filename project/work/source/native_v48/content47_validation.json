@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "checks": 6083,
+  "assets": {
+    "passed": true,
+    "modified_TextAssets": 5,
+    "added_TextAssets": [
+      "genesis_v18_defaults_comments47",
+      "genesis_v18_comments47",
+      "genesis_v18_comment_thread47",
+      "genesis_v18_defaults_comment_entry47",
+      "genesis_v18_defaults_following47_9",
+      "genesis_v18_comments47_00",
+      "genesis_v18_comments47_01",
+      "genesis_v18_comments47_02",
+      "genesis_v18_comments47_03",
+      "genesis_v18_comments47_04",
+      "genesis_v18_comments47_05",
+      "genesis_v18_comments47_06",
+      "genesis_v18_comments47_07",
+      "genesis_v18_comments47_08",
+      "genesis_v18_comments47_09"
+    ],
+    "unedited_Unity_objects_preserved": true,
+    "existing_resource_paths_preserved": true,
+    "datapack_sha256": "918e9ffdce12e37395a366879783e47efe4dcdd82382729f3487cfe9ca11ca60",
+    "data_sha256": "196c89d4c7ad52f0858b4a625cbcdb19199c7c53ff3313e860cd8662dd1b24a7"
+  },
+  "existing_platform_menus_only": true,
+  "all_comment_fields_declared": true,
+  "existing_eras_artwork_and_catalogs_preserved": true
+}

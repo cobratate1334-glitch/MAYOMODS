@@ -1,0 +1,24 @@
+key,type,value,reset_on_ageup,minimum,maximum
+Started,int,0,,0,1
+Active,int,0,,0,1
+NativeHireResult,int,0,,0,1
+NativeHireTV,int,0,,0,1
+NativeCareerSync,int,0,,0,1
+NativeWorkImpact,int,0,,-3,3
+Skill,int,20,,0,100
+Reputation,int,10,,0,100
+WorkUsed,int,0,true,0,6
+LastPaidAge,int,-1,,-1,999
+BonusDue,int,0,,0,10000000
+LifetimeBonus,int,0,,0,2000000000
+ExpectedCareer,string,Reality TV Host,,,
+Preparation,int,0,,0,100
+Audience,int,1000,,0,10000000
+Trust,int,60,,0,100
+Drama,int,20,,0,100
+Episodes,int,0,,0,1000000
+LastEpisodeAge,int,-1,,-1,999
+Format,int,0,,0,3
+Sponsors,int,0,,0,1
+SponsorValue,int,0,,0,1000000
+Seasons,int,1,,1,1000

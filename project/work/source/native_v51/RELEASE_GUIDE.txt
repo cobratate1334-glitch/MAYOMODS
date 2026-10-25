@@ -1,0 +1,84 @@
+MayoMods v51 — Stability and family height
+
+Install BitLife_MayoMods_v51_Stability.apk as an update over the existing
+MayoMods installation. The package and signing identity are retained.
+Back up your lives first. Uninstalling can remove local saves.
+
+What changed
+
+1. Activities > Expansions and Shopping > Accessories Dealer
+   The game's registry splits on commas and does not honor CSV quotes.
+   Two subtitles contained commas, shifting their destination columns.
+   They now use semicolons and retain their original menu destinations.
+
+2. Closing Activities and other lists
+   A custom DismissAllLists hook stopped the coroutine that called it.
+   The native close then lost its scheduled lower-panel restoration.
+   Internal cleanup now preserves that running coroutine. Superseded
+   presentations still use generation guards. The prior v48 crash repair
+   and the game's native HUD/profile activation routines are retained.
+
+3. Social connections
+   The "Their story and profile" choice previously had a second action
+   definition that replaced it with spending time. It now opens the saved
+   person's profile. Social and native relationship views use the same
+   parent-height calculation.
+
+4. Adult height
+   Leaving height unselected uses both biological parents and a stable
+   variation for a game estimate. A missing parent uses a neutral baseline.
+   Parent profiles retain their existing generated heights.
+   The estimate is saved once per life and does not reroll when aging or
+   reloading. Children grow toward that saved adult target.
+   Choosing a number in the existing New Life height picker records an
+   explicit target, including 178 cm. The existing control now identifies
+   the family default. No additional tab was created.
+
+   Older saves: a non-default adult height is preserved. A save with 178 cm
+   and no selection record is treated as the old default. Older builds did
+   not distinguish an explicitly selected 178 from that default.
+
+Retained
+
+All v50 portrait textures and resource IDs, including heterochromia,
+sectoral and central patterns; custom themes and artwork; the existing
+social message bank, posts, replies and native account integration;
+genetic stat effects and the existing game tabs. Native billing code,
+save keys, permissions, other native libraries and Android executable
+DEX method bodies retain their previous implementation.
+
+Validation
+
+The accompanying verification JSON records exact hashes and results.
+Tests execute the compiled ARM64 registry-column extraction, scenario
+resolver, close-coroutine phases, height/provenance callbacks, appearance
+and retained social/gameplay cases at two load biases. They also verify
+Unity asset preservation, the native edit mask, package entries and APK
+signatures. Managed APIs, Unity rendering and Android lifecycle are
+modeled boundaries. This build has not been run on a physical phone.
+
+Device compatibility
+
+This remains an arm64-v8a build with minimum Android API 25. Existing
+engine/library requirements are retained. ARM32 and x86 engines are not
+included. The verification records the pre-existing 16 KB library-layout
+limitation; this release does not claim support for every Android device.
+
+Useful phone checks
+
+- Open Activities > Expansions, enter a community section and return.
+- Repeatedly open/close Activities and Assets; check the header, bottom
+  tabs, Age Up control and stats after each close.
+- Age up several times and reopen the profile.
+- Open Social Connections, refresh contacts and open a person's story.
+- Publish on an eligible social account; open its saved post, read a
+  comment, like/unlike it, reply, leave the thread and reopen it.
+- Start one life with unselected height and another with exactly 178 cm;
+  check the saved adult target after aging and restarting.
+
+If a phone check fails, preserve the new v51 log and note the exact button
+sequence. Old v47 crash entries in a preserved report describe an earlier
+session. The supplied newer v49 session ended by task removal, while the
+visible navigation/action failures required separate source-level repairs.
+
+Earlier linked Atlanti documents were not newly imported by this repair.

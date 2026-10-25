@@ -1,0 +1,34 @@
+
+Elf file type is DYN (Shared object file)
+Entry point 0x0
+There are 12 program headers, starting at offset 103776256
+
+Program Headers:
+  Type           Offset   VirtAddr           PhysAddr           FileSiz  MemSiz   Flg Align
+  PHDR           0x62f8000 0x0000000006308000 0x0000000006308000 0x0002a0 0x0002a0 R   0x8
+  LOAD           0x000000 0x0000000000000000 0x0000000000000000 0x201aabc 0x201aabc R   0x4000
+  LOAD           0x201aac0 0x000000000201eac0 0x000000000201eac0 0x39aa570 0x39aa570 R E 0x4000
+  LOAD           0x59c5030 0x00000000059cd030 0x00000000059cd030 0x34ed18 0x34efd0 RW  0x4000
+  LOAD           0x5d13d48 0x0000000005d1fd48 0x0000000005d1fd48 0x3a0238 0x5cd8c8 RW  0x4000
+  LOAD           0x62e4000 0x00000000062f4000 0x00000000062f4000 0x012000 0x012000 R   0x4000
+  LOAD           0x62f6000 0x0000000006306000 0x0000000006306000 0x0001c0 0x0001c0 RW  0x4000
+  DYNAMIC        0x62f6000 0x0000000006306000 0x0000000006306000 0x0001c0 0x0001c0 RW  0x8
+  GNU_RELRO      0x59c5030 0x00000000059cd030 0x00000000059cd030 0x34ed18 0x34efd0 R   0x1
+  GNU_EH_FRAME   0x144a664 0x000000000144a664 0x000000000144a664 0x2329c4 0x2329c4 R   0x4
+  GNU_STACK      0x000000 0x0000000000000000 0x0000000000000000 0x000000 0x000000 RW  0
+  LOAD           0x62f8000 0x0000000006308000 0x0000000006308000 0x000328 0x000328 R E 0x4000
+
+ Section to Segment mapping:
+  Segment Sections...
+   00     
+   01     .gnu.hash .dynstr .rela.dyn .rela.plt .gcc_except_table .rodata .eh_frame_hdr .eh_frame 
+   02     .text il2cpp .plt 
+   03     .data.rel.ro .fini_array .init_array .got .got.plt .relro_padding 
+   04     .data .bss 
+   05     .dynsym .gnu.version .gnu.version_r 
+   06     .dynamic 
+   07     .dynamic 
+   08     .data.rel.ro .fini_array .init_array .got .got.plt .relro_padding 
+   09     .eh_frame_hdr 
+   10     
+   11     

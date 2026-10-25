@@ -1,0 +1,58 @@
+
+--- Exception context ---
+2026-10-20 17:41:49.342 Diagnostics initialized; previous reports preserved
+2026-10-20 17:41:49.349 Game log recording started; PID 28572
+2026-10-20 17:41:49.352 D02 - Entering mod launcher and native library
+2026-10-20 17:41:49.455 D03 - Checking app signature
+2026-10-20 17:41:49.458 D04 - Signature accepted; checking native protection
+2026-10-20 17:41:49.459 D05 - Native protection accepted
+2026-10-20 17:41:49.461 D06 - Starting mod update check
+10-20 17:41:49.801 28572 28707 E Adreno-AppProfiles: QSPM AIDL service doesn't exist
+10-20 17:41:49.861 28572 28707 E Adreno-AppProfiles: QSPM AIDL service doesn't exist
+2026-10-20 17:41:50.131 D08 - Mod launcher returned
+2026-10-20 17:41:50.144 Activity created: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:41:50.146 D09 - Android game activity created
+2026-10-20 17:41:50.148 D10 - Initializing Unity engine
+10-20 17:41:50.368 28572 28572 V Unity   : Context Type: ActivityOrService
+2026-10-20 17:41:50.380 D11 - Unity player created
+2026-10-20 17:41:50.382 D12 - Game view attached
+2026-10-20 17:41:50.405 Activity resumed: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:41:50.410 NL25: native checkpoint bridge ready
+2026-10-20 17:41:50.421 D13 - Game activity resumed; engine running
+2026-10-20 17:41:50.467 Activity paused: com.unity3d.player.UnityPlayerActivity
+10-20 17:41:50.553 28572 28572 E VRI[UnityPlayerActivity]@9cbe6ef: Surface is not valid.
+10-20 17:48:11.544 28572 28645 E Mod_Menu: Fail-closed native binding: native runtime did not reach ready state
+10-20 17:48:11.611 28572 28645 E CRASH   : *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+10-20 17:48:11.621 28572 28645 E CRASH   : Version '6000.3.9f1 (7a9955a4f2fa)', Build type 'Release', Scripting Backend 'il2cpp', CPU 'arm64-v8a', Stripping 'Enabled'
+10-20 17:48:11.624 28572 28645 E CRASH   : Build fingerprint: 'samsung/a36xqnaxx/a36xq:16/BP4A.251205.006/A366BXXSACZF1_OLMACZF1:user/release-keys'
+10-20 17:48:11.626 28572 28645 E CRASH   : Revision: '10'
+10-20 17:48:11.629 28572 28645 E CRASH   : ABI: 'arm64'
+10-20 17:48:11.633 28572 28645 E CRASH   : Timestamp: 2026-10-20 17:48:11.629542590+1030
+10-20 17:48:11.641 28572 28645 E CRASH   : pid: 28572, tid: 28645, name: ywriter.bitlife  >>> com.candywriter.bitlife <<<
+10-20 17:48:11.641 28572 28645 E CRASH   : uid: 10325
+10-20 17:48:11.641 28572 28645 E CRASH   : signal 6 (SIGABRT), code -1 (SI_QUEUE), fault addr --------
+10-20 17:48:11.641 28572 28645 E CRASH   :     x0  0000000000000000  x1  0000000000006fe5  x2  0000000000000006  x3  0000007c729f8fc0
+10-20 17:48:11.641 28572 28645 E CRASH   :     x4  6873606d1f39666d  x5  6873606d1f39666d  x6  6873606d1f39666d  x7  7f7f7f7f7f7f7f7f
+10-20 17:48:11.641 28572 28645 E CRASH   :     x8  00000000000000f0  x9  edc33af99797503f  x10 000000ff00000020  x11 0000000000000000
+10-20 17:48:11.641 28572 28645 E CRASH   :     x12 000000006ad715b3  x13 000000007fffffff  x14 00000000008fff18  x15 0000018244bf2b7d
+10-20 17:48:11.641 28572 28645 E CRASH   :     x16 0000007f3c538138  x17 0000007f3c51d700  x18 0000007b9c5e8000  x19 0000000000006f9c
+10-20 17:48:11.641 28572 28645 E CRASH   :     x20 0000000000006fe5  x21 00000000ffffffff  x22 0000007b9d9c9548  x23 0000007c729f9140
+10-20 17:48:11.641 28572 28645 E CRASH   :     x24 0000007c729f9140  x25 0000007c729f94a8  x26 00000000000fc000  x27 0000007c728fd000
+10-20 17:48:11.641 28572 28645 E CRASH   :     x28 0000000000104000  x29 0000007c729f9040
+10-20 17:48:11.641 28572 28645 E CRASH   :     lr  0000007f3c4be784  sp  0000007c729f8fc0  pc  0000007f3c4be7a8  pst 0000000000001000
+10-20 17:48:11.662 28572 28645 E CRASH   : Forwarding signal 11
+2026-10-20 17:48:12.024 Activity resumed: com.unity3d.player.UnityPlayerActivity
+2026-10-20 17:48:12.046 D13 - Game activity resumed; engine running
+10-20 17:48:12.072 28572 28572 E BufferQueueProducer: Unable to open libpenguin.so: dlopen failed: library "libpenguin.so" not found.
+10-20 17:48:12.073 28572 28572 E ywriter.bitlife: Unable to open libpenguin.so: dlopen failed: library "libpenguin.so" not found.
+10-20 17:48:12.217 28572 28740 I Unity   : MemoryManager: Using 'Dynamic Heap' Allocator.
+10-20 17:48:12.386 28572 28740 I Unity   : SystemInfo CPU = ARM64 FP ASIMD AES, Cores = 8, Memory = 5354mb
+10-20 17:48:12.386 28572 28740 I Unity   : SystemInfo ARM big.LITTLE configuration: 4 big (mask: 0xf0), 4 little (mask: 0xf)
+10-20 17:48:12.386 28572 28740 I Unity   : ApplicationInfo 'com.candywriter.bitlife', Version '3.25', Min API Level '25', Target API Level '35'
+10-20 17:48:12.386 28572 28740 I Unity   : Built from '6000.3/staging' branch, Version '6000.3.9f1 (7a9955a4f2fa)', Build type 'Release', Scripting Backend 'il2cpp', CPU 'arm64-v8a', Stripping 'Enabled'
+10-20 17:48:12.386 28572 28740 I Unity   : Device Model 'samsung SM-A366B', OS 'Android OS 16 (API 36)'
+10-20 17:48:12.735 28572 28749 E PlayCore: UID: [10325]  PID: [28572] AssetPackServiceImpl : onError(-2)
+10-20 17:48:12.941 28572 28740 I Unity   : Company Name: Candywriter, LLC
+10-20 17:48:12.941 28572 28740 I Unity   : Product Name: BitLife
+10-20 17:48:12.992 28572 28749 E PlayCore: UID: [10325]  PID: [28572] AssetPackServiceImpl : onError(-2)
+10-20 17:48:13.088 28572 28645 F libc    : Fatal signal 11 (SIGSEGV), code 1 (SEGV_MAPERR), fault addr 0x0 in tid 28645 (ywriter.bitlife), pid 28572 (ywriter.bitlife)

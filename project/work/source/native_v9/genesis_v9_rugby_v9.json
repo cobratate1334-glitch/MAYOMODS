@@ -1,0 +1,92 @@
+{
+  "ListID": "genesis_v9_rugby_v9",
+  "Title": "RUGBY TRAINING",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Attack and support",
+      "Icon": "rugby",
+      "SecondLine": "Resumable challenge",
+      "TileID": "v9_rugby_v9attack",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV9.rugby_v9attack",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Defensive positioning",
+      "Icon": "rugby",
+      "SecondLine": "Resumable challenge",
+      "TileID": "v9_rugby_v9defence",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV9.rugby_v9defence",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Team Meeting",
+      "Icon": "clipboard",
+      "SecondLine": "",
+      "TileID": "v9_rugby_v9team",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV9.rugby_v9team",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Recovery and Conditioning",
+      "Icon": "clipboard",
+      "SecondLine": "",
+      "TileID": "v9_rugby_v9recovery",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV9.rugby_v9recovery",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Post-match Interview",
+      "Icon": "clipboard",
+      "SecondLine": "",
+      "TileID": "v9_rugby_v9media",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV9.rugby_v9media",
+              "ScenarioFile": "genesis_activities_v9"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

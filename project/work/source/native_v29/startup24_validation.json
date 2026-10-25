@@ -1,0 +1,27 @@
+{
+  "arm64_cases": 29,
+  "binary_sha256": "c84f04a89444dbc36b8a479353df1d00376c4dbadd7d94f100b1c57372c7206e",
+  "real_PLT_instructions_executed": true,
+  "imports": {
+    "dlopen": {
+      "plt": 94141712,
+      "got": 97629112
+    },
+    "dlsym": {
+      "plt": 94142000,
+      "got": 97629256
+    },
+    "__android_log_print": {
+      "plt": 94139952,
+      "got": 97628232
+    }
+  },
+  "native_genotype_independent_of_Java_log_helper": true,
+  "missing_log_helper_does_not_stop_New_Life": true,
+  "null_controller_guard": true,
+  "aslr_biases": [
+    0,
+    68719476736
+  ],
+  "device_runtime_tested": false
+}

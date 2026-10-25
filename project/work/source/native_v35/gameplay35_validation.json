@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "binary_sha256": "538a02a1ffad46e1a6020e33eeb6ef223c4e8b8765d072f7057c36ad3dc467ca",
+  "assets_sha256": "67581f13ee0023d8b4bda3ccd04faa59b891ce92c02a7e15903ec2a362bad2b8",
+  "model_checks": 1762,
+  "new_scenarios": 143,
+  "cost_age_and_inventory_guards_checked": true,
+  "duplicate_income_and_rewards_checked": true,
+  "crop_bankruptcy_commits_before_dialog_close": true,
+  "academy_enrollment_requires_acceptance": true,
+  "reserved_native_triggers_executed_in_ARM64": true,
+  "scene_expression_parser_banking_and_serialization_modeled": true,
+  "device_runtime_tested": false
+}

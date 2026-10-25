@@ -1,0 +1,686 @@
+[
+  {
+    "trait": 5,
+    "name": "a16_faces-male-stage2-iris-base42-95020",
+    "width": 500,
+    "height": 500,
+    "rect": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 500.0,
+      "height": 500.0
+    },
+    "rd": {
+      "textureRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 500.0,
+        "height": 500.0
+      },
+      "textureRectOffset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "atlasRectOffset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uvTransform": {
+        "x": 100.0,
+        "y": 250.0,
+        "z": 100.0,
+        "w": 250.0
+      },
+      "settingsRaw": 64
+    },
+    "geometry": {
+      "m_VertexCount": 4,
+      "m_Channels": [
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 3
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 1,
+          "offset": 0,
+          "format": 0,
+          "dimension": 2
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        }
+      ],
+      "m_DataSize": [
+        0,
+        0,
+        32,
+        192,
+        0,
+        0,
+        32,
+        192,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        32,
+        192,
+        0,
+        0,
+        32,
+        64,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        32,
+        64,
+        0,
+        0,
+        32,
+        64,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        32,
+        64,
+        0,
+        0,
+        32,
+        192,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        128,
+        63,
+        0,
+        0,
+        128,
+        63,
+        0,
+        0,
+        128,
+        63,
+        0,
+        0,
+        128,
+        63,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "submeshes": [
+      {
+        "firstByte": 0,
+        "indexCount": 6,
+        "topology": 0,
+        "baseVertex": 0,
+        "firstVertex": 0,
+        "vertexCount": 4,
+        "localAABB": {
+          "m_Center": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "m_Extent": {
+            "x": 2.5,
+            "y": 2.5,
+            "z": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "trait": 12,
+    "name": "a16_faces-male-stage2-iris-base43-88502",
+    "width": 500,
+    "height": 500,
+    "rect": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 500.0,
+      "height": 500.0
+    },
+    "rd": {
+      "textureRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 500.0,
+        "height": 500.0
+      },
+      "textureRectOffset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "atlasRectOffset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uvTransform": {
+        "x": 100.0,
+        "y": 250.0,
+        "z": 100.0,
+        "w": 250.0
+      },
+      "settingsRaw": 64
+    },
+    "geometry": {
+      "m_VertexCount": 4,
+      "m_Channels": [
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 3
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 1,
+          "offset": 0,
+          "format": 0,
+          "dimension": 2
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        }
+      ],
+      "m_DataSize": [
+        0,
+        0,
+        32,
+        192,
+        0,
+        0,
+        32,
+        192,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        32,
+        192,
+        0,
+        0,
+        32,
+        64,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        32,
+        64,
+        0,
+        0,
+        32,
+        64,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        32,
+        64,
+        0,
+        0,
+        32,
+        192,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        128,
+        63,
+        0,
+        0,
+        128,
+        63,
+        0,
+        0,
+        128,
+        63,
+        0,
+        0,
+        128,
+        63,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "submeshes": [
+      {
+        "firstByte": 0,
+        "indexCount": 6,
+        "topology": 0,
+        "baseVertex": 0,
+        "firstVertex": 0,
+        "vertexCount": 4,
+        "localAABB": {
+          "m_Center": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "m_Extent": {
+            "x": 2.5,
+            "y": 2.5,
+            "z": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "trait": 13,
+    "name": "a16_faces-male-stage2-iris-base43-88602",
+    "width": 500,
+    "height": 500,
+    "rect": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 500.0,
+      "height": 500.0
+    },
+    "rd": {
+      "textureRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 500.0,
+        "height": 500.0
+      },
+      "textureRectOffset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "atlasRectOffset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uvTransform": {
+        "x": 100.0,
+        "y": 250.0,
+        "z": 100.0,
+        "w": 250.0
+      },
+      "settingsRaw": 64
+    },
+    "geometry": {
+      "m_VertexCount": 4,
+      "m_Channels": [
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 3
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 1,
+          "offset": 0,
+          "format": 0,
+          "dimension": 2
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        }
+      ],
+      "m_DataSize": [
+        0,
+        0,
+        32,
+        192,
+        0,
+        0,
+        32,
+        192,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        32,
+        192,
+        0,
+        0,
+        32,
+        64,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        32,
+        64,
+        0,
+        0,
+        32,
+        64,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        32,
+        64,
+        0,
+        0,
+        32,
+        192,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        128,
+        63,
+        0,
+        0,
+        128,
+        63,
+        0,
+        0,
+        128,
+        63,
+        0,
+        0,
+        128,
+        63,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "submeshes": [
+      {
+        "firstByte": 0,
+        "indexCount": 6,
+        "topology": 0,
+        "baseVertex": 0,
+        "firstVertex": 0,
+        "vertexCount": 4,
+        "localAABB": {
+          "m_Center": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "m_Extent": {
+            "x": 2.5,
+            "y": 2.5,
+            "z": 0.0
+          }
+        }
+      }
+    ]
+  }
+]

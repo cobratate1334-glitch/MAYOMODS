@@ -1,0 +1,22 @@
+{
+  "arm64_cases": 422,
+  "binary_sha256": "41ecbfd6a83221dc117fd8e7bbdc56ff50f755a69887a31e43945a3a30d71976",
+  "new_life_Android_panel_dispatched": true,
+  "no_Unity_button_cloning_or_delegate_mutation": true,
+  "no_start_interception": true,
+  "writable_settings": true,
+  "birth_and_age_growth": true,
+  "native_profile_measurements_visible": true,
+  "retired_school_seasons": true,
+  "direct_relationship_details": true,
+  "actual_friendship_duration": true,
+  "quiet_incidental_death_notices": true,
+  "local_owned_home_damage_only": true,
+  "transparent_video_scoped": true,
+  "all_extended_school_icons": true,
+  "aslr_biases": [
+    0,
+    68719476736
+  ],
+  "device_runtime_tested": false
+}

@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "checks": 489,
+  "new_scenarios": 23,
+  "binary_sha256": "538a02a1ffad46e1a6020e33eeb6ef223c4e8b8765d072f7057c36ad3dc467ca",
+  "assets_sha256": "8e2059eb99bf0d480c18925bcb5c2469deabfcfe39be33027c6be21960af8f3d",
+  "author_source_sha256": "702e1377b195367f05d809f2de2a74aee67acc31751ef0c1de6d736e895c1848",
+  "test_source_sha256": "6be5f886e9ea4e3bef6d18dba7fde43d25ab5d1f59ede83cd81e22668af3e455",
+  "all_100_rolls_checked": true,
+  "cached_results_no_rerolls": true,
+  "dismiss_and_reentry_cannot_reset_state": true,
+  "adult_mutation_gates_checked": true,
+  "per_age_limits_and_clock_checked": true,
+  "retirement_preserves_evidence": true,
+  "case_and_ending_irreversible": true,
+  "representation_affordability_and_duplicate_payment_checked": true,
+  "save_reload_and_fresh_life_modeled": true,
+  "actual_retained_ARM64_random_bridge_executed": true,
+  "scene_parser_banking_and_serialization_modeled": true,
+  "physical_device_tested": false,
+  "ART_tested": false
+}

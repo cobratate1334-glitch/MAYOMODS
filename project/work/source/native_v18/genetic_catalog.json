@@ -1,0 +1,602 @@
+[
+  {
+    "name": "a16_faces-male-stage0-base1-102000",
+    "stage": 0,
+    "gender": 0,
+    "feature": "base",
+    "style": 0,
+    "label": "Vitiligo",
+    "source": "genetic1.png",
+    "path": "emoji/voltron/faces/base/stage 0 male/a16_faces-male-stage0-base1-102000"
+  },
+  {
+    "name": "a16_faces-male-stage1-base1-102001",
+    "stage": 1,
+    "gender": 0,
+    "feature": "base",
+    "style": 0,
+    "label": "Vitiligo",
+    "source": "genetic1.png",
+    "path": "emoji/voltron/faces/base/stage 1 male/a16_faces-male-stage1-base1-102001"
+  },
+  {
+    "name": "a16_faces-male-stage2-base1-102002",
+    "stage": 2,
+    "gender": 0,
+    "feature": "base",
+    "style": 0,
+    "label": "Vitiligo",
+    "source": "genetic1.png",
+    "path": "emoji/voltron/faces/base/stage 2 male/a16_faces-male-stage2-base1-102002"
+  },
+  {
+    "name": "a16_faces-male-stage3-base1-102003",
+    "stage": 3,
+    "gender": 0,
+    "feature": "base",
+    "style": 0,
+    "label": "Vitiligo",
+    "source": "genetic1.png",
+    "path": "emoji/voltron/faces/base/stage 3 male/a16_faces-male-stage3-base1-102003"
+  },
+  {
+    "name": "a16_faces-male-stage4-base1-102004",
+    "stage": 4,
+    "gender": 0,
+    "feature": "base",
+    "style": 0,
+    "label": "Vitiligo",
+    "source": "genetic1.png",
+    "path": "emoji/voltron/faces/base/stage 4 male/a16_faces-male-stage4-base1-102004"
+  },
+  {
+    "name": "a16_faces-male-stage5-base1-102005",
+    "stage": 5,
+    "gender": 0,
+    "feature": "base",
+    "style": 0,
+    "label": "Vitiligo",
+    "source": "genetic1.png",
+    "path": "emoji/voltron/faces/base/stage 5 male/a16_faces-male-stage5-base1-102005"
+  },
+  {
+    "name": "a16_faces-female-stage0-base1-102010",
+    "stage": 0,
+    "gender": 1,
+    "feature": "base",
+    "style": 0,
+    "label": "Vitiligo",
+    "source": "genetic1.png",
+    "path": "emoji/voltron/faces/base/stage 0 female/a16_faces-female-stage0-base1-102010"
+  },
+  {
+    "name": "a16_faces-female-stage1-base1-102011",
+    "stage": 1,
+    "gender": 1,
+    "feature": "base",
+    "style": 0,
+    "label": "Vitiligo",
+    "source": "genetic1.png",
+    "path": "emoji/voltron/faces/base/stage 1 female/a16_faces-female-stage1-base1-102011"
+  },
+  {
+    "name": "a16_faces-female-stage2-base1-102012",
+    "stage": 2,
+    "gender": 1,
+    "feature": "base",
+    "style": 0,
+    "label": "Vitiligo",
+    "source": "genetic1.png",
+    "path": "emoji/voltron/faces/base/stage 2 female/a16_faces-female-stage2-base1-102012"
+  },
+  {
+    "name": "a16_faces-female-stage3-base1-102013",
+    "stage": 3,
+    "gender": 1,
+    "feature": "base",
+    "style": 0,
+    "label": "Vitiligo",
+    "source": "genetic1.png",
+    "path": "emoji/voltron/faces/base/stage 3 female/a16_faces-female-stage3-base1-102013"
+  },
+  {
+    "name": "a16_faces-female-stage4-base1-102014",
+    "stage": 4,
+    "gender": 1,
+    "feature": "base",
+    "style": 0,
+    "label": "Vitiligo",
+    "source": "genetic1.png",
+    "path": "emoji/voltron/faces/base/stage 4 female/a16_faces-female-stage4-base1-102014"
+  },
+  {
+    "name": "a16_faces-female-stage5-base1-102015",
+    "stage": 5,
+    "gender": 1,
+    "feature": "base",
+    "style": 0,
+    "label": "Vitiligo",
+    "source": "genetic1.png",
+    "path": "emoji/voltron/faces/base/stage 5 female/a16_faces-female-stage5-base1-102015"
+  },
+  {
+    "name": "a16_faces-male-stage0-base2-102100",
+    "stage": 0,
+    "gender": 0,
+    "feature": "base",
+    "style": 1,
+    "label": "Freckles",
+    "source": "genetic2.png",
+    "path": "emoji/voltron/faces/base/stage 0 male/a16_faces-male-stage0-base2-102100"
+  },
+  {
+    "name": "a16_faces-male-stage1-base2-102101",
+    "stage": 1,
+    "gender": 0,
+    "feature": "base",
+    "style": 1,
+    "label": "Freckles",
+    "source": "genetic2.png",
+    "path": "emoji/voltron/faces/base/stage 1 male/a16_faces-male-stage1-base2-102101"
+  },
+  {
+    "name": "a16_faces-male-stage2-base2-102102",
+    "stage": 2,
+    "gender": 0,
+    "feature": "base",
+    "style": 1,
+    "label": "Freckles",
+    "source": "genetic2.png",
+    "path": "emoji/voltron/faces/base/stage 2 male/a16_faces-male-stage2-base2-102102"
+  },
+  {
+    "name": "a16_faces-male-stage3-base2-102103",
+    "stage": 3,
+    "gender": 0,
+    "feature": "base",
+    "style": 1,
+    "label": "Freckles",
+    "source": "genetic2.png",
+    "path": "emoji/voltron/faces/base/stage 3 male/a16_faces-male-stage3-base2-102103"
+  },
+  {
+    "name": "a16_faces-male-stage4-base2-102104",
+    "stage": 4,
+    "gender": 0,
+    "feature": "base",
+    "style": 1,
+    "label": "Freckles",
+    "source": "genetic2.png",
+    "path": "emoji/voltron/faces/base/stage 4 male/a16_faces-male-stage4-base2-102104"
+  },
+  {
+    "name": "a16_faces-male-stage5-base2-102105",
+    "stage": 5,
+    "gender": 0,
+    "feature": "base",
+    "style": 1,
+    "label": "Freckles",
+    "source": "genetic2.png",
+    "path": "emoji/voltron/faces/base/stage 5 male/a16_faces-male-stage5-base2-102105"
+  },
+  {
+    "name": "a16_faces-female-stage0-base2-102110",
+    "stage": 0,
+    "gender": 1,
+    "feature": "base",
+    "style": 1,
+    "label": "Freckles",
+    "source": "genetic2.png",
+    "path": "emoji/voltron/faces/base/stage 0 female/a16_faces-female-stage0-base2-102110"
+  },
+  {
+    "name": "a16_faces-female-stage1-base2-102111",
+    "stage": 1,
+    "gender": 1,
+    "feature": "base",
+    "style": 1,
+    "label": "Freckles",
+    "source": "genetic2.png",
+    "path": "emoji/voltron/faces/base/stage 1 female/a16_faces-female-stage1-base2-102111"
+  },
+  {
+    "name": "a16_faces-female-stage2-base2-102112",
+    "stage": 2,
+    "gender": 1,
+    "feature": "base",
+    "style": 1,
+    "label": "Freckles",
+    "source": "genetic2.png",
+    "path": "emoji/voltron/faces/base/stage 2 female/a16_faces-female-stage2-base2-102112"
+  },
+  {
+    "name": "a16_faces-female-stage3-base2-102113",
+    "stage": 3,
+    "gender": 1,
+    "feature": "base",
+    "style": 1,
+    "label": "Freckles",
+    "source": "genetic2.png",
+    "path": "emoji/voltron/faces/base/stage 3 female/a16_faces-female-stage3-base2-102113"
+  },
+  {
+    "name": "a16_faces-female-stage4-base2-102114",
+    "stage": 4,
+    "gender": 1,
+    "feature": "base",
+    "style": 1,
+    "label": "Freckles",
+    "source": "genetic2.png",
+    "path": "emoji/voltron/faces/base/stage 4 female/a16_faces-female-stage4-base2-102114"
+  },
+  {
+    "name": "a16_faces-female-stage5-base2-102115",
+    "stage": 5,
+    "gender": 1,
+    "feature": "base",
+    "style": 1,
+    "label": "Freckles",
+    "source": "genetic2.png",
+    "path": "emoji/voltron/faces/base/stage 5 female/a16_faces-female-stage5-base2-102115"
+  },
+  {
+    "name": "a16_faces-male-stage0-base3-102200",
+    "stage": 0,
+    "gender": 0,
+    "feature": "base",
+    "style": 2,
+    "label": "Birthmark",
+    "source": "genetic3.png",
+    "path": "emoji/voltron/faces/base/stage 0 male/a16_faces-male-stage0-base3-102200"
+  },
+  {
+    "name": "a16_faces-male-stage1-base3-102201",
+    "stage": 1,
+    "gender": 0,
+    "feature": "base",
+    "style": 2,
+    "label": "Birthmark",
+    "source": "genetic3.png",
+    "path": "emoji/voltron/faces/base/stage 1 male/a16_faces-male-stage1-base3-102201"
+  },
+  {
+    "name": "a16_faces-male-stage2-base3-102202",
+    "stage": 2,
+    "gender": 0,
+    "feature": "base",
+    "style": 2,
+    "label": "Birthmark",
+    "source": "genetic3.png",
+    "path": "emoji/voltron/faces/base/stage 2 male/a16_faces-male-stage2-base3-102202"
+  },
+  {
+    "name": "a16_faces-male-stage3-base3-102203",
+    "stage": 3,
+    "gender": 0,
+    "feature": "base",
+    "style": 2,
+    "label": "Birthmark",
+    "source": "genetic3.png",
+    "path": "emoji/voltron/faces/base/stage 3 male/a16_faces-male-stage3-base3-102203"
+  },
+  {
+    "name": "a16_faces-male-stage4-base3-102204",
+    "stage": 4,
+    "gender": 0,
+    "feature": "base",
+    "style": 2,
+    "label": "Birthmark",
+    "source": "genetic3.png",
+    "path": "emoji/voltron/faces/base/stage 4 male/a16_faces-male-stage4-base3-102204"
+  },
+  {
+    "name": "a16_faces-male-stage5-base3-102205",
+    "stage": 5,
+    "gender": 0,
+    "feature": "base",
+    "style": 2,
+    "label": "Birthmark",
+    "source": "genetic3.png",
+    "path": "emoji/voltron/faces/base/stage 5 male/a16_faces-male-stage5-base3-102205"
+  },
+  {
+    "name": "a16_faces-female-stage0-base3-102210",
+    "stage": 0,
+    "gender": 1,
+    "feature": "base",
+    "style": 2,
+    "label": "Birthmark",
+    "source": "genetic3.png",
+    "path": "emoji/voltron/faces/base/stage 0 female/a16_faces-female-stage0-base3-102210"
+  },
+  {
+    "name": "a16_faces-female-stage1-base3-102211",
+    "stage": 1,
+    "gender": 1,
+    "feature": "base",
+    "style": 2,
+    "label": "Birthmark",
+    "source": "genetic3.png",
+    "path": "emoji/voltron/faces/base/stage 1 female/a16_faces-female-stage1-base3-102211"
+  },
+  {
+    "name": "a16_faces-female-stage2-base3-102212",
+    "stage": 2,
+    "gender": 1,
+    "feature": "base",
+    "style": 2,
+    "label": "Birthmark",
+    "source": "genetic3.png",
+    "path": "emoji/voltron/faces/base/stage 2 female/a16_faces-female-stage2-base3-102212"
+  },
+  {
+    "name": "a16_faces-female-stage3-base3-102213",
+    "stage": 3,
+    "gender": 1,
+    "feature": "base",
+    "style": 2,
+    "label": "Birthmark",
+    "source": "genetic3.png",
+    "path": "emoji/voltron/faces/base/stage 3 female/a16_faces-female-stage3-base3-102213"
+  },
+  {
+    "name": "a16_faces-female-stage4-base3-102214",
+    "stage": 4,
+    "gender": 1,
+    "feature": "base",
+    "style": 2,
+    "label": "Birthmark",
+    "source": "genetic3.png",
+    "path": "emoji/voltron/faces/base/stage 4 female/a16_faces-female-stage4-base3-102214"
+  },
+  {
+    "name": "a16_faces-female-stage5-base3-102215",
+    "stage": 5,
+    "gender": 1,
+    "feature": "base",
+    "style": 2,
+    "label": "Birthmark",
+    "source": "genetic3.png",
+    "path": "emoji/voltron/faces/base/stage 5 female/a16_faces-female-stage5-base3-102215"
+  },
+  {
+    "name": "a16_faces-male-stage0-base4-102300",
+    "stage": 0,
+    "gender": 0,
+    "feature": "base",
+    "style": 3,
+    "label": "Dimples",
+    "source": "genetic4.png",
+    "path": "emoji/voltron/faces/base/stage 0 male/a16_faces-male-stage0-base4-102300"
+  },
+  {
+    "name": "a16_faces-male-stage1-base4-102301",
+    "stage": 1,
+    "gender": 0,
+    "feature": "base",
+    "style": 3,
+    "label": "Dimples",
+    "source": "genetic4.png",
+    "path": "emoji/voltron/faces/base/stage 1 male/a16_faces-male-stage1-base4-102301"
+  },
+  {
+    "name": "a16_faces-male-stage2-base4-102302",
+    "stage": 2,
+    "gender": 0,
+    "feature": "base",
+    "style": 3,
+    "label": "Dimples",
+    "source": "genetic4.png",
+    "path": "emoji/voltron/faces/base/stage 2 male/a16_faces-male-stage2-base4-102302"
+  },
+  {
+    "name": "a16_faces-male-stage3-base4-102303",
+    "stage": 3,
+    "gender": 0,
+    "feature": "base",
+    "style": 3,
+    "label": "Dimples",
+    "source": "genetic4.png",
+    "path": "emoji/voltron/faces/base/stage 3 male/a16_faces-male-stage3-base4-102303"
+  },
+  {
+    "name": "a16_faces-male-stage4-base4-102304",
+    "stage": 4,
+    "gender": 0,
+    "feature": "base",
+    "style": 3,
+    "label": "Dimples",
+    "source": "genetic4.png",
+    "path": "emoji/voltron/faces/base/stage 4 male/a16_faces-male-stage4-base4-102304"
+  },
+  {
+    "name": "a16_faces-male-stage5-base4-102305",
+    "stage": 5,
+    "gender": 0,
+    "feature": "base",
+    "style": 3,
+    "label": "Dimples",
+    "source": "genetic4.png",
+    "path": "emoji/voltron/faces/base/stage 5 male/a16_faces-male-stage5-base4-102305"
+  },
+  {
+    "name": "a16_faces-female-stage0-base4-102310",
+    "stage": 0,
+    "gender": 1,
+    "feature": "base",
+    "style": 3,
+    "label": "Dimples",
+    "source": "genetic4.png",
+    "path": "emoji/voltron/faces/base/stage 0 female/a16_faces-female-stage0-base4-102310"
+  },
+  {
+    "name": "a16_faces-female-stage1-base4-102311",
+    "stage": 1,
+    "gender": 1,
+    "feature": "base",
+    "style": 3,
+    "label": "Dimples",
+    "source": "genetic4.png",
+    "path": "emoji/voltron/faces/base/stage 1 female/a16_faces-female-stage1-base4-102311"
+  },
+  {
+    "name": "a16_faces-female-stage2-base4-102312",
+    "stage": 2,
+    "gender": 1,
+    "feature": "base",
+    "style": 3,
+    "label": "Dimples",
+    "source": "genetic4.png",
+    "path": "emoji/voltron/faces/base/stage 2 female/a16_faces-female-stage2-base4-102312"
+  },
+  {
+    "name": "a16_faces-female-stage3-base4-102313",
+    "stage": 3,
+    "gender": 1,
+    "feature": "base",
+    "style": 3,
+    "label": "Dimples",
+    "source": "genetic4.png",
+    "path": "emoji/voltron/faces/base/stage 3 female/a16_faces-female-stage3-base4-102313"
+  },
+  {
+    "name": "a16_faces-female-stage4-base4-102314",
+    "stage": 4,
+    "gender": 1,
+    "feature": "base",
+    "style": 3,
+    "label": "Dimples",
+    "source": "genetic4.png",
+    "path": "emoji/voltron/faces/base/stage 4 female/a16_faces-female-stage4-base4-102314"
+  },
+  {
+    "name": "a16_faces-female-stage5-base4-102315",
+    "stage": 5,
+    "gender": 1,
+    "feature": "base",
+    "style": 3,
+    "label": "Dimples",
+    "source": "genetic4.png",
+    "path": "emoji/voltron/faces/base/stage 5 female/a16_faces-female-stage5-base4-102315"
+  },
+  {
+    "name": "a16_faces-male-stage0-eye-base1-102400",
+    "stage": 0,
+    "gender": 0,
+    "feature": "eye",
+    "style": 4,
+    "label": "Heterochromia",
+    "source": "genetic5.png",
+    "path": "emoji/voltron/faces/eye/stage 0 male/a16_faces-male-stage0-eye-base1-102400"
+  },
+  {
+    "name": "a16_faces-male-stage1-eye-base1-102401",
+    "stage": 1,
+    "gender": 0,
+    "feature": "eye",
+    "style": 4,
+    "label": "Heterochromia",
+    "source": "genetic5.png",
+    "path": "emoji/voltron/faces/eye/stage 1 male/a16_faces-male-stage1-eye-base1-102401"
+  },
+  {
+    "name": "a16_faces-male-stage2-eye-base1-102402",
+    "stage": 2,
+    "gender": 0,
+    "feature": "eye",
+    "style": 4,
+    "label": "Heterochromia",
+    "source": "genetic5.png",
+    "path": "emoji/voltron/faces/eye/stage 2 male/a16_faces-male-stage2-eye-base1-102402"
+  },
+  {
+    "name": "a16_faces-male-stage3-eye-base1-102403",
+    "stage": 3,
+    "gender": 0,
+    "feature": "eye",
+    "style": 4,
+    "label": "Heterochromia",
+    "source": "genetic5.png",
+    "path": "emoji/voltron/faces/eye/stage 3 male/a16_faces-male-stage3-eye-base1-102403"
+  },
+  {
+    "name": "a16_faces-male-stage4-eye-base1-102404",
+    "stage": 4,
+    "gender": 0,
+    "feature": "eye",
+    "style": 4,
+    "label": "Heterochromia",
+    "source": "genetic5.png",
+    "path": "emoji/voltron/faces/eye/stage 4 male/a16_faces-male-stage4-eye-base1-102404"
+  },
+  {
+    "name": "a16_faces-male-stage5-eye-base1-102405",
+    "stage": 5,
+    "gender": 0,
+    "feature": "eye",
+    "style": 4,
+    "label": "Heterochromia",
+    "source": "genetic5.png",
+    "path": "emoji/voltron/faces/eye/stage 5 male/a16_faces-male-stage5-eye-base1-102405"
+  },
+  {
+    "name": "a16_faces-female-stage0-eye-base1-102410",
+    "stage": 0,
+    "gender": 1,
+    "feature": "eye",
+    "style": 4,
+    "label": "Heterochromia",
+    "source": "genetic5.png",
+    "path": "emoji/voltron/faces/eye/stage 0 female/a16_faces-female-stage0-eye-base1-102410"
+  },
+  {
+    "name": "a16_faces-female-stage1-eye-base1-102411",
+    "stage": 1,
+    "gender": 1,
+    "feature": "eye",
+    "style": 4,
+    "label": "Heterochromia",
+    "source": "genetic5.png",
+    "path": "emoji/voltron/faces/eye/stage 1 female/a16_faces-female-stage1-eye-base1-102411"
+  },
+  {
+    "name": "a16_faces-female-stage2-eye-base1-102412",
+    "stage": 2,
+    "gender": 1,
+    "feature": "eye",
+    "style": 4,
+    "label": "Heterochromia",
+    "source": "genetic5.png",
+    "path": "emoji/voltron/faces/eye/stage 2 female/a16_faces-female-stage2-eye-base1-102412"
+  },
+  {
+    "name": "a16_faces-female-stage3-eye-base1-102413",
+    "stage": 3,
+    "gender": 1,
+    "feature": "eye",
+    "style": 4,
+    "label": "Heterochromia",
+    "source": "genetic5.png",
+    "path": "emoji/voltron/faces/eye/stage 3 female/a16_faces-female-stage3-eye-base1-102413"
+  },
+  {
+    "name": "a16_faces-female-stage4-eye-base1-102414",
+    "stage": 4,
+    "gender": 1,
+    "feature": "eye",
+    "style": 4,
+    "label": "Heterochromia",
+    "source": "genetic5.png",
+    "path": "emoji/voltron/faces/eye/stage 4 female/a16_faces-female-stage4-eye-base1-102414"
+  },
+  {
+    "name": "a16_faces-female-stage5-eye-base1-102415",
+    "stage": 5,
+    "gender": 1,
+    "feature": "eye",
+    "style": 4,
+    "label": "Heterochromia",
+    "source": "genetic5.png",
+    "path": "emoji/voltron/faces/eye/stage 5 female/a16_faces-female-stage5-eye-base1-102415"
+  }
+]

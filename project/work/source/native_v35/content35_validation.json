@@ -1,0 +1,42 @@
+{
+  "new_scenarios": 143,
+  "new_assets": [
+    "genesis_v18_traits35",
+    "genesis_v18_family35",
+    "genesis_v18_drugshop35",
+    "genesis_v18_armshop35",
+    "genesis_v18_franchises35",
+    "genesis_v18_community35",
+    "genesis_v18_defaults_community35"
+  ],
+  "modified_assets": [
+    "genesis_activities_v18",
+    "genesis_feature_containers",
+    "genesis_v9_school_v9",
+    "genesis_v18_life_v18",
+    "genesis_v18_storm_career19"
+  ],
+  "trait_count": 12,
+  "relative_count": 6,
+  "drug_count": 4,
+  "weapon_count": 6,
+  "franchise_markets": 5,
+  "old_scenario_IDs_retained": true,
+  "passed": true,
+  "datapack_sha256": "d0120fea04a48ac4ce562e2aa830fbfddd55e6626b372a91fb0c5b25178f8e59",
+  "data_sha256": "05414ef6c84864f0f080633293476a7bbbf5dd39468ae80329830a91038e5650",
+  "added_TextAssets": {
+    "genesis_v18_traits35": 37710,
+    "genesis_v18_family35": 37711,
+    "genesis_v18_drugshop35": 37712,
+    "genesis_v18_armshop35": 37713,
+    "genesis_v18_franchises35": 37714,
+    "genesis_v18_community35": 37715,
+    "genesis_v18_defaults_community35": 37716
+  },
+  "preserved_Unity_objects": 50519,
+  "all_other_objects_byte_identical": true,
+  "original_resource_paths_preserved": true,
+  "original_scenarios_preserved": true,
+  "new_scenarios_in_shipped_genesis_schema": true
+}

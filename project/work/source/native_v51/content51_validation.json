@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "checks": 46371,
+  "assets": {
+    "datapack_sha256": "a3c1214eef06dc80e7b57d0f78334c9c554d2547feee42f5f64250017dc3e9e5",
+    "base_datapack_sha256": "e81a8342990917a465a00e47b8e92fc5c9f0a274fc4a77cc8c9b85aa306b3b3b",
+    "data_sha256": "881d1af185b9a22658a49f7033221762b14d4a070c793b38a0983667335ca641",
+    "changed_text_assets": [
+      "genesis_feature_containers",
+      "genesis_activities_v12",
+      "genesis_activities_v18",
+      "genesis_v18_defaults_life_v18"
+    ],
+    "no_new_resources": true,
+    "all_iris_textures_preserved": true
+  },
+  "unchanged_Unity_objects": 39800,
+  "changed_TextAssets": [
+    "genesis_feature_containers",
+    "genesis_activities_v12",
+    "genesis_activities_v18",
+    "genesis_v18_defaults_life_v18"
+  ],
+  "direct_menu_scenarios": 1064,
+  "blueprint_menu_chains": 408,
+  "comments_and_social_routes_present": true,
+  "no_new_tabs": true,
+  "all_v50_portrait_pixels_and_resource_ids_identical": true,
+  "physical_phone_tested": false
+}
