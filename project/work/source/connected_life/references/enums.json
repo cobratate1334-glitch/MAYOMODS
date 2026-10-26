@@ -1,0 +1,63 @@
+{
+  "metadata_sha256": "7bd1a0ddb9e1ac0b94bf23f43e5b821196a4eac25e968aaf01fec5b5e2409ac1",
+  "method": "v39 field-default records and compressed signed literals",
+  "enums": {
+    "MILITARY_DISCHARGE_TYPE": {
+      "HONORABLE": 1,
+      "DISHONORABLE": 2,
+      "DESERTED": 3,
+      "RETIRED": 4
+    },
+    "MILITARY_STATUS": {
+      "ENLISTED": 1,
+      "OFFICER": 2
+    },
+    "MILITARY_BRANCH": {
+      "NONE": 0,
+      "ARMY": 1,
+      "AIR_FORCE": 2,
+      "NAVY": 3,
+      "MARINES": 4,
+      "COAST_GUARD": 5
+    },
+    "SCHOOL_TYPE": {
+      "NONE": 0,
+      "ELEMENTARY": 1,
+      "MIDDLE": 101,
+      "HIGH": 2,
+      "GED": 3,
+      "COMMUNITY_COLLEGE": 11,
+      "UNDERGRADUATE": 12,
+      "PHARMACY": 21,
+      "LAW": 22,
+      "VETERINARY": 23,
+      "DENTAL": 24,
+      "MEDICAL": 25,
+      "GRADUATE": 26,
+      "NURSING": 27,
+      "BUSINESS": 28
+    },
+    "SCHOOL_FUND_SOURCE": {
+      "NONE": -1,
+      "FREE": 0,
+      "LOAN": 1,
+      "PARENTS": 2,
+      "SCHOLARSHIP": 3,
+      "CASH": 4,
+      "PUBLIC": 5
+    },
+    "WORKPLACE_TYPE": {
+      "JOB": 0,
+      "MILITARY": 1
+    },
+    "OCCUPATION_TYPE": {
+      "NONE": 0,
+      "STUDENT": 1,
+      "EMPLOYEE": 2,
+      "MILITARY": 3,
+      "PRISONER": 4,
+      "RETIREE": 5,
+      "SPECIAL": 6
+    }
+  }
+}

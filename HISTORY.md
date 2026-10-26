@@ -1,5 +1,24 @@
 # Important history and decisions
 
+## Candidate 1110 — connected native life/eras, 26 October 2026
+
+The owner supplied another 144 military sprites and rejected generated era art,
+missing news/draft entry points and actions without consequences. Repaired the
+1109 resource-versus-CSV regression and restored original annual news/call-up
+queues. Added real-photo birth-year cards/scenery; kept military in Occupation,
+connected native service/postings/coworkers/GI funding, expanded native exercises,
+magazines, school/prison/live-stream outcomes and grouped appearance controls.
+Imported canonical extra aliases and replaced unknown icon names. Kept the
+existing signer, package, saves, launcher, native church and Roblox website.
+Packaging caught unordered continuation output; deterministic sorting is checked
+under independent hash seeds before signing.
+
+Checks: 84 new_native, 16 new native picker, 149 JNI, 139 controller, 32760 content, 1278 assets, 66 identity, 50 presentation, 355 retained_life, 76 retained_boundaries, 399 retained_navigation, 40512 retained_website, 19 DEX. Plus signature,
+aapt2, native signer, CRC and alignment checks. Host/API modeling is not ART,
+Unity rendering or phone gameplay. Earlier portrait/loading acceptance is open.
+
+Download: <https://gofile.io/d/uA3y2KVy>. SHA256 `8cac9f79ecee8ca1005ee49b88333a4abc611029a5a1429c5737a3e54b310a24`.
+
 ## Candidate 1109 — original game controls and PNG themes, 26 October 2026 (Adelaide)
 
 The owner rejected 1108's separate Android military window and flat themes.

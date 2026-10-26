@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "checks": 139,
+  "host_JVM": true,
+  "JNI_and_graphics_modeled": true,
+  "ART_tested": false,
+  "controller_sha256": "d36445b4b472fd621656d633c6a266e2814ca8e38bee426a588275b7f892bf98"
+}

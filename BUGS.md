@@ -1,5 +1,30 @@
 # Known bugs and verification gaps
 
+**1110 repair — 26 October 2026.** The missing war/news issue is reproduced on
+1109: a resource ID reaches the native CSV loader. The same strict native test
+fails 1109 and passes the resource-loader repair. Separate original annual queues
+restore historical news/call-ups without creating UI during simulation. The
+previous HUD replacement is disabled. Country cohorts, Ireland exclusions and
+old manual/stock events are checked; ordinary events remain.
+
+The old peer-support hook opened feedback but returned the previous Scenario.
+It now returns a new result Scenario to the original caller and resolves the
+actual living current inmate. Relationship/conduct/receipt paths are checked.
+Final review also caught a metadata slot/address error in the new GI path.
+A stronger check now executes the original major lookup, rejects the wrong
+pointer and passes the corrected usage pointer. The superseded upload was removed
+before final delivery. Completed exercise answers also resume at their report.
+GI funding, postings/workplaces and personnel age/rank use audited native types.
+The new appearance tools page has layout and stale-owner guards; 399 retained
+appearance checks pass. A build check caught unordered continuation traversal;
+sorting it makes the validated and bundled content reproducible across hash seeds.
+
+These results cover compiled/model boundaries and package data, not device
+acceptance. **Black portraits, stuck loading, physical layout/touches, ART,
+installation and real save/reload remain OPEN on the owner's phone.** The source
+README documents limited cohort/posting rules, practice-only school team cards,
+separate live-channel metrics and personal arms collections.
+
 **1109 presentation correction — 26 October 2026 (Adelaide).** The owner's
 screenshot rejects the Android military Dialog/Canvas UI in 1108. That design
 is replaced by original Unity ScenarioBase cards and Genesis lists. There are

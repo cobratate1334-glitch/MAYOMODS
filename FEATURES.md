@@ -1,5 +1,17 @@
 # Requested gameplay systems and design requirements
 
+Active candidate **1110**: real-photo era selection and war scenery; original
+annual historical headlines and draft notices; recruitment inside Occupation;
+actual service, 2–4-year postings/new coworkers and four-year honorable US service
+college benefit; native exercises, magazines and 144 extra sprites. Genetics uses
+grouped blue native controls. School/prison choices produce receipts and real
+consequences; school fights retain original attacks/damage. Live streams include
+visits/chat/donations and a 2010 social-media floor. Fictional street inventories
+and rare encounters are connected. Original military branch/campaign/minigame,
+parent/chess, launcher, Roblox and church paths remain. Exact scope and limits:
+[connected_life/README.md](project/work/source/connected_life/README.md).
+Phone acceptance is pending; implemented does not mean every stock path is tested.
+
 Active candidate **1109** presents military service, draft help, training,
 equipment, operations, camp, world news and chess through the original game's
 cards/lists and controls. Four native PNG backgrounds distinguish WWI, armistice,

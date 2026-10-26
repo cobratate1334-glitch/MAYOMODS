@@ -1,5 +1,24 @@
 # Instructions for Codex — MayoMods
 
+Active candidate is **1110**, `project/work/source/connected_life`.
+Read its README, REQUESTS and references/BOUNDARIES first. Original Unity UI is
+mandatory; only Roblox uses a website. Annual news/call-ups use original annual
+containers; the old HUD news detector is disabled. Never pass resource names to
+LoadAndShowScenario (CSV); use LoadResourceAndShow, or return the queued Scenario
+to its original caller. Manual annual continuations use impossible Filters and
+SORTED traversal. Content must match across independent PYTHONHASHSEED values.
+Use real sourced photographs for backgrounds/news; supplied stylized item art
+is distinct. Preserve original resource IDs and canonical extra-sprite aliases.
+Military stays in Occupation/Military. Native service years, birth-year-scoped
+GI eligibility, actual places/workplaces and correctly typed personnel scripts
+are authoritative. GC handles are uintptr-sized; college funding uses the original
+admitted-student path and no loan. New data lives within the existing JNI ABI.
+Keep original save keys, signer/package, native parent binding, original portrait
+and owned live texture separation, stock gameplay and launcher preferences.
+No keys, APKs, raw logs or host tokens in Git. Phone/ART/rendering/real-save and
+black portrait/loading acceptance remain OPEN. Existing source publication and
+APK-only external upload remain authorized. Prior active blocks are historical.
+
 Active candidate is **1109**, `project/work/source/native_immersion`.
 Read its README/reports and references/BOUNDARIES.md first. The owner explicitly
 rejected 1108's Android military panels. Military presentation MUST use the

@@ -1,0 +1,24 @@
+{
+  "version_code": 1110,
+  "checks": {
+    "native_validation.json": 84,
+    "structure_validation.json": null,
+    "content_validation.json": 32760,
+    "retained_native_validation.json": 355,
+    "boundary_validation.json": 76,
+    "web_native_validation.json": 40512,
+    "presentation_validation.json": 50,
+    "identity_validation.json": 66,
+    "picker_validation.json": 16,
+    "controller_validation.json": 139,
+    "compiled_sources_validation.json": null,
+    "jni_validation.json": 149,
+    "launcher_validation.json": 19,
+    "bundle_validation.json": null,
+    "asset_validation.json": 1278
+  },
+  "apk_sha256": "8cac9f79ecee8ca1005ee49b88333a4abc611029a5a1429c5737a3e54b310a24",
+  "native_sha256": "b51941598e1ff3c14a7e4eaa315de9778ed7740248da40681010da99773214fa",
+  "same_signer": true,
+  "phone_tested": false
+}

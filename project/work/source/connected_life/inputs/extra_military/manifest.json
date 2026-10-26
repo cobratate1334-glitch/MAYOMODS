@@ -1,0 +1,2603 @@
+{
+  "pack": "MayoMods Military Expansion Extra Assets",
+  "asset_count": 144,
+  "sheet_count": 6,
+  "sprite_format": "PNG with alpha",
+  "sheet_format": "WebP with alpha",
+  "max_sprite_dimension": 224,
+  "coordinate_origin": "top-left",
+  "assets": [
+    {
+      "id": "01_medals_01",
+      "description": "gold eight-point bravery star on red and cream ribbon",
+      "category": "Medals and decorations",
+      "file": "sprites/01_medals/01_gold_eight_point_bravery_star_on_red_and_cream_ribbon.png",
+      "width": 164,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/01_medals.webp",
+      "sheet_bbox": [
+        62,
+        16,
+        176,
+        245
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "01_medals_02",
+      "description": "silver circular service medal on olive and white ribbon",
+      "category": "Medals and decorations",
+      "file": "sprites/01_medals/02_silver_circular_service_medal_on_olive_and_white_ribbon.png",
+      "width": 142,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/01_medals.webp",
+      "sheet_bbox": [
+        317,
+        16,
+        147,
+        240
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "01_medals_03",
+      "description": "gold winged aviation medal on sky blue ribbon",
+      "category": "Medals and decorations",
+      "file": "sprites/01_medals/03_gold_winged_aviation_medal_on_sky_blue_ribbon.png",
+      "width": 224,
+      "height": 223,
+      "alpha": true,
+      "sheet": "sheets/01_medals.webp",
+      "sheet_bbox": [
+        522,
+        14,
+        246,
+        245
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "01_medals_04",
+      "description": "bronze anchor naval medal on navy and white ribbon",
+      "category": "Medals and decorations",
+      "file": "sprites/01_medals/04_bronze_anchor_naval_medal_on_navy_and_white_ribbon.png",
+      "width": 141,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/01_medals.webp",
+      "sheet_bbox": [
+        815,
+        15,
+        147,
+        242
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "01_medals_05",
+      "description": "silver armored-service tank-emblem medal on black and yellow ribbon",
+      "category": "Medals and decorations",
+      "file": "sprites/01_medals/05_silver_armored_service_tank_emblem_medal_on_black_and_yellow_ribbon.png",
+      "width": 180,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/01_medals.webp",
+      "sheet_bbox": [
+        1068,
+        14,
+        192,
+        243
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "01_medals_06",
+      "description": "bronze infantry crossed-rifles medal on khaki and green ribbon",
+      "category": "Medals and decorations",
+      "file": "sprites/01_medals/06_bronze_infantry_crossed_rifles_medal_on_khaki_and_green_ribbon.png",
+      "width": 179,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/01_medals.webp",
+      "sheet_bbox": [
+        1275,
+        14,
+        192,
+        244
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "01_medals_07",
+      "description": "gold hexagonal medical-service medal with green plus on white ribbon",
+      "category": "Medals and decorations",
+      "file": "sprites/01_medals/07_gold_hexagonal_medical_service_medal_with_green_plus_on_white_ribbon.png",
+      "width": 138,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/01_medals.webp",
+      "sheet_bbox": [
+        69,
+        253,
+        155,
+        261
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "01_medals_08",
+      "description": "bronze gear-shaped engineering medal on orange and green ribbon",
+      "category": "Medals and decorations",
+      "file": "sprites/01_medals/08_bronze_gear_shaped_engineering_medal_on_orange_and_green_ribbon.png",
+      "width": 176,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/01_medals.webp",
+      "sheet_bbox": [
+        318,
+        255,
+        200,
+        258
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "01_medals_09",
+      "description": "silver lightning signals medal on teal ribbon",
+      "category": "Medals and decorations",
+      "file": "sprites/01_medals/09_silver_lightning_signals_medal_on_teal_ribbon.png",
+      "width": 145,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/01_medals.webp",
+      "sheet_bbox": [
+        559,
+        255,
+        162,
+        258
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "01_medals_10",
+      "description": "silver compass reconnaissance medal on forest green ribbon",
+      "category": "Medals and decorations",
+      "file": "sprites/01_medals/10_silver_compass_reconnaissance_medal_on_forest_green_ribbon.png",
+      "width": 139,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/01_medals.webp",
+      "sheet_bbox": [
+        815,
+        254,
+        155,
+        259
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "01_medals_11",
+      "description": "gold laurel leadership medal on maroon ribbon",
+      "category": "Medals and decorations",
+      "file": "sprites/01_medals/11_gold_laurel_leadership_medal_on_maroon_ribbon.png",
+      "width": 214,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/01_medals.webp",
+      "sheet_bbox": [
+        1017,
+        256,
+        247,
+        259
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "01_medals_12",
+      "description": "bronze oak-leaf long-service medal on brown and cream ribbon",
+      "category": "Medals and decorations",
+      "file": "sprites/01_medals/12_bronze_oak_leaf_long_service_medal_on_brown_and_cream_ribbon.png",
+      "width": 144,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/01_medals.webp",
+      "sheet_bbox": [
+        1313,
+        256,
+        160,
+        256
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "01_medals_13",
+      "description": "bronze five-point campaign star on rainbow-striped ribbon",
+      "category": "Medals and decorations",
+      "file": "sprites/01_medals/13_bronze_five_point_campaign_star_on_rainbow_striped_ribbon.png",
+      "width": 153,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/01_medals.webp",
+      "sheet_bbox": [
+        62,
+        509,
+        162,
+        243
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "01_medals_14",
+      "description": "silver snowflake winter-service medal on pale blue ribbon",
+      "category": "Medals and decorations",
+      "file": "sprites/01_medals/14_silver_snowflake_winter_service_medal_on_pale_blue_ribbon.png",
+      "width": 140,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/01_medals.webp",
+      "sheet_bbox": [
+        317,
+        509,
+        149,
+        247
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "01_medals_15",
+      "description": "bronze sun desert-service medal on tan ribbon",
+      "category": "Medals and decorations",
+      "file": "sprites/01_medals/15_bronze_sun_desert_service_medal_on_tan_ribbon.png",
+      "width": 143,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/01_medals.webp",
+      "sheet_bbox": [
+        566,
+        509,
+        156,
+        253
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "01_medals_16",
+      "description": "gold lifesaver rescue medal on navy and orange ribbon",
+      "category": "Medals and decorations",
+      "file": "sprites/01_medals/16_gold_lifesaver_rescue_medal_on_navy_and_orange_ribbon.png",
+      "width": 152,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/01_medals.webp",
+      "sheet_bbox": [
+        813,
+        510,
+        166,
+        252
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "01_medals_17",
+      "description": "gold shield gallantry medal on royal blue ribbon",
+      "category": "Medals and decorations",
+      "file": "sprites/01_medals/17_gold_shield_gallantry_medal_on_royal_blue_ribbon.png",
+      "width": 138,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/01_medals.webp",
+      "sheet_bbox": [
+        1068,
+        510,
+        150,
+        253
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "01_medals_18",
+      "description": "gold-trimmed purple enamel recovery-heart medal on purple and white ribbon",
+      "category": "Medals and decorations",
+      "file": "sprites/01_medals/18_gold_trimmed_purple_enamel_recovery_heart_medal_on_purple_and_white_ribbon.png",
+      "width": 153,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/01_medals.webp",
+      "sheet_bbox": [
+        1310,
+        510,
+        165,
+        248
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "01_medals_19",
+      "description": "bronze round WW1-style laurel campaign medal on rust and khaki ribbon",
+      "category": "Medals and decorations",
+      "file": "sprites/01_medals/19_bronze_round_ww1_style_laurel_campaign_medal_on_rust_and_khaki_ribbon.png",
+      "width": 151,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/01_medals.webp",
+      "sheet_bbox": [
+        65,
+        766,
+        159,
+        242
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "01_medals_20",
+      "description": "gold diamond WWII-style victory medal on blue green white ribbon",
+      "category": "Medals and decorations",
+      "file": "sprites/01_medals/20_gold_diamond_wwii_style_victory_medal_on_blue_green_white_ribbon.png",
+      "width": 168,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/01_medals.webp",
+      "sheet_bbox": [
+        303,
+        759,
+        185,
+        252
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "01_medals_21",
+      "description": "silver dove peace medal on white and blue ribbon",
+      "category": "Medals and decorations",
+      "file": "sprites/01_medals/21_silver_dove_peace_medal_on_white_and_blue_ribbon.png",
+      "width": 174,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/01_medals.webp",
+      "sheet_bbox": [
+        561,
+        761,
+        189,
+        247
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "01_medals_22",
+      "description": "bronze torch veteran medal on dark red ribbon",
+      "category": "Medals and decorations",
+      "file": "sprites/01_medals/22_bronze_torch_veteran_medal_on_dark_red_ribbon.png",
+      "width": 144,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/01_medals.webp",
+      "sheet_bbox": [
+        815,
+        762,
+        153,
+        246
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "01_medals_23",
+      "description": "silver target marksmanship medal on gray and green ribbon",
+      "category": "Medals and decorations",
+      "file": "sprites/01_medals/23_silver_target_marksmanship_medal_on_gray_and_green_ribbon.png",
+      "width": 178,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/01_medals.webp",
+      "sheet_bbox": [
+        1067,
+        761,
+        193,
+        247
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "01_medals_24",
+      "description": "gold wreath distinguished-service medal on blue and gold ribbon",
+      "category": "Medals and decorations",
+      "file": "sprites/01_medals/24_gold_wreath_distinguished_service_medal_on_blue_and_gold_ribbon.png",
+      "width": 154,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/01_medals.webp",
+      "sheet_bbox": [
+        1313,
+        741,
+        181,
+        270
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "02_soldiers_01",
+      "description": "adult khaki WW1 infantry soldier with helmet and lowered rifle",
+      "category": "Soldiers and support personnel",
+      "file": "sprites/02_soldiers/01_adult_khaki_ww1_infantry_soldier_with_helmet_and_lowered_rifle.png",
+      "width": 191,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/02_soldiers.webp",
+      "sheet_bbox": [
+        57,
+        13,
+        225,
+        267
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "02_soldiers_02",
+      "description": "adult blue-gray WW1 infantry soldier with helmet",
+      "category": "Soldiers and support personnel",
+      "file": "sprites/02_soldiers/02_adult_blue_gray_ww1_infantry_soldier_with_helmet.png",
+      "width": 186,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/02_soldiers.webp",
+      "sheet_bbox": [
+        273,
+        0,
+        243,
+        296
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "02_soldiers_03",
+      "description": "adult field-gray WW1 infantry soldier with helmet",
+      "category": "Soldiers and support personnel",
+      "file": "sprites/02_soldiers/03_adult_field_gray_ww1_infantry_soldier_with_helmet.png",
+      "width": 200,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/02_soldiers.webp",
+      "sheet_bbox": [
+        515,
+        9,
+        247,
+        279
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "02_soldiers_04",
+      "description": "adult tan WW1 desert soldier with pith helmet",
+      "category": "Soldiers and support personnel",
+      "file": "sprites/02_soldiers/04_adult_tan_ww1_desert_soldier_with_pith_helmet.png",
+      "width": 200,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/02_soldiers.webp",
+      "sheet_bbox": [
+        767,
+        1,
+        247,
+        278
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "02_soldiers_05",
+      "description": "adult WW1 winter soldier in brown greatcoat",
+      "category": "Soldiers and support personnel",
+      "file": "sprites/02_soldiers/05_adult_ww1_winter_soldier_in_brown_greatcoat.png",
+      "width": 205,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/02_soldiers.webp",
+      "sheet_bbox": [
+        1017,
+        1,
+        239,
+        263
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "02_soldiers_06",
+      "description": "adult WW1 navy sailor in dark blue",
+      "category": "Soldiers and support personnel",
+      "file": "sprites/02_soldiers/06_adult_ww1_navy_sailor_in_dark_blue.png",
+      "width": 180,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/02_soldiers.webp",
+      "sheet_bbox": [
+        1283,
+        1,
+        223,
+        281
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "02_soldiers_07",
+      "description": "adult WW1 aviator in brown leather flightwear and goggles",
+      "category": "Soldiers and support personnel",
+      "file": "sprites/02_soldiers/07_adult_ww1_aviator_in_brown_leather_flightwear_and_goggles.png",
+      "width": 173,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/02_soldiers.webp",
+      "sheet_bbox": [
+        45,
+        257,
+        215,
+        283
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "02_soldiers_08",
+      "description": "adult female WW1 nurse in white apron with plain green plus",
+      "category": "Soldiers and support personnel",
+      "file": "sprites/02_soldiers/08_adult_female_ww1_nurse_in_white_apron_with_plain_green_plus.png",
+      "width": 209,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/02_soldiers.webp",
+      "sheet_bbox": [
+        280,
+        255,
+        242,
+        261
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "02_soldiers_09",
+      "description": "adult WW1 medic with khaki uniform and medical satchel",
+      "category": "Soldiers and support personnel",
+      "file": "sprites/02_soldiers/09_adult_ww1_medic_with_khaki_uniform_and_medical_satchel.png",
+      "width": 197,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/02_soldiers.webp",
+      "sheet_bbox": [
+        509,
+        251,
+        257,
+        295
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "02_soldiers_10",
+      "description": "adult WW1 communications soldier with field telephone case",
+      "category": "Soldiers and support personnel",
+      "file": "sprites/02_soldiers/10_adult_ww1_communications_soldier_with_field_telephone_case.png",
+      "width": 186,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/02_soldiers.webp",
+      "sheet_bbox": [
+        767,
+        258,
+        243,
+        296
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "02_soldiers_11",
+      "description": "adult WW1 cavalry scout with campaign hat, no horse",
+      "category": "Soldiers and support personnel",
+      "file": "sprites/02_soldiers/11_adult_ww1_cavalry_scout_with_campaign_hat_no_horse.png",
+      "width": 195,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/02_soldiers.webp",
+      "sheet_bbox": [
+        1025,
+        254,
+        257,
+        298
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "02_soldiers_12",
+      "description": "adult WW1 officer in khaki with peaked cap",
+      "category": "Soldiers and support personnel",
+      "file": "sprites/02_soldiers/12_adult_ww1_officer_in_khaki_with_peaked_cap.png",
+      "width": 209,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/02_soldiers.webp",
+      "sheet_bbox": [
+        1277,
+        253,
+        245,
+        263
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "02_soldiers_13",
+      "description": "adult WW2 olive infantry soldier with steel helmet and lowered rifle",
+      "category": "Soldiers and support personnel",
+      "file": "sprites/02_soldiers/13_adult_ww2_olive_infantry_soldier_with_steel_helmet_and_lowered_rifle.png",
+      "width": 166,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/02_soldiers.webp",
+      "sheet_bbox": [
+        60,
+        510,
+        212,
+        292
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "02_soldiers_14",
+      "description": "adult WW2 gray-blue infantry soldier with steel helmet",
+      "category": "Soldiers and support personnel",
+      "file": "sprites/02_soldiers/14_adult_ww2_gray_blue_infantry_soldier_with_steel_helmet.png",
+      "width": 208,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/02_soldiers.webp",
+      "sheet_bbox": [
+        271,
+        510,
+        246,
+        266
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "02_soldiers_15",
+      "description": "adult WW2 winter soldier in white winter coat",
+      "category": "Soldiers and support personnel",
+      "file": "sprites/02_soldiers/15_adult_ww2_winter_soldier_in_white_winter_coat.png",
+      "width": 220,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/02_soldiers.webp",
+      "sheet_bbox": [
+        515,
+        511,
+        255,
+        260
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "02_soldiers_16",
+      "description": "adult WW2 desert officer in tan clothing",
+      "category": "Soldiers and support personnel",
+      "file": "sprites/02_soldiers/16_adult_ww2_desert_officer_in_tan_clothing.png",
+      "width": 219,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/02_soldiers.webp",
+      "sheet_bbox": [
+        765,
+        508,
+        257,
+        263
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "02_soldiers_17",
+      "description": "adult WW2 paratrooper with harness",
+      "category": "Soldiers and support personnel",
+      "file": "sprites/02_soldiers/17_adult_ww2_paratrooper_with_harness.png",
+      "width": 209,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/02_soldiers.webp",
+      "sheet_bbox": [
+        1021,
+        513,
+        263,
+        283
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "02_soldiers_18",
+      "description": "adult WW2 naval officer in blue peaked cap",
+      "category": "Soldiers and support personnel",
+      "file": "sprites/02_soldiers/18_adult_ww2_naval_officer_in_blue_peaked_cap.png",
+      "width": 181,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/02_soldiers.webp",
+      "sheet_bbox": [
+        1281,
+        507,
+        241,
+        302
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "02_soldiers_19",
+      "description": "adult WW2 flight crew member with gray flight suit and life vest",
+      "category": "Soldiers and support personnel",
+      "file": "sprites/02_soldiers/19_adult_ww2_flight_crew_member_with_gray_flight_suit_and_life_vest.png",
+      "width": 211,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/02_soldiers.webp",
+      "sheet_bbox": [
+        31,
+        767,
+        241,
+        257
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "02_soldiers_20",
+      "description": "adult female WW2 mechanic in olive coveralls",
+      "category": "Soldiers and support personnel",
+      "file": "sprites/02_soldiers/20_adult_female_ww2_mechanic_in_olive_coveralls.png",
+      "width": 218,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/02_soldiers.webp",
+      "sheet_bbox": [
+        267,
+        763,
+        253,
+        261
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "02_soldiers_21",
+      "description": "adult female WW2 medic in olive field uniform",
+      "category": "Soldiers and support personnel",
+      "file": "sprites/02_soldiers/21_adult_female_ww2_medic_in_olive_field_uniform.png",
+      "width": 208,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/02_soldiers.webp",
+      "sheet_bbox": [
+        519,
+        763,
+        241,
+        261
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "02_soldiers_22",
+      "description": "adult WW2 radio operator with backpack radio",
+      "category": "Soldiers and support personnel",
+      "file": "sprites/02_soldiers/22_adult_ww2_radio_operator_with_backpack_radio.png",
+      "width": 179,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/02_soldiers.webp",
+      "sheet_bbox": [
+        765,
+        763,
+        205,
+        261
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "02_soldiers_23",
+      "description": "adult WW2 tank crew member in dark coveralls and padded helmet",
+      "category": "Soldiers and support personnel",
+      "file": "sprites/02_soldiers/23_adult_ww2_tank_crew_member_in_dark_coveralls_and_padded_helmet.png",
+      "width": 203,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/02_soldiers.webp",
+      "sheet_bbox": [
+        1049,
+        767,
+        231,
+        257
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "02_soldiers_24",
+      "description": "adult WW2 sailor in white uniform",
+      "category": "Soldiers and support personnel",
+      "file": "sprites/02_soldiers/24_adult_ww2_sailor_in_white_uniform.png",
+      "width": 207,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/02_soldiers.webp",
+      "sheet_bbox": [
+        1285,
+        764,
+        239,
+        260
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "03_extra_vehicles_01",
+      "description": "blue WW1 two-seat reconnaissance biplane",
+      "category": "Additional aircraft, armor and naval vehicles",
+      "file": "sprites/03_extra_vehicles/01_blue_ww1_two_seat_reconnaissance_biplane.png",
+      "width": 224,
+      "height": 219,
+      "alpha": true,
+      "sheet": "sheets/03_extra_vehicles.webp",
+      "sheet_bbox": [
+        0,
+        33,
+        272,
+        265
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "03_extra_vehicles_02",
+      "description": "brown WW1 large twin-engine bomber biplane",
+      "category": "Additional aircraft, armor and naval vehicles",
+      "file": "sprites/03_extra_vehicles/02_brown_ww1_large_twin_engine_bomber_biplane.png",
+      "width": 210,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/03_extra_vehicles.webp",
+      "sheet_bbox": [
+        272,
+        27,
+        259,
+        277
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "03_extra_vehicles_03",
+      "description": "cream WW1 flying boat with stacked wings",
+      "category": "Additional aircraft, armor and naval vehicles",
+      "file": "sprites/03_extra_vehicles/03_cream_ww1_flying_boat_with_stacked_wings.png",
+      "width": 224,
+      "height": 213,
+      "alpha": true,
+      "sheet": "sheets/03_extra_vehicles.webp",
+      "sheet_bbox": [
+        515,
+        17,
+        299,
+        284
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "03_extra_vehicles_04",
+      "description": "olive WW2 dive bomber with fixed landing gear",
+      "category": "Additional aircraft, armor and naval vehicles",
+      "file": "sprites/03_extra_vehicles/04_olive_ww2_dive_bomber_with_fixed_landing_gear.png",
+      "width": 224,
+      "height": 214,
+      "alpha": true,
+      "sheet": "sheets/03_extra_vehicles.webp",
+      "sheet_bbox": [
+        753,
+        40,
+        285,
+        272
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "03_extra_vehicles_05",
+      "description": "silver WW2 twin-engine coastal patrol plane",
+      "category": "Additional aircraft, armor and naval vehicles",
+      "file": "sprites/03_extra_vehicles/05_silver_ww2_twin_engine_coastal_patrol_plane.png",
+      "width": 224,
+      "height": 189,
+      "alpha": true,
+      "sheet": "sheets/03_extra_vehicles.webp",
+      "sheet_bbox": [
+        1022,
+        53,
+        262,
+        219
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "03_extra_vehicles_06",
+      "description": "navy WW2 torpedo bomber with folded wing tips",
+      "category": "Additional aircraft, armor and naval vehicles",
+      "file": "sprites/03_extra_vehicles/06_navy_ww2_torpedo_bomber_with_folded_wing_tips.png",
+      "width": 224,
+      "height": 212,
+      "alpha": true,
+      "sheet": "sheets/03_extra_vehicles.webp",
+      "sheet_bbox": [
+        1275,
+        36,
+        252,
+        238
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "03_extra_vehicles_07",
+      "description": "gray WW1 heavy box-shaped tracked tank",
+      "category": "Additional aircraft, armor and naval vehicles",
+      "file": "sprites/03_extra_vehicles/07_gray_ww1_heavy_box_shaped_tracked_tank.png",
+      "width": 224,
+      "height": 180,
+      "alpha": true,
+      "sheet": "sheets/03_extra_vehicles.webp",
+      "sheet_bbox": [
+        0,
+        293,
+        291,
+        231
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "03_extra_vehicles_08",
+      "description": "olive WW1 compact tracked tankette",
+      "category": "Additional aircraft, armor and naval vehicles",
+      "file": "sprites/03_extra_vehicles/08_olive_ww1_compact_tracked_tankette.png",
+      "width": 224,
+      "height": 197,
+      "alpha": true,
+      "sheet": "sheets/03_extra_vehicles.webp",
+      "sheet_bbox": [
+        277,
+        295,
+        239,
+        209
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "03_extra_vehicles_09",
+      "description": "brown WW1 open-top armored truck",
+      "category": "Additional aircraft, armor and naval vehicles",
+      "file": "sprites/03_extra_vehicles/09_brown_ww1_open_top_armored_truck.png",
+      "width": 224,
+      "height": 208,
+      "alpha": true,
+      "sheet": "sheets/03_extra_vehicles.webp",
+      "sheet_bbox": [
+        507,
+        301,
+        271,
+        251
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "03_extra_vehicles_10",
+      "description": "wheeled WW1 field kitchen trailer",
+      "category": "Additional aircraft, armor and naval vehicles",
+      "file": "sprites/03_extra_vehicles/10_wheeled_ww1_field_kitchen_trailer.png",
+      "width": 213,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/03_extra_vehicles.webp",
+      "sheet_bbox": [
+        765,
+        285,
+        263,
+        277
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "03_extra_vehicles_11",
+      "description": "wooden WW1 covered supply wagon without horse",
+      "category": "Additional aircraft, armor and naval vehicles",
+      "file": "sprites/03_extra_vehicles/11_wooden_ww1_covered_supply_wagon_without_horse.png",
+      "width": 224,
+      "height": 218,
+      "alpha": true,
+      "sheet": "sheets/03_extra_vehicles.webp",
+      "sheet_bbox": [
+        983,
+        255,
+        291,
+        283
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "03_extra_vehicles_12",
+      "description": "black WW1 steam locomotive coal tender",
+      "category": "Additional aircraft, armor and naval vehicles",
+      "file": "sprites/03_extra_vehicles/12_black_ww1_steam_locomotive_coal_tender.png",
+      "width": 224,
+      "height": 222,
+      "alpha": true,
+      "sheet": "sheets/03_extra_vehicles.webp",
+      "sheet_bbox": [
+        1268,
+        297,
+        257,
+        255
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "03_extra_vehicles_13",
+      "description": "olive WW2 self-propelled artillery vehicle",
+      "category": "Additional aircraft, armor and naval vehicles",
+      "file": "sprites/03_extra_vehicles/13_olive_ww2_self_propelled_artillery_vehicle.png",
+      "width": 224,
+      "height": 190,
+      "alpha": true,
+      "sheet": "sheets/03_extra_vehicles.webp",
+      "sheet_bbox": [
+        0,
+        525,
+        289,
+        243
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "03_extra_vehicles_14",
+      "description": "gray WW2 rocket artillery truck with rails",
+      "category": "Additional aircraft, armor and naval vehicles",
+      "file": "sprites/03_extra_vehicles/14_gray_ww2_rocket_artillery_truck_with_rails.png",
+      "width": 224,
+      "height": 198,
+      "alpha": true,
+      "sheet": "sheets/03_extra_vehicles.webp",
+      "sheet_bbox": [
+        276,
+        544,
+        266,
+        234
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "03_extra_vehicles_15",
+      "description": "tan WW2 armored command car",
+      "category": "Additional aircraft, armor and naval vehicles",
+      "file": "sprites/03_extra_vehicles/15_tan_ww2_armored_command_car.png",
+      "width": 224,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/03_extra_vehicles.webp",
+      "sheet_bbox": [
+        523,
+        535,
+        249,
+        249
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "03_extra_vehicles_16",
+      "description": "olive WW2 engineering recovery tank with small crane",
+      "category": "Additional aircraft, armor and naval vehicles",
+      "file": "sprites/03_extra_vehicles/16_olive_ww2_engineering_recovery_tank_with_small_crane.png",
+      "width": 224,
+      "height": 170,
+      "alpha": true,
+      "sheet": "sheets/03_extra_vehicles.webp",
+      "sheet_bbox": [
+        761,
+        529,
+        309,
+        231
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "03_extra_vehicles_17",
+      "description": "green WW2 tracked ammunition carrier",
+      "category": "Additional aircraft, armor and naval vehicles",
+      "file": "sprites/03_extra_vehicles/17_green_ww2_tracked_ammunition_carrier.png",
+      "width": 224,
+      "height": 201,
+      "alpha": true,
+      "sheet": "sheets/03_extra_vehicles.webp",
+      "sheet_bbox": [
+        1020,
+        543,
+        268,
+        239
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "03_extra_vehicles_18",
+      "description": "white winter WW2 halftrack",
+      "category": "Additional aircraft, armor and naval vehicles",
+      "file": "sprites/03_extra_vehicles/18_white_winter_ww2_halftrack.png",
+      "width": 224,
+      "height": 167,
+      "alpha": true,
+      "sheet": "sheets/03_extra_vehicles.webp",
+      "sheet_bbox": [
+        1267,
+        561,
+        258,
+        189
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "03_extra_vehicles_19",
+      "description": "navy fast torpedo boat",
+      "category": "Additional aircraft, armor and naval vehicles",
+      "file": "sprites/03_extra_vehicles/19_navy_fast_torpedo_boat.png",
+      "width": 224,
+      "height": 203,
+      "alpha": true,
+      "sheet": "sheets/03_extra_vehicles.webp",
+      "sheet_bbox": [
+        11,
+        782,
+        269,
+        242
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "03_extra_vehicles_20",
+      "description": "gray naval escort frigate",
+      "category": "Additional aircraft, armor and naval vehicles",
+      "file": "sprites/03_extra_vehicles/20_gray_naval_escort_frigate.png",
+      "width": 224,
+      "height": 202,
+      "alpha": true,
+      "sheet": "sheets/03_extra_vehicles.webp",
+      "sheet_bbox": [
+        241,
+        766,
+        288,
+        258
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "03_extra_vehicles_21",
+      "description": "red and cream rescue launch",
+      "category": "Additional aircraft, armor and naval vehicles",
+      "file": "sprites/03_extra_vehicles/21_red_and_cream_rescue_launch.png",
+      "width": 224,
+      "height": 195,
+      "alpha": true,
+      "sheet": "sheets/03_extra_vehicles.webp",
+      "sheet_bbox": [
+        513,
+        782,
+        260,
+        224
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "03_extra_vehicles_22",
+      "description": "olive landing barge with lowered ramp",
+      "category": "Additional aircraft, armor and naval vehicles",
+      "file": "sprites/03_extra_vehicles/22_olive_landing_barge_with_lowered_ramp.png",
+      "width": 224,
+      "height": 169,
+      "alpha": true,
+      "sheet": "sheets/03_extra_vehicles.webp",
+      "sheet_bbox": [
+        753,
+        776,
+        303,
+        224
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "03_extra_vehicles_23",
+      "description": "black small coastal submarine",
+      "category": "Additional aircraft, armor and naval vehicles",
+      "file": "sprites/03_extra_vehicles/23_black_small_coastal_submarine.png",
+      "width": 224,
+      "height": 188,
+      "alpha": true,
+      "sheet": "sheets/03_extra_vehicles.webp",
+      "sheet_bbox": [
+        985,
+        772,
+        303,
+        252
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "03_extra_vehicles_24",
+      "description": "gray naval minesweeper",
+      "category": "Additional aircraft, armor and naval vehicles",
+      "file": "sprites/03_extra_vehicles/24_gray_naval_minesweeper.png",
+      "width": 224,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/03_extra_vehicles.webp",
+      "sheet_bbox": [
+        1278,
+        779,
+        245,
+        245
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "04_medical_logistics_01",
+      "description": "folding canvas stretcher, empty",
+      "category": "Medical and logistics supplies",
+      "file": "sprites/04_medical_logistics/01_folding_canvas_stretcher_empty.png",
+      "width": 224,
+      "height": 180,
+      "alpha": true,
+      "sheet": "sheets/04_medical_logistics.webp",
+      "sheet_bbox": [
+        19,
+        19,
+        299,
+        237
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "04_medical_logistics_02",
+      "description": "simple field hospital cot with white blanket, empty",
+      "category": "Medical and logistics supplies",
+      "file": "sprites/04_medical_logistics/02_simple_field_hospital_cot_with_white_blanket_empty.png",
+      "width": 224,
+      "height": 187,
+      "alpha": true,
+      "sheet": "sheets/04_medical_logistics.webp",
+      "sheet_bbox": [
+        273,
+        37,
+        272,
+        225
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "04_medical_logistics_03",
+      "description": "rolled white bandage with a short loose end",
+      "category": "Medical and logistics supplies",
+      "file": "sprites/04_medical_logistics/03_rolled_white_bandage_with_a_short_loose_end.png",
+      "width": 224,
+      "height": 210,
+      "alpha": true,
+      "sheet": "sheets/04_medical_logistics.webp",
+      "sheet_bbox": [
+        559,
+        25,
+        215,
+        201
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "04_medical_logistics_04",
+      "description": "wooden splint kit with canvas straps",
+      "category": "Medical and logistics supplies",
+      "file": "sprites/04_medical_logistics/04_wooden_splint_kit_with_canvas_straps.png",
+      "width": 224,
+      "height": 194,
+      "alpha": true,
+      "sheet": "sheets/04_medical_logistics.webp",
+      "sheet_bbox": [
+        773,
+        25,
+        267,
+        229
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "04_medical_logistics_05",
+      "description": "small glass-front first aid cabinet",
+      "category": "Medical and logistics supplies",
+      "file": "sprites/04_medical_logistics/05_small_glass_front_first_aid_cabinet.png",
+      "width": 222,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/04_medical_logistics.webp",
+      "sheet_bbox": [
+        1033,
+        21,
+        217,
+        219
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "04_medical_logistics_06",
+      "description": "open leather medical instrument pouch",
+      "category": "Medical and logistics supplies",
+      "file": "sprites/04_medical_logistics/06_open_leather_medical_instrument_pouch.png",
+      "width": 224,
+      "height": 202,
+      "alpha": true,
+      "sheet": "sheets/04_medical_logistics.webp",
+      "sheet_bbox": [
+        1265,
+        19,
+        251,
+        225
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "04_medical_logistics_07",
+      "description": "khaki first-aid crate with plain green plus",
+      "category": "Medical and logistics supplies",
+      "file": "sprites/04_medical_logistics/07_khaki_first_aid_crate_with_plain_green_plus.png",
+      "width": 224,
+      "height": 215,
+      "alpha": true,
+      "sheet": "sheets/04_medical_logistics.webp",
+      "sheet_bbox": [
+        30,
+        235,
+        248,
+        237
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "04_medical_logistics_08",
+      "description": "closed olive metal supply trunk",
+      "category": "Medical and logistics supplies",
+      "file": "sprites/04_medical_logistics/08_closed_olive_metal_supply_trunk.png",
+      "width": 224,
+      "height": 209,
+      "alpha": true,
+      "sheet": "sheets/04_medical_logistics.webp",
+      "sheet_bbox": [
+        277,
+        227,
+        275,
+        255
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "04_medical_logistics_09",
+      "description": "open wooden medical chest with bottles",
+      "category": "Medical and logistics supplies",
+      "file": "sprites/04_medical_logistics/09_open_wooden_medical_chest_with_bottles.png",
+      "width": 214,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/04_medical_logistics.webp",
+      "sheet_bbox": [
+        552,
+        255,
+        252,
+        264
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "04_medical_logistics_10",
+      "description": "wooden pallet of rope-secured cargo boxes",
+      "category": "Medical and logistics supplies",
+      "file": "sprites/04_medical_logistics/10_wooden_pallet_of_rope_secured_cargo_boxes.png",
+      "width": 224,
+      "height": 206,
+      "alpha": true,
+      "sheet": "sheets/04_medical_logistics.webp",
+      "sheet_bbox": [
+        797,
+        243,
+        270,
+        247
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "04_medical_logistics_11",
+      "description": "steel oil drum",
+      "category": "Medical and logistics supplies",
+      "file": "sprites/04_medical_logistics/11_steel_oil_drum.png",
+      "width": 177,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/04_medical_logistics.webp",
+      "sheet_bbox": [
+        1099,
+        251,
+        191,
+        246
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "04_medical_logistics_12",
+      "description": "olive fuel jerrycan",
+      "category": "Medical and logistics supplies",
+      "file": "sprites/04_medical_logistics/12_olive_fuel_jerrycan.png",
+      "width": 198,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/04_medical_logistics.webp",
+      "sheet_bbox": [
+        1293,
+        254,
+        219,
+        250
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "04_medical_logistics_13",
+      "description": "compact wheeled field-kitchen stove",
+      "category": "Medical and logistics supplies",
+      "file": "sprites/04_medical_logistics/13_compact_wheeled_field_kitchen_stove.png",
+      "width": 224,
+      "height": 200,
+      "alpha": true,
+      "sheet": "sheets/04_medical_logistics.webp",
+      "sheet_bbox": [
+        21,
+        487,
+        265,
+        235
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "04_medical_logistics_14",
+      "description": "black lidded soup kettle",
+      "category": "Medical and logistics supplies",
+      "file": "sprites/04_medical_logistics/14_black_lidded_soup_kettle.png",
+      "width": 224,
+      "height": 204,
+      "alpha": true,
+      "sheet": "sheets/04_medical_logistics.webp",
+      "sheet_bbox": [
+        289,
+        528,
+        223,
+        202
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "04_medical_logistics_15",
+      "description": "small sealed military ration tin without writing",
+      "category": "Medical and logistics supplies",
+      "file": "sprites/04_medical_logistics/15_small_sealed_military_ration_tin_without_writing.png",
+      "width": 213,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/04_medical_logistics.webp",
+      "sheet_bbox": [
+        557,
+        518,
+        211,
+        222
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "04_medical_logistics_16",
+      "description": "canvas ration bag containing a loaf of bread",
+      "category": "Medical and logistics supplies",
+      "file": "sprites/04_medical_logistics/16_canvas_ration_bag_containing_a_loaf_of_bread.png",
+      "width": 224,
+      "height": 208,
+      "alpha": true,
+      "sheet": "sheets/04_medical_logistics.webp",
+      "sheet_bbox": [
+        765,
+        488,
+        259,
+        240
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "04_medical_logistics_17",
+      "description": "wooden water barrel with metal tap",
+      "category": "Medical and logistics supplies",
+      "file": "sprites/04_medical_logistics/17_wooden_water_barrel_with_metal_tap.png",
+      "width": 189,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/04_medical_logistics.webp",
+      "sheet_bbox": [
+        1059,
+        494,
+        208,
+        249
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "04_medical_logistics_18",
+      "description": "folding wooden mess bench",
+      "category": "Medical and logistics supplies",
+      "file": "sprites/04_medical_logistics/18_folding_wooden_mess_bench.png",
+      "width": 224,
+      "height": 211,
+      "alpha": true,
+      "sheet": "sheets/04_medical_logistics.webp",
+      "sheet_bbox": [
+        1265,
+        503,
+        248,
+        233
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "04_medical_logistics_19",
+      "description": "open mechanic toolbox with simple tools",
+      "category": "Medical and logistics supplies",
+      "file": "sprites/04_medical_logistics/19_open_mechanic_toolbox_with_simple_tools.png",
+      "width": 224,
+      "height": 212,
+      "alpha": true,
+      "sheet": "sheets/04_medical_logistics.webp",
+      "sheet_bbox": [
+        27,
+        741,
+        266,
+        251
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "04_medical_logistics_20",
+      "description": "spare military vehicle wheel",
+      "category": "Medical and logistics supplies",
+      "file": "sprites/04_medical_logistics/20_spare_military_vehicle_wheel.png",
+      "width": 224,
+      "height": 217,
+      "alpha": true,
+      "sheet": "sheets/04_medical_logistics.webp",
+      "sheet_bbox": [
+        281,
+        736,
+        263,
+        254
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "04_medical_logistics_21",
+      "description": "detached wooden airplane propeller",
+      "category": "Medical and logistics supplies",
+      "file": "sprites/04_medical_logistics/21_detached_wooden_airplane_propeller.png",
+      "width": 209,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/04_medical_logistics.webp",
+      "sheet_bbox": [
+        513,
+        713,
+        259,
+        279
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "04_medical_logistics_22",
+      "description": "folded canvas parachute pack with straps",
+      "category": "Medical and logistics supplies",
+      "file": "sprites/04_medical_logistics/22_folded_canvas_parachute_pack_with_straps.png",
+      "width": 224,
+      "height": 184,
+      "alpha": true,
+      "sheet": "sheets/04_medical_logistics.webp",
+      "sheet_bbox": [
+        732,
+        745,
+        294,
+        239
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "04_medical_logistics_23",
+      "description": "open white parachute canopy with hanging harness",
+      "category": "Medical and logistics supplies",
+      "file": "sprites/04_medical_logistics/23_open_white_parachute_canopy_with_hanging_harness.png",
+      "width": 224,
+      "height": 222,
+      "alpha": true,
+      "sheet": "sheets/04_medical_logistics.webp",
+      "sheet_bbox": [
+        1021,
+        734,
+        265,
+        262
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "04_medical_logistics_24",
+      "description": "cargo crate descending under olive parachute",
+      "category": "Medical and logistics supplies",
+      "file": "sprites/04_medical_logistics/24_cargo_crate_descending_under_olive_parachute.png",
+      "width": 200,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/04_medical_logistics.webp",
+      "sheet_bbox": [
+        1261,
+        722,
+        244,
+        275
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "05_military_buildings_01",
+      "description": "wooden WW1 barracks hut",
+      "category": "Military buildings and defensive structures",
+      "file": "sprites/05_military_buildings/01_wooden_ww1_barracks_hut.png",
+      "width": 224,
+      "height": 208,
+      "alpha": true,
+      "sheet": "sheets/05_military_buildings.webp",
+      "sheet_bbox": [
+        0,
+        25,
+        298,
+        275
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "05_military_buildings_02",
+      "description": "khaki command tent with small antenna",
+      "category": "Military buildings and defensive structures",
+      "file": "sprites/05_military_buildings/02_khaki_command_tent_with_small_antenna.png",
+      "width": 224,
+      "height": 209,
+      "alpha": true,
+      "sheet": "sheets/05_military_buildings.webp",
+      "sheet_bbox": [
+        237,
+        23,
+        303,
+        282
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "05_military_buildings_03",
+      "description": "wooden military stables, no animals",
+      "category": "Military buildings and defensive structures",
+      "file": "sprites/05_military_buildings/03_wooden_military_stables_no_animals.png",
+      "width": 221,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/05_military_buildings.webp",
+      "sheet_bbox": [
+        513,
+        21,
+        273,
+        277
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "05_military_buildings_04",
+      "description": "wooden field workshop shed",
+      "category": "Military buildings and defensive structures",
+      "file": "sprites/05_military_buildings/04_wooden_field_workshop_shed.png",
+      "width": 221,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/05_military_buildings.webp",
+      "sheet_bbox": [
+        769,
+        21,
+        277,
+        281
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "05_military_buildings_05",
+      "description": "timber elevated observation post",
+      "category": "Military buildings and defensive structures",
+      "file": "sprites/05_military_buildings/05_timber_elevated_observation_post.png",
+      "width": 166,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/05_military_buildings.webp",
+      "sheet_bbox": [
+        1035,
+        9,
+        225,
+        309
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "05_military_buildings_06",
+      "description": "earth-covered trench shelter with timber doorway",
+      "category": "Military buildings and defensive structures",
+      "file": "sprites/05_military_buildings/06_earth_covered_trench_shelter_with_timber_doorway.png",
+      "width": 224,
+      "height": 200,
+      "alpha": true,
+      "sheet": "sheets/05_military_buildings.webp",
+      "sheet_bbox": [
+        1257,
+        29,
+        267,
+        237
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "05_military_buildings_07",
+      "description": "round concrete pillbox with narrow slit",
+      "category": "Military buildings and defensive structures",
+      "file": "sprites/05_military_buildings/07_round_concrete_pillbox_with_narrow_slit.png",
+      "width": 224,
+      "height": 217,
+      "alpha": true,
+      "sheet": "sheets/05_military_buildings.webp",
+      "sheet_bbox": [
+        0,
+        291,
+        259,
+        251
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "05_military_buildings_08",
+      "description": "rectangular ammunition bunker with steel door",
+      "category": "Military buildings and defensive structures",
+      "file": "sprites/05_military_buildings/08_rectangular_ammunition_bunker_with_steel_door.png",
+      "width": 224,
+      "height": 206,
+      "alpha": true,
+      "sheet": "sheets/05_military_buildings.webp",
+      "sheet_bbox": [
+        246,
+        298,
+        266,
+        243
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "05_military_buildings_09",
+      "description": "wooden supply depot warehouse",
+      "category": "Military buildings and defensive structures",
+      "file": "sprites/05_military_buildings/09_wooden_supply_depot_warehouse.png",
+      "width": 224,
+      "height": 218,
+      "alpha": true,
+      "sheet": "sheets/05_military_buildings.webp",
+      "sheet_bbox": [
+        508,
+        280,
+        280,
+        272
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "05_military_buildings_10",
+      "description": "field hospital hut with plain green plus",
+      "category": "Military buildings and defensive structures",
+      "file": "sprites/05_military_buildings/10_field_hospital_hut_with_plain_green_plus.png",
+      "width": 224,
+      "height": 192,
+      "alpha": true,
+      "sheet": "sheets/05_military_buildings.webp",
+      "sheet_bbox": [
+        760,
+        285,
+        316,
+        269
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "05_military_buildings_11",
+      "description": "brick radio station hut with tall antenna",
+      "category": "Military buildings and defensive structures",
+      "file": "sprites/05_military_buildings/11_brick_radio_station_hut_with_tall_antenna.png",
+      "width": 200,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/05_military_buildings.webp",
+      "sheet_bbox": [
+        1033,
+        269,
+        251,
+        283
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "05_military_buildings_12",
+      "description": "military checkpoint guard hut and lowered barrier as one asset",
+      "category": "Military buildings and defensive structures",
+      "file": "sprites/05_military_buildings/12_military_checkpoint_guard_hut_and_lowered_barrier_as_one_asset.png",
+      "width": 224,
+      "height": 192,
+      "alpha": true,
+      "sheet": "sheets/05_military_buildings.webp",
+      "sheet_bbox": [
+        1268,
+        311,
+        262,
+        222
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "05_military_buildings_13",
+      "description": "large corrugated metal aircraft hangar",
+      "category": "Military buildings and defensive structures",
+      "file": "sprites/05_military_buildings/13_large_corrugated_metal_aircraft_hangar.png",
+      "width": 224,
+      "height": 154,
+      "alpha": true,
+      "sheet": "sheets/05_military_buildings.webp",
+      "sheet_bbox": [
+        0,
+        525,
+        384,
+        258
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "05_military_buildings_14",
+      "description": "small WW2 airfield control tower",
+      "category": "Military buildings and defensive structures",
+      "file": "sprites/05_military_buildings/14_small_ww2_airfield_control_tower.png",
+      "width": 155,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/05_military_buildings.webp",
+      "sheet_bbox": [
+        367,
+        505,
+        205,
+        303
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "05_military_buildings_15",
+      "description": "empty circular sandbag antiaircraft emplacement",
+      "category": "Military buildings and defensive structures",
+      "file": "sprites/05_military_buildings/15_empty_circular_sandbag_antiaircraft_emplacement.png",
+      "width": 224,
+      "height": 210,
+      "alpha": true,
+      "sheet": "sheets/05_military_buildings.webp",
+      "sheet_bbox": [
+        541,
+        552,
+        250,
+        234
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "05_military_buildings_16",
+      "description": "compact fuel depot with three storage tanks as one asset",
+      "category": "Military buildings and defensive structures",
+      "file": "sprites/05_military_buildings/16_compact_fuel_depot_with_three_storage_tanks_as_one_asset.png",
+      "width": 224,
+      "height": 197,
+      "alpha": true,
+      "sheet": "sheets/05_military_buildings.webp",
+      "sheet_bbox": [
+        773,
+        529,
+        319,
+        278
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "05_military_buildings_17",
+      "description": "small military railway loading platform",
+      "category": "Military buildings and defensive structures",
+      "file": "sprites/05_military_buildings/17_small_military_railway_loading_platform.png",
+      "width": 224,
+      "height": 199,
+      "alpha": true,
+      "sheet": "sheets/05_military_buildings.webp",
+      "sheet_bbox": [
+        1039,
+        524,
+        311,
+        274
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "05_military_buildings_18",
+      "description": "short harbor pier with bollards",
+      "category": "Military buildings and defensive structures",
+      "file": "sprites/05_military_buildings/18_short_harbor_pier_with_bollards.png",
+      "width": 224,
+      "height": 222,
+      "alpha": true,
+      "sheet": "sheets/05_military_buildings.webp",
+      "sheet_bbox": [
+        1269,
+        541,
+        253,
+        251
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "05_military_buildings_19",
+      "description": "WW2-style radar station with rectangular antenna array",
+      "category": "Military buildings and defensive structures",
+      "file": "sprites/05_military_buildings/19_ww2_style_radar_station_with_rectangular_antenna_array.png",
+      "width": 224,
+      "height": 205,
+      "alpha": true,
+      "sheet": "sheets/05_military_buildings.webp",
+      "sheet_bbox": [
+        0,
+        751,
+        300,
+        273
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "05_military_buildings_20",
+      "description": "coastal concrete watchtower",
+      "category": "Military buildings and defensive structures",
+      "file": "sprites/05_military_buildings/20_coastal_concrete_watchtower.png",
+      "width": 168,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/05_military_buildings.webp",
+      "sheet_bbox": [
+        297,
+        747,
+        204,
+        277
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "05_military_buildings_21",
+      "description": "concrete command bunker with antenna",
+      "category": "Military buildings and defensive structures",
+      "file": "sprites/05_military_buildings/21_concrete_command_bunker_with_antenna.png",
+      "width": 224,
+      "height": 198,
+      "alpha": true,
+      "sheet": "sheets/05_military_buildings.webp",
+      "sheet_bbox": [
+        479,
+        755,
+        307,
+        269
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "05_military_buildings_22",
+      "description": "Sandbag mortar emplacement with mortar",
+      "category": "Military buildings and defensive structures",
+      "file": "sprites/05_military_buildings/22_empty_sandbag_mortar_pit.png",
+      "width": 224,
+      "height": 182,
+      "alpha": true,
+      "sheet": "sheets/05_military_buildings.webp",
+      "sheet_bbox": [
+        778,
+        806,
+        272,
+        218
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "05_military_buildings_23",
+      "description": "portable military bridge segment",
+      "category": "Military buildings and defensive structures",
+      "file": "sprites/05_military_buildings/23_portable_military_bridge_segment.png",
+      "width": 224,
+      "height": 185,
+      "alpha": true,
+      "sheet": "sheets/05_military_buildings.webp",
+      "sheet_bbox": [
+        1033,
+        758,
+        297,
+        242
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "05_military_buildings_24",
+      "description": "stone military remembrance obelisk with laurel wreath",
+      "category": "Military buildings and defensive structures",
+      "file": "sprites/05_military_buildings/24_stone_military_remembrance_obelisk_with_laurel_wreath.png",
+      "width": 166,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/05_military_buildings.webp",
+      "sheet_bbox": [
+        1327,
+        775,
+        181,
+        249
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "06_field_gear_effects_01",
+      "description": "partly unrolled paper field map without writing",
+      "category": "Field equipment and battle effects",
+      "file": "sprites/06_field_gear_effects/01_partly_unrolled_paper_field_map_without_writing.png",
+      "width": 224,
+      "height": 202,
+      "alpha": true,
+      "sheet": "sheets/06_field_gear_effects.webp",
+      "sheet_bbox": [
+        19,
+        17,
+        271,
+        243
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "06_field_gear_effects_02",
+      "description": "sealed military orders envelope without writing",
+      "category": "Field equipment and battle effects",
+      "file": "sprites/06_field_gear_effects/02_sealed_military_orders_envelope_without_writing.png",
+      "width": 224,
+      "height": 191,
+      "alpha": true,
+      "sheet": "sheets/06_field_gear_effects.webp",
+      "sheet_bbox": [
+        257,
+        13,
+        281,
+        237
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "06_field_gear_effects_03",
+      "description": "two blank metal dog tags joined on a chain",
+      "category": "Field equipment and battle effects",
+      "file": "sprites/06_field_gear_effects/03_two_blank_metal_dog_tags_joined_on_a_chain.png",
+      "width": 217,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/06_field_gear_effects.webp",
+      "sheet_bbox": [
+        535,
+        41,
+        241,
+        249
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "06_field_gear_effects_04",
+      "description": "brass officer whistle attached to short cord",
+      "category": "Field equipment and battle effects",
+      "file": "sprites/06_field_gear_effects/04_brass_officer_whistle_attached_to_short_cord.png",
+      "width": 224,
+      "height": 174,
+      "alpha": true,
+      "sheet": "sheets/06_field_gear_effects.webp",
+      "sheet_bbox": [
+        761,
+        37,
+        291,
+        223
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "06_field_gear_effects_05",
+      "description": "compact signal flare pistol, closed and unfired",
+      "category": "Field equipment and battle effects",
+      "file": "sprites/06_field_gear_effects/05_compact_signal_flare_pistol_closed_and_unfired.png",
+      "width": 221,
+      "height": 207,
+      "alpha": true,
+      "sheet": "sheets/06_field_gear_effects.webp",
+      "sheet_bbox": [
+        1039,
+        59,
+        209,
+        195
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "06_field_gear_effects_06",
+      "description": "folding metal oil lantern",
+      "category": "Field equipment and battle effects",
+      "file": "sprites/06_field_gear_effects/06_folding_metal_oil_lantern.png",
+      "width": 215,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/06_field_gear_effects.webp",
+      "sheet_bbox": [
+        1265,
+        27,
+        223,
+        233
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "06_field_gear_effects_07",
+      "description": "WW2 radio headset with microphone",
+      "category": "Field equipment and battle effects",
+      "file": "sprites/06_field_gear_effects/07_ww2_radio_headset_with_microphone.png",
+      "width": 213,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/06_field_gear_effects.webp",
+      "sheet_bbox": [
+        27,
+        287,
+        242,
+        255
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "06_field_gear_effects_08",
+      "description": "folding wooden map board on stand with blank map",
+      "category": "Field equipment and battle effects",
+      "file": "sprites/06_field_gear_effects/08_folding_wooden_map_board_on_stand_with_blank_map.png",
+      "width": 203,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/06_field_gear_effects.webp",
+      "sheet_bbox": [
+        267,
+        247,
+        265,
+        294
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "06_field_gear_effects_09",
+      "description": "black bellows field camera",
+      "category": "Field equipment and battle effects",
+      "file": "sprites/06_field_gear_effects/09_black_bellows_field_camera.png",
+      "width": 181,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/06_field_gear_effects.webp",
+      "sheet_bbox": [
+        527,
+        267,
+        225,
+        282
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "06_field_gear_effects_10",
+      "description": "brown leather military document case",
+      "category": "Field equipment and battle effects",
+      "file": "sprites/06_field_gear_effects/10_brown_leather_military_document_case.png",
+      "width": 224,
+      "height": 214,
+      "alpha": true,
+      "sheet": "sheets/06_field_gear_effects.webp",
+      "sheet_bbox": [
+        746,
+        303,
+        278,
+        265
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "06_field_gear_effects_11",
+      "description": "brass telescope on tripod",
+      "category": "Field equipment and battle effects",
+      "file": "sprites/06_field_gear_effects/11_brass_telescope_on_tripod.png",
+      "width": 195,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/06_field_gear_effects.webp",
+      "sheet_bbox": [
+        1033,
+        241,
+        265,
+        307
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "06_field_gear_effects_12",
+      "description": "two folded plain signal flags crossed",
+      "category": "Field equipment and battle effects",
+      "file": "sprites/06_field_gear_effects/12_two_folded_plain_signal_flags_crossed.png",
+      "width": 224,
+      "height": 211,
+      "alpha": true,
+      "sheet": "sheets/06_field_gear_effects.webp",
+      "sheet_bbox": [
+        1281,
+        293,
+        242,
+        227
+      ],
+      "trim_padding_px": 6,
+      "static_effect": false
+    },
+    {
+      "id": "06_field_gear_effects_13",
+      "description": "single soft gray smoke puff",
+      "category": "Field equipment and battle effects",
+      "file": "sprites/06_field_gear_effects/13_single_soft_gray_smoke_puff.png",
+      "width": 224,
+      "height": 218,
+      "alpha": true,
+      "sheet": "sheets/06_field_gear_effects.webp",
+      "sheet_bbox": [
+        45,
+        541,
+        225,
+        219
+      ],
+      "trim_padding_px": 6,
+      "static_effect": true
+    },
+    {
+      "id": "06_field_gear_effects_14",
+      "description": "single rising dark charcoal smoke plume",
+      "category": "Field equipment and battle effects",
+      "file": "sprites/06_field_gear_effects/14_single_rising_dark_charcoal_smoke_plume.png",
+      "width": 204,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/06_field_gear_effects.webp",
+      "sheet_bbox": [
+        257,
+        487,
+        293,
+        323
+      ],
+      "trim_padding_px": 6,
+      "static_effect": true
+    },
+    {
+      "id": "06_field_gear_effects_15",
+      "description": "single tan dust cloud",
+      "category": "Field equipment and battle effects",
+      "file": "sprites/06_field_gear_effects/15_single_tan_dust_cloud.png",
+      "width": 224,
+      "height": 168,
+      "alpha": true,
+      "sheet": "sheets/06_field_gear_effects.webp",
+      "sheet_bbox": [
+        475,
+        526,
+        323,
+        237
+      ],
+      "trim_padding_px": 6,
+      "static_effect": true
+    },
+    {
+      "id": "06_field_gear_effects_16",
+      "description": "small stylized yellow muzzle flash pointing left",
+      "category": "Field equipment and battle effects",
+      "file": "sprites/06_field_gear_effects/16_small_stylized_yellow_muzzle_flash_pointing_left.png",
+      "width": 224,
+      "height": 185,
+      "alpha": true,
+      "sheet": "sheets/06_field_gear_effects.webp",
+      "sheet_bbox": [
+        771,
+        546,
+        263,
+        215
+      ],
+      "trim_padding_px": 6,
+      "static_effect": true
+    },
+    {
+      "id": "06_field_gear_effects_17",
+      "description": "small orange impact burst with a few tiny debris specks",
+      "category": "Field equipment and battle effects",
+      "file": "sprites/06_field_gear_effects/17_small_orange_impact_burst_with_a_few_tiny_debris_specks.png",
+      "width": 224,
+      "height": 186,
+      "alpha": true,
+      "sheet": "sheets/06_field_gear_effects.webp",
+      "sheet_bbox": [
+        997,
+        545,
+        295,
+        242
+      ],
+      "trim_padding_px": 6,
+      "static_effect": true
+    },
+    {
+      "id": "06_field_gear_effects_18",
+      "description": "small blue-white electrical spark burst",
+      "category": "Field equipment and battle effects",
+      "file": "sprites/06_field_gear_effects/18_small_blue_white_electrical_spark_burst.png",
+      "width": 218,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/06_field_gear_effects.webp",
+      "sheet_bbox": [
+        1261,
+        531,
+        261,
+        269
+      ],
+      "trim_padding_px": 6,
+      "static_effect": true
+    },
+    {
+      "id": "06_field_gear_effects_19",
+      "description": "brown dirt impact plume",
+      "category": "Field equipment and battle effects",
+      "file": "sprites/06_field_gear_effects/19_brown_dirt_impact_plume.png",
+      "width": 196,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/06_field_gear_effects.webp",
+      "sheet_bbox": [
+        31,
+        748,
+        239,
+        276
+      ],
+      "trim_padding_px": 6,
+      "static_effect": true
+    },
+    {
+      "id": "06_field_gear_effects_20",
+      "description": "single white-blue water splash",
+      "category": "Field equipment and battle effects",
+      "file": "sprites/06_field_gear_effects/20_single_white_blue_water_splash.png",
+      "width": 224,
+      "height": 202,
+      "alpha": true,
+      "sheet": "sheets/06_field_gear_effects.webp",
+      "sheet_bbox": [
+        265,
+        761,
+        267,
+        239
+      ],
+      "trim_padding_px": 6,
+      "static_effect": true
+    },
+    {
+      "id": "06_field_gear_effects_21",
+      "description": "translucent circular propeller motion disc",
+      "category": "Field equipment and battle effects",
+      "file": "sprites/06_field_gear_effects/21_translucent_circular_propeller_motion_disc.png",
+      "width": 224,
+      "height": 208,
+      "alpha": true,
+      "sheet": "sheets/06_field_gear_effects.webp",
+      "sheet_bbox": [
+        493,
+        753,
+        293,
+        271
+      ],
+      "trim_padding_px": 6,
+      "static_effect": true
+    },
+    {
+      "id": "06_field_gear_effects_22",
+      "description": "short curved white aircraft contrail",
+      "category": "Field equipment and battle effects",
+      "file": "sprites/06_field_gear_effects/22_short_curved_white_aircraft_contrail.png",
+      "width": 224,
+      "height": 217,
+      "alpha": true,
+      "sheet": "sheets/06_field_gear_effects.webp",
+      "sheet_bbox": [
+        757,
+        745,
+        288,
+        279
+      ],
+      "trim_padding_px": 6,
+      "static_effect": true
+    },
+    {
+      "id": "06_field_gear_effects_23",
+      "description": "pale yellow conical searchlight beam with transparent soft edges",
+      "category": "Field equipment and battle effects",
+      "file": "sprites/06_field_gear_effects/23_pale_yellow_conical_searchlight_beam_with_transparent_soft_edges.png",
+      "width": 224,
+      "height": 219,
+      "alpha": true,
+      "sheet": "sheets/06_field_gear_effects.webp",
+      "sheet_bbox": [
+        1021,
+        751,
+        280,
+        273
+      ],
+      "trim_padding_px": 6,
+      "static_effect": true
+    },
+    {
+      "id": "06_field_gear_effects_24",
+      "description": "small orange flame and gray smoke as one effect",
+      "category": "Field equipment and battle effects",
+      "file": "sprites/06_field_gear_effects/24_small_orange_flame_and_gray_smoke_as_one_effect.png",
+      "width": 220,
+      "height": 224,
+      "alpha": true,
+      "sheet": "sheets/06_field_gear_effects.webp",
+      "sheet_bbox": [
+        1248,
+        747,
+        272,
+        277
+      ],
+      "trim_padding_px": 6,
+      "static_effect": true
+    }
+  ]
+}

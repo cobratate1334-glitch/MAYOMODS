@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "checks": 16,
+  "binary_sha256": "b51941598e1ff3c14a7e4eaa315de9778ed7740248da40681010da99773214fa",
+  "original_native_picker_callbacks_executed": true,
+  "Unity_APIs_modeled": true,
+  "phone_rendering_tested": false
+}

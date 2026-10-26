@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "dex_sha256": "889ce39006080977b3f8ab51bfe43573f6c93900188db71ea2617519bc1e47ec",
+  "source_families": {
+    "DiagnosticsExport54.java": "bb527677ef2206f101aedf787ba98f7164c174957fe904519fae60f0b1ef3278",
+    "MilitaryModel.java": "619db529e24730fa4ad9869d4211604eb352f7fea7be00bea4a805fafdb465fc",
+    "RuntimeLogCapture.java": "7b97e552d17d8413fdc3550a91dfdd67f52b684639d5801d4dcb7970c9340312",
+    "MilitaryBridge.java": "fa3d1f106a6fcf4ebd49e16cf1c8721ae0bffea8a20e5b06d1c42c564067976d",
+    "NativeMilitaryRenderer.java": "6f666eb4f057e64ebc1d8c16566e253ab5f746b9a919689654b2b7e8258e18c7",
+    "NativeMilitary.java": "d36445b4b472fd621656d633c6a266e2814ca8e38bee426a588275b7f892bf98"
+  }
+}

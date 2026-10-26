@@ -1,5 +1,11 @@
 # Reproduce the focused v55 scar/eyepatch candidate
 
+Current candidate **1110** reproduction:
+[connected_life/README.md](project/work/source/connected_life/README.md).
+Use the exact 1109 APK/native hashes and baseline manifest, the existing signer,
+reserved JNI ABI, deterministic content, canonical Sprite paths and all release
+gates. Earlier instructions below refer to historical candidates.
+
 For the current **1104** life rework, use
 `project/work/source/life_rework/README.md` and its exact 1103 input. Retain the
 existing development identity. For the historical **1103** follow-up, use

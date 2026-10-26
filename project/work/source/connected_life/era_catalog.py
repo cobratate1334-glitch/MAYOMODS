@@ -1,0 +1,2 @@
+"""Photo-backed birth-year choices shared by content and native code."""
+ERAS=[(1896,'1896 · WWI service at 18','ww1'),(1900,'1900 · Early 1900s','early'),(1914,'1914 · WWI childhood','ww1'),(1918,'1918 · Interwar years','interwar'),(1921,'1921 · WWII service at 18','ww2'),(1939,'1939 · WWII childhood','ww2'),(1945,'1945 · Postwar childhood','postwar'),(1960,'1960 · Cold War years','coldwar'),(1980,'1980 · Retro years','retro'),(2000,'2000 · Millennium','millennium'),(2010,'2010 · Digital age','digital'),(2024,'2024 · Modern era','modern')]

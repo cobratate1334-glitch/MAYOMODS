@@ -1,0 +1,2980 @@
+{
+  "passed": true,
+  "authored_assets_sha256": "7c3fb35eb37cf9ec7c88b8dfa4e0c6b4c75991972ce2f3de6e8a21bfb1ec447f",
+  "changed_text_assets": 34,
+  "preserved_objects": 40854,
+  "replaced_generated_objects": 112,
+  "old_resources_preserved": true,
+  "imported_artwork": [
+    {
+      "resource": "native1110/photos/interwar",
+      "sprite_id": 41002,
+      "texture_id": 41001,
+      "canvas": [
+        800,
+        549
+      ],
+      "pixel_sha256": "b13bd8b79d70c4d3b271beac867a669c05b8c2c983b4c2d5aa5e278853ef0cd9",
+      "kind": "historical-photograph",
+      "photo_id": "interwar",
+      "generated": false
+    },
+    {
+      "resource": "native1110/photos/digital",
+      "sprite_id": 41004,
+      "texture_id": 41003,
+      "canvas": [
+        960,
+        720
+      ],
+      "pixel_sha256": "0725d7524816e02f27fb81450a934f41c23e4c44844c922a7d72ad8f5745fb6d",
+      "kind": "historical-photograph",
+      "photo_id": "digital",
+      "generated": false
+    },
+    {
+      "resource": "native1110/photos/ww2",
+      "sprite_id": 41006,
+      "texture_id": 41005,
+      "canvas": [
+        960,
+        760
+      ],
+      "pixel_sha256": "8101e072c753b0b637c072bb5eb4b7af39d02e654c85fc007729a21b77fb03af",
+      "kind": "historical-photograph",
+      "photo_id": "ww2",
+      "generated": false
+    },
+    {
+      "resource": "native1110/photos/sept11",
+      "sprite_id": 41008,
+      "texture_id": 41007,
+      "canvas": [
+        591,
+        900
+      ],
+      "pixel_sha256": "d26ae86790959e4c01eac5583423eb2c3cdf235b9cede87134e1400ed64f7002",
+      "kind": "historical-photograph",
+      "photo_id": "sept11",
+      "generated": false
+    },
+    {
+      "resource": "native1110/photos/millennium",
+      "sprite_id": 41010,
+      "texture_id": 41009,
+      "canvas": [
+        883,
+        900
+      ],
+      "pixel_sha256": "cdc6478bb670378a29864ef15801aebdabe54769625eb8444500fd2771455041",
+      "kind": "historical-photograph",
+      "photo_id": "millennium",
+      "generated": false
+    },
+    {
+      "resource": "native1110/photos/postwar",
+      "sprite_id": 41012,
+      "texture_id": 41011,
+      "canvas": [
+        874,
+        900
+      ],
+      "pixel_sha256": "93924fec72d684be26822220627307db3b14ab317804d51c14a1071f93ed6f46",
+      "kind": "historical-photograph",
+      "photo_id": "postwar",
+      "generated": false
+    },
+    {
+      "resource": "native1110/photos/early",
+      "sprite_id": 41014,
+      "texture_id": 41013,
+      "canvas": [
+        960,
+        666
+      ],
+      "pixel_sha256": "87d53383043ea76d778310271711ea6ab87b310d91a489b704a578e0c1a5ab7f",
+      "kind": "historical-photograph",
+      "photo_id": "early",
+      "generated": false
+    },
+    {
+      "resource": "native1110/photos/moon",
+      "sprite_id": 41016,
+      "texture_id": 41015,
+      "canvas": [
+        861,
+        900
+      ],
+      "pixel_sha256": "7aad67fdd16baccb7aa6d6a589a43caa69361734999fe61721d6021af48dfeab",
+      "kind": "historical-photograph",
+      "photo_id": "moon",
+      "generated": false
+    },
+    {
+      "resource": "native1110/photos/ww1",
+      "sprite_id": 41018,
+      "texture_id": 41017,
+      "canvas": [
+        960,
+        733
+      ],
+      "pixel_sha256": "788755a42bc9df0dbfedde827bdcaa4141f0fa4cf6a1064cb8e4dc6a145c0149",
+      "kind": "historical-photograph",
+      "photo_id": "ww1",
+      "generated": false
+    },
+    {
+      "resource": "native1110/photos/retro",
+      "sprite_id": 41020,
+      "texture_id": 41019,
+      "canvas": [
+        960,
+        632
+      ],
+      "pixel_sha256": "9817f64bf45bd0a1d5a7a22adeb37f959bc95a771634c92512573656cf0cd664",
+      "kind": "historical-photograph",
+      "photo_id": "retro",
+      "generated": false
+    },
+    {
+      "resource": "native1110/photos/modern",
+      "sprite_id": 41022,
+      "texture_id": 41021,
+      "canvas": [
+        960,
+        640
+      ],
+      "pixel_sha256": "0adae7e2758b0a1e098de9b1592ec56a83e085c4ec8dd7a7afab8d028fe13896",
+      "kind": "historical-photograph",
+      "photo_id": "modern",
+      "generated": false
+    },
+    {
+      "resource": "native1110/photos/coldwar",
+      "sprite_id": 41024,
+      "texture_id": 41023,
+      "canvas": [
+        960,
+        834
+      ],
+      "pixel_sha256": "980305070a9259bd70477ad536028c2a6b7c539a69d32f26fb9b2840902a4a33",
+      "kind": "historical-photograph",
+      "photo_id": "coldwar",
+      "generated": false
+    },
+    {
+      "resource": "native1110/era/1896",
+      "sprite_id": 41026,
+      "texture_id": 41025,
+      "canvas": [
+        900,
+        150
+      ],
+      "pixel_sha256": "06a28f5da23fff0ec331617cb3691707d560d4b8068fd0e84e4cadbb3580d489",
+      "kind": "native-photo-era-button",
+      "photo_id": "ww1",
+      "generated": false
+    },
+    {
+      "resource": "native1110/era/1900",
+      "sprite_id": 41028,
+      "texture_id": 41027,
+      "canvas": [
+        900,
+        150
+      ],
+      "pixel_sha256": "f5c335016ffa145229be88788a874d84964f6164cb941f56c144ff1521653a69",
+      "kind": "native-photo-era-button",
+      "photo_id": "early",
+      "generated": false
+    },
+    {
+      "resource": "native1110/era/1914",
+      "sprite_id": 41030,
+      "texture_id": 41029,
+      "canvas": [
+        900,
+        150
+      ],
+      "pixel_sha256": "06a28f5da23fff0ec331617cb3691707d560d4b8068fd0e84e4cadbb3580d489",
+      "kind": "native-photo-era-button",
+      "photo_id": "ww1",
+      "generated": false
+    },
+    {
+      "resource": "native1110/era/1918",
+      "sprite_id": 41032,
+      "texture_id": 41031,
+      "canvas": [
+        900,
+        150
+      ],
+      "pixel_sha256": "14f1e7ca431cfa5c1c522dc09db4842c19aba686dccaa667a69147ee9d4d60a1",
+      "kind": "native-photo-era-button",
+      "photo_id": "interwar",
+      "generated": false
+    },
+    {
+      "resource": "native1110/era/1921",
+      "sprite_id": 41034,
+      "texture_id": 41033,
+      "canvas": [
+        900,
+        150
+      ],
+      "pixel_sha256": "1b8431d025fee527edea5ab91779063e903444f684aad4972b499c18cea88a86",
+      "kind": "native-photo-era-button",
+      "photo_id": "ww2",
+      "generated": false
+    },
+    {
+      "resource": "native1110/era/1939",
+      "sprite_id": 41036,
+      "texture_id": 41035,
+      "canvas": [
+        900,
+        150
+      ],
+      "pixel_sha256": "1b8431d025fee527edea5ab91779063e903444f684aad4972b499c18cea88a86",
+      "kind": "native-photo-era-button",
+      "photo_id": "ww2",
+      "generated": false
+    },
+    {
+      "resource": "native1110/era/1945",
+      "sprite_id": 41038,
+      "texture_id": 41037,
+      "canvas": [
+        900,
+        150
+      ],
+      "pixel_sha256": "22f2f26208b86b8444bdf5edf319ddfd8ad7701237145417234d727370bc854e",
+      "kind": "native-photo-era-button",
+      "photo_id": "postwar",
+      "generated": false
+    },
+    {
+      "resource": "native1110/era/1960",
+      "sprite_id": 41040,
+      "texture_id": 41039,
+      "canvas": [
+        900,
+        150
+      ],
+      "pixel_sha256": "2fe1b8fe963564f2ad96b75c7258c9ffb935a1fbcbb01fdf934d09739f4bfd3d",
+      "kind": "native-photo-era-button",
+      "photo_id": "coldwar",
+      "generated": false
+    },
+    {
+      "resource": "native1110/era/1980",
+      "sprite_id": 41042,
+      "texture_id": 41041,
+      "canvas": [
+        900,
+        150
+      ],
+      "pixel_sha256": "78cf4166799b8df4af83f55cc6061b08162471ec44314af17b755bb1710167c0",
+      "kind": "native-photo-era-button",
+      "photo_id": "retro",
+      "generated": false
+    },
+    {
+      "resource": "native1110/era/2000",
+      "sprite_id": 41044,
+      "texture_id": 41043,
+      "canvas": [
+        900,
+        150
+      ],
+      "pixel_sha256": "b4e12fd4930f7613bc5aa69a24f2873334b1ff622e0135b5e419d359a7c3b8a4",
+      "kind": "native-photo-era-button",
+      "photo_id": "millennium",
+      "generated": false
+    },
+    {
+      "resource": "native1110/era/2010",
+      "sprite_id": 41046,
+      "texture_id": 41045,
+      "canvas": [
+        900,
+        150
+      ],
+      "pixel_sha256": "e90515e0064ad0f231f3dd9b248d0e7b3de6f69d65fef22a7390ee41d5377a43",
+      "kind": "native-photo-era-button",
+      "photo_id": "digital",
+      "generated": false
+    },
+    {
+      "resource": "native1110/era/2024",
+      "sprite_id": 41048,
+      "texture_id": 41047,
+      "canvas": [
+        900,
+        150
+      ],
+      "pixel_sha256": "be7e43647cc019c7b4108585539c8f8d3463f8c4b2ce16a428de5dc46c6f4f57",
+      "kind": "native-photo-era-button",
+      "photo_id": "modern",
+      "generated": false
+    },
+    {
+      "resource": "native1109/background/ww1",
+      "sprite_id": 40864,
+      "texture_id": 40863,
+      "canvas": [
+        512,
+        768
+      ],
+      "pixel_sha256": "fb767554b514bcb5c0d1647d5ec381112675ac5d06b187f8e63e63ced522f032",
+      "kind": "journal-photo-background",
+      "photo_id": "ww1",
+      "replaces_generated_background": true,
+      "generated": false
+    },
+    {
+      "resource": "native1109/news/ww1",
+      "sprite_id": 40866,
+      "texture_id": 40865,
+      "canvas": [
+        512,
+        512
+      ],
+      "pixel_sha256": "662f3c3fa7c2d3ac43f76edfe0bb897a13fcfe271fdad4848e576168da32f4ee",
+      "kind": "native-news-photograph",
+      "photo_id": "ww1",
+      "replaces_generated_background": true,
+      "generated": false
+    },
+    {
+      "resource": "native1109/background/post1",
+      "sprite_id": 40868,
+      "texture_id": 40867,
+      "canvas": [
+        512,
+        768
+      ],
+      "pixel_sha256": "116c8d8003c78a5d993fca6406dac0cc11947dbb4f65e9bd09d08650e5dc9950",
+      "kind": "journal-photo-background",
+      "photo_id": "interwar",
+      "replaces_generated_background": true,
+      "generated": false
+    },
+    {
+      "resource": "native1109/news/post1",
+      "sprite_id": 40870,
+      "texture_id": 40869,
+      "canvas": [
+        512,
+        512
+      ],
+      "pixel_sha256": "b1c88637d7b9b31dbc42d0bcf1b1af4cc74551b57c6fb1d7a1765d29a1a06695",
+      "kind": "native-news-photograph",
+      "photo_id": "interwar",
+      "replaces_generated_background": true,
+      "generated": false
+    },
+    {
+      "resource": "native1109/background/ww2",
+      "sprite_id": 40872,
+      "texture_id": 40871,
+      "canvas": [
+        512,
+        768
+      ],
+      "pixel_sha256": "1e8d8721d194746de3231bbda9de735195f85ba94606cc14d1f343a1e77c8c6f",
+      "kind": "journal-photo-background",
+      "photo_id": "ww2",
+      "replaces_generated_background": true,
+      "generated": false
+    },
+    {
+      "resource": "native1109/news/ww2",
+      "sprite_id": 40874,
+      "texture_id": 40873,
+      "canvas": [
+        512,
+        512
+      ],
+      "pixel_sha256": "a162676b81b7a7706d29a5453868f870610419563556640eb906545a92518834",
+      "kind": "native-news-photograph",
+      "photo_id": "ww2",
+      "replaces_generated_background": true,
+      "generated": false
+    },
+    {
+      "resource": "native1109/background/post2",
+      "sprite_id": 40876,
+      "texture_id": 40875,
+      "canvas": [
+        512,
+        768
+      ],
+      "pixel_sha256": "294c8136f663ec1cfcabeb9f2b2265ecec400188ae528b84aba4425ce39d04ac",
+      "kind": "journal-photo-background",
+      "photo_id": "postwar",
+      "replaces_generated_background": true,
+      "generated": false
+    },
+    {
+      "resource": "native1109/news/post2",
+      "sprite_id": 40878,
+      "texture_id": 40877,
+      "canvas": [
+        512,
+        512
+      ],
+      "pixel_sha256": "35f0a736f12d5f1a230a7206c9672ba90f44d720376eec8832cff6345b49f6ae",
+      "kind": "native-news-photograph",
+      "photo_id": "postwar",
+      "replaces_generated_background": true,
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight1/0",
+      "sprite_id": 40882,
+      "texture_id": 40881,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "3612e346398d393b504be8d95242b7401b5efd24838693de5f222e07984a64a2",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww1",
+      "supplied_asset": "03_aircraft_02",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight1/1",
+      "sprite_id": 40884,
+      "texture_id": 40883,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "3612e346398d393b504be8d95242b7401b5efd24838693de5f222e07984a64a2",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww1",
+      "supplied_asset": "03_aircraft_02",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight1/2",
+      "sprite_id": 40886,
+      "texture_id": 40885,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "3488c3c1d3cad08e02a0dbbd9953eab8cf91f93a27974a1ed0da656d26b66345",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww1",
+      "supplied_asset": "03_aircraft_02",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight1/3",
+      "sprite_id": 40888,
+      "texture_id": 40887,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "b09d646f5b184c0cb519917e3e64bfe84d5146526b3ce594cfcbfaf0a60607a0",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww1",
+      "supplied_asset": "03_aircraft_02",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight1/4",
+      "sprite_id": 40890,
+      "texture_id": 40889,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "c47330faf3dc879275eeeb45a71126f752cc41aec8b46dec8595ef794e00333d",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww1",
+      "supplied_asset": "03_aircraft_02",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight1/5",
+      "sprite_id": 40892,
+      "texture_id": 40891,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "f24c0d47274bffc3f0b1d52d1b60a3bc1ce174514dad4745cb5b55ab94719f7e",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww1",
+      "supplied_asset": "03_aircraft_02",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight1/6",
+      "sprite_id": 40894,
+      "texture_id": 40893,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "f6d31ac255ad07d87a9f3ae8368dfaa7f3a68add9ad7bf3de7da39fe41aa9557",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww1",
+      "supplied_asset": "03_aircraft_02",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight1/7",
+      "sprite_id": 40896,
+      "texture_id": 40895,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "d53bdd4369f6f6cbe4920919fa1d981e48f03acfacbec0b7daf7d2b0ef60120f",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww1",
+      "supplied_asset": "03_aircraft_02",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight1/8",
+      "sprite_id": 40898,
+      "texture_id": 40897,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "15ce57fba49c5526ec8f6b95f7a074718ce33aa32171f17b0edbf5df83137b98",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww1",
+      "supplied_asset": "03_aircraft_02",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight1/9",
+      "sprite_id": 40900,
+      "texture_id": 40899,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "ea27af17334f6b7cfe61cd7f88fc4b31a2b98557d8d02e80431f4b227563bc2c",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww1",
+      "supplied_asset": "03_aircraft_02",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight1/10",
+      "sprite_id": 40902,
+      "texture_id": 40901,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "c99fee5322ed79372efac133e7d2f30c7f841ef06345e6274616888b919323d3",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww1",
+      "supplied_asset": "03_aircraft_02",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight1/11",
+      "sprite_id": 40904,
+      "texture_id": 40903,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "3a7d694de35a1bac5f322f95197cc1a735e07f13e3c409611da7b482c8aaaad9",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww1",
+      "supplied_asset": "03_aircraft_02",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight1/12",
+      "sprite_id": 40906,
+      "texture_id": 40905,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "778e60ac4f3be5a0a82ea9b6118dbededb6274896ff14be9e4bfe718057349ec",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww1",
+      "supplied_asset": "03_aircraft_02",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight1/13",
+      "sprite_id": 40908,
+      "texture_id": 40907,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "c3d9913111a2f73e9f0af03d46de187464c3571884c577042a1e768a6bce75cd",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww1",
+      "supplied_asset": "03_aircraft_02",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight1/14",
+      "sprite_id": 40910,
+      "texture_id": 40909,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "065067ac8f141caff4ca6f43a8307611815023952c4abb05098999bd39313b17",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww1",
+      "supplied_asset": "03_aircraft_02",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight1/15",
+      "sprite_id": 40912,
+      "texture_id": 40911,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "75fa0f5d2fe1580cbf626ff26d28fa6e7251e8db90b340fe2a6006338a199808",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww1",
+      "supplied_asset": "03_aircraft_02",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight1/16",
+      "sprite_id": 40914,
+      "texture_id": 40913,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "3b33e65005dc2b4ec997b239979ec81389ec4f493df0b1cfd834377a5e0309c3",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww1",
+      "supplied_asset": "03_aircraft_02",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight1/17",
+      "sprite_id": 40916,
+      "texture_id": 40915,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "8e9107f6abc50f496c4d0c7c9c15333bd2274dc83f65b606b4a3f13934bee60f",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww1",
+      "supplied_asset": "03_aircraft_02",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight1/18",
+      "sprite_id": 40918,
+      "texture_id": 40917,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "01810b3b6f35f8fb491b6211a078b28df10301d2dabae76e7e08d99a76b8ed70",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww1",
+      "supplied_asset": "03_aircraft_02",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight1/19",
+      "sprite_id": 40920,
+      "texture_id": 40919,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "30029978b603e012c6daba80024b6b6b00a1548149fe8247fe3faa3b2a138d2a",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww1",
+      "supplied_asset": "03_aircraft_02",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight1/20",
+      "sprite_id": 40922,
+      "texture_id": 40921,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "3c7f55d82361eb5a3e059c481b933966bd5616d3139976563087b23c3ea0635e",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww1",
+      "supplied_asset": "03_aircraft_02",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight1/21",
+      "sprite_id": 40924,
+      "texture_id": 40923,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "3612e346398d393b504be8d95242b7401b5efd24838693de5f222e07984a64a2",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww1",
+      "supplied_asset": "03_aircraft_02",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight1/22",
+      "sprite_id": 40926,
+      "texture_id": 40925,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "3612e346398d393b504be8d95242b7401b5efd24838693de5f222e07984a64a2",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww1",
+      "supplied_asset": "03_aircraft_02",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight1/23",
+      "sprite_id": 40928,
+      "texture_id": 40927,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "3612e346398d393b504be8d95242b7401b5efd24838693de5f222e07984a64a2",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww1",
+      "supplied_asset": "03_aircraft_02",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight2/0",
+      "sprite_id": 40930,
+      "texture_id": 40929,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "b19f8dc091875b2047d9359ede1c2f1983cbc3201c2d6d40c95c4e169a7c484d",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww2",
+      "supplied_asset": "03_aircraft_13",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight2/1",
+      "sprite_id": 40932,
+      "texture_id": 40931,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "b19f8dc091875b2047d9359ede1c2f1983cbc3201c2d6d40c95c4e169a7c484d",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww2",
+      "supplied_asset": "03_aircraft_13",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight2/2",
+      "sprite_id": 40934,
+      "texture_id": 40933,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "c5e67fa1615b9ddb27d2923b33cb5acef869e7f8d1531104ed4f6d73b6354384",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww2",
+      "supplied_asset": "03_aircraft_13",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight2/3",
+      "sprite_id": 40936,
+      "texture_id": 40935,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "56924e4fc1bd661172eb4b9f48242ff527e2791328d79386918a2d08eafc2bd4",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww2",
+      "supplied_asset": "03_aircraft_13",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight2/4",
+      "sprite_id": 40938,
+      "texture_id": 40937,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "582c6d0c2731b300ced73d38a576d67c0846b471d912fbb8d750459345309f74",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww2",
+      "supplied_asset": "03_aircraft_13",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight2/5",
+      "sprite_id": 40940,
+      "texture_id": 40939,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "16eea444b05b922ef2ec9548da2e092cd35e40b8a6df1215435346e3ce56477c",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww2",
+      "supplied_asset": "03_aircraft_13",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight2/6",
+      "sprite_id": 40942,
+      "texture_id": 40941,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "d0cb44ebe7accdffddd2149a66216c674fe75fc671ba5e611469a4414c28e1a0",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww2",
+      "supplied_asset": "03_aircraft_13",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight2/7",
+      "sprite_id": 40944,
+      "texture_id": 40943,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "d1143e9e05af2850f41bbebb5004cf15d7fa15fcc1da329ba158410910f1edb5",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww2",
+      "supplied_asset": "03_aircraft_13",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight2/8",
+      "sprite_id": 40946,
+      "texture_id": 40945,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "eeb182b38b029305b82ad3d71cabd18e9101f62b70067d3b3f2294aeb122be63",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww2",
+      "supplied_asset": "03_aircraft_13",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight2/9",
+      "sprite_id": 40948,
+      "texture_id": 40947,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "0acf96ea06d49fbd926c90255caaed67259f7169a3c7ff0b4f67c3e12a0714b6",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww2",
+      "supplied_asset": "03_aircraft_13",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight2/10",
+      "sprite_id": 40950,
+      "texture_id": 40949,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "c912663ea5eef72b37d2cec1b05d16901ae55a957b5fd1b90e8f60f99599fd36",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww2",
+      "supplied_asset": "03_aircraft_13",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight2/11",
+      "sprite_id": 40952,
+      "texture_id": 40951,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "077472af8f725a4e843e656d12da72ea625cc3d975babb72535e3cd012878d6c",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww2",
+      "supplied_asset": "03_aircraft_13",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight2/12",
+      "sprite_id": 40954,
+      "texture_id": 40953,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "17b85b4cbb4b493f3cf4bd6c10ee260e5016c93d2a6eeba0af9f0eeffffb2163",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww2",
+      "supplied_asset": "03_aircraft_13",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight2/13",
+      "sprite_id": 40956,
+      "texture_id": 40955,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "c8dfba55399509a4563397b0ace33eb3f82204ba1902d2d70346c9453607e270",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww2",
+      "supplied_asset": "03_aircraft_13",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight2/14",
+      "sprite_id": 40958,
+      "texture_id": 40957,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "cd3dc312ea1a159eabdce809ddd21aea43619f80be4cb145d024c5d11296ecd7",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww2",
+      "supplied_asset": "03_aircraft_13",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight2/15",
+      "sprite_id": 40960,
+      "texture_id": 40959,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "fc4d5daddd01a5115abc6db221c0da75647183a11514f7d67265510844337d44",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww2",
+      "supplied_asset": "03_aircraft_13",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight2/16",
+      "sprite_id": 40962,
+      "texture_id": 40961,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "a52846004400b3fe5a62824e1901959f450b5a839ed40ec247fededfab0acf08",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww2",
+      "supplied_asset": "03_aircraft_13",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight2/17",
+      "sprite_id": 40964,
+      "texture_id": 40963,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "a9635d6bb24622f546871dcc7e70de124e05eec3956616b1e12673ee6070c556",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww2",
+      "supplied_asset": "03_aircraft_13",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight2/18",
+      "sprite_id": 40966,
+      "texture_id": 40965,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "7b80248840c989edefd86544e7e35a0ae7fc3491c6baae3361c7bde5a8238077",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww2",
+      "supplied_asset": "03_aircraft_13",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight2/19",
+      "sprite_id": 40968,
+      "texture_id": 40967,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "9f611e5f5f47a35dd10db10c799922cabfaa98288c54cfd94cb8724d3c3e06bc",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww2",
+      "supplied_asset": "03_aircraft_13",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight2/20",
+      "sprite_id": 40970,
+      "texture_id": 40969,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "cd8ca0091f2bda56c13762580407f54aa0b2e459d388259edec0c1ed25d95e1f",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww2",
+      "supplied_asset": "03_aircraft_13",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight2/21",
+      "sprite_id": 40972,
+      "texture_id": 40971,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "b19f8dc091875b2047d9359ede1c2f1983cbc3201c2d6d40c95c4e169a7c484d",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww2",
+      "supplied_asset": "03_aircraft_13",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight2/22",
+      "sprite_id": 40974,
+      "texture_id": 40973,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "b19f8dc091875b2047d9359ede1c2f1983cbc3201c2d6d40c95c4e169a7c484d",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww2",
+      "supplied_asset": "03_aircraft_13",
+      "generated": false
+    },
+    {
+      "resource": "native1109/flight2/23",
+      "sprite_id": 40976,
+      "texture_id": 40975,
+      "canvas": [
+        384,
+        384
+      ],
+      "pixel_sha256": "b19f8dc091875b2047d9359ede1c2f1983cbc3201c2d6d40c95c4e169a7c484d",
+      "kind": "unity-animation-frame",
+      "photo_id": "ww2",
+      "supplied_asset": "03_aircraft_13",
+      "generated": false
+    },
+    {
+      "resource": "native1110/extra/01_medals_01",
+      "sprite_id": 41050,
+      "texture_id": 41049,
+      "canvas": [
+        164,
+        224
+      ],
+      "pixel_sha256": "83cafd7d67be40486f889249007361143f2e0bcd0eba22f2beaf422338692d28",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "01_medals_01",
+      "source_file": "sprites/01_medals/01_gold_eight_point_bravery_star_on_red_and_cream_ribbon.png"
+    },
+    {
+      "resource": "native1110/extra/01_medals_02",
+      "sprite_id": 41052,
+      "texture_id": 41051,
+      "canvas": [
+        142,
+        224
+      ],
+      "pixel_sha256": "dd971c9338611cd8bc727f9aec4ba8839a1ed28e8b543a90bb34f34173a28d04",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "01_medals_02",
+      "source_file": "sprites/01_medals/02_silver_circular_service_medal_on_olive_and_white_ribbon.png"
+    },
+    {
+      "resource": "native1110/extra/01_medals_03",
+      "sprite_id": 41054,
+      "texture_id": 41053,
+      "canvas": [
+        224,
+        223
+      ],
+      "pixel_sha256": "b1f63e698e77eb1efbef70faf67f9684a72226ca0588908f252e29af519949e2",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "01_medals_03",
+      "source_file": "sprites/01_medals/03_gold_winged_aviation_medal_on_sky_blue_ribbon.png"
+    },
+    {
+      "resource": "native1110/extra/01_medals_04",
+      "sprite_id": 41056,
+      "texture_id": 41055,
+      "canvas": [
+        141,
+        224
+      ],
+      "pixel_sha256": "e225a6820feb34eb0c8814b2210de8b1d0e2679d409f1788bdc5ebe87f3ef6f9",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "01_medals_04",
+      "source_file": "sprites/01_medals/04_bronze_anchor_naval_medal_on_navy_and_white_ribbon.png"
+    },
+    {
+      "resource": "native1110/extra/01_medals_05",
+      "sprite_id": 41058,
+      "texture_id": 41057,
+      "canvas": [
+        180,
+        224
+      ],
+      "pixel_sha256": "44c74a3978f17a7a5ef91fd95c9f774c67f1616bf4c6da6917f48bf91e757794",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "01_medals_05",
+      "source_file": "sprites/01_medals/05_silver_armored_service_tank_emblem_medal_on_black_and_yellow_ribbon.png"
+    },
+    {
+      "resource": "native1110/extra/01_medals_06",
+      "sprite_id": 41060,
+      "texture_id": 41059,
+      "canvas": [
+        179,
+        224
+      ],
+      "pixel_sha256": "f97c329f4e114d0da4f953ffd5b1abd553610e7b76ff1c34060f52505e5981e8",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "01_medals_06",
+      "source_file": "sprites/01_medals/06_bronze_infantry_crossed_rifles_medal_on_khaki_and_green_ribbon.png"
+    },
+    {
+      "resource": "native1110/extra/01_medals_07",
+      "sprite_id": 41062,
+      "texture_id": 41061,
+      "canvas": [
+        138,
+        224
+      ],
+      "pixel_sha256": "a5edb8d9fe5d653d6a20f01ffbb8949c951332f0c36b2a4b6bf2691978546b6c",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "01_medals_07",
+      "source_file": "sprites/01_medals/07_gold_hexagonal_medical_service_medal_with_green_plus_on_white_ribbon.png"
+    },
+    {
+      "resource": "native1110/extra/01_medals_08",
+      "sprite_id": 41064,
+      "texture_id": 41063,
+      "canvas": [
+        176,
+        224
+      ],
+      "pixel_sha256": "79b305454aa23ec162e082cbb8238af1157d071ed60291763d4392f0541218e2",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "01_medals_08",
+      "source_file": "sprites/01_medals/08_bronze_gear_shaped_engineering_medal_on_orange_and_green_ribbon.png"
+    },
+    {
+      "resource": "native1110/extra/01_medals_09",
+      "sprite_id": 41066,
+      "texture_id": 41065,
+      "canvas": [
+        145,
+        224
+      ],
+      "pixel_sha256": "c6efa859cbcc32b58718a809d0a9305be0d900baf1c6a69d6b5d73667b26b74f",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "01_medals_09",
+      "source_file": "sprites/01_medals/09_silver_lightning_signals_medal_on_teal_ribbon.png"
+    },
+    {
+      "resource": "native1110/extra/01_medals_10",
+      "sprite_id": 41068,
+      "texture_id": 41067,
+      "canvas": [
+        139,
+        224
+      ],
+      "pixel_sha256": "d5e27602f03f6399e174f292a331a73767ccc704e97f8bcac62b64531400b7dd",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "01_medals_10",
+      "source_file": "sprites/01_medals/10_silver_compass_reconnaissance_medal_on_forest_green_ribbon.png"
+    },
+    {
+      "resource": "native1110/extra/01_medals_11",
+      "sprite_id": 41070,
+      "texture_id": 41069,
+      "canvas": [
+        214,
+        224
+      ],
+      "pixel_sha256": "beb93330082e8c4a86e1786fab5413bb4dde15b5833f0c46037aecef87ab1f61",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "01_medals_11",
+      "source_file": "sprites/01_medals/11_gold_laurel_leadership_medal_on_maroon_ribbon.png"
+    },
+    {
+      "resource": "native1110/extra/01_medals_12",
+      "sprite_id": 41072,
+      "texture_id": 41071,
+      "canvas": [
+        144,
+        224
+      ],
+      "pixel_sha256": "7d60336f52be948b725ea17fda87792ac9c28d6fdf491ef082c3fd5ff765019e",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "01_medals_12",
+      "source_file": "sprites/01_medals/12_bronze_oak_leaf_long_service_medal_on_brown_and_cream_ribbon.png"
+    },
+    {
+      "resource": "native1110/extra/01_medals_13",
+      "sprite_id": 41074,
+      "texture_id": 41073,
+      "canvas": [
+        153,
+        224
+      ],
+      "pixel_sha256": "79299df05b1f3ce463da82003454d56d676cbdecfd91dd1337fea38a797e690b",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "01_medals_13",
+      "source_file": "sprites/01_medals/13_bronze_five_point_campaign_star_on_rainbow_striped_ribbon.png"
+    },
+    {
+      "resource": "native1110/extra/01_medals_14",
+      "sprite_id": 41076,
+      "texture_id": 41075,
+      "canvas": [
+        140,
+        224
+      ],
+      "pixel_sha256": "9d01e0e9e2eb7e4149e9fbeeaa92eebd483eebca5608225d6f7873160dbeda00",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "01_medals_14",
+      "source_file": "sprites/01_medals/14_silver_snowflake_winter_service_medal_on_pale_blue_ribbon.png"
+    },
+    {
+      "resource": "native1110/extra/01_medals_15",
+      "sprite_id": 41078,
+      "texture_id": 41077,
+      "canvas": [
+        143,
+        224
+      ],
+      "pixel_sha256": "be71d42779cfde1a359096636795ae7f564f1a885edc5a1fe65b94589f2ab1aa",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "01_medals_15",
+      "source_file": "sprites/01_medals/15_bronze_sun_desert_service_medal_on_tan_ribbon.png"
+    },
+    {
+      "resource": "native1110/extra/01_medals_16",
+      "sprite_id": 41080,
+      "texture_id": 41079,
+      "canvas": [
+        152,
+        224
+      ],
+      "pixel_sha256": "548f1e5b450d87edc0a682d9c221257c062300fc4844e5217f97c481e3f93a17",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "01_medals_16",
+      "source_file": "sprites/01_medals/16_gold_lifesaver_rescue_medal_on_navy_and_orange_ribbon.png"
+    },
+    {
+      "resource": "native1110/extra/01_medals_17",
+      "sprite_id": 41082,
+      "texture_id": 41081,
+      "canvas": [
+        138,
+        224
+      ],
+      "pixel_sha256": "ac50e1dda8ce457e962f3b616072201f3b545f048abf30371379e4678d6e556e",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "01_medals_17",
+      "source_file": "sprites/01_medals/17_gold_shield_gallantry_medal_on_royal_blue_ribbon.png"
+    },
+    {
+      "resource": "native1110/extra/01_medals_18",
+      "sprite_id": 41084,
+      "texture_id": 41083,
+      "canvas": [
+        153,
+        224
+      ],
+      "pixel_sha256": "f2b9af9d1af08b2cd45343186980f73ac8a47acea98df1259fdd32d513b3fd9f",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "01_medals_18",
+      "source_file": "sprites/01_medals/18_gold_trimmed_purple_enamel_recovery_heart_medal_on_purple_and_white_ribbon.png"
+    },
+    {
+      "resource": "native1110/extra/01_medals_19",
+      "sprite_id": 41086,
+      "texture_id": 41085,
+      "canvas": [
+        151,
+        224
+      ],
+      "pixel_sha256": "e4a0bb3ca69f435dcdcffbae67ca90d5adbaf7a7c85f9c9293bcf6ca3d7127bb",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "01_medals_19",
+      "source_file": "sprites/01_medals/19_bronze_round_ww1_style_laurel_campaign_medal_on_rust_and_khaki_ribbon.png"
+    },
+    {
+      "resource": "native1110/extra/01_medals_20",
+      "sprite_id": 41088,
+      "texture_id": 41087,
+      "canvas": [
+        168,
+        224
+      ],
+      "pixel_sha256": "fe346efc9b0eddf4c4f520bfad5b50eb82d7ac2baacc3652dde1fabfadb20758",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "01_medals_20",
+      "source_file": "sprites/01_medals/20_gold_diamond_wwii_style_victory_medal_on_blue_green_white_ribbon.png"
+    },
+    {
+      "resource": "native1110/extra/01_medals_21",
+      "sprite_id": 41090,
+      "texture_id": 41089,
+      "canvas": [
+        174,
+        224
+      ],
+      "pixel_sha256": "f4fcbe00081c422bfb82c900f806bbe0447b229c5de63e36ffb1bff553127125",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "01_medals_21",
+      "source_file": "sprites/01_medals/21_silver_dove_peace_medal_on_white_and_blue_ribbon.png"
+    },
+    {
+      "resource": "native1110/extra/01_medals_22",
+      "sprite_id": 41092,
+      "texture_id": 41091,
+      "canvas": [
+        144,
+        224
+      ],
+      "pixel_sha256": "bd5f86ebdeee3c3af5cd98bcbefc45013509ab0676ffde121010a0f38fd0ac7d",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "01_medals_22",
+      "source_file": "sprites/01_medals/22_bronze_torch_veteran_medal_on_dark_red_ribbon.png"
+    },
+    {
+      "resource": "native1110/extra/01_medals_23",
+      "sprite_id": 41094,
+      "texture_id": 41093,
+      "canvas": [
+        178,
+        224
+      ],
+      "pixel_sha256": "10531b584a700b6cea17e75e5d8577399ed84d83ad30c90573fcb1e7adb23b44",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "01_medals_23",
+      "source_file": "sprites/01_medals/23_silver_target_marksmanship_medal_on_gray_and_green_ribbon.png"
+    },
+    {
+      "resource": "native1110/extra/01_medals_24",
+      "sprite_id": 41096,
+      "texture_id": 41095,
+      "canvas": [
+        154,
+        224
+      ],
+      "pixel_sha256": "13f1cdd4825b9e1a55e40d7e3a613a2cb060729d49506fb29c26e0243c249306",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "01_medals_24",
+      "source_file": "sprites/01_medals/24_gold_wreath_distinguished_service_medal_on_blue_and_gold_ribbon.png"
+    },
+    {
+      "resource": "native1110/extra/02_soldiers_01",
+      "sprite_id": 41098,
+      "texture_id": 41097,
+      "canvas": [
+        191,
+        224
+      ],
+      "pixel_sha256": "cda4a3ab47dc9931ada8f1fd7ae66c920d4dcd4d9b1cce7064a03a8c77f2763e",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "02_soldiers_01",
+      "source_file": "sprites/02_soldiers/01_adult_khaki_ww1_infantry_soldier_with_helmet_and_lowered_rifle.png"
+    },
+    {
+      "resource": "native1110/extra/02_soldiers_02",
+      "sprite_id": 41100,
+      "texture_id": 41099,
+      "canvas": [
+        186,
+        224
+      ],
+      "pixel_sha256": "1295f1201103d91ef0c6b317ec06dc1d970df1ef58fe4c7f5d765df65630d61e",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "02_soldiers_02",
+      "source_file": "sprites/02_soldiers/02_adult_blue_gray_ww1_infantry_soldier_with_helmet.png"
+    },
+    {
+      "resource": "native1110/extra/02_soldiers_03",
+      "sprite_id": 41102,
+      "texture_id": 41101,
+      "canvas": [
+        200,
+        224
+      ],
+      "pixel_sha256": "50fdf2d0d75f0bbd43229b297f8ba580b6aba2770226eb5024015c4d5fbbdf4d",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "02_soldiers_03",
+      "source_file": "sprites/02_soldiers/03_adult_field_gray_ww1_infantry_soldier_with_helmet.png"
+    },
+    {
+      "resource": "native1110/extra/02_soldiers_04",
+      "sprite_id": 41104,
+      "texture_id": 41103,
+      "canvas": [
+        200,
+        224
+      ],
+      "pixel_sha256": "2d40600b7e153cc14f2fb1a0b2bbec8fda6d67f87c2a3327e32142f8027ebd36",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "02_soldiers_04",
+      "source_file": "sprites/02_soldiers/04_adult_tan_ww1_desert_soldier_with_pith_helmet.png"
+    },
+    {
+      "resource": "native1110/extra/02_soldiers_05",
+      "sprite_id": 41106,
+      "texture_id": 41105,
+      "canvas": [
+        205,
+        224
+      ],
+      "pixel_sha256": "10a66d9f370a074db4aa0865841395ff1cdcf2f2b83f7613639b4e720717a5c5",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "02_soldiers_05",
+      "source_file": "sprites/02_soldiers/05_adult_ww1_winter_soldier_in_brown_greatcoat.png"
+    },
+    {
+      "resource": "native1110/extra/02_soldiers_06",
+      "sprite_id": 41108,
+      "texture_id": 41107,
+      "canvas": [
+        180,
+        224
+      ],
+      "pixel_sha256": "016b98d1b374748c7b534e3719021f1152813a8fddac7e4947fd00c8210eb0c0",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "02_soldiers_06",
+      "source_file": "sprites/02_soldiers/06_adult_ww1_navy_sailor_in_dark_blue.png"
+    },
+    {
+      "resource": "native1110/extra/02_soldiers_07",
+      "sprite_id": 41110,
+      "texture_id": 41109,
+      "canvas": [
+        173,
+        224
+      ],
+      "pixel_sha256": "474ab7404db0d172dea0822de1c2b969cc8dc35b104a6c872dcf205379f18175",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "02_soldiers_07",
+      "source_file": "sprites/02_soldiers/07_adult_ww1_aviator_in_brown_leather_flightwear_and_goggles.png"
+    },
+    {
+      "resource": "native1110/extra/02_soldiers_08",
+      "sprite_id": 41112,
+      "texture_id": 41111,
+      "canvas": [
+        209,
+        224
+      ],
+      "pixel_sha256": "e1bc842d0af9d76f105e95002ad6069aed717d396e6370865faf8d38796867ae",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "02_soldiers_08",
+      "source_file": "sprites/02_soldiers/08_adult_female_ww1_nurse_in_white_apron_with_plain_green_plus.png"
+    },
+    {
+      "resource": "native1110/extra/02_soldiers_09",
+      "sprite_id": 41114,
+      "texture_id": 41113,
+      "canvas": [
+        197,
+        224
+      ],
+      "pixel_sha256": "5a06dbe33330a4bcdda3db5f21d157a2d98df563beb38e4715c9866620e9fd21",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "02_soldiers_09",
+      "source_file": "sprites/02_soldiers/09_adult_ww1_medic_with_khaki_uniform_and_medical_satchel.png"
+    },
+    {
+      "resource": "native1110/extra/02_soldiers_10",
+      "sprite_id": 41116,
+      "texture_id": 41115,
+      "canvas": [
+        186,
+        224
+      ],
+      "pixel_sha256": "c0583e33cf58436fbf6f46ca95164f7699639277ed8eb9fabaf5f7f6900018bf",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "02_soldiers_10",
+      "source_file": "sprites/02_soldiers/10_adult_ww1_communications_soldier_with_field_telephone_case.png"
+    },
+    {
+      "resource": "native1110/extra/02_soldiers_11",
+      "sprite_id": 41118,
+      "texture_id": 41117,
+      "canvas": [
+        195,
+        224
+      ],
+      "pixel_sha256": "a54af2013513ed52ffc3fc3e015aa0db4b3f2bb10aaff5e12d126408410e2f66",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "02_soldiers_11",
+      "source_file": "sprites/02_soldiers/11_adult_ww1_cavalry_scout_with_campaign_hat_no_horse.png"
+    },
+    {
+      "resource": "native1110/extra/02_soldiers_12",
+      "sprite_id": 41120,
+      "texture_id": 41119,
+      "canvas": [
+        209,
+        224
+      ],
+      "pixel_sha256": "c58e99e4ec6091021981ec1b0a9dcfe0b3bdaeedfe1d3a01154ae87a37e408de",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "02_soldiers_12",
+      "source_file": "sprites/02_soldiers/12_adult_ww1_officer_in_khaki_with_peaked_cap.png"
+    },
+    {
+      "resource": "native1110/extra/02_soldiers_13",
+      "sprite_id": 41122,
+      "texture_id": 41121,
+      "canvas": [
+        166,
+        224
+      ],
+      "pixel_sha256": "c8196d1b6ae0a6af83c21922bb83c782661c102d553cf1f95452fabd712fa2a2",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "02_soldiers_13",
+      "source_file": "sprites/02_soldiers/13_adult_ww2_olive_infantry_soldier_with_steel_helmet_and_lowered_rifle.png"
+    },
+    {
+      "resource": "native1110/extra/02_soldiers_14",
+      "sprite_id": 41124,
+      "texture_id": 41123,
+      "canvas": [
+        208,
+        224
+      ],
+      "pixel_sha256": "4d9c437180b578b7e74ba93f92c9a3e473f994260c663c9b75e861ffa7754cf2",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "02_soldiers_14",
+      "source_file": "sprites/02_soldiers/14_adult_ww2_gray_blue_infantry_soldier_with_steel_helmet.png"
+    },
+    {
+      "resource": "native1110/extra/02_soldiers_15",
+      "sprite_id": 41126,
+      "texture_id": 41125,
+      "canvas": [
+        220,
+        224
+      ],
+      "pixel_sha256": "0f10fcdb1b6c47a9df01ed5b72ab0db349c46f29a7b6e552b936762c8c1b4526",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "02_soldiers_15",
+      "source_file": "sprites/02_soldiers/15_adult_ww2_winter_soldier_in_white_winter_coat.png"
+    },
+    {
+      "resource": "native1110/extra/02_soldiers_16",
+      "sprite_id": 41128,
+      "texture_id": 41127,
+      "canvas": [
+        219,
+        224
+      ],
+      "pixel_sha256": "1178ebe3c5a97228d3a2e7450f32a7c5b6219967afb1e10c66767cffebb8b493",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "02_soldiers_16",
+      "source_file": "sprites/02_soldiers/16_adult_ww2_desert_officer_in_tan_clothing.png"
+    },
+    {
+      "resource": "native1110/extra/02_soldiers_17",
+      "sprite_id": 41130,
+      "texture_id": 41129,
+      "canvas": [
+        209,
+        224
+      ],
+      "pixel_sha256": "12ff23608301664db95a39696e0c42d99822cb12efb747b2157bd8ff1a444b4a",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "02_soldiers_17",
+      "source_file": "sprites/02_soldiers/17_adult_ww2_paratrooper_with_harness.png"
+    },
+    {
+      "resource": "native1110/extra/02_soldiers_18",
+      "sprite_id": 41132,
+      "texture_id": 41131,
+      "canvas": [
+        181,
+        224
+      ],
+      "pixel_sha256": "69b58a85f3d113b5ded6ab2a9f94b83e5072b1704270857cda5f59a9abbf3382",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "02_soldiers_18",
+      "source_file": "sprites/02_soldiers/18_adult_ww2_naval_officer_in_blue_peaked_cap.png"
+    },
+    {
+      "resource": "native1110/extra/02_soldiers_19",
+      "sprite_id": 41134,
+      "texture_id": 41133,
+      "canvas": [
+        211,
+        224
+      ],
+      "pixel_sha256": "376daa66a36e2802bb0ef5d89ca2fa48337c39b48e4e5402d7caf700457d05f7",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "02_soldiers_19",
+      "source_file": "sprites/02_soldiers/19_adult_ww2_flight_crew_member_with_gray_flight_suit_and_life_vest.png"
+    },
+    {
+      "resource": "native1110/extra/02_soldiers_20",
+      "sprite_id": 41136,
+      "texture_id": 41135,
+      "canvas": [
+        218,
+        224
+      ],
+      "pixel_sha256": "fd577c2b557d2b776e5d23e18de185bd371c40f456b1acb729318b7fd0262ef7",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "02_soldiers_20",
+      "source_file": "sprites/02_soldiers/20_adult_female_ww2_mechanic_in_olive_coveralls.png"
+    },
+    {
+      "resource": "native1110/extra/02_soldiers_21",
+      "sprite_id": 41138,
+      "texture_id": 41137,
+      "canvas": [
+        208,
+        224
+      ],
+      "pixel_sha256": "5b5498b4662456fb3a83a9a003f174761956ecaac29ac5ba3d172f424aeb5216",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "02_soldiers_21",
+      "source_file": "sprites/02_soldiers/21_adult_female_ww2_medic_in_olive_field_uniform.png"
+    },
+    {
+      "resource": "native1110/extra/02_soldiers_22",
+      "sprite_id": 41140,
+      "texture_id": 41139,
+      "canvas": [
+        179,
+        224
+      ],
+      "pixel_sha256": "db20dd9e7e91bb5c952f4438889a13148b115507061599eab0995a174c8f064b",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "02_soldiers_22",
+      "source_file": "sprites/02_soldiers/22_adult_ww2_radio_operator_with_backpack_radio.png"
+    },
+    {
+      "resource": "native1110/extra/02_soldiers_23",
+      "sprite_id": 41142,
+      "texture_id": 41141,
+      "canvas": [
+        203,
+        224
+      ],
+      "pixel_sha256": "b78e9e305729a367a81b907dc8722308c5eb5b90ef655a3798a01b35c0ea76ef",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "02_soldiers_23",
+      "source_file": "sprites/02_soldiers/23_adult_ww2_tank_crew_member_in_dark_coveralls_and_padded_helmet.png"
+    },
+    {
+      "resource": "native1110/extra/02_soldiers_24",
+      "sprite_id": 41144,
+      "texture_id": 41143,
+      "canvas": [
+        207,
+        224
+      ],
+      "pixel_sha256": "85f77e84ea82ff4e7372f16951f996bb444718d70b0409709c9ee3a8f741acd5",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "02_soldiers_24",
+      "source_file": "sprites/02_soldiers/24_adult_ww2_sailor_in_white_uniform.png"
+    },
+    {
+      "resource": "native1110/extra/03_extra_vehicles_01",
+      "sprite_id": 41146,
+      "texture_id": 41145,
+      "canvas": [
+        224,
+        219
+      ],
+      "pixel_sha256": "3b62f554805555dfaa5fb3b755c105586e1bf60f72f91725704e88b4c11139dc",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "03_extra_vehicles_01",
+      "source_file": "sprites/03_extra_vehicles/01_blue_ww1_two_seat_reconnaissance_biplane.png"
+    },
+    {
+      "resource": "native1110/extra/03_extra_vehicles_02",
+      "sprite_id": 41148,
+      "texture_id": 41147,
+      "canvas": [
+        210,
+        224
+      ],
+      "pixel_sha256": "fe38a02cfad41ef7396769c82d52fdb7037e9929bc0b664a296e237ae3374413",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "03_extra_vehicles_02",
+      "source_file": "sprites/03_extra_vehicles/02_brown_ww1_large_twin_engine_bomber_biplane.png"
+    },
+    {
+      "resource": "native1110/extra/03_extra_vehicles_03",
+      "sprite_id": 41150,
+      "texture_id": 41149,
+      "canvas": [
+        224,
+        213
+      ],
+      "pixel_sha256": "e3748b21761003bd70143f2fcfb7bf2c1f75f07d6a625adfd41b7a33460dbc55",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "03_extra_vehicles_03",
+      "source_file": "sprites/03_extra_vehicles/03_cream_ww1_flying_boat_with_stacked_wings.png"
+    },
+    {
+      "resource": "native1110/extra/03_extra_vehicles_04",
+      "sprite_id": 41152,
+      "texture_id": 41151,
+      "canvas": [
+        224,
+        214
+      ],
+      "pixel_sha256": "2817c313e739dfa6d2ea4e07c9e43c97586db28ef7c2f778d49e5d35e77dcd6c",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "03_extra_vehicles_04",
+      "source_file": "sprites/03_extra_vehicles/04_olive_ww2_dive_bomber_with_fixed_landing_gear.png"
+    },
+    {
+      "resource": "native1110/extra/03_extra_vehicles_05",
+      "sprite_id": 41154,
+      "texture_id": 41153,
+      "canvas": [
+        224,
+        189
+      ],
+      "pixel_sha256": "4428f8328fe609403566234bc4038528d7c01fd90e87abb480de6a66d6dfc39e",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "03_extra_vehicles_05",
+      "source_file": "sprites/03_extra_vehicles/05_silver_ww2_twin_engine_coastal_patrol_plane.png"
+    },
+    {
+      "resource": "native1110/extra/03_extra_vehicles_06",
+      "sprite_id": 41156,
+      "texture_id": 41155,
+      "canvas": [
+        224,
+        212
+      ],
+      "pixel_sha256": "d86db10e004ecae2238eb9abfa832405980298f998b8efca495ac6d8e6b42a2f",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "03_extra_vehicles_06",
+      "source_file": "sprites/03_extra_vehicles/06_navy_ww2_torpedo_bomber_with_folded_wing_tips.png"
+    },
+    {
+      "resource": "native1110/extra/03_extra_vehicles_07",
+      "sprite_id": 41158,
+      "texture_id": 41157,
+      "canvas": [
+        224,
+        180
+      ],
+      "pixel_sha256": "e4380b11f7c9761ad9f551559935f0d0b53c5fd4e7a3f779f227f2678a1f9095",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "03_extra_vehicles_07",
+      "source_file": "sprites/03_extra_vehicles/07_gray_ww1_heavy_box_shaped_tracked_tank.png"
+    },
+    {
+      "resource": "native1110/extra/03_extra_vehicles_08",
+      "sprite_id": 41160,
+      "texture_id": 41159,
+      "canvas": [
+        224,
+        197
+      ],
+      "pixel_sha256": "dbc0407c13ff601de9b552a01afee354e74ba964c9c854e007937d53c81b47a2",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "03_extra_vehicles_08",
+      "source_file": "sprites/03_extra_vehicles/08_olive_ww1_compact_tracked_tankette.png"
+    },
+    {
+      "resource": "native1110/extra/03_extra_vehicles_09",
+      "sprite_id": 41162,
+      "texture_id": 41161,
+      "canvas": [
+        224,
+        208
+      ],
+      "pixel_sha256": "e57429fc867e1c211d33ec2df07efc28c27bb2fed124295cf53b15019fa4c6e1",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "03_extra_vehicles_09",
+      "source_file": "sprites/03_extra_vehicles/09_brown_ww1_open_top_armored_truck.png"
+    },
+    {
+      "resource": "native1110/extra/03_extra_vehicles_10",
+      "sprite_id": 41164,
+      "texture_id": 41163,
+      "canvas": [
+        213,
+        224
+      ],
+      "pixel_sha256": "940c79269c99c4da3c89c89070c3f00c9548b6c6d37b30f1d810c0b7bdf06888",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "03_extra_vehicles_10",
+      "source_file": "sprites/03_extra_vehicles/10_wheeled_ww1_field_kitchen_trailer.png"
+    },
+    {
+      "resource": "native1110/extra/03_extra_vehicles_11",
+      "sprite_id": 41166,
+      "texture_id": 41165,
+      "canvas": [
+        224,
+        218
+      ],
+      "pixel_sha256": "c99bb2c6912f9e2b19b840d08ffdae6534edbdddb93c1c93a64146e57c69efea",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "03_extra_vehicles_11",
+      "source_file": "sprites/03_extra_vehicles/11_wooden_ww1_covered_supply_wagon_without_horse.png"
+    },
+    {
+      "resource": "native1110/extra/03_extra_vehicles_12",
+      "sprite_id": 41168,
+      "texture_id": 41167,
+      "canvas": [
+        224,
+        222
+      ],
+      "pixel_sha256": "765f1f132173c6fd8978cf38424a4cd2d7a58d0e2f8069308380a57105b00e2f",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "03_extra_vehicles_12",
+      "source_file": "sprites/03_extra_vehicles/12_black_ww1_steam_locomotive_coal_tender.png"
+    },
+    {
+      "resource": "native1110/extra/03_extra_vehicles_13",
+      "sprite_id": 41170,
+      "texture_id": 41169,
+      "canvas": [
+        224,
+        190
+      ],
+      "pixel_sha256": "df65c393ad2ff06534debe9f659498636a5d34b252591d99c0980051225d262d",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "03_extra_vehicles_13",
+      "source_file": "sprites/03_extra_vehicles/13_olive_ww2_self_propelled_artillery_vehicle.png"
+    },
+    {
+      "resource": "native1110/extra/03_extra_vehicles_14",
+      "sprite_id": 41172,
+      "texture_id": 41171,
+      "canvas": [
+        224,
+        198
+      ],
+      "pixel_sha256": "045fe1321e7d1d4096a2d7b4fc49d019fda24b2f0f4e28b52f48027255eb036a",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "03_extra_vehicles_14",
+      "source_file": "sprites/03_extra_vehicles/14_gray_ww2_rocket_artillery_truck_with_rails.png"
+    },
+    {
+      "resource": "native1110/extra/03_extra_vehicles_15",
+      "sprite_id": 41174,
+      "texture_id": 41173,
+      "canvas": [
+        224,
+        224
+      ],
+      "pixel_sha256": "c7810788be291dcaa4deb0caabc4664d90f5618493e33c0018559077b2de9ec1",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "03_extra_vehicles_15",
+      "source_file": "sprites/03_extra_vehicles/15_tan_ww2_armored_command_car.png"
+    },
+    {
+      "resource": "native1110/extra/03_extra_vehicles_16",
+      "sprite_id": 41176,
+      "texture_id": 41175,
+      "canvas": [
+        224,
+        170
+      ],
+      "pixel_sha256": "545c89f439760afd0fada37259da0b2ca9983df82bcc577000b92fba876ea155",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "03_extra_vehicles_16",
+      "source_file": "sprites/03_extra_vehicles/16_olive_ww2_engineering_recovery_tank_with_small_crane.png"
+    },
+    {
+      "resource": "native1110/extra/03_extra_vehicles_17",
+      "sprite_id": 41178,
+      "texture_id": 41177,
+      "canvas": [
+        224,
+        201
+      ],
+      "pixel_sha256": "8c5b660f39b8b5a252130e5c6eeeb545a3979a9c1fb4f96d79f751dcefb110fd",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "03_extra_vehicles_17",
+      "source_file": "sprites/03_extra_vehicles/17_green_ww2_tracked_ammunition_carrier.png"
+    },
+    {
+      "resource": "native1110/extra/03_extra_vehicles_18",
+      "sprite_id": 41180,
+      "texture_id": 41179,
+      "canvas": [
+        224,
+        167
+      ],
+      "pixel_sha256": "e1bcb30133a167e7ec86ee6aa733eb4d6f1420de4346843c788121af54d3d59a",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "03_extra_vehicles_18",
+      "source_file": "sprites/03_extra_vehicles/18_white_winter_ww2_halftrack.png"
+    },
+    {
+      "resource": "native1110/extra/03_extra_vehicles_19",
+      "sprite_id": 41182,
+      "texture_id": 41181,
+      "canvas": [
+        224,
+        203
+      ],
+      "pixel_sha256": "a5e4af6b4fdc3603aca926ee5db975ca81bd0a26f03ebd7f9772c145e5f5b3f6",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "03_extra_vehicles_19",
+      "source_file": "sprites/03_extra_vehicles/19_navy_fast_torpedo_boat.png"
+    },
+    {
+      "resource": "native1110/extra/03_extra_vehicles_20",
+      "sprite_id": 41184,
+      "texture_id": 41183,
+      "canvas": [
+        224,
+        202
+      ],
+      "pixel_sha256": "a8f5fa505f51bde135aad88bc09d9736dd61636829723c2cc4a004007a8a759a",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "03_extra_vehicles_20",
+      "source_file": "sprites/03_extra_vehicles/20_gray_naval_escort_frigate.png"
+    },
+    {
+      "resource": "native1110/extra/03_extra_vehicles_21",
+      "sprite_id": 41186,
+      "texture_id": 41185,
+      "canvas": [
+        224,
+        195
+      ],
+      "pixel_sha256": "efe8a217af17da9e0d4805b570e460f8746a9a13ab99df12ae29d22ace5ae4e7",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "03_extra_vehicles_21",
+      "source_file": "sprites/03_extra_vehicles/21_red_and_cream_rescue_launch.png"
+    },
+    {
+      "resource": "native1110/extra/03_extra_vehicles_22",
+      "sprite_id": 41188,
+      "texture_id": 41187,
+      "canvas": [
+        224,
+        169
+      ],
+      "pixel_sha256": "69124a82ce3846f902061f7bd0a9ba168b950b806acb772840c7ce2d0e728066",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "03_extra_vehicles_22",
+      "source_file": "sprites/03_extra_vehicles/22_olive_landing_barge_with_lowered_ramp.png"
+    },
+    {
+      "resource": "native1110/extra/03_extra_vehicles_23",
+      "sprite_id": 41190,
+      "texture_id": 41189,
+      "canvas": [
+        224,
+        188
+      ],
+      "pixel_sha256": "9e20827f8a07d346f92ee5e371738a8f60292f9335e6e5add55b94364ec811dd",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "03_extra_vehicles_23",
+      "source_file": "sprites/03_extra_vehicles/23_black_small_coastal_submarine.png"
+    },
+    {
+      "resource": "native1110/extra/03_extra_vehicles_24",
+      "sprite_id": 41192,
+      "texture_id": 41191,
+      "canvas": [
+        224,
+        224
+      ],
+      "pixel_sha256": "eadf921721d6bf709fc7f57612bf3a435a030f6df85483a13b2362ae917c0f0d",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "03_extra_vehicles_24",
+      "source_file": "sprites/03_extra_vehicles/24_gray_naval_minesweeper.png"
+    },
+    {
+      "resource": "native1110/extra/04_medical_logistics_01",
+      "sprite_id": 41194,
+      "texture_id": 41193,
+      "canvas": [
+        224,
+        180
+      ],
+      "pixel_sha256": "c2984a3934b2aa1c4953616d5a5ce74362710ec3edf3fc636dc0d9c48f5ebdf3",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "04_medical_logistics_01",
+      "source_file": "sprites/04_medical_logistics/01_folding_canvas_stretcher_empty.png"
+    },
+    {
+      "resource": "native1110/extra/04_medical_logistics_02",
+      "sprite_id": 41196,
+      "texture_id": 41195,
+      "canvas": [
+        224,
+        187
+      ],
+      "pixel_sha256": "364ec9c44e795ffc80ae7b2076d5115142094f49255e827d3ab7e391caef24ca",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "04_medical_logistics_02",
+      "source_file": "sprites/04_medical_logistics/02_simple_field_hospital_cot_with_white_blanket_empty.png"
+    },
+    {
+      "resource": "native1110/extra/04_medical_logistics_03",
+      "sprite_id": 41198,
+      "texture_id": 41197,
+      "canvas": [
+        224,
+        210
+      ],
+      "pixel_sha256": "04b0dc3cbea75b677f43514447eb18df82ce20cad8f44c79775d9dde19302be4",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "04_medical_logistics_03",
+      "source_file": "sprites/04_medical_logistics/03_rolled_white_bandage_with_a_short_loose_end.png"
+    },
+    {
+      "resource": "native1110/extra/04_medical_logistics_04",
+      "sprite_id": 41200,
+      "texture_id": 41199,
+      "canvas": [
+        224,
+        194
+      ],
+      "pixel_sha256": "a7848b1c42748dea43262683b007e9c0b9f1a8456ab45804c5acb6fd1dcc81a0",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "04_medical_logistics_04",
+      "source_file": "sprites/04_medical_logistics/04_wooden_splint_kit_with_canvas_straps.png"
+    },
+    {
+      "resource": "native1110/extra/04_medical_logistics_05",
+      "sprite_id": 41202,
+      "texture_id": 41201,
+      "canvas": [
+        222,
+        224
+      ],
+      "pixel_sha256": "b72e1e4ce8f4caf358de080bcb4f5c93e33768bb4df706beae334fb0d45ba879",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "04_medical_logistics_05",
+      "source_file": "sprites/04_medical_logistics/05_small_glass_front_first_aid_cabinet.png"
+    },
+    {
+      "resource": "native1110/extra/04_medical_logistics_06",
+      "sprite_id": 41204,
+      "texture_id": 41203,
+      "canvas": [
+        224,
+        202
+      ],
+      "pixel_sha256": "7772854b0dd8fc3ef022c8d1f3776df56736a7b195afdbcf9439b2bac06c0bae",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "04_medical_logistics_06",
+      "source_file": "sprites/04_medical_logistics/06_open_leather_medical_instrument_pouch.png"
+    },
+    {
+      "resource": "native1110/extra/04_medical_logistics_07",
+      "sprite_id": 41206,
+      "texture_id": 41205,
+      "canvas": [
+        224,
+        215
+      ],
+      "pixel_sha256": "e0760fce0ab6c7184af8daf279002fbfe7d4e3073c21180ae875f3d1e1ed6dfc",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "04_medical_logistics_07",
+      "source_file": "sprites/04_medical_logistics/07_khaki_first_aid_crate_with_plain_green_plus.png"
+    },
+    {
+      "resource": "native1110/extra/04_medical_logistics_08",
+      "sprite_id": 41208,
+      "texture_id": 41207,
+      "canvas": [
+        224,
+        209
+      ],
+      "pixel_sha256": "a848a29826d72c288743f703e1233e4b4716c5ecb6db5dc0c7ebbac47ec7ed8c",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "04_medical_logistics_08",
+      "source_file": "sprites/04_medical_logistics/08_closed_olive_metal_supply_trunk.png"
+    },
+    {
+      "resource": "native1110/extra/04_medical_logistics_09",
+      "sprite_id": 41210,
+      "texture_id": 41209,
+      "canvas": [
+        214,
+        224
+      ],
+      "pixel_sha256": "55445ad3fe2117c702ca4bfe99b0888f44f72b5e143f04a7e435453d8aa75c20",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "04_medical_logistics_09",
+      "source_file": "sprites/04_medical_logistics/09_open_wooden_medical_chest_with_bottles.png"
+    },
+    {
+      "resource": "native1110/extra/04_medical_logistics_10",
+      "sprite_id": 41212,
+      "texture_id": 41211,
+      "canvas": [
+        224,
+        206
+      ],
+      "pixel_sha256": "9a4d7303f7bd9448d482a4c70e2648e73d14c4f3c3ea9f928bdacc9571040405",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "04_medical_logistics_10",
+      "source_file": "sprites/04_medical_logistics/10_wooden_pallet_of_rope_secured_cargo_boxes.png"
+    },
+    {
+      "resource": "native1110/extra/04_medical_logistics_11",
+      "sprite_id": 41214,
+      "texture_id": 41213,
+      "canvas": [
+        177,
+        224
+      ],
+      "pixel_sha256": "b86597cfe2add0954314e246b030d31cb60aec93e9a3ef336af3e424d5c58d5b",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "04_medical_logistics_11",
+      "source_file": "sprites/04_medical_logistics/11_steel_oil_drum.png"
+    },
+    {
+      "resource": "native1110/extra/04_medical_logistics_12",
+      "sprite_id": 41216,
+      "texture_id": 41215,
+      "canvas": [
+        198,
+        224
+      ],
+      "pixel_sha256": "ed274704c9c270f6780e7ffa6a2fd6aacd78b04b10a041bed72b8ebb07b99f7c",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "04_medical_logistics_12",
+      "source_file": "sprites/04_medical_logistics/12_olive_fuel_jerrycan.png"
+    },
+    {
+      "resource": "native1110/extra/04_medical_logistics_13",
+      "sprite_id": 41218,
+      "texture_id": 41217,
+      "canvas": [
+        224,
+        200
+      ],
+      "pixel_sha256": "4fa9da2d045b4adaf05a6965306c1e41511b9bd1011755039a049fbdc8ff9a60",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "04_medical_logistics_13",
+      "source_file": "sprites/04_medical_logistics/13_compact_wheeled_field_kitchen_stove.png"
+    },
+    {
+      "resource": "native1110/extra/04_medical_logistics_14",
+      "sprite_id": 41220,
+      "texture_id": 41219,
+      "canvas": [
+        224,
+        204
+      ],
+      "pixel_sha256": "859950c808d2eecafa267841ea434ef373bb15868dc7ae59ca5dec56e7256329",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "04_medical_logistics_14",
+      "source_file": "sprites/04_medical_logistics/14_black_lidded_soup_kettle.png"
+    },
+    {
+      "resource": "native1110/extra/04_medical_logistics_15",
+      "sprite_id": 41222,
+      "texture_id": 41221,
+      "canvas": [
+        213,
+        224
+      ],
+      "pixel_sha256": "358ce535357abe7c0a1a816e2c84b12554948cb1a585ce582e3b88c9b6579c47",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "04_medical_logistics_15",
+      "source_file": "sprites/04_medical_logistics/15_small_sealed_military_ration_tin_without_writing.png"
+    },
+    {
+      "resource": "native1110/extra/04_medical_logistics_16",
+      "sprite_id": 41224,
+      "texture_id": 41223,
+      "canvas": [
+        224,
+        208
+      ],
+      "pixel_sha256": "aeb684aee6cd18c68262e4cd9da0736d18acbd9c4ccd17738f37f33a86dc07b7",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "04_medical_logistics_16",
+      "source_file": "sprites/04_medical_logistics/16_canvas_ration_bag_containing_a_loaf_of_bread.png"
+    },
+    {
+      "resource": "native1110/extra/04_medical_logistics_17",
+      "sprite_id": 41226,
+      "texture_id": 41225,
+      "canvas": [
+        189,
+        224
+      ],
+      "pixel_sha256": "5175b88cd2ebe771a0a7345b6a28f526eb4a7b69425a3501c32ab58d18cf9b5f",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "04_medical_logistics_17",
+      "source_file": "sprites/04_medical_logistics/17_wooden_water_barrel_with_metal_tap.png"
+    },
+    {
+      "resource": "native1110/extra/04_medical_logistics_18",
+      "sprite_id": 41228,
+      "texture_id": 41227,
+      "canvas": [
+        224,
+        211
+      ],
+      "pixel_sha256": "cc81beeca5cf832d6289111b55031ce5a7fb407769b7a81949d926075dc913b0",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "04_medical_logistics_18",
+      "source_file": "sprites/04_medical_logistics/18_folding_wooden_mess_bench.png"
+    },
+    {
+      "resource": "native1110/extra/04_medical_logistics_19",
+      "sprite_id": 41230,
+      "texture_id": 41229,
+      "canvas": [
+        224,
+        212
+      ],
+      "pixel_sha256": "536b95a60df749c567b33fd3d8f0ec56ccbaa95d806833b62b666e926390ff38",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "04_medical_logistics_19",
+      "source_file": "sprites/04_medical_logistics/19_open_mechanic_toolbox_with_simple_tools.png"
+    },
+    {
+      "resource": "native1110/extra/04_medical_logistics_20",
+      "sprite_id": 41232,
+      "texture_id": 41231,
+      "canvas": [
+        224,
+        217
+      ],
+      "pixel_sha256": "35063c5ac6435fd9ed9f46e13a0003676bd59ff96a705c2aa2abcd05bf4688e6",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "04_medical_logistics_20",
+      "source_file": "sprites/04_medical_logistics/20_spare_military_vehicle_wheel.png"
+    },
+    {
+      "resource": "native1110/extra/04_medical_logistics_21",
+      "sprite_id": 41234,
+      "texture_id": 41233,
+      "canvas": [
+        209,
+        224
+      ],
+      "pixel_sha256": "3469df213338a258f7caf0fc0e3fcd5cd751998806d9c01320b80f30660ac627",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "04_medical_logistics_21",
+      "source_file": "sprites/04_medical_logistics/21_detached_wooden_airplane_propeller.png"
+    },
+    {
+      "resource": "native1110/extra/04_medical_logistics_22",
+      "sprite_id": 41236,
+      "texture_id": 41235,
+      "canvas": [
+        224,
+        184
+      ],
+      "pixel_sha256": "39ac393b4da346df50c2f00d00962dd280955b962383d4916832559bec114672",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "04_medical_logistics_22",
+      "source_file": "sprites/04_medical_logistics/22_folded_canvas_parachute_pack_with_straps.png"
+    },
+    {
+      "resource": "native1110/extra/04_medical_logistics_23",
+      "sprite_id": 41238,
+      "texture_id": 41237,
+      "canvas": [
+        224,
+        222
+      ],
+      "pixel_sha256": "e0858d9629fa0d21b48de0c405892996b0ac71e243305fd50516d67ce2145e41",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "04_medical_logistics_23",
+      "source_file": "sprites/04_medical_logistics/23_open_white_parachute_canopy_with_hanging_harness.png"
+    },
+    {
+      "resource": "native1110/extra/04_medical_logistics_24",
+      "sprite_id": 41240,
+      "texture_id": 41239,
+      "canvas": [
+        200,
+        224
+      ],
+      "pixel_sha256": "0bce78c7b5e73b3a0ad43ff4510627857a9d218c2f9b4199ca4e5b667dc36528",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "04_medical_logistics_24",
+      "source_file": "sprites/04_medical_logistics/24_cargo_crate_descending_under_olive_parachute.png"
+    },
+    {
+      "resource": "native1110/extra/05_military_buildings_01",
+      "sprite_id": 41242,
+      "texture_id": 41241,
+      "canvas": [
+        224,
+        208
+      ],
+      "pixel_sha256": "673d7d33f1357d736c07f014a895c2b3aba9b82c8f8f7916e7a2b04589dfdb37",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "05_military_buildings_01",
+      "source_file": "sprites/05_military_buildings/01_wooden_ww1_barracks_hut.png"
+    },
+    {
+      "resource": "native1110/extra/05_military_buildings_02",
+      "sprite_id": 41244,
+      "texture_id": 41243,
+      "canvas": [
+        224,
+        209
+      ],
+      "pixel_sha256": "7c33d9705957fbe7dd9e2d389ddd39b1c58ef6181749c9054ca3118dcb45fde9",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "05_military_buildings_02",
+      "source_file": "sprites/05_military_buildings/02_khaki_command_tent_with_small_antenna.png"
+    },
+    {
+      "resource": "native1110/extra/05_military_buildings_03",
+      "sprite_id": 41246,
+      "texture_id": 41245,
+      "canvas": [
+        221,
+        224
+      ],
+      "pixel_sha256": "a8c4beda6d52f1b6e2f838da9ae52c1294ce178a6550a7d9a4d1343731f4a219",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "05_military_buildings_03",
+      "source_file": "sprites/05_military_buildings/03_wooden_military_stables_no_animals.png"
+    },
+    {
+      "resource": "native1110/extra/05_military_buildings_04",
+      "sprite_id": 41248,
+      "texture_id": 41247,
+      "canvas": [
+        221,
+        224
+      ],
+      "pixel_sha256": "79873e36ff6e0e3a0fc9cd38cbc0b6a12d007faf9538150b7cc8ad8dc6a94c1b",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "05_military_buildings_04",
+      "source_file": "sprites/05_military_buildings/04_wooden_field_workshop_shed.png"
+    },
+    {
+      "resource": "native1110/extra/05_military_buildings_05",
+      "sprite_id": 41250,
+      "texture_id": 41249,
+      "canvas": [
+        166,
+        224
+      ],
+      "pixel_sha256": "39985f8afb128de4b0974f8d3cfeb9869aea15cfd0fed7631ade43581c9249ef",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "05_military_buildings_05",
+      "source_file": "sprites/05_military_buildings/05_timber_elevated_observation_post.png"
+    },
+    {
+      "resource": "native1110/extra/05_military_buildings_06",
+      "sprite_id": 41252,
+      "texture_id": 41251,
+      "canvas": [
+        224,
+        200
+      ],
+      "pixel_sha256": "c1ca813b16fc6c86ab3595ee73cd83dc87784b954ad7717a04e47cee35e3966e",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "05_military_buildings_06",
+      "source_file": "sprites/05_military_buildings/06_earth_covered_trench_shelter_with_timber_doorway.png"
+    },
+    {
+      "resource": "native1110/extra/05_military_buildings_07",
+      "sprite_id": 41254,
+      "texture_id": 41253,
+      "canvas": [
+        224,
+        217
+      ],
+      "pixel_sha256": "53a1689772f07da66852622aa8aaf3a732841a98f191199891ae514fa25d6334",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "05_military_buildings_07",
+      "source_file": "sprites/05_military_buildings/07_round_concrete_pillbox_with_narrow_slit.png"
+    },
+    {
+      "resource": "native1110/extra/05_military_buildings_08",
+      "sprite_id": 41256,
+      "texture_id": 41255,
+      "canvas": [
+        224,
+        206
+      ],
+      "pixel_sha256": "d9d6055ca11eae9d1bc270485e96a9d9f64715b8b5156627cbd6fe47d389e4b5",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "05_military_buildings_08",
+      "source_file": "sprites/05_military_buildings/08_rectangular_ammunition_bunker_with_steel_door.png"
+    },
+    {
+      "resource": "native1110/extra/05_military_buildings_09",
+      "sprite_id": 41258,
+      "texture_id": 41257,
+      "canvas": [
+        224,
+        218
+      ],
+      "pixel_sha256": "db2936fcdabd997b5caf8ffc33eec7510cab7edb1d83ebfcd443743104e13146",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "05_military_buildings_09",
+      "source_file": "sprites/05_military_buildings/09_wooden_supply_depot_warehouse.png"
+    },
+    {
+      "resource": "native1110/extra/05_military_buildings_10",
+      "sprite_id": 41260,
+      "texture_id": 41259,
+      "canvas": [
+        224,
+        192
+      ],
+      "pixel_sha256": "5be8ee2e441f23afbc7858a621505f2621a2371768437fb6308af5689c794e3b",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "05_military_buildings_10",
+      "source_file": "sprites/05_military_buildings/10_field_hospital_hut_with_plain_green_plus.png"
+    },
+    {
+      "resource": "native1110/extra/05_military_buildings_11",
+      "sprite_id": 41262,
+      "texture_id": 41261,
+      "canvas": [
+        200,
+        224
+      ],
+      "pixel_sha256": "d2e99042f128b8400a59dee8da0190820be3e4f6e1996b98000c0cadd94e7d9f",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "05_military_buildings_11",
+      "source_file": "sprites/05_military_buildings/11_brick_radio_station_hut_with_tall_antenna.png"
+    },
+    {
+      "resource": "native1110/extra/05_military_buildings_12",
+      "sprite_id": 41264,
+      "texture_id": 41263,
+      "canvas": [
+        224,
+        192
+      ],
+      "pixel_sha256": "a66d580c36476ab2225a616ac393712b9906903a3398111807c028ba2283656a",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "05_military_buildings_12",
+      "source_file": "sprites/05_military_buildings/12_military_checkpoint_guard_hut_and_lowered_barrier_as_one_asset.png"
+    },
+    {
+      "resource": "native1110/extra/05_military_buildings_13",
+      "sprite_id": 41266,
+      "texture_id": 41265,
+      "canvas": [
+        224,
+        154
+      ],
+      "pixel_sha256": "b1d4c46215d9b78e3c2d9c1c03741aa1973ee366618c927a18b9a42941459760",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "05_military_buildings_13",
+      "source_file": "sprites/05_military_buildings/13_large_corrugated_metal_aircraft_hangar.png"
+    },
+    {
+      "resource": "native1110/extra/05_military_buildings_14",
+      "sprite_id": 41268,
+      "texture_id": 41267,
+      "canvas": [
+        155,
+        224
+      ],
+      "pixel_sha256": "744e08ba34c81a533193f8bb88e0dc03671572153db5172ad7b261d2c6d117af",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "05_military_buildings_14",
+      "source_file": "sprites/05_military_buildings/14_small_ww2_airfield_control_tower.png"
+    },
+    {
+      "resource": "native1110/extra/05_military_buildings_15",
+      "sprite_id": 41270,
+      "texture_id": 41269,
+      "canvas": [
+        224,
+        210
+      ],
+      "pixel_sha256": "57eb47019083ac6f22e07a7100a54d4774d828e9f0b59ea6eef4e117b4ac0e03",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "05_military_buildings_15",
+      "source_file": "sprites/05_military_buildings/15_empty_circular_sandbag_antiaircraft_emplacement.png"
+    },
+    {
+      "resource": "native1110/extra/05_military_buildings_16",
+      "sprite_id": 41272,
+      "texture_id": 41271,
+      "canvas": [
+        224,
+        197
+      ],
+      "pixel_sha256": "f58b014c01b7e5a39b68b71cc207f7071cb4a5ac18e682ebd09e8612942f7865",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "05_military_buildings_16",
+      "source_file": "sprites/05_military_buildings/16_compact_fuel_depot_with_three_storage_tanks_as_one_asset.png"
+    },
+    {
+      "resource": "native1110/extra/05_military_buildings_17",
+      "sprite_id": 41274,
+      "texture_id": 41273,
+      "canvas": [
+        224,
+        199
+      ],
+      "pixel_sha256": "5655bb1216e83c7c8cd0cf14b1c9178667db82d24b5aea8dce239d7e2d85eb64",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "05_military_buildings_17",
+      "source_file": "sprites/05_military_buildings/17_small_military_railway_loading_platform.png"
+    },
+    {
+      "resource": "native1110/extra/05_military_buildings_18",
+      "sprite_id": 41276,
+      "texture_id": 41275,
+      "canvas": [
+        224,
+        222
+      ],
+      "pixel_sha256": "f9f2737ba6c4995769bb1ebd6dd1bd8657521ce2eda203a79b199cc76f9f738c",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "05_military_buildings_18",
+      "source_file": "sprites/05_military_buildings/18_short_harbor_pier_with_bollards.png"
+    },
+    {
+      "resource": "native1110/extra/05_military_buildings_19",
+      "sprite_id": 41278,
+      "texture_id": 41277,
+      "canvas": [
+        224,
+        205
+      ],
+      "pixel_sha256": "492e606b728e187804d45d8cceb24bfbbdf8b6e47561cdeafd8553a7e0bd482d",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "05_military_buildings_19",
+      "source_file": "sprites/05_military_buildings/19_ww2_style_radar_station_with_rectangular_antenna_array.png"
+    },
+    {
+      "resource": "native1110/extra/05_military_buildings_20",
+      "sprite_id": 41280,
+      "texture_id": 41279,
+      "canvas": [
+        168,
+        224
+      ],
+      "pixel_sha256": "99c25559747ad2d9ba415cd7b10210485605e2dfc3fd80aaa0e81eac1a3f131b",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "05_military_buildings_20",
+      "source_file": "sprites/05_military_buildings/20_coastal_concrete_watchtower.png"
+    },
+    {
+      "resource": "native1110/extra/05_military_buildings_21",
+      "sprite_id": 41282,
+      "texture_id": 41281,
+      "canvas": [
+        224,
+        198
+      ],
+      "pixel_sha256": "f7f2abbab03da0130ae384d92f81a7c52e1ae8f0b4f31bfec84b1607c2295039",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "05_military_buildings_21",
+      "source_file": "sprites/05_military_buildings/21_concrete_command_bunker_with_antenna.png"
+    },
+    {
+      "resource": "native1110/extra/05_military_buildings_22",
+      "sprite_id": 41284,
+      "texture_id": 41283,
+      "canvas": [
+        224,
+        182
+      ],
+      "pixel_sha256": "ff1273ce18ae0b88fa20dc7ae263faef70796c58b6a1e1d205c505f2075402e3",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "05_military_buildings_22",
+      "source_file": "sprites/05_military_buildings/22_empty_sandbag_mortar_pit.png"
+    },
+    {
+      "resource": "native1110/extra/05_military_buildings_23",
+      "sprite_id": 41286,
+      "texture_id": 41285,
+      "canvas": [
+        224,
+        185
+      ],
+      "pixel_sha256": "f55649e8f4ab431222b448fd240659a762562482a3b4ddd55ae1f0aec646bd1a",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "05_military_buildings_23",
+      "source_file": "sprites/05_military_buildings/23_portable_military_bridge_segment.png"
+    },
+    {
+      "resource": "native1110/extra/05_military_buildings_24",
+      "sprite_id": 41288,
+      "texture_id": 41287,
+      "canvas": [
+        166,
+        224
+      ],
+      "pixel_sha256": "2cee9f6b6a502d60dd259cd95d2b6dfcdfc62fb99f1d8e6e85a2bbb65e343e99",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "05_military_buildings_24",
+      "source_file": "sprites/05_military_buildings/24_stone_military_remembrance_obelisk_with_laurel_wreath.png"
+    },
+    {
+      "resource": "native1110/extra/06_field_gear_effects_01",
+      "sprite_id": 41290,
+      "texture_id": 41289,
+      "canvas": [
+        224,
+        202
+      ],
+      "pixel_sha256": "990211b22dfd8aa06ef558cdb28b8072c8eace9b7fb84dd1eaabaf729865b514",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "06_field_gear_effects_01",
+      "source_file": "sprites/06_field_gear_effects/01_partly_unrolled_paper_field_map_without_writing.png"
+    },
+    {
+      "resource": "native1110/extra/06_field_gear_effects_02",
+      "sprite_id": 41292,
+      "texture_id": 41291,
+      "canvas": [
+        224,
+        191
+      ],
+      "pixel_sha256": "3ae52719a0ffbb81857d43e5e3ab81f6d99a8a6d66f85edfda845888783983e0",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "06_field_gear_effects_02",
+      "source_file": "sprites/06_field_gear_effects/02_sealed_military_orders_envelope_without_writing.png"
+    },
+    {
+      "resource": "native1110/extra/06_field_gear_effects_03",
+      "sprite_id": 41294,
+      "texture_id": 41293,
+      "canvas": [
+        217,
+        224
+      ],
+      "pixel_sha256": "c644639e034aee70b825954ae8f6035087e004c2515f091c6b9322d41aa675c6",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "06_field_gear_effects_03",
+      "source_file": "sprites/06_field_gear_effects/03_two_blank_metal_dog_tags_joined_on_a_chain.png"
+    },
+    {
+      "resource": "native1110/extra/06_field_gear_effects_04",
+      "sprite_id": 41296,
+      "texture_id": 41295,
+      "canvas": [
+        224,
+        174
+      ],
+      "pixel_sha256": "163ba41139b3adb8797734bc9bdf4e276e653e5822732bd6bf7c1d754adf3515",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "06_field_gear_effects_04",
+      "source_file": "sprites/06_field_gear_effects/04_brass_officer_whistle_attached_to_short_cord.png"
+    },
+    {
+      "resource": "native1110/extra/06_field_gear_effects_05",
+      "sprite_id": 41298,
+      "texture_id": 41297,
+      "canvas": [
+        221,
+        207
+      ],
+      "pixel_sha256": "c6e6a1a34c674269fd7be3f4f0922f0dd6591097ccbbabd6ba54d2f2135a040a",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "06_field_gear_effects_05",
+      "source_file": "sprites/06_field_gear_effects/05_compact_signal_flare_pistol_closed_and_unfired.png"
+    },
+    {
+      "resource": "native1110/extra/06_field_gear_effects_06",
+      "sprite_id": 41300,
+      "texture_id": 41299,
+      "canvas": [
+        215,
+        224
+      ],
+      "pixel_sha256": "824c760600514442c55bdb295a4b6defabd1abc6f3954b331212909437ddd80f",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "06_field_gear_effects_06",
+      "source_file": "sprites/06_field_gear_effects/06_folding_metal_oil_lantern.png"
+    },
+    {
+      "resource": "native1110/extra/06_field_gear_effects_07",
+      "sprite_id": 41302,
+      "texture_id": 41301,
+      "canvas": [
+        213,
+        224
+      ],
+      "pixel_sha256": "a70052ba78c0448ac131617fb614a6e671cbce96b28d5263cc1f808499c07cac",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "06_field_gear_effects_07",
+      "source_file": "sprites/06_field_gear_effects/07_ww2_radio_headset_with_microphone.png"
+    },
+    {
+      "resource": "native1110/extra/06_field_gear_effects_08",
+      "sprite_id": 41304,
+      "texture_id": 41303,
+      "canvas": [
+        203,
+        224
+      ],
+      "pixel_sha256": "641825903af5e12b1375b1394cc959b8bc538b7b7ef7f8fc76ba9c3c704e1e99",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "06_field_gear_effects_08",
+      "source_file": "sprites/06_field_gear_effects/08_folding_wooden_map_board_on_stand_with_blank_map.png"
+    },
+    {
+      "resource": "native1110/extra/06_field_gear_effects_09",
+      "sprite_id": 41306,
+      "texture_id": 41305,
+      "canvas": [
+        181,
+        224
+      ],
+      "pixel_sha256": "978f4b52167c40e877686d1c82349d20e7275688e66a2bee30b8b091a7e673ea",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "06_field_gear_effects_09",
+      "source_file": "sprites/06_field_gear_effects/09_black_bellows_field_camera.png"
+    },
+    {
+      "resource": "native1110/extra/06_field_gear_effects_10",
+      "sprite_id": 41308,
+      "texture_id": 41307,
+      "canvas": [
+        224,
+        214
+      ],
+      "pixel_sha256": "745327949cdeab63ac14bb21175c82f0d00e2972989aa47e18bcee1e58ba90e0",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "06_field_gear_effects_10",
+      "source_file": "sprites/06_field_gear_effects/10_brown_leather_military_document_case.png"
+    },
+    {
+      "resource": "native1110/extra/06_field_gear_effects_11",
+      "sprite_id": 41310,
+      "texture_id": 41309,
+      "canvas": [
+        195,
+        224
+      ],
+      "pixel_sha256": "f5c4236d31e71307b8e0e03b538bcf5dff9124f04b9866f7591eafda7ec9cf32",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "06_field_gear_effects_11",
+      "source_file": "sprites/06_field_gear_effects/11_brass_telescope_on_tripod.png"
+    },
+    {
+      "resource": "native1110/extra/06_field_gear_effects_12",
+      "sprite_id": 41312,
+      "texture_id": 41311,
+      "canvas": [
+        224,
+        211
+      ],
+      "pixel_sha256": "4ee07c418648901fc318b5e256ceb168a1890fff5725044a506767b30b93c33a",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "06_field_gear_effects_12",
+      "source_file": "sprites/06_field_gear_effects/12_two_folded_plain_signal_flags_crossed.png"
+    },
+    {
+      "resource": "native1110/extra/06_field_gear_effects_13",
+      "sprite_id": 41314,
+      "texture_id": 41313,
+      "canvas": [
+        224,
+        218
+      ],
+      "pixel_sha256": "c4f70700958abe3671b8fded05fa2214673d62e9632678d549cd940fe114436c",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "06_field_gear_effects_13",
+      "source_file": "sprites/06_field_gear_effects/13_single_soft_gray_smoke_puff.png"
+    },
+    {
+      "resource": "native1110/extra/06_field_gear_effects_14",
+      "sprite_id": 41316,
+      "texture_id": 41315,
+      "canvas": [
+        204,
+        224
+      ],
+      "pixel_sha256": "41c232498a60dbdf2708404e22f130b6b0cecd11f32fdfe70a09737113010c1b",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "06_field_gear_effects_14",
+      "source_file": "sprites/06_field_gear_effects/14_single_rising_dark_charcoal_smoke_plume.png"
+    },
+    {
+      "resource": "native1110/extra/06_field_gear_effects_15",
+      "sprite_id": 41318,
+      "texture_id": 41317,
+      "canvas": [
+        224,
+        168
+      ],
+      "pixel_sha256": "03d7c1583cf8950f6cca9e8c36eea84cce63cd9ab75016c9a2f91f65e3eaa305",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "06_field_gear_effects_15",
+      "source_file": "sprites/06_field_gear_effects/15_single_tan_dust_cloud.png"
+    },
+    {
+      "resource": "native1110/extra/06_field_gear_effects_16",
+      "sprite_id": 41320,
+      "texture_id": 41319,
+      "canvas": [
+        224,
+        185
+      ],
+      "pixel_sha256": "7b342047072e42935e244ebf2ead2040d525724b8d153172ccb12e06e85515a2",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "06_field_gear_effects_16",
+      "source_file": "sprites/06_field_gear_effects/16_small_stylized_yellow_muzzle_flash_pointing_left.png"
+    },
+    {
+      "resource": "native1110/extra/06_field_gear_effects_17",
+      "sprite_id": 41322,
+      "texture_id": 41321,
+      "canvas": [
+        224,
+        186
+      ],
+      "pixel_sha256": "7c38da90d852476ee89d86236b4f4ca5d48d7d3f930403f5c6456a65e43421cc",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "06_field_gear_effects_17",
+      "source_file": "sprites/06_field_gear_effects/17_small_orange_impact_burst_with_a_few_tiny_debris_specks.png"
+    },
+    {
+      "resource": "native1110/extra/06_field_gear_effects_18",
+      "sprite_id": 41324,
+      "texture_id": 41323,
+      "canvas": [
+        218,
+        224
+      ],
+      "pixel_sha256": "b0772b5755cdefc8e2d237d4e7f8f825cffb1631e56477320b5d4674f5968e03",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "06_field_gear_effects_18",
+      "source_file": "sprites/06_field_gear_effects/18_small_blue_white_electrical_spark_burst.png"
+    },
+    {
+      "resource": "native1110/extra/06_field_gear_effects_19",
+      "sprite_id": 41326,
+      "texture_id": 41325,
+      "canvas": [
+        196,
+        224
+      ],
+      "pixel_sha256": "8ee2495a6f4614cca5acdf189edc6a52f83873988d5d12d9d2522d482ad3e4a9",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "06_field_gear_effects_19",
+      "source_file": "sprites/06_field_gear_effects/19_brown_dirt_impact_plume.png"
+    },
+    {
+      "resource": "native1110/extra/06_field_gear_effects_20",
+      "sprite_id": 41328,
+      "texture_id": 41327,
+      "canvas": [
+        224,
+        202
+      ],
+      "pixel_sha256": "ed465923fdf495914d24cdd2d33042df8740e6c61eca0edf06c458f80b422184",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "06_field_gear_effects_20",
+      "source_file": "sprites/06_field_gear_effects/20_single_white_blue_water_splash.png"
+    },
+    {
+      "resource": "native1110/extra/06_field_gear_effects_21",
+      "sprite_id": 41330,
+      "texture_id": 41329,
+      "canvas": [
+        224,
+        208
+      ],
+      "pixel_sha256": "413807c3f1faae59939e60c29ae81fb1edbb0af0c30911b603caf3b7fdcc2227",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "06_field_gear_effects_21",
+      "source_file": "sprites/06_field_gear_effects/21_translucent_circular_propeller_motion_disc.png"
+    },
+    {
+      "resource": "native1110/extra/06_field_gear_effects_22",
+      "sprite_id": 41332,
+      "texture_id": 41331,
+      "canvas": [
+        224,
+        217
+      ],
+      "pixel_sha256": "59f7640bf57cfcf51c545232e06f072e8678914630bb8e34eb162ff9239e6f46",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "06_field_gear_effects_22",
+      "source_file": "sprites/06_field_gear_effects/22_short_curved_white_aircraft_contrail.png"
+    },
+    {
+      "resource": "native1110/extra/06_field_gear_effects_23",
+      "sprite_id": 41334,
+      "texture_id": 41333,
+      "canvas": [
+        224,
+        219
+      ],
+      "pixel_sha256": "37ca0bd6d295054a9300791dc843bebb03e62c3b2a47618a33eefa0e193060ce",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "06_field_gear_effects_23",
+      "source_file": "sprites/06_field_gear_effects/23_pale_yellow_conical_searchlight_beam_with_transparent_soft_edges.png"
+    },
+    {
+      "resource": "native1110/extra/06_field_gear_effects_24",
+      "sprite_id": 41336,
+      "texture_id": 41335,
+      "canvas": [
+        220,
+        224
+      ],
+      "pixel_sha256": "cec64d50565b47fc9701231b34796db880224011a84cf834d031100f80daa1c3",
+      "kind": "supplied-game-illustration",
+      "canonical_id": "06_field_gear_effects_24",
+      "source_file": "sprites/06_field_gear_effects/24_small_orange_flame_and_gray_smoke_as_one_effect.png"
+    }
+  ],
+  "datapack_sha256": "eb1f73748dc5981b39841c0dfd7505edf5d730dbe339e8426c84523f93cbacf5",
+  "data_sha256": "453aa48d22a142e1507d1a500e6766b7f3a17091e46aa40c080b8cb00ff623fc"
+}
