@@ -1,0 +1,1 @@
+package com.chance.bitlifediag;public class NativeMilitaryRenderer {public static void attach(android.content.Context c){}public static android.content.res.AssetManager assets(){return new android.content.res.AssetManager();}public static byte[] uniform(MilitaryBridge.Snapshot s,MilitaryModel.State st){return null;}public static byte[] board(ChessGame c){return null;}}

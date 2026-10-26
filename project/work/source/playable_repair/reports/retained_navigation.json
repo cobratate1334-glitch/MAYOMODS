@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "binary_sha256": "a247afb744f138a242921752c9b5b53d07e9960b301e02a7aaba86362f99d17e",
+  "original_native53_assertions_retained": true,
+  "birth_trait_assertions_retained": true,
+  "intentional_label_change": true,
+  "managed_Unity_APIs_modeled": true,
+  "ART_tested": false,
+  "Unity_rendering_tested": false,
+  "phone_tested": false,
+  "checks": 399,
+  "ASLR_bases": [
+    0,
+    68719476736
+  ]
+}

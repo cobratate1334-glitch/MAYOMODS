@@ -162,5 +162,14 @@
       "path": "project/work/source/native_v47/assets.json",
       "bytes": 35474500
     }
-  ]
+  ],
+  "current_candidate": {
+    "version_code": 1111,
+    "source": "project/work/source/playable_repair",
+    "tracked_files": 144,
+    "tracked_bytes": 14990639,
+    "date_UTC": "2026-10-26",
+    "recovered_payload_counts_above_are_historical": true,
+    "APK_and_private_inputs_excluded": true
+  }
 }

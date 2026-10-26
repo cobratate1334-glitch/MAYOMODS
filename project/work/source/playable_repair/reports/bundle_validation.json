@@ -1,0 +1,1308 @@
+{
+  "passed": true,
+  "authored_assets_sha256": "ebd8bdd19ea8aa991009c6f737877bd771b0d53a03760a72bb1567d167eb4bc0",
+  "changed_text_assets": 23,
+  "preserved_objects": 41314,
+  "replaced_generated_objects": 0,
+  "old_resources_preserved": true,
+  "imported_artwork": [
+    {
+      "resource": "native1111/school/01_school_menu_icons_01",
+      "sprite_id": 41339,
+      "texture_id": 41338,
+      "canvas": [
+        256,
+        256
+      ],
+      "pixel_sha256": "20a58060e27ad672d91820087eb0d0281eb7500ddd6bf15e5915f19865c3dfaa",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "01_school_menu_icons_01",
+      "source_file": "icons/01_exam_paper_with_bold_green_checkmark_and_golden_pencil.png",
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        0,
+        35,
+        258,
+        233
+      ],
+      "source_canvas": [
+        256,
+        232
+      ],
+      "transparent": true,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/01_school_menu_icons_02",
+      "sprite_id": 41341,
+      "texture_id": 41340,
+      "canvas": [
+        256,
+        256
+      ],
+      "pixel_sha256": "aaf3f53544e2dc6dcda8d100d1654d1c1e6ed52b810ed75f0b33aadfcdcce0a0",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "01_school_menu_icons_02",
+      "source_file": "icons/02_blue_exam_countdown_clock_above_open_study_books.png",
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        255,
+        23,
+        255,
+        247
+      ],
+      "source_canvas": [
+        256,
+        248
+      ],
+      "transparent": true,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/01_school_menu_icons_03",
+      "sprite_id": 41343,
+      "texture_id": 41342,
+      "canvas": [
+        256,
+        256
+      ],
+      "pixel_sha256": "9a756f864b2aac55936a48599d808ddaf5261dc87f04ff93c5c8aef0d8abc70f",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "01_school_menu_icons_03",
+      "source_file": "icons/03_school_backpack_beside_an_angry_red_speech_bubble_bullying_event.png",
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        504,
+        24,
+        260,
+        232
+      ],
+      "source_canvas": [
+        256,
+        230
+      ],
+      "transparent": true,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/01_school_menu_icons_04",
+      "sprite_id": 41345,
+      "texture_id": 41344,
+      "canvas": [
+        256,
+        256
+      ],
+      "pixel_sha256": "7e608460bb2194be75ad6d756a7060f416e7304c886f7c923ca45a36fff43559",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "01_school_menu_icons_04",
+      "source_file": "icons/04_two_supportive_hands_beneath_a_blue_protective_shield.png",
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        773,
+        33,
+        225,
+        229
+      ],
+      "source_canvas": [
+        237,
+        241
+      ],
+      "transparent": true,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/01_school_menu_icons_05",
+      "sprite_id": 41347,
+      "texture_id": 41346,
+      "canvas": [
+        256,
+        256
+      ],
+      "pixel_sha256": "6f4ff59706043aa270fc33f8308f902b54e827dbff04509ff4655c43375c4091",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "01_school_menu_icons_05",
+      "source_file": "icons/05_kind_teacher_portrait_with_raised_open_palm_and_small_whistle.png",
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        1009,
+        21,
+        221,
+        256
+      ],
+      "source_canvas": [
+        223,
+        256
+      ],
+      "transparent": true,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/01_school_menu_icons_06",
+      "sprite_id": 41349,
+      "texture_id": 41348,
+      "canvas": [
+        256,
+        256
+      ],
+      "pixel_sha256": "6a302a7026f2f9a6950da89ebdaba289fa9aa38ed17a17b823d60602ba557932",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "01_school_menu_icons_06",
+      "source_file": "icons/06_two_expressive_student_busts_facing_each_other_in_an_argument.png",
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        1236,
+        37,
+        300,
+        223
+      ],
+      "source_canvas": [
+        256,
+        193
+      ],
+      "transparent": true,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/01_school_menu_icons_07",
+      "sprite_id": 41351,
+      "texture_id": 41350,
+      "canvas": [
+        256,
+        256
+      ],
+      "pixel_sha256": "ecf5720a729e96607f3983457decb9dd5aff4a856ba10533595fe22aae241266",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "01_school_menu_icons_07",
+      "source_file": "icons/07_two_smiling_classmates_greeting_each_other.png",
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        0,
+        297,
+        298,
+        232
+      ],
+      "source_canvas": [
+        256,
+        202
+      ],
+      "transparent": true,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/01_school_menu_icons_08",
+      "sprite_id": 41353,
+      "texture_id": 41352,
+      "canvas": [
+        256,
+        256
+      ],
+      "pixel_sha256": "0cd39ffdfe68ce0bcaf1636a8733a74edd9d6d0c6599cbf5ae02c5828de236c7",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "01_school_menu_icons_08",
+      "source_file": "icons/08_report_card_with_colored_progress_bars_and_gold_star_no_text.png",
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        276,
+        280,
+        222,
+        234
+      ],
+      "source_canvas": [
+        234,
+        246
+      ],
+      "transparent": true,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/01_school_menu_icons_09",
+      "sprite_id": 41355,
+      "texture_id": 41354,
+      "canvas": [
+        256,
+        256
+      ],
+      "pixel_sha256": "f2069a4d8af56b96c366113b1ed3708f6103a4c3544734cad9e92b099804db7a",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "01_school_menu_icons_09",
+      "source_file": "icons/09_stack_of_revision_cards_and_a_red_stopwatch.png",
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        492,
+        285,
+        265,
+        228
+      ],
+      "source_canvas": [
+        256,
+        222
+      ],
+      "transparent": true,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/01_school_menu_icons_10",
+      "sprite_id": 41357,
+      "texture_id": 41356,
+      "canvas": [
+        256,
+        256
+      ],
+      "pixel_sha256": "750b0af82945f4ef197148d9790ef864b61e81df1463a7337736787026f2abf9",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "01_school_menu_icons_10",
+      "source_file": "icons/10_colorful_science_fair_volcano_model_with_little_goggles.png",
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        749,
+        272,
+        263,
+        244
+      ],
+      "source_canvas": [
+        256,
+        238
+      ],
+      "transparent": true,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/01_school_menu_icons_11",
+      "sprite_id": 41359,
+      "texture_id": 41358,
+      "canvas": [
+        256,
+        256
+      ],
+      "pixel_sha256": "bd42d1e532030c5b1e0a5553b6179566a27c2273968cc404a5933d4ad54318a4",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "01_school_menu_icons_11",
+      "source_file": "icons/11_book_paintbrush_and_chess_piece_grouped_as_a_school_clubs_icon.png",
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        1001,
+        293,
+        249,
+        232
+      ],
+      "source_canvas": [
+        256,
+        239
+      ],
+      "transparent": true,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/01_school_menu_icons_12",
+      "sprite_id": 41361,
+      "texture_id": 41360,
+      "canvas": [
+        256,
+        256
+      ],
+      "pixel_sha256": "caa9b339b93aa76c38c8edb11041d9218119bc692b5043266d4894e8aca079b3",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "01_school_menu_icons_12",
+      "source_file": "icons/12_gold_reputation_star_surrounded_by_heart_and_speech_bubbles.png",
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        1267,
+        290,
+        251,
+        228
+      ],
+      "source_canvas": [
+        256,
+        234
+      ],
+      "transparent": true,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/01_school_menu_icons_13",
+      "sprite_id": 41363,
+      "texture_id": 41362,
+      "canvas": [
+        256,
+        256
+      ],
+      "pixel_sha256": "ca290f65903f0b83553f716c5fd35e29c3e770d4d5a45c600acae48cc29dd7a1",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "01_school_menu_icons_13",
+      "source_file": "icons/13_blue_and_gold_cheerleading_pompoms.png",
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        0,
+        543,
+        284,
+        212
+      ],
+      "source_canvas": [
+        256,
+        194
+      ],
+      "transparent": true,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/01_school_menu_icons_14",
+      "sprite_id": 41365,
+      "texture_id": 41364,
+      "canvas": [
+        256,
+        256
+      ],
+      "pixel_sha256": "30a0f786580a2019e04fd2dc63cb602434c100ab1855ff23627c5f5f27b7580a",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "01_school_menu_icons_14",
+      "source_file": "icons/14_red_and_blue_cheerleading_megaphone.png",
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        272,
+        528,
+        243,
+        211
+      ],
+      "source_canvas": [
+        255,
+        223
+      ],
+      "transparent": true,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/01_school_menu_icons_15",
+      "sprite_id": 41367,
+      "texture_id": 41366,
+      "canvas": [
+        256,
+        256
+      ],
+      "pixel_sha256": "8c5c53073cc0cd8f9aef9a11988e5a004391b4b46aaf1f95f02140ca4c87d04c",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "01_school_menu_icons_15",
+      "source_file": "icons/15_gleaming_school_championship_trophy_with_laurel.png",
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        507,
+        524,
+        259,
+        229
+      ],
+      "source_canvas": [
+        256,
+        228
+      ],
+      "transparent": true,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/01_school_menu_icons_16",
+      "sprite_id": 41369,
+      "texture_id": 41368,
+      "canvas": [
+        256,
+        256
+      ],
+      "pixel_sha256": "553e0203cab12805ead2b4a2fc42e1b094f4bce50db336b15e6de2b984bade6a",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "01_school_menu_icons_16",
+      "source_file": "icons/16_blue_cheer_bow_above_clean_white_athletic_shoes.png",
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        760,
+        529,
+        249,
+        243
+      ],
+      "source_canvas": [
+        256,
+        250
+      ],
+      "transparent": true,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/01_school_menu_icons_17",
+      "sprite_id": 41371,
+      "texture_id": 41370,
+      "canvas": [
+        256,
+        256
+      ],
+      "pixel_sha256": "742bb3c824a9a3c99d63076b478f4ebe1eb0c00138130e6d9d844939ac34e671",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "01_school_menu_icons_17",
+      "source_file": "icons/17_basketball_beside_blue_gym_bag.png",
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        1007,
+        544,
+        297,
+        209
+      ],
+      "source_canvas": [
+        256,
+        184
+      ],
+      "transparent": true,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/01_school_menu_icons_18",
+      "sprite_id": 41373,
+      "texture_id": 41372,
+      "canvas": [
+        256,
+        256
+      ],
+      "pixel_sha256": "1585231a493a80b7c2da0c4e13c5b95d29e223f0ba8d79c223cd89f0e6e27876",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "01_school_menu_icons_18",
+      "source_file": "icons/18_american_football_and_school_pennant.png",
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        1296,
+        527,
+        229,
+        228
+      ],
+      "source_canvas": [
+        241,
+        240
+      ],
+      "transparent": true,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/01_school_menu_icons_19",
+      "sprite_id": 41375,
+      "texture_id": 41374,
+      "canvas": [
+        256,
+        256
+      ],
+      "pixel_sha256": "6d72a8019cee7e86dc6668b7dbe30b03a313f49f2ca7366480384e83414dbd9d",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "01_school_menu_icons_19",
+      "source_file": "icons/19_black_knight_and_white_rook_chess_pieces.png",
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        14,
+        769,
+        262,
+        221
+      ],
+      "source_canvas": [
+        256,
+        218
+      ],
+      "transparent": true,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/01_school_menu_icons_20",
+      "sprite_id": 41377,
+      "texture_id": 41376,
+      "canvas": [
+        256,
+        256
+      ],
+      "pixel_sha256": "b863d54305c8b91162381e210d1c2a63c328d6085ec911f8390b3bd605a068b6",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "01_school_menu_icons_20",
+      "source_file": "icons/20_bright_artist_palette_with_paintbrush.png",
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        267,
+        753,
+        245,
+        239
+      ],
+      "source_canvas": [
+        256,
+        250
+      ],
+      "transparent": true,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/01_school_menu_icons_21",
+      "sprite_id": 41379,
+      "texture_id": 41378,
+      "canvas": [
+        256,
+        256
+      ],
+      "pixel_sha256": "0702bfe50c7371df1869eb71f3fd8410aea5e3d1d891ba263862b89a0eb5df84",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "01_school_menu_icons_21",
+      "source_file": "icons/21_purple_and_gold_theater_comedy_and_tragedy_masks.png",
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        499,
+        768,
+        259,
+        220
+      ],
+      "source_canvas": [
+        256,
+        219
+      ],
+      "transparent": true,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/01_school_menu_icons_22",
+      "sprite_id": 41381,
+      "texture_id": 41380,
+      "canvas": [
+        256,
+        256
+      ],
+      "pixel_sha256": "efe3e2f7a844443b8c501680810d68aabed96f0ff9876c7041e09a2fa777d544",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "01_school_menu_icons_22",
+      "source_file": "icons/22_violin_with_golden_music_note.png",
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        768,
+        756,
+        225,
+        250
+      ],
+      "source_canvas": [
+        232,
+        256
+      ],
+      "transparent": true,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/01_school_menu_icons_23",
+      "sprite_id": 41383,
+      "texture_id": 41382,
+      "canvas": [
+        256,
+        256
+      ],
+      "pixel_sha256": "c0e1e178e4531cc9229b48438686a9ff815e6cc1c5f26db84c4d793bc9dc2aac",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "01_school_menu_icons_23",
+      "source_file": "icons/23_detention_desk_with_clock_and_a_worried_little_notebook_face.png",
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        990,
+        763,
+        271,
+        234
+      ],
+      "source_canvas": [
+        256,
+        223
+      ],
+      "transparent": true,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/01_school_menu_icons_24",
+      "sprite_id": 41385,
+      "texture_id": 41384,
+      "canvas": [
+        256,
+        256
+      ],
+      "pixel_sha256": "5e96e9c55447d1ebd0b2040c6ad4622ee88b5e301b05ed12282e61c285f4f593",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "01_school_menu_icons_24",
+      "source_file": "icons/24_cheerful_brick_school_entrance_with_clock_and_colorful_pennants.png",
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        1245,
+        752,
+        291,
+        244
+      ],
+      "source_canvas": [
+        256,
+        217
+      ],
+      "transparent": true,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/02_school_events_01",
+      "sprite_id": 41387,
+      "texture_id": 41386,
+      "canvas": [
+        512,
+        256
+      ],
+      "pixel_sha256": "6460f311b213eb7c54dbb9fcc00392ee839430f0c64adb776d7b1b7b07b3f658",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "02_school_events_01",
+      "source_file": "event_pictures/02_school_events/01_a_bully_blocks_the_corridor.png",
+      "source_sheet": "sheets/02_school_events.webp",
+      "source_bbox": [
+        0,
+        0,
+        512,
+        256
+      ],
+      "source_canvas": [
+        512,
+        256
+      ],
+      "transparent": false,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/02_school_events_02",
+      "sprite_id": 41389,
+      "texture_id": 41388,
+      "canvas": [
+        512,
+        256
+      ],
+      "pixel_sha256": "b0b4d556603192bc847e411551e4fcecfacafabd16e361c77fbd9293f348c60b",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "02_school_events_02",
+      "source_file": "event_pictures/02_school_events/02_stand_your_ground_with_a_friend.png",
+      "source_sheet": "sheets/02_school_events.webp",
+      "source_bbox": [
+        512,
+        0,
+        512,
+        256
+      ],
+      "source_canvas": [
+        512,
+        256
+      ],
+      "transparent": false,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/02_school_events_03",
+      "sprite_id": 41391,
+      "texture_id": 41390,
+      "canvas": [
+        512,
+        256
+      ],
+      "pixel_sha256": "a4026fc7fd5916c4f1e0c386110738b26d4a1997816092bfc36ffd2299a5e137",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "02_school_events_03",
+      "source_file": "event_pictures/02_school_events/03_get_a_teacher.png",
+      "source_sheet": "sheets/02_school_events.webp",
+      "source_bbox": [
+        1024,
+        0,
+        512,
+        256
+      ],
+      "source_canvas": [
+        512,
+        256
+      ],
+      "transparent": false,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/02_school_events_04",
+      "sprite_id": 41393,
+      "texture_id": 41392,
+      "canvas": [
+        512,
+        256
+      ],
+      "pixel_sha256": "e10251bf978583578c76e64b5f267bbaca0f1b0cc157c5db57284f117ac8a514",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "02_school_events_04",
+      "source_file": "event_pictures/02_school_events/04_a_crowd_gathers.png",
+      "source_sheet": "sheets/02_school_events.webp",
+      "source_bbox": [
+        0,
+        256,
+        512,
+        256
+      ],
+      "source_canvas": [
+        512,
+        256
+      ],
+      "transparent": false,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/02_school_events_05",
+      "sprite_id": 41395,
+      "texture_id": 41394,
+      "canvas": [
+        512,
+        256
+      ],
+      "pixel_sha256": "cec40adfe3cd28e7a5856c5f06deda8f5b7c007dabb8b103210fc173737ad152",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "02_school_events_05",
+      "source_file": "event_pictures/02_school_events/05_making_amends.png",
+      "source_sheet": "sheets/02_school_events.webp",
+      "source_bbox": [
+        512,
+        256,
+        512,
+        256
+      ],
+      "source_canvas": [
+        512,
+        256
+      ],
+      "transparent": false,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/02_school_events_06",
+      "sprite_id": 41397,
+      "texture_id": 41396,
+      "canvas": [
+        512,
+        256
+      ],
+      "pixel_sha256": "927c8f3bf332d514804702c4a01d769386b39911901ed33c8c82a7d66e82c77c",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "02_school_events_06",
+      "source_file": "event_pictures/02_school_events/06_welcome_a_new_classmate.png",
+      "source_sheet": "sheets/02_school_events.webp",
+      "source_bbox": [
+        1024,
+        256,
+        512,
+        256
+      ],
+      "source_canvas": [
+        512,
+        256
+      ],
+      "transparent": false,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/02_school_events_07",
+      "sprite_id": 41399,
+      "texture_id": 41398,
+      "canvas": [
+        512,
+        256
+      ],
+      "pixel_sha256": "76aa31c0a6b2a12b0055541c7ce047a6885ab514e819428b1bb5421238ed3e41",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "02_school_events_07",
+      "source_file": "event_pictures/02_school_events/07_exam_pressure.png",
+      "source_sheet": "sheets/02_school_events.webp",
+      "source_bbox": [
+        0,
+        512,
+        512,
+        256
+      ],
+      "source_canvas": [
+        512,
+        256
+      ],
+      "transparent": false,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/02_school_events_08",
+      "sprite_id": 41401,
+      "texture_id": 41400,
+      "canvas": [
+        512,
+        256
+      ],
+      "pixel_sha256": "896ec67e429b5f5a6d93389bc757de94589a4de16336f8b252508c06f79a7c73",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "02_school_events_08",
+      "source_file": "event_pictures/02_school_events/08_revision_pays_off.png",
+      "source_sheet": "sheets/02_school_events.webp",
+      "source_bbox": [
+        512,
+        512,
+        512,
+        256
+      ],
+      "source_canvas": [
+        512,
+        256
+      ],
+      "transparent": false,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/02_school_events_09",
+      "sprite_id": 41403,
+      "texture_id": 41402,
+      "canvas": [
+        512,
+        256
+      ],
+      "pixel_sha256": "401807d438f6336dea5117194f87513171b07327046b0ed71b377ee7642bfae1",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "02_school_events_09",
+      "source_file": "event_pictures/02_school_events/09_a_great_result.png",
+      "source_sheet": "sheets/02_school_events.webp",
+      "source_bbox": [
+        1024,
+        512,
+        512,
+        256
+      ],
+      "source_canvas": [
+        512,
+        256
+      ],
+      "transparent": false,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/02_school_events_10",
+      "sprite_id": 41405,
+      "texture_id": 41404,
+      "canvas": [
+        512,
+        256
+      ],
+      "pixel_sha256": "bf2cd7e72c752e73336e4f364445f0956293e3fcc1b510af75b2958dde20afdd",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "02_school_events_10",
+      "source_file": "event_pictures/02_school_events/10_a_disappointing_result.png",
+      "source_sheet": "sheets/02_school_events.webp",
+      "source_bbox": [
+        0,
+        768,
+        512,
+        256
+      ],
+      "source_canvas": [
+        512,
+        256
+      ],
+      "transparent": false,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/02_school_events_11",
+      "sprite_id": 41407,
+      "texture_id": 41406,
+      "canvas": [
+        512,
+        256
+      ],
+      "pixel_sha256": "aae8b6d47feca583b1f0b7c8206de55e82a7c8ccdfdaf4c1b9de76cf0afc8062",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "02_school_events_11",
+      "source_file": "event_pictures/02_school_events/11_school_counselor.png",
+      "source_sheet": "sheets/02_school_events.webp",
+      "source_bbox": [
+        512,
+        768,
+        512,
+        256
+      ],
+      "source_canvas": [
+        512,
+        256
+      ],
+      "transparent": false,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/02_school_events_12",
+      "sprite_id": 41409,
+      "texture_id": 41408,
+      "canvas": [
+        512,
+        256
+      ],
+      "pixel_sha256": "6a976416f16a922b891259b99289d4b20b825c59223b8ac98c56362cd50f66a2",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "02_school_events_12",
+      "source_file": "event_pictures/02_school_events/12_after_school_detention.png",
+      "source_sheet": "sheets/02_school_events.webp",
+      "source_bbox": [
+        1024,
+        768,
+        512,
+        256
+      ],
+      "source_canvas": [
+        512,
+        256
+      ],
+      "transparent": false,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/03_cheer_sports_clubs_01",
+      "sprite_id": 41411,
+      "texture_id": 41410,
+      "canvas": [
+        512,
+        256
+      ],
+      "pixel_sha256": "0f5e3c88f1225be9de84850eb30956f471a842e3b8723e501e2e7a5794f7b5bc",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "03_cheer_sports_clubs_01",
+      "source_file": "event_pictures/03_cheer_sports_clubs/01_cheerleading_tryouts.png",
+      "source_sheet": "sheets/03_cheer_sports_clubs.webp",
+      "source_bbox": [
+        0,
+        0,
+        512,
+        256
+      ],
+      "source_canvas": [
+        512,
+        256
+      ],
+      "transparent": false,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/03_cheer_sports_clubs_02",
+      "sprite_id": 41413,
+      "texture_id": 41412,
+      "canvas": [
+        512,
+        256
+      ],
+      "pixel_sha256": "ecf4a62fbcf9b1b482fb0bfd6327b0a2afa9d297209f4f5567f556987c32724d",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "03_cheer_sports_clubs_02",
+      "source_file": "event_pictures/03_cheer_sports_clubs/02_cheer_squad_practice.png",
+      "source_sheet": "sheets/03_cheer_sports_clubs.webp",
+      "source_bbox": [
+        512,
+        0,
+        512,
+        256
+      ],
+      "source_canvas": [
+        512,
+        256
+      ],
+      "transparent": false,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/03_cheer_sports_clubs_03",
+      "sprite_id": 41415,
+      "texture_id": 41414,
+      "canvas": [
+        512,
+        256
+      ],
+      "pixel_sha256": "e7e3fbc60687f32b383d7b61aa22c0968102262e62da9ab899a4912714268a91",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "03_cheer_sports_clubs_03",
+      "source_file": "event_pictures/03_cheer_sports_clubs/03_cheer_competition_success.png",
+      "source_sheet": "sheets/03_cheer_sports_clubs.webp",
+      "source_bbox": [
+        1024,
+        0,
+        512,
+        256
+      ],
+      "source_canvas": [
+        512,
+        256
+      ],
+      "transparent": false,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/03_cheer_sports_clubs_04",
+      "sprite_id": 41417,
+      "texture_id": 41416,
+      "canvas": [
+        512,
+        256
+      ],
+      "pixel_sha256": "788f797dbfa258bf76f724df1d953d0d20a2b6ab52dbe4a2dda1da56b00f6728",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "03_cheer_sports_clubs_04",
+      "source_file": "event_pictures/03_cheer_sports_clubs/04_the_school_final.png",
+      "source_sheet": "sheets/03_cheer_sports_clubs.webp",
+      "source_bbox": [
+        0,
+        256,
+        512,
+        256
+      ],
+      "source_canvas": [
+        512,
+        256
+      ],
+      "transparent": false,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/03_cheer_sports_clubs_05",
+      "sprite_id": 41419,
+      "texture_id": 41418,
+      "canvas": [
+        512,
+        256
+      ],
+      "pixel_sha256": "a6e1fa3a68b1aa95b13727685d9402ca9764a126ad7046965094dd541b4fc1bf",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "03_cheer_sports_clubs_05",
+      "source_file": "event_pictures/03_cheer_sports_clubs/05_a_hard_loss.png",
+      "source_sheet": "sheets/03_cheer_sports_clubs.webp",
+      "source_bbox": [
+        512,
+        256,
+        512,
+        256
+      ],
+      "source_canvas": [
+        512,
+        256
+      ],
+      "transparent": false,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/03_cheer_sports_clubs_06",
+      "sprite_id": 41421,
+      "texture_id": 41420,
+      "canvas": [
+        512,
+        256
+      ],
+      "pixel_sha256": "996e27c43bd270a81956a9ff4324459e95e0cc03ca42b9563502c9726e3c196f",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "03_cheer_sports_clubs_06",
+      "source_file": "event_pictures/03_cheer_sports_clubs/06_champions.png",
+      "source_sheet": "sheets/03_cheer_sports_clubs.webp",
+      "source_bbox": [
+        1024,
+        256,
+        512,
+        256
+      ],
+      "source_canvas": [
+        512,
+        256
+      ],
+      "transparent": false,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/03_cheer_sports_clubs_07",
+      "sprite_id": 41423,
+      "texture_id": 41422,
+      "canvas": [
+        512,
+        256
+      ],
+      "pixel_sha256": "70101c46b8331b4bf006430a81caff52b43b31cc5c74f6acc57725a3bdf4bcf8",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "03_cheer_sports_clubs_07",
+      "source_file": "event_pictures/03_cheer_sports_clubs/07_school_science_project.png",
+      "source_sheet": "sheets/03_cheer_sports_clubs.webp",
+      "source_bbox": [
+        0,
+        512,
+        512,
+        256
+      ],
+      "source_canvas": [
+        512,
+        256
+      ],
+      "transparent": false,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/03_cheer_sports_clubs_08",
+      "sprite_id": 41425,
+      "texture_id": 41424,
+      "canvas": [
+        512,
+        256
+      ],
+      "pixel_sha256": "85c0b70f0f4f6e061eddb41faffc45d371d8bb17d6489a710b9398521f43dfc0",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "03_cheer_sports_clubs_08",
+      "source_file": "event_pictures/03_cheer_sports_clubs/08_drama_club.png",
+      "source_sheet": "sheets/03_cheer_sports_clubs.webp",
+      "source_bbox": [
+        512,
+        512,
+        512,
+        256
+      ],
+      "source_canvas": [
+        512,
+        256
+      ],
+      "transparent": false,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/03_cheer_sports_clubs_09",
+      "sprite_id": 41427,
+      "texture_id": 41426,
+      "canvas": [
+        512,
+        256
+      ],
+      "pixel_sha256": "f621b5328861aad2075a4dd2f0b694056aefc4fd62da960c88a28d322c5827bb",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "03_cheer_sports_clubs_09",
+      "source_file": "event_pictures/03_cheer_sports_clubs/09_music_club.png",
+      "source_sheet": "sheets/03_cheer_sports_clubs.webp",
+      "source_bbox": [
+        1024,
+        512,
+        512,
+        256
+      ],
+      "source_canvas": [
+        512,
+        256
+      ],
+      "transparent": false,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/03_cheer_sports_clubs_10",
+      "sprite_id": 41429,
+      "texture_id": 41428,
+      "canvas": [
+        512,
+        256
+      ],
+      "pixel_sha256": "18b39f9e03b37222e832c2381c6850f1022d9b0cbe5ee69c54f2c3152fa659b9",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "03_cheer_sports_clubs_10",
+      "source_file": "event_pictures/03_cheer_sports_clubs/10_art_club.png",
+      "source_sheet": "sheets/03_cheer_sports_clubs.webp",
+      "source_bbox": [
+        0,
+        768,
+        512,
+        256
+      ],
+      "source_canvas": [
+        512,
+        256
+      ],
+      "transparent": false,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/03_cheer_sports_clubs_11",
+      "sprite_id": 41431,
+      "texture_id": 41430,
+      "canvas": [
+        512,
+        256
+      ],
+      "pixel_sha256": "fa2e0dfcd12106c6b1da5f21b02b12be53b0b723b29045449d115d3bb07dec5a",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "03_cheer_sports_clubs_11",
+      "source_file": "event_pictures/03_cheer_sports_clubs/11_chess_club.png",
+      "source_sheet": "sheets/03_cheer_sports_clubs.webp",
+      "source_bbox": [
+        512,
+        768,
+        512,
+        256
+      ],
+      "source_canvas": [
+        512,
+        256
+      ],
+      "transparent": false,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    },
+    {
+      "resource": "native1111/school/03_cheer_sports_clubs_12",
+      "sprite_id": 41433,
+      "texture_id": 41432,
+      "canvas": [
+        512,
+        256
+      ],
+      "pixel_sha256": "936d6eb113638074865be5680d63bcb1dd41001528269072ad9d8f818d5052c8",
+      "kind": "supplied-school-illustration",
+      "canonical_id": "03_cheer_sports_clubs_12",
+      "source_file": "event_pictures/03_cheer_sports_clubs/12_end_of_the_school_year.png",
+      "source_sheet": "sheets/03_cheer_sports_clubs.webp",
+      "source_bbox": [
+        1024,
+        768,
+        512,
+        256
+      ],
+      "source_canvas": [
+        512,
+        256
+      ],
+      "transparent": false,
+      "generated": null,
+      "provenance": "User-supplied school pack; not an archive photograph"
+    }
+  ],
+  "datapack_sha256": "536019369d31446d153fc39fae4e72977387b5111b354dab237c469e0dac2bb9",
+  "data_sha256": "1851b80239018243aa8d2c144b952120dbc4e85267e3b2fa4a8995fba026b0d3"
+}

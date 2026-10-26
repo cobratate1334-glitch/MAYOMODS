@@ -1,0 +1,1 @@
+package org.json;public class JSONObject {public JSONObject(String s){throw new RuntimeException("Fixture: index unavailable");}public JSONArray getJSONArray(String k){return null;}public String getString(String k){return "";}}

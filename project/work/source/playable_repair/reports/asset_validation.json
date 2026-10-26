@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "apk_sha256": "39699411944a8d93e7ca1ac9d7a57e1dc494695c1ea776730214861b1035fac3",
+  "new_school_resources": 48,
+  "retained_real_photo_resources": 24,
+  "school_resources_used": 48,
+  "file_identity_and_type_checked": true,
+  "actual_serialized_pixels_checked": true,
+  "phone_GPU_rendering_tested": false
+}

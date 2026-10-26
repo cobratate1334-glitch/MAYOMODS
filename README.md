@@ -1,11 +1,17 @@
 # MayoMods — Codex handover
 
-This is the recovered project source plus a factual handover, prepared on
-25 October 2026. Start with `AGENTS.md` and `CODEX_START_HERE.md`.
+**1111 APK:** <https://gofile.io/d/zD3yF873> (446,953,392 bytes).
+SHA256: `9ca831c2b7dc38121d21050ae757aa4f491f64e5f49594bcf1aef49d42b761e2`.
 
-**Selected baseline: v55. Installation is still unresolved.** The v55a scar and
-eyepatch repair is a candidate with archived checks; the user reported that its
-APK would not install. v56 is retained as reference, not the default next build.
+Current candidate: **1111 — playable repair**. Start with `AGENTS.md`,
+`CODEX_START_HERE.md` and
+[the current repair source](project/work/source/playable_repair/README.md).
+The recovered v55 sources and all prior candidates remain as history.
+
+The new candidate repairs the native fight/menu/parent callers, connects school
+and action flows, imports 48 school images and retains sourced year photographs.
+It preserves the existing package, signer, saves, launcher, Roblox and native
+church. Phone/ART/GPU/real-save acceptance remains open; see the current reports.
 
 ## What is here
 

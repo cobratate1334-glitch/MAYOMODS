@@ -1,14 +1,14 @@
 # Starting task for Codex
 
-Current workstream: candidate **1110**, original Android/Unity game, in
-`project/work/source/connected_life`.
+Current workstream: candidate **1111**, original Android/Unity game, in
+`project/work/source/playable_repair`.
 
 > Continue the existing MayoMods project. Read AGENTS.md, PROJECT_SUMMARY.md,
-> BUGS.md, FEATURES.md, HISTORY.md and connected_life/README.md first. Preserve
+> BUGS.md, FEATURES.md, HISTORY.md and playable_repair/README.md first. Preserve
 > the existing package, signer, save IDs, Roblox website and native church/game.
 > Military stays inside Occupation/Military, with original Unity controls.
 > Verify the source handover with tools/verify_handover.py. Use the exact pinned
-> inputs and reports. Read references/BOUNDARIES.md before touching native APIs;
+> inputs and reports. Read playable_repair/references before touching native APIs;
 > resource IDs are not CSV, GC handles are pointer-sized, and the GI path needs
 > the metadata usage pointer loaded from its slot. Content must be deterministic
 > across independent hash seeds. Uploaded extra sprites have canonical aliases;

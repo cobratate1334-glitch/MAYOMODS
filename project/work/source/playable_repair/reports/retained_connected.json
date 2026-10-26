@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "checks": 84,
+  "binary_sha256": "a247afb744f138a242921752c9b5b53d07e9960b301e02a7aaba86362f99d17e",
+  "old_binary_API_contract_negative_control": true,
+  "typed_native_effects": true,
+  "managed_Unity_calls_modeled": true,
+  "ART_tested": false,
+  "Unity_rendering_tested": false,
+  "phone_tested": false
+}

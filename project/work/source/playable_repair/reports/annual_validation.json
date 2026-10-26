@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "checks": 16,
+  "binary_sha256": "a247afb744f138a242921752c9b5b53d07e9960b301e02a7aaba86362f99d17e",
+  "native_current_occupation_and_age": true,
+  "actual_ARM64": true,
+  "managed_API_doubles": true,
+  "phone_tested": false
+}

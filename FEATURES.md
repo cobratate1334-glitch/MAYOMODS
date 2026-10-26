@@ -1,5 +1,14 @@
 # Requested gameplay systems and design requirements
 
+Current candidate **1111** connects exams, bullies, classmates, clubs, cheer and
+sports practice through the original School Life menu with 48 school resources.
+Heist progress/payout, inmate replies and research field/report decisions are
+connected. World War Service stays in Occupation/Military. Eighteen jobs use
+original native full-time/part-time/freelance loaders; 27 sports plays use current
+attributes and tactics. Contextual text is shorter. Earlier palettes, original
+photo year cards, signer/saves/launcher/Roblox/church remain. Phone acceptance is
+still pending; this is not every historical backlog request implemented.
+
 Active candidate **1110**: real-photo era selection and war scenery; original
 annual historical headlines and draft notices; recruitment inside Occupation;
 actual service, 2–4-year postings/new coworkers and four-year honorable US service

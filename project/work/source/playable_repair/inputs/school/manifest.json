@@ -1,0 +1,825 @@
+{
+  "pack": "MayoMods school life",
+  "asset_count": 48,
+  "icon_count": 24,
+  "event_picture_count": 24,
+  "spritesheet_count": 3,
+  "assets": [
+    {
+      "id": "01_school_menu_icons_01",
+      "file": "icons/01_exam_paper_with_bold_green_checkmark_and_golden_pencil.png",
+      "description": "exam paper with bold green checkmark and golden pencil",
+      "category": "School menu icons",
+      "kind": "icons",
+      "width": 256,
+      "height": 232,
+      "transparent": true,
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        0,
+        35,
+        258,
+        233
+      ]
+    },
+    {
+      "id": "01_school_menu_icons_02",
+      "file": "icons/02_blue_exam_countdown_clock_above_open_study_books.png",
+      "description": "blue exam countdown clock above open study books",
+      "category": "School menu icons",
+      "kind": "icons",
+      "width": 256,
+      "height": 248,
+      "transparent": true,
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        255,
+        23,
+        255,
+        247
+      ]
+    },
+    {
+      "id": "01_school_menu_icons_03",
+      "file": "icons/03_school_backpack_beside_an_angry_red_speech_bubble_bullying_event.png",
+      "description": "school backpack beside an angry red speech bubble, bullying event",
+      "category": "School menu icons",
+      "kind": "icons",
+      "width": 256,
+      "height": 230,
+      "transparent": true,
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        504,
+        24,
+        260,
+        232
+      ]
+    },
+    {
+      "id": "01_school_menu_icons_04",
+      "file": "icons/04_two_supportive_hands_beneath_a_blue_protective_shield.png",
+      "description": "two supportive hands beneath a blue protective shield",
+      "category": "School menu icons",
+      "kind": "icons",
+      "width": 237,
+      "height": 241,
+      "transparent": true,
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        773,
+        33,
+        225,
+        229
+      ]
+    },
+    {
+      "id": "01_school_menu_icons_05",
+      "file": "icons/05_kind_teacher_portrait_with_raised_open_palm_and_small_whistle.png",
+      "description": "kind teacher portrait with raised open palm and small whistle",
+      "category": "School menu icons",
+      "kind": "icons",
+      "width": 223,
+      "height": 256,
+      "transparent": true,
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        1009,
+        21,
+        221,
+        256
+      ]
+    },
+    {
+      "id": "01_school_menu_icons_06",
+      "file": "icons/06_two_expressive_student_busts_facing_each_other_in_an_argument.png",
+      "description": "two expressive student busts facing each other in an argument",
+      "category": "School menu icons",
+      "kind": "icons",
+      "width": 256,
+      "height": 193,
+      "transparent": true,
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        1236,
+        37,
+        300,
+        223
+      ]
+    },
+    {
+      "id": "01_school_menu_icons_07",
+      "file": "icons/07_two_smiling_classmates_greeting_each_other.png",
+      "description": "two smiling classmates greeting each other",
+      "category": "School menu icons",
+      "kind": "icons",
+      "width": 256,
+      "height": 202,
+      "transparent": true,
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        0,
+        297,
+        298,
+        232
+      ]
+    },
+    {
+      "id": "01_school_menu_icons_08",
+      "file": "icons/08_report_card_with_colored_progress_bars_and_gold_star_no_text.png",
+      "description": "report card with colored progress bars and gold star, no text",
+      "category": "School menu icons",
+      "kind": "icons",
+      "width": 234,
+      "height": 246,
+      "transparent": true,
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        276,
+        280,
+        222,
+        234
+      ]
+    },
+    {
+      "id": "01_school_menu_icons_09",
+      "file": "icons/09_stack_of_revision_cards_and_a_red_stopwatch.png",
+      "description": "stack of revision cards and a red stopwatch",
+      "category": "School menu icons",
+      "kind": "icons",
+      "width": 256,
+      "height": 222,
+      "transparent": true,
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        492,
+        285,
+        265,
+        228
+      ]
+    },
+    {
+      "id": "01_school_menu_icons_10",
+      "file": "icons/10_colorful_science_fair_volcano_model_with_little_goggles.png",
+      "description": "colorful science-fair volcano model with little goggles",
+      "category": "School menu icons",
+      "kind": "icons",
+      "width": 256,
+      "height": 238,
+      "transparent": true,
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        749,
+        272,
+        263,
+        244
+      ]
+    },
+    {
+      "id": "01_school_menu_icons_11",
+      "file": "icons/11_book_paintbrush_and_chess_piece_grouped_as_a_school_clubs_icon.png",
+      "description": "book, paintbrush and chess piece grouped as a school-clubs icon",
+      "category": "School menu icons",
+      "kind": "icons",
+      "width": 256,
+      "height": 239,
+      "transparent": true,
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        1001,
+        293,
+        249,
+        232
+      ]
+    },
+    {
+      "id": "01_school_menu_icons_12",
+      "file": "icons/12_gold_reputation_star_surrounded_by_heart_and_speech_bubbles.png",
+      "description": "gold reputation star surrounded by heart and speech bubbles",
+      "category": "School menu icons",
+      "kind": "icons",
+      "width": 256,
+      "height": 234,
+      "transparent": true,
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        1267,
+        290,
+        251,
+        228
+      ]
+    },
+    {
+      "id": "01_school_menu_icons_13",
+      "file": "icons/13_blue_and_gold_cheerleading_pompoms.png",
+      "description": "blue and gold cheerleading pompoms",
+      "category": "School menu icons",
+      "kind": "icons",
+      "width": 256,
+      "height": 194,
+      "transparent": true,
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        0,
+        543,
+        284,
+        212
+      ]
+    },
+    {
+      "id": "01_school_menu_icons_14",
+      "file": "icons/14_red_and_blue_cheerleading_megaphone.png",
+      "description": "red and blue cheerleading megaphone",
+      "category": "School menu icons",
+      "kind": "icons",
+      "width": 255,
+      "height": 223,
+      "transparent": true,
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        272,
+        528,
+        243,
+        211
+      ]
+    },
+    {
+      "id": "01_school_menu_icons_15",
+      "file": "icons/15_gleaming_school_championship_trophy_with_laurel.png",
+      "description": "gleaming school championship trophy with laurel",
+      "category": "School menu icons",
+      "kind": "icons",
+      "width": 256,
+      "height": 228,
+      "transparent": true,
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        507,
+        524,
+        259,
+        229
+      ]
+    },
+    {
+      "id": "01_school_menu_icons_16",
+      "file": "icons/16_blue_cheer_bow_above_clean_white_athletic_shoes.png",
+      "description": "blue cheer bow above clean white athletic shoes",
+      "category": "School menu icons",
+      "kind": "icons",
+      "width": 256,
+      "height": 250,
+      "transparent": true,
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        760,
+        529,
+        249,
+        243
+      ]
+    },
+    {
+      "id": "01_school_menu_icons_17",
+      "file": "icons/17_basketball_beside_blue_gym_bag.png",
+      "description": "basketball beside blue gym bag",
+      "category": "School menu icons",
+      "kind": "icons",
+      "width": 256,
+      "height": 184,
+      "transparent": true,
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        1007,
+        544,
+        297,
+        209
+      ]
+    },
+    {
+      "id": "01_school_menu_icons_18",
+      "file": "icons/18_american_football_and_school_pennant.png",
+      "description": "American football and school pennant",
+      "category": "School menu icons",
+      "kind": "icons",
+      "width": 241,
+      "height": 240,
+      "transparent": true,
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        1296,
+        527,
+        229,
+        228
+      ]
+    },
+    {
+      "id": "01_school_menu_icons_19",
+      "file": "icons/19_black_knight_and_white_rook_chess_pieces.png",
+      "description": "black knight and white rook chess pieces",
+      "category": "School menu icons",
+      "kind": "icons",
+      "width": 256,
+      "height": 218,
+      "transparent": true,
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        14,
+        769,
+        262,
+        221
+      ]
+    },
+    {
+      "id": "01_school_menu_icons_20",
+      "file": "icons/20_bright_artist_palette_with_paintbrush.png",
+      "description": "bright artist palette with paintbrush",
+      "category": "School menu icons",
+      "kind": "icons",
+      "width": 256,
+      "height": 250,
+      "transparent": true,
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        267,
+        753,
+        245,
+        239
+      ]
+    },
+    {
+      "id": "01_school_menu_icons_21",
+      "file": "icons/21_purple_and_gold_theater_comedy_and_tragedy_masks.png",
+      "description": "purple and gold theater comedy and tragedy masks",
+      "category": "School menu icons",
+      "kind": "icons",
+      "width": 256,
+      "height": 219,
+      "transparent": true,
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        499,
+        768,
+        259,
+        220
+      ]
+    },
+    {
+      "id": "01_school_menu_icons_22",
+      "file": "icons/22_violin_with_golden_music_note.png",
+      "description": "violin with golden music note",
+      "category": "School menu icons",
+      "kind": "icons",
+      "width": 232,
+      "height": 256,
+      "transparent": true,
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        768,
+        756,
+        225,
+        250
+      ]
+    },
+    {
+      "id": "01_school_menu_icons_23",
+      "file": "icons/23_detention_desk_with_clock_and_a_worried_little_notebook_face.png",
+      "description": "detention desk with clock and a worried little notebook face",
+      "category": "School menu icons",
+      "kind": "icons",
+      "width": 256,
+      "height": 223,
+      "transparent": true,
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        990,
+        763,
+        271,
+        234
+      ]
+    },
+    {
+      "id": "01_school_menu_icons_24",
+      "file": "icons/24_cheerful_brick_school_entrance_with_clock_and_colorful_pennants.png",
+      "description": "cheerful brick school entrance with clock and colorful pennants",
+      "category": "School menu icons",
+      "kind": "icons",
+      "width": 256,
+      "height": 217,
+      "transparent": true,
+      "source_sheet": "sheets/01_school_menu_icons.webp",
+      "source_bbox": [
+        1245,
+        752,
+        291,
+        244
+      ]
+    },
+    {
+      "id": "02_school_events_01",
+      "file": "event_pictures/02_school_events/01_a_bully_blocks_the_corridor.png",
+      "description": "A bully blocks the corridor: a tense student with a backpack faces a smug classmate standing across a colorful locker hallway; clear facial expressions, no physical contact",
+      "category": "Bullying, friendships and exam event pictures",
+      "kind": "cards",
+      "width": 512,
+      "height": 256,
+      "transparent": false,
+      "source_sheet": "sheets/02_school_events.webp",
+      "source_bbox": [
+        0,
+        0,
+        512,
+        256
+      ]
+    },
+    {
+      "id": "02_school_events_02",
+      "file": "event_pictures/02_school_events/02_stand_your_ground_with_a_friend.png",
+      "description": "Stand your ground with a friend: two students stand shoulder to shoulder confidently facing a rude classmate in a hallway; supportive body language",
+      "category": "Bullying, friendships and exam event pictures",
+      "kind": "cards",
+      "width": 512,
+      "height": 256,
+      "transparent": false,
+      "source_sheet": "sheets/02_school_events.webp",
+      "source_bbox": [
+        512,
+        0,
+        512,
+        256
+      ]
+    },
+    {
+      "id": "02_school_events_03",
+      "file": "event_pictures/02_school_events/03_get_a_teacher.png",
+      "description": "Get a teacher: a worried student explains a problem to an attentive kind teacher holding a clipboard in the school corridor",
+      "category": "Bullying, friendships and exam event pictures",
+      "kind": "cards",
+      "width": 512,
+      "height": 256,
+      "transparent": false,
+      "source_sheet": "sheets/02_school_events.webp",
+      "source_bbox": [
+        1024,
+        0,
+        512,
+        256
+      ]
+    },
+    {
+      "id": "02_school_events_04",
+      "file": "event_pictures/02_school_events/04_a_crowd_gathers.png",
+      "description": "A crowd gathers: two students argue in a schoolyard as nearby classmates react and a teacher steps in; no blows, weapons or injuries",
+      "category": "Bullying, friendships and exam event pictures",
+      "kind": "cards",
+      "width": 512,
+      "height": 256,
+      "transparent": false,
+      "source_sheet": "sheets/02_school_events.webp",
+      "source_bbox": [
+        0,
+        256,
+        512,
+        256
+      ]
+    },
+    {
+      "id": "02_school_events_05",
+      "file": "event_pictures/02_school_events/05_making_amends.png",
+      "description": "Making amends: two classmates offer a sincere handshake and relieved smiles after an argument near classroom doors",
+      "category": "Bullying, friendships and exam event pictures",
+      "kind": "cards",
+      "width": 512,
+      "height": 256,
+      "transparent": false,
+      "source_sheet": "sheets/02_school_events.webp",
+      "source_bbox": [
+        512,
+        256,
+        512,
+        256
+      ]
+    },
+    {
+      "id": "02_school_events_06",
+      "file": "event_pictures/02_school_events/06_welcome_a_new_classmate.png",
+      "description": "Welcome a new classmate: friendly students invite a shy newcomer to sit at their lunch table, warm expressive faces",
+      "category": "Bullying, friendships and exam event pictures",
+      "kind": "cards",
+      "width": 512,
+      "height": 256,
+      "transparent": false,
+      "source_sheet": "sheets/02_school_events.webp",
+      "source_bbox": [
+        1024,
+        256,
+        512,
+        256
+      ]
+    },
+    {
+      "id": "02_school_events_07",
+      "file": "event_pictures/02_school_events/07_exam_pressure.png",
+      "description": "Exam pressure: close view of a nervous student at a school desk holding a pencil over an exam paper, clock and other desks in the background",
+      "category": "Bullying, friendships and exam event pictures",
+      "kind": "cards",
+      "width": 512,
+      "height": 256,
+      "transparent": false,
+      "source_sheet": "sheets/02_school_events.webp",
+      "source_bbox": [
+        0,
+        512,
+        512,
+        256
+      ]
+    },
+    {
+      "id": "02_school_events_08",
+      "file": "event_pictures/02_school_events/08_revision_pays_off.png",
+      "description": "Revision pays off: two focused students study together with colorful notebooks and revision cards by a sunny classroom window",
+      "category": "Bullying, friendships and exam event pictures",
+      "kind": "cards",
+      "width": 512,
+      "height": 256,
+      "transparent": false,
+      "source_sheet": "sheets/02_school_events.webp",
+      "source_bbox": [
+        512,
+        512,
+        512,
+        256
+      ]
+    },
+    {
+      "id": "02_school_events_09",
+      "file": "event_pictures/02_school_events/09_a_great_result.png",
+      "description": "A great result: a delighted student holds up a marked exam paper showing a big green checkmark as the teacher smiles",
+      "category": "Bullying, friendships and exam event pictures",
+      "kind": "cards",
+      "width": 512,
+      "height": 256,
+      "transparent": false,
+      "source_sheet": "sheets/02_school_events.webp",
+      "source_bbox": [
+        1024,
+        512,
+        512,
+        256
+      ]
+    },
+    {
+      "id": "02_school_events_10",
+      "file": "event_pictures/02_school_events/10_a_disappointing_result.png",
+      "description": "A disappointing result: a discouraged student looks at a paper with a red cross mark while a supportive friend listens beside them",
+      "category": "Bullying, friendships and exam event pictures",
+      "kind": "cards",
+      "width": 512,
+      "height": 256,
+      "transparent": false,
+      "source_sheet": "sheets/02_school_events.webp",
+      "source_bbox": [
+        0,
+        768,
+        512,
+        256
+      ]
+    },
+    {
+      "id": "02_school_events_11",
+      "file": "event_pictures/02_school_events/11_school_counselor.png",
+      "description": "School counselor: a student has a calm supportive conversation with a kind counselor in a bright welcoming office",
+      "category": "Bullying, friendships and exam event pictures",
+      "kind": "cards",
+      "width": 512,
+      "height": 256,
+      "transparent": false,
+      "source_sheet": "sheets/02_school_events.webp",
+      "source_bbox": [
+        512,
+        768,
+        512,
+        256
+      ]
+    },
+    {
+      "id": "02_school_events_12",
+      "file": "event_pictures/02_school_events/12_after_school_detention.png",
+      "description": "After-school detention: a thoughtful student sits at a desk in a quiet classroom with a clock and warm afternoon light",
+      "category": "Bullying, friendships and exam event pictures",
+      "kind": "cards",
+      "width": 512,
+      "height": 256,
+      "transparent": false,
+      "source_sheet": "sheets/02_school_events.webp",
+      "source_bbox": [
+        1024,
+        768,
+        512,
+        256
+      ]
+    },
+    {
+      "id": "03_cheer_sports_clubs_01",
+      "file": "event_pictures/03_cheer_sports_clubs/01_cheerleading_tryouts.png",
+      "description": "Cheerleading tryouts: energetic students with blue and gold pompoms perform a simple standing cheer in a school gym while a coach watches with a clipboard",
+      "category": "Cheerleading, sports and school club pictures",
+      "kind": "cards",
+      "width": 512,
+      "height": 256,
+      "transparent": false,
+      "source_sheet": "sheets/03_cheer_sports_clubs.webp",
+      "source_bbox": [
+        0,
+        0,
+        512,
+        256
+      ]
+    },
+    {
+      "id": "03_cheer_sports_clubs_02",
+      "file": "event_pictures/03_cheer_sports_clubs/02_cheer_squad_practice.png",
+      "description": "Cheer squad practice: a small mixed team rehearses coordinated grounded arm poses and footwork, lively smiles and colorful gym background",
+      "category": "Cheerleading, sports and school club pictures",
+      "kind": "cards",
+      "width": 512,
+      "height": 256,
+      "transparent": false,
+      "source_sheet": "sheets/03_cheer_sports_clubs.webp",
+      "source_bbox": [
+        512,
+        0,
+        512,
+        256
+      ]
+    },
+    {
+      "id": "03_cheer_sports_clubs_03",
+      "file": "event_pictures/03_cheer_sports_clubs/03_cheer_competition_success.png",
+      "description": "Cheer competition success: proud school cheer team celebrates with raised pompoms, bright confetti and gym bleachers",
+      "category": "Cheerleading, sports and school club pictures",
+      "kind": "cards",
+      "width": 512,
+      "height": 256,
+      "transparent": false,
+      "source_sheet": "sheets/03_cheer_sports_clubs.webp",
+      "source_bbox": [
+        1024,
+        0,
+        512,
+        256
+      ]
+    },
+    {
+      "id": "03_cheer_sports_clubs_04",
+      "file": "event_pictures/03_cheer_sports_clubs/04_the_school_final.png",
+      "description": "The school final: an energetic school football match, focus on a determined student passing the ball toward a teammate, sunny school playing field",
+      "category": "Cheerleading, sports and school club pictures",
+      "kind": "cards",
+      "width": 512,
+      "height": 256,
+      "transparent": false,
+      "source_sheet": "sheets/03_cheer_sports_clubs.webp",
+      "source_bbox": [
+        0,
+        256,
+        512,
+        256
+      ]
+    },
+    {
+      "id": "03_cheer_sports_clubs_05",
+      "file": "event_pictures/03_cheer_sports_clubs/05_a_hard_loss.png",
+      "description": "A hard loss: team captain comforts a disappointed teammate on the sidelines after a school final, supportive teammates nearby",
+      "category": "Cheerleading, sports and school club pictures",
+      "kind": "cards",
+      "width": 512,
+      "height": 256,
+      "transparent": false,
+      "source_sheet": "sheets/03_cheer_sports_clubs.webp",
+      "source_bbox": [
+        512,
+        256,
+        512,
+        256
+      ]
+    },
+    {
+      "id": "03_cheer_sports_clubs_06",
+      "file": "event_pictures/03_cheer_sports_clubs/06_champions.png",
+      "description": "Champions: jubilant students lift a gold trophy together after winning a school sports final, colorful pennants and confetti",
+      "category": "Cheerleading, sports and school club pictures",
+      "kind": "cards",
+      "width": 512,
+      "height": 256,
+      "transparent": false,
+      "source_sheet": "sheets/03_cheer_sports_clubs.webp",
+      "source_bbox": [
+        1024,
+        256,
+        512,
+        256
+      ]
+    },
+    {
+      "id": "03_cheer_sports_clubs_07",
+      "file": "event_pictures/03_cheer_sports_clubs/07_school_science_project.png",
+      "description": "School science project: three classmates work together on a colorful tabletop model volcano and experiment display in a classroom",
+      "category": "Cheerleading, sports and school club pictures",
+      "kind": "cards",
+      "width": 512,
+      "height": 256,
+      "transparent": false,
+      "source_sheet": "sheets/03_cheer_sports_clubs.webp",
+      "source_bbox": [
+        0,
+        512,
+        512,
+        256
+      ]
+    },
+    {
+      "id": "03_cheer_sports_clubs_08",
+      "file": "event_pictures/03_cheer_sports_clubs/08_drama_club.png",
+      "description": "Drama club: students in modest full theater costumes perform an expressive scene on a small stage with red curtains",
+      "category": "Cheerleading, sports and school club pictures",
+      "kind": "cards",
+      "width": 512,
+      "height": 256,
+      "transparent": false,
+      "source_sheet": "sheets/03_cheer_sports_clubs.webp",
+      "source_bbox": [
+        512,
+        512,
+        512,
+        256
+      ]
+    },
+    {
+      "id": "03_cheer_sports_clubs_09",
+      "file": "event_pictures/03_cheer_sports_clubs/09_music_club.png",
+      "description": "Music club: cheerful student ensemble rehearses with violin, trumpet and guitar in a colorful music room",
+      "category": "Cheerleading, sports and school club pictures",
+      "kind": "cards",
+      "width": 512,
+      "height": 256,
+      "transparent": false,
+      "source_sheet": "sheets/03_cheer_sports_clubs.webp",
+      "source_bbox": [
+        1024,
+        512,
+        512,
+        256
+      ]
+    },
+    {
+      "id": "03_cheer_sports_clubs_10",
+      "file": "event_pictures/03_cheer_sports_clubs/10_art_club.png",
+      "description": "Art club: two creative students paint a colorful collaborative mural or large canvas with bright paints in a school art room",
+      "category": "Cheerleading, sports and school club pictures",
+      "kind": "cards",
+      "width": 512,
+      "height": 256,
+      "transparent": false,
+      "source_sheet": "sheets/03_cheer_sports_clubs.webp",
+      "source_bbox": [
+        0,
+        768,
+        512,
+        256
+      ]
+    },
+    {
+      "id": "03_cheer_sports_clubs_11",
+      "file": "event_pictures/03_cheer_sports_clubs/11_chess_club.png",
+      "description": "Chess club: two focused students sit across a chessboard at a school club table, thoughtful expressive faces and attentive friend",
+      "category": "Cheerleading, sports and school club pictures",
+      "kind": "cards",
+      "width": 512,
+      "height": 256,
+      "transparent": false,
+      "source_sheet": "sheets/03_cheer_sports_clubs.webp",
+      "source_bbox": [
+        512,
+        768,
+        512,
+        256
+      ]
+    },
+    {
+      "id": "03_cheer_sports_clubs_12",
+      "file": "event_pictures/03_cheer_sports_clubs/12_end_of_the_school_year.png",
+      "description": "End of the school year: delighted graduates in navy caps and gowns hold diplomas while classmates celebrate outside the school",
+      "category": "Cheerleading, sports and school club pictures",
+      "kind": "cards",
+      "width": 512,
+      "height": 256,
+      "transparent": false,
+      "source_sheet": "sheets/03_cheer_sports_clubs.webp",
+      "source_bbox": [
+        1024,
+        768,
+        512,
+        256
+      ]
+    }
+  ]
+}

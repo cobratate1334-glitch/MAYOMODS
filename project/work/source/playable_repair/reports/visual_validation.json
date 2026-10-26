@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "checks": 28,
+  "binary_sha256": "a247afb744f138a242921752c9b5b53d07e9960b301e02a7aaba86362f99d17e",
+  "aslr_biases": [
+    0,
+    68719476736
+  ],
+  "original_big_image_consumer_executed": true,
+  "actual_candybutton_image_receiver_executed": true,
+  "typed_resource_negative_control": true,
+  "authored_military_image_tag": "<GFC.life_rework.MImage1109>",
+  "authored_military_image_consumer_executed": true,
+  "Unity_GPU_rendering_tested": false,
+  "phone_tested": false
+}

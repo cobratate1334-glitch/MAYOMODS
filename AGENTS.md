@@ -1,5 +1,27 @@
 # Instructions for Codex — MayoMods
 
+Active candidate is **1111**, `project/work/source/playable_repair`.
+Read its README, REQUESTS and references before historical release notes. Owner
+phone reports invalidate the old "modeled pass means fixed" assumption. Original
+Unity UI remains mandatory; only Roblox is a website. GetNextScenario receives
+x0=Blueprint BEFORE ConditionSelected: caller x19/x21 are not ApplyOperation's
+locals. Parent menu x20 is overwritten with a ListItem: bind the real SimParent
+at the audited earlier producer. Authored parent lists defer through the original
+AcceptChoice/RemoveAlert boundary; a real queued Scenario always takes priority.
+GC handles are pointer-sized. Raw BigImage GFC tags resolve at the actual typed
+Sprite/Texture2D APIs; the real military field is MImage1109. Canonical school IDs
+and old photo/resource IDs must survive. Earlier war palettes remain; the rejected
+journal photo overlay is disabled. One physical CSV record, deterministic sorted
+continuations and impossible manual annual Filters remain required. Current real
+student/peer, military occupation/country/campaign, earned payout and native job
+loaders are authoritative. Preserve save keys, package/signer, JNI ABI, launcher
+preferences, Roblox and native church. Phone/GPU/ART/real-save acceptance and the
+older black portrait/loading reports remain OPEN. Native/managed API doubles are
+not a phone. APK-only external upload and source publication remain authorized.
+Keep keys, APKs, raw diagnostics and host credentials out of Git.
+
+Historical active blocks below document prior candidates.
+
 Active candidate is **1110**, `project/work/source/connected_life`.
 Read its README, REQUESTS and references/BOUNDARIES first. Original Unity UI is
 mandatory; only Roblox uses a website. Annual news/call-ups use original annual

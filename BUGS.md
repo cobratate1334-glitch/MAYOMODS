@@ -1,5 +1,14 @@
 # Known bugs and verification gaps
 
+1111 reproduces the reported fight dead end with the actual Blueprint caller
+registers and fixes it. The parent caller overwrote x20; the actual SimParent is
+now captured earlier. Authored menu returns wait until original alert removal.
+Raw news/military image tags use the actual typed image consumers. Heist aborted
+loot and duplicate preparation/payout paths are guarded. Current native student
+state guards school notices. Country/campaign service rules and peacetime soldier
+adoption are checked. Modeled/native checks pass, but phone rendering, animation,
+installation, real saves, black portraits and stuck loading remain OPEN.
+
 **1110 repair — 26 October 2026.** The missing war/news issue is reproduced on
 1109: a resource ID reaches the native CSV loader. The same strict native test
 fails 1109 and passes the resource-loader repair. Separate original annual queues

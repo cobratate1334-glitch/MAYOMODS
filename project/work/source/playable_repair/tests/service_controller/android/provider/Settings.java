@@ -1,0 +1,1 @@
+package android.provider;public class Settings {public static class Global {public static float getFloat(Object c,String key,float f){return f;}}}

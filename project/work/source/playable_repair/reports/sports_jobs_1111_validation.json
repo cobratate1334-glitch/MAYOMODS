@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "checks": 2420,
+  "original_careers": 216,
+  "added_full_time": 6,
+  "added_part_time": 6,
+  "added_freelance": 6,
+  "contextual_plays": 27,
+  "choice_feedback": 81,
+  "native_data_and_route_model_tested": true,
+  "native_icon_test": "separate ARM64 check",
+  "phone_tested": false
+}

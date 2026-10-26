@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "checks": 1768,
+  "original_binary_sha256": "b51941598e1ff3c14a7e4eaa315de9778ed7740248da40681010da99773214fa",
+  "assembled_binary_sha256": "5b5eaf76f00778a680de863c47cde0ce718d92b997205cf71465da40d014ad6a",
+  "arm64_instructions_executed": true,
+  "relocation_biases": [
+    0,
+    68719476736
+  ],
+  "managed_string_allocation_modeled": true,
+  "phone_tested": false
+}

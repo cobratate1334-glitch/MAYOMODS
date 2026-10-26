@@ -1,0 +1,1 @@
+package android.content; public class Context {public Context getApplicationContext(){return this;}public SharedPreferences getSharedPreferences(String s,int n){return new SharedPreferences();}public Object getContentResolver(){return null;}}

@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "checks": 168,
+  "host_JVM": true,
+  "candidate_DEX_classes_executed": true,
+  "JNI_and_graphics_modeled": true,
+  "ART_tested": false,
+  "dex_sha256": "5a3ec377e8dc897f4c803041f710e03e116b4e62e162fa4623f6e34b8dafa7be",
+  "phone_tested": false
+}

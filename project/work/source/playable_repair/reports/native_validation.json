@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "checks": 124,
+  "binary_sha256": "a247afb744f138a242921752c9b5b53d07e9960b301e02a7aaba86362f99d17e",
+  "boundaries": [
+    "structure_validation",
+    "fight_validation",
+    "annual_validation",
+    "visual_validation",
+    "family_full_report",
+    "navigation_validation"
+  ],
+  "old_binary_negative_controls": true,
+  "managed_Unity_APIs_modeled": true,
+  "ART_tested": false,
+  "Unity_rendering_tested": false,
+  "phone_tested": false
+}

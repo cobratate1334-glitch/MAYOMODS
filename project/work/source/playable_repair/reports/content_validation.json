@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "checks": 66434,
+  "authored_assets_sha256": "ebd8bdd19ea8aa991009c6f737877bd771b0d53a03760a72bb1567d167eb4bc0",
+  "changed_text_assets": 23,
+  "physical_native_records": true,
+  "reference_closure": true,
+  "phone_tested": false
+}

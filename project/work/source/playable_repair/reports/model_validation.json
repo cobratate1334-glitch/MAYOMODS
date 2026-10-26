@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "checks": 76,
+  "dex_sha256": "5a3ec377e8dc897f4c803041f710e03e116b4e62e162fa4623f6e34b8dafa7be",
+  "candidate_compiled_class_files_executed": true,
+  "host_JVM": true,
+  "ART_tested": false,
+  "phone_tested": false
+}

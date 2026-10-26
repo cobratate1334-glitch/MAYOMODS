@@ -1,5 +1,19 @@
 # Transfer this project to Codex
 
+**1111 APK:** <https://gofile.io/d/zD3yF873> (446,953,392 bytes).
+SHA256: `9ca831c2b7dc38121d21050ae757aa4f491f64e5f49594bcf1aef49d42b761e2`.
+
+Current candidate **1111** is in
+[playable_repair](project/work/source/playable_repair/README.md). It repairs actual
+native fight/menu/parent caller contracts, uses the 48 supplied school images,
+restores earlier war palettes, connects school/heist/prison/research actions,
+adds 18 original-engine jobs and linked sports practice, and fixes country-aware
+World War Service training and campaign entry. Existing IDs/signing/stock systems
+remain. Current release metadata is in `playable_repair/reports/delivery.json`.
+Phone/ART/GPU/real-save and black portrait/loading acceptance remain OPEN.
+
+The following 1110 details are historical.
+
 Candidate **1110** connects eras, recruitment and life events through the original game interface.
 [Source, reproduction, photo credits and limits](project/work/source/connected_life/README.md).
 Download: <https://gofile.io/d/uA3y2KVy> (441,396,748 bytes).

@@ -1,5 +1,17 @@
 # Important history and decisions
 
+## Candidate 1111 — actual native callers and playable flows, 26 October 2026
+
+The owner supplied 1110 diagnostics, six phone screenshots and 48 school assets.
+Actual native-caller audits found errors missed by old standalone tests: fight
+GetNextScenario read ApplyOperation registers; the parent closure local had been
+overwritten; parent lists opened before the original alert cleanup. Fixed the
+real boundaries and added failing 1110 controls. School/action and sports/job
+flows now have linked choices and saved consequences. Strict image tests include
+actual authored MImage1109, Sprite/Texture2D and CandyButton consumers. The prior
+war palettes are restored; real photos remain on year cards/news. Same signer,
+package and IDs; no Android military website/window. Phone/ART/GPU remain open.
+
 ## Candidate 1110 — connected native life/eras, 26 October 2026
 
 The owner supplied another 144 military sprites and rejected generated era art,

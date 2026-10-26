@@ -1,0 +1,1 @@
+package com.chance.bitlifediag;public class RuntimeLogCapture {public static void failure(String s,Throwable e){throw new AssertionError(s,e);}}

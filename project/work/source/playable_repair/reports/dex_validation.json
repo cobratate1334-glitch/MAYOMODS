@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "binary_sha256": "5a3ec377e8dc897f4c803041f710e03e116b4e62e162fa4623f6e34b8dafa7be",
+  "preserved_classes": 151,
+  "changed_families": [
+    "MilitaryModel",
+    "NativeMilitary"
+  ],
+  "smali_roundtrip": true,
+  "min_api": 25,
+  "ART_tested": false
+}
