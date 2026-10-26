@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "checks": 76,
+  "binary_sha256": "5fd14e577a2527e9d8722aa3358885f8c6bd171c21083ebb03cb08dd64f8f48f",
+  "managed_APIs_modeled": true,
+  "ART_tested": false,
+  "Unity_rendering_tested": false,
+  "phone_tested": false,
+  "original_boundary_assertions_retained": true,
+  "divorce_producer": "actual GetNextScenario entry; x0 Blueprint; caller-owned x19/x21"
+}

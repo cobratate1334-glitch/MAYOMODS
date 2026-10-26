@@ -1,5 +1,15 @@
 # Requested gameplay systems and design requirements
 
+Current candidate **1112** is a repair of the device-reported failures, not a
+new expansion. It repairs shared popup/menu lifecycle, current team/prison gates,
+inmate replies, selected relationship story text, basketball page routes and
+existing interview feedback. It removes the duplicate School Life and unwanted
+root entries. World War Service shows its dates and is disabled outside them.
+Eight sourced photographs and proportional native image sizes correct the
+reported news art. Existing native fights, military, saves, signer, launcher,
+Roblox and church remain. New feature requests are paused by the latest note.
+Phone acceptance remains open. See `device_repair/README.md` under source.
+
 Current candidate **1111** connects exams, bullies, classmates, clubs, cheer and
 sports practice through the original School Life menu with 48 school resources.
 Heist progress/payout, inmate replies and research field/report decisions are

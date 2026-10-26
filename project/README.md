@@ -1,3 +1,9 @@
+# Current candidate: 1112
+
+[Device report repairs](work/source/device_repair/README.md). Existing game and source history are preserved.
+Phone acceptance remains open. Older notes below are historical. Private signing
+material, APKs and raw evidence are excluded from this source handover.
+
 # MayoMods v52
 
 Repairs and expands the released v51 ARM64 build of BitLife 3.25. The final APK

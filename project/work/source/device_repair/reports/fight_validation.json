@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "checks": 24,
+  "binary_sha256": "5fd14e577a2527e9d8722aa3358885f8c6bd171c21083ebb03cb08dd64f8f48f",
+  "actual_SetupCondition_call_instructions": true,
+  "actual_Blueprint_argument": true,
+  "old_binary_negative_control": true,
+  "managed_API_doubles": true,
+  "phone_tested": false
+}

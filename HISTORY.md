@@ -1,5 +1,27 @@
 # Important history and decisions
 
+## Candidate 1112 — device report repairs, 27 October 2026 (Adelaide)
+
+**1112 APK:** <https://gofile.io/d/bSXnGWn9> (456,808,948 bytes).
+SHA256: `6429d137a3cb20bc1e552d5b1248b9ba986d7617a84781bb706eaa586de9fcbf`.
+
+Reviewed five recordings, 20 screenshots and the Samsung note from the new
+transfer. Its final instruction pauses features. Old crash reports in the bundle
+were distinguished from current video evidence. Repairs unify the original menu
+APIs, wait beyond deferred Unity destruction, queue inmate replies in the actual
+NextScenario field and refresh current state at owned menu/CSV boundaries.
+Concrete story text, parent entry schemas, middle-school team checks and missing
+legacy page/contact closures are repaired. Duplicate/unwanted root menus are
+removed. War dates gate service; original fights/military and prior palettes
+remain. Owned images keep their ratio and eight contextual real photos replace
+mismatched news art. DEX/JNI, package, signer and save keys stay unchanged.
+
+Twelve focused native test cases and retained fight/family/annual/life/appearance/
+website suites pass using explicit managed/Unity doubles. Package signature,
+Android parsing, byte preservation and serialized art checks pass. These results
+do not establish phone, ART, GPU or real-save acceptance; portrait/loading remain
+open. Source, provenance and reproduction are under `device_repair`.
+
 ## Candidate 1111 — actual native callers and playable flows, 26 October 2026
 
 The owner supplied 1110 diagnostics, six phone screenshots and 48 school assets.

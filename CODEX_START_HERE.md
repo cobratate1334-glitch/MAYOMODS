@@ -1,5 +1,13 @@
 # Starting task for Codex
 
+Current workstream: **1112**, `project/work/source/device_repair`. Read its README,
+DEVICE_FINDINGS and root AGENTS first. New features are paused by the device note.
+One-argument list routing and deferred Unity object destruction are repaired;
+NextScenario, not an ignored choice return value, queues feedback. Preserve the
+existing signer, package, saves, original UI, DEX/JNI, launcher, Roblox and church.
+Keep private evidence and host credentials out of source. Phone acceptance and
+portrait/loading remain open. Earlier task blocks below are historical.
+
 Current workstream: candidate **1111**, original Android/Unity game, in
 `project/work/source/playable_repair`.
 

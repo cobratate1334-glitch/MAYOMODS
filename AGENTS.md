@@ -1,5 +1,24 @@
 # Instructions for Codex — MayoMods
 
+Active candidate is **1112**, `project/work/source/device_repair`.
+The new device note explicitly pauses new features until existing bugs are fixed.
+Read its README and DEVICE_FINDINGS before older claims. One-argument ShowList
+bypasses the four-argument API; preserve its actual defaults when unifying it.
+Original AcceptChoice ignores the virtual choice's x0 return: queue the reply in
+Scenario.NextScenario +0x128. CurrentCard becoming NULL precedes Unity's deferred
+Object.Destroy; wait on the rooted actual old GameObject, not a timer or pointer
+alone. Actual queued Scenarios win. GC handles are uintptr-sized; life/age guards
+prevent stale parent returns during annual events. MIDDLE school enum is 101.
+Owned BigImage dimensions change only at the original constructor; stock images
+and portrait/cache pixels remain untouched. Keep real photo credits and all
+canonical old resources. No DEX/JNI/launcher/signing/save migration in this repair.
+The old black portrait/stuck-loading and phone/ART/GPU/real-save acceptance remain
+OPEN. Original Unity UI remains mandatory; only Roblox uses a website. Source
+publication and APK-only external upload remain authorized. No keys, APKs, raw
+diagnostics, recordings, notes or host tokens in Git.
+
+Earlier active blocks below are historical.
+
 Active candidate is **1111**, `project/work/source/playable_repair`.
 Read its README, REQUESTS and references before historical release notes. Owner
 phone reports invalidate the old "modeled pass means fixed" assumption. Original

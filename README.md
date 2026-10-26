@@ -1,5 +1,19 @@
 # MayoMods — Codex handover
 
+**1112 APK:** <https://gofile.io/d/bSXnGWn9> (456,808,948 bytes).
+SHA256: `6429d137a3cb20bc1e552d5b1248b9ba986d7617a84781bb706eaa586de9fcbf`.
+
+Current candidate **1112** is in
+[device_repair](project/work/source/device_repair/README.md). The new device note
+pauses features. Repairs cover shared popup/menu handoff, current prison/team
+gates, selected story text, missing replies/page definitions, duplicate root
+entries, wartime date checks and distorted/unrelated pictures. Existing native
+fights/military, launcher, signer/package/saves, Roblox and church remain.
+Phone/ART/GPU/real-save, black portraits and stuck loading remain OPEN.
+Public release metadata: `device_repair/reports/delivery.json` under source.
+
+Earlier candidate blocks below are historical.
+
 **1111 APK:** <https://gofile.io/d/zD3yF873> (446,953,392 bytes).
 SHA256: `9ca831c2b7dc38121d21050ae757aa4f491f64e5f49594bcf1aef49d42b761e2`.
 

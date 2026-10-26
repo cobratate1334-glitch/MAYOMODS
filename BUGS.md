@@ -1,5 +1,22 @@
 # Known bugs and verification gaps
 
+**1112 device repair — 27 October 2026 (Adelaide).** Five phone recordings,
+20 screenshots and a Samsung note invalidate the prior broad button-success
+claims. The prior peer-support test asserted an x0 return the actual UI ignores;
+it now tests the real NextScenario field and fails on delivered 1111. One-argument
+menu opens now enter shared context/navigation hooks. Parent returns wait for the
+actual old Unity GameObject's destruction. Current native prison/team snapshots,
+concrete relationship story text, valid parent entry schemas, missing contact
+profiles, middle-school basketball and legacy build-page closure are repaired.
+Duplicate/irrelevant root entries are removed. World-war dates gate the native
+entry. Owned images preserve aspect; contextual real photos replace mismatched
+news art. Native/model/content/package checks pass; phone touch/animation, ART,
+real saves, black portraits, stuck loading and final gameplay remain OPEN.
+See `project/work/source/device_repair/references/DEVICE_FINDINGS.md`.
+
+Earlier entries are historical, including the incorrect assertion that merely
+returning a new Scenario guarantees a peer-support reply.
+
 1111 reproduces the reported fight dead end with the actual Blueprint caller
 registers and fixes it. The parent caller overwrote x20; the actual SimParent is
 now captured earlier. Authored menu returns wait until original alert removal.

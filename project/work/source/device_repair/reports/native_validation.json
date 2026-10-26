@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "binary_sha256": "5fd14e577a2527e9d8722aa3358885f8c6bd171c21083ebb03cb08dd64f8f48f",
+  "checks": 102,
+  "unit_test_cases": 12,
+  "existing_native_caller_assertions": 90,
+  "original_AcceptChoice_both_tails": true,
+  "Unity_deferred_destruction_modeled": true,
+  "actual_NextScenario_setter_executed": true,
+  "delivered_1111_peer_negative_control": true,
+  "selected_story_pure_tag_API_double": true,
+  "original_image_constructor_argument_boundary": true,
+  "ASLR_bases": [
+    0,
+    68719476736
+  ],
+  "ART_tested": false,
+  "Unity_rendering_tested": false,
+  "phone_tested": false
+}
