@@ -1,0 +1,28 @@
+{
+  "candidate": 1106,
+  "scope": "Repair owner-reported 1105 crashes and navigation; restore 1104 launcher; connect meaningful native school, crew and wartime outcomes",
+  "regression_priorities": [
+    "empty period vehicle pools blocking school and age-up",
+    "Fight Club typed-list crash",
+    "live selected-relative age",
+    "native Continue feedback and parent navigation",
+    "annual loader raw filters",
+    "country/year missions and draft",
+    "compact profile and context headings"
+  ],
+  "private_inputs": [
+    "owner diagnostics ZIPs",
+    "exact delivered 1105 APK",
+    "existing development signing identity"
+  ],
+  "upload_authorized": "APK only; keys and host tokens private",
+  "device_acceptance": "pending",
+  "limits": [
+    "No Android ART or Unity graphics run here",
+    "No promise that every stock game button is bug free",
+    "War command is a saved alternate-history simulation, not a replacement of native elections or country borders",
+    "Missions use native scenarios and the original minefield, not a 3D shooter",
+    "Historical flags depend on native header flag aliases; phone rendering needs confirmation",
+    "Existing portrait recovery retained; phone black portrait report remains open"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "candidate_reported_native": 1105,
+  "native_sha256": "be725b184b5dd37a57d0418133691adc8d6b2b0d0dbc2117cbd47b2344d01cb8",
+  "source_bundles": [
+    "MayoMods_1104_diagnostics.zip",
+    "more crashes.zip"
+  ],
+  "raw_diagnostics_published": false,
+  "device": "Samsung SM-A366B, Android 16 API 36",
+  "installed_full_APK_identity_verified": false,
+  "findings": [
+    {
+      "symptom": "school, age-up and parser exceptions",
+      "evidence": "repeated ArgumentOutOfRangeException: ArrayList.get_Item -> DataHub.GetRandomCarModel -> BracketParser.PrepareParser; also reached from school/career list construction",
+      "repair": "empty weighted pool fallback before indexing"
+    },
+    {
+      "symptom": "Fight Club post-tutorial native crash",
+      "evidence": "current native SIGSEGV stack reaches old life_rework_inside_original_fight_gym injector; typed List passed to ArrayList injector",
+      "repair": "restore original gym epilogue; keep training entry on ordinary menu"
+    },
+    {
+      "symptom": "raw GFC identifiers in war popup",
+      "evidence": "owner screenshot and native single-pass saved-string expansion",
+      "repair": "bounded pure saved-tag passes"
+    },
+    {
+      "symptom": "father age mismatch",
+      "evidence": "owner screenshot native father 61 vs story 33; model stale field regression",
+      "repair": "finalize live selected person and dedicated story fields"
+    }
+  ],
+  "old_crashes": "Older tombstones and previous Java crash records are retained in private input only; not all represent this installed native.",
+  "device_acceptance": "open"
+}

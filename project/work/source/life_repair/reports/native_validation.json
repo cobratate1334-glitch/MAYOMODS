@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "checks": 54,
+  "binary_sha256": "9f0d16e80b356142530250559e8e301d904be09163b2c312bb434fc3f7eec762",
+  "supplied_base_sha256": "be725b184b5dd37a57d0418133691adc8d6b2b0d0dbc2117cbd47b2344d01cb8",
+  "negative_control_typed_fight_list": true,
+  "managed_APIs_modeled": true,
+  "phone_tested": false,
+  "ART_tested": false,
+  "Unity_rendering_tested": false
+}

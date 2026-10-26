@@ -1,5 +1,31 @@
 # Known bugs and verification gaps
 
+Candidate **1106** addresses the newest supplied diagnostic bundles, which
+identify the exact 1105 native library. Full installed-APK hash/signer is unknown.
+Repeated empty car-pool indexing exceptions reach the parser, age-up, school and
+career lists. The new fallback avoids indexing an empty pool and preserves all
+nonempty behavior. The current Fight Club SIGSEGV reaches a hook passing a typed
+list to an ArrayList injector; the hook is removed and a strict negative-control
+regression reproduces the old invalid receiver. Both repairs still need phone
+acceptance after the original tutorial and through real school entry.
+
+Selected-person story fields now use the live age/name; a 61-versus-stale-33 test
+passes. Nested saved text is expanded before display. Research rejections use
+separate result IDs. Manual annual continuations have a real impossible Filter:
+the native yearly loader ignores IsAgeUpScenario when selecting raw CSV rows.
+War news and call-ups now have explicit continuation order rather than competing
+with school in the same annual lottery. Source/evidence:
+`project/work/source/life_repair/references` and `reports`.
+
+PORTRAIT-006 and stuck age-up loading remain OPEN for phone acceptance. Retained
+recovery code and modeled tests are not Unity rendering or Android ART proof.
+No claim is made that every stock button, unknown NPC history, historical border,
+clinical trait or stock era event has been completely simulated. The restored
+diagnostics exporter retains its old suggested filename; inspect the new
+native_symbols build/version 1106 for the actual candidate identity.
+
+Earlier candidate bug notes below are historical.
+
 Candidate **1105** follows the owner's confirmed stuck age-up loading box.
 The concrete 1104 defect was passing a resource name to a CSV-consuming
 scenario API during simulation. 1105 prepares state and registers annual queue

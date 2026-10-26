@@ -1,5 +1,19 @@
 # Instructions for Codex — MayoMods
 
+Current owner repair is candidate **1106**, `project/work/source/life_repair`.
+Read its README, diagnostic findings and reports first. The two new supplied
+ZIPs identify 1105 native code. Empty period vehicle pools break school/age-up;
+a typed Fight Club list was passed to an ArrayList-only injector. Both have
+native repairs with modeled boundary tests, including an old-binary negative
+control. Restore the 1104 launcher, retain the original game/signer/save IDs and
+Roblox website. School combat uses the original punch/kick scenario. Church,
+crew and wartime flows stay native. Raw GFC text, selected-relative age, results
+and annual event filtering are repaired. Exact limits are in the new README;
+phone acceptance, black portraits and stuck loading remain OPEN. Broad source
+work and APK-only external upload are already authorized. Never publish keys,
+raw diagnostics, APKs or host account tokens. Older candidate notes below are
+historical snapshots; this block defines the active workstream.
+
 Current owner follow-up is candidate **1105**, `project/work/source/life_followup`.
 Read its README and reports before older release notes. Church must stay in
 native menus; only Roblox uses the website. User confirmed the age-up loading

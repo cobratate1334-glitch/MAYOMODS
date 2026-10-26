@@ -1,5 +1,21 @@
 # Transfer this project to Codex
 
+Active repair: **1106**, `project/work/source/life_repair`.
+Read its README, reports and sanitized diagnostic findings before old notes.
+The delivered APK and temporary link are recorded in
+`evidence/life_repair_1106_verification.json` and
+`evidence/life_repair_1106_delivery.json`. The new native input identity is 1105;
+the older ZIP/export label is not authoritative. Reuse the existing signer and
+preserve saves, native menus, Roblox website and stable serialized IDs.
+
+Phone acceptance is still OPEN for real school entry, Fight Club after tutorial,
+Continue navigation, portraits/loading, historical flags, sound, save/reload and
+installation. Do not promote modeled ARM64/Genesis API checks to device success.
+Command is an alternate-history saved model; native death/minefield/call-up are
+real original-game handoffs. Broad edits and APK-only external upload remain
+authorized. Keys, raw diagnostic ZIPs, APKs and host tokens remain private.
+Older transfer snapshots below are historical.
+
 Active follow-up: **1105**, `project/work/source/life_followup`.
 Read its README, root current notes and `evidence/life_followup_1105_verification.json`.
 The user confirmed loading stays stuck, requested native Church, and rejected

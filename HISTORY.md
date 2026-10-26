@@ -1,5 +1,24 @@
 # Important history and decisions
 
+## Candidate 1106 — supplied crash repairs, 26 October 2026 UTC
+
+The owner rejected the 1105 launcher and supplied two diagnostic ZIPs. Both
+identify 1105 native code despite an older suggested ZIP filename. Repeated
+empty vehicle-pool exceptions explain shared school/parser/age-up failures;
+the current fighting crash reaches a typed-list/ArrayList injector mismatch.
+Restored the 1104 launcher, repaired those native boundaries, finalized actual
+relative story fields, expanded nested saved text, simplified profiles and
+connected contextual results. Added varied school cases using original combat,
+one meaningful crew hub and country/year wartime mission/command flows.
+Audited raw annual selection and removed the misleading assumption that an
+IsAgeUpScenario=false column excludes a CSV row from yearly selection.
+
+Signed 1106 with the retained development identity. APK SHA-256:
+`e1129a0fd36e338e303940d58ded5d1a0732e29916315f159d1cdf4e3754a130`. Download: <https://gofile.io/d/eMCZSolp>.
+Reports distinguish actual package/bundle/signature checks from modeled native
+APIs and content logic. Phone acceptance remains open; raw inputs and keys stay
+private. Source and precise feature limits are under `life_repair`.
+
 ## Candidate 1105 — owner life follow-up, 25 October 2026 UTC
 
 The owner clarified Church should use native game popups and confirmed annual

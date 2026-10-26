@@ -1,5 +1,27 @@
 # Requested gameplay systems and design requirements
 
+Active candidate **1106** follows the owner's latest repair request. The
+previous launcher is restored; selected-relative stories and profiles are
+simplified. School stories add eighteen age-specific cases and original native
+punch/kick combat with the existing popularity change. One Heists & crew hub
+contains membership, preparation, missions, splits, crew reactions and leaving.
+Research and prison actions show feedback; a broader transaction audit adds
+receipts and contextual headings.
+
+Country/year war news, call-ups, original playable minefields, three-position
+trench/aircraft exercises, injury/native death, period equipment, propaganda
+context, intelligence and historical headlines are connected to saved state.
+A separate alternate-history command record uses production, budget, readiness,
+logistics and country-specific fronts. It does not replace all native presidents,
+elections, borders or diplomatic AI. Historical flags, eight activity icons and
+original synthetic effects are offline assets. Existing Roblox, church, genetics,
+ancestry, sports, music, prison and marriage work is retained.
+
+See [the 1106 README](project/work/source/life_repair/README.md) for exact effects,
+provenance, test counts and remaining limits. All features need phone acceptance;
+no bug-free/all-buttons certification is claimed. Earlier entries below are
+historical snapshots.
+
 Active candidate **1105** implements the owner follow-up in native game menus,
 except for the retained Roblox website. See [its README](project/work/source/life_followup/README.md)
 for concrete effects and remaining scope. Added annual war notices/call-ups,

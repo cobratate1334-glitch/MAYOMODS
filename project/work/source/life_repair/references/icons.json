@@ -1,0 +1,58 @@
+[
+  {
+    "name": "art",
+    "url": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f3a8.svg",
+    "sha256": "236f87cf38405432478a58b369400f8d7ce55ffd2c248a4721d1fccb53f8b347",
+    "license": "CC-BY-4.0",
+    "creator": "Twitter, Inc. and other contributors"
+  },
+  {
+    "name": "pet",
+    "url": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f439.svg",
+    "sha256": "de2c5a5ca1be8fa8f768efee6b1ced41e7c6152671a207d58f077a24ecfa0cb3",
+    "license": "CC-BY-4.0",
+    "creator": "Twitter, Inc. and other contributors"
+  },
+  {
+    "name": "microphone",
+    "url": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f3a4.svg",
+    "sha256": "8435a7c9462d723e4a7ee598bf0525393b078204da122ee8631524f70b3e47dd",
+    "license": "CC-BY-4.0",
+    "creator": "Twitter, Inc. and other contributors"
+  },
+  {
+    "name": "school",
+    "url": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f3eb.svg",
+    "sha256": "301e89109c866e3d4d8f8f015d78efe7acc6b48ab16c6216c98554bc5c620335",
+    "license": "CC-BY-4.0",
+    "creator": "Twitter, Inc. and other contributors"
+  },
+  {
+    "name": "trench",
+    "url": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1fa96.svg",
+    "sha256": "b2408b2519385b0e597cbbe678204880ba487d04eeae5ac02350c28fb6a32b23",
+    "license": "CC-BY-4.0",
+    "creator": "Twitter, Inc. and other contributors"
+  },
+  {
+    "name": "aircraft",
+    "url": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f6e9.svg",
+    "sha256": "6233b3f2cad1de148476ce620049d3d33603f6bf4b4957054e8b366fd3bdd2ae",
+    "license": "CC-BY-4.0",
+    "creator": "Twitter, Inc. and other contributors"
+  },
+  {
+    "name": "crew",
+    "url": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f465.svg",
+    "sha256": "fdc5aaaaa1495e82adf38b35e07212aaa69094f6ff11488edd700f1ec68fd010",
+    "license": "CC-BY-4.0",
+    "creator": "Twitter, Inc. and other contributors"
+  },
+  {
+    "name": "storm",
+    "url": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f32a.svg",
+    "sha256": "f6272b47508f235f96e7d7b8fdd5e89d34a5abff07d462320b5f4f4509587eb0",
+    "license": "CC-BY-4.0",
+    "creator": "Twitter, Inc. and other contributors"
+  }
+]

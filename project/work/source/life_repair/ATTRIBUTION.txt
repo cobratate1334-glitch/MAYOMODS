@@ -1,0 +1,15 @@
+Historical national flags: Wikimedia Commons. Source file names and retrieval
+URLs are recorded in the source release references/flags.json. These flags are
+used in their historical context. The Japanese rising-sun design is identified
+as a naval ensign; the national flag is shown separately.
+
+Eight activity icons: Twemoji graphics, Copyright Twitter, Inc. and other
+contributors, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+Source: https://github.com/twitter/twemoji/tree/master/assets/svg
+Artwork was rasterized for the game's native icon sizes. Icon filenames and
+source URLs are recorded in references/icons.json in the source release.
+
+Battle audio: original procedurally generated game effects by this project;
+these are not recordings of historical weapons. Source: life_repair/audio.py.
+
+The existing game's assets and original mod credits are retained.

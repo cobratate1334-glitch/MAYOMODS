@@ -1,0 +1,291 @@
+{
+  "passed": true,
+  "authored_assets_sha256": "11af1baaf3cf218ab29ad1517705f4c04542abb3078fdf4c14780646edf9ecc2",
+  "changed_text_assets": 31,
+  "preserved_objects": 40448,
+  "old_resources_preserved": true,
+  "imported_artwork": [
+    {
+      "resource": "mayomods1106/flags/de_nazi",
+      "sprite_id": 40481,
+      "texture_id": 40480,
+      "canvas": [
+        400,
+        240
+      ],
+      "pixel_sha256": "baa4fa639d706044a6110a1b9f668ddc5e129629a819fab80ce58c485a3d3e29"
+    },
+    {
+      "resource": "mayomods1106/flags/de_imperial",
+      "sprite_id": 40483,
+      "texture_id": 40482,
+      "canvas": [
+        400,
+        267
+      ],
+      "pixel_sha256": "752a71ad00a8c2e0d489f5a98833ffd1764bc1b980573d0ce65f12a9ad02aa84"
+    },
+    {
+      "resource": "mayomods1106/flags/jp_naval",
+      "sprite_id": 40485,
+      "texture_id": 40484,
+      "canvas": [
+        400,
+        267
+      ],
+      "pixel_sha256": "3417eff47ab82fa0c0e3360492f73f89cc4d077d5ec646da13686bfcaea73e2c"
+    },
+    {
+      "resource": "mayomods1106/flags/jp",
+      "sprite_id": 40487,
+      "texture_id": 40486,
+      "canvas": [
+        400,
+        267
+      ],
+      "pixel_sha256": "2abd72c6102c0323709b4a1ae932d62e5a8ab3e8f24abd556cda727c79a1dc54"
+    },
+    {
+      "resource": "mayomods1106/flags/it_royal",
+      "sprite_id": 40489,
+      "texture_id": 40488,
+      "canvas": [
+        400,
+        267
+      ],
+      "pixel_sha256": "e220ce00227ffc7350f7d74143e3d46db185a747935bedb42f19be9893298514"
+    },
+    {
+      "resource": "mayomods1106/flags/us48",
+      "sprite_id": 40491,
+      "texture_id": 40490,
+      "canvas": [
+        400,
+        211
+      ],
+      "pixel_sha256": "bc5438cca43bf4d896563dd03700f54ff2d46f2ffd097ab231488a38c2fcca1f"
+    },
+    {
+      "resource": "mayomods1106/flags/uk",
+      "sprite_id": 40493,
+      "texture_id": 40492,
+      "canvas": [
+        400,
+        200
+      ],
+      "pixel_sha256": "a445af676ba676014683f36bbff682c208a23b6e6b3bbefad2cf95347a6c980e"
+    },
+    {
+      "resource": "mayomods1106/flags/fr",
+      "sprite_id": 40495,
+      "texture_id": 40494,
+      "canvas": [
+        400,
+        267
+      ],
+      "pixel_sha256": "a391b461630678e580b0b236d8d868aff3d320b7dd684cece27b1acc5da6be91"
+    },
+    {
+      "resource": "mayomods1106/flags/ru_imperial",
+      "sprite_id": 40497,
+      "texture_id": 40496,
+      "canvas": [
+        400,
+        267
+      ],
+      "pixel_sha256": "a48c1433fdaccd8ecbace88dbcaafe9c2dd8b0be8e826b62776725584ac4bfb6"
+    },
+    {
+      "resource": "mayomods1106/flags/ussr",
+      "sprite_id": 40499,
+      "texture_id": 40498,
+      "canvas": [
+        400,
+        200
+      ],
+      "pixel_sha256": "92dacb33e5a09c6760eed04d20f1fa5169c675726e94366ddd5d8df6c9338d75"
+    },
+    {
+      "resource": "mayomods1106/inlineflags/de_nazi",
+      "sprite_id": 40501,
+      "texture_id": 40500,
+      "canvas": [
+        128,
+        128
+      ],
+      "pixel_sha256": "dc431617342f0125fb259a9c1e98b325b65c0d238b654d445b6b6ceee2e3e337"
+    },
+    {
+      "resource": "mayomods1106/inlineflags/de_imperial",
+      "sprite_id": 40503,
+      "texture_id": 40502,
+      "canvas": [
+        128,
+        128
+      ],
+      "pixel_sha256": "95a6da2271b0d5cb16cc9efd501d2c20f93e37fb839a8b4fd48cd7528d729ef2"
+    },
+    {
+      "resource": "mayomods1106/inlineflags/jp_naval",
+      "sprite_id": 40505,
+      "texture_id": 40504,
+      "canvas": [
+        128,
+        128
+      ],
+      "pixel_sha256": "cf77c33a3a7fbde392e9398fa8624fbd4dbe8baf31f5ef91084d108ee1b78d4f"
+    },
+    {
+      "resource": "mayomods1106/inlineflags/jp",
+      "sprite_id": 40507,
+      "texture_id": 40506,
+      "canvas": [
+        128,
+        128
+      ],
+      "pixel_sha256": "b3c8a6afc6e077590932bb4deb12cc9870149f54ad58ef7bdee655109aa3aa49"
+    },
+    {
+      "resource": "mayomods1106/inlineflags/it_royal",
+      "sprite_id": 40509,
+      "texture_id": 40508,
+      "canvas": [
+        128,
+        128
+      ],
+      "pixel_sha256": "9b5845f9c50ae917a126c99d92a16d1727d70ff0b62cd3412cc10007b1f38725"
+    },
+    {
+      "resource": "mayomods1106/inlineflags/us48",
+      "sprite_id": 40511,
+      "texture_id": 40510,
+      "canvas": [
+        128,
+        128
+      ],
+      "pixel_sha256": "786029fbd6e9c488dc5303b3780dd9edd4be7829bc1634764c9e210314b588ee"
+    },
+    {
+      "resource": "mayomods1106/inlineflags/uk",
+      "sprite_id": 40513,
+      "texture_id": 40512,
+      "canvas": [
+        128,
+        128
+      ],
+      "pixel_sha256": "3a9f189683d30a16850df135fa548a96e23a7946ace9752a4bb3bcd7b8df4756"
+    },
+    {
+      "resource": "mayomods1106/inlineflags/fr",
+      "sprite_id": 40515,
+      "texture_id": 40514,
+      "canvas": [
+        128,
+        128
+      ],
+      "pixel_sha256": "b1294b43c2057f685fd3ae9f0c91684c3df4f638f810741e9e296c21ab501d8c"
+    },
+    {
+      "resource": "mayomods1106/inlineflags/ru_imperial",
+      "sprite_id": 40517,
+      "texture_id": 40516,
+      "canvas": [
+        128,
+        128
+      ],
+      "pixel_sha256": "f9e545d62472154de2f3e60ceb2156780a28445eecccf09f6e93c20722a4ceb8"
+    },
+    {
+      "resource": "mayomods1106/inlineflags/ussr",
+      "sprite_id": 40519,
+      "texture_id": 40518,
+      "canvas": [
+        128,
+        128
+      ],
+      "pixel_sha256": "ecf4553f73c5222b3e3aa056f388c7eace02ec683fb4234fff436e0770c340bc"
+    },
+    {
+      "resource": "emoji/normal/scene1106-art",
+      "sprite_id": 40521,
+      "texture_id": 40520,
+      "canvas": [
+        128,
+        128
+      ],
+      "pixel_sha256": "842ca8a0b4eaa9f95858238e53ac77bab47b44939f9bb4e610c1ae2650d7f7d4"
+    },
+    {
+      "resource": "emoji/normal/scene1106-pet",
+      "sprite_id": 40523,
+      "texture_id": 40522,
+      "canvas": [
+        128,
+        128
+      ],
+      "pixel_sha256": "4fa49ea7bfbaff1bc9edd9b57f74d4d972fd42d1f1f1d2f2ad88984a9daafd65"
+    },
+    {
+      "resource": "emoji/normal/scene1106-microphone",
+      "sprite_id": 40525,
+      "texture_id": 40524,
+      "canvas": [
+        128,
+        128
+      ],
+      "pixel_sha256": "9f1d0a2fa501f1a4e07f9e6083e65558ca700259209677749824af4d9d330719"
+    },
+    {
+      "resource": "emoji/normal/scene1106-school",
+      "sprite_id": 40527,
+      "texture_id": 40526,
+      "canvas": [
+        128,
+        128
+      ],
+      "pixel_sha256": "1a574551af131bb84d238fe6532b316c78258d98f8c365b4a95aaab15afa5319"
+    },
+    {
+      "resource": "emoji/normal/scene1106-trench",
+      "sprite_id": 40529,
+      "texture_id": 40528,
+      "canvas": [
+        128,
+        128
+      ],
+      "pixel_sha256": "56d5005d274bd17cd8b27d0509efdf7c4646dd67a808946a00a0feec815b57ac"
+    },
+    {
+      "resource": "emoji/normal/scene1106-aircraft",
+      "sprite_id": 40531,
+      "texture_id": 40530,
+      "canvas": [
+        128,
+        128
+      ],
+      "pixel_sha256": "cfae0dbcb7d711dd09792f7ff3c812104532b238dff1f7101190f74752260f41"
+    },
+    {
+      "resource": "emoji/normal/scene1106-crew",
+      "sprite_id": 40533,
+      "texture_id": 40532,
+      "canvas": [
+        128,
+        128
+      ],
+      "pixel_sha256": "17d2d70caf54c3948445022bab625bce3f52b7decc5fb30c404b607a65f08f7c"
+    },
+    {
+      "resource": "emoji/normal/scene1106-storm",
+      "sprite_id": 40535,
+      "texture_id": 40534,
+      "canvas": [
+        128,
+        128
+      ],
+      "pixel_sha256": "18b56889b9339e08a4b76927ac099bf81919d2049a61d57e2fea7ee731043d3a"
+    }
+  ],
+  "datapack_sha256": "55910742c4f90432d79dbe4a4bc50d1bf657f20ed3428019a2d599d61897cb90",
+  "data_sha256": "16b99bdf1daff7ecd41b171f1db868e4fb64e704b76eab5f9bcc684d1d46a22a"
+}

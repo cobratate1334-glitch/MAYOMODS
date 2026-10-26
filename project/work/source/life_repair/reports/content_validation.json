@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "checks": 23815,
+  "scenarios": 731,
+  "authored_assets_sha256": "11af1baaf3cf218ab29ad1517705f4c04542abb3078fdf4c14780646edf9ecc2",
+  "Genesis_API_modeled": true,
+  "phone_tested": false
+}

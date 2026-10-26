@@ -1,0 +1,23 @@
+{
+  "staged": true,
+  "signed": false,
+  "base_sha256": "cdff6bc415263e4ebd37c1180949096f5391fc3cbd0fda2149f5152f55b62fde",
+  "apk_sha256": "0b88cc711b8ff1f8db5b79c1731ed363848196804d3fb57f0a2f5440a5129a14",
+  "native_sha256": "9f0d16e80b356142530250559e8e301d904be09163b2c312bb434fc3f7eec762",
+  "modified_entries": [
+    "AndroidManifest.xml",
+    "assets/bin/Data/data.unity3d",
+    "assets/bin/Data/datapack.unity3d",
+    "assets/mayomods54/native_symbols.json",
+    "classes13.dex",
+    "lib/arm64-v8a/libil2cpp.so"
+  ],
+  "added_entries": [
+    "assets/mayomods1106/ATTRIBUTION.txt",
+    "assets/mayomods1106/sfx/airraid.wav",
+    "assets/mayomods1106/sfx/artillery.wav",
+    "assets/mayomods1106/sfx/rifle.wav"
+  ],
+  "version_code": 1106,
+  "phone_tested": false
+}

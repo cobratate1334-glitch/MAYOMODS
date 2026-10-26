@@ -1,5 +1,23 @@
 # MayoMods project handover
 
+Candidate **1106** is the active repair. Source, reproduction and limits:
+[life_repair/README.md](project/work/source/life_repair/README.md).
+The supplied native crash identity matches 1105. Repairs target empty period
+vehicle pools breaking school/age-up and the incompatible typed Fight Club
+injection. The previous launcher is restored. Native school combat, varied
+school stories, contextual results, consolidated crew jobs, compact profiles,
+live relative ages, war missions/command and historical artwork are connected.
+War news leads into call-ups and school follow-ups through explicit routes.
+
+Download: <https://gofile.io/d/eMCZSolp> (380,847,819 bytes), version code 1106.
+APK SHA-256: `e1129a0fd36e338e303940d58ded5d1a0732e29916315f159d1cdf4e3754a130`.
+The existing development signer is retained. Signature/native-binding, package,
+CRC/alignment, content, bundle and modeled ARM64 checks passed. Actual phone
+rendering, installation, all-button behavior, portrait recovery and spinner
+acceptance remain pending. The new README distinguishes native military/death
+handoffs from the added alternate-history command simulation. Earlier snapshots
+below are retained as history.
+
 Candidate **1105** is the active follow-up. Source and exact limits:
 [life_followup/README.md](project/work/source/life_followup/README.md).
 The age-up annual hook now uses the normal engine queue; Church is native;
