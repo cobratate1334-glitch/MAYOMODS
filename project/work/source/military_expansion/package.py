@@ -1,4 +1,4 @@
-"""Pinned 1105 -> 1108 build. Preserve old resource and package identities."""
+"""Pinned 1107 -> 1108 build. Preserve old resource and package identities."""
 import copy,hashlib,io,json,struct,sys,zipfile
 from pathlib import Path
 import UnityPy
@@ -10,6 +10,18 @@ from native_v27.manifest_version import bump_version
 from native_v55.build_v55 import signature_entry,symbols
 BASE='bb582b8de80a888fd9b95c94b73219d245ab7aaf993facebf26cfe0dac3a865b'
 sha=lambda value:hashlib.sha256(value).hexdigest()
+
+def catalog():
+    data=json.loads((ROOT/'inputs/manifest.json').read_text());rows=data['assets']
+    assert len(rows)==144 and len({r['id']for r in rows})==144
+    for row in rows:
+        path=Path(row['file']);assert not path.is_absolute()and'..'not in path.parts
+        assert path.parts[0]=='sprites'and path.parts[1]==row['id'].rsplit('_',1)[0]
+        assert (ROOT/'inputs'/path).is_file()
+    assert {ROOT/'inputs'/r['file']for r in rows}==set((ROOT/'inputs/sprites').rglob('*.png'))
+    return data
+
+def runtime_path(row):return 'sprites/'+row['id'].rsplit('_',1)[0]+'/'+row['id']+'.png'
 
 
 def bundles(z):
@@ -30,13 +42,14 @@ def bundles(z):
         decoded=obj.read();decoded.m_Name=name;decoded.m_Script=value;decoded.save();changed.add(key(obj))
     images=[]
     template=next(o for o in env.objects if o.type.name=='Texture2D');sprite_template=next(o for o in env.objects if o.type.name=='Sprite'and o.read().m_Name=='49-basilica')
-    for path in sorted((ROOT/'inputs/sprites').rglob('*.png')):
+    for asset in sorted(catalog()['assets'],key=lambda r:r['id']):
+        path=ROOT/'inputs'/asset['file'];identity=asset['id']
         canvas=Image.open(path).convert('RGBA');texture=copy.copy(template);texture.path_id=next_id;next_id+=1;texture.data=template.get_raw_data();file.objects[texture.path_id]=texture
-        decoded=texture.read();decoded.m_Name='military1108_'+path.stem;decoded.set_image(canvas,target_format=4);decoded.save()
+        decoded=texture.read();decoded.m_Name='military1108_'+identity;decoded.set_image(canvas,target_format=4);decoded.save()
         sprite=copy.copy(sprite_template);sprite.path_id=next_id;next_id+=1;sprite.data=sprite_template.get_raw_data();file.objects[sprite.path_id]=sprite
-        resource='mayomods1108/military/'+path.stem;sprite.save_typetree(sprite_tree(sprite,texture,canvas,resource))
+        resource='mayomods1108/military/'+identity;sprite.save_typetree(sprite_tree(sprite,texture,canvas,resource))
         assert not any(p==resource for p,_ in tree['m_Container']);tree['m_Container'].append((resource,dict(m_FileID=rid,m_PathID=sprite.path_id)))
-        images.append(dict(resource=resource,sprite_id=sprite.path_id,texture_id=texture.path_id,source=str(path.relative_to(ROOT)),source_sha256=sha(path.read_bytes()),canvas=list(canvas.size),pixel_sha256=sha(canvas.tobytes())))
+        images.append(dict(id=identity,resource=resource,apk_asset='assets/military1108/'+runtime_path(asset),sprite_id=sprite.path_id,texture_id=texture.path_id,source=str(path.relative_to(ROOT)),source_sha256=sha(path.read_bytes()),canvas=list(canvas.size),pixel_sha256=sha(canvas.tobytes())))
     tree['m_Container'].sort(key=lambda item:item[0]);rm.save_typetree(tree)
     pack=next(iter(env.files.values())).save(packer='original');rawdata=next(iter(data.files.values())).save(packer='original')
     final=UnityPy.load(pack);objects={key(o):o for o in final.objects};assert before.keys()<=objects.keys()
@@ -51,6 +64,7 @@ def bundles(z):
     from collections import Counter
     canonical=lambda rows:Counter((p,json.dumps(v,sort_keys=True))for p,v in rows)
     assert canonical(paths)<=canonical(next(o for o in finaldata.objects if o.type.name=='ResourceManager').read_typetree()['m_Container'])
+    assert {r['resource']for r in images}<={p for p,_ in next(o for o in finaldata.objects if o.type.name=='ResourceManager').read_typetree()['m_Container']}
     return pack,rawdata,dict(passed=True,authored_assets_sha256=sha(json.dumps(overlay,sort_keys=True).encode()),changed_text_assets=len(overlay),preserved_objects=len(before)-len(changed&before.keys()),old_resources_preserved=True,imported_artwork=images,datapack_sha256=sha(pack),data_sha256=sha(rawdata))
 
 
@@ -68,8 +82,12 @@ def stage(base,work):
         diagnostic_symbols=symbols(native,manifest);diagnostic_symbols.update(build='1108',version_code=1108)
         changes={'lib/arm64-v8a/libil2cpp.so':native,'classes13.dex':dex,'assets/bin/Data/datapack.unity3d':pack,'assets/bin/Data/data.unity3d':data,'AndroidManifest.xml':android,'assets/mayomods54/native_symbols.json':json.dumps(diagnostic_symbols,indent=2).encode()}
         changes['lib/arm64-v8a/libmayo21.so']=(work/'jni/libmayo21.so').read_bytes()
-        extras={'assets/military1108/'+str(f.relative_to(ROOT/'inputs')):f.read_bytes()for f in (ROOT/'inputs/sprites').rglob('*.png')}
-        extras['assets/military1108/manifest.json']=(ROOT/'inputs/manifest.json').read_bytes()
+        runtime=catalog();extras={}
+        for asset in runtime['assets']:
+            extras['assets/military1108/'+runtime_path(asset)]=(ROOT/'inputs'/asset['file']).read_bytes()
+            asset['source_file']=asset['file'];asset['file']=runtime_path(asset)
+        runtime['runtime_alias_version']=1
+        extras['assets/military1108/manifest.json']=json.dumps(runtime,indent=2).encode()
         extras['assets/military1108/ATTRIBUTION.txt']=(ROOT/'ATTRIBUTION.txt').read_bytes()
         extras['assets/military1108/LICENSE-chesslib.txt']=(ROOT/'vendor/LICENSE-chesslib.txt').read_bytes()
         target=work/'MayoMods_1108_UNSIGNED_WORK.apk';assert not target.exists()

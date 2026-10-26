@@ -4,8 +4,8 @@ This extends the delivered 1107 APK, not an older archive or a new game.
 The package, save fields, development signer, Roblox site, native church,
 launcher and original careers remain. Keys, APKs and raw diagnostics stay private.
 
-Signed download: <https://gofile.io/d/l0EdKr5w> (400,516,401 bytes), version1108.
-APK SHA256: `3f0fcafee496fb6a148132e51bb8851308a1c19adb85ec1350f985639a6fa3d1`.
+Signed download: <https://gofile.io/d/gVCpMtYi> (400,507,933 bytes), version1108.
+APK SHA256: `d499dce14818d0f60465f3268f3f09522a2f7be81da95ed25c107e139bc5bd9e`.
 The host's size/MD5 match; the download page returned HTTP200. Device download
 and installation are unverified. See evidence/military_expansion_1108_*.
 
@@ -57,7 +57,12 @@ is not made a qualified pilot by a draft notice.
 
 The supplied 144 transparent PNGs are preserved, registered as typed Unity
 Sprites and included for Canvas display. Their pixels are checked after bundle
-serialization. The uniform screen uses the **current validated native face**
+serialization. Descriptive source basenames are explicitly mapped to the screen's
+manifest IDs in both APK asset paths and Unity resources. A 576-assertion check
+resolves every ID through its actual packaged filename/source bytes and Sprite
+resource; a pre-delivery package with the old basename mismatch fails its negative
+control. Pixel preservation alone did not prove that these paths were usable.
+The uniform screen uses the **current validated native face**
 with separate head/body/legs layers and a medical bag where applicable. PNG
 conversion goes through runtime_invoke with an exception slot, not an unguarded
 icall. It reads a rooted texture and copies bytes; it never replaces the native
@@ -139,7 +144,10 @@ Base native SHA256: 9da3190bf062229e8adc5e940d578a7fc93c3de79be63d5d7b60e7b24881
 4. Run build_dex.py with the base APK, private dex1108-final folder, tools_v40
    and JDK; validate_dex.py checks signatures/dispatch and preserved preferences.
 5. package.py imports/verifies all sprites, preserves undeclared objects and
-   payloads, and stages 1108. release.py reuses the existing private identity
+   payloads, and stages 1108. Run validate_assets.py with the unsigned APK,
+   the previous unbound private prototype (or `-` for a portable negative fixture),
+   the work directory and asset_validation.json. release.py requires that report,
+   reuses the existing private identity
    and verifies aapt2, v2/v3 signing, native signer binding, CRC and alignment.
 
 The package/signing/upload reports identify the exact APK. Upload authorization

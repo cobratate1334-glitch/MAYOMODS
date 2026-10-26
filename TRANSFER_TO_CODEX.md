@@ -4,13 +4,13 @@ Active candidate: **1108**, `project/work/source/military_expansion`.
 Read its README and reports first. Exact signed build/delivery records:
 `evidence/military_expansion_1108_verification.json` and
 `evidence/military_expansion_1108_delivery.json`. Download:
-<https://gofile.io/d/l0EdKr5w>. Reuse the existing private development identity.
+<https://gofile.io/d/gVCpMtYi>. Reuse the existing private development identity.
 No key, APK, host token or raw diagnostic belongs in Git.
 
 Native base is delivered 1107 (SHA9da3190b…); native output SHA256
 `fd96fc90cbad08f18ea90a840eff85adf583988fa5d5792dd43558f3b20a384c`.
 The signed APK SHA256 is
-`3f0fcafee496fb6a148132e51bb8851308a1c19adb85ec1350f985639a6fa3d1`.
+`d499dce14818d0f60465f3268f3f09522a2f7be81da95ed25c107e139bc5bd9e`.
 Private outputs live under /workspace/build_work/military-expansion. New Android
 UI source, MIT chesslib source/license, supplied sprite PNGs and build/validation
 scripts are retained. All earlier pipeline folders remain dependencies.

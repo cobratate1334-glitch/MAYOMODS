@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "checks": 576,
+  "apk_sha256": "43103fe59c50ce79c935f8c344a0f82cf42990e75813fa4a3e554bac309241f1",
+  "runtime_ID_file_source_bindings": 144,
+  "Unity_resource_bindings": 144,
+  "old_unbound_filenames_negative_control": true,
+  "Android_rendering_tested": false
+}

@@ -15,7 +15,9 @@ are checked; induction does not immediately increment a deployment. A submitted
 valid action can finish once after its window closes. PNG export has a managed
 exception boundary and bounded byte copy. New native action IDs are no longer
 clamped to the former 255 maximum. Identical old prison result duplicates are
-removed. These layers are checked; actual device rendering/lifecycle is not.
+removed. The pre-delivery sprite basename/ID mismatch is corrected in both APK
+paths and Unity resources; all 144 mappings pass, and the unbound prototype fails
+the new negative control. These layers are checked; actual device rendering/lifecycle is not.
 
 OPEN: installation/update and native rendering on the owner's phone; prior black
 header portrait and stuck loading; real pause/kill/reload persistence; uniform

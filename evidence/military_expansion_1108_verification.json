@@ -1,8 +1,8 @@
 {
   "passed": true,
-  "apk_sha256": "3f0fcafee496fb6a148132e51bb8851308a1c19adb85ec1350f985639a6fa3d1",
-  "apk_md5": "94ab6f03c5ef9b3faa56c10d0a30114e",
-  "bytes": 400516401,
+  "apk_sha256": "d499dce14818d0f60465f3268f3f09522a2f7be81da95ed25c107e139bc5bd9e",
+  "apk_md5": "8260b97b6ed3eb0030eb94c07b140a47",
+  "bytes": 400507933,
   "native_sha256": "fd96fc90cbad08f18ea90a840eff85adf583988fa5d5792dd43558f3b20a384c",
   "certificate_sha256": "bb8062953a3abe6ed051c29f4d39051d8266940c912323560baa3b795ddd92ef",
   "version_code": 1108,

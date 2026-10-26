@@ -10,6 +10,7 @@ def release(work,identity,java,aapt):
   r=json.loads((work/name).read_text());assert r['passed']and r['binary_sha256']==s['native_sha256']
  r=json.loads((work/'fixtures/native53_validation.json').read_text());assert r['passed']and r['binary_sha256']==s['native_sha256']
  r=json.loads((work/'bundle_validation.json').read_text());assert r['passed']
+ r=json.loads((work/'asset_validation.json').read_text());assert r['passed']and r['apk_sha256']==s['apk_sha256']
  der=(identity/'mayomods-cert.der').read_bytes();assert sha(der)==CERT
  with zipfile.ZipFile(staged)as z:
   launcher=json.loads((work/'launcher_validation.json').read_text());assert launcher['passed']and launcher['dex_sha256']==sha(z.read('classes13.dex'))

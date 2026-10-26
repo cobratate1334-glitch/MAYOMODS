@@ -18,14 +18,18 @@ PNG conversion uses runtime_invoke with an exception slot. A first theme design
 performed unnecessary full-context work on each HUD update; the final code uses
 cached year/ISO-country lookup. Native combat also follows year-end ceasefires.
 Old annual world/draft prompts cannot conflict with the replacement state machine.
+The final asset audit caught descriptive source filenames being used where the
+screen expects manifest IDs. Corrected both APK aliases and Unity resource keys.
+A 576-assertion ID/file/source/resource check rejects the unbound prototype; the
+final release requires this report before signing. Pixel tests alone missed it.
 The launcher policy, original game/signer/saves, Roblox site and native church stay.
 
 Validation: 66 native, 95 JNI, 3,939 content, 11,460 host JVM and 13 DEX checks;
 retained 355 life, 76 boundary, 399 navigation and 40,512 website comparisons.
 APK v2/v3 signatures, native signer, aapt2, alignment/CRC and unchanged payloads
-pass. Candidate version code 1108, 400,516,401 bytes, APK SHA256
-`3f0fcafee496fb6a148132e51bb8851308a1c19adb85ec1350f985639a6fa3d1`.
-Delivery <https://gofile.io/d/l0EdKr5w>; host size/MD5 match and page returns 200.
+pass. Candidate version code 1108, 400,507,933 bytes, APK SHA256
+`d499dce14818d0f60465f3268f3f09522a2f7be81da95ed25c107e139bc5bd9e`.
+Delivery <https://gofile.io/d/gVCpMtYi>; host size/MD5 match and page returns 200.
 No ART, Unity renderer or phone acceptance is claimed. Detailed recruitment laws
 are limited to Britain/US/Australia and the campaign is a visual decision game.
 

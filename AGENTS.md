@@ -13,7 +13,9 @@ state lives in the native Life; only the Unity frame pump executes bounded JNI
 commands. Closing rejects new submissions but lets a valid queued action settle
 once. Portrait export uses runtime_invoke with a managed exception slot and
 copies the current rooted face; do not replace it with a soldier image or add an
-unguarded PNG icall. All 144 supplied sprites are preserved. Detailed recruitment
+unguarded PNG icall. All 144 supplied sprites are preserved. Package their canonical manifest IDs, not
+descriptive source basenames. validate_assets.py must pass after staging and
+before signing; pixel equality alone does not prove screen paths resolve. Detailed recruitment
 laws cover Britain/US/Australia; unsupported countries retain stock applications.
 Church stays native; only Roblox uses the website. Phone ART/rendering/install,
 black portraits/loading and final gameplay acceptance remain OPEN. Source and

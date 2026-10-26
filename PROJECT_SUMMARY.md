@@ -2,8 +2,8 @@
 
 Candidate **1108** is now the active extension, based on the delivered 1107.
 [Source and limits](project/work/source/military_expansion/README.md).
-Download: <https://gofile.io/d/l0EdKr5w> (400,516,401 bytes).
-APK SHA256: `3f0fcafee496fb6a148132e51bb8851308a1c19adb85ec1350f985639a6fa3d1`.
+Download: <https://gofile.io/d/gVCpMtYi> (400,507,933 bytes).
+APK SHA256: `d499dce14818d0f60465f3268f3f09522a2f7be81da95ed25c107e139bc5bd9e`.
 
 It adds native war palettes, dated plane scenes, a saved service desk with
 registration/call-up/assessment/training/assignments, a current-face uniform
@@ -18,7 +18,7 @@ signing identity remain. Exact limitations and evidence are in the new README.
 
 New checks: 66 ARM64 identity/state/portrait/calendar assertions, 95 emitted JNI
 checks, 3,939 content checks, 11,460 host JVM assertions including perft/special
-chess moves and service rules, and 13 DEX integration checks. Retained suites:
+chess moves and service rules, 13 DEX integration checks and 576 packaged asset-binding assertions. Retained suites:
 355 life, 76 boundaries, 399 navigation and 40,512 website comparisons. These are
 assertion counts, not played phone lives. Signatures, aapt2, native signer binding,
 CRC/alignment and payload preservation pass. No ART/Unity renderer/phone is

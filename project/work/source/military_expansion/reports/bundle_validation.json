@@ -6,7 +6,9 @@
   "old_resources_preserved": true,
   "imported_artwork": [
     {
-      "resource": "mayomods1108/military/01_khaki_shallow_brim_steel_helmet_front_view",
+      "id": "01_ww1_wearables_01",
+      "resource": "mayomods1108/military/01_ww1_wearables_01",
+      "apk_asset": "assets/military1108/sprites/01_ww1_wearables/01_ww1_wearables_01.png",
       "sprite_id": 40575,
       "texture_id": 40574,
       "source": "inputs/sprites/01_ww1_wearables/01_khaki_shallow_brim_steel_helmet_front_view.png",
@@ -18,7 +20,9 @@
       "pixel_sha256": "e0a7580a0e3d23571a5de5aebf33c5075cf42f20b0cb5c0a96ff63fd57b44d35"
     },
     {
-      "resource": "mayomods1108/military/02_blue_gray_crested_steel_helmet_front_view",
+      "id": "01_ww1_wearables_02",
+      "resource": "mayomods1108/military/01_ww1_wearables_02",
+      "apk_asset": "assets/military1108/sprites/01_ww1_wearables/01_ww1_wearables_02.png",
       "sprite_id": 40577,
       "texture_id": 40576,
       "source": "inputs/sprites/01_ww1_wearables/02_blue_gray_crested_steel_helmet_front_view.png",
@@ -30,7 +34,9 @@
       "pixel_sha256": "04f7176e946032b91ebcb8256324d70585e848d33c0bb51a4467e3a88895ab6f"
     },
     {
-      "resource": "mayomods1108/military/03_field_gray_deep_steel_helmet_front_view",
+      "id": "01_ww1_wearables_03",
+      "resource": "mayomods1108/military/01_ww1_wearables_03",
+      "apk_asset": "assets/military1108/sprites/01_ww1_wearables/01_ww1_wearables_03.png",
       "sprite_id": 40579,
       "texture_id": 40578,
       "source": "inputs/sprites/01_ww1_wearables/03_field_gray_deep_steel_helmet_front_view.png",
@@ -42,7 +48,9 @@
       "pixel_sha256": "99cef9cf12060dec5993ad57241927ace6438bb8467c0ce9a0c0df3a0cb100c8"
     },
     {
-      "resource": "mayomods1108/military/04_tan_pith_helmet_front_view",
+      "id": "01_ww1_wearables_04",
+      "resource": "mayomods1108/military/01_ww1_wearables_04",
+      "apk_asset": "assets/military1108/sprites/01_ww1_wearables/01_ww1_wearables_04.png",
       "sprite_id": 40581,
       "texture_id": 40580,
       "source": "inputs/sprites/01_ww1_wearables/04_tan_pith_helmet_front_view.png",
@@ -54,7 +62,9 @@
       "pixel_sha256": "b7be484a9f60739b15b7114c381293715811700e7ca381320efb80bbec29272c"
     },
     {
-      "resource": "mayomods1108/military/05_brown_broad_brim_campaign_hat_front_view",
+      "id": "01_ww1_wearables_05",
+      "resource": "mayomods1108/military/01_ww1_wearables_05",
+      "apk_asset": "assets/military1108/sprites/01_ww1_wearables/01_ww1_wearables_05.png",
       "sprite_id": 40583,
       "texture_id": 40582,
       "source": "inputs/sprites/01_ww1_wearables/05_brown_broad_brim_campaign_hat_front_view.png",
@@ -66,7 +76,9 @@
       "pixel_sha256": "668fa7d693a57689f714a1506ff1b8957dd1a1a5ffa4770300d3b53b0cece7ac"
     },
     {
-      "resource": "mayomods1108/military/06_khaki_soft_field_cap_front_view",
+      "id": "01_ww1_wearables_06",
+      "resource": "mayomods1108/military/01_ww1_wearables_06",
+      "apk_asset": "assets/military1108/sprites/01_ww1_wearables/01_ww1_wearables_06.png",
       "sprite_id": 40585,
       "texture_id": 40584,
       "source": "inputs/sprites/01_ww1_wearables/06_khaki_soft_field_cap_front_view.png",
@@ -78,7 +90,9 @@
       "pixel_sha256": "5fd94d1bad439b64d3deecb70fa24151be8a62d292381fcbffed17bf005d5189"
     },
     {
-      "resource": "mayomods1108/military/07_brown_leather_aviator_cap_with_goggles_front_view",
+      "id": "01_ww1_wearables_07",
+      "resource": "mayomods1108/military/01_ww1_wearables_07",
+      "apk_asset": "assets/military1108/sprites/01_ww1_wearables/01_ww1_wearables_07.png",
       "sprite_id": 40587,
       "texture_id": 40586,
       "source": "inputs/sprites/01_ww1_wearables/07_brown_leather_aviator_cap_with_goggles_front_view.png",
@@ -90,7 +104,9 @@
       "pixel_sha256": "f13a406cb1e3d0da82eb02c1af43aa5a780039bb1cbec6c45028fe9d268c05f6"
     },
     {
-      "resource": "mayomods1108/military/08_khaki_officer_peaked_cap_front_view",
+      "id": "01_ww1_wearables_08",
+      "resource": "mayomods1108/military/01_ww1_wearables_08",
+      "apk_asset": "assets/military1108/sprites/01_ww1_wearables/01_ww1_wearables_08.png",
       "sprite_id": 40589,
       "texture_id": 40588,
       "source": "inputs/sprites/01_ww1_wearables/08_khaki_officer_peaked_cap_front_view.png",
@@ -102,7 +118,9 @@
       "pixel_sha256": "a054b4cf60a2f2cb8f292948a136460608c671f674af557cd2559ed10a785770"
     },
     {
-      "resource": "mayomods1108/military/09_gray_officer_peaked_cap_front_view",
+      "id": "01_ww1_wearables_09",
+      "resource": "mayomods1108/military/01_ww1_wearables_09",
+      "apk_asset": "assets/military1108/sprites/01_ww1_wearables/01_ww1_wearables_09.png",
       "sprite_id": 40591,
       "texture_id": 40590,
       "source": "inputs/sprites/01_ww1_wearables/09_gray_officer_peaked_cap_front_view.png",
@@ -114,7 +132,9 @@
       "pixel_sha256": "f6dd57f5965c9a45249244b155e9831c85bc9cc769b670e0cd41afaabcd9ba14"
     },
     {
-      "resource": "mayomods1108/military/10_navy_blue_sailor_cap_front_view",
+      "id": "01_ww1_wearables_10",
+      "resource": "mayomods1108/military/01_ww1_wearables_10",
+      "apk_asset": "assets/military1108/sprites/01_ww1_wearables/01_ww1_wearables_10.png",
       "sprite_id": 40593,
       "texture_id": 40592,
       "source": "inputs/sprites/01_ww1_wearables/10_navy_blue_sailor_cap_front_view.png",
@@ -126,7 +146,9 @@
       "pixel_sha256": "59d14a28e0620206345274a32087692c326ce358de1359d53ff10061fc74dcb5"
     },
     {
-      "resource": "mayomods1108/military/11_brown_winter_fur_cap_front_view",
+      "id": "01_ww1_wearables_11",
+      "resource": "mayomods1108/military/01_ww1_wearables_11",
+      "apk_asset": "assets/military1108/sprites/01_ww1_wearables/01_ww1_wearables_11.png",
       "sprite_id": 40595,
       "texture_id": 40594,
       "source": "inputs/sprites/01_ww1_wearables/11_brown_winter_fur_cap_front_view.png",
@@ -138,7 +160,9 @@
       "pixel_sha256": "d4c00efd1df3ab73fea2dcffd2e6597298e6eaaafa6bd0443f06d5d46c881977"
     },
     {
-      "resource": "mayomods1108/military/12_early_rubber_gas_mask_with_round_eye_lenses_front_view",
+      "id": "01_ww1_wearables_12",
+      "resource": "mayomods1108/military/01_ww1_wearables_12",
+      "apk_asset": "assets/military1108/sprites/01_ww1_wearables/01_ww1_wearables_12.png",
       "sprite_id": 40597,
       "texture_id": 40596,
       "source": "inputs/sprites/01_ww1_wearables/12_early_rubber_gas_mask_with_round_eye_lenses_front_view.png",
@@ -150,7 +174,9 @@
       "pixel_sha256": "49c9f3c469e7d141f4072df8077090a9bc15afa51d6207c31be5647f6d0ccd99"
     },
     {
-      "resource": "mayomods1108/military/13_khaki_buttoned_infantry_tunic_with_belt_empty_wearable_torso",
+      "id": "01_ww1_wearables_13",
+      "resource": "mayomods1108/military/01_ww1_wearables_13",
+      "apk_asset": "assets/military1108/sprites/01_ww1_wearables/01_ww1_wearables_13.png",
       "sprite_id": 40599,
       "texture_id": 40598,
       "source": "inputs/sprites/01_ww1_wearables/13_khaki_buttoned_infantry_tunic_with_belt_empty_wearable_torso.png",
@@ -162,7 +188,9 @@
       "pixel_sha256": "6aa4a95838d3cf16220585dfd9846d2fc0a1d1e0dbba508ef5a7da7a46053e79"
     },
     {
-      "resource": "mayomods1108/military/14_blue_gray_buttoned_infantry_tunic_empty_wearable_torso",
+      "id": "01_ww1_wearables_14",
+      "resource": "mayomods1108/military/01_ww1_wearables_14",
+      "apk_asset": "assets/military1108/sprites/01_ww1_wearables/01_ww1_wearables_14.png",
       "sprite_id": 40601,
       "texture_id": 40600,
       "source": "inputs/sprites/01_ww1_wearables/14_blue_gray_buttoned_infantry_tunic_empty_wearable_torso.png",
@@ -174,7 +202,9 @@
       "pixel_sha256": "c2527ac1fa51f3e914760113b336f457a7640e43aa986afb6039a5209ea13325"
     },
     {
-      "resource": "mayomods1108/military/15_field_gray_buttoned_infantry_tunic_empty_wearable_torso",
+      "id": "01_ww1_wearables_15",
+      "resource": "mayomods1108/military/01_ww1_wearables_15",
+      "apk_asset": "assets/military1108/sprites/01_ww1_wearables/01_ww1_wearables_15.png",
       "sprite_id": 40603,
       "texture_id": 40602,
       "source": "inputs/sprites/01_ww1_wearables/15_field_gray_buttoned_infantry_tunic_empty_wearable_torso.png",
@@ -186,7 +216,9 @@
       "pixel_sha256": "4655386c8e6281d4321bf9750eb1d042ef072e184c87c3a0c90316bf854d5a46"
     },
     {
-      "resource": "mayomods1108/military/16_tan_desert_infantry_tunic_empty_wearable_torso",
+      "id": "01_ww1_wearables_16",
+      "resource": "mayomods1108/military/01_ww1_wearables_16",
+      "apk_asset": "assets/military1108/sprites/01_ww1_wearables/01_ww1_wearables_16.png",
       "sprite_id": 40605,
       "texture_id": 40604,
       "source": "inputs/sprites/01_ww1_wearables/16_tan_desert_infantry_tunic_empty_wearable_torso.png",
@@ -198,7 +230,9 @@
       "pixel_sha256": "b1f514d624220cf0b5a72d3cccbc7604c07eb1c425f0828cbcb8baf677d471b5"
     },
     {
-      "resource": "mayomods1108/military/17_dark_navy_sailor_jumper_empty_wearable_torso",
+      "id": "01_ww1_wearables_17",
+      "resource": "mayomods1108/military/01_ww1_wearables_17",
+      "apk_asset": "assets/military1108/sprites/01_ww1_wearables/01_ww1_wearables_17.png",
       "sprite_id": 40607,
       "texture_id": 40606,
       "source": "inputs/sprites/01_ww1_wearables/17_dark_navy_sailor_jumper_empty_wearable_torso.png",
@@ -210,7 +244,9 @@
       "pixel_sha256": "e5b70a59a4bbf9893bfd0a102e4473c8fc7a1910037e7e7658d023bc8b794473"
     },
     {
-      "resource": "mayomods1108/military/18_brown_leather_aviator_jacket_empty_wearable_torso",
+      "id": "01_ww1_wearables_18",
+      "resource": "mayomods1108/military/01_ww1_wearables_18",
+      "apk_asset": "assets/military1108/sprites/01_ww1_wearables/01_ww1_wearables_18.png",
       "sprite_id": 40609,
       "texture_id": 40608,
       "source": "inputs/sprites/01_ww1_wearables/18_brown_leather_aviator_jacket_empty_wearable_torso.png",
@@ -222,7 +258,9 @@
       "pixel_sha256": "75b8e6154a412189b5ff2b21e4606007dd917e37ca27dd5b5915b9f799940200"
     },
     {
-      "resource": "mayomods1108/military/19_khaki_trousers_with_puttees_and_brown_boots_one_wearable_lower_body_outfit",
+      "id": "01_ww1_wearables_19",
+      "resource": "mayomods1108/military/01_ww1_wearables_19",
+      "apk_asset": "assets/military1108/sprites/01_ww1_wearables/01_ww1_wearables_19.png",
       "sprite_id": 40611,
       "texture_id": 40610,
       "source": "inputs/sprites/01_ww1_wearables/19_khaki_trousers_with_puttees_and_brown_boots_one_wearable_lower_body_outfit.png",
@@ -234,7 +272,9 @@
       "pixel_sha256": "ce8155416a150e2ad050ef6266f513aa01af95c1b590ac0e01ba953cbff13635"
     },
     {
-      "resource": "mayomods1108/military/20_blue_gray_trousers_with_black_boots_one_wearable_lower_body_outfit",
+      "id": "01_ww1_wearables_20",
+      "resource": "mayomods1108/military/01_ww1_wearables_20",
+      "apk_asset": "assets/military1108/sprites/01_ww1_wearables/01_ww1_wearables_20.png",
       "sprite_id": 40613,
       "texture_id": 40612,
       "source": "inputs/sprites/01_ww1_wearables/20_blue_gray_trousers_with_black_boots_one_wearable_lower_body_outfit.png",
@@ -246,7 +286,9 @@
       "pixel_sha256": "75b9d1d872c39bcb1ffea63f6eea8802b61d6a2e6b2e44b3a792cb343c0455df"
     },
     {
-      "resource": "mayomods1108/military/21_field_gray_trousers_with_black_boots_one_wearable_lower_body_outfit",
+      "id": "01_ww1_wearables_21",
+      "resource": "mayomods1108/military/01_ww1_wearables_21",
+      "apk_asset": "assets/military1108/sprites/01_ww1_wearables/01_ww1_wearables_21.png",
       "sprite_id": 40615,
       "texture_id": 40614,
       "source": "inputs/sprites/01_ww1_wearables/21_field_gray_trousers_with_black_boots_one_wearable_lower_body_outfit.png",
@@ -258,7 +300,9 @@
       "pixel_sha256": "8264e3b22a3dfb2d53b13b007c1c43a5c82da2e3ef775f86e752d38651d690b6"
     },
     {
-      "resource": "mayomods1108/military/22_long_khaki_officer_trench_coat_empty_wearable_coat",
+      "id": "01_ww1_wearables_22",
+      "resource": "mayomods1108/military/01_ww1_wearables_22",
+      "apk_asset": "assets/military1108/sprites/01_ww1_wearables/01_ww1_wearables_22.png",
       "sprite_id": 40617,
       "texture_id": 40616,
       "source": "inputs/sprites/01_ww1_wearables/22_long_khaki_officer_trench_coat_empty_wearable_coat.png",
@@ -270,7 +314,9 @@
       "pixel_sha256": "14c38f230e0105e655290903155001abd14fa3e137ae20ce69da7978000206e4"
     },
     {
-      "resource": "mayomods1108/military/23_long_gray_wool_greatcoat_empty_wearable_coat",
+      "id": "01_ww1_wearables_23",
+      "resource": "mayomods1108/military/01_ww1_wearables_23",
+      "apk_asset": "assets/military1108/sprites/01_ww1_wearables/01_ww1_wearables_23.png",
       "sprite_id": 40619,
       "texture_id": 40618,
       "source": "inputs/sprites/01_ww1_wearables/23_long_gray_wool_greatcoat_empty_wearable_coat.png",
@@ -282,7 +328,9 @@
       "pixel_sha256": "939820c1a8e29abca9b0e933049329a1fbac05585f3af242ce837646d892687d"
     },
     {
-      "resource": "mayomods1108/military/24_leather_waist_belt_with_canvas_ammunition_pouches_wearable_belt",
+      "id": "01_ww1_wearables_24",
+      "resource": "mayomods1108/military/01_ww1_wearables_24",
+      "apk_asset": "assets/military1108/sprites/01_ww1_wearables/01_ww1_wearables_24.png",
       "sprite_id": 40621,
       "texture_id": 40620,
       "source": "inputs/sprites/01_ww1_wearables/24_leather_waist_belt_with_canvas_ammunition_pouches_wearable_belt.png",
@@ -294,7 +342,9 @@
       "pixel_sha256": "6f1362bd8f56d9d3798544048c91f6668cbfc4d72d13445e6825d307fbfc7f20"
     },
     {
-      "resource": "mayomods1108/military/01_olive_round_steel_combat_helmet_front_view",
+      "id": "02_ww2_wearables_01",
+      "resource": "mayomods1108/military/02_ww2_wearables_01",
+      "apk_asset": "assets/military1108/sprites/02_ww2_wearables/02_ww2_wearables_01.png",
       "sprite_id": 40623,
       "texture_id": 40622,
       "source": "inputs/sprites/02_ww2_wearables/01_olive_round_steel_combat_helmet_front_view.png",
@@ -306,7 +356,9 @@
       "pixel_sha256": "c58110d2961417cf28f8f92143d7b1bbe7fd49759093b112dd012f1cddbc743f"
     },
     {
-      "resource": "mayomods1108/military/02_khaki_shallow_brim_steel_combat_helmet_front_view",
+      "id": "02_ww2_wearables_02",
+      "resource": "mayomods1108/military/02_ww2_wearables_02",
+      "apk_asset": "assets/military1108/sprites/02_ww2_wearables/02_ww2_wearables_02.png",
       "sprite_id": 40625,
       "texture_id": 40624,
       "source": "inputs/sprites/02_ww2_wearables/02_khaki_shallow_brim_steel_combat_helmet_front_view.png",
@@ -318,7 +370,9 @@
       "pixel_sha256": "74452862874b9d94a1cb49aa8f8c1c73ece56484a183c0f94f21e28e058f0aac"
     },
     {
-      "resource": "mayomods1108/military/03_dark_green_rounded_steel_helmet_front_view",
+      "id": "02_ww2_wearables_03",
+      "resource": "mayomods1108/military/02_ww2_wearables_03",
+      "apk_asset": "assets/military1108/sprites/02_ww2_wearables/02_ww2_wearables_03.png",
       "sprite_id": 40627,
       "texture_id": 40626,
       "source": "inputs/sprites/02_ww2_wearables/03_dark_green_rounded_steel_helmet_front_view.png",
@@ -330,7 +384,9 @@
       "pixel_sha256": "47684407ebae1609838a676e2df0512c43a8e0aa495bf80890ce28049b3f2dfc"
     },
     {
-      "resource": "mayomods1108/military/04_plain_gray_flared_steel_helmet_front_view",
+      "id": "02_ww2_wearables_04",
+      "resource": "mayomods1108/military/02_ww2_wearables_04",
+      "apk_asset": "assets/military1108/sprites/02_ww2_wearables/02_ww2_wearables_04.png",
       "sprite_id": 40629,
       "texture_id": 40628,
       "source": "inputs/sprites/02_ww2_wearables/04_plain_gray_flared_steel_helmet_front_view.png",
@@ -342,7 +398,9 @@
       "pixel_sha256": "8fa9d0c577d3583b2925f4a7fa6ec3a077286d898bcc471fb6dfd05d587f56bc"
     },
     {
-      "resource": "mayomods1108/military/05_tan_steel_combat_helmet_with_cloth_cover_front_view",
+      "id": "02_ww2_wearables_05",
+      "resource": "mayomods1108/military/02_ww2_wearables_05",
+      "apk_asset": "assets/military1108/sprites/02_ww2_wearables/02_ww2_wearables_05.png",
       "sprite_id": 40631,
       "texture_id": 40630,
       "source": "inputs/sprites/02_ww2_wearables/05_tan_steel_combat_helmet_with_cloth_cover_front_view.png",
@@ -354,7 +412,9 @@
       "pixel_sha256": "5d67b13d34eb2d2043c01224336516e413a4995cf3f39ab603f17cdabdbd592a"
     },
     {
-      "resource": "mayomods1108/military/06_olive_combat_helmet_with_netting_front_view",
+      "id": "02_ww2_wearables_06",
+      "resource": "mayomods1108/military/02_ww2_wearables_06",
+      "apk_asset": "assets/military1108/sprites/02_ww2_wearables/02_ww2_wearables_06.png",
       "sprite_id": 40633,
       "texture_id": 40632,
       "source": "inputs/sprites/02_ww2_wearables/06_olive_combat_helmet_with_netting_front_view.png",
@@ -366,7 +426,9 @@
       "pixel_sha256": "2701fe2be92be5f662b26571fb105c49b23a43e6f5f0e946e32eb875989cd552"
     },
     {
-      "resource": "mayomods1108/military/07_olive_officer_peaked_cap_front_view",
+      "id": "02_ww2_wearables_07",
+      "resource": "mayomods1108/military/02_ww2_wearables_07",
+      "apk_asset": "assets/military1108/sprites/02_ww2_wearables/02_ww2_wearables_07.png",
       "sprite_id": 40635,
       "texture_id": 40634,
       "source": "inputs/sprites/02_ww2_wearables/07_olive_officer_peaked_cap_front_view.png",
@@ -378,7 +440,9 @@
       "pixel_sha256": "591a5316b94eb569d2135f987d0b68536389880aed44c1d822a3ed8fb23bf784"
     },
     {
-      "resource": "mayomods1108/military/08_white_naval_sailor_cap_front_view",
+      "id": "02_ww2_wearables_08",
+      "resource": "mayomods1108/military/02_ww2_wearables_08",
+      "apk_asset": "assets/military1108/sprites/02_ww2_wearables/02_ww2_wearables_08.png",
       "sprite_id": 40637,
       "texture_id": 40636,
       "source": "inputs/sprites/02_ww2_wearables/08_white_naval_sailor_cap_front_view.png",
@@ -390,7 +454,9 @@
       "pixel_sha256": "9d8ebcfb292f43dd56d31faaef57479d403785920cb1503157344085d6e1f7d4"
     },
     {
-      "resource": "mayomods1108/military/09_brown_leather_flying_cap_and_goggles_front_view",
+      "id": "02_ww2_wearables_09",
+      "resource": "mayomods1108/military/02_ww2_wearables_09",
+      "apk_asset": "assets/military1108/sprites/02_ww2_wearables/02_ww2_wearables_09.png",
       "sprite_id": 40639,
       "texture_id": 40638,
       "source": "inputs/sprites/02_ww2_wearables/09_brown_leather_flying_cap_and_goggles_front_view.png",
@@ -402,7 +468,9 @@
       "pixel_sha256": "5803ea465c5ebce3c2fe93c5d8574be7c6f7ad8ca13f16ae4e6d200f33c2433e"
     },
     {
-      "resource": "mayomods1108/military/10_dark_green_military_beret_front_view",
+      "id": "02_ww2_wearables_10",
+      "resource": "mayomods1108/military/02_ww2_wearables_10",
+      "apk_asset": "assets/military1108/sprites/02_ww2_wearables/02_ww2_wearables_10.png",
       "sprite_id": 40641,
       "texture_id": 40640,
       "source": "inputs/sprites/02_ww2_wearables/10_dark_green_military_beret_front_view.png",
@@ -414,7 +482,9 @@
       "pixel_sha256": "acf53b2144517dd450e2445512b27058f081299ddda175c80d1733ecec34b374"
     },
     {
-      "resource": "mayomods1108/military/11_gray_winter_fur_field_cap_front_view",
+      "id": "02_ww2_wearables_11",
+      "resource": "mayomods1108/military/02_ww2_wearables_11",
+      "apk_asset": "assets/military1108/sprites/02_ww2_wearables/02_ww2_wearables_11.png",
       "sprite_id": 40643,
       "texture_id": 40642,
       "source": "inputs/sprites/02_ww2_wearables/11_gray_winter_fur_field_cap_front_view.png",
@@ -426,7 +496,9 @@
       "pixel_sha256": "20dfe9b1acadd22bf8d0cea5e8eb678217dc3246677d23342f41e613860d2d18"
     },
     {
-      "resource": "mayomods1108/military/12_khaki_soft_side_cap_front_view",
+      "id": "02_ww2_wearables_12",
+      "resource": "mayomods1108/military/02_ww2_wearables_12",
+      "apk_asset": "assets/military1108/sprites/02_ww2_wearables/02_ww2_wearables_12.png",
       "sprite_id": 40645,
       "texture_id": 40644,
       "source": "inputs/sprites/02_ww2_wearables/12_khaki_soft_side_cap_front_view.png",
@@ -438,7 +510,9 @@
       "pixel_sha256": "de2a9bea65bd035498c21aa453f074185b78decafd263d5fc40d90f68d7edecb"
     },
     {
-      "resource": "mayomods1108/military/13_olive_field_jacket_with_pocket_flaps_empty_wearable_torso",
+      "id": "02_ww2_wearables_13",
+      "resource": "mayomods1108/military/02_ww2_wearables_13",
+      "apk_asset": "assets/military1108/sprites/02_ww2_wearables/02_ww2_wearables_13.png",
       "sprite_id": 40647,
       "texture_id": 40646,
       "source": "inputs/sprites/02_ww2_wearables/13_olive_field_jacket_with_pocket_flaps_empty_wearable_torso.png",
@@ -450,7 +524,9 @@
       "pixel_sha256": "85dc9ee91468501a1f26bb5d1064a12a23a081daf5ac7077be4aa9f410759fa6"
     },
     {
-      "resource": "mayomods1108/military/14_khaki_short_battledress_jacket_empty_wearable_torso",
+      "id": "02_ww2_wearables_14",
+      "resource": "mayomods1108/military/02_ww2_wearables_14",
+      "apk_asset": "assets/military1108/sprites/02_ww2_wearables/02_ww2_wearables_14.png",
       "sprite_id": 40649,
       "texture_id": 40648,
       "source": "inputs/sprites/02_ww2_wearables/14_khaki_short_battledress_jacket_empty_wearable_torso.png",
@@ -462,7 +538,9 @@
       "pixel_sha256": "79bdf8d5fb294670ebf7b6c89c7a7906caecbdb3e874f3fc2d467b07de87b198"
     },
     {
-      "resource": "mayomods1108/military/15_brown_belted_military_tunic_empty_wearable_torso",
+      "id": "02_ww2_wearables_15",
+      "resource": "mayomods1108/military/02_ww2_wearables_15",
+      "apk_asset": "assets/military1108/sprites/02_ww2_wearables/02_ww2_wearables_15.png",
       "sprite_id": 40651,
       "texture_id": 40650,
       "source": "inputs/sprites/02_ww2_wearables/15_brown_belted_military_tunic_empty_wearable_torso.png",
@@ -474,7 +552,9 @@
       "pixel_sha256": "1726e1ee3e277d83ea7a8f1c94d1cc509aa1bfa3324a5c49a176dcd548c2238a"
     },
     {
-      "resource": "mayomods1108/military/16_gray_military_field_jacket_empty_wearable_torso",
+      "id": "02_ww2_wearables_16",
+      "resource": "mayomods1108/military/02_ww2_wearables_16",
+      "apk_asset": "assets/military1108/sprites/02_ww2_wearables/02_ww2_wearables_16.png",
       "sprite_id": 40653,
       "texture_id": 40652,
       "source": "inputs/sprites/02_ww2_wearables/16_gray_military_field_jacket_empty_wearable_torso.png",
@@ -486,7 +566,9 @@
       "pixel_sha256": "3471030f448cf4c17fe7eab27e0281b519cb85eaa799cbc385bb594cf5e67319"
     },
     {
-      "resource": "mayomods1108/military/17_navy_blue_double_breasted_naval_jacket_empty_wearable_torso",
+      "id": "02_ww2_wearables_17",
+      "resource": "mayomods1108/military/02_ww2_wearables_17",
+      "apk_asset": "assets/military1108/sprites/02_ww2_wearables/02_ww2_wearables_17.png",
       "sprite_id": 40655,
       "texture_id": 40654,
       "source": "inputs/sprites/02_ww2_wearables/17_navy_blue_double_breasted_naval_jacket_empty_wearable_torso.png",
@@ -498,7 +580,9 @@
       "pixel_sha256": "5425038e0c4e8f06ff34fa5f280cbce8c71b3329127239e3d2b51055f8c9c411"
     },
     {
-      "resource": "mayomods1108/military/18_brown_shearling_collar_flight_jacket_empty_wearable_torso",
+      "id": "02_ww2_wearables_18",
+      "resource": "mayomods1108/military/02_ww2_wearables_18",
+      "apk_asset": "assets/military1108/sprites/02_ww2_wearables/02_ww2_wearables_18.png",
       "sprite_id": 40657,
       "texture_id": 40656,
       "source": "inputs/sprites/02_ww2_wearables/18_brown_shearling_collar_flight_jacket_empty_wearable_torso.png",
@@ -510,7 +594,9 @@
       "pixel_sha256": "35a16773a29c32608ed9f740b09256ee22f1b47dfc56adc24f70b94f0989cc01"
     },
     {
-      "resource": "mayomods1108/military/19_olive_trousers_with_brown_combat_boots_one_lower_body_outfit",
+      "id": "02_ww2_wearables_19",
+      "resource": "mayomods1108/military/02_ww2_wearables_19",
+      "apk_asset": "assets/military1108/sprites/02_ww2_wearables/02_ww2_wearables_19.png",
       "sprite_id": 40659,
       "texture_id": 40658,
       "source": "inputs/sprites/02_ww2_wearables/19_olive_trousers_with_brown_combat_boots_one_lower_body_outfit.png",
@@ -522,7 +608,9 @@
       "pixel_sha256": "d9d8823a2cf26ab5dc641b51375c8c33cf0f63390de219ada18ba0d246d0c3b2"
     },
     {
-      "resource": "mayomods1108/military/20_khaki_trousers_with_gaiters_and_boots_one_lower_body_outfit",
+      "id": "02_ww2_wearables_20",
+      "resource": "mayomods1108/military/02_ww2_wearables_20",
+      "apk_asset": "assets/military1108/sprites/02_ww2_wearables/02_ww2_wearables_20.png",
       "sprite_id": 40661,
       "texture_id": 40660,
       "source": "inputs/sprites/02_ww2_wearables/20_khaki_trousers_with_gaiters_and_boots_one_lower_body_outfit.png",
@@ -534,7 +622,9 @@
       "pixel_sha256": "c78b4f59542c8076abf9f8d14200348a1eb4db04e713f97c597751f6a4ae5e6d"
     },
     {
-      "resource": "mayomods1108/military/21_gray_trousers_with_black_boots_one_lower_body_outfit",
+      "id": "02_ww2_wearables_21",
+      "resource": "mayomods1108/military/02_ww2_wearables_21",
+      "apk_asset": "assets/military1108/sprites/02_ww2_wearables/02_ww2_wearables_21.png",
       "sprite_id": 40663,
       "texture_id": 40662,
       "source": "inputs/sprites/02_ww2_wearables/21_gray_trousers_with_black_boots_one_lower_body_outfit.png",
@@ -546,7 +636,9 @@
       "pixel_sha256": "427f7965eedf216253bbbd5688ce4d351fc1de39056f13cd1a4cd56bc5e2cffc"
     },
     {
-      "resource": "mayomods1108/military/22_white_winter_military_overcoat_empty_wearable_coat",
+      "id": "02_ww2_wearables_22",
+      "resource": "mayomods1108/military/02_ww2_wearables_22",
+      "apk_asset": "assets/military1108/sprites/02_ww2_wearables/02_ww2_wearables_22.png",
       "sprite_id": 40665,
       "texture_id": 40664,
       "source": "inputs/sprites/02_ww2_wearables/22_white_winter_military_overcoat_empty_wearable_coat.png",
@@ -558,7 +650,9 @@
       "pixel_sha256": "d7e2ecf4b23712fc9ddf047671c5a3d6a8e4d75b3137638204dc7edf094e0122"
     },
     {
-      "resource": "mayomods1108/military/23_long_khaki_wool_greatcoat_empty_wearable_coat",
+      "id": "02_ww2_wearables_23",
+      "resource": "mayomods1108/military/02_ww2_wearables_23",
+      "apk_asset": "assets/military1108/sprites/02_ww2_wearables/02_ww2_wearables_23.png",
       "sprite_id": 40667,
       "texture_id": 40666,
       "source": "inputs/sprites/02_ww2_wearables/23_long_khaki_wool_greatcoat_empty_wearable_coat.png",
@@ -570,7 +664,9 @@
       "pixel_sha256": "4497f41234fceec3773f4660d0085cccbe52b75e0559847e8574e84db1a90acf"
     },
     {
-      "resource": "mayomods1108/military/24_canvas_parachute_harness_and_pack_front_view_wearable_rig",
+      "id": "02_ww2_wearables_24",
+      "resource": "mayomods1108/military/02_ww2_wearables_24",
+      "apk_asset": "assets/military1108/sprites/02_ww2_wearables/02_ww2_wearables_24.png",
       "sprite_id": 40669,
       "texture_id": 40668,
       "source": "inputs/sprites/02_ww2_wearables/24_canvas_parachute_harness_and_pack_front_view_wearable_rig.png",
@@ -582,7 +678,9 @@
       "pixel_sha256": "a6a6e7e0a90cadf92a5eb66eeb156a4242381544f28a1b36d60384b3502c021c"
     },
     {
-      "resource": "mayomods1108/military/01_cream_reconnaissance_biplane",
+      "id": "03_aircraft_01",
+      "resource": "mayomods1108/military/03_aircraft_01",
+      "apk_asset": "assets/military1108/sprites/03_aircraft/03_aircraft_01.png",
       "sprite_id": 40671,
       "texture_id": 40670,
       "source": "inputs/sprites/03_aircraft/01_cream_reconnaissance_biplane.png",
@@ -594,7 +692,9 @@
       "pixel_sha256": "10bea4ce361f089d2a05c8d9af57ae443231ff400cbe8d8e72579df2305f3287"
     },
     {
-      "resource": "mayomods1108/military/02_olive_fighter_biplane",
+      "id": "03_aircraft_02",
+      "resource": "mayomods1108/military/03_aircraft_02",
+      "apk_asset": "assets/military1108/sprites/03_aircraft/03_aircraft_02.png",
       "sprite_id": 40673,
       "texture_id": 40672,
       "source": "inputs/sprites/03_aircraft/02_olive_fighter_biplane.png",
@@ -606,7 +706,9 @@
       "pixel_sha256": "93444596b0b43da8e88a815ba894f6734a8565fd45d4661516300c236440d828"
     },
     {
-      "resource": "mayomods1108/military/03_red_triplane_with_three_stacked_wings",
+      "id": "03_aircraft_03",
+      "resource": "mayomods1108/military/03_aircraft_03",
+      "apk_asset": "assets/military1108/sprites/03_aircraft/03_aircraft_03.png",
       "sprite_id": 40675,
       "texture_id": 40674,
       "source": "inputs/sprites/03_aircraft/03_red_triplane_with_three_stacked_wings.png",
@@ -618,7 +720,9 @@
       "pixel_sha256": "cc0bbce47bb7a8a64c32ca35f7d39e10b47990978ea6fe6a83e6d97f6dce2ae1"
     },
     {
-      "resource": "mayomods1108/military/04_navy_blue_float_equipped_biplane_seaplane",
+      "id": "03_aircraft_04",
+      "resource": "mayomods1108/military/03_aircraft_04",
+      "apk_asset": "assets/military1108/sprites/03_aircraft/03_aircraft_04.png",
       "sprite_id": 40677,
       "texture_id": 40676,
       "source": "inputs/sprites/03_aircraft/04_navy_blue_float_equipped_biplane_seaplane.png",
@@ -630,7 +734,9 @@
       "pixel_sha256": "c204aa0d3bf3c346af24e4f44769a1f14b5fbb47df7fa94094a2bcbcde0aca0c"
     },
     {
-      "resource": "mayomods1108/military/05_cream_twin_engine_early_biplane_bomber",
+      "id": "03_aircraft_05",
+      "resource": "mayomods1108/military/03_aircraft_05",
+      "apk_asset": "assets/military1108/sprites/03_aircraft/03_aircraft_05.png",
       "sprite_id": 40679,
       "texture_id": 40678,
       "source": "inputs/sprites/03_aircraft/05_cream_twin_engine_early_biplane_bomber.png",
@@ -642,7 +748,9 @@
       "pixel_sha256": "2cecea831f40e670bd85f3fe0b259d101d4c53302a88c706c3c486aa9d63bd9d"
     },
     {
-      "resource": "mayomods1108/military/06_silver_elongated_zeppelin_airship",
+      "id": "03_aircraft_06",
+      "resource": "mayomods1108/military/03_aircraft_06",
+      "apk_asset": "assets/military1108/sprites/03_aircraft/03_aircraft_06.png",
       "sprite_id": 40681,
       "texture_id": 40680,
       "source": "inputs/sprites/03_aircraft/06_silver_elongated_zeppelin_airship.png",
@@ -654,7 +762,9 @@
       "pixel_sha256": "4f1122aecd623da6ca7626ea0d39e4cb9e9c241b2ed16133557cc15060cf2298"
     },
     {
-      "resource": "mayomods1108/military/07_gray_tethered_observation_balloon_with_small_basket",
+      "id": "03_aircraft_07",
+      "resource": "mayomods1108/military/03_aircraft_07",
+      "apk_asset": "assets/military1108/sprites/03_aircraft/03_aircraft_07.png",
       "sprite_id": 40683,
       "texture_id": 40682,
       "source": "inputs/sprites/03_aircraft/07_gray_tethered_observation_balloon_with_small_basket.png",
@@ -666,7 +776,9 @@
       "pixel_sha256": "fa1fd77737adfbad44fbea066dc6a6d6fecdaf07ad98e42a68ff7ccf0d38b402"
     },
     {
-      "resource": "mayomods1108/military/08_khaki_two_seat_biplane",
+      "id": "03_aircraft_08",
+      "resource": "mayomods1108/military/03_aircraft_08",
+      "apk_asset": "assets/military1108/sprites/03_aircraft/03_aircraft_08.png",
       "sprite_id": 40685,
       "texture_id": 40684,
       "source": "inputs/sprites/03_aircraft/08_khaki_two_seat_biplane.png",
@@ -678,7 +790,9 @@
       "pixel_sha256": "a135235fb2052f135a44aaa7af67f1a3254f5742d881aa1f9ac7e969e75734f8"
     },
     {
-      "resource": "mayomods1108/military/09_green_early_pusher_biplane",
+      "id": "03_aircraft_09",
+      "resource": "mayomods1108/military/03_aircraft_09",
+      "apk_asset": "assets/military1108/sprites/03_aircraft/03_aircraft_09.png",
       "sprite_id": 40687,
       "texture_id": 40686,
       "source": "inputs/sprites/03_aircraft/09_green_early_pusher_biplane.png",
@@ -690,7 +804,9 @@
       "pixel_sha256": "75e8c1f9490fe88fa7e3ec3cb8891d61c5e5a1a24f2ce8e56fcd7d67a24d5adf"
     },
     {
-      "resource": "mayomods1108/military/10_dark_green_maritime_biplane",
+      "id": "03_aircraft_10",
+      "resource": "mayomods1108/military/03_aircraft_10",
+      "apk_asset": "assets/military1108/sprites/03_aircraft/03_aircraft_10.png",
       "sprite_id": 40689,
       "texture_id": 40688,
       "source": "inputs/sprites/03_aircraft/10_dark_green_maritime_biplane.png",
@@ -702,7 +818,9 @@
       "pixel_sha256": "b143790ed5be1393e40cc840b950b1b0b02753a368c3ab78758ce01735017f94"
     },
     {
-      "resource": "mayomods1108/military/11_ivory_early_wire_braced_scout_monoplane",
+      "id": "03_aircraft_11",
+      "resource": "mayomods1108/military/03_aircraft_11",
+      "apk_asset": "assets/military1108/sprites/03_aircraft/03_aircraft_11.png",
       "sprite_id": 40691,
       "texture_id": 40690,
       "source": "inputs/sprites/03_aircraft/11_ivory_early_wire_braced_scout_monoplane.png",
@@ -714,7 +832,9 @@
       "pixel_sha256": "f52b649a4b4463eb1a458813ceef0d48144c1e57891595be5a7566f543aa489f"
     },
     {
-      "resource": "mayomods1108/military/12_blue_gray_early_floatplane",
+      "id": "03_aircraft_12",
+      "resource": "mayomods1108/military/03_aircraft_12",
+      "apk_asset": "assets/military1108/sprites/03_aircraft/03_aircraft_12.png",
       "sprite_id": 40693,
       "texture_id": 40692,
       "source": "inputs/sprites/03_aircraft/12_blue_gray_early_floatplane.png",
@@ -726,7 +846,9 @@
       "pixel_sha256": "791d19e9a5c42eb7f0ad6ac45f552b7fd5954dd24903bdc5cb63ff0cb4e00c6f"
     },
     {
-      "resource": "mayomods1108/military/13_olive_single_engine_ww2_fighter",
+      "id": "03_aircraft_13",
+      "resource": "mayomods1108/military/03_aircraft_13",
+      "apk_asset": "assets/military1108/sprites/03_aircraft/03_aircraft_13.png",
       "sprite_id": 40695,
       "texture_id": 40694,
       "source": "inputs/sprites/03_aircraft/13_olive_single_engine_ww2_fighter.png",
@@ -738,7 +860,9 @@
       "pixel_sha256": "61b1f28ed8077f9f76e3fa196f9e9ccb3b1f42dc2a23842dccf67dc95da1e162"
     },
     {
-      "resource": "mayomods1108/military/14_brown_and_green_camouflage_elliptical_wing_fighter",
+      "id": "03_aircraft_14",
+      "resource": "mayomods1108/military/03_aircraft_14",
+      "apk_asset": "assets/military1108/sprites/03_aircraft/03_aircraft_14.png",
       "sprite_id": 40697,
       "texture_id": 40696,
       "source": "inputs/sprites/03_aircraft/14_brown_and_green_camouflage_elliptical_wing_fighter.png",
@@ -750,7 +874,9 @@
       "pixel_sha256": "d6832322ff8bf011d4b30e46d7ef844bd45b3201108d4b7c305d7dc1e642f7b3"
     },
     {
-      "resource": "mayomods1108/military/15_tan_desert_single_engine_fighter",
+      "id": "03_aircraft_15",
+      "resource": "mayomods1108/military/03_aircraft_15",
+      "apk_asset": "assets/military1108/sprites/03_aircraft/03_aircraft_15.png",
       "sprite_id": 40699,
       "texture_id": 40698,
       "source": "inputs/sprites/03_aircraft/15_tan_desert_single_engine_fighter.png",
@@ -762,7 +888,9 @@
       "pixel_sha256": "4d0d93b6a356ea072493013de7db8f36c1abea7eba3ce4e5f75f5063d3329cdf"
     },
     {
-      "resource": "mayomods1108/military/16_white_winter_camouflage_single_engine_fighter",
+      "id": "03_aircraft_16",
+      "resource": "mayomods1108/military/03_aircraft_16",
+      "apk_asset": "assets/military1108/sprites/03_aircraft/03_aircraft_16.png",
       "sprite_id": 40701,
       "texture_id": 40700,
       "source": "inputs/sprites/03_aircraft/16_white_winter_camouflage_single_engine_fighter.png",
@@ -774,7 +902,9 @@
       "pixel_sha256": "ab502d6374e49c58ee1eed6f21b53dfab4eb75198c116e8924acf86599b2eb26"
     },
     {
-      "resource": "mayomods1108/military/17_gray_green_carrier_fighter_with_folded_wing_tips",
+      "id": "03_aircraft_17",
+      "resource": "mayomods1108/military/03_aircraft_17",
+      "apk_asset": "assets/military1108/sprites/03_aircraft/03_aircraft_17.png",
       "sprite_id": 40703,
       "texture_id": 40702,
       "source": "inputs/sprites/03_aircraft/17_gray_green_carrier_fighter_with_folded_wing_tips.png",
@@ -786,7 +916,9 @@
       "pixel_sha256": "ad448a27ecb4f3d7731292058cbafba39a037297bcbc4e7649686ceccb4159a8"
     },
     {
-      "resource": "mayomods1108/military/18_navy_blue_carrier_fighter",
+      "id": "03_aircraft_18",
+      "resource": "mayomods1108/military/03_aircraft_18",
+      "apk_asset": "assets/military1108/sprites/03_aircraft/03_aircraft_18.png",
       "sprite_id": 40705,
       "texture_id": 40704,
       "source": "inputs/sprites/03_aircraft/18_navy_blue_carrier_fighter.png",
@@ -798,7 +930,9 @@
       "pixel_sha256": "5eb58a45ea30e27c68106f8f711f9cac921f01a24b6cc5baef804b91f03611c7"
     },
     {
-      "resource": "mayomods1108/military/19_olive_twin_engine_medium_bomber",
+      "id": "03_aircraft_19",
+      "resource": "mayomods1108/military/03_aircraft_19",
+      "apk_asset": "assets/military1108/sprites/03_aircraft/03_aircraft_19.png",
       "sprite_id": 40707,
       "texture_id": 40706,
       "source": "inputs/sprites/03_aircraft/19_olive_twin_engine_medium_bomber.png",
@@ -810,7 +944,9 @@
       "pixel_sha256": "2705d874a0c5c6ec9d3ce444dfcdc9e14b8b116d5a3c4c4d3542004398dc02fa"
     },
     {
-      "resource": "mayomods1108/military/20_silver_four_engine_heavy_bomber",
+      "id": "03_aircraft_20",
+      "resource": "mayomods1108/military/03_aircraft_20",
+      "apk_asset": "assets/military1108/sprites/03_aircraft/03_aircraft_20.png",
       "sprite_id": 40709,
       "texture_id": 40708,
       "source": "inputs/sprites/03_aircraft/20_silver_four_engine_heavy_bomber.png",
@@ -822,7 +958,9 @@
       "pixel_sha256": "5b992252e7974cba148f5ff2933829ff51fe10674ce689d88ba31fcf5db4f8af"
     },
     {
-      "resource": "mayomods1108/military/21_olive_twin_engine_transport_aircraft",
+      "id": "03_aircraft_21",
+      "resource": "mayomods1108/military/03_aircraft_21",
+      "apk_asset": "assets/military1108/sprites/03_aircraft/03_aircraft_21.png",
       "sprite_id": 40711,
       "texture_id": 40710,
       "source": "inputs/sprites/03_aircraft/21_olive_twin_engine_transport_aircraft.png",
@@ -834,7 +972,9 @@
       "pixel_sha256": "7bfdf9a17d1f5dc78a3e6821e130c414a69f8d5b3ca75572ba7a503b7140862d"
     },
     {
-      "resource": "mayomods1108/military/22_gray_twin_boom_fighter",
+      "id": "03_aircraft_22",
+      "resource": "mayomods1108/military/03_aircraft_22",
+      "apk_asset": "assets/military1108/sprites/03_aircraft/03_aircraft_22.png",
       "sprite_id": 40713,
       "texture_id": 40712,
       "source": "inputs/sprites/03_aircraft/22_gray_twin_boom_fighter.png",
@@ -846,7 +986,9 @@
       "pixel_sha256": "35850db70f696bec0add5f4ebf2bcbbcd99d2b749f187f1f9e9fc74601b4c742"
     },
     {
-      "resource": "mayomods1108/military/23_green_large_flying_boat",
+      "id": "03_aircraft_23",
+      "resource": "mayomods1108/military/03_aircraft_23",
+      "apk_asset": "assets/military1108/sprites/03_aircraft/03_aircraft_23.png",
       "sprite_id": 40715,
       "texture_id": 40714,
       "source": "inputs/sprites/03_aircraft/23_green_large_flying_boat.png",
@@ -858,7 +1000,9 @@
       "pixel_sha256": "9eb5748c8be66094f1bc33126097ab7800861bcdf703badb705bdefb4d379271"
     },
     {
-      "resource": "mayomods1108/military/24_tan_military_transport_glider",
+      "id": "03_aircraft_24",
+      "resource": "mayomods1108/military/03_aircraft_24",
+      "apk_asset": "assets/military1108/sprites/03_aircraft/03_aircraft_24.png",
       "sprite_id": 40717,
       "texture_id": 40716,
       "source": "inputs/sprites/03_aircraft/24_tan_military_transport_glider.png",
@@ -870,7 +1014,9 @@
       "pixel_sha256": "bf883e3929eafed669b8fab7960cf8c3720efae12ca993a48e9a9c8391b6a53f"
     },
     {
-      "resource": "mayomods1108/military/01_brown_early_rhomboid_tracked_tank",
+      "id": "04_ground_vehicles_01",
+      "resource": "mayomods1108/military/04_ground_vehicles_01",
+      "apk_asset": "assets/military1108/sprites/04_ground_vehicles/04_ground_vehicles_01.png",
       "sprite_id": 40719,
       "texture_id": 40718,
       "source": "inputs/sprites/04_ground_vehicles/01_brown_early_rhomboid_tracked_tank.png",
@@ -882,7 +1028,9 @@
       "pixel_sha256": "90cecb7558eba6d5423a8b0dc16ccc69a6a31dd354f16597cc3af25660e583e5"
     },
     {
-      "resource": "mayomods1108/military/02_olive_small_early_turreted_tank",
+      "id": "04_ground_vehicles_02",
+      "resource": "mayomods1108/military/04_ground_vehicles_02",
+      "apk_asset": "assets/military1108/sprites/04_ground_vehicles/04_ground_vehicles_02.png",
       "sprite_id": 40721,
       "texture_id": 40720,
       "source": "inputs/sprites/04_ground_vehicles/02_olive_small_early_turreted_tank.png",
@@ -894,7 +1042,9 @@
       "pixel_sha256": "0844032f45d6add85915f25e62109092c0751a9b2a4fd010ccdabb2ff0b583f5"
     },
     {
-      "resource": "mayomods1108/military/03_gray_early_armored_car",
+      "id": "04_ground_vehicles_03",
+      "resource": "mayomods1108/military/04_ground_vehicles_03",
+      "apk_asset": "assets/military1108/sprites/04_ground_vehicles/04_ground_vehicles_03.png",
       "sprite_id": 40723,
       "texture_id": 40722,
       "source": "inputs/sprites/04_ground_vehicles/03_gray_early_armored_car.png",
@@ -906,7 +1056,9 @@
       "pixel_sha256": "74be9ceabfbd5311fd9c82fd75a5e5ef6ff3a4933ae88f1c6aa5be7cfebb5df0"
     },
     {
-      "resource": "mayomods1108/military/04_olive_1910s_canvas_covered_military_truck",
+      "id": "04_ground_vehicles_04",
+      "resource": "mayomods1108/military/04_ground_vehicles_04",
+      "apk_asset": "assets/military1108/sprites/04_ground_vehicles/04_ground_vehicles_04.png",
       "sprite_id": 40725,
       "texture_id": 40724,
       "source": "inputs/sprites/04_ground_vehicles/04_olive_1910s_canvas_covered_military_truck.png",
@@ -918,7 +1070,9 @@
       "pixel_sha256": "02ad6663ffaad37a8b8b851228780f752beeaa360c5e15f83d4d25c1bd74844b"
     },
     {
-      "resource": "mayomods1108/military/05_cream_early_military_ambulance_with_no_emblem",
+      "id": "04_ground_vehicles_05",
+      "resource": "mayomods1108/military/04_ground_vehicles_05",
+      "apk_asset": "assets/military1108/sprites/04_ground_vehicles/04_ground_vehicles_05.png",
       "sprite_id": 40727,
       "texture_id": 40726,
       "source": "inputs/sprites/04_ground_vehicles/05_cream_early_military_ambulance_with_no_emblem.png",
@@ -930,7 +1084,9 @@
       "pixel_sha256": "beedf5905d0ed14f82d656a578e8df451bfc48e0018f6368a09019512069c8b3"
     },
     {
-      "resource": "mayomods1108/military/06_brown_early_motorcycle_with_sidecar",
+      "id": "04_ground_vehicles_06",
+      "resource": "mayomods1108/military/04_ground_vehicles_06",
+      "apk_asset": "assets/military1108/sprites/04_ground_vehicles/04_ground_vehicles_06.png",
       "sprite_id": 40729,
       "texture_id": 40728,
       "source": "inputs/sprites/04_ground_vehicles/06_brown_early_motorcycle_with_sidecar.png",
@@ -942,7 +1098,9 @@
       "pixel_sha256": "2c0643bea2b8dec3d4772ed03eee2356e2c05ea63a819e8289eacd06936fc9d6"
     },
     {
-      "resource": "mayomods1108/military/07_wooden_horse_drawn_supply_cart_without_horse",
+      "id": "04_ground_vehicles_07",
+      "resource": "mayomods1108/military/04_ground_vehicles_07",
+      "apk_asset": "assets/military1108/sprites/04_ground_vehicles/04_ground_vehicles_07.png",
       "sprite_id": 40731,
       "texture_id": 40730,
       "source": "inputs/sprites/04_ground_vehicles/07_wooden_horse_drawn_supply_cart_without_horse.png",
@@ -954,7 +1112,9 @@
       "pixel_sha256": "1f887af9d0f68a36e1183d446de60558322709d478e99e4d5f686ff508ee98ef"
     },
     {
-      "resource": "mayomods1108/military/08_dark_green_1910s_staff_car",
+      "id": "04_ground_vehicles_08",
+      "resource": "mayomods1108/military/04_ground_vehicles_08",
+      "apk_asset": "assets/military1108/sprites/04_ground_vehicles/04_ground_vehicles_08.png",
       "sprite_id": 40733,
       "texture_id": 40732,
       "source": "inputs/sprites/04_ground_vehicles/08_dark_green_1910s_staff_car.png",
@@ -966,7 +1126,9 @@
       "pixel_sha256": "6d3e5b17c1564bc226fe1cf50d280db8377e6865a59659780dd006a625fc47a0"
     },
     {
-      "resource": "mayomods1108/military/09_black_small_steam_locomotive",
+      "id": "04_ground_vehicles_09",
+      "resource": "mayomods1108/military/04_ground_vehicles_09",
+      "apk_asset": "assets/military1108/sprites/04_ground_vehicles/04_ground_vehicles_09.png",
       "sprite_id": 40735,
       "texture_id": 40734,
       "source": "inputs/sprites/04_ground_vehicles/09_black_small_steam_locomotive.png",
@@ -978,7 +1140,9 @@
       "pixel_sha256": "ca037ed1ae32a2e29ce80526157b01accf1466013f6c80081711216f56df4460"
     },
     {
-      "resource": "mayomods1108/military/10_brown_military_flatbed_railway_wagon",
+      "id": "04_ground_vehicles_10",
+      "resource": "mayomods1108/military/04_ground_vehicles_10",
+      "apk_asset": "assets/military1108/sprites/04_ground_vehicles/04_ground_vehicles_10.png",
       "sprite_id": 40737,
       "texture_id": 40736,
       "source": "inputs/sprites/04_ground_vehicles/10_brown_military_flatbed_railway_wagon.png",
@@ -990,7 +1154,9 @@
       "pixel_sha256": "b241b05a5748a3818dfec39a6e8dbefae414b708b53764c5f781e7394fa214aa"
     },
     {
-      "resource": "mayomods1108/military/11_olive_vintage_military_bicycle",
+      "id": "04_ground_vehicles_11",
+      "resource": "mayomods1108/military/04_ground_vehicles_11",
+      "apk_asset": "assets/military1108/sprites/04_ground_vehicles/04_ground_vehicles_11.png",
       "sprite_id": 40739,
       "texture_id": 40738,
       "source": "inputs/sprites/04_ground_vehicles/11_olive_vintage_military_bicycle.png",
@@ -1002,7 +1168,9 @@
       "pixel_sha256": "00001dfeaf45bd47d4ff1224c0511cbf635a7d6b0821c307f442b6a3ba98b474"
     },
     {
-      "resource": "mayomods1108/military/12_gray_early_tracked_artillery_tractor",
+      "id": "04_ground_vehicles_12",
+      "resource": "mayomods1108/military/04_ground_vehicles_12",
+      "apk_asset": "assets/military1108/sprites/04_ground_vehicles/04_ground_vehicles_12.png",
       "sprite_id": 40741,
       "texture_id": 40740,
       "source": "inputs/sprites/04_ground_vehicles/12_gray_early_tracked_artillery_tractor.png",
@@ -1014,7 +1182,9 @@
       "pixel_sha256": "d1909af86a72b820a49d78980e479ad9e3b9a534d1d5c1ac1c450ff951fc3e79"
     },
     {
-      "resource": "mayomods1108/military/13_olive_ww2_medium_tank",
+      "id": "04_ground_vehicles_13",
+      "resource": "mayomods1108/military/04_ground_vehicles_13",
+      "apk_asset": "assets/military1108/sprites/04_ground_vehicles/04_ground_vehicles_13.png",
       "sprite_id": 40743,
       "texture_id": 40742,
       "source": "inputs/sprites/04_ground_vehicles/13_olive_ww2_medium_tank.png",
@@ -1026,7 +1196,9 @@
       "pixel_sha256": "51a5a00315861601065f75c10f5336401c9656398046071dd15167995758b1a7"
     },
     {
-      "resource": "mayomods1108/military/14_tan_desert_medium_tank",
+      "id": "04_ground_vehicles_14",
+      "resource": "mayomods1108/military/04_ground_vehicles_14",
+      "apk_asset": "assets/military1108/sprites/04_ground_vehicles/04_ground_vehicles_14.png",
       "sprite_id": 40745,
       "texture_id": 40744,
       "source": "inputs/sprites/04_ground_vehicles/14_tan_desert_medium_tank.png",
@@ -1038,7 +1210,9 @@
       "pixel_sha256": "f35e02bfadf7de7e644b83a4af7bb52432f0cd92355817115ae2bade59438d0f"
     },
     {
-      "resource": "mayomods1108/military/15_white_winter_camouflage_medium_tank",
+      "id": "04_ground_vehicles_15",
+      "resource": "mayomods1108/military/04_ground_vehicles_15",
+      "apk_asset": "assets/military1108/sprites/04_ground_vehicles/04_ground_vehicles_15.png",
       "sprite_id": 40747,
       "texture_id": 40746,
       "source": "inputs/sprites/04_ground_vehicles/15_white_winter_camouflage_medium_tank.png",
@@ -1050,7 +1224,9 @@
       "pixel_sha256": "8ae30da0b087f251df52fb38de02eedaa07906915622c8a81ab941ec508287c3"
     },
     {
-      "resource": "mayomods1108/military/16_olive_open_top_tank_destroyer",
+      "id": "04_ground_vehicles_16",
+      "resource": "mayomods1108/military/04_ground_vehicles_16",
+      "apk_asset": "assets/military1108/sprites/04_ground_vehicles/04_ground_vehicles_16.png",
       "sprite_id": 40749,
       "texture_id": 40748,
       "source": "inputs/sprites/04_ground_vehicles/16_olive_open_top_tank_destroyer.png",
@@ -1062,7 +1238,9 @@
       "pixel_sha256": "b887337ed1e9e7b027b31f1f0523f43cd4586b8c8eb59d7495260c37fd8d83d2"
     },
     {
-      "resource": "mayomods1108/military/17_gray_military_halftrack_troop_transport",
+      "id": "04_ground_vehicles_17",
+      "resource": "mayomods1108/military/04_ground_vehicles_17",
+      "apk_asset": "assets/military1108/sprites/04_ground_vehicles/04_ground_vehicles_17.png",
       "sprite_id": 40751,
       "texture_id": 40750,
       "source": "inputs/sprites/04_ground_vehicles/17_gray_military_halftrack_troop_transport.png",
@@ -1074,7 +1252,9 @@
       "pixel_sha256": "1e699112542c4a5818ed9b44b0cd12c29284bfe89208a1d150e7372767649a28"
     },
     {
-      "resource": "mayomods1108/military/18_olive_small_military_jeep",
+      "id": "04_ground_vehicles_18",
+      "resource": "mayomods1108/military/04_ground_vehicles_18",
+      "apk_asset": "assets/military1108/sprites/04_ground_vehicles/04_ground_vehicles_18.png",
       "sprite_id": 40753,
       "texture_id": 40752,
       "source": "inputs/sprites/04_ground_vehicles/18_olive_small_military_jeep.png",
@@ -1086,7 +1266,9 @@
       "pixel_sha256": "20cd5997abe93d919b51bba5764df8c79ba1d78521778c332c6671d389ee39d5"
     },
     {
-      "resource": "mayomods1108/military/19_olive_ww2_canvas_cargo_truck",
+      "id": "04_ground_vehicles_19",
+      "resource": "mayomods1108/military/04_ground_vehicles_19",
+      "apk_asset": "assets/military1108/sprites/04_ground_vehicles/04_ground_vehicles_19.png",
       "sprite_id": 40755,
       "texture_id": 40754,
       "source": "inputs/sprites/04_ground_vehicles/19_olive_ww2_canvas_cargo_truck.png",
@@ -1098,7 +1280,9 @@
       "pixel_sha256": "3d606f83709d719800adbd889507396759c6540c01b949bb16db8b5aef4ffe6a"
     },
     {
-      "resource": "mayomods1108/military/20_khaki_ww2_field_ambulance_with_no_emblem",
+      "id": "04_ground_vehicles_20",
+      "resource": "mayomods1108/military/04_ground_vehicles_20",
+      "apk_asset": "assets/military1108/sprites/04_ground_vehicles/04_ground_vehicles_20.png",
       "sprite_id": 40757,
       "texture_id": 40756,
       "source": "inputs/sprites/04_ground_vehicles/20_khaki_ww2_field_ambulance_with_no_emblem.png",
@@ -1110,7 +1294,9 @@
       "pixel_sha256": "b669d632d09a10252157c3e76ce30b0aadb1876bb891015a2cee033aedc6afa1"
     },
     {
-      "resource": "mayomods1108/military/21_olive_military_fuel_tanker_truck",
+      "id": "04_ground_vehicles_21",
+      "resource": "mayomods1108/military/04_ground_vehicles_21",
+      "apk_asset": "assets/military1108/sprites/04_ground_vehicles/04_ground_vehicles_21.png",
       "sprite_id": 40759,
       "texture_id": 40758,
       "source": "inputs/sprites/04_ground_vehicles/21_olive_military_fuel_tanker_truck.png",
@@ -1122,7 +1308,9 @@
       "pixel_sha256": "5c0a97606141f203b1c9a8c30bc84216ac9bfef8a6dd8f0be4e1552f1e0b30b8"
     },
     {
-      "resource": "mayomods1108/military/22_gray_ww2_motorcycle",
+      "id": "04_ground_vehicles_22",
+      "resource": "mayomods1108/military/04_ground_vehicles_22",
+      "apk_asset": "assets/military1108/sprites/04_ground_vehicles/04_ground_vehicles_22.png",
       "sprite_id": 40761,
       "texture_id": 40760,
       "source": "inputs/sprites/04_ground_vehicles/22_gray_ww2_motorcycle.png",
@@ -1134,7 +1322,9 @@
       "pixel_sha256": "5b162bf748bf508ade559fd2778cb2673b1961b9df2afa1b35c1635665746cd4"
     },
     {
-      "resource": "mayomods1108/military/23_tan_armored_scout_car",
+      "id": "04_ground_vehicles_23",
+      "resource": "mayomods1108/military/04_ground_vehicles_23",
+      "apk_asset": "assets/military1108/sprites/04_ground_vehicles/04_ground_vehicles_23.png",
       "sprite_id": 40763,
       "texture_id": 40762,
       "source": "inputs/sprites/04_ground_vehicles/23_tan_armored_scout_car.png",
@@ -1146,7 +1336,9 @@
       "pixel_sha256": "fac8e70ad31748f56d7b103b58ecf8398e6162a38f6808c753eee32bec9d3ce4"
     },
     {
-      "resource": "mayomods1108/military/24_olive_amphibious_military_transport_vehicle",
+      "id": "04_ground_vehicles_24",
+      "resource": "mayomods1108/military/04_ground_vehicles_24",
+      "apk_asset": "assets/military1108/sprites/04_ground_vehicles/04_ground_vehicles_24.png",
       "sprite_id": 40765,
       "texture_id": 40764,
       "source": "inputs/sprites/04_ground_vehicles/24_olive_amphibious_military_transport_vehicle.png",
@@ -1158,7 +1350,9 @@
       "pixel_sha256": "7eb96806332a9749f74f94686ee3589c90579cfef757dc73326f8340fe578955"
     },
     {
-      "resource": "mayomods1108/military/01_straight_low_sandbag_wall_section",
+      "id": "05_trench_camp_props_01",
+      "resource": "mayomods1108/military/05_trench_camp_props_01",
+      "apk_asset": "assets/military1108/sprites/05_trench_camp_props/05_trench_camp_props_01.png",
       "sprite_id": 40767,
       "texture_id": 40766,
       "source": "inputs/sprites/05_trench_camp_props/01_straight_low_sandbag_wall_section.png",
@@ -1170,7 +1364,9 @@
       "pixel_sha256": "230a14b76840dc12205a1e5845b98fbbadf48269ef6566bd3dcb956758b105a5"
     },
     {
-      "resource": "mayomods1108/military/02_l_shaped_sandbag_corner_wall",
+      "id": "05_trench_camp_props_02",
+      "resource": "mayomods1108/military/05_trench_camp_props_02",
+      "apk_asset": "assets/military1108/sprites/05_trench_camp_props/05_trench_camp_props_02.png",
       "sprite_id": 40769,
       "texture_id": 40768,
       "source": "inputs/sprites/05_trench_camp_props/02_l_shaped_sandbag_corner_wall.png",
@@ -1182,7 +1378,9 @@
       "pixel_sha256": "15e6f3bcd47990d2f6b381a12fb5c40a8f6da0e22f00ed923eef806fdff7d681"
     },
     {
-      "resource": "mayomods1108/military/03_timber_reinforced_trench_wall_section",
+      "id": "05_trench_camp_props_03",
+      "resource": "mayomods1108/military/05_trench_camp_props_03",
+      "apk_asset": "assets/military1108/sprites/05_trench_camp_props/05_trench_camp_props_03.png",
       "sprite_id": 40771,
       "texture_id": 40770,
       "source": "inputs/sprites/05_trench_camp_props/03_timber_reinforced_trench_wall_section.png",
@@ -1194,7 +1392,9 @@
       "pixel_sha256": "fc7c430ccec3ca7a2b6be6c1cf0d81e463f8bfd9d4524b056b327159f3a6dec1"
     },
     {
-      "resource": "mayomods1108/military/04_wooden_trench_ladder",
+      "id": "05_trench_camp_props_04",
+      "resource": "mayomods1108/military/05_trench_camp_props_04",
+      "apk_asset": "assets/military1108/sprites/05_trench_camp_props/05_trench_camp_props_04.png",
       "sprite_id": 40773,
       "texture_id": 40772,
       "source": "inputs/sprites/05_trench_camp_props/04_wooden_trench_ladder.png",
@@ -1206,7 +1406,9 @@
       "pixel_sha256": "0289097db0763ecdbd10d2fc0cf1aa696640a7ef721be46226ead3158767d15a"
     },
     {
-      "resource": "mayomods1108/military/05_short_barbed_wire_fence_section_with_posts",
+      "id": "05_trench_camp_props_05",
+      "resource": "mayomods1108/military/05_trench_camp_props_05",
+      "apk_asset": "assets/military1108/sprites/05_trench_camp_props/05_trench_camp_props_05.png",
       "sprite_id": 40775,
       "texture_id": 40774,
       "source": "inputs/sprites/05_trench_camp_props/05_short_barbed_wire_fence_section_with_posts.png",
@@ -1218,7 +1420,9 @@
       "pixel_sha256": "9e6293a73f55a6c3fca1a5da9aa911bd1cfce133e73e2507c877fe56eec44856"
     },
     {
-      "resource": "mayomods1108/military/06_steel_defensive_hedgehog_obstacle",
+      "id": "05_trench_camp_props_06",
+      "resource": "mayomods1108/military/05_trench_camp_props_06",
+      "apk_asset": "assets/military1108/sprites/05_trench_camp_props/05_trench_camp_props_06.png",
       "sprite_id": 40777,
       "texture_id": 40776,
       "source": "inputs/sprites/05_trench_camp_props/06_steel_defensive_hedgehog_obstacle.png",
@@ -1230,7 +1434,9 @@
       "pixel_sha256": "dde92254bc183e69d74f216bc6a0d23258e606999ba30539066d9d22107a17a9"
     },
     {
-      "resource": "mayomods1108/military/07_small_khaki_canvas_tent",
+      "id": "05_trench_camp_props_07",
+      "resource": "mayomods1108/military/05_trench_camp_props_07",
+      "apk_asset": "assets/military1108/sprites/05_trench_camp_props/05_trench_camp_props_07.png",
       "sprite_id": 40779,
       "texture_id": 40778,
       "source": "inputs/sprites/05_trench_camp_props/07_small_khaki_canvas_tent.png",
@@ -1242,7 +1448,9 @@
       "pixel_sha256": "0e8c4cefbe3d97aafdf4de4bc55d426ccd9b6aaec364267d92e71018ec237d47"
     },
     {
-      "resource": "mayomods1108/military/08_large_cream_field_medical_tent_with_no_emblem",
+      "id": "05_trench_camp_props_08",
+      "resource": "mayomods1108/military/05_trench_camp_props_08",
+      "apk_asset": "assets/military1108/sprites/05_trench_camp_props/05_trench_camp_props_08.png",
       "sprite_id": 40781,
       "texture_id": 40780,
       "source": "inputs/sprites/05_trench_camp_props/08_large_cream_field_medical_tent_with_no_emblem.png",
@@ -1254,7 +1462,9 @@
       "pixel_sha256": "0976089fd15debaf11812f3598c436e561729866dec3b51ddd8504b2b0d12ffc"
     },
     {
-      "resource": "mayomods1108/military/09_wooden_observation_watchtower",
+      "id": "05_trench_camp_props_09",
+      "resource": "mayomods1108/military/05_trench_camp_props_09",
+      "apk_asset": "assets/military1108/sprites/05_trench_camp_props/05_trench_camp_props_09.png",
       "sprite_id": 40783,
       "texture_id": 40782,
       "source": "inputs/sprites/05_trench_camp_props/09_wooden_observation_watchtower.png",
@@ -1266,7 +1476,9 @@
       "pixel_sha256": "bba5f7b0da7e91fcc3611a391dc391b56ad454c9536116eeea859438e251d419"
     },
     {
-      "resource": "mayomods1108/military/10_wooden_earth_covered_bunker",
+      "id": "05_trench_camp_props_10",
+      "resource": "mayomods1108/military/05_trench_camp_props_10",
+      "apk_asset": "assets/military1108/sprites/05_trench_camp_props/05_trench_camp_props_10.png",
       "sprite_id": 40785,
       "texture_id": 40784,
       "source": "inputs/sprites/05_trench_camp_props/10_wooden_earth_covered_bunker.png",
@@ -1278,7 +1490,9 @@
       "pixel_sha256": "673d3a9ad4f3ae6449eb7642eff453abed90dfc414e940c066fe561ddfb9366d"
     },
     {
-      "resource": "mayomods1108/military/11_small_gray_concrete_bunker",
+      "id": "05_trench_camp_props_11",
+      "resource": "mayomods1108/military/05_trench_camp_props_11",
+      "apk_asset": "assets/military1108/sprites/05_trench_camp_props/05_trench_camp_props_11.png",
       "sprite_id": 40787,
       "texture_id": 40786,
       "source": "inputs/sprites/05_trench_camp_props/11_small_gray_concrete_bunker.png",
@@ -1290,7 +1504,9 @@
       "pixel_sha256": "802be604e1891c279c62f5632b16d6b23c5de75de88b34e0d9847eb7b7cc7471"
     },
     {
-      "resource": "mayomods1108/military/12_corrugated_metal_dugout_shelter",
+      "id": "05_trench_camp_props_12",
+      "resource": "mayomods1108/military/05_trench_camp_props_12",
+      "apk_asset": "assets/military1108/sprites/05_trench_camp_props/05_trench_camp_props_12.png",
       "sprite_id": 40789,
       "texture_id": 40788,
       "source": "inputs/sprites/05_trench_camp_props/12_corrugated_metal_dugout_shelter.png",
@@ -1302,7 +1518,9 @@
       "pixel_sha256": "aa54fa0471781fd367a140e1607ae3acb071f42d1f1560e9cda5e346afdfa561"
     },
     {
-      "resource": "mayomods1108/military/13_closed_wooden_supply_crate",
+      "id": "05_trench_camp_props_13",
+      "resource": "mayomods1108/military/05_trench_camp_props_13",
+      "apk_asset": "assets/military1108/sprites/05_trench_camp_props/05_trench_camp_props_13.png",
       "sprite_id": 40791,
       "texture_id": 40790,
       "source": "inputs/sprites/05_trench_camp_props/13_closed_wooden_supply_crate.png",
@@ -1314,7 +1532,9 @@
       "pixel_sha256": "83156ec0ce4c62888913b9716382dc2944163796efebaf592fb4d44d5ac84306"
     },
     {
-      "resource": "mayomods1108/military/14_olive_ammunition_storage_crate",
+      "id": "05_trench_camp_props_14",
+      "resource": "mayomods1108/military/05_trench_camp_props_14",
+      "apk_asset": "assets/military1108/sprites/05_trench_camp_props/05_trench_camp_props_14.png",
       "sprite_id": 40793,
       "texture_id": 40792,
       "source": "inputs/sprites/05_trench_camp_props/14_olive_ammunition_storage_crate.png",
@@ -1326,7 +1546,9 @@
       "pixel_sha256": "442414d00903a6e2f5d477a79738cdc80cb9aaa921ea2d58dee28e9210e93e46"
     },
     {
-      "resource": "mayomods1108/military/15_tan_medical_satchel_with_a_plain_green_plus",
+      "id": "05_trench_camp_props_15",
+      "resource": "mayomods1108/military/05_trench_camp_props_15",
+      "apk_asset": "assets/military1108/sprites/05_trench_camp_props/05_trench_camp_props_15.png",
       "sprite_id": 40795,
       "texture_id": 40794,
       "source": "inputs/sprites/05_trench_camp_props/15_tan_medical_satchel_with_a_plain_green_plus.png",
@@ -1338,7 +1560,9 @@
       "pixel_sha256": "1fb4c85365996b22b9659e35ce5f0500e40548c422aca2699d88ea8259770b45"
     },
     {
-      "resource": "mayomods1108/military/16_metal_military_canteen",
+      "id": "05_trench_camp_props_16",
+      "resource": "mayomods1108/military/05_trench_camp_props_16",
+      "apk_asset": "assets/military1108/sprites/05_trench_camp_props/05_trench_camp_props_16.png",
       "sprite_id": 40797,
       "texture_id": 40796,
       "source": "inputs/sprites/05_trench_camp_props/16_metal_military_canteen.png",
@@ -1350,7 +1574,9 @@
       "pixel_sha256": "96ebe162ab54aaa2539118a136b5c665142c8b32080c80e06a68b89ee61a0617"
     },
     {
-      "resource": "mayomods1108/military/17_khaki_canvas_field_backpack",
+      "id": "05_trench_camp_props_17",
+      "resource": "mayomods1108/military/05_trench_camp_props_17",
+      "apk_asset": "assets/military1108/sprites/05_trench_camp_props/05_trench_camp_props_17.png",
       "sprite_id": 40799,
       "texture_id": 40798,
       "source": "inputs/sprites/05_trench_camp_props/17_khaki_canvas_field_backpack.png",
@@ -1362,7 +1588,9 @@
       "pixel_sha256": "253e8155a6553bf235b9ea1651831cee9750b0edfa82b73edca51f9e0c75748b"
     },
     {
-      "resource": "mayomods1108/military/18_olive_portable_field_radio",
+      "id": "05_trench_camp_props_18",
+      "resource": "mayomods1108/military/05_trench_camp_props_18",
+      "apk_asset": "assets/military1108/sprites/05_trench_camp_props/05_trench_camp_props_18.png",
       "sprite_id": 40801,
       "texture_id": 40800,
       "source": "inputs/sprites/05_trench_camp_props/18_olive_portable_field_radio.png",
@@ -1374,7 +1602,9 @@
       "pixel_sha256": "8d29352d66e1fbb2538c68a633e97572ecab8331380a117be102b0d05ef8bbda"
     },
     {
-      "resource": "mayomods1108/military/19_black_military_binoculars",
+      "id": "05_trench_camp_props_19",
+      "resource": "mayomods1108/military/05_trench_camp_props_19",
+      "apk_asset": "assets/military1108/sprites/05_trench_camp_props/05_trench_camp_props_19.png",
       "sprite_id": 40803,
       "texture_id": 40802,
       "source": "inputs/sprites/05_trench_camp_props/19_black_military_binoculars.png",
@@ -1386,7 +1616,9 @@
       "pixel_sha256": "aad34a631df78c00b8c57017a89789cda9eb5f9775661a4ccb9c57e94f81b978"
     },
     {
-      "resource": "mayomods1108/military/20_black_field_telephone_with_handset",
+      "id": "05_trench_camp_props_20",
+      "resource": "mayomods1108/military/05_trench_camp_props_20",
+      "apk_asset": "assets/military1108/sprites/05_trench_camp_props/05_trench_camp_props_20.png",
       "sprite_id": 40805,
       "texture_id": 40804,
       "source": "inputs/sprites/05_trench_camp_props/20_black_field_telephone_with_handset.png",
@@ -1398,7 +1630,9 @@
       "pixel_sha256": "0d16f64accda65a37fbaf10fd2847a5549283e4944c74a77d81cc0e233c58d37"
     },
     {
-      "resource": "mayomods1108/military/21_steel_military_searchlight_on_tripod",
+      "id": "05_trench_camp_props_21",
+      "resource": "mayomods1108/military/05_trench_camp_props_21",
+      "apk_asset": "assets/military1108/sprites/05_trench_camp_props/05_trench_camp_props_21.png",
       "sprite_id": 40807,
       "texture_id": 40806,
       "source": "inputs/sprites/05_trench_camp_props/21_steel_military_searchlight_on_tripod.png",
@@ -1410,7 +1644,9 @@
       "pixel_sha256": "a05d96c9344deca79912a493e0ea642d8ea675ddf84afd6036bb75dc8eebfe60"
     },
     {
-      "resource": "mayomods1108/military/22_rolled_wool_blanket_with_straps",
+      "id": "05_trench_camp_props_22",
+      "resource": "mayomods1108/military/05_trench_camp_props_22",
+      "apk_asset": "assets/military1108/sprites/05_trench_camp_props/05_trench_camp_props_22.png",
       "sprite_id": 40809,
       "texture_id": 40808,
       "source": "inputs/sprites/05_trench_camp_props/22_rolled_wool_blanket_with_straps.png",
@@ -1422,7 +1658,9 @@
       "pixel_sha256": "f13d47238daebce9110ee2316f08bfb06d638d4c0c34f4efcc91e5a8ff6e41da"
     },
     {
-      "resource": "mayomods1108/military/23_metal_mess_tin_and_cup_as_one_compact_set",
+      "id": "05_trench_camp_props_23",
+      "resource": "mayomods1108/military/05_trench_camp_props_23",
+      "apk_asset": "assets/military1108/sprites/05_trench_camp_props/05_trench_camp_props_23.png",
       "sprite_id": 40811,
       "texture_id": 40810,
       "source": "inputs/sprites/05_trench_camp_props/23_metal_mess_tin_and_cup_as_one_compact_set.png",
@@ -1434,7 +1672,9 @@
       "pixel_sha256": "a35b1cf0029dc739714c85fa62ba7b74c2017fa9791a7587ba4f680a6061df31"
     },
     {
-      "resource": "mayomods1108/military/24_small_wooden_chessboard_with_pieces_for_camp_recreation",
+      "id": "05_trench_camp_props_24",
+      "resource": "mayomods1108/military/05_trench_camp_props_24",
+      "apk_asset": "assets/military1108/sprites/05_trench_camp_props/05_trench_camp_props_24.png",
       "sprite_id": 40813,
       "texture_id": 40812,
       "source": "inputs/sprites/05_trench_camp_props/24_small_wooden_chessboard_with_pieces_for_camp_recreation.png",
@@ -1446,7 +1686,9 @@
       "pixel_sha256": "427b22ee0ddfb4234e28ccd6a667f9c5f38247b7f86fb04b5681ad6ea57cfac2"
     },
     {
-      "resource": "mayomods1108/military/01_gray_ww1_dreadnought_battleship",
+      "id": "06_ships_weapons_equipment_01",
+      "resource": "mayomods1108/military/06_ships_weapons_equipment_01",
+      "apk_asset": "assets/military1108/sprites/06_ships_weapons_equipment/06_ships_weapons_equipment_01.png",
       "sprite_id": 40815,
       "texture_id": 40814,
       "source": "inputs/sprites/06_ships_weapons_equipment/01_gray_ww1_dreadnought_battleship.png",
@@ -1458,7 +1700,9 @@
       "pixel_sha256": "c8be338172201c4461d93adcdc3b1956ef80cdf645f5778a5a8fd762132fe4fa"
     },
     {
-      "resource": "mayomods1108/military/02_gray_ww1_destroyer",
+      "id": "06_ships_weapons_equipment_02",
+      "resource": "mayomods1108/military/06_ships_weapons_equipment_02",
+      "apk_asset": "assets/military1108/sprites/06_ships_weapons_equipment/06_ships_weapons_equipment_02.png",
       "sprite_id": 40817,
       "texture_id": 40816,
       "source": "inputs/sprites/06_ships_weapons_equipment/02_gray_ww1_destroyer.png",
@@ -1470,7 +1714,9 @@
       "pixel_sha256": "13d0b98c220d88bbcb8adf46845ac0c32e1d576414415e89e6e422384ec3d622"
     },
     {
-      "resource": "mayomods1108/military/03_gray_ww2_battleship",
+      "id": "06_ships_weapons_equipment_03",
+      "resource": "mayomods1108/military/06_ships_weapons_equipment_03",
+      "apk_asset": "assets/military1108/sprites/06_ships_weapons_equipment/06_ships_weapons_equipment_03.png",
       "sprite_id": 40819,
       "texture_id": 40818,
       "source": "inputs/sprites/06_ships_weapons_equipment/03_gray_ww2_battleship.png",
@@ -1482,7 +1728,9 @@
       "pixel_sha256": "654f5c24a8c3a25ac18a52e3dc73336c671dbcce7eae866050ac700aad24cd92"
     },
     {
-      "resource": "mayomods1108/military/04_gray_ww2_aircraft_carrier_with_simple_flat_deck",
+      "id": "06_ships_weapons_equipment_04",
+      "resource": "mayomods1108/military/06_ships_weapons_equipment_04",
+      "apk_asset": "assets/military1108/sprites/06_ships_weapons_equipment/06_ships_weapons_equipment_04.png",
       "sprite_id": 40821,
       "texture_id": 40820,
       "source": "inputs/sprites/06_ships_weapons_equipment/04_gray_ww2_aircraft_carrier_with_simple_flat_deck.png",
@@ -1494,7 +1742,9 @@
       "pixel_sha256": "88805fdb46300ae445344e25b643662c9193520007f2b1fc45924f3bccb5afc0"
     },
     {
-      "resource": "mayomods1108/military/05_dark_gray_submarine",
+      "id": "06_ships_weapons_equipment_05",
+      "resource": "mayomods1108/military/06_ships_weapons_equipment_05",
+      "apk_asset": "assets/military1108/sprites/06_ships_weapons_equipment/06_ships_weapons_equipment_05.png",
       "sprite_id": 40823,
       "texture_id": 40822,
       "source": "inputs/sprites/06_ships_weapons_equipment/05_dark_gray_submarine.png",
@@ -1506,7 +1756,9 @@
       "pixel_sha256": "0f051489ec063269c3f2e0e4946b2cd76e3d36eceab05cbd4cee8d1027019e8c"
     },
     {
-      "resource": "mayomods1108/military/06_olive_small_open_troop_landing_craft",
+      "id": "06_ships_weapons_equipment_06",
+      "resource": "mayomods1108/military/06_ships_weapons_equipment_06",
+      "apk_asset": "assets/military1108/sprites/06_ships_weapons_equipment/06_ships_weapons_equipment_06.png",
       "sprite_id": 40825,
       "texture_id": 40824,
       "source": "inputs/sprites/06_ships_weapons_equipment/06_olive_small_open_troop_landing_craft.png",
@@ -1518,7 +1770,9 @@
       "pixel_sha256": "d8d09f00ff5bd54194266f0f02b4110b5a8c7a23588876578ec7c1828271d493"
     },
     {
-      "resource": "mayomods1108/military/07_wooden_bolt_action_rifle",
+      "id": "06_ships_weapons_equipment_07",
+      "resource": "mayomods1108/military/06_ships_weapons_equipment_07",
+      "apk_asset": "assets/military1108/sprites/06_ships_weapons_equipment/06_ships_weapons_equipment_07.png",
       "sprite_id": 40827,
       "texture_id": 40826,
       "source": "inputs/sprites/06_ships_weapons_equipment/07_wooden_bolt_action_rifle.png",
@@ -1530,7 +1784,9 @@
       "pixel_sha256": "bdd0d9cfda6674dce76696c88eb2d6d671ea37c77082c30e13f97125a157bca3"
     },
     {
-      "resource": "mayomods1108/military/08_short_wooden_military_carbine",
+      "id": "06_ships_weapons_equipment_08",
+      "resource": "mayomods1108/military/06_ships_weapons_equipment_08",
+      "apk_asset": "assets/military1108/sprites/06_ships_weapons_equipment/06_ships_weapons_equipment_08.png",
       "sprite_id": 40829,
       "texture_id": 40828,
       "source": "inputs/sprites/06_ships_weapons_equipment/08_short_wooden_military_carbine.png",
@@ -1542,7 +1798,9 @@
       "pixel_sha256": "da8b9ba5ad8ea8ba4a3e652ed190929570f7eae8e1bd859dae5509351e9acd77"
     },
     {
-      "resource": "mayomods1108/military/09_wood_and_steel_straight_magazine_submachine_gun",
+      "id": "06_ships_weapons_equipment_09",
+      "resource": "mayomods1108/military/06_ships_weapons_equipment_09",
+      "apk_asset": "assets/military1108/sprites/06_ships_weapons_equipment/06_ships_weapons_equipment_09.png",
       "sprite_id": 40831,
       "texture_id": 40830,
       "source": "inputs/sprites/06_ships_weapons_equipment/09_wood_and_steel_straight_magazine_submachine_gun.png",
@@ -1554,7 +1812,9 @@
       "pixel_sha256": "78383d61faa9d634ecfc8aadc46c3207bcf6126584565ac130d88d81e0ad1d09"
     },
     {
-      "resource": "mayomods1108/military/10_wood_and_steel_drum_magazine_submachine_gun",
+      "id": "06_ships_weapons_equipment_10",
+      "resource": "mayomods1108/military/06_ships_weapons_equipment_10",
+      "apk_asset": "assets/military1108/sprites/06_ships_weapons_equipment/06_ships_weapons_equipment_10.png",
       "sprite_id": 40833,
       "texture_id": 40832,
       "source": "inputs/sprites/06_ships_weapons_equipment/10_wood_and_steel_drum_magazine_submachine_gun.png",
@@ -1566,7 +1826,9 @@
       "pixel_sha256": "f232157e335c95b2e5a71e663a6c8fc0d417955fe0fa0963a82b8f2ead509423"
     },
     {
-      "resource": "mayomods1108/military/11_light_machine_gun_on_bipod",
+      "id": "06_ships_weapons_equipment_11",
+      "resource": "mayomods1108/military/06_ships_weapons_equipment_11",
+      "apk_asset": "assets/military1108/sprites/06_ships_weapons_equipment/06_ships_weapons_equipment_11.png",
       "sprite_id": 40835,
       "texture_id": 40834,
       "source": "inputs/sprites/06_ships_weapons_equipment/11_light_machine_gun_on_bipod.png",
@@ -1578,7 +1840,9 @@
       "pixel_sha256": "6fa78b7f2fc4f7fac39d3478b274615db145bc564d26ab3c8648977fb1534079"
     },
     {
-      "resource": "mayomods1108/military/12_heavy_machine_gun_on_tripod",
+      "id": "06_ships_weapons_equipment_12",
+      "resource": "mayomods1108/military/06_ships_weapons_equipment_12",
+      "apk_asset": "assets/military1108/sprites/06_ships_weapons_equipment/06_ships_weapons_equipment_12.png",
       "sprite_id": 40837,
       "texture_id": 40836,
       "source": "inputs/sprites/06_ships_weapons_equipment/12_heavy_machine_gun_on_tripod.png",
@@ -1590,7 +1854,9 @@
       "pixel_sha256": "4f27300e00806e4605c1135a1e74a476d4308641db8392d752a34cf13670891e"
     },
     {
-      "resource": "mayomods1108/military/13_olive_early_field_artillery_gun",
+      "id": "06_ships_weapons_equipment_13",
+      "resource": "mayomods1108/military/06_ships_weapons_equipment_13",
+      "apk_asset": "assets/military1108/sprites/06_ships_weapons_equipment/06_ships_weapons_equipment_13.png",
       "sprite_id": 40839,
       "texture_id": 40838,
       "source": "inputs/sprites/06_ships_weapons_equipment/13_olive_early_field_artillery_gun.png",
@@ -1602,7 +1868,9 @@
       "pixel_sha256": "78c63a527de86ee117a1a6d552d5763cc46bbdf30f0ea48a4522bab76639467a"
     },
     {
-      "resource": "mayomods1108/military/14_tan_ww2_antitank_gun",
+      "id": "06_ships_weapons_equipment_14",
+      "resource": "mayomods1108/military/06_ships_weapons_equipment_14",
+      "apk_asset": "assets/military1108/sprites/06_ships_weapons_equipment/06_ships_weapons_equipment_14.png",
       "sprite_id": 40841,
       "texture_id": 40840,
       "source": "inputs/sprites/06_ships_weapons_equipment/14_tan_ww2_antitank_gun.png",
@@ -1614,7 +1882,9 @@
       "pixel_sha256": "518ff66d4863668bb17b2a6fefab1b5770c4a450c342e2acd25eb01b1421c024"
     },
     {
-      "resource": "mayomods1108/military/15_gray_antiaircraft_gun",
+      "id": "06_ships_weapons_equipment_15",
+      "resource": "mayomods1108/military/06_ships_weapons_equipment_15",
+      "apk_asset": "assets/military1108/sprites/06_ships_weapons_equipment/06_ships_weapons_equipment_15.png",
       "sprite_id": 40843,
       "texture_id": 40842,
       "source": "inputs/sprites/06_ships_weapons_equipment/15_gray_antiaircraft_gun.png",
@@ -1626,7 +1896,9 @@
       "pixel_sha256": "ccdd6470aec106acd5d4ef283cf44f59184482e4af5a7f7195cb63fec1388152"
     },
     {
-      "resource": "mayomods1108/military/16_olive_mortar_on_baseplate",
+      "id": "06_ships_weapons_equipment_16",
+      "resource": "mayomods1108/military/06_ships_weapons_equipment_16",
+      "apk_asset": "assets/military1108/sprites/06_ships_weapons_equipment/06_ships_weapons_equipment_16.png",
       "sprite_id": 40845,
       "texture_id": 40844,
       "source": "inputs/sprites/06_ships_weapons_equipment/16_olive_mortar_on_baseplate.png",
@@ -1638,7 +1910,9 @@
       "pixel_sha256": "3fcbfb625e19f58089b08d6c4275f975f57621dd77d18a02af9326bddc562404"
     },
     {
-      "resource": "mayomods1108/military/17_olive_round_fragmentation_grenade",
+      "id": "06_ships_weapons_equipment_17",
+      "resource": "mayomods1108/military/06_ships_weapons_equipment_17",
+      "apk_asset": "assets/military1108/sprites/06_ships_weapons_equipment/06_ships_weapons_equipment_17.png",
       "sprite_id": 40847,
       "texture_id": 40846,
       "source": "inputs/sprites/06_ships_weapons_equipment/17_olive_round_fragmentation_grenade.png",
@@ -1650,7 +1924,9 @@
       "pixel_sha256": "089cb2ba5bbeb765412e69a2adec5d930e4ea38512e8986a78940bcc1e68025c"
     },
     {
-      "resource": "mayomods1108/military/18_brown_handled_stick_grenade",
+      "id": "06_ships_weapons_equipment_18",
+      "resource": "mayomods1108/military/06_ships_weapons_equipment_18",
+      "apk_asset": "assets/military1108/sprites/06_ships_weapons_equipment/06_ships_weapons_equipment_18.png",
       "sprite_id": 40849,
       "texture_id": 40848,
       "source": "inputs/sprites/06_ships_weapons_equipment/18_brown_handled_stick_grenade.png",
@@ -1662,7 +1938,9 @@
       "pixel_sha256": "32d815d39c7e73f36bdc2257dc1ff7a1209dae4d0c954490db2ac2b07fb4bda4"
     },
     {
-      "resource": "mayomods1108/military/19_gold_star_service_medal_on_khaki_ribbon",
+      "id": "06_ships_weapons_equipment_19",
+      "resource": "mayomods1108/military/06_ships_weapons_equipment_19",
+      "apk_asset": "assets/military1108/sprites/06_ships_weapons_equipment/06_ships_weapons_equipment_19.png",
       "sprite_id": 40851,
       "texture_id": 40850,
       "source": "inputs/sprites/06_ships_weapons_equipment/19_gold_star_service_medal_on_khaki_ribbon.png",
@@ -1674,7 +1952,9 @@
       "pixel_sha256": "be0f31de612ac60b80fd58da771840995777943c582aef10ead184de013ca748"
     },
     {
-      "resource": "mayomods1108/military/20_silver_circular_service_medal_on_blue_ribbon",
+      "id": "06_ships_weapons_equipment_20",
+      "resource": "mayomods1108/military/06_ships_weapons_equipment_20",
+      "apk_asset": "assets/military1108/sprites/06_ships_weapons_equipment/06_ships_weapons_equipment_20.png",
       "sprite_id": 40853,
       "texture_id": 40852,
       "source": "inputs/sprites/06_ships_weapons_equipment/20_silver_circular_service_medal_on_blue_ribbon.png",
@@ -1686,7 +1966,9 @@
       "pixel_sha256": "cd862e276ff8255e4f6e81d4fa4c8aac59d5c9b622a06602c2853dc03a49d2a5"
     },
     {
-      "resource": "mayomods1108/military/21_brass_pocket_compass",
+      "id": "06_ships_weapons_equipment_21",
+      "resource": "mayomods1108/military/06_ships_weapons_equipment_21",
+      "apk_asset": "assets/military1108/sprites/06_ships_weapons_equipment/06_ships_weapons_equipment_21.png",
       "sprite_id": 40855,
       "texture_id": 40854,
       "source": "inputs/sprites/06_ships_weapons_equipment/21_brass_pocket_compass.png",
@@ -1698,7 +1980,9 @@
       "pixel_sha256": "063b50ea63409e222eb61a2a87fa02867293e04d88bf5752d9605c5b9184e68d"
     },
     {
-      "resource": "mayomods1108/military/22_wooden_handled_military_entrenching_shovel",
+      "id": "06_ships_weapons_equipment_22",
+      "resource": "mayomods1108/military/06_ships_weapons_equipment_22",
+      "apk_asset": "assets/military1108/sprites/06_ships_weapons_equipment/06_ships_weapons_equipment_22.png",
       "sprite_id": 40857,
       "texture_id": 40856,
       "source": "inputs/sprites/06_ships_weapons_equipment/22_wooden_handled_military_entrenching_shovel.png",
@@ -1710,7 +1994,9 @@
       "pixel_sha256": "5e6d20c4dee108aee704b9c4406c7488972273c1faf4390176478ae34f36ed40"
     },
     {
-      "resource": "mayomods1108/military/23_wooden_handled_pickaxe",
+      "id": "06_ships_weapons_equipment_23",
+      "resource": "mayomods1108/military/06_ships_weapons_equipment_23",
+      "apk_asset": "assets/military1108/sprites/06_ships_weapons_equipment/06_ships_weapons_equipment_23.png",
       "sprite_id": 40859,
       "texture_id": 40858,
       "source": "inputs/sprites/06_ships_weapons_equipment/23_wooden_handled_pickaxe.png",
@@ -1722,7 +2008,9 @@
       "pixel_sha256": "276cb1b7d24cb76eb00730a2e8afc52ea97cff231d21f33eb558c5c19ae11f6e"
     },
     {
-      "resource": "mayomods1108/military/24_open_ammunition_box_with_a_few_stylized_brass_cartridges",
+      "id": "06_ships_weapons_equipment_24",
+      "resource": "mayomods1108/military/06_ships_weapons_equipment_24",
+      "apk_asset": "assets/military1108/sprites/06_ships_weapons_equipment/06_ships_weapons_equipment_24.png",
       "sprite_id": 40861,
       "texture_id": 40860,
       "source": "inputs/sprites/06_ships_weapons_equipment/24_open_ammunition_box_with_a_few_stylized_brass_cartridges.png",
@@ -1734,6 +2022,6 @@
       "pixel_sha256": "2c7e7502ca4044a3bc98eadf8e397a6c154400418b32af2730d18d984e975797"
     }
   ],
-  "datapack_sha256": "7e830a618f6c733fb39a4708b485a27f0f6010b3f603690a37b6deb78f0b5f9c",
-  "data_sha256": "a5b5f198f1cd7faee93ba5086dac8f1b0e3054276a34d593cf552a3b10f54c20"
+  "datapack_sha256": "b0004ac0572649be816c8909602516d1471210e71af104d5d678529c92cb9941",
+  "data_sha256": "0923a8fa90a1878b3c6ab1e4556bd258709065239fdbf854160edd3b379e5456"
 }
