@@ -1,5 +1,23 @@
 # Known bugs and verification gaps
 
+**1109 presentation correction — 26 October 2026 (Adelaide).** The owner's
+screenshot rejects the Android military Dialog/Canvas UI in 1108. That design
+is replaced by original Unity ScenarioBase cards and Genesis lists. There are
+no military Android windows/views/buttons in the emitted DEX. The source, native
+projection/acknowledgement/root-return paths and resource bindings are checked;
+actual phone rendering is OPEN. Four illustrated native journal backgrounds and
+a native aircraft sequence replace the flat palette-only treatment. The existing
+background Sprite returns outside supported war/recovery dates and countries.
+
+A new native test caught first-time metadata initialization clobbering the
+private live-image resource argument. The final code preserves the managed
+string through initialization and tests the exact texture/PNG and exception
+boundary. Dynamic images modify only the private Sprite texture. Native result
+cards retain service/chess state and real journal effects. Prior black-header
+portrait and stuck-loading reports remain OPEN, not declared fixed by these
+presentation tests. The broader historical-law/combat and phone acceptance
+limitations remain in the source README.
+
 **1108 verification update — 26 October 2026 (Adelaide).** The parent story
 issue is reproduced at the shared-cache boundary and repaired in compiled ARM64:
 a preview changes the old cache to another 33-year-old person; the bound father

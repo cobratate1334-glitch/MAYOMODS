@@ -1,0 +1,3 @@
+Journal background atlas: generated for this project using OpenAI image generation, 26 October 2026. Four panels: WWI, armistice recovery, WWII and postwar homecoming. No real-world organization endorsement implied.
+Aircraft animation frames: software UI composition of the supplied 1108 transparent aircraft assets over cropped atlas scenery. Original 144 supplied PNGs and their prior attribution remain unchanged.
+Chess rules: retained MIT chesslib 1.3.4. Existing license remains assets/military1108/LICENSE-chesslib.txt.

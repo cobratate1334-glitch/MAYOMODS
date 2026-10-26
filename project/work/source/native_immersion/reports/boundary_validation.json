@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "checks": 76,
+  "binary_sha256": "b6600573b50e8461d0f3fcf377c40940271105bf4d59be2b1a7c285677e587a5",
+  "managed_APIs_modeled": true,
+  "ART_tested": false,
+  "Unity_rendering_tested": false,
+  "phone_tested": false
+}

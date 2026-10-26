@@ -1,5 +1,25 @@
 # Important history and decisions
 
+## Candidate 1109 — original game controls and PNG themes, 26 October 2026 (Adelaide)
+
+The owner rejected 1108's separate Android military window and flat themes.
+Replaced military presentation with original Unity ScenarioBase cards and
+Genesis lists. The pure model is retained behind a headless synchronous data
+controller; it emits bounded strings/images, and Unity validates and commits
+before publishing the native card. Root redirection avoids a blank dispatcher.
+Idle guards keep news out of existing scenarios/lists/transitions. Four generated
+journal illustrations, supplied-aircraft frames and private uniform/chess Sprites
+use existing game image/animation machinery. Original backgrounds, stock/tornado
+paths, package, signer, save IDs and supplied assets are preserved. Chess now
+uses native move-selection cards and explicit computer replies.
+
+New checks: 50 native ARM64, 149 JNI, 119 host JVM controller, 1,700 physical
+content/template, 19 DEX and 610 packaged-asset assertions; the 66 identity,
+355 life, 76 boundary, 399 navigation and 40,512 website checks also pass on the
+exact output. Signatures, native signer binding, aapt2, CRC/payload preservation
+and 16KB alignment pass. No phone/ART/Unity renderer is available; acceptance
+remains OPEN. Download: <https://gofile.io/d/eHDawaEM>. SHA256: `a9123f7cf4cd979bee8400b813921d0aa25e5e064b64d3ad8f975c654b7bf0ff`.
+
 ## Candidate 1108 — military presentation, parent binding and chess, 26 October 2026 (Adelaide)
 
 The owner supplied a 30KB expansion brief and 144 transparent military sprites.

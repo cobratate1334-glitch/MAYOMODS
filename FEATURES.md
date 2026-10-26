@@ -1,5 +1,15 @@
 # Requested gameplay systems and design requirements
 
+Active candidate **1109** presents military service, draft help, training,
+equipment, operations, camp, world news and chess through the original game's
+cards/lists and controls. Four native PNG backgrounds distinguish WWI, armistice,
+WWII and homecoming. Aircraft animate through BitLife's own sequence component;
+reduced motion uses a still. Supplied military sprites, current-face uniform,
+legal chess/saved history and service consequences remain. Chess uses native
+piece/legal-destination choice cards and an explicit computer reply action.
+No military Android window or website remains. Native rendering and gameplay
+acceptance on the owner's phone remain unverified. See native_immersion/README.
+
 Active candidate **1108** adds the military/family/chess workstream. Entry:
 Activities → Military service & history. Implemented: temporary country/year war
 palettes; seven-second skippable plane news scenes; chronological WWI/WWII dates

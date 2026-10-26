@@ -1,5 +1,26 @@
 # MayoMods project handover
 
+Candidate **1109** corrects the rejected military presentation from 1108.
+[Source, reproduction and limits](project/work/source/native_immersion/README.md).
+Download: <https://gofile.io/d/eHDawaEM> (431,748,987 bytes).
+APK SHA256: `a9123f7cf4cd979bee8400b813921d0aa25e5e064b64d3ad8f975c654b7bf0ff`.
+
+Military service now uses the game's original Unity popup cards and Genesis
+lists. The Android military windows are removed. Four illustrated PNG journal
+backgrounds cover WWI, armistice, WWII and homecoming; original backgrounds return
+outside those themes. Aircraft use the shipped Unity animator. Uniform/chess
+images are private native Sprites, with native choice buttons. Saved service,
+mission and chess progress, parent identity repairs, supplied assets, launcher,
+Roblox, church, signer and package remain. Chess now uses native piece/destination
+menus and an explicit opponent-move action instead of the retired Android board.
+
+Compiled ARM64/JNI, host JVM controller, content/tokenizer, asset binding/pixels,
+retained regressions, DEX, signatures, aapt2 and ZIP/ELF alignment pass. These are
+modeled/API and package checks. **Phone installation, Unity rendering, real saves
+and the earlier black portrait/stuck-loading acceptance remain OPEN.**
+
+Earlier release notes follow.
+
 Candidate **1108** is now the active extension, based on the delivered 1107.
 [Source and limits](project/work/source/military_expansion/README.md).
 Download: <https://gofile.io/d/gVCpMtYi> (400,507,933 bytes).

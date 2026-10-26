@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "checks": 19,
+  "dex_sha256": "0df9986c4b9b6903ef721e13882c5cd65f478b128611d0f6df0a0595973e24c7",
+  "retired_military_windows_removed": true,
+  "original_game_controls": true,
+  "ART_tested": false,
+  "Android_Unity_rendering_tested": false
+}

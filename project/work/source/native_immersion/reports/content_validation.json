@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "checks": 1700,
+  "authored_assets_sha256": "bee0ce7dc9cede9b31c237d40f2aab02866aaa0186cb5bf49a36468ce3ef9513",
+  "physical_native_CSV_records_checked": true,
+  "original_Genesis_and_ScenarioBase": true,
+  "phone_rendering_tested": false
+}

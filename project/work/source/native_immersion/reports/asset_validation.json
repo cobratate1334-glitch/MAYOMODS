@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "checks": 610,
+  "apk_sha256": "35e819b0a0c7f7f9aa96a346c66983340f97e7f2954fee8805bf80374e157450",
+  "native_art_sprites": 57,
+  "supplied_source_sprites_preserved": 144,
+  "missing_resource_negative_control": true,
+  "normal_text_contrast_threshold": 4.5,
+  "actual_Unity_Sprite_pixel_checks": true,
+  "Unity_rendering_tested": false,
+  "phone_tested": false
+}

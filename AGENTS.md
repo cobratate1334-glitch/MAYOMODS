@@ -1,5 +1,26 @@
 # Instructions for Codex — MayoMods
 
+Active candidate is **1109**, `project/work/source/native_immersion`.
+Read its README/reports and references/BOUNDARIES.md first. The owner explicitly
+rejected 1108's Android military panels. Military presentation MUST use the
+original Unity ScenarioBase/Genesis controls; no military Dialog, View or Window.
+Only Roblox uses its website. Java is a headless data controller and offscreen
+PNG producer; only Unity commits the actual Life. Publish native text/choices
+only after mailbox acknowledgement. Root dispatch invalidates its temporary
+ScenarioBase before original presentation and opens the real Genesis list.
+News waits for the native HUD's scenario/list/transition guards. Journal PNGs use
+the existing Scroller Image and restore its rooted original Sprite. Animation
+uses the original AnimationImageSequence and preserves tornado/stock paths.
+Never write the live portrait/cache texture: only native1109/live is mutable.
+Preserve 1108 keys, native parent binding, canonical supplied sprite aliases,
+country/year cache, original signer/package and all earlier gameplay. Every CSV
+record remains one physical line; manual annual continuations stay impossible
+for random selection. Phone ART/rendering/installation, black portraits/loading
+remain OPEN. Evidence: native_immersion_1109_* under evidence/. APK-only upload and
+source work remain authorized; no keys, raw logs, APKs or host tokens in Git.
+Earlier candidate blocks below are historical; the general engineering and
+continuity rules still apply.
+
 Active candidate is **1108**, `project/work/source/military_expansion`.
 Read its README/reports before historical notes below. This extends the exact
 1107 APK and preserves the existing signer, package and save keys. Father/mother

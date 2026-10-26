@@ -1,0 +1,70 @@
+{
+  "candidate": 1109,
+  "base_candidate": 1108,
+  "native_sha256": "b6600573b50e8461d0f3fcf377c40940271105bf4d59be2b1a7c285677e587a5",
+  "dex_sha256": "0df9986c4b9b6903ef721e13882c5cd65f478b128611d0f6df0a0595973e24c7",
+  "apk_sha256": "a9123f7cf4cd979bee8400b813921d0aa25e5e064b64d3ad8f975c654b7bf0ff",
+  "military_presentation": "Original Unity ScenarioBase cards and Genesis lists",
+  "journal_backgrounds": [
+    "WWI",
+    "Armistice recovery",
+    "WWII",
+    "Homecoming"
+  ],
+  "military_Android_windows_removed": true,
+  "native_art_sprites": 57,
+  "supplied_sprites_preserved": 144,
+  "checks": {
+    "native": {
+      "passed": true,
+      "assertions": 50
+    },
+    "identity": {
+      "passed": true,
+      "assertions": 66
+    },
+    "content": {
+      "passed": true,
+      "assertions": 1700
+    },
+    "jni": {
+      "passed": true,
+      "assertions": 149
+    },
+    "controller": {
+      "passed": true,
+      "assertions": 119
+    },
+    "launcher": {
+      "passed": true,
+      "assertions": 19
+    },
+    "asset": {
+      "passed": true,
+      "assertions": 610
+    },
+    "retained_native": {
+      "passed": true,
+      "assertions": 355
+    },
+    "boundary": {
+      "passed": true,
+      "assertions": 76
+    },
+    "web_native": {
+      "passed": true,
+      "assertions": 40512
+    },
+    "navigation": {
+      "passed": true,
+      "assertions": 399
+    }
+  },
+  "phone_acceptance": {
+    "installation": "OPEN",
+    "native_Unity_rendering": "OPEN",
+    "real_lifecycle_and_saves": "OPEN",
+    "black_header_portrait": "OPEN",
+    "stuck_age_up_loading": "OPEN"
+  }
+}
