@@ -1,5 +1,24 @@
 # Instructions for Codex — MayoMods
 
+Active owner repair is candidate **1107**, `project/work/source/ui_integrity`.
+Read its README, sanitized diagnostic findings and reports first. New phone logs
+identify 1106 and prove quoted multiline scenario CSV was broken: the actual
+game splits on LF before parsing columns. Keep ONE PHYSICAL LINE per record;
+use the game's existing <br> markup in visible text. A real native-tokenizer
+negative control reproduces the old failure. Python CSV acceptance is not proof
+of game compatibility. Manual yearly pages need impossible raw Filters; the
+native annual selector ignores IsAgeUpScenario when choosing rows. Do not bring
+back blank dialogs, scenario IDs/booleans as labels, or 2026 infant war commands.
+
+LOG/PACKS creation/resume/refresh now use one DisplayPolicy; current MOD settings
+must override legacy show_rocket_logo arguments. Preserve the new client layout,
+pack editing and local diagnostic capture. Supplied atlas Sprite regions, dated
+tech purchases and native car badges are documented in ui_integrity. Existing
+signer, saves, Roblox site and native church/gameplay remain authoritative.
+Broad edits, source handover and APK-only external upload are authorized. Keep
+raw diagnostics, APKs, host tokens and keys private. Phone rendering/lifecycle,
+portraits and loading acceptance remain OPEN. Earlier notes below are history.
+
 Current owner repair is candidate **1106**, `project/work/source/life_repair`.
 Read its README, diagnostic findings and reports first. The two new supplied
 ZIPs identify 1105 native code. Empty period vehicle pools break school/age-up;

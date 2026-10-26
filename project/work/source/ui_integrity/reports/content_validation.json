@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "checks": 10127,
+  "physical_scenario_records": 4346,
+  "authored_assets_sha256": "29dfde165faf48106b2d383568e50f6d2fb50b0b324cee88b131d1abf0895763",
+  "CSV_token_model_matches_native_probe": true,
+  "Genesis_API_modeled": true,
+  "phone_tested": false
+}

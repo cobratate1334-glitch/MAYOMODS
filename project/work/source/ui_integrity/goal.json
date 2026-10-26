@@ -1,0 +1,14 @@
+{
+  "candidate": 1107,
+  "scope": "Repair blank/misaligned native dialogs, era and age gates, launcher toggle persistence; integrate supplied technology/war assets and refresh native launcher/log/packs",
+  "baseline_APK_sha256": "e1129a0fd36e338e303940d58ded5d1a0732e29916315f159d1cdf4e3754a130",
+  "same_development_signer": true,
+  "upload_authorized": "APK only",
+  "device_acceptance": "pending",
+  "limits": [
+    "No Android ART/Unity rendering or physical-phone lifecycle run",
+    "Vehicle art is illustrative and may be shared among related native models",
+    "The technology collection uses saved Genesis properties and real bank routes; it is not a replacement for every stock asset inventory",
+    "Country retail laws and every historical stock event are not fully simulated"
+  ]
+}

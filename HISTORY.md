@@ -1,5 +1,24 @@
 # Important history and decisions
 
+## Candidate 1107 — physical CSV and launcher repairs, 26 October 2026 UTC
+
+The owner supplied 1106 diagnostics, two screenshots of blank/misaligned dialogs
+and 15 compressed asset images. Logs and actual native-tokenizer execution prove
+that quoted multiline CSV was incompatible with the game's LF-first loader.
+Earlier Python CSV tests missed this. Repaired physical records, removed entity
+metadata being parsed as data, retained impossible filters for manual annual
+rows and added modern/child command guards. Traced shortcut reset behavior to
+legacy resume code ignoring the current preferences; unified creation/refresh
+visibility and refreshed the native client, log and pack presentation.
+
+Integrated supplied atlas regions with date-selected tech shelves, real bank
+purchases, saved use/ownership, native car badges and wartime art. Signed with
+the existing development key and verified signature/native binding, bundle
+pixels, payloads and package alignment. APK SHA-256:
+`bb582b8de80a888fd9b95c94b73219d245ab7aaf993facebf26cfe0dac3a865b`. Download: <https://gofile.io/d/5SYLUC2J>.
+Native/model/JVM/DEX checks are separate from phone rendering and ART acceptance.
+Source and limits live in ui_integrity; private logs and keys were not published.
+
 ## Candidate 1106 — supplied crash repairs, 26 October 2026 UTC
 
 The owner rejected the 1105 launcher and supplied two diagnostic ZIPs. Both

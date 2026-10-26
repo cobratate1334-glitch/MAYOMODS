@@ -1,5 +1,22 @@
 # MayoMods project handover
 
+Candidate **1107** is the active repair. Source and exact limitations:
+[ui_integrity/README.md](project/work/source/ui_integrity/README.md).
+New diagnostics identify 1106 and show malformed physical CSV records. The
+serializer now matches the game's actual line-first parser; dialogs preserve
+labels/routes, and manual war pages stay out of modern childhood annual events.
+Launcher visibility creation/resume paths use the same saved preference policy.
+The native client/log/pack layouts are refreshed. Supplied technology, vehicle,
+fashion and wartime atlas art is connected to dated shelves, purchases/use,
+native vehicle badges and WWI/WWII visuals.
+
+Download: <https://gofile.io/d/5SYLUC2J> (394,721,638 bytes), version code 1107.
+APK SHA-256: `bb582b8de80a888fd9b95c94b73219d245ab7aaf993facebf26cfe0dac3a865b`.
+Existing development signer retained; official signature/native-binding,
+package/payload/alignment, native parser, content and artwork checks passed.
+Phone rendering, lifecycle toggles, install/save/reload, earlier portraits and
+stuck loading still need acceptance. Older snapshots below remain history.
+
 Candidate **1106** is the active repair. Source, reproduction and limits:
 [life_repair/README.md](project/work/source/life_repair/README.md).
 The supplied native crash identity matches 1105. Repairs target empty period

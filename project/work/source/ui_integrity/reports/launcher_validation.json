@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "host_JVM_policy_combinations": 14,
+  "DEX_integration_checks": 7,
+  "dex_sha256": "0c8742cab64f0bd6c3b6ba4aa05e4044a6637dd89e07eb15f7da4c9a410c87ea",
+  "actual_ART_activity_lifecycle_tested": false,
+  "phone_tested": false
+}

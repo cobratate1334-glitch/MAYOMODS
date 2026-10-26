@@ -1,0 +1,569 @@
+{
+  "passed": true,
+  "authored_assets_sha256": "29dfde165faf48106b2d383568e50f6d2fb50b0b324cee88b131d1abf0895763",
+  "changed_text_assets": 31,
+  "preserved_objects": 40504,
+  "old_resources_preserved": true,
+  "imported_artwork": [
+    {
+      "resource": "mayomods1107/props/iphone",
+      "sprite_id": 40540,
+      "texture_id": 40538,
+      "source": "a_high_resolution_flat_clean_rendered_icon_sheet.webp",
+      "source_sha256": "a587417204cb3d993f82cf57ea2878a207a356653b3f17f94984385c513d9ee5",
+      "source_rectangle": [
+        450,
+        905,
+        50,
+        105
+      ],
+      "canvas": [
+        50,
+        105
+      ],
+      "pixel_sha256": "44b40ee6a992929b16a3785f46f2e605b5dc8d4639bcac8148545fc3d07fb912"
+    },
+    {
+      "resource": "mayomods1107/props/switch",
+      "sprite_id": 40541,
+      "texture_id": 40538,
+      "source": "a_high_resolution_flat_clean_rendered_icon_sheet.webp",
+      "source_sha256": "a587417204cb3d993f82cf57ea2878a207a356653b3f17f94984385c513d9ee5",
+      "source_rectangle": [
+        635,
+        925,
+        110,
+        80
+      ],
+      "canvas": [
+        110,
+        80
+      ],
+      "pixel_sha256": "29f5e87e6dc74de7b9eacdd58294110010e088bfd8ac0043a48c4d4f9a52d17e"
+    },
+    {
+      "resource": "mayomods1107/props/ps5",
+      "sprite_id": 40542,
+      "texture_id": 40538,
+      "source": "a_high_resolution_flat_clean_rendered_icon_sheet.webp",
+      "source_sha256": "a587417204cb3d993f82cf57ea2878a207a356653b3f17f94984385c513d9ee5",
+      "source_rectangle": [
+        747,
+        907,
+        100,
+        105
+      ],
+      "canvas": [
+        100,
+        105
+      ],
+      "pixel_sha256": "f27a50964a80712d950b50a0687d1e1ee266f14a8fe65450cef8666a589973b8"
+    },
+    {
+      "resource": "mayomods1107/props/mobile",
+      "sprite_id": 40543,
+      "texture_id": 40538,
+      "source": "a_high_resolution_flat_clean_rendered_icon_sheet.webp",
+      "source_sha256": "a587417204cb3d993f82cf57ea2878a207a356653b3f17f94984385c513d9ee5",
+      "source_rectangle": [
+        592,
+        912,
+        45,
+        96
+      ],
+      "canvas": [
+        45,
+        96
+      ],
+      "pixel_sha256": "9b6378aed743333e730217ebafb302064efe0566dd487c868e6d2e3032c62113"
+    },
+    {
+      "resource": "mayomods1107/props/laptop",
+      "sprite_id": 40544,
+      "texture_id": 40538,
+      "source": "a_high_resolution_flat_clean_rendered_icon_sheet.webp",
+      "source_sha256": "a587417204cb3d993f82cf57ea2878a207a356653b3f17f94984385c513d9ee5",
+      "source_rectangle": [
+        177,
+        918,
+        92,
+        90
+      ],
+      "canvas": [
+        92,
+        90
+      ],
+      "pixel_sha256": "c69d2e2d065bcc36656fd0e0453c0e6bd3c461dc282d6c060ac5923bb25a6ffa"
+    },
+    {
+      "resource": "mayomods1107/props/vr",
+      "sprite_id": 40545,
+      "texture_id": 40538,
+      "source": "a_high_resolution_flat_clean_rendered_icon_sheet.webp",
+      "source_sha256": "a587417204cb3d993f82cf57ea2878a207a356653b3f17f94984385c513d9ee5",
+      "source_rectangle": [
+        897,
+        919,
+        101,
+        77
+      ],
+      "canvas": [
+        101,
+        77
+      ],
+      "pixel_sha256": "c0874999fc35bbc9ea2b436daa73d857a4d6787e0348b0582fa91e61ce6a48a9"
+    },
+    {
+      "resource": "mayomods1107/props/vape",
+      "sprite_id": 40546,
+      "texture_id": 40538,
+      "source": "a_high_resolution_flat_clean_rendered_icon_sheet.webp",
+      "source_sha256": "a587417204cb3d993f82cf57ea2878a207a356653b3f17f94984385c513d9ee5",
+      "source_rectangle": [
+        936,
+        375,
+        44,
+        103
+      ],
+      "canvas": [
+        44,
+        103
+      ],
+      "pixel_sha256": "820e526fda299f0f908512a8c8c464b9db75a93fced85571924d042bf9df0d9c"
+    },
+    {
+      "resource": "mayomods1107/props/bugatti",
+      "sprite_id": 40547,
+      "texture_id": 40538,
+      "source": "a_high_resolution_flat_clean_rendered_icon_sheet.webp",
+      "source_sha256": "a587417204cb3d993f82cf57ea2878a207a356653b3f17f94984385c513d9ee5",
+      "source_rectangle": [
+        1264,
+        482,
+        125,
+        74
+      ],
+      "canvas": [
+        125,
+        74
+      ],
+      "pixel_sha256": "39a9349b8fa04231603ce733c45a25682a29b0e925277106b6b9cd3c5528a36a"
+    },
+    {
+      "resource": "mayomods1107/props/mustang",
+      "sprite_id": 40548,
+      "texture_id": 40538,
+      "source": "a_high_resolution_flat_clean_rendered_icon_sheet.webp",
+      "source_sha256": "a587417204cb3d993f82cf57ea2878a207a356653b3f17f94984385c513d9ee5",
+      "source_rectangle": [
+        136,
+        636,
+        140,
+        76
+      ],
+      "canvas": [
+        140,
+        76
+      ],
+      "pixel_sha256": "456bd1703dd9b2e67f9c769f19535f9ade63eb95b5b387a122d9bba9f28ec0e3"
+    },
+    {
+      "resource": "mayomods1107/props/beetle",
+      "sprite_id": 40549,
+      "texture_id": 40537,
+      "source": "a_clean_high_resolution_illustration_sprite_she.webp",
+      "source_sha256": "f0c6b3e3bb6b443185da0943234cba4081c657854bebddfe62ab70ace6fe90b9",
+      "source_rectangle": [
+        742,
+        302,
+        115,
+        66
+      ],
+      "canvas": [
+        115,
+        66
+      ],
+      "pixel_sha256": "38bc9b363367bbbd051cb490db710f4f2077850ada9b0128f4e59403408966d3"
+    },
+    {
+      "resource": "mayomods1107/props/rotary",
+      "sprite_id": 40550,
+      "texture_id": 40537,
+      "source": "a_clean_high_resolution_illustration_sprite_she.webp",
+      "source_sha256": "f0c6b3e3bb6b443185da0943234cba4081c657854bebddfe62ab70ace6fe90b9",
+      "source_rectangle": [
+        2,
+        766,
+        79,
+        72
+      ],
+      "canvas": [
+        79,
+        72
+      ],
+      "pixel_sha256": "ddd13777dfda71d9d22f551d3eceaffe5e0cc7dac52d453526a4f926c12f57f5"
+    },
+    {
+      "resource": "mayomods1107/props/typewriter",
+      "sprite_id": 40551,
+      "texture_id": 40537,
+      "source": "a_clean_high_resolution_illustration_sprite_she.webp",
+      "source_sha256": "f0c6b3e3bb6b443185da0943234cba4081c657854bebddfe62ab70ace6fe90b9",
+      "source_rectangle": [
+        536,
+        834,
+        58,
+        78
+      ],
+      "canvas": [
+        58,
+        78
+      ],
+      "pixel_sha256": "9c1aba66e61de80a75d4d858e252c9aa62f9db2d27470306877593f6e468a7d3"
+    },
+    {
+      "resource": "mayomods1107/props/radio",
+      "sprite_id": 40552,
+      "texture_id": 40537,
+      "source": "a_clean_high_resolution_illustration_sprite_she.webp",
+      "source_sha256": "f0c6b3e3bb6b443185da0943234cba4081c657854bebddfe62ab70ace6fe90b9",
+      "source_rectangle": [
+        1400,
+        702,
+        70,
+        61
+      ],
+      "canvas": [
+        70,
+        61
+      ],
+      "pixel_sha256": "f7bb878e717ae7fc4b600e604e915ca1ff8c8c815c5da4764af07fdbec769c22"
+    },
+    {
+      "resource": "mayomods1107/props/desktop",
+      "sprite_id": 40553,
+      "texture_id": 40537,
+      "source": "a_clean_high_resolution_illustration_sprite_she.webp",
+      "source_sha256": "f0c6b3e3bb6b443185da0943234cba4081c657854bebddfe62ab70ace6fe90b9",
+      "source_rectangle": [
+        1,
+        701,
+        77,
+        61
+      ],
+      "canvas": [
+        77,
+        61
+      ],
+      "pixel_sha256": "891b6bac97802289fe05d99fa73ba2486e58bad5f056d190ec63732045cafeb7"
+    },
+    {
+      "resource": "mayomods1107/props/prewar_car",
+      "sprite_id": 40554,
+      "texture_id": 40539,
+      "source": "a_large_high_resolution_dark_gray_background_col.webp",
+      "source_sha256": "cddef7d177eda940a819e0a88bf9b7f3f1e7aa5464e5709a93d78a4226163cc0",
+      "source_rectangle": [
+        365,
+        908,
+        172,
+        97
+      ],
+      "canvas": [
+        172,
+        97
+      ],
+      "pixel_sha256": "d40518a14268ed7e6fd5f1314029010eaf99dbdfceaf8b0182cf254aac267a4a"
+    },
+    {
+      "resource": "mayomods1107/props/modern_car",
+      "sprite_id": 40555,
+      "texture_id": 40538,
+      "source": "a_high_resolution_flat_clean_rendered_icon_sheet.webp",
+      "source_sha256": "a587417204cb3d993f82cf57ea2878a207a356653b3f17f94984385c513d9ee5",
+      "source_rectangle": [
+        130,
+        481,
+        126,
+        75
+      ],
+      "canvas": [
+        126,
+        75
+      ],
+      "pixel_sha256": "65ab8e8ff200385fb34bd32d76f437a8211a3eda746de86468f94b7f47b4395e"
+    },
+    {
+      "resource": "mayomods1107/props/ww1_plane",
+      "sprite_id": 40556,
+      "texture_id": 40539,
+      "source": "a_large_high_resolution_dark_gray_background_col.webp",
+      "source_sha256": "cddef7d177eda940a819e0a88bf9b7f3f1e7aa5464e5709a93d78a4226163cc0",
+      "source_rectangle": [
+        0,
+        583,
+        163,
+        62
+      ],
+      "canvas": [
+        163,
+        62
+      ],
+      "pixel_sha256": "41daec30e2367187bcde05b2b62dd8c6b8d669597ce31b79447734c2cd176cb9"
+    },
+    {
+      "resource": "mayomods1107/props/ww2_plane",
+      "sprite_id": 40557,
+      "texture_id": 40539,
+      "source": "a_large_high_resolution_dark_gray_background_col.webp",
+      "source_sha256": "cddef7d177eda940a819e0a88bf9b7f3f1e7aa5464e5709a93d78a4226163cc0",
+      "source_rectangle": [
+        1244,
+        695,
+        289,
+        80
+      ],
+      "canvas": [
+        289,
+        80
+      ],
+      "pixel_sha256": "2ac2aa2e119e9f4ae40483930374caaea5bc63dc17616faa2aa9eb0017ee1d87"
+    },
+    {
+      "resource": "mayomods1107/props/ww1_tank",
+      "sprite_id": 40558,
+      "texture_id": 40539,
+      "source": "a_large_high_resolution_dark_gray_background_col.webp",
+      "source_sha256": "cddef7d177eda940a819e0a88bf9b7f3f1e7aa5464e5709a93d78a4226163cc0",
+      "source_rectangle": [
+        146,
+        505,
+        158,
+        68
+      ],
+      "canvas": [
+        158,
+        68
+      ],
+      "pixel_sha256": "f8659dd63dfa92941df6c4a3f964adc25f0b4e9eb60f1b20c1a4c134c94ad9c3"
+    },
+    {
+      "resource": "mayomods1107/props/ww2_tank",
+      "sprite_id": 40559,
+      "texture_id": 40539,
+      "source": "a_large_high_resolution_dark_gray_background_col.webp",
+      "source_sha256": "cddef7d177eda940a819e0a88bf9b7f3f1e7aa5464e5709a93d78a4226163cc0",
+      "source_rectangle": [
+        440,
+        504,
+        164,
+        66
+      ],
+      "canvas": [
+        164,
+        66
+      ],
+      "pixel_sha256": "894bdf27a06f4b13096ad5c8c3d706260e38544e507a6aa4a7013e3f32bbac01"
+    },
+    {
+      "resource": "mayomods1107/props/rifle",
+      "sprite_id": 40560,
+      "texture_id": 40539,
+      "source": "a_large_high_resolution_dark_gray_background_col.webp",
+      "source_sha256": "cddef7d177eda940a819e0a88bf9b7f3f1e7aa5464e5709a93d78a4226163cc0",
+      "source_rectangle": [
+        5,
+        349,
+        259,
+        34
+      ],
+      "canvas": [
+        259,
+        34
+      ],
+      "pixel_sha256": "76ef86f0f8529cc01ee2de07e567a4c45e4e9955a77695860be9decbbf5786c2"
+    },
+    {
+      "resource": "mayomods1107/props/radio_field",
+      "sprite_id": 40561,
+      "texture_id": 40539,
+      "source": "a_large_high_resolution_dark_gray_background_col.webp",
+      "source_sha256": "cddef7d177eda940a819e0a88bf9b7f3f1e7aa5464e5709a93d78a4226163cc0",
+      "source_rectangle": [
+        1175,
+        473,
+        62,
+        60
+      ],
+      "canvas": [
+        62,
+        60
+      ],
+      "pixel_sha256": "77f866e13d498755376a3e4d65f981a9fa6696d597f4d8d581c0ffa5568ec79b"
+    },
+    {
+      "resource": "mayomods1107/props/helmet",
+      "sprite_id": 40562,
+      "texture_id": 40539,
+      "source": "a_large_high_resolution_dark_gray_background_col.webp",
+      "source_sha256": "cddef7d177eda940a819e0a88bf9b7f3f1e7aa5464e5709a93d78a4226163cc0",
+      "source_rectangle": [
+        11,
+        0,
+        73,
+        60
+      ],
+      "canvas": [
+        73,
+        60
+      ],
+      "pixel_sha256": "2f8135dd3a8665258ad6c988261bba6a859051b055970a1f69a74fea70760dcf"
+    },
+    {
+      "resource": "mayomods1107/props/medical",
+      "sprite_id": 40563,
+      "texture_id": 40539,
+      "source": "a_large_high_resolution_dark_gray_background_col.webp",
+      "source_sha256": "cddef7d177eda940a819e0a88bf9b7f3f1e7aa5464e5709a93d78a4226163cc0",
+      "source_rectangle": [
+        1450,
+        350,
+        78,
+        80
+      ],
+      "canvas": [
+        78,
+        80
+      ],
+      "pixel_sha256": "ea66142c701efa8fed5f12ca4f69eb0371c50c058dd6a02de5f116501a37a807"
+    },
+    {
+      "resource": "mayomods1107/props/bunker",
+      "sprite_id": 40564,
+      "texture_id": 40539,
+      "source": "a_large_high_resolution_dark_gray_background_col.webp",
+      "source_sha256": "cddef7d177eda940a819e0a88bf9b7f3f1e7aa5464e5709a93d78a4226163cc0",
+      "source_rectangle": [
+        387,
+        782,
+        151,
+        82
+      ],
+      "canvas": [
+        151,
+        82
+      ],
+      "pixel_sha256": "f78b95123e52fcc48795b93c4dec0536ce203efa7d6612db4f1f4be8e7dc7077"
+    },
+    {
+      "resource": "mayomods1107/props/ship",
+      "sprite_id": 40565,
+      "texture_id": 40539,
+      "source": "a_large_high_resolution_dark_gray_background_col.webp",
+      "source_sha256": "cddef7d177eda940a819e0a88bf9b7f3f1e7aa5464e5709a93d78a4226163cc0",
+      "source_rectangle": [
+        15,
+        829,
+        293,
+        75
+      ],
+      "canvas": [
+        293,
+        75
+      ],
+      "pixel_sha256": "0ab44c03c2fd2d5953f8a6d59b9e1ec61251e4e11352266a4cbec6660ff25940"
+    },
+    {
+      "resource": "mayomods1107/props/trench",
+      "sprite_id": 40566,
+      "texture_id": 40539,
+      "source": "a_large_high_resolution_dark_gray_background_col.webp",
+      "source_sha256": "cddef7d177eda940a819e0a88bf9b7f3f1e7aa5464e5709a93d78a4226163cc0",
+      "source_rectangle": [
+        685,
+        782,
+        170,
+        81
+      ],
+      "canvas": [
+        170,
+        81
+      ],
+      "pixel_sha256": "303e48cb995e4843403bd6d25dc6a035f9a6a2628f43ef255e207ca031e861c7"
+    },
+    {
+      "resource": "mayomods1107/props/gas_mask",
+      "sprite_id": 40567,
+      "texture_id": 40539,
+      "source": "a_large_high_resolution_dark_gray_background_col.webp",
+      "source_sha256": "cddef7d177eda940a819e0a88bf9b7f3f1e7aa5464e5709a93d78a4226163cc0",
+      "source_rectangle": [
+        145,
+        62,
+        87,
+        73
+      ],
+      "canvas": [
+        87,
+        73
+      ],
+      "pixel_sha256": "676d2e7ff5e88cfb3b8c9c57a3e3a3faacb46c3d58c5375284f099f7f60ae5cd"
+    },
+    {
+      "resource": "mayomods1107/props/vintage_hat",
+      "sprite_id": 40568,
+      "texture_id": 40536,
+      "source": "1000004164.webp",
+      "source_sha256": "2d6d86a892f73b09516f098a57527a022dfb4d23b71fcf864a8efc0d2e9efdef",
+      "source_rectangle": [
+        35,
+        85,
+        325,
+        227
+      ],
+      "canvas": [
+        325,
+        227
+      ],
+      "pixel_sha256": "b0dd14d44856eefa48c959a77519663c3cbaa19fd070f93c548e80090f9e5bea"
+    },
+    {
+      "resource": "mayomods1107/props/retro_hat",
+      "sprite_id": 40569,
+      "texture_id": 40536,
+      "source": "1000004164.webp",
+      "source_sha256": "2d6d86a892f73b09516f098a57527a022dfb4d23b71fcf864a8efc0d2e9efdef",
+      "source_rectangle": [
+        795,
+        104,
+        313,
+        206
+      ],
+      "canvas": [
+        313,
+        206
+      ],
+      "pixel_sha256": "d22f1258a9fd0e2df0192a956816dc97faac978c34d15e738a1b6404fe296373"
+    },
+    {
+      "resource": "mayomods1107/props/modern_hat",
+      "sprite_id": 40570,
+      "texture_id": 40536,
+      "source": "1000004164.webp",
+      "source_sha256": "2d6d86a892f73b09516f098a57527a022dfb4d23b71fcf864a8efc0d2e9efdef",
+      "source_rectangle": [
+        1180,
+        83,
+        310,
+        240
+      ],
+      "canvas": [
+        310,
+        240
+      ],
+      "pixel_sha256": "3d8a8c1fcd07a41320a8f1f64b10e0582b38c08e0c3c65a618f834febc0b307c"
+    }
+  ],
+  "datapack_sha256": "5d5eb7734f59b71f32acd9f13f988f559d84ee1d7b409781745c7849ef289273",
+  "data_sha256": "f327e2d8d62fcf4e6fb49959ebc7d631821369f9007c3ce35e804181403f378b"
+}

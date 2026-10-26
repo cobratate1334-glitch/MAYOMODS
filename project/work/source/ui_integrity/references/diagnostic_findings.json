@@ -1,0 +1,19 @@
+{
+  "source": "MayoMods_1104_diagnostics (1).zip",
+  "supplied_native_build": 1106,
+  "supplied_native_sha256": "9f0d16e80b356142530250559e8e301d904be09163b2c312bb434fc3f7eec762",
+  "full_installed_APK_identity_verified": false,
+  "current_evidence": [
+    "ScenarioCSVData detected Designer format with 53 columns",
+    "ScenarioBase.LoadDesignerFormat reported 1-column rows for lifeRework war and command dialogs",
+    "GenesisEntityDefinitionLoader tried parsing CSV comments and its own header as records"
+  ],
+  "root_cause": "ScenarioCSVData splits on LF before GenesisCsvLineParser.Split; quoted multiline fields are not supported by that pipeline.",
+  "negative_control": "The original native GenesisCsvLineParser.Split reproduces fewer than 48 fields for the old command popup.",
+  "repair": "Serialize each scenario on a single physical line, using the existing game <br> markup for visible paragraphs; remove non-data entity-definition records.",
+  "launcher_cause": "The legacy RuntimeLogCapture shortcut creator ignored show_quick_tools and passed show_rocket_logo to branding after resume.",
+  "launcher_repair": "One DisplayPolicy used during creation/resume/refresh, with current MOD preference authoritative.",
+  "old_tombstones": "The saved Fight Club tombstone in this ZIP is an older crash. It is not evidence of a fresh 1106 Fight Club crash.",
+  "raw_diagnostics_published": false,
+  "device_acceptance": "pending"
+}

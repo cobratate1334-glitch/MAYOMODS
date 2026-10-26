@@ -1,5 +1,27 @@
 # Requested gameplay systems and design requirements
 
+Active candidate **1107** repairs native dialog serialization, current-year
+and age guards and launcher toggle persistence. It uses a native charcoal/teal
+client layout, log dashboard with searchable report lines, full ZIP/screenshot
+capture and an active-library/import/saved-pack home. Existing pack workflows,
+settings keys and native Play launch remain.
+
+The supplied atlases provide 31 Sprite regions. Date-selected shopping shelves
+cover typewriters/telephones, radio, computers, mobile phones, laptops, iPhone,
+VR, Switch and PS5. Fashion and an adult nicotine counter have availability
+checks. Real bank routes and saved ownership/use effects give purchases a
+persistent consequence. Existing native vehicle inventory receives supplied
+badges and selected real model families get introduction-year restrictions.
+Wartime briefings and missions use supplied art, with WWI/WWII aircraft/armour
+chosen by actual year. Country context, original call-ups/minefield/death,
+Roblox, native church and previous systems remain.
+
+See [the 1107 README](project/work/source/ui_integrity/README.md) for explicit
+scope and acceptance limits. Product dates are gameplay availability rules;
+vehicle art is illustrative and the technology collection does not replace
+every original asset system. Phone rendering and full lifecycle acceptance
+remain pending. Earlier entries below are historical snapshots.
+
 Active candidate **1106** follows the owner's latest repair request. The
 previous launcher is restored; selected-relative stories and profiles are
 simplified. School stories add eighteen age-specific cases and original native

@@ -1,0 +1,6 @@
+Technology, transport, fashion and wartime atlas artwork supplied by the owner
+in Codex_All_Images_Under_4MB.zip. Original source files are preserved; imported
+sprites reference source rectangles without repainting the images.
+Vehicle badges are illustrative; related models can share a category image.
+Product and manufacturer marks belong to their respective owners.
+The existing game, mod credits and earlier artwork attributions are retained.

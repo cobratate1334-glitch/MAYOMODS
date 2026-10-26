@@ -1,5 +1,22 @@
 # Transfer this project to Codex
 
+Active repair: **1107**, `project/work/source/ui_integrity`.
+Read its README and references/diagnostic_findings.json first. The delivered
+artifact/link are in evidence/ui_integrity_1107_verification.json and
+ui_integrity_1107_delivery.json. The diagnostic source says 1104 in its filename
+but contains build/native 1106. Current logs prove the multiline CSV problem;
+the older preserved Fight Club crash is separate historical evidence.
+
+Preserve single-physical-line scenario records, raw annual filters, date/age
+transaction guards, DisplayPolicy and native launcher lifecycle integration.
+Do not use Python's permissive multiline CSV parsing as compatibility evidence.
+Retain the existing signer, stable IDs, saves, original game and Roblox site.
+The owner authorized broad repairs, source handover and APK-only external upload.
+Keep signing material, raw diagnostics, APKs and host credentials private.
+Phone acceptance remains OPEN for dialogs, settings after restart/return,
+rendering, save/reload, original portrait recovery and stuck loading. Earlier
+transfer notes below are historical snapshots.
+
 Active repair: **1106**, `project/work/source/life_repair`.
 Read its README, reports and sanitized diagnostic findings before old notes.
 The delivered APK and temporary link are recorded in

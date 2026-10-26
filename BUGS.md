@@ -1,5 +1,29 @@
 # Known bugs and verification gaps
 
+Candidate **1107** corrects a confirmed 1106 format regression. Current
+runtime logs show designer rows with one column instead of at least 48, while
+the source contains multiline quoted Body fields. The game's constructor splits
+at LF before parsing commas/quotes; Python CSV tests had hidden this mismatch.
+The actual native tokenizer reproduces the bad row. Repaired records preserve
+all columns on one physical line and use existing <br> paragraph markup. Entity
+comment/header records that produced unrelated loader warnings are removed.
+
+The legacy RuntimeLogCapture resume handler also ignored the quick-tools toggle
+and passed the old logo preference to branding. One policy now controls initial
+creation and refresh; current MOD settings are authoritative. Host policy and
+DEX bindings pass; actual Android lifecycle behavior remains pending.
+
+Modern/child war hub guards and yearly manual-row filters have regression checks.
+Dated shopping routes independently reject unavailable items, young purchasers,
+insufficient funds, duplicate purchases and repeated use. Sprite pixel/resource
+checks pass. The preserved old Fight Club tombstone in the new ZIP does not
+establish a fresh 1106 crash. Raw diagnostics remain private.
+
+Phone acceptance remains OPEN for dialogs, full startup/return/rotation toggle
+behavior, imagery, purchase persistence and earlier black-portrait/loading issues.
+No complete every-button or bug-free certification is claimed. Earlier notes
+below describe previous candidates and their verification gaps.
+
 Candidate **1106** addresses the newest supplied diagnostic bundles, which
 identify the exact 1105 native library. Full installed-APK hash/signer is unknown.
 Repeated empty car-pool indexing exceptions reach the parser, age-up, school and
