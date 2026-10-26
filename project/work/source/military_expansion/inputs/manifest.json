@@ -1,0 +1,2603 @@
+{
+  "pack": "MayoMods WW1 and WW2 military assets",
+  "asset_count": 144,
+  "sheet_count": 6,
+  "sprite_format": "indexed PNG with alpha",
+  "sheet_format": "WebP with alpha",
+  "max_sprite_side": 256,
+  "coordinates": "top-left pixel origin",
+  "assets": [
+    {
+      "id": "01_ww1_wearables_01",
+      "description": "khaki shallow-brim steel helmet, front view",
+      "file": "sprites/01_ww1_wearables/01_khaki_shallow_brim_steel_helmet_front_view.png",
+      "category": "WW1 wearable equipment",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 197,
+      "sheet": "sheets/01_ww1_wearables.webp",
+      "sheet_bbox": [
+        0,
+        49,
+        256,
+        194
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "01_ww1_wearables_02",
+      "description": "blue-gray crested steel helmet, front view",
+      "file": "sprites/01_ww1_wearables/02_blue_gray_crested_steel_helmet_front_view.png",
+      "category": "WW1 wearable equipment",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 244,
+      "sheet": "sheets/01_ww1_wearables.webp",
+      "sheet_bbox": [
+        255,
+        26,
+        244,
+        232
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "01_ww1_wearables_03",
+      "description": "field-gray deep steel helmet, front view",
+      "file": "sprites/01_ww1_wearables/03_field_gray_deep_steel_helmet_front_view.png",
+      "category": "WW1 wearable equipment",
+      "era_style": "ww1",
+      "width": 240,
+      "height": 225,
+      "sheet": "sheets/01_ww1_wearables.webp",
+      "sheet_bbox": [
+        527,
+        48,
+        228,
+        213
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "01_ww1_wearables_04",
+      "description": "tan pith helmet, front view",
+      "file": "sprites/01_ww1_wearables/04_tan_pith_helmet_front_view.png",
+      "category": "WW1 wearable equipment",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 204,
+      "sheet": "sheets/01_ww1_wearables.webp",
+      "sheet_bbox": [
+        769,
+        43,
+        254,
+        200
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "01_ww1_wearables_05",
+      "description": "brown broad-brim campaign hat, front view",
+      "file": "sprites/01_ww1_wearables/05_brown_broad_brim_campaign_hat_front_view.png",
+      "category": "WW1 wearable equipment",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 199,
+      "sheet": "sheets/01_ww1_wearables.webp",
+      "sheet_bbox": [
+        1021,
+        37,
+        268,
+        205
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "01_ww1_wearables_06",
+      "description": "khaki soft field cap, front view",
+      "file": "sprites/01_ww1_wearables/06_khaki_soft_field_cap_front_view.png",
+      "category": "WW1 wearable equipment",
+      "era_style": "ww1",
+      "width": 240,
+      "height": 196,
+      "sheet": "sheets/01_ww1_wearables.webp",
+      "sheet_bbox": [
+        1293,
+        26,
+        228,
+        184
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "01_ww1_wearables_07",
+      "description": "brown leather aviator cap with goggles, front view",
+      "file": "sprites/01_ww1_wearables/07_brown_leather_aviator_cap_with_goggles_front_view.png",
+      "category": "WW1 wearable equipment",
+      "era_style": "ww1",
+      "width": 217,
+      "height": 248,
+      "sheet": "sheets/01_ww1_wearables.webp",
+      "sheet_bbox": [
+        29,
+        263,
+        205,
+        236
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "01_ww1_wearables_08",
+      "description": "khaki officer peaked cap, front view",
+      "file": "sprites/01_ww1_wearables/08_khaki_officer_peaked_cap_front_view.png",
+      "category": "WW1 wearable equipment",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 198,
+      "sheet": "sheets/01_ww1_wearables.webp",
+      "sheet_bbox": [
+        257,
+        273,
+        248,
+        189
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "01_ww1_wearables_09",
+      "description": "gray officer peaked cap, front view",
+      "file": "sprites/01_ww1_wearables/09_gray_officer_peaked_cap_front_view.png",
+      "category": "WW1 wearable equipment",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 208,
+      "sheet": "sheets/01_ww1_wearables.webp",
+      "sheet_bbox": [
+        513,
+        260,
+        244,
+        196
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "01_ww1_wearables_10",
+      "description": "navy blue sailor cap, front view",
+      "file": "sprites/01_ww1_wearables/10_navy_blue_sailor_cap_front_view.png",
+      "category": "WW1 wearable equipment",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 222,
+      "sheet": "sheets/01_ww1_wearables.webp",
+      "sheet_bbox": [
+        780,
+        275,
+        246,
+        212
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "01_ww1_wearables_11",
+      "description": "brown winter fur cap, front view",
+      "file": "sprites/01_ww1_wearables/11_brown_winter_fur_cap_front_view.png",
+      "category": "WW1 wearable equipment",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 251,
+      "sheet": "sheets/01_ww1_wearables.webp",
+      "sheet_bbox": [
+        1041,
+        243,
+        247,
+        242
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "01_ww1_wearables_12",
+      "description": "early rubber gas mask with round eye lenses, front view",
+      "file": "sprites/01_ww1_wearables/12_early_rubber_gas_mask_with_round_eye_lenses_front_view.png",
+      "category": "WW1 wearable equipment",
+      "era_style": "ww1",
+      "width": 208,
+      "height": 247,
+      "sheet": "sheets/01_ww1_wearables.webp",
+      "sheet_bbox": [
+        1311,
+        257,
+        196,
+        235
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "01_ww1_wearables_13",
+      "description": "khaki buttoned infantry tunic with belt, empty wearable torso",
+      "file": "sprites/01_ww1_wearables/13_khaki_buttoned_infantry_tunic_with_belt_empty_wearable_torso.png",
+      "category": "WW1 wearable equipment",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 219,
+      "sheet": "sheets/01_ww1_wearables.webp",
+      "sheet_bbox": [
+        0,
+        496,
+        259,
+        220
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "01_ww1_wearables_14",
+      "description": "blue-gray buttoned infantry tunic, empty wearable torso",
+      "file": "sprites/01_ww1_wearables/14_blue_gray_buttoned_infantry_tunic_empty_wearable_torso.png",
+      "category": "WW1 wearable equipment",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 220,
+      "sheet": "sheets/01_ww1_wearables.webp",
+      "sheet_bbox": [
+        254,
+        493,
+        261,
+        223
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "01_ww1_wearables_15",
+      "description": "field-gray buttoned infantry tunic, empty wearable torso",
+      "file": "sprites/01_ww1_wearables/15_field_gray_buttoned_infantry_tunic_empty_wearable_torso.png",
+      "category": "WW1 wearable equipment",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 226,
+      "sheet": "sheets/01_ww1_wearables.webp",
+      "sheet_bbox": [
+        514,
+        493,
+        256,
+        224
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "01_ww1_wearables_16",
+      "description": "tan desert infantry tunic, empty wearable torso",
+      "file": "sprites/01_ww1_wearables/16_tan_desert_infantry_tunic_empty_wearable_torso.png",
+      "category": "WW1 wearable equipment",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 248,
+      "sheet": "sheets/01_ww1_wearables.webp",
+      "sheet_bbox": [
+        768,
+        462,
+        261,
+        252
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "01_ww1_wearables_17",
+      "description": "dark navy sailor jumper, empty wearable torso",
+      "file": "sprites/01_ww1_wearables/17_dark_navy_sailor_jumper_empty_wearable_torso.png",
+      "category": "WW1 wearable equipment",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 210,
+      "sheet": "sheets/01_ww1_wearables.webp",
+      "sheet_bbox": [
+        1026,
+        507,
+        253,
+        205
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "01_ww1_wearables_18",
+      "description": "brown leather aviator jacket, empty wearable torso",
+      "file": "sprites/01_ww1_wearables/18_brown_leather_aviator_jacket_empty_wearable_torso.png",
+      "category": "WW1 wearable equipment",
+      "era_style": "ww1",
+      "width": 254,
+      "height": 256,
+      "sheet": "sheets/01_ww1_wearables.webp",
+      "sheet_bbox": [
+        1277,
+        490,
+        259,
+        261
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "01_ww1_wearables_19",
+      "description": "khaki trousers with puttees and brown boots, one wearable lower-body outfit",
+      "file": "sprites/01_ww1_wearables/19_khaki_trousers_with_puttees_and_brown_boots_one_wearable_lower_body_outfit.png",
+      "category": "WW1 wearable equipment",
+      "era_style": "ww1",
+      "width": 195,
+      "height": 256,
+      "sheet": "sheets/01_ww1_wearables.webp",
+      "sheet_bbox": [
+        37,
+        715,
+        215,
+        287
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "01_ww1_wearables_20",
+      "description": "blue-gray trousers with black boots, one wearable lower-body outfit",
+      "file": "sprites/01_ww1_wearables/20_blue_gray_trousers_with_black_boots_one_wearable_lower_body_outfit.png",
+      "category": "WW1 wearable equipment",
+      "era_style": "ww1",
+      "width": 203,
+      "height": 256,
+      "sheet": "sheets/01_ww1_wearables.webp",
+      "sheet_bbox": [
+        289,
+        715,
+        223,
+        285
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "01_ww1_wearables_21",
+      "description": "field-gray trousers with black boots, one wearable lower-body outfit",
+      "file": "sprites/01_ww1_wearables/21_field_gray_trousers_with_black_boots_one_wearable_lower_body_outfit.png",
+      "category": "WW1 wearable equipment",
+      "era_style": "ww1",
+      "width": 160,
+      "height": 256,
+      "sheet": "sheets/01_ww1_wearables.webp",
+      "sheet_bbox": [
+        552,
+        715,
+        173,
+        285
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "01_ww1_wearables_22",
+      "description": "long khaki officer trench coat, empty wearable coat",
+      "file": "sprites/01_ww1_wearables/22_long_khaki_officer_trench_coat_empty_wearable_coat.png",
+      "category": "WW1 wearable equipment",
+      "era_style": "ww1",
+      "width": 183,
+      "height": 256,
+      "sheet": "sheets/01_ww1_wearables.webp",
+      "sheet_bbox": [
+        785,
+        709,
+        208,
+        297
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "01_ww1_wearables_23",
+      "description": "long gray wool greatcoat, empty wearable coat",
+      "file": "sprites/01_ww1_wearables/23_long_gray_wool_greatcoat_empty_wearable_coat.png",
+      "category": "WW1 wearable equipment",
+      "era_style": "ww1",
+      "width": 218,
+      "height": 256,
+      "sheet": "sheets/01_ww1_wearables.webp",
+      "sheet_bbox": [
+        1039,
+        705,
+        249,
+        295
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "01_ww1_wearables_24",
+      "description": "leather waist belt with canvas ammunition pouches, wearable belt",
+      "file": "sprites/01_ww1_wearables/24_leather_waist_belt_with_canvas_ammunition_pouches_wearable_belt.png",
+      "category": "WW1 wearable equipment",
+      "era_style": "ww1",
+      "width": 252,
+      "height": 238,
+      "sheet": "sheets/01_ww1_wearables.webp",
+      "sheet_bbox": [
+        1283,
+        798,
+        240,
+        226
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "02_ww2_wearables_01",
+      "description": "olive round steel combat helmet, front view",
+      "file": "sprites/02_ww2_wearables/01_olive_round_steel_combat_helmet_front_view.png",
+      "category": "WW2 wearable equipment",
+      "era_style": "ww2",
+      "width": 251,
+      "height": 255,
+      "sheet": "sheets/02_ww2_wearables.webp",
+      "sheet_bbox": [
+        18,
+        19,
+        239,
+        243
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "02_ww2_wearables_02",
+      "description": "khaki shallow-brim steel combat helmet, front view",
+      "file": "sprites/02_ww2_wearables/02_khaki_shallow_brim_steel_combat_helmet_front_view.png",
+      "category": "WW2 wearable equipment",
+      "era_style": "ww2",
+      "width": 256,
+      "height": 238,
+      "sheet": "sheets/02_ww2_wearables.webp",
+      "sheet_bbox": [
+        257,
+        21,
+        262,
+        243
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "02_ww2_wearables_03",
+      "description": "dark green rounded steel helmet, front view",
+      "file": "sprites/02_ww2_wearables/03_dark_green_rounded_steel_helmet_front_view.png",
+      "category": "WW2 wearable equipment",
+      "era_style": "ww2",
+      "width": 251,
+      "height": 246,
+      "sheet": "sheets/02_ww2_wearables.webp",
+      "sheet_bbox": [
+        526,
+        31,
+        239,
+        234
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "02_ww2_wearables_04",
+      "description": "plain gray flared steel helmet, front view",
+      "file": "sprites/02_ww2_wearables/04_plain_gray_flared_steel_helmet_front_view.png",
+      "category": "WW2 wearable equipment",
+      "era_style": "ww2",
+      "width": 244,
+      "height": 210,
+      "sheet": "sheets/02_ww2_wearables.webp",
+      "sheet_bbox": [
+        782,
+        42,
+        232,
+        198
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "02_ww2_wearables_05",
+      "description": "tan steel combat helmet with cloth cover, front view",
+      "file": "sprites/02_ww2_wearables/05_tan_steel_combat_helmet_with_cloth_cover_front_view.png",
+      "category": "WW2 wearable equipment",
+      "era_style": "ww2",
+      "width": 251,
+      "height": 226,
+      "sheet": "sheets/02_ww2_wearables.webp",
+      "sheet_bbox": [
+        1037,
+        30,
+        239,
+        214
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "02_ww2_wearables_06",
+      "description": "olive combat helmet with netting, front view",
+      "file": "sprites/02_ww2_wearables/06_olive_combat_helmet_with_netting_front_view.png",
+      "category": "WW2 wearable equipment",
+      "era_style": "ww2",
+      "width": 255,
+      "height": 223,
+      "sheet": "sheets/02_ww2_wearables.webp",
+      "sheet_bbox": [
+        1277,
+        29,
+        243,
+        211
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "02_ww2_wearables_07",
+      "description": "olive officer peaked cap, front view",
+      "file": "sprites/02_ww2_wearables/07_olive_officer_peaked_cap_front_view.png",
+      "category": "WW2 wearable equipment",
+      "era_style": "ww2",
+      "width": 256,
+      "height": 184,
+      "sheet": "sheets/02_ww2_wearables.webp",
+      "sheet_bbox": [
+        12,
+        261,
+        246,
+        173
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "02_ww2_wearables_08",
+      "description": "white naval sailor cap, front view",
+      "file": "sprites/02_ww2_wearables/08_white_naval_sailor_cap_front_view.png",
+      "category": "WW2 wearable equipment",
+      "era_style": "ww2",
+      "width": 255,
+      "height": 197,
+      "sheet": "sheets/02_ww2_wearables.webp",
+      "sheet_bbox": [
+        269,
+        263,
+        243,
+        185
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "02_ww2_wearables_09",
+      "description": "brown leather flying cap and goggles, front view",
+      "file": "sprites/02_ww2_wearables/09_brown_leather_flying_cap_and_goggles_front_view.png",
+      "category": "WW2 wearable equipment",
+      "era_style": "ww2",
+      "width": 242,
+      "height": 256,
+      "sheet": "sheets/02_ww2_wearables.webp",
+      "sheet_bbox": [
+        521,
+        233,
+        233,
+        247
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "02_ww2_wearables_10",
+      "description": "dark green military beret, front view",
+      "file": "sprites/02_ww2_wearables/10_dark_green_military_beret_front_view.png",
+      "category": "WW2 wearable equipment",
+      "era_style": "ww2",
+      "width": 250,
+      "height": 159,
+      "sheet": "sheets/02_ww2_wearables.webp",
+      "sheet_bbox": [
+        778,
+        287,
+        238,
+        147
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "02_ww2_wearables_11",
+      "description": "gray winter fur field cap, front view",
+      "file": "sprites/02_ww2_wearables/11_gray_winter_fur_field_cap_front_view.png",
+      "category": "WW2 wearable equipment",
+      "era_style": "ww2",
+      "width": 233,
+      "height": 174,
+      "sheet": "sheets/02_ww2_wearables.webp",
+      "sheet_bbox": [
+        1039,
+        275,
+        221,
+        162
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "02_ww2_wearables_12",
+      "description": "khaki soft side cap, front view",
+      "file": "sprites/02_ww2_wearables/12_khaki_soft_side_cap_front_view.png",
+      "category": "WW2 wearable equipment",
+      "era_style": "ww2",
+      "width": 193,
+      "height": 165,
+      "sheet": "sheets/02_ww2_wearables.webp",
+      "sheet_bbox": [
+        1311,
+        281,
+        181,
+        153
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "02_ww2_wearables_13",
+      "description": "olive field jacket with pocket flaps, empty wearable torso",
+      "file": "sprites/02_ww2_wearables/13_olive_field_jacket_with_pocket_flaps_empty_wearable_torso.png",
+      "category": "WW2 wearable equipment",
+      "era_style": "ww2",
+      "width": 256,
+      "height": 221,
+      "sheet": "sheets/02_ww2_wearables.webp",
+      "sheet_bbox": [
+        0,
+        456,
+        267,
+        229
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "02_ww2_wearables_14",
+      "description": "khaki short battledress jacket, empty wearable torso",
+      "file": "sprites/02_ww2_wearables/14_khaki_short_battledress_jacket_empty_wearable_torso.png",
+      "category": "WW2 wearable equipment",
+      "era_style": "ww2",
+      "width": 250,
+      "height": 256,
+      "sheet": "sheets/02_ww2_wearables.webp",
+      "sheet_bbox": [
+        266,
+        464,
+        248,
+        254
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "02_ww2_wearables_15",
+      "description": "brown belted military tunic, empty wearable torso",
+      "file": "sprites/02_ww2_wearables/15_brown_belted_military_tunic_empty_wearable_torso.png",
+      "category": "WW2 wearable equipment",
+      "era_style": "ww2",
+      "width": 254,
+      "height": 256,
+      "sheet": "sheets/02_ww2_wearables.webp",
+      "sheet_bbox": [
+        511,
+        458,
+        254,
+        256
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "02_ww2_wearables_16",
+      "description": "gray military field jacket, empty wearable torso",
+      "file": "sprites/02_ww2_wearables/16_gray_military_field_jacket_empty_wearable_torso.png",
+      "category": "WW2 wearable equipment",
+      "era_style": "ww2",
+      "width": 256,
+      "height": 236,
+      "sheet": "sheets/02_ww2_wearables.webp",
+      "sheet_bbox": [
+        765,
+        458,
+        257,
+        236
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "02_ww2_wearables_17",
+      "description": "navy blue double-breasted naval jacket, empty wearable torso",
+      "file": "sprites/02_ww2_wearables/17_navy_blue_double_breasted_naval_jacket_empty_wearable_torso.png",
+      "category": "WW2 wearable equipment",
+      "era_style": "ww2",
+      "width": 254,
+      "height": 256,
+      "sheet": "sheets/02_ww2_wearables.webp",
+      "sheet_bbox": [
+        1021,
+        458,
+        258,
+        260
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "02_ww2_wearables_18",
+      "description": "brown shearling-collar flight jacket, empty wearable torso",
+      "file": "sprites/02_ww2_wearables/18_brown_shearling_collar_flight_jacket_empty_wearable_torso.png",
+      "category": "WW2 wearable equipment",
+      "era_style": "ww2",
+      "width": 254,
+      "height": 256,
+      "sheet": "sheets/02_ww2_wearables.webp",
+      "sheet_bbox": [
+        1276,
+        449,
+        249,
+        251
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "02_ww2_wearables_19",
+      "description": "olive trousers with brown combat boots, one lower-body outfit",
+      "file": "sprites/02_ww2_wearables/19_olive_trousers_with_brown_combat_boots_one_lower_body_outfit.png",
+      "category": "WW2 wearable equipment",
+      "era_style": "ww2",
+      "width": 180,
+      "height": 256,
+      "sheet": "sheets/02_ww2_wearables.webp",
+      "sheet_bbox": [
+        41,
+        683,
+        219,
+        319
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "02_ww2_wearables_20",
+      "description": "khaki trousers with gaiters and boots, one lower-body outfit",
+      "file": "sprites/02_ww2_wearables/20_khaki_trousers_with_gaiters_and_boots_one_lower_body_outfit.png",
+      "category": "WW2 wearable equipment",
+      "era_style": "ww2",
+      "width": 209,
+      "height": 256,
+      "sheet": "sheets/02_ww2_wearables.webp",
+      "sheet_bbox": [
+        265,
+        685,
+        249,
+        309
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "02_ww2_wearables_21",
+      "description": "gray trousers with black boots, one lower-body outfit",
+      "file": "sprites/02_ww2_wearables/21_gray_trousers_with_black_boots_one_lower_body_outfit.png",
+      "category": "WW2 wearable equipment",
+      "era_style": "ww2",
+      "width": 192,
+      "height": 256,
+      "sheet": "sheets/02_ww2_wearables.webp",
+      "sheet_bbox": [
+        521,
+        687,
+        225,
+        305
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "02_ww2_wearables_22",
+      "description": "white winter military overcoat, empty wearable coat",
+      "file": "sprites/02_ww2_wearables/22_white_winter_military_overcoat_empty_wearable_coat.png",
+      "category": "WW2 wearable equipment",
+      "era_style": "ww2",
+      "width": 210,
+      "height": 256,
+      "sheet": "sheets/02_ww2_wearables.webp",
+      "sheet_bbox": [
+        762,
+        690,
+        247,
+        305
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "02_ww2_wearables_23",
+      "description": "long khaki wool greatcoat, empty wearable coat",
+      "file": "sprites/02_ww2_wearables/23_long_khaki_wool_greatcoat_empty_wearable_coat.png",
+      "category": "WW2 wearable equipment",
+      "era_style": "ww2",
+      "width": 178,
+      "height": 256,
+      "sheet": "sheets/02_ww2_wearables.webp",
+      "sheet_bbox": [
+        1043,
+        683,
+        211,
+        311
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "02_ww2_wearables_24",
+      "description": "canvas parachute harness and pack, front view wearable rig",
+      "file": "sprites/02_ww2_wearables/24_canvas_parachute_harness_and_pack_front_view_wearable_rig.png",
+      "category": "WW2 wearable equipment",
+      "era_style": "ww2",
+      "width": 207,
+      "height": 256,
+      "sheet": "sheets/02_ww2_wearables.webp",
+      "sheet_bbox": [
+        1275,
+        689,
+        232,
+        291
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "03_aircraft_01",
+      "description": "cream reconnaissance biplane",
+      "file": "sprites/03_aircraft/01_cream_reconnaissance_biplane.png",
+      "category": "WW1 and WW2 aircraft",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 241,
+      "sheet": "sheets/03_aircraft.webp",
+      "sheet_bbox": [
+        0,
+        0,
+        265,
+        249
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "03_aircraft_02",
+      "description": "olive fighter biplane",
+      "file": "sprites/03_aircraft/02_olive_fighter_biplane.png",
+      "category": "WW1 and WW2 aircraft",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 231,
+      "sheet": "sheets/03_aircraft.webp",
+      "sheet_bbox": [
+        229,
+        17,
+        297,
+        267
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "03_aircraft_03",
+      "description": "red triplane with three stacked wings",
+      "file": "sprites/03_aircraft/03_red_triplane_with_three_stacked_wings.png",
+      "category": "WW1 and WW2 aircraft",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 216,
+      "sheet": "sheets/03_aircraft.webp",
+      "sheet_bbox": [
+        501,
+        49,
+        269,
+        225
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "03_aircraft_04",
+      "description": "navy blue float-equipped biplane seaplane",
+      "file": "sprites/03_aircraft/04_navy_blue_float_equipped_biplane_seaplane.png",
+      "category": "WW1 and WW2 aircraft",
+      "era_style": "ww1",
+      "width": 253,
+      "height": 219,
+      "sheet": "sheets/03_aircraft.webp",
+      "sheet_bbox": [
+        769,
+        39,
+        241,
+        207
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "03_aircraft_05",
+      "description": "cream twin-engine early biplane bomber",
+      "file": "sprites/03_aircraft/05_cream_twin_engine_early_biplane_bomber.png",
+      "category": "WW1 and WW2 aircraft",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 237,
+      "sheet": "sheets/03_aircraft.webp",
+      "sheet_bbox": [
+        1023,
+        17,
+        289,
+        267
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "03_aircraft_06",
+      "description": "silver elongated zeppelin airship",
+      "file": "sprites/03_aircraft/06_silver_elongated_zeppelin_airship.png",
+      "category": "WW1 and WW2 aircraft",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 233,
+      "sheet": "sheets/03_aircraft.webp",
+      "sheet_bbox": [
+        1274,
+        19,
+        262,
+        237
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "03_aircraft_07",
+      "description": "gray tethered observation balloon with small basket",
+      "file": "sprites/03_aircraft/07_gray_tethered_observation_balloon_with_small_basket.png",
+      "category": "WW1 and WW2 aircraft",
+      "era_style": "ww1",
+      "width": 229,
+      "height": 256,
+      "sheet": "sheets/03_aircraft.webp",
+      "sheet_bbox": [
+        0,
+        243,
+        264,
+        297
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "03_aircraft_08",
+      "description": "khaki two-seat biplane",
+      "file": "sprites/03_aircraft/08_khaki_two_seat_biplane.png",
+      "category": "WW1 and WW2 aircraft",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 214,
+      "sheet": "sheets/03_aircraft.webp",
+      "sheet_bbox": [
+        231,
+        278,
+        297,
+        246
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "03_aircraft_09",
+      "description": "green early pusher biplane",
+      "file": "sprites/03_aircraft/09_green_early_pusher_biplane.png",
+      "category": "WW1 and WW2 aircraft",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 243,
+      "sheet": "sheets/03_aircraft.webp",
+      "sheet_bbox": [
+        515,
+        267,
+        255,
+        241
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "03_aircraft_10",
+      "description": "dark green maritime biplane",
+      "file": "sprites/03_aircraft/10_dark_green_maritime_biplane.png",
+      "category": "WW1 and WW2 aircraft",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 231,
+      "sheet": "sheets/03_aircraft.webp",
+      "sheet_bbox": [
+        771,
+        295,
+        253,
+        227
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "03_aircraft_11",
+      "description": "ivory early wire-braced scout monoplane",
+      "file": "sprites/03_aircraft/11_ivory_early_wire_braced_scout_monoplane.png",
+      "category": "WW1 and WW2 aircraft",
+      "era_style": "ww1",
+      "width": 243,
+      "height": 256,
+      "sheet": "sheets/03_aircraft.webp",
+      "sheet_bbox": [
+        1021,
+        255,
+        257,
+        271
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "03_aircraft_12",
+      "description": "blue-gray early floatplane",
+      "file": "sprites/03_aircraft/12_blue_gray_early_floatplane.png",
+      "category": "WW1 and WW2 aircraft",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 212,
+      "sheet": "sheets/03_aircraft.webp",
+      "sheet_bbox": [
+        1252,
+        287,
+        264,
+        216
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "03_aircraft_13",
+      "description": "olive single-engine WW2 fighter",
+      "file": "sprites/03_aircraft/13_olive_single_engine_ww2_fighter.png",
+      "category": "WW1 and WW2 aircraft",
+      "era_style": "ww2",
+      "width": 256,
+      "height": 221,
+      "sheet": "sheets/03_aircraft.webp",
+      "sheet_bbox": [
+        0,
+        519,
+        267,
+        229
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "03_aircraft_14",
+      "description": "brown and green camouflage elliptical-wing fighter",
+      "file": "sprites/03_aircraft/14_brown_and_green_camouflage_elliptical_wing_fighter.png",
+      "category": "WW1 and WW2 aircraft",
+      "era_style": "ww2",
+      "width": 256,
+      "height": 230,
+      "sheet": "sheets/03_aircraft.webp",
+      "sheet_bbox": [
+        253,
+        507,
+        272,
+        243
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "03_aircraft_15",
+      "description": "tan desert single-engine fighter",
+      "file": "sprites/03_aircraft/15_tan_desert_single_engine_fighter.png",
+      "category": "WW1 and WW2 aircraft",
+      "era_style": "ww2",
+      "width": 256,
+      "height": 247,
+      "sheet": "sheets/03_aircraft.webp",
+      "sheet_bbox": [
+        497,
+        507,
+        271,
+        261
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "03_aircraft_16",
+      "description": "white winter camouflage single-engine fighter",
+      "file": "sprites/03_aircraft/16_white_winter_camouflage_single_engine_fighter.png",
+      "category": "WW1 and WW2 aircraft",
+      "era_style": "ww2",
+      "width": 256,
+      "height": 232,
+      "sheet": "sheets/03_aircraft.webp",
+      "sheet_bbox": [
+        761,
+        507,
+        263,
+        237
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "03_aircraft_17",
+      "description": "gray-green carrier fighter with folded wing tips",
+      "file": "sprites/03_aircraft/17_gray_green_carrier_fighter_with_folded_wing_tips.png",
+      "category": "WW1 and WW2 aircraft",
+      "era_style": "ww2",
+      "width": 256,
+      "height": 242,
+      "sheet": "sheets/03_aircraft.webp",
+      "sheet_bbox": [
+        1017,
+        506,
+        271,
+        256
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "03_aircraft_18",
+      "description": "navy blue carrier fighter",
+      "file": "sprites/03_aircraft/18_navy_blue_carrier_fighter.png",
+      "category": "WW1 and WW2 aircraft",
+      "era_style": "ww2",
+      "width": 256,
+      "height": 243,
+      "sheet": "sheets/03_aircraft.webp",
+      "sheet_bbox": [
+        1280,
+        531,
+        244,
+        231
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "03_aircraft_19",
+      "description": "olive twin-engine medium bomber",
+      "file": "sprites/03_aircraft/19_olive_twin_engine_medium_bomber.png",
+      "category": "WW1 and WW2 aircraft",
+      "era_style": "ww2",
+      "width": 252,
+      "height": 256,
+      "sheet": "sheets/03_aircraft.webp",
+      "sheet_bbox": [
+        0,
+        748,
+        271,
+        276
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "03_aircraft_20",
+      "description": "silver four-engine heavy bomber",
+      "file": "sprites/03_aircraft/20_silver_four_engine_heavy_bomber.png",
+      "category": "WW1 and WW2 aircraft",
+      "era_style": "ww2",
+      "width": 256,
+      "height": 231,
+      "sheet": "sheets/03_aircraft.webp",
+      "sheet_bbox": [
+        260,
+        736,
+        294,
+        264
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "03_aircraft_21",
+      "description": "olive twin-engine transport aircraft",
+      "file": "sprites/03_aircraft/21_olive_twin_engine_transport_aircraft.png",
+      "category": "WW1 and WW2 aircraft",
+      "era_style": "ww2",
+      "width": 254,
+      "height": 256,
+      "sheet": "sheets/03_aircraft.webp",
+      "sheet_bbox": [
+        525,
+        773,
+        249,
+        251
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "03_aircraft_22",
+      "description": "gray twin-boom fighter",
+      "file": "sprites/03_aircraft/22_gray_twin_boom_fighter.png",
+      "category": "WW1 and WW2 aircraft",
+      "era_style": "ww2",
+      "width": 233,
+      "height": 256,
+      "sheet": "sheets/03_aircraft.webp",
+      "sheet_bbox": [
+        769,
+        737,
+        260,
+        287
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "03_aircraft_23",
+      "description": "green large flying boat",
+      "file": "sprites/03_aircraft/23_green_large_flying_boat.png",
+      "category": "WW1 and WW2 aircraft",
+      "era_style": "ww2",
+      "width": 256,
+      "height": 246,
+      "sheet": "sheets/03_aircraft.webp",
+      "sheet_bbox": [
+        1020,
+        743,
+        272,
+        261
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "03_aircraft_24",
+      "description": "tan military transport glider",
+      "file": "sprites/03_aircraft/24_tan_military_transport_glider.png",
+      "category": "WW1 and WW2 aircraft",
+      "era_style": "ww2",
+      "width": 234,
+      "height": 256,
+      "sheet": "sheets/03_aircraft.webp",
+      "sheet_bbox": [
+        1277,
+        739,
+        259,
+        285
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "04_ground_vehicles_01",
+      "description": "brown early rhomboid tracked tank",
+      "file": "sprites/04_ground_vehicles/01_brown_early_rhomboid_tracked_tank.png",
+      "category": "WW1 and WW2 ground vehicles",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 204,
+      "sheet": "sheets/04_ground_vehicles.webp",
+      "sheet_bbox": [
+        9,
+        71,
+        273,
+        215
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "04_ground_vehicles_02",
+      "description": "olive small early turreted tank",
+      "file": "sprites/04_ground_vehicles/02_olive_small_early_turreted_tank.png",
+      "category": "WW1 and WW2 ground vehicles",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 199,
+      "sheet": "sheets/04_ground_vehicles.webp",
+      "sheet_bbox": [
+        261,
+        78,
+        258,
+        198
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "04_ground_vehicles_03",
+      "description": "gray early armored car",
+      "file": "sprites/04_ground_vehicles/03_gray_early_armored_car.png",
+      "category": "WW1 and WW2 ground vehicles",
+      "era_style": "ww1",
+      "width": 253,
+      "height": 234,
+      "sheet": "sheets/04_ground_vehicles.webp",
+      "sheet_bbox": [
+        514,
+        35,
+        241,
+        222
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "04_ground_vehicles_04",
+      "description": "olive 1910s canvas-covered military truck",
+      "file": "sprites/04_ground_vehicles/04_olive_1910s_canvas_covered_military_truck.png",
+      "category": "WW1 and WW2 ground vehicles",
+      "era_style": "ww1",
+      "width": 254,
+      "height": 256,
+      "sheet": "sheets/04_ground_vehicles.webp",
+      "sheet_bbox": [
+        767,
+        21,
+        259,
+        261
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "04_ground_vehicles_05",
+      "description": "cream early military ambulance with no emblem",
+      "file": "sprites/04_ground_vehicles/05_cream_early_military_ambulance_with_no_emblem.png",
+      "category": "WW1 and WW2 ground vehicles",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 234,
+      "sheet": "sheets/04_ground_vehicles.webp",
+      "sheet_bbox": [
+        1017,
+        31,
+        289,
+        263
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "04_ground_vehicles_06",
+      "description": "brown early motorcycle with sidecar",
+      "file": "sprites/04_ground_vehicles/06_brown_early_motorcycle_with_sidecar.png",
+      "category": "WW1 and WW2 ground vehicles",
+      "era_style": "ww1",
+      "width": 240,
+      "height": 256,
+      "sheet": "sheets/04_ground_vehicles.webp",
+      "sheet_bbox": [
+        1290,
+        20,
+        234,
+        250
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "04_ground_vehicles_07",
+      "description": "wooden horse-drawn supply cart WITHOUT horse",
+      "file": "sprites/04_ground_vehicles/07_wooden_horse_drawn_supply_cart_without_horse.png",
+      "category": "WW1 and WW2 ground vehicles",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 200,
+      "sheet": "sheets/04_ground_vehicles.webp",
+      "sheet_bbox": [
+        0,
+        283,
+        274,
+        211
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "04_ground_vehicles_08",
+      "description": "dark green 1910s staff car",
+      "file": "sprites/04_ground_vehicles/08_dark_green_1910s_staff_car.png",
+      "category": "WW1 and WW2 ground vehicles",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 202,
+      "sheet": "sheets/04_ground_vehicles.webp",
+      "sheet_bbox": [
+        264,
+        310,
+        251,
+        195
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "04_ground_vehicles_09",
+      "description": "black small steam locomotive",
+      "file": "sprites/04_ground_vehicles/09_black_small_steam_locomotive.png",
+      "category": "WW1 and WW2 ground vehicles",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 190,
+      "sheet": "sheets/04_ground_vehicles.webp",
+      "sheet_bbox": [
+        497,
+        306,
+        283,
+        206
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "04_ground_vehicles_10",
+      "description": "brown military flatbed railway wagon",
+      "file": "sprites/04_ground_vehicles/10_brown_military_flatbed_railway_wagon.png",
+      "category": "WW1 and WW2 ground vehicles",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 127,
+      "sheet": "sheets/04_ground_vehicles.webp",
+      "sheet_bbox": [
+        769,
+        365,
+        279,
+        131
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "04_ground_vehicles_11",
+      "description": "olive vintage military bicycle",
+      "file": "sprites/04_ground_vehicles/11_olive_vintage_military_bicycle.png",
+      "category": "WW1 and WW2 ground vehicles",
+      "era_style": "ww1",
+      "width": 251,
+      "height": 187,
+      "sheet": "sheets/04_ground_vehicles.webp",
+      "sheet_bbox": [
+        1040,
+        335,
+        239,
+        175
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "04_ground_vehicles_12",
+      "description": "gray early tracked artillery tractor",
+      "file": "sprites/04_ground_vehicles/12_gray_early_tracked_artillery_tractor.png",
+      "category": "WW1 and WW2 ground vehicles",
+      "era_style": "ww1",
+      "width": 256,
+      "height": 197,
+      "sheet": "sheets/04_ground_vehicles.webp",
+      "sheet_bbox": [
+        1274,
+        307,
+        251,
+        190
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "04_ground_vehicles_13",
+      "description": "olive WW2 medium tank",
+      "file": "sprites/04_ground_vehicles/13_olive_ww2_medium_tank.png",
+      "category": "WW1 and WW2 ground vehicles",
+      "era_style": "ww2",
+      "width": 256,
+      "height": 203,
+      "sheet": "sheets/04_ground_vehicles.webp",
+      "sheet_bbox": [
+        0,
+        519,
+        274,
+        215
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "04_ground_vehicles_14",
+      "description": "tan desert medium tank",
+      "file": "sprites/04_ground_vehicles/14_tan_desert_medium_tank.png",
+      "category": "WW1 and WW2 ground vehicles",
+      "era_style": "ww2",
+      "width": 256,
+      "height": 238,
+      "sheet": "sheets/04_ground_vehicles.webp",
+      "sheet_bbox": [
+        268,
+        507,
+        256,
+        237
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "04_ground_vehicles_15",
+      "description": "white winter camouflage medium tank",
+      "file": "sprites/04_ground_vehicles/15_white_winter_camouflage_medium_tank.png",
+      "category": "WW1 and WW2 ground vehicles",
+      "era_style": "ww2",
+      "width": 256,
+      "height": 213,
+      "sheet": "sheets/04_ground_vehicles.webp",
+      "sheet_bbox": [
+        519,
+        543,
+        254,
+        209
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "04_ground_vehicles_16",
+      "description": "olive open-top tank destroyer",
+      "file": "sprites/04_ground_vehicles/16_olive_open_top_tank_destroyer.png",
+      "category": "WW1 and WW2 ground vehicles",
+      "era_style": "ww2",
+      "width": 256,
+      "height": 216,
+      "sheet": "sheets/04_ground_vehicles.webp",
+      "sheet_bbox": [
+        769,
+        522,
+        266,
+        222
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "04_ground_vehicles_17",
+      "description": "gray military halftrack troop transport",
+      "file": "sprites/04_ground_vehicles/17_gray_military_halftrack_troop_transport.png",
+      "category": "WW1 and WW2 ground vehicles",
+      "era_style": "ww2",
+      "width": 256,
+      "height": 208,
+      "sheet": "sheets/04_ground_vehicles.webp",
+      "sheet_bbox": [
+        1022,
+        523,
+        288,
+        231
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "04_ground_vehicles_18",
+      "description": "olive small military jeep",
+      "file": "sprites/04_ground_vehicles/18_olive_small_military_jeep.png",
+      "category": "WW1 and WW2 ground vehicles",
+      "era_style": "ww2",
+      "width": 246,
+      "height": 247,
+      "sheet": "sheets/04_ground_vehicles.webp",
+      "sheet_bbox": [
+        1288,
+        527,
+        234,
+        235
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "04_ground_vehicles_19",
+      "description": "olive WW2 canvas cargo truck",
+      "file": "sprites/04_ground_vehicles/19_olive_ww2_canvas_cargo_truck.png",
+      "category": "WW1 and WW2 ground vehicles",
+      "era_style": "ww2",
+      "width": 256,
+      "height": 218,
+      "sheet": "sheets/04_ground_vehicles.webp",
+      "sheet_bbox": [
+        0,
+        733,
+        278,
+        235
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "04_ground_vehicles_20",
+      "description": "khaki WW2 field ambulance with no emblem",
+      "file": "sprites/04_ground_vehicles/20_khaki_ww2_field_ambulance_with_no_emblem.png",
+      "category": "WW1 and WW2 ground vehicles",
+      "era_style": "ww2",
+      "width": 256,
+      "height": 233,
+      "sheet": "sheets/04_ground_vehicles.webp",
+      "sheet_bbox": [
+        259,
+        751,
+        279,
+        253
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "04_ground_vehicles_21",
+      "description": "olive military fuel tanker truck",
+      "file": "sprites/04_ground_vehicles/21_olive_military_fuel_tanker_truck.png",
+      "category": "WW1 and WW2 ground vehicles",
+      "era_style": "ww2",
+      "width": 256,
+      "height": 205,
+      "sheet": "sheets/04_ground_vehicles.webp",
+      "sheet_bbox": [
+        501,
+        769,
+        289,
+        229
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "04_ground_vehicles_22",
+      "description": "gray WW2 motorcycle",
+      "file": "sprites/04_ground_vehicles/22_gray_ww2_motorcycle.png",
+      "category": "WW1 and WW2 ground vehicles",
+      "era_style": "ww2",
+      "width": 256,
+      "height": 168,
+      "sheet": "sheets/04_ground_vehicles.webp",
+      "sheet_bbox": [
+        773,
+        799,
+        255,
+        163
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "04_ground_vehicles_23",
+      "description": "tan armored scout car",
+      "file": "sprites/04_ground_vehicles/23_tan_armored_scout_car.png",
+      "category": "WW1 and WW2 ground vehicles",
+      "era_style": "ww2",
+      "width": 256,
+      "height": 208,
+      "sheet": "sheets/04_ground_vehicles.webp",
+      "sheet_bbox": [
+        1023,
+        741,
+        260,
+        209
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "04_ground_vehicles_24",
+      "description": "olive amphibious military transport vehicle",
+      "file": "sprites/04_ground_vehicles/24_olive_amphibious_military_transport_vehicle.png",
+      "category": "WW1 and WW2 ground vehicles",
+      "era_style": "ww2",
+      "width": 256,
+      "height": 173,
+      "sheet": "sheets/04_ground_vehicles.webp",
+      "sheet_bbox": [
+        1279,
+        777,
+        247,
+        163
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "05_trench_camp_props_01",
+      "description": "straight low sandbag wall section",
+      "file": "sprites/05_trench_camp_props/01_straight_low_sandbag_wall_section.png",
+      "category": "Trench and camp props",
+      "era_style": "ww1_ww2",
+      "width": 256,
+      "height": 223,
+      "sheet": "sheets/05_trench_camp_props.webp",
+      "sheet_bbox": [
+        13,
+        20,
+        247,
+        214
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "05_trench_camp_props_02",
+      "description": "L-shaped sandbag corner wall",
+      "file": "sprites/05_trench_camp_props/02_l_shaped_sandbag_corner_wall.png",
+      "category": "Trench and camp props",
+      "era_style": "ww1_ww2",
+      "width": 219,
+      "height": 256,
+      "sheet": "sheets/05_trench_camp_props.webp",
+      "sheet_bbox": [
+        267,
+        31,
+        233,
+        275
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "05_trench_camp_props_03",
+      "description": "timber-reinforced trench wall section",
+      "file": "sprites/05_trench_camp_props/03_timber_reinforced_trench_wall_section.png",
+      "category": "Trench and camp props",
+      "era_style": "ww1_ww2",
+      "width": 256,
+      "height": 223,
+      "sheet": "sheets/05_trench_camp_props.webp",
+      "sheet_bbox": [
+        511,
+        25,
+        258,
+        223
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "05_trench_camp_props_04",
+      "description": "wooden trench ladder",
+      "file": "sprites/05_trench_camp_props/04_wooden_trench_ladder.png",
+      "category": "Trench and camp props",
+      "era_style": "ww1_ww2",
+      "width": 189,
+      "height": 256,
+      "sheet": "sheets/05_trench_camp_props.webp",
+      "sheet_bbox": [
+        806,
+        29,
+        198,
+        273
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "05_trench_camp_props_05",
+      "description": "short barbed-wire fence section with posts",
+      "file": "sprites/05_trench_camp_props/05_short_barbed_wire_fence_section_with_posts.png",
+      "category": "Trench and camp props",
+      "era_style": "ww1_ww2",
+      "width": 256,
+      "height": 256,
+      "sheet": "sheets/05_trench_camp_props.webp",
+      "sheet_bbox": [
+        1025,
+        21,
+        268,
+        268
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "05_trench_camp_props_06",
+      "description": "steel defensive hedgehog obstacle",
+      "file": "sprites/05_trench_camp_props/06_steel_defensive_hedgehog_obstacle.png",
+      "category": "Trench and camp props",
+      "era_style": "ww1_ww2",
+      "width": 230,
+      "height": 243,
+      "sheet": "sheets/05_trench_camp_props.webp",
+      "sheet_bbox": [
+        1291,
+        41,
+        218,
+        231
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "05_trench_camp_props_07",
+      "description": "small khaki canvas tent",
+      "file": "sprites/05_trench_camp_props/07_small_khaki_canvas_tent.png",
+      "category": "Trench and camp props",
+      "era_style": "ww1_ww2",
+      "width": 256,
+      "height": 217,
+      "sheet": "sheets/05_trench_camp_props.webp",
+      "sheet_bbox": [
+        0,
+        285,
+        270,
+        227
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "05_trench_camp_props_08",
+      "description": "large cream field medical tent with no emblem",
+      "file": "sprites/05_trench_camp_props/08_large_cream_field_medical_tent_with_no_emblem.png",
+      "category": "Trench and camp props",
+      "era_style": "ww1_ww2",
+      "width": 256,
+      "height": 208,
+      "sheet": "sheets/05_trench_camp_props.webp",
+      "sheet_bbox": [
+        262,
+        271,
+        303,
+        243
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "05_trench_camp_props_09",
+      "description": "wooden observation watchtower",
+      "file": "sprites/05_trench_camp_props/09_wooden_observation_watchtower.png",
+      "category": "Trench and camp props",
+      "era_style": "ww1_ww2",
+      "width": 229,
+      "height": 256,
+      "sheet": "sheets/05_trench_camp_props.webp",
+      "sheet_bbox": [
+        509,
+        263,
+        239,
+        269
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "05_trench_camp_props_10",
+      "description": "wooden earth-covered bunker",
+      "file": "sprites/05_trench_camp_props/10_wooden_earth_covered_bunker.png",
+      "category": "Trench and camp props",
+      "era_style": "ww1_ww2",
+      "width": 256,
+      "height": 174,
+      "sheet": "sheets/05_trench_camp_props.webp",
+      "sheet_bbox": [
+        738,
+        305,
+        293,
+        195
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "05_trench_camp_props_11",
+      "description": "small gray concrete bunker",
+      "file": "sprites/05_trench_camp_props/11_small_gray_concrete_bunker.png",
+      "category": "Trench and camp props",
+      "era_style": "ww1_ww2",
+      "width": 256,
+      "height": 217,
+      "sheet": "sheets/05_trench_camp_props.webp",
+      "sheet_bbox": [
+        1023,
+        281,
+        253,
+        213
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "05_trench_camp_props_12",
+      "description": "corrugated metal dugout shelter",
+      "file": "sprites/05_trench_camp_props/12_corrugated_metal_dugout_shelter.png",
+      "category": "Trench and camp props",
+      "era_style": "ww1_ww2",
+      "width": 256,
+      "height": 195,
+      "sheet": "sheets/05_trench_camp_props.webp",
+      "sheet_bbox": [
+        1272,
+        303,
+        264,
+        198
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "05_trench_camp_props_13",
+      "description": "closed wooden supply crate",
+      "file": "sprites/05_trench_camp_props/13_closed_wooden_supply_crate.png",
+      "category": "Trench and camp props",
+      "era_style": "ww1_ww2",
+      "width": 256,
+      "height": 202,
+      "sheet": "sheets/05_trench_camp_props.webp",
+      "sheet_bbox": [
+        13,
+        545,
+        251,
+        195
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "05_trench_camp_props_14",
+      "description": "olive ammunition storage crate",
+      "file": "sprites/05_trench_camp_props/14_olive_ammunition_storage_crate.png",
+      "category": "Trench and camp props",
+      "era_style": "ww1_ww2",
+      "width": 256,
+      "height": 168,
+      "sheet": "sheets/05_trench_camp_props.webp",
+      "sheet_bbox": [
+        257,
+        569,
+        273,
+        175
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "05_trench_camp_props_15",
+      "description": "tan medical satchel with a plain green plus",
+      "file": "sprites/05_trench_camp_props/15_tan_medical_satchel_with_a_plain_green_plus.png",
+      "category": "Trench and camp props",
+      "era_style": "ww1_ww2",
+      "width": 256,
+      "height": 210,
+      "sheet": "sheets/05_trench_camp_props.webp",
+      "sheet_bbox": [
+        523,
+        543,
+        253,
+        205
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "05_trench_camp_props_16",
+      "description": "metal military canteen",
+      "file": "sprites/05_trench_camp_props/16_metal_military_canteen.png",
+      "category": "Trench and camp props",
+      "era_style": "ww1_ww2",
+      "width": 217,
+      "height": 239,
+      "sheet": "sheets/05_trench_camp_props.webp",
+      "sheet_bbox": [
+        799,
+        529,
+        205,
+        227
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "05_trench_camp_props_17",
+      "description": "khaki canvas field backpack",
+      "file": "sprites/05_trench_camp_props/17_khaki_canvas_field_backpack.png",
+      "category": "Trench and camp props",
+      "era_style": "ww1_ww2",
+      "width": 256,
+      "height": 243,
+      "sheet": "sheets/05_trench_camp_props.webp",
+      "sheet_bbox": [
+        1025,
+        526,
+        251,
+        238
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "05_trench_camp_props_18",
+      "description": "olive portable field radio",
+      "file": "sprites/05_trench_camp_props/18_olive_portable_field_radio.png",
+      "category": "Trench and camp props",
+      "era_style": "ww1_ww2",
+      "width": 234,
+      "height": 256,
+      "sheet": "sheets/05_trench_camp_props.webp",
+      "sheet_bbox": [
+        1295,
+        497,
+        241,
+        265
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "05_trench_camp_props_19",
+      "description": "black military binoculars",
+      "file": "sprites/05_trench_camp_props/19_black_military_binoculars.png",
+      "category": "Trench and camp props",
+      "era_style": "ww1_ww2",
+      "width": 256,
+      "height": 200,
+      "sheet": "sheets/05_trench_camp_props.webp",
+      "sheet_bbox": [
+        0,
+        777,
+        258,
+        199
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "05_trench_camp_props_20",
+      "description": "black field telephone with handset",
+      "file": "sprites/05_trench_camp_props/20_black_field_telephone_with_handset.png",
+      "category": "Trench and camp props",
+      "era_style": "ww1_ww2",
+      "width": 256,
+      "height": 210,
+      "sheet": "sheets/05_trench_camp_props.webp",
+      "sheet_bbox": [
+        255,
+        767,
+        277,
+        225
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "05_trench_camp_props_21",
+      "description": "steel military searchlight on tripod",
+      "file": "sprites/05_trench_camp_props/21_steel_military_searchlight_on_tripod.png",
+      "category": "Trench and camp props",
+      "era_style": "ww1_ww2",
+      "width": 190,
+      "height": 256,
+      "sheet": "sheets/05_trench_camp_props.webp",
+      "sheet_bbox": [
+        554,
+        744,
+        193,
+        264
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "05_trench_camp_props_22",
+      "description": "rolled wool blanket with straps",
+      "file": "sprites/05_trench_camp_props/22_rolled_wool_blanket_with_straps.png",
+      "category": "Trench and camp props",
+      "era_style": "ww1_ww2",
+      "width": 256,
+      "height": 197,
+      "sheet": "sheets/05_trench_camp_props.webp",
+      "sheet_bbox": [
+        768,
+        791,
+        262,
+        199
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "05_trench_camp_props_23",
+      "description": "metal mess tin and cup as one compact set",
+      "file": "sprites/05_trench_camp_props/23_metal_mess_tin_and_cup_as_one_compact_set.png",
+      "category": "Trench and camp props",
+      "era_style": "ww1_ww2",
+      "width": 243,
+      "height": 237,
+      "sheet": "sheets/05_trench_camp_props.webp",
+      "sheet_bbox": [
+        1039,
+        764,
+        231,
+        225
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "05_trench_camp_props_24",
+      "description": "small wooden chessboard with pieces for camp recreation",
+      "file": "sprites/05_trench_camp_props/24_small_wooden_chessboard_with_pieces_for_camp_recreation.png",
+      "category": "Trench and camp props",
+      "era_style": "ww1_ww2",
+      "width": 256,
+      "height": 180,
+      "sheet": "sheets/05_trench_camp_props.webp",
+      "sheet_bbox": [
+        1264,
+        786,
+        261,
+        180
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "06_ships_weapons_equipment_01",
+      "description": "gray WW1 dreadnought battleship",
+      "file": "sprites/06_ships_weapons_equipment/01_gray_ww1_dreadnought_battleship.png",
+      "category": "Ships, weapons and service equipment",
+      "era_style": "ww1_ww2",
+      "width": 253,
+      "height": 256,
+      "sheet": "sheets/06_ships_weapons_equipment.webp",
+      "sheet_bbox": [
+        0,
+        2,
+        298,
+        302
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "06_ships_weapons_equipment_02",
+      "description": "gray WW1 destroyer",
+      "file": "sprites/06_ships_weapons_equipment/02_gray_ww1_destroyer.png",
+      "category": "Ships, weapons and service equipment",
+      "era_style": "ww1_ww2",
+      "width": 225,
+      "height": 256,
+      "sheet": "sheets/06_ships_weapons_equipment.webp",
+      "sheet_bbox": [
+        270,
+        17,
+        245,
+        281
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "06_ships_weapons_equipment_03",
+      "description": "gray WW2 battleship",
+      "file": "sprites/06_ships_weapons_equipment/03_gray_ww2_battleship.png",
+      "category": "Ships, weapons and service equipment",
+      "era_style": "ww1_ww2",
+      "width": 246,
+      "height": 256,
+      "sheet": "sheets/06_ships_weapons_equipment.webp",
+      "sheet_bbox": [
+        510,
+        12,
+        274,
+        286
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "06_ships_weapons_equipment_04",
+      "description": "gray WW2 aircraft carrier with simple flat deck",
+      "file": "sprites/06_ships_weapons_equipment/04_gray_ww2_aircraft_carrier_with_simple_flat_deck.png",
+      "category": "Ships, weapons and service equipment",
+      "era_style": "ww1_ww2",
+      "width": 256,
+      "height": 220,
+      "sheet": "sheets/06_ships_weapons_equipment.webp",
+      "sheet_bbox": [
+        763,
+        31,
+        311,
+        265
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "06_ships_weapons_equipment_05",
+      "description": "dark gray submarine",
+      "file": "sprites/06_ships_weapons_equipment/05_dark_gray_submarine.png",
+      "category": "Ships, weapons and service equipment",
+      "era_style": "ww1_ww2",
+      "width": 245,
+      "height": 256,
+      "sheet": "sheets/06_ships_weapons_equipment.webp",
+      "sheet_bbox": [
+        1025,
+        17,
+        271,
+        284
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "06_ships_weapons_equipment_06",
+      "description": "olive small open troop landing craft",
+      "file": "sprites/06_ships_weapons_equipment/06_olive_small_open_troop_landing_craft.png",
+      "category": "Ships, weapons and service equipment",
+      "era_style": "ww1_ww2",
+      "width": 226,
+      "height": 256,
+      "sheet": "sheets/06_ships_weapons_equipment.webp",
+      "sheet_bbox": [
+        1295,
+        23,
+        227,
+        259
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "06_ships_weapons_equipment_07",
+      "description": "wooden bolt-action rifle",
+      "file": "sprites/06_ships_weapons_equipment/07_wooden_bolt_action_rifle.png",
+      "category": "Ships, weapons and service equipment",
+      "era_style": "ww1_ww2",
+      "width": 256,
+      "height": 167,
+      "sheet": "sheets/06_ships_weapons_equipment.webp",
+      "sheet_bbox": [
+        0,
+        307,
+        336,
+        213
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "06_ships_weapons_equipment_08",
+      "description": "short wooden military carbine",
+      "file": "sprites/06_ships_weapons_equipment/08_short_wooden_military_carbine.png",
+      "category": "Ships, weapons and service equipment",
+      "era_style": "ww1_ww2",
+      "width": 256,
+      "height": 177,
+      "sheet": "sheets/06_ships_weapons_equipment.webp",
+      "sheet_bbox": [
+        255,
+        295,
+        289,
+        195
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "06_ships_weapons_equipment_09",
+      "description": "wood and steel straight-magazine submachine gun",
+      "file": "sprites/06_ships_weapons_equipment/09_wood_and_steel_straight_magazine_submachine_gun.png",
+      "category": "Ships, weapons and service equipment",
+      "era_style": "ww1_ww2",
+      "width": 256,
+      "height": 207,
+      "sheet": "sheets/06_ships_weapons_equipment.webp",
+      "sheet_bbox": [
+        511,
+        287,
+        281,
+        225
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "06_ships_weapons_equipment_10",
+      "description": "wood and steel drum-magazine submachine gun",
+      "file": "sprites/06_ships_weapons_equipment/10_wood_and_steel_drum_magazine_submachine_gun.png",
+      "category": "Ships, weapons and service equipment",
+      "era_style": "ww1_ww2",
+      "width": 256,
+      "height": 216,
+      "sheet": "sheets/06_ships_weapons_equipment.webp",
+      "sheet_bbox": [
+        771,
+        295,
+        259,
+        217
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "06_ships_weapons_equipment_11",
+      "description": "light machine gun on bipod",
+      "file": "sprites/06_ships_weapons_equipment/11_light_machine_gun_on_bipod.png",
+      "category": "Ships, weapons and service equipment",
+      "era_style": "ww1_ww2",
+      "width": 256,
+      "height": 209,
+      "sheet": "sheets/06_ships_weapons_equipment.webp",
+      "sheet_bbox": [
+        1001,
+        294,
+        307,
+        248
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "06_ships_weapons_equipment_12",
+      "description": "heavy machine gun on tripod",
+      "file": "sprites/06_ships_weapons_equipment/12_heavy_machine_gun_on_tripod.png",
+      "category": "Ships, weapons and service equipment",
+      "era_style": "ww1_ww2",
+      "width": 247,
+      "height": 256,
+      "sheet": "sheets/06_ships_weapons_equipment.webp",
+      "sheet_bbox": [
+        1265,
+        285,
+        257,
+        267
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "06_ships_weapons_equipment_13",
+      "description": "olive early field artillery gun",
+      "file": "sprites/06_ships_weapons_equipment/13_olive_early_field_artillery_gun.png",
+      "category": "Ships, weapons and service equipment",
+      "era_style": "ww1_ww2",
+      "width": 256,
+      "height": 208,
+      "sheet": "sheets/06_ships_weapons_equipment.webp",
+      "sheet_bbox": [
+        0,
+        487,
+        290,
+        233
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "06_ships_weapons_equipment_14",
+      "description": "tan WW2 antitank gun",
+      "file": "sprites/06_ships_weapons_equipment/14_tan_ww2_antitank_gun.png",
+      "category": "Ships, weapons and service equipment",
+      "era_style": "ww1_ww2",
+      "width": 256,
+      "height": 213,
+      "sheet": "sheets/06_ships_weapons_equipment.webp",
+      "sheet_bbox": [
+        253,
+        490,
+        293,
+        241
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "06_ships_weapons_equipment_15",
+      "description": "gray antiaircraft gun",
+      "file": "sprites/06_ships_weapons_equipment/15_gray_antiaircraft_gun.png",
+      "category": "Ships, weapons and service equipment",
+      "era_style": "ww1_ww2",
+      "width": 256,
+      "height": 220,
+      "sheet": "sheets/06_ships_weapons_equipment.webp",
+      "sheet_bbox": [
+        459,
+        489,
+        349,
+        297
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "06_ships_weapons_equipment_16",
+      "description": "olive mortar on baseplate",
+      "file": "sprites/06_ships_weapons_equipment/16_olive_mortar_on_baseplate.png",
+      "category": "Ships, weapons and service equipment",
+      "era_style": "ww1_ww2",
+      "width": 231,
+      "height": 256,
+      "sheet": "sheets/06_ships_weapons_equipment.webp",
+      "sheet_bbox": [
+        777,
+        503,
+        261,
+        291
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "06_ships_weapons_equipment_17",
+      "description": "olive round fragmentation grenade",
+      "file": "sprites/06_ships_weapons_equipment/17_olive_round_fragmentation_grenade.png",
+      "category": "Ships, weapons and service equipment",
+      "era_style": "ww1_ww2",
+      "width": 239,
+      "height": 256,
+      "sheet": "sheets/06_ships_weapons_equipment.webp",
+      "sheet_bbox": [
+        1065,
+        503,
+        237,
+        255
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "06_ships_weapons_equipment_18",
+      "description": "brown handled stick grenade",
+      "file": "sprites/06_ships_weapons_equipment/18_brown_handled_stick_grenade.png",
+      "category": "Ships, weapons and service equipment",
+      "era_style": "ww1_ww2",
+      "width": 209,
+      "height": 256,
+      "sheet": "sheets/06_ships_weapons_equipment.webp",
+      "sheet_bbox": [
+        1289,
+        511,
+        217,
+        269
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "06_ships_weapons_equipment_19",
+      "description": "gold star service medal on khaki ribbon",
+      "file": "sprites/06_ships_weapons_equipment/19_gold_star_service_medal_on_khaki_ribbon.png",
+      "category": "Ships, weapons and service equipment",
+      "era_style": "ww1_ww2",
+      "width": 211,
+      "height": 252,
+      "sheet": "sheets/06_ships_weapons_equipment.webp",
+      "sheet_bbox": [
+        63,
+        753,
+        199,
+        240
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "06_ships_weapons_equipment_20",
+      "description": "silver circular service medal on blue ribbon",
+      "file": "sprites/06_ships_weapons_equipment/20_silver_circular_service_medal_on_blue_ribbon.png",
+      "category": "Ships, weapons and service equipment",
+      "era_style": "ww1_ww2",
+      "width": 204,
+      "height": 256,
+      "sheet": "sheets/06_ships_weapons_equipment.webp",
+      "sheet_bbox": [
+        257,
+        731,
+        231,
+        293
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "06_ships_weapons_equipment_21",
+      "description": "brass pocket compass",
+      "file": "sprites/06_ships_weapons_equipment/21_brass_pocket_compass.png",
+      "category": "Ships, weapons and service equipment",
+      "era_style": "ww1_ww2",
+      "width": 256,
+      "height": 222,
+      "sheet": "sheets/06_ships_weapons_equipment.webp",
+      "sheet_bbox": [
+        477,
+        754,
+        293,
+        252
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "06_ships_weapons_equipment_22",
+      "description": "wooden-handled military entrenching shovel",
+      "file": "sprites/06_ships_weapons_equipment/22_wooden_handled_military_entrenching_shovel.png",
+      "category": "Ships, weapons and service equipment",
+      "era_style": "ww1_ww2",
+      "width": 256,
+      "height": 202,
+      "sheet": "sheets/06_ships_weapons_equipment.webp",
+      "sheet_bbox": [
+        743,
+        767,
+        309,
+        241
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "06_ships_weapons_equipment_23",
+      "description": "wooden-handled pickaxe",
+      "file": "sprites/06_ships_weapons_equipment/23_wooden_handled_pickaxe.png",
+      "category": "Ships, weapons and service equipment",
+      "era_style": "ww1_ww2",
+      "width": 256,
+      "height": 234,
+      "sheet": "sheets/06_ships_weapons_equipment.webp",
+      "sheet_bbox": [
+        1001,
+        759,
+        291,
+        265
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    },
+    {
+      "id": "06_ships_weapons_equipment_24",
+      "description": "open ammunition box with a few stylized brass cartridges",
+      "file": "sprites/06_ships_weapons_equipment/24_open_ammunition_box_with_a_few_stylized_brass_cartridges.png",
+      "category": "Ships, weapons and service equipment",
+      "era_style": "ww1_ww2",
+      "width": 219,
+      "height": 256,
+      "sheet": "sheets/06_ships_weapons_equipment.webp",
+      "sheet_bbox": [
+        1295,
+        725,
+        227,
+        267
+      ],
+      "alpha": true,
+      "trim_padding_px": 6
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "checks": 95,
+  "binary_sha256": "0c6a0544696b45d84a19e5fe9645626681fd747188f1446c2e378cb60f0aae94",
+  "ARM64_executed": true,
+  "JNI_APIs_modeled": true,
+  "ART_tested": false
+}

@@ -1,5 +1,29 @@
 # Known bugs and verification gaps
 
+**1108 verification update — 26 October 2026 (Adelaide).** The parent story
+issue is reproduced at the shared-cache boundary and repaired in compiled ARM64:
+a preview changes the old cache to another 33-year-old person; the bound father
+route still resolves the actual 61-year-old father. Mother, deceased parent and
+wrong-life paths are checked. Native name/age/country and actual personality
+attributes are used; unavailable data is cleared rather than showing old details.
+Phone acceptance remains pending. Other relative types retain their old routes.
+
+War themes now avoid full gameplay refresh on the frequent HUD boundary. Reached
+calendar years mean December 31: 1918/1945 close new custom combat assignments,
+with separate dated ending news. Country/jurisdiction/age and native occupation
+are checked; induction does not immediately increment a deployment. A submitted
+valid action can finish once after its window closes. PNG export has a managed
+exception boundary and bounded byte copy. New native action IDs are no longer
+clamped to the former 255 maximum. Identical old prison result duplicates are
+removed. These layers are checked; actual device rendering/lifecycle is not.
+
+OPEN: installation/update and native rendering on the owner's phone; prior black
+header portrait and stuck loading; real pause/kill/reload persistence; uniform
+alignment across actual faces; worldwide historical law completeness; automatic
+native discharge and service histories for every NPC. This is a visual decision
+campaign, not a full shooter/flight simulator. Detailed new limits are in
+military_expansion/README.md. Keep earlier confirmed fixes and their evidence.
+
 Candidate **1107** corrects a confirmed 1106 format regression. Current
 runtime logs show designer rows with one column instead of at least 48, while
 the source contains multiline quoted Body fields. The game's constructor splits

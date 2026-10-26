@@ -1,5 +1,34 @@
 # Important history and decisions
 
+## Candidate 1108 — military presentation, parent binding and chess, 26 October 2026 (Adelaide)
+
+The owner supplied a 30KB expansion brief and 144 transparent military sprites.
+The shared selected-relative cache could be overwritten by menu previews. New
+father/mother entry routes capture the actual native closure receiver, root it
+and the current hero, then validate both at story open. Personality reads real
+attributes. Negative controls and two-bias ARM64 checks cover the wrong-person
+case rather than only correcting its displayed age.
+
+Added a bounded JNI mailbox separate from Roblox, Life-backed military/chess
+state, native induction without immediate deployment, explicit recruitment help,
+annual date sequencing, temporary war/recovery colors, plane cutscenes, equipment
+layers on the current validated face, visual mission decisions and a complete
+chess rules engine. All 144 supplied sprites are imported and pixel-checked.
+PNG conversion uses runtime_invoke with an exception slot. A first theme design
+performed unnecessary full-context work on each HUD update; the final code uses
+cached year/ISO-country lookup. Native combat also follows year-end ceasefires.
+Old annual world/draft prompts cannot conflict with the replacement state machine.
+The launcher policy, original game/signer/saves, Roblox site and native church stay.
+
+Validation: 66 native, 95 JNI, 3,939 content, 11,460 host JVM and 13 DEX checks;
+retained 355 life, 76 boundary, 399 navigation and 40,512 website comparisons.
+APK v2/v3 signatures, native signer, aapt2, alignment/CRC and unchanged payloads
+pass. Candidate version code 1108, 400,516,401 bytes, APK SHA256
+`3f0fcafee496fb6a148132e51bb8851308a1c19adb85ec1350f985639a6fa3d1`.
+Delivery <https://gofile.io/d/l0EdKr5w>; host size/MD5 match and page returns 200.
+No ART, Unity renderer or phone acceptance is claimed. Detailed recruitment laws
+are limited to Britain/US/Australia and the campaign is a visual decision game.
+
 ## Candidate 1107 — physical CSV and launcher repairs, 26 October 2026 UTC
 
 The owner supplied 1106 diagnostics, two screenshots of blank/misaligned dialogs

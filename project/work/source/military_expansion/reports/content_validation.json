@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "checks": 3939,
+  "authored_assets_sha256": "2e94848014981f419976da7c285642e7d40eb0c7b76f243eff1bcfca9518ac4e",
+  "new_native_scenarios": 12,
+  "actual_ARM64_line_parser": true,
+  "old_fields_preserved": true,
+  "phone_tested": false
+}

@@ -1,0 +1,4 @@
+chesslib 1.3.4, https://github.com/bhlangonijr/chesslib/tree/1.3.4
+Source archive SHA256: 4bedd3e4ceaab2ccb74b1f63fa5af9d085a5647d01883b84a2f0636bf8854c30
+Local change: StringUtils constants and empty/blank predicates replaced by ChessStrings, removing the Apache Commons runtime dependency. Rules remain unchanged.
+Nonsemantic cleanup: trailing whitespace/extra blank EOF in two upstream files.

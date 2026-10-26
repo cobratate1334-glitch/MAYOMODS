@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "checks": 11460,
+  "native_birth_sex_enum_verified": true,
+  "perft_start_depth3": 8902,
+  "perft_kiwipete_depth2": 2039,
+  "host_JVM": true,
+  "Android_UI_tested": false,
+  "sources_sha256": "d25299bdbd84ec147d6f5e604f7651754f46eb60d560dc447a3673ca852b2709"
+}

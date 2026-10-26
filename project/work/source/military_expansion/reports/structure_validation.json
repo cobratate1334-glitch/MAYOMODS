@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "binary_sha256": "fd96fc90cbad08f18ea90a840eff85adf583988fa5d5792dd43558f3b20a384c",
+  "unchanged_bytes_outside_declared_ranges": true,
+  "old_native_bytes_checked": 122290176,
+  "new_RX_code_bytes": 140976,
+  "WX_pages": false,
+  "ELF_16KB_alignment": true,
+  "overlapping_load_segments": false
+}

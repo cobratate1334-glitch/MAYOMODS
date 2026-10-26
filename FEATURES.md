@@ -1,5 +1,30 @@
 # Requested gameplay systems and design requirements
 
+Active candidate **1108** adds the military/family/chess workstream. Entry:
+Activities → Military service & history. Implemented: temporary country/year war
+palettes; seven-second skippable plane news scenes; chronological WWI/WWII dates
+and distinct endings; clear draft instructions; registration, call-up, medical
+assessment, native induction, a training term and role assignments; a uniform
+bust using the current native face and supplied clothing; three-decision field
+and aircraft operations with persistent consequences; recovery, letters, records,
+and the full 144-item equipment archive. All 144 sprites retain their source pixels.
+
+Detailed recruitment rules currently cover Britain, US and Australia with stated
+annual/cohort simplifications. Other countries keep the original applications.
+The annual model views December 31; no fake monthly native calendar is claimed.
+Military screens use in-activity dialogs/Canvas; parent stories remain Unity
+scenarios. No additional military website was added. Existing church/Roblox UX
+and launcher behavior remain.
+
+Chess includes a legal board, highlighted moves, castling/en passant, promotion,
+checkmate/stalemate/draw rules, three background AI levels and saved move history.
+It supports the selected living parent, a persistent squadmate or practice AI.
+A yearly win can grant one native smarts point. Parent story routes now use
+validated father/mother objects and actual attributes rather than preview/name
+hashes. The current-face equipment copy does not prove the old black header bug
+is fixed. Device acceptance and the unimplemented wider brief remain documented
+in the 1108 README rather than being labeled complete.
+
 Active candidate **1107** repairs native dialog serialization, current-year
 and age guards and launcher toggle persistence. It uses a native charcoal/teal
 client layout, log dashboard with searchable report lines, full ZIP/screenshot

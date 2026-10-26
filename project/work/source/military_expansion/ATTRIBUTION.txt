@@ -1,0 +1,5 @@
+Military sprite artwork: supplied by the owner in MayoMods_Military_144_Assets_Under_4MB.zip (144 transparent PNG sprites). Descriptions and era/style labels are preserved in inputs/manifest.json. These are illustrative generic assets, not verified models of every country's issued equipment.
+
+Chess rules: chesslib 1.3.4 by B. Langoni Jr. and contributors, MIT license. See vendor/LICENSE-chesslib.txt and vendor/UPSTREAM.txt for the pinned archive and minimal StringUtils adaptation. MilitaryModel, ChessGame, native bridge, dialogs and Canvas presentations are authored in this repository.
+
+Historical dates and conscription sources: owner_brief.md and references/research.json. Game cohorts and annual date resolution are explicitly described in the UI and README. Sources describe history; they do not endorse this game. Existing short original sound effects remain from the 1106 release.

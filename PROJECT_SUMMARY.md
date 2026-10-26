@@ -1,5 +1,31 @@
 # MayoMods project handover
 
+Candidate **1108** is now the active extension, based on the delivered 1107.
+[Source and limits](project/work/source/military_expansion/README.md).
+Download: <https://gofile.io/d/l0EdKr5w> (400,516,401 bytes).
+APK SHA256: `3f0fcafee496fb6a148132e51bb8851308a1c19adb85ec1350f985639a6fa3d1`.
+
+It adds native war palettes, dated plane scenes, a saved service desk with
+registration/call-up/assessment/training/assignments, a current-face uniform
+bust using supplied layers, visual field/aircrew decisions, records and playable
+chess. Parent actions now bind the actual father/mother rather than a shared
+preview; personality uses actual native attributes. All 144 supplied sprites
+are packaged and checked after serialization. Britain/US/Australia have explicit
+modeled recruitment rules; other countries retain original applications. The
+calendar uses annual year-end resolution and distinguishes VE Day from the
+Pacific ending. Existing launcher, original game, Roblox, church, saves and
+signing identity remain. Exact limitations and evidence are in the new README.
+
+New checks: 66 ARM64 identity/state/portrait/calendar assertions, 95 emitted JNI
+checks, 3,939 content checks, 11,460 host JVM assertions including perft/special
+chess moves and service rules, and 13 DEX integration checks. Retained suites:
+355 life, 76 boundaries, 399 navigation and 40,512 website comparisons. These are
+assertion counts, not played phone lives. Signatures, aapt2, native signer binding,
+CRC/alignment and payload preservation pass. No ART/Unity renderer/phone is
+available; the black header and stuck-loading acceptance remain open.
+
+Earlier candidate notes below are historical.
+
 Candidate **1107** is the active repair. Source and exact limitations:
 [ui_integrity/README.md](project/work/source/ui_integrity/README.md).
 New diagnostics identify 1106 and show malformed physical CSV records. The

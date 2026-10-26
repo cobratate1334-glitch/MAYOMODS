@@ -1,5 +1,25 @@
 # Instructions for Codex — MayoMods
 
+Active candidate is **1108**, `project/work/source/military_expansion`.
+Read its README/reports before historical notes below. This extends the exact
+1107 APK and preserves the existing signer, package and save keys. Father/mother
+stories bind the actual native parent closure and validate parent/hero roots;
+never restore the shared preview cache as their identity. War themes use a
+cached actual year/country check on HUD refresh: never run the full gameplay
+context there. The annual calendar is explicitly December 31, with chronological
+news anchors and native combat closure in 1918/1945. New action IDs need the
+schema's 1000 ceiling. All records stay one physical CSV line. Military/chess
+state lives in the native Life; only the Unity frame pump executes bounded JNI
+commands. Closing rejects new submissions but lets a valid queued action settle
+once. Portrait export uses runtime_invoke with a managed exception slot and
+copies the current rooted face; do not replace it with a soldier image or add an
+unguarded PNG icall. All 144 supplied sprites are preserved. Detailed recruitment
+laws cover Britain/US/Australia; unsupported countries retain stock applications.
+Church stays native; only Roblox uses the website. Phone ART/rendering/install,
+black portraits/loading and final gameplay acceptance remain OPEN. Source and
+APK-only external upload are authorized; keep keys, raw logs and host tokens
+private. Release evidence: military_expansion_1108_* under evidence/.
+
 Active owner repair is candidate **1107**, `project/work/source/ui_integrity`.
 Read its README, sanitized diagnostic findings and reports first. New phone logs
 identify 1106 and prove quoted multiline scenario CSV was broken: the actual

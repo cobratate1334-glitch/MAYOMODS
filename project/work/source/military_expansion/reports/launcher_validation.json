@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "checks": 13,
+  "dex_sha256": "91b3b6dc8339a5f8cad5a34df70393975471676817e72feaa0c4aa438276d6f2",
+  "JNI_signature_check": true,
+  "unchanged_display_policy": true,
+  "ART_tested": false,
+  "Android_rendering_tested": false
+}

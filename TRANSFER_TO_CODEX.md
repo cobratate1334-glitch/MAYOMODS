@@ -1,5 +1,39 @@
 # Transfer this project to Codex
 
+Active candidate: **1108**, `project/work/source/military_expansion`.
+Read its README and reports first. Exact signed build/delivery records:
+`evidence/military_expansion_1108_verification.json` and
+`evidence/military_expansion_1108_delivery.json`. Download:
+<https://gofile.io/d/l0EdKr5w>. Reuse the existing private development identity.
+No key, APK, host token or raw diagnostic belongs in Git.
+
+Native base is delivered 1107 (SHA9da3190b…); native output SHA256
+`fd96fc90cbad08f18ea90a840eff85adf583988fa5d5792dd43558f3b20a384c`.
+The signed APK SHA256 is
+`3f0fcafee496fb6a148132e51bb8851308a1c19adb85ec1350f985639a6fa3d1`.
+Private outputs live under /workspace/build_work/military-expansion. New Android
+UI source, MIT chesslib source/license, supplied sprite PNGs and build/validation
+scripts are retained. All earlier pipeline folders remain dependencies.
+
+Important invariants: father/mother actions use actual role-bound native roots,
+not the last preview; all physical CSV records remain single-line; action schema
+maximum covers501–504; annual continuations have impossible raw filters; only
+Unity consumes JNI mutations; stale life/year requests are rejected; valid queued
+actions may finish after closing; PNG export catches managed exceptions and
+copies an owned face. Frequent HUD theme work caches year/country and never
+refreshes the full gameplay context. The calendar is annual at December31,
+including no new custom combat in1918/1945 after their ending anchors.
+
+Phone acceptance remains open for install/update, real lifecycle/persistence,
+portraits/loading, Canvas alignment, animation and chess touch/accessibility.
+Detailed laws cover Britain/US/Australia only. Stock applications serve other
+countries. No full shooter/flight physics, automatic native discharge or
+comprehensive family NPC service simulation is claimed. Preserve the current
+signer/package/saves and original military transitions; do not solve acceptance
+by clearing data, rotating keys or swapping to an older APK.
+
+Earlier workstream notes below are historical.
+
 Active repair: **1107**, `project/work/source/ui_integrity`.
 Read its README and references/diagnostic_findings.json first. The delivered
 artifact/link are in evidence/ui_integrity_1107_verification.json and
