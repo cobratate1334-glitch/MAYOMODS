@@ -1,5 +1,20 @@
 # Transfer this project to Codex
 
+**1113 APK:** <https://gofile.io/d/5FyvbGn3> (456,827,182 bytes).
+SHA256: `9de4584adf8f76960fb942388d80c0ae87c906cb5a39c09a6641c996d5f3c8fe`.
+
+Current candidate **1113** is in
+[menu_repair](project/work/source/menu_repair/README.md). The new report and full
+recording confirm the disappearing menus on 1112. Native negative controls now
+reproduce the old recovery-versus-close toggle and canceled-animation failures.
+1113 removes the conflicting recovery paths, waits for original transitions after
+Unity queued work, and binds returns to the actual displayed manual List. Annual
+Continue closes into the journal; 21 incorrectly typed list targets are repaired.
+Existing game, launcher, DEX/JNI, art, signer/package and saves remain unchanged.
+Phone/ART/GPU/real-save acceptance and old portrait/loading reports remain OPEN.
+
+Earlier candidate blocks below are historical.
+
 **1112 APK:** <https://gofile.io/d/bSXnGWn9> (456,808,948 bytes).
 SHA256: `6429d137a3cb20bc1e552d5b1248b9ba986d7617a84781bb706eaa586de9fcbf`.
 

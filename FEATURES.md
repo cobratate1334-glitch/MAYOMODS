@@ -1,5 +1,12 @@
 # Requested gameplay systems and design requirements
 
+Current priority **1113**: fix existing shared navigation before adding features.
+The latest report proves 1112 still loses menus. Keep stock closing callbacks;
+remove competing recovery loops and wait for real transitions/old-card cleanup.
+Scope manual returns to actual List identity, finish annual outcomes in the
+journal and reject CSV-as-list routes. Existing feature backlog below is retained;
+it is not the current expansion scope. Phone acceptance remains open.
+
 Current candidate **1112** is a repair of the device-reported failures, not a
 new expansion. It repairs shared popup/menu lifecycle, current team/prison gates,
 inmate replies, selected relationship story text, basketball page routes and

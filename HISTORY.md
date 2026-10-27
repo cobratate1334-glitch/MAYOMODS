@@ -1,5 +1,21 @@
 # Important history and decisions
 
+## Candidate 1113 — original closing transitions, 27 October 2026 (Adelaide)
+
+**1113 APK:** <https://gofile.io/d/5FyvbGn3> (456,827,182 bytes).
+SHA256: `9de4584adf8f76960fb942388d80c0ae87c906cb5a39c09a6641c996d5f3c8fe`.
+
+A new private report and full 285-second video confirm shared UI faults in 1112.
+Auditing the actual stock callbacks exposed two older conflicting recovery paths:
+force-show before HeroBarSwap's toggle, and StopAllCoroutines during valid slides.
+Removed those paths, kept stock/theme completion, and moved the scoped parent
+return after Unity queued work and actual MoveNext completion. Original old-card
+Destroy, new Scenario priority, life/age/epoch and actual displayed List ownership
+are enforced. Twenty mistyped CSV routes plus one JSON tile are repaired. Annual
+terminal choices finish in the journal. No launcher/DEX/JNI, save, signer, art or
+feature rebuild. Original 1112 failures are native negative controls; actual phone
+acceptance remains OPEN. Source and exact verification are under menu_repair.
+
 ## Candidate 1112 — device report repairs, 27 October 2026 (Adelaide)
 
 **1112 APK:** <https://gofile.io/d/bSXnGWn9> (456,808,948 bytes).

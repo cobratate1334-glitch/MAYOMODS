@@ -1,5 +1,12 @@
 # Reproduce the focused v55 scar/eyepatch candidate
 
+Current candidate **1113** reproduction:
+[menu_repair/references/BUILD.md](project/work/source/menu_repair/references/BUILD.md).
+Use exact signed 1112/native inputs, original metadata and existing signer.
+This repairs the shared menu transition failure; it does not rebuild DEX/JNI or
+launcher or migrate save keys. Preserve original close callbacks and wait for
+real transitions after Unity queued work. Earlier pipelines below are historical.
+
 Current candidate **1110** reproduction:
 [connected_life/README.md](project/work/source/connected_life/README.md).
 Use the exact 1109 APK/native hashes and baseline manifest, the existing signer,

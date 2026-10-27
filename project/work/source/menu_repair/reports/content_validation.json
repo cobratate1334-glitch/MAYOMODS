@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "checks": 74765,
+  "authored_assets_sha256": "8af921983ea79a1626e63c3be064e3777e88fba2dd6b4569254edff56820eb1a",
+  "changed_text_assets": 8,
+  "changed_terminal_routes": 673,
+  "existing_effects_journal_filters_and_IDs_preserved": true,
+  "physical_native_records": true,
+  "reference_closure": true,
+  "typed_menu_routes": 5975,
+  "delivered_invalid_typed_routes": 21,
+  "invalid_typed_routes_remaining": 0,
+  "phone_tested": false
+}

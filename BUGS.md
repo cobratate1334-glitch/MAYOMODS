@@ -1,5 +1,22 @@
 # Known bugs and verification gaps
 
+**1113 shared-menu repair — 27 October 2026 (Adelaide).** The new report's native
+symbols identify 1112. Full recording review confirms stock and authored closes
+still lose the header and shift list/toolbars. Actual original HideListPanel and
+HeroBarSwap instructions reproduce the v33 force-show/later-toggle conflict;
+the old v46 helper also cancels a pending slide. Those helpers are disabled while
+stock/theme completion remains. The parent drain moves after Unity queued work
+and waits for real list/lower-panel MoveNext completion, original old-card Destroy
+and valid life/age/epoch. Actual displayed List identity scopes manual ownership;
+annual outcomes close into the journal. Twenty CSV routes and one JSON tile
+incorrectly targeted a scenario sheet as a list; all 21 typed violations are
+removed. New native regression tests include both AcceptChoice tails and callbacks
+that start newer transitions. These checks cover native/API boundaries, not the
+owner's phone. Touch/animation, ART/GPU, real saves and earlier black portrait/
+stuck-loading acceptance remain OPEN. See menu_repair/references/DEVICE_FINDINGS.md.
+
+Earlier entries, especially broad 1112 navigation-success claims, are historical.
+
 **1112 device repair — 27 October 2026 (Adelaide).** Five phone recordings,
 20 screenshots and a Samsung note invalidate the prior broad button-success
 claims. The prior peer-support test asserted an x0 return the actual UI ignores;

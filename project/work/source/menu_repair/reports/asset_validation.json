@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "apk_sha256": "15900de9853f1eb2830e11ebcddc54599e488d5b5d2bc8efe08b55fa04ddcd19",
+  "retained_resources": 80,
+  "new_artwork": 0,
+  "serialized_file_identity_type_and_pixels": true,
+  "dex_preserved": true,
+  "phone_GPU_rendering_tested": false
+}

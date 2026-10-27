@@ -1,3 +1,13 @@
+# Current candidate: 1113
+
+[Shared menu transition repair](work/source/menu_repair/README.md).
+The new 1112 phone recording invalidates prior broad menu-success claims. Native
+negative controls and exact limits are documented in the new source. Existing
+UI/launcher/package/signer/saves/art remain. Phone acceptance is OPEN. Private
+keys, APKs and raw recordings/diagnostics stay out of this source handover.
+
+Earlier candidate blocks below are historical.
+
 # Current candidate: 1112
 
 [Device report repairs](work/source/device_repair/README.md). Existing game and source history are preserved.

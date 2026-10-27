@@ -1,5 +1,16 @@
 # Starting task for Codex
 
+Current workstream: **1113**, `project/work/source/menu_repair`. Read AGENTS,
+README and DEVICE_FINDINGS there. The current task repairs shared menu transitions;
+features remain paused. The delivered 1112 fails actual original close-callback
+negative controls: old force-show races a later toggle, and global recovery stops
+pending slides. Preserve stock completion, scoped actual List ownership, real
+MoveNext/old-card guards and post-Exec drain. Do not bring those recovery loops
+back. Typed JSON-list versus CSV-scenario boundaries are mandatory. Keep existing
+package/signer/saves/launcher/DEX/JNI, original Unity UI and all earlier art.
+Phone/ART/GPU/real-save and prior portrait/loading acceptance remain OPEN.
+Earlier blocks below are historical.
+
 Current workstream: **1112**, `project/work/source/device_repair`. Read its README,
 DEVICE_FINDINGS and root AGENTS first. New features are paused by the device note.
 One-argument list routing and deferred Unity object destruction are repaired;

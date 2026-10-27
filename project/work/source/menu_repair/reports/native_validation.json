@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "binary_sha256": "f29662edf550d3a984ba4ceaa318629d58144f33dd5fd856b02e4e3da3aed06a",
+  "unit_test_cases": 21,
+  "existing_native_caller_assertions": 90,
+  "delivered_1112_header_failure_reproduced": true,
+  "delivered_1112_slide_cancellation_reproduced": true,
+  "real_UIManager_HeroBarSwap_executed": true,
+  "real_UIListContainer_HideListPanel_MoveNext_executed": true,
+  "real_UIListContainer_ShowListPanel_MoveNext_executed": true,
+  "complete_normal_and_menu_open_close_cycle": true,
+  "real_current_List_getters_executed": true,
+  "instant_and_animated_closes": true,
+  "both_original_AcceptChoice_tails": true,
+  "actual_old_card_destruction_guard": true,
+  "stale_life_age_epoch_guards": true,
+  "after_Unity_queued_work_hook": true,
+  "annual_events_do_not_inherit_manual_parent": true,
+  "native_Back_retains_older_List_owner": true,
+  "ASLR_bases": [
+    0,
+    68719476736
+  ],
+  "Unity_object_slide_and_widget_APIs_modeled": true,
+  "ART_tested": false,
+  "Unity_rendering_tested": false,
+  "phone_tested": false
+}

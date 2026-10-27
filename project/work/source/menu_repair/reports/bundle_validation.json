@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "authored_assets_sha256": "8af921983ea79a1626e63c3be064e3777e88fba2dd6b4569254edff56820eb1a",
+  "changed_text_assets": 8,
+  "preserved_objects": 41445,
+  "replaced_generated_objects": 0,
+  "old_resources_preserved": true,
+  "imported_artwork": [],
+  "datapack_sha256": "457ee9e5847c90953481ac94a51946ef45fd2add42ae596cc5a0432e272eba92",
+  "data_sha256": "a74b7543eca7957e12ee50f7a38a8ea6cc01054fd48950e3c410cd72b889353e"
+}

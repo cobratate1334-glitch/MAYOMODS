@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "binary_sha256": "f29662edf550d3a984ba4ceaa318629d58144f33dd5fd856b02e4e3da3aed06a",
+  "exact_native_rebuild": true,
+  "source_namespace": "menu_repair",
+  "phone_tested": false
+}

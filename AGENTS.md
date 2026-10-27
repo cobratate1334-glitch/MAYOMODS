@@ -1,5 +1,22 @@
 # Instructions for Codex — MayoMods
 
+Active candidate is **1113**, `project/work/source/menu_repair`.
+Read its README and DEVICE_FINDINGS first. The new video is 1112, proven by its
+native hash despite the old Java label. Do not restore v33 force-SetActive or v46
+StopAllCoroutines recovery: real HeroBarSwap toggles after those and hides the
+header. Keep stock callbacks and completion/theme hooks. Drain parent returns
+AFTER UnitySynchronizationContext.Exec queued work and actual MoveNext completion.
+Stale completions must not clear a newer epoch, including epoch changes during a
+callback. Bind ownership through actual built/current List data identity; annual
+cards must not inherit stale manual menus. CSV is not a Genesis JSON list.
+Keep original queued Scenario and actual old GameObject destruction guards.
+All prior signer/package/save IDs, DEX/JNI/launcher and artwork stay unchanged.
+No feature expansion during this shared UI repair. Original Unity UI remains
+mandatory; Roblox alone is a website. No keys/APKs/raw evidence/host tokens in
+Git. Source publication and APK-only upload are authorized. Native/API tests do
+not prove phone, ART, rendering or real-save acceptance. Old black portrait and
+stuck-loading reports remain open. Earlier blocks below are historical.
+
 Active candidate is **1112**, `project/work/source/device_repair`.
 The new device note explicitly pauses new features until existing bugs are fixed.
 Read its README and DEVICE_FINDINGS before older claims. One-argument ShowList
