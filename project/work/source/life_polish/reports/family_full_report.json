@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "checks": 50,
+  "binary_sha256": "cf73d4c90d8ba7f976e43caaea7f9495a7c5309aea57b0693440b9bea5411984",
+  "original_parent_closure_and_listitem_blocks_executed": true,
+  "managed_allocations_and_Unity_APIs_modeled": true,
+  "phone_tested": false
+}

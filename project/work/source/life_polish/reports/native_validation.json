@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "binary_sha256": "cf73d4c90d8ba7f976e43caaea7f9495a7c5309aea57b0693440b9bea5411984",
+  "retained_menu_test_cases": 13,
+  "portrait_and_palette_cases": 3,
+  "content_flow_cases": 4,
+  "old_render_BOOL_as_pointer_negative_control": true,
+  "repeated_genetic_render_stage_gender_patterns": true,
+  "old_Noir_palette_restored": true,
+  "school_entry_in_original_menu": true,
+  "heist_five_jobs_and_payout_guards": true,
+  "missing_static_glyphs_replaced": true,
+  "managed_Unity_APIs_modeled": true,
+  "phone_tested": false,
+  "ART_tested": false,
+  "Unity_rendering_tested": false,
+  "scrolling_FPS_measured": false
+}

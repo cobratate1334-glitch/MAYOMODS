@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "native_sha256": "cf73d4c90d8ba7f976e43caaea7f9495a7c5309aea57b0693440b9bea5411984",
+  "owner_confirms_previous_menu_fix": true,
+  "reviewed_video_seconds": 15.789456,
+  "private_earlier_readme_read": true,
+  "menu_native_test_cases": 13,
+  "portrait_native_test_cases": 3,
+  "heist_content_test_cases": 4,
+  "static_missing_icon_uses_repaired": 42,
+  "school_entry": "native School -> School Life",
+  "distinct_heist_jobs": 5,
+  "distinct_heist_stages": 15,
+  "partial_haul_and_replay_guards": true,
+  "old_render_BOOL_argument_negative_control": true,
+  "scrolling_FPS_measured": false,
+  "phone_tested": false,
+  "ART_tested": false,
+  "Unity_rendering_tested": false,
+  "real_save_reload_tested": false,
+  "broader_tax_disaster_sports_backlog_completed": false
+}

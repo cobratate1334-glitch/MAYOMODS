@@ -1,3 +1,10 @@
+# Current candidate: 1114
+
+[Appearance, old war palettes, native school and crew stories](work/source/life_polish/README.md).
+Owner confirms 1113 menus work. Preserve that repair and all earlier source. New
+phone/ART/GPU/save and older portrait/loading acceptance remain open. No raw
+recordings, private keys or APKs in this source handover. Earlier notes follow.
+
 # Current candidate: 1113
 
 [Shared menu transition repair](work/source/menu_repair/README.md).

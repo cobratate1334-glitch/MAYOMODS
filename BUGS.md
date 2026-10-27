@@ -1,5 +1,14 @@
 # Known bugs and verification gaps
 
+**1114 follow-up — 27 October 2026 (Adelaide).** Owner confirms 1113 buttons
+work. New video shows appearance reversion. A definite render-call defect passes
+changed BOOL to a face normalizer; that duplicate is removed. This repair does
+not prove all visual resets cured on the phone. Earlier Noir palettes return for
+both wars. School gets its canonical School Life entry. Forty-two missing static
+menu icons and five crew-job story paths are repaired/expanded. Native/API/content
+and package checks are distinct from phone/ART/GPU/save acceptance. Earlier black
+portrait/loading and measured scrolling performance remain OPEN. Read life_polish.
+
 **1113 shared-menu repair — 27 October 2026 (Adelaide).** The new report's native
 symbols identify 1112. Full recording review confirms stock and authored closes
 still lose the header and shift list/toolbars. Actual original HideListPanel and

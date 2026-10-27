@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "binary_sha256": "cf73d4c90d8ba7f976e43caaea7f9495a7c5309aea57b0693440b9bea5411984",
+  "exact_native_rebuild": true,
+  "source_namespace": "life_polish",
+  "phone_tested": false
+}

@@ -1,5 +1,14 @@
 # Starting task for Codex
 
+Current **1114**: read AGENTS and life_polish/README, FINDINGS and BUILD.
+Owner confirms 1113 menus work and reopens feature work. Keep those fixes while
+repairing the invalid duplicate portrait call, restoring earlier Noir war palettes,
+adding canonical School Life in native School, fixing static icons and expanding
+crew story outcomes. No package/signer/save or DEX/JNI/launcher migration. Native
+API tests are not phone rendering; earlier portrait/loading acceptance stays open.
+Source/APK-only upload remains authorized; raw evidence and credentials stay private.
+Earlier task blocks below are historical.
+
 Current workstream: **1113**, `project/work/source/menu_repair`. Read AGENTS,
 README and DEVICE_FINDINGS there. The current task repairs shared menu transitions;
 features remain paused. The delivered 1112 fails actual original close-callback

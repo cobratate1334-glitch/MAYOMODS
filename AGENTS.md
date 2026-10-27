@@ -1,5 +1,21 @@
 # Instructions for Codex — MayoMods
 
+Active candidate is **1114**, `project/work/source/life_polish`.
+Read README, FINDINGS and BUILD there. The owner confirms 1113 menus work and now
+explicitly authorizes feature follow-up; older feature pauses are superseded.
+Preserve every 1113 transition fix. Hero appearance apply returns a BOOL: never
+pass it as VoltronFace to a second normalizer. Normalization already occurs inside
+hero apply. Native original face arguments, selected styles and saved IDs remain.
+Old Noir colors replace only the later war-palette override; keep journal overlays
+disabled. School Life belongs in native School, using the canonical existing hub.
+New crew outcomes retain adult/prison/era/bank/annual/stale/payout guards. Existing
+custom icon providers remain; only known absent static glyphs are replaced.
+No DEX/JNI/launcher, package/signer/save migration. Broader taxes/disaster/sports
+backlog is not claimed complete. Source publication/APK-only upload remain
+allowed. Keep raw evidence, keys, APKs and host credentials out of Git. Native/API
+tests are not phone/ART/GPU/save proof. Portrait/loading acceptance remains OPEN;
+no scrolling-FPS measurement exists. Earlier blocks below are historical.
+
 Active candidate is **1113**, `project/work/source/menu_repair`.
 Read its README and DEVICE_FINDINGS first. The new video is 1112, proven by its
 native hash despite the old Java label. Do not restore v33 force-SetActive or v46

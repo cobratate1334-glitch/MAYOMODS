@@ -1,5 +1,20 @@
 # MayoMods project handover
 
+**1114 APK:** <https://gofile.io/d/v7c67Z3u> (456,825,540 bytes).
+SHA256: `618d9ef3cc9dc86e3f582b5c98ff985039eac71ade809ada2e4abae95037311d`.
+
+Current candidate **1114** is in
+[life_polish](project/work/source/life_polish/README.md). The owner confirms the
+1113 button/menu repair works and reopens feature work. This follow-up repairs an
+invalid duplicate portrait-render argument, restores earlier wartime Noir colors,
+adds School Life inside native School, corrects 42 static icon uses and gives five
+crew jobs distinct stories plus guarded partial outcomes. Existing menu fixes,
+package/signer/saves, DEX/JNI/launcher and all art remain. New phone/ART/GPU/save
+acceptance and older portrait/loading reports remain OPEN; scrolling FPS was not
+measured. The wider README backlog remains separate from these delivered changes.
+
+Earlier candidate blocks below are historical.
+
 **1113 APK:** <https://gofile.io/d/5FyvbGn3> (456,827,182 bytes).
 SHA256: `9de4584adf8f76960fb942388d80c0ae87c906cb5a39c09a6641c996d5f3c8fe`.
 

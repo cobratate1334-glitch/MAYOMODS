@@ -1,5 +1,18 @@
 # Important history and decisions
 
+## Candidate 1114 — portrait call, old palettes and connected school/crew
+
+**1114 APK:** <https://gofile.io/d/v7c67Z3u> (456,825,540 bytes).
+SHA256: `618d9ef3cc9dc86e3f582b5c98ff985039eac71ade809ada2e4abae95037311d`.
+
+The owner confirms the shared 1113 button fix and authorizes follow-up features.
+Review the new portrait video and older private Samsung note. Remove the duplicate
+normalizer's invalid BOOL-as-face call, restore wartime Noir without UI recovery
+regressions, add native School Life access, correct 42 static icon uses and expand
+five crew jobs with distinct decisions/results and guarded partial payouts. Keep
+native UI, package/signer/save IDs, DEX/JNI/launcher and art. Tests use API doubles;
+phone/renderer/save acceptance and older portrait/loading remain open.
+
 ## Candidate 1113 — original closing transitions, 27 October 2026 (Adelaide)
 
 **1113 APK:** <https://gofile.io/d/5FyvbGn3> (456,827,182 bytes).

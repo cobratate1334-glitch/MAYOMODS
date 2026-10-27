@@ -1,5 +1,10 @@
 # Reproduce the focused v55 scar/eyepatch candidate
 
+Current **1114** reproduction:
+[life_polish/references/BUILD.md](project/work/source/life_polish/references/BUILD.md).
+Use exact signed 1113 inputs and the retained signer, metadata and native UI.
+No DEX/JNI/launcher rebuild or save migration. Earlier pipelines are historical.
+
 Current candidate **1113** reproduction:
 [menu_repair/references/BUILD.md](project/work/source/menu_repair/references/BUILD.md).
 Use exact signed 1112/native inputs, original metadata and existing signer.

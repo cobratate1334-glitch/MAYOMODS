@@ -1,5 +1,12 @@
 # Requested gameplay systems and design requirements
 
+Current **1114** follow-up is authorized after the owner confirms 1113 menus
+work. Focus: appearance render stability, earlier war palettes, native School Life
+access, static icon correction and five distinct crew stories/partial results.
+Preserve the original UI and all shared button repairs. Wider tax/disaster/sports
+suggestions below remain backlog, not completed claims. Phone validation remains
+open. Source and exact checks: project/work/source/life_polish.
+
 Current priority **1113**: fix existing shared navigation before adding features.
 The latest report proves 1112 still loses menus. Keep stock closing callbacks;
 remove competing recovery loops and wait for real transitions/old-card cleanup.
