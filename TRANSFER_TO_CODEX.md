@@ -1,5 +1,18 @@
 # Transfer this project to Codex
 
+**1115 APK:** <https://gofile.io/d/UzPQ5lUJ> (459,724,504 bytes).
+SHA256: `5f760cc31653060139f97614f90fb1f8222a2a6b3df94da6c373155ab5d1b20b`.
+
+Current candidate **1115** restores the exact illustrated war/post-war themes
+shown by the owner. Source:
+[war_themes](project/work/source/war_themes/README.md). This clarification replaces
+the earlier Noir-only interpretation: restore the four original atlas panels,
+matching phase colours and original journal tint. All gameplay TextAssets and
+previous menu/portrait fixes remain unchanged. No new features or new artwork.
+Package/signer/saves, DEX/JNI and launcher remain. Phone rendering is not certified.
+
+Earlier candidate blocks below are historical.
+
 **1114 APK:** <https://gofile.io/d/v7c67Z3u> (456,825,540 bytes).
 SHA256: `618d9ef3cc9dc86e3f582b5c98ff985039eac71ade809ada2e4abae95037311d`.
 

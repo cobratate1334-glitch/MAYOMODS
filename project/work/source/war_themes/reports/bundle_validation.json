@@ -1,0 +1,84 @@
+{
+  "passed": true,
+  "authored_assets_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+  "changed_text_assets": 0,
+  "preserved_objects": 41445,
+  "replaced_generated_objects": 8,
+  "old_resources_preserved": true,
+  "imported_artwork": [
+    {
+      "resource": "native1109/background/ww1",
+      "sprite_id": 40864,
+      "texture_id": 40863,
+      "canvas": [
+        512,
+        768
+      ],
+      "pixel_sha256": "066d461509e34f990cee69672637d432bad561d6aee8c55577745a3f77683d3f",
+      "kind": "restored-original-illustration",
+      "atlas_rect": [
+        0,
+        0,
+        512,
+        768
+      ],
+      "original_asset": "native_immersion/inputs/war_background_atlas.png"
+    },
+    {
+      "resource": "native1109/background/post1",
+      "sprite_id": 40868,
+      "texture_id": 40867,
+      "canvas": [
+        512,
+        768
+      ],
+      "pixel_sha256": "c43487ad9f0d7beb796ed2ca87724a878101110357f6f1c9991a757b4553bf9c",
+      "kind": "restored-original-illustration",
+      "atlas_rect": [
+        512,
+        0,
+        512,
+        768
+      ],
+      "original_asset": "native_immersion/inputs/war_background_atlas.png"
+    },
+    {
+      "resource": "native1109/background/ww2",
+      "sprite_id": 40872,
+      "texture_id": 40871,
+      "canvas": [
+        512,
+        768
+      ],
+      "pixel_sha256": "70b143de24eb3bb13b7e1e464722ade5cf2c02ed316732616d9f5ecb78ac91f7",
+      "kind": "restored-original-illustration",
+      "atlas_rect": [
+        0,
+        768,
+        512,
+        768
+      ],
+      "original_asset": "native_immersion/inputs/war_background_atlas.png"
+    },
+    {
+      "resource": "native1109/background/post2",
+      "sprite_id": 40876,
+      "texture_id": 40875,
+      "canvas": [
+        512,
+        768
+      ],
+      "pixel_sha256": "9e9df1bd77d45a6e1b2deaf9f121c16784cf7a49f80637cce19e0350b8fb6f1c",
+      "kind": "restored-original-illustration",
+      "atlas_rect": [
+        512,
+        768,
+        512,
+        768
+      ],
+      "original_asset": "native_immersion/inputs/war_background_atlas.png"
+    }
+  ],
+  "datapack_sha256": "cee1cfb960728c84a5064a562fc386af0d8d848cee158510880699818cfb8298",
+  "data_sha256": "a74b7543eca7957e12ee50f7a38a8ea6cc01054fd48950e3c410cd72b889353e"
+}

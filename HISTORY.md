@@ -1,5 +1,17 @@
 # Important history and decisions
 
+## Candidate 1115 — exact illustrated theme restoration
+
+**1115 APK:** <https://gofile.io/d/UzPQ5lUJ> (459,724,504 bytes).
+SHA256: `5f760cc31653060139f97614f90fb1f8222a2a6b3df94da6c373155ab5d1b20b`.
+
+The owner's two screenshots clarify the intended war and post-war appearance.
+Restore the original four 1109 illustrated atlas panels at their canonical
+background aliases, original phase palettes and journal Image helper. The 1114
+Noir-only change and later photo backgrounds are superseded for these four
+backgrounds only. News photos and all gameplay TextAssets remain unchanged.
+Original menu/portrait fixes, package/signer/saves and launcher stay.
+
 ## Candidate 1114 — portrait call, old palettes and connected school/crew
 
 **1114 APK:** <https://gofile.io/d/v7c67Z3u> (456,825,540 bytes).

@@ -1,5 +1,17 @@
 # Instructions for Codex — MayoMods
 
+Active candidate is **1115**, `project/work/source/war_themes`.
+The owner clarified that the illustrated journal backgrounds and matching
+before/after-war colours in their screenshots are the only requested change.
+This explicitly supersedes prior instructions to disable journal illustrations
+and 1114's Noir-only interpretation. Reuse the original four atlas panels and
+original 0.30 background tint, four phase palettes, date/country rules and stock
+background restoration. No new image generation. Gameplay TextAssets, all prior
+button/portrait repairs, DEX/JNI/launcher, signer/package and saves stay unchanged.
+Read README, REQUESTS and BUILD in war_themes. Source publication/APK-only upload
+remain authorized; keep private keys/APKs/host credentials out of Git. Native and
+asset checks are not phone/GPU rendering proof. Earlier blocks are historical.
+
 Active candidate is **1114**, `project/work/source/life_polish`.
 Read README, FINDINGS and BUILD there. The owner confirms 1113 menus work and now
 explicitly authorizes feature follow-up; older feature pauses are superseded.

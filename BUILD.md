@@ -1,5 +1,11 @@
 # Reproduce the focused v55 scar/eyepatch candidate
 
+Current **1115** reproduction:
+[war_themes/references/BUILD.md](project/work/source/war_themes/references/BUILD.md).
+Use exact signed 1114/native inputs and the retained signer. This restores four
+existing theme Sprite/Texture pairs and native theme hooks only. Gameplay data,
+DEX/JNI/launcher and saves remain unchanged. Earlier pipelines are historical.
+
 Current **1114** reproduction:
 [life_polish/references/BUILD.md](project/work/source/life_polish/references/BUILD.md).
 Use exact signed 1113 inputs and the retained signer, metadata and native UI.

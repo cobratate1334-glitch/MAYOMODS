@@ -1,5 +1,13 @@
 # Starting task for Codex
 
+Current **1115**: read AGENTS and war_themes/README, REQUESTS and BUILD.
+Latest scope is theme-only. Restore the exact existing illustrated atlas panels,
+original phase colours/tint and ordinary-background restoration. This supersedes
+old instructions disabling journal illustrations and the rejected Noir-only
+interpretation. Keep all gameplay TextAssets, original UI, menu/portrait repairs,
+DEX/JNI/launcher, signer/package and save IDs. Keep keys/APKs/host tokens private.
+Phone rendering acceptance stays open; earlier blocks below are historical.
+
 Current **1114**: read AGENTS and life_polish/README, FINDINGS and BUILD.
 Owner confirms 1113 menus work and reopens feature work. Keep those fixes while
 repairing the invalid duplicate portrait call, restoring earlier Noir war palettes,

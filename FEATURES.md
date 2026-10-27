@@ -1,5 +1,10 @@
 # Requested gameplay systems and design requirements
 
+Current **1115** scope is only the four original illustrated war/post-war
+journal themes and matching colours requested in the latest screenshots. No
+other feature work belongs in this update. Gameplay TextAssets and earlier fixes
+remain byte-identical. Native checks do not establish phone rendering acceptance.
+
 Current **1114** follow-up is authorized after the owner confirms 1113 menus
 work. Focus: appearance render stability, earlier war palettes, native School Life
 access, static icon correction and five distinct crew stories/partial results.

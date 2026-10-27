@@ -1,5 +1,12 @@
 # Known bugs and verification gaps
 
+**1115 theme clarification — 27 October 2026 (Adelaide).** The owner wants
+the exact illustrated journal themes, not 1114's flat Noir-only restoration.
+Restore original trench/meadow/city/station atlas panels and matching four phase
+palettes, keeping the original 0.30 tint and country/year transitions. Zero gameplay
+TextAsset changes. Preserve every 1113/1114 repair. Native/menu/asset/APK checks
+are separate from phone rendering acceptance. See war_themes/README.md.
+
 **1114 follow-up — 27 October 2026 (Adelaide).** Owner confirms 1113 buttons
 work. New video shows appearance reversion. A definite render-call defect passes
 changed BOOL to a face normalizer; that duplicate is removed. This repair does

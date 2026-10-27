@@ -1,0 +1,20 @@
+{
+  "staged": true,
+  "signed": false,
+  "base_sha256": "618d9ef3cc9dc86e3f582b5c98ff985039eac71ade809ada2e4abae95037311d",
+  "apk_sha256": "b84443b417823cceeef4eac3b4dffc14d064e9d56d5698e3f12502839d6c2e0b",
+  "native_sha256": "611ed2385ce7d7802e4c6237cab4b3cc41418c9bc7939eee3003def601a711ef",
+  "modified_entries": [
+    "AndroidManifest.xml",
+    "assets/bin/Data/data.unity3d",
+    "assets/bin/Data/datapack.unity3d",
+    "assets/mayomods54/native_symbols.json",
+    "lib/arm64-v8a/libil2cpp.so"
+  ],
+  "added_entries": [
+    "assets/native1115/ATTRIBUTION.md"
+  ],
+  "removed_entries": [],
+  "version_code": 1115,
+  "phone_tested": false
+}

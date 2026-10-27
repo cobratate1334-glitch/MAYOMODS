@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "apk_sha256": "b84443b417823cceeef4eac3b4dffc14d064e9d56d5698e3f12502839d6c2e0b",
+  "retained_resources": 80,
+  "restored_original_atlas_panels": 4,
+  "restored_pixels_match_original_atlas": true,
+  "later_photo_negative_control": true,
+  "Sprite_file_identity_and_types_checked": true,
+  "gameplay_TextAssets_changed": 0,
+  "phone_GPU_rendering_tested": false
+}

@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "native_sha256": "611ed2385ce7d7802e4c6237cab4b3cc41418c9bc7939eee3003def601a711ef",
+  "scope": "Restore only the exact original four illustrated war/postwar themes",
+  "gameplay_TextAssets_changed": 0,
+  "restored_backgrounds": 4,
+  "replaced_Sprite_Texture_objects": 8,
+  "original_war_palettes": true,
+  "original_tint_alpha": 0.3,
+  "menu_transition_test_cases": 13,
+  "theme_test_cases": 3,
+  "phone_tested": false,
+  "Unity_rendering_tested": false
+}

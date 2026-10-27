@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "binary_sha256": "611ed2385ce7d7802e4c6237cab4b3cc41418c9bc7939eee3003def601a711ef",
+  "original_menu_transition_cases": 13,
+  "theme_cases": 3,
+  "ASLR_bases": [
+    0,
+    68719476736
+  ],
+  "original_four_illustrated_backgrounds": true,
+  "original_phase_palette_float_ABI": true,
+  "war_postwar_country_year_rules": true,
+  "missing_art_and_new_scroller_fallback": true,
+  "managed_Unity_APIs_modeled": true,
+  "phone_tested": false,
+  "Unity_rendering_tested": false
+}

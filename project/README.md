@@ -1,3 +1,10 @@
+# Current candidate: 1115
+
+[Exact illustrated war/post-war themes](work/source/war_themes/README.md).
+The owner selected the old illustrated atlas panels and matching phase colours.
+This update changes only themes, retaining all earlier repairs/gameplay/saves.
+Phone rendering acceptance is open. Earlier notes below are historical.
+
 # Current candidate: 1114
 
 [Appearance, old war palettes, native school and crew stories](work/source/life_polish/README.md).
