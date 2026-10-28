@@ -17,5 +17,11 @@
     "count": 5,
     "result": "passed",
     "device_tested": false
+  },
+  "sports_route_asset_checks": {
+    "count": 2,
+    "scenario_targets_checked": 23,
+    "result": "passed",
+    "gameplay_tested": false
   }
 }

@@ -8,7 +8,9 @@ The candidate restores original typed sports menu actions, makes military
 induction handle a null occupation, clears the year picker mode after a
 selection, passes root New Life controls the stock scroll parent, respects the
 native dark theme setting, and updates the Android launcher with the requested
-Discord and PayPal links. The sports actions require full runtime validation.
+Discord and PayPal links. Two asset-level checks confirm the restored World Cup target and all 23
+scenario targets exist in their declared files. Sports actions still require
+full runtime validation.
 The New Life test verifies scroll-parent wiring, not a real touchscreen gesture.
 
 The native test doubles passed four checks covering induction, year selection,
