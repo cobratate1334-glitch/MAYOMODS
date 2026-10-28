@@ -1,0 +1,917 @@
+[
+  {
+    "resource": "native1118/1900s/oil_lantern",
+    "file": "1900s/icons/oil_lantern.png",
+    "source_sha256": "020b6342383100368514c65bf1e6aa9fc272605c5aaa529f913862a43952d84e",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/01_1900s_frontier.png",
+    "source_bbox": [
+      1071,
+      507,
+      163,
+      261
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/1900s/one_room_schoolhouse",
+    "file": "1900s/icons/one_room_schoolhouse.png",
+    "source_sha256": "60b64a314aae7ce58f6cd757e66e850538d4e717def54a368fc2855369f7cb3d",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/09_1900s_frontier_more.png",
+    "source_bbox": [
+      509,
+      248,
+      278,
+      262
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/1900s/pocket_watch",
+    "file": "1900s/icons/pocket_watch.png",
+    "source_sha256": "83e8863ed3f808a512fa57e66d948755dda895af0a22fa51206b3e75df0418e4",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/01_1900s_frontier.png",
+    "source_bbox": [
+      1297,
+      522,
+      225,
+      232
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/1900s/telegraph_machine",
+    "file": "1900s/icons/telegraph_machine.png",
+    "source_sha256": "cb8ba6d31d3cf3473acaeeb75b58a9b9ad61d342a23c4ea9c4f6cb645baae732",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/09_1900s_frontier_more.png",
+    "source_bbox": [
+      1025,
+      270,
+      267,
+      230
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/1900s/western_fiddle",
+    "file": "1900s/icons/western_fiddle.png",
+    "source_sha256": "7288a8b06e2d866d9864b6ac5f8a8b0f5625722c64970e74e9f86b1caaaa8549",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/09_1900s_frontier_more.png",
+    "source_bbox": [
+      1027,
+      723,
+      257,
+      285
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/1920s/candlestick_phone",
+    "file": "1920s/icons/candlestick_phone.png",
+    "source_sha256": "616f19fdf25c22eebd86758a9fc48c3b0e1836e43f841997b8444f20e9e1d200",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/02_1920s_1940s.png",
+    "source_bbox": [
+      541,
+      268,
+      193,
+      264
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/1920s/film_camera",
+    "file": "1920s/icons/film_camera.png",
+    "source_sha256": "b4fe596110d77fdd436bcce71ff45539db83790ac43ca321f4af35938a784172",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/02_1920s_1940s.png",
+    "source_bbox": [
+      32,
+      266,
+      194,
+      274
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/1920s/fountain_pen",
+    "file": "1920s/icons/fountain_pen.png",
+    "source_sha256": "65589d6bd8e7fc0a79ca8d7202dc79596f4fad31cdf69b5e25f17d139cbff92d",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/10_1920s_more.png",
+    "source_bbox": [
+      1009,
+      286,
+      289,
+      223
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/1920s/gramophone",
+    "file": "1920s/icons/gramophone.png",
+    "source_sha256": "04c624cc4ca54aeee21910ca32b823f1522f91101c5470e340fbf20f39a5c4e0",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/02_1920s_1940s.png",
+    "source_bbox": [
+      348,
+      13,
+      228,
+      269
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/1920s/typewriter",
+    "file": "1920s/icons/typewriter.png",
+    "source_sha256": "b7f43b4a1071f6f2942f8fc6e63ab62a5382c52ede99a62633f90af958c56fb0",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/02_1920s_1940s.png",
+    "source_bbox": [
+      255,
+      303,
+      267,
+      203
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/1940s/box_camera",
+    "file": "1940s/icons/box_camera.png",
+    "source_sha256": "5edcb04f1d1b69caea342e5467f0cc6dbd08a893bcc1fd1a8a390f5c05393dc6",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/11_1940s_more.png",
+    "source_bbox": [
+      1313,
+      265,
+      210,
+      215
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/1940s/family_letter",
+    "file": "1940s/icons/family_letter.png",
+    "source_sha256": "8e03f605aaef0417b2b6c0a846b65a4121a35999bee8a3f2a03947cb6ae97b71",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/11_1940s_more.png",
+    "source_bbox": [
+      0,
+      727,
+      274,
+      297
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/1940s/home_garden_tools",
+    "file": "1940s/icons/home_garden_tools.png",
+    "source_sha256": "2358ef22ad3ec578060d6316773afb6e8275b0c382a5e4806e5111ecb1cc507a",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/11_1940s_more.png",
+    "source_bbox": [
+      1231,
+      501,
+      304,
+      237
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/1940s/rotary_phone",
+    "file": "1940s/icons/rotary_phone.png",
+    "source_sha256": "6d337a3212d16b2c7ee08c67c58ed5a6c79af006124daa89608f06237db96f2d",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/02_1920s_1940s.png",
+    "source_bbox": [
+      0,
+      749,
+      274,
+      228
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/1940s/valve_radio",
+    "file": "1940s/icons/valve_radio.png",
+    "source_sha256": "b41df17ecd43cfa743be43973dda45d1979c6095430c5d09eae60a862ec3f324",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/02_1920s_1940s.png",
+    "source_bbox": [
+      1310,
+      525,
+      200,
+      233
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/1960s/backyard_telescope",
+    "file": "1960s/icons/backyard_telescope.png",
+    "source_sha256": "67a71716e8c2f8bfaa6d6a4f4d785e7c1d2cf23c4a3b769e502f7f6bf30a6d89",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/12_1960s_more.png",
+    "source_bbox": [
+      271,
+      737,
+      257,
+      276
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/1960s/box_television",
+    "file": "1960s/icons/box_television.png",
+    "source_sha256": "69885e7e69427ae5d5914f6b650474d4a329a7a739fbbe9c657f190b5780cd58",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/03_1960s_1980s.png",
+    "source_bbox": [
+      1013,
+      247,
+      281,
+      279
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/1960s/record_player",
+    "file": "1960s/icons/record_player.png",
+    "source_sha256": "6df843518227e72b7fd4d243da27d7f9d164f7a900b2e1a52eba03f1333023e5",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/03_1960s_1980s.png",
+    "source_bbox": [
+      537,
+      19,
+      291,
+      231
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/1960s/transistor_radio",
+    "file": "1960s/icons/transistor_radio.png",
+    "source_sha256": "956cb24730a6534d60b30d5765cdb7eabca0882dc8dd4f4278d30fcc1ca9242e",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/03_1960s_1980s.png",
+    "source_bbox": [
+      807,
+      13,
+      237,
+      230
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/1980s/brick_phone",
+    "file": "1980s/icons/brick_phone.png",
+    "source_sha256": "bab08af79ce55a0ddbcc9892ce02fe3daf0a9016792c13b643cd5a58fcc06f66",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/03_1960s_1980s.png",
+    "source_bbox": [
+      1272,
+      737,
+      208,
+      287
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/1980s/cassette_player",
+    "file": "1980s/icons/cassette_player.png",
+    "source_sha256": "5776fd8f97ed43d1261b9849588219ff59a32f8cd42ddae908e337806b122ba1",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/03_1960s_1980s.png",
+    "source_bbox": [
+      541,
+      508,
+      219,
+      262
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/1980s/floppy_disks",
+    "file": "1980s/icons/floppy_disks.png",
+    "source_sha256": "6e85f983da2bc73c4425a5959640ad781e959b1858f5061f2e374101094e1151",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/13_1980s_more.png",
+    "source_bbox": [
+      520,
+      273,
+      242,
+      225
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/1980s/home_computer",
+    "file": "1980s/icons/home_computer.png",
+    "source_sha256": "5689bf8d7eb209a8f36996f871671fc59dc6539800bac270b8daffdd8ca37194",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/03_1960s_1980s.png",
+    "source_bbox": [
+      763,
+      485,
+      303,
+      295
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/1980s/pocket_calculator",
+    "file": "1980s/icons/pocket_calculator.png",
+    "source_sha256": "785a5be7bbbe2a00d3a2721b43e532f5d2ce4867f5af3a1560e42e53bbd7d865",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/13_1980s_more.png",
+    "source_bbox": [
+      1038,
+      258,
+      220,
+      240
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/2000s/compact_digital_camera",
+    "file": "2000s/icons/compact_digital_camera.png",
+    "source_sha256": "3b93a464767da6f13e305ac1e623f9e8429c721e59f7e44fa541b9f4d4b50f62",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/04_2000s_2010s.png",
+    "source_bbox": [
+      1035,
+      19,
+      249,
+      250
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/2000s/desktop_pc",
+    "file": "2000s/icons/desktop_pc.png",
+    "source_sha256": "f9f83eb0da24831f7f6351719ad44e5475ce3ef3ff3a4d36db8e94f699ecc3be",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/04_2000s_2010s.png",
+    "source_bbox": [
+      473,
+      18,
+      304,
+      268
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/2000s/flip_phone",
+    "file": "2000s/icons/flip_phone.png",
+    "source_sha256": "db816e4c57413d2c9a0a84bb7c884397b59283805a3b533e4dafa6b88b85815b",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/04_2000s_2010s.png",
+    "source_bbox": [
+      30,
+      10,
+      182,
+      267
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/2000s/handheld_console",
+    "file": "2000s/icons/handheld_console.png",
+    "source_sha256": "70c0268efde967461a7ba3082f5741d0f0e34e267adaf996567d946a07ff2e7b",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/04_2000s_2010s.png",
+    "source_bbox": [
+      773,
+      11,
+      235,
+      287
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/2000s/mp3_player",
+    "file": "2000s/icons/mp3_player.png",
+    "source_sha256": "f166af3a48e3407d93eb42d0e555898a7d7d7124a87d429f0bbdce87f70fce45",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/04_2000s_2010s.png",
+    "source_bbox": [
+      255,
+      17,
+      259,
+      262
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/2000s/suburban_school",
+    "file": "2000s/icons/suburban_school.png",
+    "source_sha256": "09a2011cbe73e7ac69cd6ae818fdd418496fb80a44c3783a1485047042c8a6d3",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/14_2000s_more.png",
+    "source_bbox": [
+      1009,
+      30,
+      272,
+      222
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/2010s/action_camera",
+    "file": "2010s/icons/action_camera.png",
+    "source_sha256": "a4efbe056d0537db1f2864fbb4a5f9dfdd887666063ca1c7563e9ab207988b6d",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/04_2000s_2010s.png",
+    "source_bbox": [
+      503,
+      513,
+      273,
+      259
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/2010s/tablet_computer",
+    "file": "2010s/icons/tablet_computer.png",
+    "source_sha256": "30f92e5bbe755e9eb1d3f37f39a06459001be682aad0fe071189a2175654da8d",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/04_2000s_2010s.png",
+    "source_bbox": [
+      241,
+      519,
+      277,
+      246
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/2010s/touchscreen_phone",
+    "file": "2010s/icons/touchscreen_phone.png",
+    "source_sha256": "4707775bdfae6da535069fdc37a395f65494d2cabed46d53923822e251014a93",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/04_2000s_2010s.png",
+    "source_bbox": [
+      25,
+      487,
+      245,
+      281
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/2020s/hd_webcam",
+    "file": "2020s/icons/hd_webcam.png",
+    "source_sha256": "31000370e5d011d9db4edc2bfdb820fd8f5d18b992c3c3592e6f98e6286ca3dc",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/16_2020s_more.png",
+    "source_bbox": [
+      981,
+      329,
+      237,
+      219
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/2020s/portable_game_console",
+    "file": "2020s/icons/portable_game_console.png",
+    "source_sha256": "e12f487339948ac0ef96adc808408fc92f71c970ceb90aed76b9f54eb3459b60",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/05_2020s_2026.png",
+    "source_bbox": [
+      1261,
+      351,
+      262,
+      162
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/2020s/video_call_laptop",
+    "file": "2020s/icons/video_call_laptop.png",
+    "source_sha256": "22a0d8b32ccafae5329a289b3926cfa5d689c9360acf54e9027bb39712f5ffe2",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/05_2020s_2026.png",
+    "source_bbox": [
+      0,
+      4,
+      314,
+      326
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/2020s/wireless_earbuds",
+    "file": "2020s/icons/wireless_earbuds.png",
+    "source_sha256": "31a7039d7a725817e7667337c67e260d3b8523d9b81c63b065f935d4fa7b4d97",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/05_2020s_2026.png",
+    "source_bbox": [
+      299,
+      9,
+      219,
+      269
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/2026/folding_keyboard",
+    "file": "2026/icons/folding_keyboard.png",
+    "source_sha256": "b7eb8f48cebb8f55a498e1e44fd06d7acaf5be9f80f68632f092a48db39ce16d",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/17_2026_more.png",
+    "source_bbox": [
+      773,
+      303,
+      285,
+      193
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/2026/folding_phone",
+    "file": "2026/icons/folding_phone.png",
+    "source_sha256": "c2a4e2257e615a13c10fd45c7a305dd5b2c8813466bf6d56197fcdbdb9670aaf",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/05_2020s_2026.png",
+    "source_bbox": [
+      497,
+      543,
+      269,
+      223
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/2026/portable_projector",
+    "file": "2026/icons/portable_projector.png",
+    "source_sha256": "4a8ddf821207c9422775d444e6b74912686429f640081798f0ee9a43cb0906e0",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/17_2026_more.png",
+    "source_bbox": [
+      1054,
+      319,
+      254,
+      179
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/2026/small_3d_printer",
+    "file": "2026/icons/small_3d_printer.png",
+    "source_sha256": "bf46f45f269086277bda15a7bb59b853a1a55449720038055fe66ae9d90973e3",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/05_2020s_2026.png",
+    "source_bbox": [
+      534,
+      764,
+      264,
+      229
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/school/classroom_desk",
+    "file": "school/icons/classroom_desk.png",
+    "source_sha256": "7b2b9cc8e1a9717fcd4fd3c10dfc9b4b74e2f6f8a1901ef0413f177c5d4dd14c",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/19_school_places_equipment.png",
+    "source_bbox": [
+      31,
+      23,
+      228,
+      233
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/school/classroom_whiteboard",
+    "file": "school/icons/classroom_whiteboard.png",
+    "source_sha256": "0709ccf792ea555bd520ae52e5febc06c5c84cc3e564e800ac05a9aef65314e3",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/19_school_places_equipment.png",
+    "source_bbox": [
+      251,
+      3,
+      270,
+      241
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/school/event_pictures/1900s_frontier_school.png",
+    "file": "school/event_pictures/1900s_frontier_school.png",
+    "source_sha256": "7950d90b3e6405d15d94a3e644ad44c7ae938e4f04aff479d0f39bfd450d05e9",
+    "kind": "event_picture",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/08_school_event_pictures.png",
+    "source_bbox": [
+      0,
+      0,
+      512,
+      256
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/school/event_pictures/1920s_school_library.png",
+    "file": "school/event_pictures/1920s_school_library.png",
+    "source_sha256": "9f6ed4df2ec04d6cd6b41281a93910ed44441264d6ba14469a8905a004a58589",
+    "kind": "event_picture",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/08_school_event_pictures.png",
+    "source_bbox": [
+      512,
+      0,
+      512,
+      256
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/school/event_pictures/1940s_school_garden.png",
+    "file": "school/event_pictures/1940s_school_garden.png",
+    "source_sha256": "665f8eb9d97c7041fc02759d50d6d70ade2ba19a6ab61b249c02b57ea323c39f",
+    "kind": "event_picture",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/08_school_event_pictures.png",
+    "source_bbox": [
+      1024,
+      0,
+      512,
+      256
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/school/event_pictures/1960s_school_dance.png",
+    "file": "school/event_pictures/1960s_school_dance.png",
+    "source_sha256": "08425c85f9298e164ec4ec762f38704c6a32f065b0b46c8cf35c3ad39ca90733",
+    "kind": "event_picture",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/08_school_event_pictures.png",
+    "source_bbox": [
+      0,
+      256,
+      512,
+      256
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/school/event_pictures/1980s_computer_lab.png",
+    "file": "school/event_pictures/1980s_computer_lab.png",
+    "source_sha256": "488423781ad889185241b6f5aeb11920a7ed910c89b1d4974850e0d9167da518",
+    "kind": "event_picture",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/08_school_event_pictures.png",
+    "source_bbox": [
+      512,
+      256,
+      512,
+      256
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/school/event_pictures/2000s_school_trip.png",
+    "file": "school/event_pictures/2000s_school_trip.png",
+    "source_sha256": "be4c30526019f8ad05ce58956d3de583075bc22e295b44bead93faa22397c226",
+    "kind": "event_picture",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/08_school_event_pictures.png",
+    "source_bbox": [
+      1024,
+      256,
+      512,
+      256
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/school/event_pictures/2010s_group_project.png",
+    "file": "school/event_pictures/2010s_group_project.png",
+    "source_sha256": "3855c95851d341e5a950e60f8cf8e29d603ccd0d406e85c049bead1c13a0422e",
+    "kind": "event_picture",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/08_school_event_pictures.png",
+    "source_bbox": [
+      0,
+      512,
+      512,
+      256
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/school/event_pictures/2020s_online_lesson.png",
+    "file": "school/event_pictures/2020s_online_lesson.png",
+    "source_sha256": "7f8773e20ddb7875d0653955e5323b65e81bc1f3e8e96e73c43fbef7dcb7b9d4",
+    "kind": "event_picture",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/08_school_event_pictures.png",
+    "source_bbox": [
+      512,
+      512,
+      512,
+      256
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/school/event_pictures/2026_robotics_fair.png",
+    "file": "school/event_pictures/2026_robotics_fair.png",
+    "source_sha256": "56bae657c7a7b031e34380527371e33cfa0f3270ce3e93233ffebf5802fee5e2",
+    "kind": "event_picture",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/08_school_event_pictures.png",
+    "source_bbox": [
+      1024,
+      512,
+      512,
+      256
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/school/library_shelves",
+    "file": "school/icons/library_shelves.png",
+    "source_sha256": "4071cbe65b139c3a1760c390c4e7c2c5717fce8e5e5dba83d8c447bfdb582d87",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/19_school_places_equipment.png",
+    "source_bbox": [
+      770,
+      0,
+      254,
+      256
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/school/old_chalkboard",
+    "file": "school/icons/old_chalkboard.png",
+    "source_sha256": "39e5231f57ddf15b3d1a92048f55ebe393d10f003bfede8751c8d13d3e3d1212",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/19_school_places_equipment.png",
+    "source_bbox": [
+      513,
+      31,
+      258,
+      199
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/school/pop_quiz",
+    "file": "school/icons/pop_quiz.png",
+    "source_sha256": "505e90237faa5d6400d9e8800f1aee6ea76793e24bc55d7e3ea6beda8959fc0c",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/06_school_extras.png",
+    "source_bbox": [
+      0,
+      270,
+      246,
+      232
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/school/robotics_club",
+    "file": "school/icons/robotics_club.png",
+    "source_sha256": "22fe63e0890b4c277c9f3a4a81be68e3ad60fbd964f266d44ff6ba14ab3d9413",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/06_school_extras.png",
+    "source_bbox": [
+      1281,
+      511,
+      255,
+      247
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/school/study_planner",
+    "file": "school/icons/study_planner.png",
+    "source_sha256": "ad71b126e6ecc7f3a62ed2703807204ed698a6fad4fbe5c9c5b62bbf9c749aed",
+    "kind": "icon",
+    "source_pack": "Eras_School_528",
+    "source_sheet": "source_sheets/19_school_places_equipment.png",
+    "source_bbox": [
+      766,
+      526,
+      249,
+      230
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/1800s/jobs_printer",
+    "file": "1800s/icons/jobs/printer.png",
+    "source_sha256": "ab225a1443219e47c71a30e0f21bce750ee4ffa75c6e4817549ec9f4fc20d7c1",
+    "kind": "icon",
+    "source_pack": "1800s_336",
+    "source_sheet": "source_sheets/05_jobs_crafts.png",
+    "source_bbox": [
+      301,
+      295,
+      194,
+      216
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/1800s/jobs_blacksmith",
+    "file": "1800s/icons/jobs/blacksmith.png",
+    "source_sha256": "02ee341ba05f2ad800b7643572b634cc89ccd66c219bbfd393e56730da8e039d",
+    "kind": "icon",
+    "source_pack": "1800s_336",
+    "source_sheet": "source_sheets/05_jobs_crafts.png",
+    "source_bbox": [
+      22,
+      331,
+      234,
+      185
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/1800s/jobs_clerk",
+    "file": "1800s/icons/jobs/clerk.png",
+    "source_sha256": "bfe65d672f42f1bb2a1b5e377407a877f8153c6866ed147c084414b627042ccc",
+    "kind": "icon",
+    "source_pack": "1800s_336",
+    "source_sheet": "source_sheets/05_jobs_crafts.png",
+    "source_bbox": [
+      1034,
+      62,
+      240,
+      200
+    ],
+    "generated": null
+  },
+  {
+    "resource": "native1118/1800s/farming_wheat",
+    "file": "1800s/icons/farming/wheat.png",
+    "source_sha256": "26b1fedd01cf56a06947093b11bc44c2d66e926c127397e4886e370b36c03f8a",
+    "kind": "icon",
+    "source_pack": "1800s_336",
+    "source_sheet": "source_sheets/01_crops_produce.png",
+    "source_bbox": [
+      274,
+      12,
+      224,
+      246
+    ],
+    "generated": null
+  }
+]

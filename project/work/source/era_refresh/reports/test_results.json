@@ -1,0 +1,45 @@
+{
+  "passed": true,
+  "tests_run": 37,
+  "native_sha256": "0b927d0d2d7dedcb475bea306ca7fadcf823300d1ae6fb4b852b2447f83aa0fa",
+  "test_layers": {
+    "native_tests": {
+      "tests": 9,
+      "log_sha256": "bf8a1f1e85bf70482d62dc615114828c605db086883e9e2f420347b5a5dda5fd"
+    },
+    "content_tests": {
+      "tests": 9,
+      "log_sha256": "84957cd74be6b826e174d4d8a8d6d956dfed0bfa842affa29ae19fc3631fe8a4"
+    },
+    "retained_tests": {
+      "tests": 6,
+      "log_sha256": "7e1c24aa92db1e7339e15b21adeb3baf87d58425bd7b4f6bf6e4c0fd0c93b71c"
+    },
+    "menu_tests": {
+      "tests": 13,
+      "log_sha256": "2f2fae0311582330652da1f041d2260dd701a8b27118a696cc8495ba9fc1a724"
+    }
+  },
+  "staged_apk_sha256": "bf75ea15d9d0c0b495eef7d47a756f721c84af855b10eeb241636d7b7ad9dd9c",
+  "text_asset_sha256": {
+    "genesis_v8_shopping_v8": "367dbb04b77e78337ffa0cef31e5ed0f077fa53a8424d0a1b6bf3a01cd4efc33",
+    "genesis_v18_era44": "ec982dcc2806ca8998650eac78d99c5151b261c8fbeb9cd263da9bf4e78ca66e",
+    "genesis_life_rework": "785565797c31ad2a4da2394cf50c0c16f30cc5284b9a838f472c20e4f37bb1b5",
+    "genesis_rework_defaults": "81db0d4c825bebcb407e269d33a4ef6702d32e15e35eec604334ad2e16393fe8",
+    "genesis_activities_v12": "d4e2aeb7fa4a15d7f6a8acb09ff45049feb6ac2d7530cc80ce2fb0558b9d3edc",
+    "genesis_activities_v18": "ef4d74f89943e147f9807bbe98929b94a5c0ef726e7c2124279a34ce3e573d6e",
+    "genesis_v9_school_v9": "69d035b5fa7ca699fed2e195f8f3a09d0fefc8b45fc766e97d70382abe68742d",
+    "genesis_v18_school52": "504f7194196709888a4e238403212f662af67800d6f41399f204400ce35f4e22",
+    "genesis_activities_v9": "08464c6bc13d97d007ab27938853ac337c46180b2a257758442aee38f4e16433",
+    "genesis_rework_annual1105": "7bf3627b355feac994d6ac02467f0a2112873f84df710411662e787e8d5927dc",
+    "genesis_school1110": "a4fd611b01d7614be37c042b93c8142a718d7fc3969ac93275c7bc831354fe72"
+  },
+  "native_reproduced_identically": true,
+  "all_new_catalogue_art_resolves": true,
+  "new_resources": 77,
+  "managed_Unity_APIs_are_test_doubles": true,
+  "phone_tested": false,
+  "ART_tested": false,
+  "Unity_rendering_tested": false,
+  "real_save_tested": false
+}

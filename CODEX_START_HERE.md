@@ -1,5 +1,15 @@
 # Starting task for Codex
 
+Current **1118**: read AGENTS and era_refresh/README, references/FINDINGS,
+BUILD and ACCEPTANCE, plus v1_restoration/references/REPORT_CHECKLIST. The owner
+confirms the prior fix and requests flags and era assets. This update delivers
+current opponent flags, visible news, 1800s news/starts, period school and item
+art and rendered year backgrounds. Thirty-seven automated cases and signed APK
+integrity pass; phone/ART/GPU/save checks remain open. Preserve existing menu
+repairs, original World Cup flow, four war themes, launcher and update identity.
+Broader remaining bugs and suggestions stay on the checklist. Keep private inputs,
+raw diagnostics, keys and host credentials out of Git. Earlier blocks are history.
+
 Current **1117**: read AGENTS and v1_restoration/README, REPORT_CHECKLIST,
 FINDINGS and BUILD. The complete transfer is downloaded; all instruction notes
 are read. The checklist explicitly records inaccessible/reference-reading limits

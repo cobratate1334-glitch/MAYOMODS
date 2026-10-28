@@ -1,5 +1,13 @@
 # Reproduce the focused v55 scar/eyepatch candidate
 
+Current **1118** reproduction:
+[era_refresh/references/BUILD.md](project/work/source/era_refresh/references/BUILD.md).
+Pinned signed 1117 input; scoped ARM64/resource/content update; unchanged
+DEX/JNI/launcher; same development signer. The exact native candidate reproduces
+identically. Thirty-seven tests and resource, aapt2, signature, payload and 16 KB
+alignment checks pass. Phone install/rendering and real saves remain untested.
+Older instructions below are historical.
+
 Current **1117** reproduction:
 [v1_restoration/references/BUILD.md](project/work/source/v1_restoration/references/BUILD.md).
 Use exact signed 1116 and existing signer. No native or DEX rebuild. Only four

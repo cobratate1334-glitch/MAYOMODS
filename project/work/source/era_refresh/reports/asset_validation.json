@@ -1,0 +1,42 @@
+{
+  "passed": true,
+  "changed_text_assets": [
+    "genesis_activities_v12",
+    "genesis_activities_v18",
+    "genesis_activities_v9",
+    "genesis_life_rework",
+    "genesis_rework_annual1105",
+    "genesis_rework_defaults",
+    "genesis_school1110",
+    "genesis_v18_era44",
+    "genesis_v18_school52",
+    "genesis_v8_shopping_v8",
+    "genesis_v9_school_v9"
+  ],
+  "text_asset_sha256": {
+    "genesis_v8_shopping_v8": "367dbb04b77e78337ffa0cef31e5ed0f077fa53a8424d0a1b6bf3a01cd4efc33",
+    "genesis_v18_era44": "ec982dcc2806ca8998650eac78d99c5151b261c8fbeb9cd263da9bf4e78ca66e",
+    "genesis_life_rework": "785565797c31ad2a4da2394cf50c0c16f30cc5284b9a838f472c20e4f37bb1b5",
+    "genesis_rework_defaults": "81db0d4c825bebcb407e269d33a4ef6702d32e15e35eec604334ad2e16393fe8",
+    "genesis_activities_v12": "d4e2aeb7fa4a15d7f6a8acb09ff45049feb6ac2d7530cc80ce2fb0558b9d3edc",
+    "genesis_activities_v18": "ef4d74f89943e147f9807bbe98929b94a5c0ef726e7c2124279a34ce3e573d6e",
+    "genesis_v9_school_v9": "69d035b5fa7ca699fed2e195f8f3a09d0fefc8b45fc766e97d70382abe68742d",
+    "genesis_v18_school52": "504f7194196709888a4e238403212f662af67800d6f41399f204400ce35f4e22",
+    "genesis_activities_v9": "08464c6bc13d97d007ab27938853ac337c46180b2a257758442aee38f4e16433",
+    "genesis_rework_annual1105": "7bf3627b355feac994d6ac02467f0a2112873f84df710411662e787e8d5927dc",
+    "genesis_school1110": "a4fd611b01d7614be37c042b93c8142a718d7fc3969ac93275c7bc831354fe72"
+  },
+  "unchanged_unrelated_unity_objects": 41442,
+  "all_old_artwork_identical": true,
+  "all_old_resource_aliases_preserved": true,
+  "resource_validation": {
+    "passed": true,
+    "resources": 77,
+    "file_identity_checked": true,
+    "generic_type": "Sprite",
+    "texture_type": "Texture2D",
+    "GPU_rendering_tested": false
+  },
+  "datapack_sha256": "64823bdff9167ba1c29f69617466ffc3f0765caa7793749041d3c1e2db905fee",
+  "data_sha256": "9f50cfef43f0d5fc7246acc4cdafd381f1257eec67dce94c003d30001fa32699"
+}

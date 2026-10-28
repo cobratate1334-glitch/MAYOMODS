@@ -1,0 +1,38 @@
+{
+  "staged": true,
+  "signed": false,
+  "base_sha256": "2047b28c63db0a31f462c5e4d8c9d0b6760917f83272a27c6644b2e0020a2b1b",
+  "apk_sha256": "bf75ea15d9d0c0b495eef7d47a756f721c84af855b10eeb241636d7b7ad9dd9c",
+  "native_sha256": "0b927d0d2d7dedcb475bea306ca7fadcf823300d1ae6fb4b852b2447f83aa0fa",
+  "dex_sha256": "1f6e55b2f1a40039b1ba3083753a18ad69f9e2d22067420719afe6222ee638dd",
+  "modified_entries": [
+    "AndroidManifest.xml",
+    "assets/bin/Data/data.unity3d",
+    "assets/bin/Data/datapack.unity3d",
+    "assets/mayomods54/native_symbols.json",
+    "lib/arm64-v8a/libil2cpp.so"
+  ],
+  "added_entries": [
+    "assets/native1118/ATTRIBUTION.md",
+    "assets/native1118/media.json"
+  ],
+  "version_code": 1118,
+  "changed_text_assets": [
+    "genesis_activities_v12",
+    "genesis_activities_v18",
+    "genesis_activities_v9",
+    "genesis_life_rework",
+    "genesis_rework_annual1105",
+    "genesis_rework_defaults",
+    "genesis_school1110",
+    "genesis_v18_era44",
+    "genesis_v18_school52",
+    "genesis_v8_shopping_v8",
+    "genesis_v9_school_v9"
+  ],
+  "unrelated_Unity_objects_identical": 41442,
+  "all_other_APK_payloads_identical": true,
+  "all_existing_artwork_and_resources_preserved": true,
+  "new_resources": 77,
+  "phone_tested": false
+}

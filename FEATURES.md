@@ -1,5 +1,15 @@
 # Requested gameplay systems and design requirements
 
+Current **1118** follows the owner's confirmation of 1117 and explicit era
+follow-up. It adds live opponent flags, repaired news picture preservation,
+five 1800s starts and news, ten school-art periods, 29 dated technology items
+with real saved outcomes and corrected year-choice image rendering. Seventy-seven
+resources use selected supplied PNGs and attributed archive media. Original
+Unity UI, World Cup, stock school actions, four war themes and shared transitions
+remain. Broader suggestions are still tracked, not declared implemented. See
+project/work/source/era_refresh and the full v1_restoration report checklist.
+Earlier current-scope blocks below are historical.
+
 Current **1117** scope follows the full report: World Cup and existing bugs
 before suggestions. The transfer is fully downloaded; all instruction notes are
 read. Direct V1 recovery uses its original competition/card icons and player

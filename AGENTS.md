@@ -1,5 +1,23 @@
 # Instructions for Codex — MayoMods
 
+Active candidate is **1118**, `project/work/source/era_refresh`. The owner
+confirms the 1117 fix works and explicitly brings opponent flags, news images,
+era-specific school/technology, 1800s starts and illustrated year choices into
+scope. Read its README, FINDINGS, BUILD and ACCEPTANCE plus the complete report
+checklist in v1_restoration. Both latest notes match the fully read archive notes.
+Use the original Unity UI. Keep every 1113 transition fix, V1 match gameplay,
+four 1115 war/post-war panels, existing signer/package/save IDs and DEX/JNI/launcher.
+New resources use typed Sprite loading and actual Image.overrideSprite on owned
+year buttons. Era art refreshes once per saved year. Transactions recheck dates,
+age, bank, ownership and quota. New native effect 911 targets only the hero.
+Do not reuse the family-support effect for ordinary item use. Thirty-seven
+native/API/content/regression cases are not phone/ART/GPU/save certification.
+Broader appearance/driving/performance/prison/military/social/Mod Creator/Yakuza
+work remains open; the latest follow-up does not declare every bug fixed.
+Source publication and APK-only upload remain authorized. Keep raw evidence,
+APKs, private native inputs, signing keys and upload responses/tokens out of Git.
+Earlier active blocks below are historical.
+
 Active candidate is **1117**, `project/work/source/v1_restoration`. The owner
 requires complete archive review and direct V1 World Cup recovery before new
 suggestions. The full 2.42 GB ZIP is downloaded and CRC checked. Read its README,

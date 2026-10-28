@@ -1,5 +1,16 @@
 # Known bugs and verification gaps
 
+**1118 flags/era repair — 28 October 2026.** Owner confirms the 1117 fix works.
+A definite news defect cleared NewsImage1110 for years outside a whitelist;
+1118 preserves selected images and fills blanks. Match cards use the current
+opponent flag. School art and dated item availability follow the actual year.
+Year buttons write the rendered Image override; an original Unity getter
+negative control demonstrates why a normal sprite can remain hidden. Five
+1800s starts/news and 77 resources are added. Thirty-seven automated cases pass.
+Existing themes/transitions/World Cup remain. Phone display/update/save checks,
+profile reversion, driving-test freeze and measured performance remain OPEN.
+See era_refresh and the updated full report checklist for exact scope.
+
 **1117 V1 recovery — 28 October 2026.** The complete owner archive is now
 downloaded and inventoried; all instruction notes and asset READMEs are read.
 The actual V1 APK identifies the known v32 native. Existing competition logos

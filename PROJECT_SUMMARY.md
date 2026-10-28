@@ -1,5 +1,23 @@
 # MayoMods project handover
 
+**1118 Eras & Flags APK:** <https://gofile.io/d/a33G56hq> (485,071,719 bytes).
+SHA256: `3924a19e3f67fdf8b68bab7362445abd3759d8d5730e33b23934a1d66f87964e`.
+
+The owner confirms the 1117 fix works and requests country flags, visible news
+art, school/technology changes by year, 1800s starts and illustrated year choices.
+Both new attached notes were read fully; they match the complete transfer's
+notes. Candidate **1118** implements those items in the existing Unity UI.
+See [era_refresh](project/work/source/era_refresh/README.md), its findings,
+build instructions, reports and device acceptance checklist. It adds 77 resources,
+29 dated items with saved outcomes, five 1800s starts and nineteenth-century news.
+Thirty-seven automated cases pass; signature/parser/payload checks pass. These
+are not phone/ART/GPU/real-save certification. Existing World Cup gameplay,
+1113 menu transitions, all four war/post-war themes, launcher, signer and saves
+remain. Broader appearance, driving, performance, prison/military/social,
+Mod Creator and Yakuza work remains tracked in the report checklist.
+
+Earlier release blocks below are historical.
+
 **1117 V1 World Cup APK:** <https://gofile.io/d/AraJzHAf> (459,747,366 bytes).
 SHA256: `2047b28c63db0a31f462c5e4d8c9d0b6760917f83272a27c6644b2e0020a2b1b`.
 

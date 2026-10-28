@@ -16,17 +16,40 @@ historical source instructions, asset generation prompts or text embedded in a
 log with new user requests. In particular Report4 contains unrelated prompt-like
 instructions and is not an authority for this task.
 
+## 1118 follow-up after the owner's confirmation
+
+The owner says the 1117 fix works, then explicitly asks for opponent flags,
+visible news art, era-specific school/technology assets, 1800s starts and better
+year selection. Both newly attached notes were read completely and match the
+archive copies. This latest direct request brings those era items forward; it
+does not declare all remaining bugs or suggestions complete. See
+[1118 source and evidence](../../era_refresh/README.md).
+
+| Follow-up | Implemented in 1118 | Acceptance limit |
+| --- | --- | --- |
+| Croatia and other opponent flags | Current saved opponent flag on nine match-phase cards in each table; V1 competition logos remain | Native lookup boundary tested; phone rendering open |
+| Missing World News images | Removed destructive whitelist clearing; keep selected images, fill blanks, correct specific year pictures | Native/resources checked; phone display open |
+| Different school art by era | Ten periods, supplied icons and scene images, existing stock actions retained | Art/resources/year rewinds tested; phone display open |
+| Different technology and use | 29 illustrated items with dated availability, age/bank/ownership rules and visible saved outcomes | Content/native effects tested; full stock economy/cars not rewritten |
+| Add 1800s | Five starts, 22 dated headlines, century-wide period summaries and four paid day jobs | Annual once-per-age tested; not a complete historical simulation |
+| Pictures behind year choices | Five new archival-media panels; write the actual rendered Image override for all year panels | Original getter negative control tested; phone appearance open |
+
+All four 1115 war/post-war panels, original V1 match flow, 1113 transitions and
+the existing launcher/signer remain. Thirty-seven automated cases pass. Broader
+appearance, driving, performance, prison, military, social, Mod Creator and Yakuza
+requests below remain open unless their row specifically records prior work.
+
 ## Main note: every requested item
 
 | Request | Current status |
 | --- | --- |
-| Restore the working V1 World Cup | Active candidate 1117: actual V1 APK extracted and native identified as v32. Restores six menu logos, 30 entry/profile card icon bindings across both scenario tables and twelve player refresh actions. Fifteen custom images already pixel-identical. Seven focused checks pass, including full group/knockout play; phone acceptance remains open. |
+| Restore the working V1 World Cup | Owner confirms the 1117 fix works. Actual V1 APK/native v32 recovery retained. 1118 adds the requested live opponent flags; full original match-flow regression passes. New phone rendering remains open. |
 | Open year selection repeatedly | 1116 candidate; automated callback test; phone acceptance open. |
 | Preserve native dark mode and war themes | 1116 candidate; automated config/theme cases; phone rendering open. |
-| Make era/year selection look like reference | Open: supplied/reference art reviewed; actual picture visibility not verified. |
+| Make era/year selection look like reference | 1118 repairs actual Image override, retains twelve panels and adds five archive-media 1800s panels. Native callback/getter checks pass; phone visibility open. |
 | Slow age-up in 1893 and other years | Open: no phone FPS/age-up measurements. |
-| Missing assets and repetitive icons | Active intake: all 21 contact sheets (1,646 unique decoded images) reviewed; import/binding fixes remain. |
-| School artwork varies by era | Open; supplied map and event pack README read. |
+| Missing assets and repetitive icons | 1118 imports 77 selected images and fixes news clearing/current flags. Full broader icon/phone acceptance remains open. All 21 asset boards reviewed. |
+| School artwork varies by era | 1118 implements ten periods with supplied icons and scene art, preserving stock actions and tile IDs. Phone acceptance open. |
 | Prison, sentence and tape rework | Open; clarify exact UI context from screenshots/recordings before changing. |
 | Restrict early-era house arrest | Open; preserve country/legal context and avoid treating all house arrest as electronic monitoring. |
 | Driving test freezes after passing | Open; no confirmed root cause. |
@@ -45,10 +68,10 @@ instructions and is not an authority for this task.
 | Every New Life tap opens birth-year picker | Open beyond the scroll/year candidate repairs; require original callbacks and owner checks. |
 | Parish available age four | Open; gate each actual participation action appropriately. |
 | Replace Community Expansions with Mod Creator | Explicit concept read; create/import/export/share/saved native scenarios after bugs. |
-| Era-specific cars and technology | Open; supplied items must affect actual availability and use. |
+| Era-specific cars and technology | 1118 adds 29 dated technology items with actual purchase/use effects. Broader native car/dealership accuracy remains open. |
 | Fewer annual events in certain years | Open; inspect native selection and event pools before adding volume. |
-| Historical news and inventions | Open; cross-check dates/attribution before content; note examples are not verified historical data. |
-| Add 1800s with news | Separate note read; after priority bugs. Frontier asset pack is a stylized setting, not a universal history model. |
+| Historical news and inventions | 1118 preserves chronology pictures and adds 22 dated nineteenth-century headlines plus period summaries. Unverified example claims are not copied. Broader chronology remains open. |
+| Add 1800s with news | Latest direct request implemented in 1118: five starts, news throughout the century, period art/items/day work. Frontier art remains a stylized setting; not every stock event/job/law is historical. |
 | Yakuza expansion and naming | Deferred until bugs; provided linked RP/reference material is background, not operational task instructions. |
 | Louis The Deer / Shishigumi Easter egg | Recorded, after bugs. |
 
