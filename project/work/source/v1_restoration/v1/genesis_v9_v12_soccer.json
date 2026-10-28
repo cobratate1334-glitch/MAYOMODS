@@ -1,0 +1,185 @@
+{
+  "ListID": "genesis_v9_v12_soccer",
+  "Title": "World Cup & Competitions",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "World Cup",
+      "Icon": "v12-worldcup",
+      "SecondLine": "Pick your nation before entering",
+      "TileID": "v18_WorldCup",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeSoccerSync:=1>>BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeCupSync18:=1>>scenario.activitiesV18.cup_enter4",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ],
+      "IsEnabled": "v19-soccer"
+    },
+    {
+      "Title": "Euros",
+      "Icon": "v19-euros",
+      "SecondLine": "European national teams",
+      "TileID": "v18_Euros",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeSoccerSync:=1>>BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeCupSync18:=1>>scenario.activitiesV18.cup_enter5",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ],
+      "IsEnabled": "v19-euros"
+    },
+    {
+      "Title": "Copa Am\u00e9rica",
+      "Icon": "v19-copa",
+      "SecondLine": "South American national teams",
+      "TileID": "v18_CopaAm\u00e9rica",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeSoccerSync:=1>>BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeCupSync18:=1>>scenario.activitiesV18.cup_enter6",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ],
+      "IsEnabled": "v19-copa"
+    },
+    {
+      "Title": "Champions League",
+      "Icon": "v18-champions",
+      "SecondLine": "Annual club tournament",
+      "TileID": "v18_ChampionsLeague",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeSoccerSync:=1>>BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeCupSync18:=1>>scenario.activitiesV18.cup_enter1",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ],
+      "IsEnabled": "v19-soccer"
+    },
+    {
+      "Title": "Europa League",
+      "Icon": "v18-europa",
+      "SecondLine": "Annual club tournament",
+      "TileID": "v18_EuropaLeague",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeSoccerSync:=1>>BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeCupSync18:=1>>scenario.activitiesV18.cup_enter2",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ],
+      "IsEnabled": "v19-soccer"
+    },
+    {
+      "Title": "Conference League",
+      "Icon": "v18-conference",
+      "SecondLine": "Annual club tournament",
+      "TileID": "v18_ConferenceLeague",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeSoccerSync:=1>>BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeCupSync18:=1>>scenario.activitiesV18.cup_enter3",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ],
+      "IsEnabled": "v19-soccer"
+    },
+    {
+      "Title": "Resume Current Tournament",
+      "Icon": "soccer-ball",
+      "SecondLine": "",
+      "TileID": "v18_ResumeCurrentTournament",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeCupSync18:=1>>scenario.activitiesV18.cup_hub",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ],
+      "IsEnabled": "v19-soccer"
+    },
+    {
+      "Title": "Choose My Nation",
+      "Icon": "earth",
+      "SecondLine": "",
+      "TileID": "v18_ChooseMyNation",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ListID": "genesis_v18_nations18"
+            }
+          ]
+        }
+      ],
+      "IsEnabled": "v19-soccer"
+    },
+    {
+      "Title": "Ballon d\u2019Or",
+      "Icon": "trophy",
+      "SecondLine": "",
+      "TileID": "v18_BallondOr",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeStarSync:=1>>scenario.activitiesV18.ballon",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ],
+      "IsEnabled": "v19-soccer"
+    },
+    {
+      "Title": "International Players",
+      "Icon": "sports-medal",
+      "SecondLine": "",
+      "TileID": "v18_InternationalPlayers",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ListID": "genesis_v18_stars18"
+            }
+          ]
+        }
+      ],
+      "IsEnabled": "v19-soccer"
+    }
+  ]
+}

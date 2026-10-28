@@ -1,5 +1,13 @@
 # Reproduce the focused v55 scar/eyepatch candidate
 
+Current **1117** reproduction:
+[v1_restoration/references/BUILD.md](project/work/source/v1_restoration/references/BUILD.md).
+Use exact signed 1116 and existing signer. No native or DEX rebuild. Only four
+TextAssets, Android version and diagnostic metadata change. Seven focused tests,
+unrelated Unity/APK payload preservation and release identity/alignment checks
+are required. Phone acceptance and remaining bugs are open. Earlier pipelines
+below are historical.
+
 Current **1115** reproduction:
 [war_themes/references/BUILD.md](project/work/source/war_themes/references/BUILD.md).
 Use exact signed 1114/native inputs and the retained signer. This restores four

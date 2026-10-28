@@ -1,0 +1,1078 @@
+{
+  "ListID": "genesis_v18_nations18",
+  "Title": "Choose My Nation",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Argentina",
+      "Icon": "flag-ar",
+      "SecondLine": "",
+      "TileID": "v18_nations18_0",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_0",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Brazil",
+      "Icon": "flag-br",
+      "SecondLine": "",
+      "TileID": "v18_nations18_1",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_1",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "France",
+      "Icon": "flag-fr",
+      "SecondLine": "",
+      "TileID": "v18_nations18_2",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_2",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Germany",
+      "Icon": "flag-de",
+      "SecondLine": "",
+      "TileID": "v18_nations18_3",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_3",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Spain",
+      "Icon": "flag-es",
+      "SecondLine": "",
+      "TileID": "v18_nations18_4",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_4",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Portugal",
+      "Icon": "flag-pt",
+      "SecondLine": "",
+      "TileID": "v18_nations18_5",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_5",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Italy",
+      "Icon": "flag-it",
+      "SecondLine": "",
+      "TileID": "v18_nations18_6",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_6",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Netherlands",
+      "Icon": "flag-nl",
+      "SecondLine": "",
+      "TileID": "v18_nations18_7",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_7",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Belgium",
+      "Icon": "flag-be",
+      "SecondLine": "",
+      "TileID": "v18_nations18_8",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_8",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Croatia",
+      "Icon": "flag-hr",
+      "SecondLine": "",
+      "TileID": "v18_nations18_9",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_9",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "United Kingdom",
+      "Icon": "flag-gb",
+      "SecondLine": "",
+      "TileID": "v18_nations18_10",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_10",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "United States",
+      "Icon": "flag-us",
+      "SecondLine": "",
+      "TileID": "v18_nations18_11",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_11",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Mexico",
+      "Icon": "flag-mx",
+      "SecondLine": "",
+      "TileID": "v18_nations18_12",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_12",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Canada",
+      "Icon": "flag-ca",
+      "SecondLine": "",
+      "TileID": "v18_nations18_13",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_13",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Uruguay",
+      "Icon": "flag-uy",
+      "SecondLine": "",
+      "TileID": "v18_nations18_14",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_14",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Colombia",
+      "Icon": "flag-co",
+      "SecondLine": "",
+      "TileID": "v18_nations18_15",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_15",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Chile",
+      "Icon": "flag-cl",
+      "SecondLine": "",
+      "TileID": "v18_nations18_16",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_16",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Ecuador",
+      "Icon": "flag-ec",
+      "SecondLine": "",
+      "TileID": "v18_nations18_17",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_17",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Paraguay",
+      "Icon": "flag-py",
+      "SecondLine": "",
+      "TileID": "v18_nations18_18",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_18",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Peru",
+      "Icon": "flag-pe",
+      "SecondLine": "",
+      "TileID": "v18_nations18_19",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_19",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Japan",
+      "Icon": "flag-jp",
+      "SecondLine": "",
+      "TileID": "v18_nations18_20",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_20",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "South Korea",
+      "Icon": "flag-kr",
+      "SecondLine": "",
+      "TileID": "v18_nations18_21",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_21",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Australia",
+      "Icon": "flag-au",
+      "SecondLine": "",
+      "TileID": "v18_nations18_22",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_22",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "New Zealand",
+      "Icon": "flag-nz",
+      "SecondLine": "",
+      "TileID": "v18_nations18_23",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_23",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Morocco",
+      "Icon": "flag-ma",
+      "SecondLine": "",
+      "TileID": "v18_nations18_24",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_24",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Nigeria",
+      "Icon": "flag-ng",
+      "SecondLine": "",
+      "TileID": "v18_nations18_25",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_25",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "South Africa",
+      "Icon": "flag-za",
+      "SecondLine": "",
+      "TileID": "v18_nations18_26",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_26",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Egypt",
+      "Icon": "flag-eg",
+      "SecondLine": "",
+      "TileID": "v18_nations18_27",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_27",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Tunisia",
+      "Icon": "flag-tn",
+      "SecondLine": "",
+      "TileID": "v18_nations18_28",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_28",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Algeria",
+      "Icon": "flag-dz",
+      "SecondLine": "",
+      "TileID": "v18_nations18_29",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_29",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Saudi Arabia",
+      "Icon": "flag-sa",
+      "SecondLine": "",
+      "TileID": "v18_nations18_30",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_30",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Qatar",
+      "Icon": "flag-qa",
+      "SecondLine": "",
+      "TileID": "v18_nations18_31",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_31",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Iran",
+      "Icon": "flag-ir",
+      "SecondLine": "",
+      "TileID": "v18_nations18_32",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_32",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Turkey",
+      "Icon": "flag-tr",
+      "SecondLine": "",
+      "TileID": "v18_nations18_33",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_33",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Switzerland",
+      "Icon": "flag-ch",
+      "SecondLine": "",
+      "TileID": "v18_nations18_34",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_34",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Denmark",
+      "Icon": "flag-dk",
+      "SecondLine": "",
+      "TileID": "v18_nations18_35",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_35",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Sweden",
+      "Icon": "flag-se",
+      "SecondLine": "",
+      "TileID": "v18_nations18_36",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_36",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Norway",
+      "Icon": "flag-no",
+      "SecondLine": "",
+      "TileID": "v18_nations18_37",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_37",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Poland",
+      "Icon": "flag-pl",
+      "SecondLine": "",
+      "TileID": "v18_nations18_38",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_38",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Serbia",
+      "Icon": "flag-rs",
+      "SecondLine": "",
+      "TileID": "v18_nations18_39",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_39",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Romania",
+      "Icon": "flag-ro",
+      "SecondLine": "",
+      "TileID": "v18_nations18_40",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_40",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Ukraine",
+      "Icon": "flag-ua",
+      "SecondLine": "",
+      "TileID": "v18_nations18_41",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_41",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Austria",
+      "Icon": "flag-at",
+      "SecondLine": "",
+      "TileID": "v18_nations18_42",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_42",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Greece",
+      "Icon": "flag-gr",
+      "SecondLine": "",
+      "TileID": "v18_nations18_43",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_43",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Ireland",
+      "Icon": "flag-ie",
+      "SecondLine": "",
+      "TileID": "v18_nations18_44",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_44",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "China",
+      "Icon": "flag-cn",
+      "SecondLine": "",
+      "TileID": "v18_nations18_45",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_45",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "India",
+      "Icon": "flag-in",
+      "SecondLine": "",
+      "TileID": "v18_nations18_46",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_46",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Indonesia",
+      "Icon": "flag-id",
+      "SecondLine": "",
+      "TileID": "v18_nations18_47",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_47",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Pakistan",
+      "Icon": "flag-pk",
+      "SecondLine": "",
+      "TileID": "v18_nations18_48",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_48",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Costa Rica",
+      "Icon": "flag-cr",
+      "SecondLine": "",
+      "TileID": "v18_nations18_49",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_49",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Panama",
+      "Icon": "flag-pa",
+      "SecondLine": "",
+      "TileID": "v18_nations18_50",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_50",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Jamaica",
+      "Icon": "flag-jm",
+      "SecondLine": "",
+      "TileID": "v18_nations18_51",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_51",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Afghanistan",
+      "Icon": "flag-af",
+      "SecondLine": "",
+      "TileID": "v18_nations18_52",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_52",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Andorra",
+      "Icon": "flag-ad",
+      "SecondLine": "",
+      "TileID": "v18_nations18_53",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_53",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Angola",
+      "Icon": "flag-ao",
+      "SecondLine": "",
+      "TileID": "v18_nations18_54",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_54",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Aruba",
+      "Icon": "flag-aw",
+      "SecondLine": "",
+      "TileID": "v18_nations18_55",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_55",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Bahamas",
+      "Icon": "flag-bs",
+      "SecondLine": "",
+      "TileID": "v18_nations18_56",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_56",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Bangladesh",
+      "Icon": "flag-bd",
+      "SecondLine": "",
+      "TileID": "v18_nations18_57",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_57",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Belize",
+      "Icon": "flag-bz",
+      "SecondLine": "",
+      "TileID": "v18_nations18_58",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_58",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Bolivia",
+      "Icon": "flag-bo",
+      "SecondLine": "",
+      "TileID": "v18_nations18_59",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_59",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Cuba",
+      "Icon": "flag-cu",
+      "SecondLine": "",
+      "TileID": "v18_nations18_60",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_60",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Czech Republic",
+      "Icon": "flag-cz",
+      "SecondLine": "",
+      "TileID": "v18_nations18_61",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_61",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Djibouti",
+      "Icon": "flag-dj",
+      "SecondLine": "",
+      "TileID": "v18_nations18_62",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "scenario.activitiesV18.nation18_62",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

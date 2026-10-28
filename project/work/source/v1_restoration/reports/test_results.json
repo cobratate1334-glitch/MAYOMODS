@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "tests_run": 7,
+  "failures": 0,
+  "errors": 0,
+  "native_sha256": "b1e7e199ddfff3fc4de83e0c5da4dd888b661424cfac606453e17d32a663fac1",
+  "coverage": [
+    "V1 menu bindings and typed routes",
+    "original card/profile art and unchanged gameplay columns",
+    "full seven-match group and knockout tournament",
+    "extra time and penalties",
+    "conceded-goal original feedback API",
+    "four-year schedule and region restrictions",
+    "idempotent player refresh"
+  ],
+  "managed_APIs_are_test_doubles": true,
+  "phone_tested": false,
+  "Unity_rendering_tested": false
+}

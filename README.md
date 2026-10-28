@@ -1,5 +1,21 @@
 # MayoMods — Codex handover
 
+**1117 V1 World Cup APK:** <https://gofile.io/d/AraJzHAf> (459,747,366 bytes).
+SHA256: `2047b28c63db0a31f462c5e4d8c9d0b6760917f83272a27c6644b2e0020a2b1b`.
+
+Current candidate **1117** restores original V1 competition logos, card images
+and player refresh commands in the existing World Cup. The complete 2.42 GB
+transfer is downloaded and all 1,960 entries extracted/CRC matched. All user
+instruction notes and unique asset READMEs are read; detailed coverage and every
+remaining request are in [the report checklist](project/work/source/v1_restoration/references/REPORT_CHECKLIST.md).
+Source and verification: [v1_restoration](project/work/source/v1_restoration/README.md).
+Seven focused checks pass, including a full seven-match World Cup. Native code,
+DEX/JNI, launcher, 1113 menus and 1115 war themes remain identical to 1116.
+Package/signer/save IDs remain. Phone acceptance and other report bugs remain
+open; this is not a claim that every requested feature is finished.
+
+Earlier candidate blocks below are historical.
+
 **1115 APK:** <https://gofile.io/d/UzPQ5lUJ> (459,724,504 bytes).
 SHA256: `5f760cc31653060139f97614f90fb1f8222a2a6b3df94da6c373155ab5d1b20b`.
 

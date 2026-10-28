@@ -1,5 +1,14 @@
 # Starting task for Codex
 
+Current **1117**: read AGENTS and v1_restoration/README, REPORT_CHECKLIST,
+FINDINGS and BUILD. The complete transfer is downloaded; all instruction notes
+are read. The checklist explicitly records inaccessible/reference-reading limits
+and unfinished work. Actual V1 comparison restores six menu logos, thirty card
+icon bindings and twelve player refresh commands inside the existing World Cup.
+Native, DEX/JNI, war themes, launcher and 1113 fixes stay identical. Focused tests
+and signed APK integrity pass; phone gameplay remains open. Continue the recorded
+bug priority before deferred suggestions. Earlier blocks below are historical.
+
 Current **1115**: read AGENTS and war_themes/README, REQUESTS and BUILD.
 Latest scope is theme-only. Restore the exact existing illustrated atlas panels,
 original phase colours/tint and ordinary-background restoration. This supersedes

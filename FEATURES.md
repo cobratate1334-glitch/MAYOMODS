@@ -1,5 +1,13 @@
 # Requested gameplay systems and design requirements
 
+Current **1117** scope follows the full report: World Cup and existing bugs
+before suggestions. The transfer is fully downloaded; all instruction notes are
+read. Direct V1 recovery uses its original competition/card icons and player
+refresh commands in existing menus. New Mod Creator, 1800s/Yakuza and wider
+expansions remain after bug work. Reading a request does not mean implementation.
+The full checklist is in v1_restoration/references/REPORT_CHECKLIST.md. Historical
+theme-only scope below is superseded; the four restored war themes remain.
+
 Current **1115** scope is only the four original illustrated war/post-war
 journal themes and matching colours requested in the latest screenshots. No
 other feature work belongs in this update. Gameplay TextAssets and earlier fixes

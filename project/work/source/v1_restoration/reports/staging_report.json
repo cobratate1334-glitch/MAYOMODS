@@ -1,0 +1,30 @@
+{
+  "staged": true,
+  "signed": false,
+  "base_sha256": "ed7c91880ce3c0260f60de26bc00caf2df81d516dc837c0063f3fb52cf2a919f",
+  "apk_sha256": "07c0216250b10ddaf3aae7b8b4352bc4cf00cc17a6e641e28a6a0255b0bfa764",
+  "native_sha256": "b1e7e199ddfff3fc4de83e0c5da4dd888b661424cfac606453e17d32a663fac1",
+  "dex_sha256": "1f6e55b2f1a40039b1ba3083753a18ad69f9e2d22067420719afe6222ee638dd",
+  "modified_entries": [
+    "AndroidManifest.xml",
+    "assets/bin/Data/datapack.unity3d",
+    "assets/mayomods54/native_symbols.json"
+  ],
+  "changed_text_assets": [
+    "genesis_activities_v12",
+    "genesis_activities_v18",
+    "genesis_v18_stars18",
+    "genesis_v9_v12_soccer"
+  ],
+  "text_asset_sha256": {
+    "genesis_v9_v12_soccer": "88ab1eebfff3408fb89996d85e02058f92d6f8d4e7f02a545cc97ff1777c39eb",
+    "genesis_v18_stars18": "a56ea834724e41c5c609fbf9b98e8d1b67291d4f638e1984d273e829323cba60",
+    "genesis_activities_v12": "5d8e781af08650d76b4131f060ac4b3fe466f09da1f8db83e1427e4e86ce3209",
+    "genesis_activities_v18": "b5fafd00f00efe8211ac7677be9ca4a7395bbb2fb811239137faf02e4d1ccdb9"
+  },
+  "unchanged_unrelated_unity_objects": 41449,
+  "all_other_APK_entries_identical": true,
+  "all_artwork_and_resource_manager_identical": true,
+  "version_code": 1117,
+  "phone_tested": false
+}

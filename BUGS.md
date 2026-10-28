@@ -1,5 +1,15 @@
 # Known bugs and verification gaps
 
+**1117 V1 recovery — 28 October 2026.** The complete owner archive is now
+downloaded and inventoried; all instruction notes and asset READMEs are read.
+The actual V1 APK identifies the known v32 native. Existing competition logos
+and player/card images were replaced by generic icons; twelve profiles lost
+their state refresh. Focused content restoration repairs those bindings while
+preserving all native/DEX/art/menu fixes. Seven checks include a complete saved
+World Cup, extra time and penalties. This does not settle phone acceptance or
+the full bug backlog. See v1_restoration/references/REPORT_CHECKLIST.md for every
+main-note item and explicit reading/implementation limits.
+
 **1116 repair candidate — 28 October 2026.** The new owner report restores bug
 priority. Null occupations prevented induction; original sports wrappers used
 the wrong scenario sheet; committed year mode persisted; New Life root controls

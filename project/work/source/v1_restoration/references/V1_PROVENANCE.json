@@ -1,0 +1,149 @@
+{
+  "source_apk_sha256": "36419f84aa5da75efbe7c3eddf4a2c6d6891a0257a04a38a49dbc2659ef653c5",
+  "native_sha256": "1ca76ea9c4b7e187a9845ff2fb2361544bbcccf1e681ebe59b89fa2a87d6060f",
+  "native_matches_known_source": "native_v32",
+  "text_assets": {
+    "genesis_v9_v12_soccer": "fddd26dfcde949ed124b11c2e249bdf3696d20a9a364b5042c73b1a9e926d7af",
+    "genesis_v18_nations18": "f625122c2053b71d21bff79135098750e1e4c2519aa664f7b6ba1d433dee9a09",
+    "genesis_v18_stars18": "a56ea834724e41c5c609fbf9b98e8d1b67291d4f638e1984d273e829323cba60"
+  },
+  "sprite_comparison": [
+    {
+      "resource": "emoji/normal/a16_emoji-v12-worldcup",
+      "original_pixels_sha256": "fa1918384536cefbd7fa069f931788e80748e6392c774c5f8b96490edc2ead18",
+      "current_pixels_identical": true,
+      "original_canvas": [
+        128,
+        128
+      ]
+    },
+    {
+      "resource": "emoji/normal/a16_emoji-v18-bellingham",
+      "original_pixels_sha256": "3264a549ce74e2737172492220daebf53390dc313a62965001633e058051e5fb",
+      "current_pixels_identical": true,
+      "original_canvas": [
+        128,
+        128
+      ]
+    },
+    {
+      "resource": "emoji/normal/a16_emoji-v18-champions",
+      "original_pixels_sha256": "e849e6180a6b84251a05bd02b61760a53f7ee045e8be5bb71b195a5d74816f7b",
+      "current_pixels_identical": true,
+      "original_canvas": [
+        128,
+        128
+      ]
+    },
+    {
+      "resource": "emoji/normal/a16_emoji-v18-conference",
+      "original_pixels_sha256": "e08acd131e8fb4859fa69b433f50c5bda3c26828e5431285703c7a388153e3a0",
+      "current_pixels_identical": true,
+      "original_canvas": [
+        128,
+        128
+      ]
+    },
+    {
+      "resource": "emoji/normal/a16_emoji-v18-europa",
+      "original_pixels_sha256": "70dcbef525b376f79d4947608d845ae6b0f22b5b328dc8623fb297e0b691d19f",
+      "current_pixels_identical": true,
+      "original_canvas": [
+        128,
+        128
+      ]
+    },
+    {
+      "resource": "emoji/normal/a16_emoji-v18-haaland",
+      "original_pixels_sha256": "6473e13902d5e8583a2ebc60743004bd2d27b549b81f87cd4a4f6f91f8813cff",
+      "current_pixels_identical": true,
+      "original_canvas": [
+        128,
+        128
+      ]
+    },
+    {
+      "resource": "emoji/normal/a16_emoji-v18-vinicius",
+      "original_pixels_sha256": "a0c693ca5e525227fc2082aea07b09767366af51c492077f837193a802b67e39",
+      "current_pixels_identical": true,
+      "original_canvas": [
+        128,
+        128
+      ]
+    },
+    {
+      "resource": "emoji/normal/a16_emoji-v19-copa",
+      "original_pixels_sha256": "929ecc646a5adb2511c99acc8cb2aa3041d611088f2c3a214b63664b7fd9ffd6",
+      "current_pixels_identical": true,
+      "original_canvas": [
+        128,
+        128
+      ]
+    },
+    {
+      "resource": "emoji/normal/a16_emoji-v19-euros",
+      "original_pixels_sha256": "1f23cd69f1ee051ee7848e5ea6c25c6bc8b4b91689912a1802caf7ca08956b3c",
+      "current_pixels_identical": true,
+      "original_canvas": [
+        128,
+        128
+      ]
+    },
+    {
+      "resource": "emoji/normal/a16_emoji-v19-lingard",
+      "original_pixels_sha256": "ce82bc15690e17e6e9d6567c1c90efacd3af5cfd4af394a36711aa552eab7dd5",
+      "current_pixels_identical": true,
+      "original_canvas": [
+        128,
+        128
+      ]
+    },
+    {
+      "resource": "emoji/normal/a16_emoji-v19-mbappe",
+      "original_pixels_sha256": "49134990073512ffe4ec0b2643c67fc38f517f387e6fba8125de4adf9a340285",
+      "current_pixels_identical": true,
+      "original_canvas": [
+        128,
+        128
+      ]
+    },
+    {
+      "resource": "emoji/normal/a16_emoji-v19-messi",
+      "original_pixels_sha256": "f376883f5c3d0bcb14bdcd1910e4c5978ad33d624c0939ffb6cfd17e11ce406e",
+      "current_pixels_identical": true,
+      "original_canvas": [
+        128,
+        128
+      ]
+    },
+    {
+      "resource": "emoji/normal/a16_emoji-v19-neymar",
+      "original_pixels_sha256": "6a4738b86fa9a1c02e4933dfb1da1c7689233974a1a920d89cda0c130bfaa93d",
+      "current_pixels_identical": true,
+      "original_canvas": [
+        128,
+        128
+      ]
+    },
+    {
+      "resource": "emoji/normal/a16_emoji-v19-ronaldo",
+      "original_pixels_sha256": "9a3e90e885f52b772f5b94272bf96b85ba06678550fd7e4676482a9bf5fb0cbc",
+      "current_pixels_identical": true,
+      "original_canvas": [
+        128,
+        128
+      ]
+    },
+    {
+      "resource": "emoji/normal/a16_emoji-v19-yamal",
+      "original_pixels_sha256": "4ed8f84213e6d7b2bc1817b730127504b770cf25ce483b9cbba1025a35b8af70",
+      "current_pixels_identical": true,
+      "original_canvas": [
+        128,
+        128
+      ]
+    }
+  ],
+  "phone_acceptance": false,
+  "scenario_icons_sha256": "7f20eab9b3bc3f92a00d177bef4ad82410f112dffc587559b94b25284572ffdb"
+}

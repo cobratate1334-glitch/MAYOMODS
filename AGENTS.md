@@ -1,5 +1,19 @@
 # Instructions for Codex — MayoMods
 
+Active candidate is **1117**, `project/work/source/v1_restoration`. The owner
+requires complete archive review and direct V1 World Cup recovery before new
+suggestions. The full 2.42 GB ZIP is downloaded and CRC checked. Read its README,
+REPORT_CHECKLIST and FINDINGS; distinguish read instructions from unimplemented
+backlog, historical source and anecdotal external references. The actual supplied
+V1 native matches v32. Restore existing logos/card icons/player refresh bindings;
+keep current typed routes, extra nations and 1113 transition fixes. 1117 changes
+four TextAssets, version and diagnostic metadata only; native/DEX/art/launcher,
+war themes, signer/package and save IDs remain byte-identical to 1116. Seven
+focused cases are not phone/ART/GPU/save certification. Appearance, driving-test,
+missing-art/performance and broader requests remain open. Source publication and
+APK-only upload remain authorized. Keep raw evidence, keys and host tokens out
+of Git. Earlier active blocks below are historical.
+
 Active candidate is **1116**, `project/work/source/v2_repair`. The latest owner
 archive widens scope beyond the old theme-only request and prioritizes bug
 repairs and the existing World Cup before suggestions. Read README and

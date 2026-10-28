@@ -1,0 +1,211 @@
+{
+  "ListID": "genesis_v18_stars18",
+  "Title": "International Players",
+  "PresentationMode": "Normal",
+  "Items": [
+    {
+      "Title": "Lionel Messi",
+      "Icon": "v19-messi",
+      "SecondLine": "Argentina",
+      "TileID": "v18_stars18_0",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeStarSync:=1>>scenario.activitiesV18.star18_0",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Cristiano Ronaldo",
+      "Icon": "v19-ronaldo",
+      "SecondLine": "Portugal",
+      "TileID": "v18_stars18_1",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeStarSync:=1>>scenario.activitiesV18.star18_1",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Kylian Mbapp\u00e9",
+      "Icon": "v19-mbappe",
+      "SecondLine": "France",
+      "TileID": "v18_stars18_2",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeStarSync:=1>>scenario.activitiesV18.star18_2",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Jude Bellingham",
+      "Icon": "v18-bellingham",
+      "SecondLine": "England",
+      "TileID": "v18_stars18_3",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeStarSync:=1>>scenario.activitiesV18.star18_3",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Harry Kane",
+      "Icon": "trophy",
+      "SecondLine": "England",
+      "TileID": "v18_stars18_4",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeStarSync:=1>>scenario.activitiesV18.star18_4",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Mohamed Salah",
+      "Icon": "trophy",
+      "SecondLine": "Egypt",
+      "TileID": "v18_stars18_5",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeStarSync:=1>>scenario.activitiesV18.star18_5",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Kevin De Bruyne",
+      "Icon": "trophy",
+      "SecondLine": "Belgium",
+      "TileID": "v18_stars18_6",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeStarSync:=1>>scenario.activitiesV18.star18_6",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Vin\u00edcius J\u00fanior",
+      "Icon": "v18-vinicius",
+      "SecondLine": "Brazil",
+      "TileID": "v18_stars18_7",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeStarSync:=1>>scenario.activitiesV18.star18_7",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Neymar",
+      "Icon": "v19-neymar",
+      "SecondLine": "Brazil",
+      "TileID": "v18_stars18_8",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeStarSync:=1>>scenario.activitiesV18.star18_8",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Erling Haaland",
+      "Icon": "v18-haaland",
+      "SecondLine": "Norway",
+      "TileID": "v18_stars18_9",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeStarSync:=1>>scenario.activitiesV18.star18_9",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Lamine Yamal",
+      "Icon": "v19-yamal",
+      "SecondLine": "Spain",
+      "TileID": "v18_stars18_10",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeStarSync:=1>>scenario.activitiesV18.star18_10",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Jesse Lingard",
+      "Icon": "v19-lingard",
+      "SecondLine": "England",
+      "TileID": "v18_stars18_11",
+      "ActionList": [
+        {
+          "Index": 0,
+          "ConditionList": [
+            {
+              "ScenarioID": "BP_GFC_MODIFY_PROPERTY=soccer_v12:NativeStarSync:=1>>scenario.activitiesV18.star18_11",
+              "ScenarioFile": "genesis_activities_v18"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
