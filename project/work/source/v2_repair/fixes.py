@@ -3,6 +3,16 @@ from native_hooks import h
 
 
 def hooks(b):
+    # The shipped Unity module's 3-argument LoadImage takes ReadOnlySpan<byte>.
+    # Its 2-argument overload accepts byte[] and constructs the span itself.
+    # Passing a byte[] object as a boxed span gives the decoder invalid data.
+    row=b.resolved('immersion1109_upload_owned_image');s=row['source']
+    marker='mov w2,#3\nbl 0x223dff0';assert s.count(marker)==1
+    s=s.replace(marker,'mov w2,#2\nbl 0x223dff0',1)
+    marker='cbnz x9,finish\nstr wzr,[x28,#164]\nb finish';assert s.count(marker)==1
+    s=s.replace(marker,'cbnz x9,image_decode_failed1116\ncbz x0,image_decode_failed1116\nldrb w9,[x0,#16]\ncbz w9,image_decode_failed1116\nstr wzr,[x28,#164]\nb finish\nimage_decode_failed1116:\nstr wzr,[x28,#164]\n'+b.ctx('life_rework')+b.text('MImage1109','')+'b finish',1)
+    b.redirect(row['name'],s)
+
     # An unemployed Life can legitimately have a NULL occupation. The old
     # generic loader treated that as failure and never reached StartMilitary.
     row=b.resolved('military1108_construct_native_service_once');s=row['source']

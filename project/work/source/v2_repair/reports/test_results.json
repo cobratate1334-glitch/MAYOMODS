@@ -1,27 +1,42 @@
 {
-  "native_tests": {
-    "count": 4,
-    "result": "passed",
-    "device_tested": false
+  "passed": true,
+  "binary_sha256": "b1e7e199ddfff3fc4de83e0c5da4dd888b661424cfac606453e17d32a663fac1",
+  "native_reproduced_identically": true,
+  "test_layers": {
+    "native_final_tests": {
+      "count": 7,
+      "sha256": "f22f7257f3a8462c1b1e5ad6de4f3d983c9ed0a68b1ca9b7a45ad10fd6843d21"
+    },
+    "war_regression_tests": {
+      "count": 3,
+      "sha256": "c93982260c3a6d3324a60ac6427fe6aafa2cf48e8f123720d897b15dd0992053"
+    },
+    "menu_tests": {
+      "count": 13,
+      "sha256": "ee482cd17353db3b1a46ccb7cec03e31fd4d640c35123152fe5685f9b8dc390b"
+    },
+    "launcher_final_test": {
+      "count": 6,
+      "sha256": "d1a418ee92de5a43ab5ea211ded4fbc96909fc5f411e1f79dd2b71d3fda1c5ae"
+    },
+    "sports_route_checks": {
+      "count": 2,
+      "scenario_targets": 23
+    }
   },
-  "scroll_wiring": {
-    "count": 1,
-    "result": "passed",
-    "real_touch_tested": false
+  "dex": {
+    "passed": true,
+    "binary_sha256": "1f6e55b2f1a40039b1ba3083753a18ad69f9e2d22067420719afe6222ee638dd",
+    "preserved_classes": 252,
+    "changed_families": [
+      "LauncherIcon",
+      "StartupActivity"
+    ],
+    "smali_roundtrip": true,
+    "min_api": 25,
+    "ART_tested": false
   },
-  "menu_transition_tests": {
-    "count": 13,
-    "result": "passed"
-  },
-  "launcher_robolectric": {
-    "count": 5,
-    "result": "passed",
-    "device_tested": false
-  },
-  "sports_route_asset_checks": {
-    "count": 2,
-    "scenario_targets_checked": 23,
-    "result": "passed",
-    "gameplay_tested": false
-  }
+  "ART_tested": false,
+  "phone_tested": false,
+  "Unity_rendering_tested": false
 }

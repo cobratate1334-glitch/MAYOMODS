@@ -1,5 +1,21 @@
 # MayoMods project handover
 
+**1116 repair APK:** <https://gofile.io/d/J0CaOuM0> (459,745,865 bytes).
+SHA256: `ed7c91880ce3c0260f60de26bc00caf2df81d516dc837c0063f3fb52cf2a919f`.
+
+Current repair candidate is **1116**. See
+[v2_repair](project/work/source/v2_repair/README.md) and its findings for verified
+changes and open work. The new report supersedes 1115's theme-only task; its four
+illustrated backgrounds remain identical. This release contains the reference
+launcher with Discord/PayPal and repairs for sports routes, induction, year
+selection, scroll wiring, dark mode and the live image loader. Thirty-one
+automated cases pass. No phone/ART/GPU/real-save certification is claimed.
+Appearance resets, driving-test freeze, missing art and the broader backlog
+remain open. Bug repair precedes new suggestions. Raw reports are private under
+/workspace/build_work/v2-review; no private evidence or keys are in Git.
+
+Earlier candidate blocks below are historical.
+
 **1115 APK:** <https://gofile.io/d/UzPQ5lUJ> (459,724,504 bytes).
 SHA256: `5f760cc31653060139f97614f90fb1f8222a2a6b3df94da6c373155ab5d1b20b`.
 

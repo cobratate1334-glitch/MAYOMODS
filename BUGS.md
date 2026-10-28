@@ -1,5 +1,15 @@
 # Known bugs and verification gaps
 
+**1116 repair candidate — 28 October 2026.** The new owner report restores bug
+priority. Null occupations prevented induction; original sports wrappers used
+the wrong scenario sheet; committed year mode persisted; New Life root controls
+lacked the stock drag parent; war palettes ignored native dark mode. Live image
+upload selected a span overload with byte-array arguments and ignored decode
+results. These candidate repairs have native/API checks. Launcher and chess PNG
+render under Robolectric. This does not settle phone/GPU/ART acceptance. Profile
+reversion, driving-test freeze, missing art, era technology, social comments and
+performance remain OPEN. See v2_repair/references/FINDINGS.md.
+
 **1115 theme clarification — 27 October 2026 (Adelaide).** The owner wants
 the exact illustrated journal themes, not 1114's flat Noir-only restoration.
 Restore original trench/meadow/city/station atlas panels and matching four phase

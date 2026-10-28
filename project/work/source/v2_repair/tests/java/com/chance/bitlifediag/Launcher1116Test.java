@@ -27,6 +27,17 @@ import static org.junit.Assert.*;
 @Config(sdk=33,manifest=Config.NONE,qualifiers="w360dp-h800dp-mdpi")
 @GraphicsMode(GraphicsMode.Mode.NATIVE)
 public class Launcher1116Test {
+    @Test public void chessPngContainsBoardAndUpdatesAfterMove() throws Exception {
+        ChessGame game=new ChessGame("","test","Practice opponent");
+        byte[] before=NativeMilitaryRenderer.board(game);
+        Bitmap board=android.graphics.BitmapFactory.decodeByteArray(before,0,before.length);
+        assertEquals(512,board.getWidth());assertEquals(512,board.getHeight());
+        assertEquals(0xffe9ddbf,board.getPixel(34,50));assertEquals(0xff73917c,board.getPixel(90,50));
+        game.move(new com.github.bhlangonijr.chesslib.move.Move("e2e4",game.board.getSideToMove()));
+        assertFalse(java.util.Arrays.equals(before,NativeMilitaryRenderer.board(game)));
+        String output=System.getProperty("chess.screenshot");
+        if(output!=null)try(FileOutputStream out=new FileOutputStream(output)){out.write(before);}
+    }
     private View find(View v,String description) {
         if(description.equals(String.valueOf(v.getContentDescription())))return v;
         if(v instanceof ViewGroup)for(int i=0;i<((ViewGroup)v).getChildCount();i++){View hit=find(((ViewGroup)v).getChildAt(i),description);if(hit!=null)return hit;}

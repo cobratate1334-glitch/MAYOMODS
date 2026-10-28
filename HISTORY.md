@@ -1,5 +1,19 @@
 # Important history and decisions
 
+## Candidate 1116 — launcher and report-driven repairs
+
+**1116 repair APK:** <https://gofile.io/d/J0CaOuM0> (459,745,865 bytes).
+SHA256: `ed7c91880ce3c0260f60de26bc00caf2df81d516dc837c0063f3fb52cf2a919f`.
+
+The owner provides a new full report and requests the reference launcher with
+Discord and PayPal. Restore original typed sports entry routes rather than
+adding another competition mode. Correct military induction with no occupation,
+repeat year selection, New Life scroll wiring and native dark mode. Correct the
+Unity byte-array image-loader overload and check decode results. Keep every
+1113 transition and all 1115 war artwork. Thirty-one automated cases pass across
+native/API, original method ABI, menu/theme, asset route and Robolectric layers.
+Full phone gameplay acceptance and the remaining report backlog are open.
+
 ## Candidate 1115 — exact illustrated theme restoration
 
 **1115 APK:** <https://gofile.io/d/UzPQ5lUJ> (459,724,504 bytes).

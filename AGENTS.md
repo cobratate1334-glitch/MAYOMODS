@@ -1,5 +1,19 @@
 # Instructions for Codex — MayoMods
 
+Active candidate is **1116**, `project/work/source/v2_repair`. The latest owner
+archive widens scope beyond the old theme-only request and prioritizes bug
+repairs and the existing World Cup before suggestions. Read README and
+references/FINDINGS.md. Preserve 1113 transitions and 1115 illustrated war themes.
+The Unity ImageConversion 3-parameter LoadImage is the span overload; use the
+2-parameter byte[] overload with runtime_invoke, a managed exception slot and
+boxed Boolean validation. Only native1109/live is mutable. Null occupations must
+reach original StartMilitary. Keep package/signer/save IDs, original sports
+records, existing UI/JNI and all unrelated classes/art. Tests are not phone/GPU/
+ART/save certification. Appearance, driving freeze and missing-art acceptance
+remain open. Source publication and APK-only upload remain authorized. No keys,
+raw diagnostics, recordings, private transfer replies or host tokens in Git.
+Earlier active blocks below are historical.
+
 Active candidate is **1115**, `project/work/source/war_themes`.
 The owner clarified that the illustrated journal backgrounds and matching
 before/after-war colours in their screenshots are the only requested change.

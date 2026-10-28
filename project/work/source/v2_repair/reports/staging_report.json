@@ -1,0 +1,28 @@
+{
+  "staged": true,
+  "signed": false,
+  "base_sha256": "5f760cc31653060139f97614f90fb1f8222a2a6b3df94da6c373155ab5d1b20b",
+  "apk_sha256": "b2b44d24975e631b411410a5f48e1bd77e3ac36408847512ecab74c2b8d6d9f5",
+  "native_sha256": "b1e7e199ddfff3fc4de83e0c5da4dd888b661424cfac606453e17d32a663fac1",
+  "dex_sha256": "1f6e55b2f1a40039b1ba3083753a18ad69f9e2d22067420719afe6222ee638dd",
+  "modified_entries": [
+    "AndroidManifest.xml",
+    "assets/bin/Data/datapack.unity3d",
+    "assets/mayomods54/native_symbols.json",
+    "classes13.dex",
+    "lib/arm64-v8a/libil2cpp.so"
+  ],
+  "changed_text_assets": [
+    "genesis_v18_basket_build20",
+    "genesis_v18_pro_sports18",
+    "genesis_v18_school_sports18",
+    "genesis_v18_seasons_v18",
+    "genesis_v18_start_season",
+    "genesis_v9_v12_soccer"
+  ],
+  "unchanged_unrelated_unity_objects": 41447,
+  "all_other_APK_entries_identical": true,
+  "all_artwork_and_resource_manager_identical": true,
+  "version_code": 1116,
+  "phone_tested": false
+}

@@ -14,6 +14,14 @@ class Machine(Previous):
   for state in self.d['states'].values():self.map(state['va']+bias,state['size'])
  def mock(self,u,pc,size,data):
   va=pc-self.bias
+  if getattr(self,'upload_mode',False) and va==0x223dff0:
+   self.image_arity=u.reg_read(X[2]);self.finish_api(u.reg_read(X[30]),self.png_method);return
+  if getattr(self,'upload_mode',False) and va==0x223e8b0:
+   self.upload_mode=False;args=u.reg_read(X[2]);arr=self.rq(args+8)
+   self.loaded_images.append((self.rq(args),bytes(u.mem_read(arr+32,self.rq(arr+24)))))
+   result=self.alloc();self.w(result+16,int(self.image_arity==2 and not getattr(self,'decode_false',False)))
+   if self.upload_exception:self.q(u.reg_read(X[3]),123)
+   self.finish_api(u.reg_read(X[30]),result);return
   if va in [0x30223cc,0x3024808]:self.finish_api(u.reg_read(X[30]),0);return
   return super().mock(u,pc,size,data)
  def induct(self):
@@ -42,6 +50,25 @@ class Tests(unittest.TestCase):
   m.root(root)
   self.assertGreater(len(m.buttons),0)
   for button,title in m.buttons:self.assertEqual(m.rq(button+0x90),scroll,title)
+ def test_live_image_uses_array_overload_and_checks_decode(self):
+  from native_immersion.protocol import BOX
+  for bias in [0,0x1000000000]:
+   m=Machine(self.raw,bias);m.sprites['native1109/live']=m.alloc();m.live_texture=m.alloc();payload=b'bounded PNG payload'
+   m.u.mem_write(m.box+0xe0000-BOX,payload);m.w(m.box+160,7);m.w(m.box+8,7)
+   for false,exception in [(False,False),(True,False),(False,True)]:
+    m.decode_false=false;m.upload_exception=exception;m.w(m.box+164,len(payload));m.props['life_rework']['MImage1109']='native1109/live'
+    m.routine42('immersion1109_upload_owned_image')
+    self.assertEqual(m.image_arity,2);self.assertEqual(m.loaded_images[-1],(m.live_texture,payload))
+    self.assertEqual(m.props['life_rework']['MImage1109'],'' if false or exception else 'native1109/live')
+    self.assertEqual(m.rw(m.box+164),0)
+ def test_shipped_array_loader_constructs_real_span(self):
+  # Execute Unity's own byte[] overload up to its span overload tail call.
+  # This is an independent ABI check, not the runtime_invoke test double.
+  for bias in [0,0x1000000000]:
+   m=Machine(self.raw,bias);va=0x55a09e4;m.map(va+bias,0x60);m.u.mem_write(va+bias,m.load(va,0x60));m.map(0x60d1000+bias,0x1000);m.u.mem_write(0x60d1b83+bias,b'\1')
+   arr=m.alloc(512);m.q(arr+24,129);texture=m.alloc()
+   m.execute42(va,{0:texture,1:arr},end=0x55a0868)
+   self.assertEqual(m.u.reg_read(X[0]),texture);self.assertEqual(m.u.reg_read(X[1]),arr+32);self.assertEqual(m.u.reg_read(X[2]),129);self.assertEqual(m.u.reg_read(X[3]),0)
  def test_year_selection_releases_mode_without_root_rebuild(self):
   for bias in [0,0x1000000000]:
    m=Machine(self.raw,bias);root=m.root();country=m.alloc();m.q(country+16,m.managed('United Kingdom'));m.q(root+0x140,country);m.clone_preview(root);extra=m.d['states']['newlife31']['va']+bias;era=m.d['states']['era44']['va']+bias
