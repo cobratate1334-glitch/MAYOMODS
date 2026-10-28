@@ -1,0 +1,21 @@
+{
+  "native_tests": {
+    "count": 4,
+    "result": "passed",
+    "device_tested": false
+  },
+  "scroll_wiring": {
+    "count": 1,
+    "result": "passed",
+    "real_touch_tested": false
+  },
+  "menu_transition_tests": {
+    "count": 13,
+    "result": "passed"
+  },
+  "launcher_robolectric": {
+    "count": 5,
+    "result": "passed",
+    "device_tested": false
+  }
+}

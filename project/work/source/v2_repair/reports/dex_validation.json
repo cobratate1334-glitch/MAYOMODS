@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "binary_sha256": "1f6e55b2f1a40039b1ba3083753a18ad69f9e2d22067420719afe6222ee638dd",
+  "preserved_classes": 252,
+  "changed_families": [
+    "LauncherIcon",
+    "StartupActivity"
+  ],
+  "smali_roundtrip": true,
+  "min_api": 25,
+  "ART_tested": false
+}
