@@ -1,0 +1,30 @@
+{
+  "staged": true,
+  "signed": false,
+  "base_sha256": "e328691d9648cacd13c1b8ac97832d570edac2bdc2ee86e81e8c0f110cf66505",
+  "apk_sha256": "169fc526c28747e1d2b4f9600db299a92200681cd18a60aee0396ed09cc847ff",
+  "native_sha256": "78c1e12105c12e71b59723056718a73e50ba84511e9aa89c3dfa9bdec422cf89",
+  "dex_sha256": "1f6e55b2f1a40039b1ba3083753a18ad69f9e2d22067420719afe6222ee638dd",
+  "modified_entries": [
+    "AndroidManifest.xml",
+    "assets/bin/Data/data.unity3d",
+    "assets/bin/Data/datapack.unity3d",
+    "assets/mayomods54/native_symbols.json",
+    "lib/arm64-v8a/libil2cpp.so"
+  ],
+  "added_entries": [
+    "assets/native1122/ATTRIBUTION.md"
+  ],
+  "version_code": 1122,
+  "changed_text_assets": [
+    "genesis_era_town1122",
+    "genesis_feature_containers",
+    "genesis_rework_defaults",
+    "genesis_v18_defaults_era45"
+  ],
+  "unrelated_Unity_objects_identical": 41839,
+  "all_other_APK_payloads_identical": true,
+  "all_existing_artwork_and_resources_preserved": true,
+  "new_resources": 2,
+  "phone_tested": false
+}

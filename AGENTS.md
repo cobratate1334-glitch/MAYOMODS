@@ -1,5 +1,41 @@
 # Instructions for Codex — MayoMods
 
+Active candidate is **1122**, `project/work/source/era_accuracy1122`. Read its
+README and REQUESTS/FINDINGS/BUILD/ACCEPTANCE before the full report checklist.
+The Golden Resume qualified/ordinary and regular job rows need final SimJob ->
+DataCareer guards as well as the six old data-pool gates. Keep actual acceptance
+checks, the 1122 one-time revision and existing employee contracts. Fresh native
+part-time pay scales its final country-adjusted float once; preserve S0 through
+both saved-Q0 frames. Modern special/freelance interfaces start in 2000 and social
+signup in 2010. New-Life parent creation briefly uses the selected birth year;
+close at StartLife and clear abandoned scope on the Unity pump, never on preview.
+
+Age serialization can bypass rendering. Keep the hero-only pre-serialization
+cosmetic/genetic reapply and image eviction, original age evolution, and the
+completed-render revision in the header-copy key. Natural classic hair uses real
+stock stage/gender components and keeps colour/curly type; exclude the rooted
+draft and explicit hero choices. Do not substitute outfit art for rigged faces.
+Year CandyButton +30 owns the background; +50/+58 are separate opaque foreground
+displays. Keep them transparent, and retain text/border/callback/scroll parents.
+Use actual numeric native1110/era/<year> resource names for later panels.
+
+Root filtering removes only scoped UI rows via actual RemoveAt/runtime_invoke
+with an exception slot. Both the native List constructor and parsed-data boundary
+must run it; retain all old transition ownership checks after filtering. Direct
+1800s Town life must be in the typed list registry. Keep the quiet 1800s header,
+brown controls, plain journal and the exact old selected/war/dark theme paths.
+Existing NPC occupations, contracts and old journal entries are not rewritten.
+Historical dates/pay/hair/uniform icons are game approximations; full history,
+phone rendering/ART/real saves/FPS and the wider report remain unverified. Keep
+1113 transitions, original World Cup, creator/annual repairs, old resource IDs,
+DEX/JNI/launcher, signer and saves. No ELF layout growth or raw managed static
+pointers. Only approved unused RX and isolated 8 KB zero-filled RW are used.
+Seventy-seven exact-candidate automated cases passed; device acceptance remains
+open. APK-only hosting and sanitized public source publication remain authorized.
+Keep raw binaries/owner archives/logs/keys/hosting replies and tokens out of Git.
+
+Earlier release blocks below are historical.
+
 Active candidate is **1121**, `project/work/source/era_life1121`. Read its
 README and REQUESTS/FINDINGS/BUILD/ACCEPTANCE before the full report checklist.
 The school-fight tracker is Game.Life (+20).Tracker (+70), not Hero (+28).

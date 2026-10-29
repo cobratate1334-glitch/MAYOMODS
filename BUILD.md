@@ -1,4 +1,29 @@
-# Reproduce the focused v55 scar/eyepatch candidate
+# Reproduce MayoMods releases
+
+**1122 Era Accuracy & Appearance APK:** <https://gofile.io/d/6eia3d7B> (541,601,873 bytes).
+SHA256: `97924bf75115e9b591bd577c44e6f9f2666d908be01a981aee61ed6489f5ae98`. Same update signer/package; 77 exact-candidate automated cases passed.
+Phone/ART/GPU/real-save and measured-performance acceptance remains open.
+
+Current **1122** is in `project/work/source/era_accuracy1122`. It closes the
+Golden Resume job-list bypass, dates part-time rows/acceptance, scales fresh
+hourly offers with cents, and blocks modern special/freelance interfaces before
+2000 and social signup before 2010. A synchronous birth scope gives new parents
+and NPC generation the selected year while existing lives retain their calendar.
+
+The age-up serialization bypass now reapplies the hero's saved genetic/cosmetic
+layers; completed renders invalidate the retained header copy by revision.
+Pre-1960 natural hair uses inspected native classic components without changing
+colour or explicit hero choices. Year-button foreground layers become transparent
+over their actual dated Sprite. Only the 1800s gets the small original countryside
+header, brown controls and clear journal; later selected/war/dark themes remain.
+Known future root activities/assets are dated; Activities has a direct 1800s
+Town life route. Existing jobs, NPC occupations and written journals are retained.
+
+Read [1122 scope and findings](project/work/source/era_accuracy1122/README.md)
+and its REQUESTS/BUILD/ACCEPTANCE. No FreeLife gameplay code was extracted or
+ported. These game dates, wages, hairstyles and military icons are approximations;
+full country history, farm/bank/sheriff systems and phone rendering, real saves
+and measured performance remain open. Earlier release blocks below are history.
 
 Current **1121** is in `project/work/source/era_life1121`. It fixes the actual
 school-fight Life/hero tracker mismatch and masked period car pictures, appends

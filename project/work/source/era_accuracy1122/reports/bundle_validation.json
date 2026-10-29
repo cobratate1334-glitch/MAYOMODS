@@ -1,0 +1,105 @@
+{
+  "passed": true,
+  "changed_text_assets": [
+    "genesis_era_town1122",
+    "genesis_feature_containers",
+    "genesis_rework_defaults",
+    "genesis_v18_defaults_era45"
+  ],
+  "text_asset_sha256": {
+    "genesis_rework_defaults": "88be859152f977348ca732f4879a2b04cdb54ce1a004bbd2a02e91a1cf5142a3",
+    "genesis_v18_defaults_era45": "c99345603cf3f5496e0072a4e2ec231273d9ae484c9370bda62fca14f3d58ab9",
+    "genesis_era_town1122": "eae5c6b33fb8b47ec5631d81b68c837a5540b4e5044365232ca56cbe9f89f997",
+    "genesis_feature_containers": "b1a2e26c655d3449f829d163075aab5cb63d5e1c416d6390e01617c47283690d"
+  },
+  "unchanged_unrelated_unity_objects": 41839,
+  "all_old_artwork_identical": true,
+  "all_old_resource_aliases_preserved": true,
+  "existing_year_and_uniform_Sprite_paths_checked": [
+    "native1118/era/1800",
+    "native1118/era/1820",
+    "native1118/era/1840",
+    "native1118/era/1860",
+    "native1118/era/1880",
+    "native1110/era/1896",
+    "native1110/era/1900",
+    "native1110/era/1914",
+    "native1110/era/1918",
+    "native1110/era/1921",
+    "native1110/era/1939",
+    "native1110/era/1945",
+    "native1110/era/1960",
+    "native1110/era/1980",
+    "native1110/era/2000",
+    "native1110/era/2010",
+    "native1110/era/2024",
+    "native1119/1800s/icons/outfits/army_blue_uniform",
+    "native1119/1800s/icons/outfits/sailor_outfit",
+    "native1119/1800s/icons/outfits/marine_blue_uniform",
+    "native1119/1800s/icons/outfits/revenue_uniform",
+    "native1119/1800s/icons/outfits/constable_outfit",
+    "native1119/1800s/icons/outfits/doctor_outfit",
+    "native1119/1800s/icons/outfits/farmer_outfit",
+    "native1119/1800s/icons/outfits/nurse_dress",
+    "native1119/1800s/icons/outfits/teacher_dress",
+    "native1119/1800s/icons/outfits/blacksmith_outfit",
+    "native1119/1800s/icons/outfits/carpenter_outfit",
+    "native1119/1800s/icons/outfits/banker_outfit",
+    "native1119/1800s/icons/outfits/clerk_outfit"
+  ],
+  "resource_validation": {
+    "passed": true,
+    "resources": 2,
+    "file_identity_checked": true,
+    "generic_type": "Sprite",
+    "texture_type": "Texture2D",
+    "checked": [
+      {
+        "resource": "native1122/header/1800",
+        "sprite_file": "resources.assets",
+        "texture_file": "resources.assets",
+        "sprite_id": 41845,
+        "texture_id": 41844
+      },
+      {
+        "resource": "native1122/age_circle",
+        "sprite_file": "resources.assets",
+        "texture_file": "resources.assets",
+        "sprite_id": 41847,
+        "texture_id": 41846
+      }
+    ],
+    "GPU_rendering_tested": false
+  },
+  "imported_artwork": [
+    {
+      "kind": "period-header",
+      "source": "era_accuracy1122/inputs/countryside.png",
+      "source_sha256": "31f16afaf444e64a02d7ebca9404686471d9a53519d097d6eb71aab05e6074c0",
+      "AI_generated": true,
+      "resource": "native1122/header/1800",
+      "sprite_id": 41845,
+      "texture_id": 41844,
+      "canvas": [
+        768,
+        160
+      ],
+      "pixel_sha256": "e1062c70c9ac41dc28bb1fe46491b0a02a314e7f5f5d1c9e19188d868ec44386"
+    },
+    {
+      "kind": "native-control-geometry",
+      "source": "programmatic circle",
+      "AI_generated": false,
+      "resource": "native1122/age_circle",
+      "sprite_id": 41847,
+      "texture_id": 41846,
+      "canvas": [
+        512,
+        512
+      ],
+      "pixel_sha256": "6cddbffb8abc4563842af4bb0a552186233ac096172f7d54f8a0a2ee8c73e3e7"
+    }
+  ],
+  "datapack_sha256": "ff7f8670346b26d202e5d39c5af22abe72a2dd69c9f2a5e278206b91dbad5612",
+  "data_sha256": "12951d454cf8fd92ef1a557c7d3c664cbebd26e7d3bce13d5582b336572c7feb"
+}

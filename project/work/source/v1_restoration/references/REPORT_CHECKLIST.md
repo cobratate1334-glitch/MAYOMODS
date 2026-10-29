@@ -1,3 +1,19 @@
+Signed 1122: <https://gofile.io/d/6eia3d7B>. SHA256 `97924bf75115e9b591bd577c44e6f9f2666d908be01a981aee61ed6489f5ae98`.
+All 77 exact-candidate native/API/content/transition cases passed; phone acceptance is open.
+
+1122 follow-up: the owner reports missing year illustrations, an unwanted
+background, age-up genetics reversion, Golden Resume future jobs, part-time/
+freelance/special-career leakage, modern hair/military art and undated activities.
+See [1122 scope and native findings](../../era_accuracy1122/README.md). The new
+serialization/header revisions, final job/UI acceptance gates, selected-year
+birth scope, dated root menus, actual Sprite paths/foreground colours and classic
+stock hair are checked at their native/API/content boundaries. Existing saved
+NPC jobs/contracts/journal entries are preserved. The 1800s countryside header
+is original generated artwork; no FreeLife gameplay code was ported. These are
+game availability and presentation rules, not a full historical reconstruction.
+Phone/ART/GPU/real-save acceptance and measured speed remain open. Failed trial
+fixtures are retained privately and are not counted as completed release passes.
+
 1121 follow-up: the latest 7,768-byte note was read in full and matches the
 main report SHA ef0e33ba16b43d661ce11ac1b4bbb7668135742f064667a23120bf8f052225b3.
 The new native school-fight, period-offer/food/wanted/social/performance work and

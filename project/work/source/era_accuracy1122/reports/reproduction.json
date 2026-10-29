@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "binary_sha256": "78c1e12105c12e71b59723056718a73e50ba84511e9aa89c3dfa9bdec422cf89",
+  "byte_identical": true,
+  "python_hash_seeds": [
+    0,
+    912
+  ]
+}
