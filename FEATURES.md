@@ -1,5 +1,20 @@
 # Requested gameplay systems and design requirements
 
+Current **1120** corrects the rejected 1119 theme interpretation and logged
+creator crash. Keep the earlier selected and four war/postwar themes. Give only
+the 1800s a brown palette, small supplied header and clear journal. Mod Creator
+is direct in Activities, with organised native settings and no-effect preview;
+Expansions/Included Activities navigation is gone. Two-choice/twelve-slot/MM1
+library limits remain. The full inspiration-image editor is not claimed done.
+
+Preserve every annual entry and reachable outcome while removing dead scanning
+rows. Remove the old war-news exclusion from school/family events, retain a
+missing prison fight continuation and use varied school glyphs. Work counts
+show fewer loads/setters/rows; no phone FPS claim. Forty-nine cases and signed
+APK checks pass. See repair_1120 and the full report checklist.
+
+Earlier release blocks below are historical.
+
 Current **1119** adds fourteen actual journal themes and matching palettes
 from 1800 through 2026. Original war/post-war art has priority. Twenty-two dated
 1800s headlines use separate archive images; twelve ordinary headlines/scenes

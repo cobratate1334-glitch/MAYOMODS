@@ -1,5 +1,35 @@
 # Instructions for Codex — MayoMods
 
+Active candidate is **1120**, `project/work/source/repair_1120`. The owner
+rejects 1119's split journal/new later palettes. Restore the earlier approved
+selected/war/dark theme paths; only 1800–1899 gets a new brown palette and small
+original-navbar header. Keep the journal clear outside the four old war/postwar
+panels. Read its README, REQUESTS, FINDINGS, BUILD and ACCEPTANCE before the full
+report checklist. New diagnostics bind the exact 1119 title-field abort to
+ArrayList +0x308 CopyTo. Resolve the actual object's Add method and use
+runtime_invoke with the real instance/argument array and managed exception slot;
+never reinstate the universal fake Add vtable used by the old fixture.
+
+Mod Creator goes directly in Activities. No Expansions or Included Activities
+navigation. Stable internal list IDs, two-choice/twelve-slot/MM1 library and
+PlayerPrefs namespace remain. The reference's full file/trigger editor is not
+implemented. Annual compaction must close over main definitions as well as
+local rows; preserve every entry and reply, including prison_combat1105. Manual
+filters stay schema-impossible and can be skipped only for that exact constant.
+School/crowd/marriage must not be silenced by the old WarNews1105 exclusion now
+that news has a separate queue. Keep stock event pools unchanged. Shader/image
+work counts are API-double counts, never phone FPS claims. Cache GC-rooted war
+sprites and preserve per-widget originals. 1120 uses only unused 1119 RX and an
+isolated zero-filled RW slice after its codec buffers, with no ELF header growth.
+Keep every 1113 transition, original World Cup, all old artwork/resources,
+DEX/JNI/launcher, signer/package/save IDs. Forty-nine exact-candidate checks are
+not phone/ART/GPU/real-save/clipboard/PlayerPrefs acceptance. Appearance reversion,
+driving freeze, measured performance and overall stock-event frequency remain
+open. Source publication and APK-only upload remain authorized. Keep raw owner
+data, private APK/native inputs, signing keys and host replies/tokens out of Git.
+
+Earlier release blocks below are historical.
+
 Active candidate is **1119**, `project/work/source/era_world`. The owner
 explicitly requests actual era themes, dedicated 1800s/decade/school packs,
 different dated news images and the Mod Creator concept in place of Community

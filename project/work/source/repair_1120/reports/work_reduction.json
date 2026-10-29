@@ -1,0 +1,66 @@
+{
+  "passed": true,
+  "native_sha256": "f7ff81063c9f1583f463120b23075cbfa91a18cb5d6c1f8c991f15a004a909a4",
+  "redraw_API_counts": {
+    "1119": {
+      "modern": {
+        "refreshes": 12,
+        "Sprite_resource_load_calls": 12,
+        "Image_set_sprite_calls": 12
+      },
+      "war": {
+        "refreshes": 12,
+        "Sprite_resource_load_calls": 12,
+        "Image_set_sprite_calls": 12
+      }
+    },
+    "1120": {
+      "modern": {
+        "refreshes": 12,
+        "Sprite_resource_load_calls": 0,
+        "Image_set_sprite_calls": 0
+      },
+      "war": {
+        "refreshes": 12,
+        "Sprite_resource_load_calls": 1,
+        "Image_set_sprite_calls": 1
+      }
+    }
+  },
+  "annual_table_sizes": {
+    "genesis_rework_annual1105": {
+      "1119": {
+        "rows": 1280,
+        "bytes": 2136348
+      },
+      "1120": {
+        "rows": 136,
+        "bytes": 194189
+      }
+    },
+    "genesis_school1110": {
+      "1119": {
+        "rows": 265,
+        "bytes": 399989
+      },
+      "1120": {
+        "rows": 101,
+        "bytes": 244174
+      }
+    },
+    "genesis_prison1110": {
+      "1119": {
+        "rows": 134,
+        "bytes": 144065
+      },
+      "1120": {
+        "rows": 56,
+        "bytes": 98749
+      }
+    }
+  },
+  "actual_ARM64": true,
+  "managed_Unity_API_doubles": true,
+  "phone_FPS_measured": false,
+  "phone_age_up_latency_measured": false
+}

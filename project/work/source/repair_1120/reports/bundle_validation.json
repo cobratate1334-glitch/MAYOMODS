@@ -1,0 +1,50 @@
+{
+  "passed": true,
+  "changed_text_assets": [
+    "genesis_activities_v12",
+    "genesis_activities_v18",
+    "genesis_activities_v9",
+    "genesis_callup1110",
+    "genesis_chronicle1110",
+    "genesis_easter1110",
+    "genesis_feature_containers",
+    "genesis_life_rework",
+    "genesis_prison1110",
+    "genesis_rework_annual1105",
+    "genesis_rework_event_school",
+    "genesis_school1110",
+    "genesis_service1110",
+    "genesis_v18_community35",
+    "genesis_v18_expansions46"
+  ],
+  "text_asset_sha256": {
+    "genesis_feature_containers": "151d8d70565d568fa7d880f0423a11856630a5b15607a94a38e211c87b3d7d21",
+    "genesis_v18_community35": "e0cbd783aaabfdadcb19c41f432d8fc1e9a23145c6a49d74ab192fc18638d767",
+    "genesis_v18_expansions46": "f14f788a7924ecb627cfea17adc2745940b3ff05d6ee3150293720074f1cf571",
+    "genesis_life_rework": "80f10696195e79aed19461df76a40f212701ed08b1fb11b970deeebc766109ee",
+    "genesis_activities_v12": "ea9967b1462e8d638d80b625fa848c316adb2dfa0f5e0f1ffcca828c7bf77eb7",
+    "genesis_activities_v18": "af96987b529ab24f063f7e2393745ad866556ae373ea118f17884d649cbcf0c7",
+    "genesis_activities_v9": "8fda2ad6411cea0acaab46145f43abf8c329a3b75c505ebd56edf04065a6650f",
+    "genesis_rework_annual1105": "bcfa402c595ebd7c8cc2575c420aed2b298baa7ff00c209a7245fc3731b5e1fe",
+    "genesis_rework_event_school": "c2f31c16cf9c768f144490cd97ca5c9c6638d0d833f8c6bba756d85adaa7ef13",
+    "genesis_school1110": "48a509f25b66cdf2a44c5ddb544eb0deecb83a528ff91daf5685db732c1f1a36",
+    "genesis_chronicle1110": "df2bf14ea43a28460641f8027207b388d6edc44aa5a976a4ac8d8bb72cf8f85b",
+    "genesis_callup1110": "77653f4bf98f4b7933bffa0c22c4abdbd53c378148f3082acc0c55f41ba13733",
+    "genesis_service1110": "e4561ddf76d1daa44fb2f33df6ffa5d454b249014c0b3ab69173778405bb865b",
+    "genesis_prison1110": "fb1397a8cf826585790b3300445e03aab9da4e28a784705d25866e2df9afd2ce",
+    "genesis_easter1110": "1d18c4e7d8162f7115c87deb1f6c8176db2260156fb98b9d2018fcf52bca9357"
+  },
+  "unchanged_unrelated_unity_objects": 41823,
+  "all_old_artwork_identical": true,
+  "all_old_resource_aliases_preserved": true,
+  "resource_validation": {
+    "passed": true,
+    "resources": 1,
+    "file_identity_checked": true,
+    "generic_type": "Sprite",
+    "texture_type": "Texture2D",
+    "GPU_rendering_tested": false
+  },
+  "datapack_sha256": "3f1fd0073c6d258bb74909d6bcf5e87dbc9bc88dfb3e3f777847d0941a258efe",
+  "data_sha256": "3acd828ee6614f3d501c84db0608d800b5b370f04a097840c27b763dd0868fd4"
+}

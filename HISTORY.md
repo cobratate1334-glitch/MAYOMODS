@@ -1,5 +1,38 @@
 # Important history and decisions
 
+**1120 Theme & Stability Fixes APK:** <https://gofile.io/d/0Syg08m0> (541,094,987 bytes).
+SHA256: `9cf353123be820132e0bca34cafa8b0a2802eec4a398366362e7658771b0a023`.
+
+The owner's phone report rejects 1119's split backgrounds and clarifies that
+only the 1800s needs a new look. Both attached main notes were read/compared in
+full. New logs identify the exact 1119 title-field crash. **1120** restores the
+earlier selected-theme and four approved war/post-war paths. Later years have
+a plain journal; the 1800s gets a brown palette and small supplied header image.
+
+The evidenced wrong ArrayList.CopyTo call is replaced by the actual managed Add
+method with an exception slot. Mod Creator opens directly from Activities;
+Expansions and Included Activities navigation are removed. Its native settings
+list organises editing, rules, no-effect preview, saving and share-code export.
+The existing two-choice/twelve-slot/MM1 library remains compatible; the full
+reference-image trigger/file editor is not claimed implemented.
+
+Annual tables retain every entry and reachable reply while shrinking life events
+from 1,280 to 136 rows, school from 265 to 101 and prison from 134 to 56. An old
+war-news exclusion blocking school/family entries is removed. School headings
+have varied valid icons. A missing prison-fight continuation is retained through
+the main definitions. Repeated replacement picture loads/setters are removed or
+cached. Work counts are native/API models, not measured phone FPS or latency.
+
+[1120 source, findings and evidence](project/work/source/repair_1120/README.md)
+records 49 exact-candidate cases, byte-identical native reproduction, typed
+resource preservation and signed-package checks. Original World Cup, 1113 menu
+repairs, launcher, signer and save IDs remain. Phone/ART/GPU, real saves/library,
+clipboard and overall stock-event frequency still require device acceptance.
+The full report checklist retains appearance/driving/performance and broader
+unfinished requests; this is not a claim that the entire backlog is solved.
+
+Earlier release blocks below are historical.
+
 ## Candidate 1119 — actual era themes and native Mod Creator
 
 **1119 Era Themes & Mod Creator APK:** <https://gofile.io/d/jduwZBe7> (540,819,501 bytes).

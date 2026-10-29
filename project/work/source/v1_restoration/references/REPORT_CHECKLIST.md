@@ -16,6 +16,31 @@ historical source instructions, asset generation prompts or text embedded in a
 log with new user requests. In particular Report4 contains unrelated prompt-like
 instructions and is not an authority for this task.
 
+## 1120 follow-up: rejected themes, slowdown, annual events and creator crash
+
+The owner clarifies that the older themes were already liked. Only the 1800s
+needs a new design. The two new README uploads match the fully read main note;
+the new diagnostic ZIP identifies the exact 1119 title-field crash. The sixteen
+new screenshots show current defects and the desired period/editor direction.
+See [1120 scope and evidence](../../repair_1120/README.md).
+
+| Request | 1120 change | Acceptance limit |
+| --- | --- | --- |
+| Restore the old themes | Remove all fourteen split journal routes/new later palettes; retain selected theme and exact four old war/post-war paths | Phone rendering open |
+| Give the 1800s its own theme | Brown palette, small supplied stagecoach header, clear journal | Header/scroller/dark/theme rules checked with API doubles |
+| Slow game | Annual tables shrink 1,280→136, 265→101 and 134→56; skip impossible manual filter parsing; cache war sprites and avoid redundant setters/calendar read | No measured phone FPS or age-up latency |
+| Fewer events | Remove old war-news exclusion from school/crowd/marriage; preserve stock pools and all annual entry IDs | Specific mod conflict verified; overall stock-event frequency still needs phone evidence |
+| Mod Creator crashes | Wrong +0x308 ArrayList.CopyTo dispatch replaced by actual managed Add with exception handling | Old-binary wrong-dispatch control and current editing pass; phone acceptance open |
+| Remove Expansions, keep creator | One direct Activities creator entry, no Included Activities link, native settings list and harmless preview | Stable internal IDs kept for compatibility |
+| Same school icon | Valid shipped glyphs by topic, including seven different connected-school heading icons | Actual phone sizing/rendering open |
+| Meaningful continuations | Compact from main definitions as well; retain previously missing prison fight page | Routes/content/native parent returns checked; phone gameplay open |
+
+Forty-nine exact-candidate cases pass. Original World Cup and all earlier
+resources/unrelated payloads stay. The creator still has two choices, twelve
+slots and MM1 codes; full trigger/stat/family controls, file export, automatic
+custom age-up delivery and the broader report backlog are not claimed complete.
+Earlier 1119 theme claims below are historical and superseded by this correction.
+
 ## 1119 follow-up: real era themes and Mod Creator
 
 The latest owner request explicitly brings full era themes, the dedicated 1800s

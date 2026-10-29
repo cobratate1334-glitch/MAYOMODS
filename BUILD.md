@@ -1,5 +1,16 @@
 # Reproduce the focused v55 scar/eyepatch candidate
 
+Current **1120** reproduction:
+[repair_1120/references/BUILD.md](project/work/source/repair_1120/references/BUILD.md).
+Use pinned signed 1119/native/manifest and the existing signer. Reuse unused RX
+and an isolated 4 KB zero-filled RW slice; native size and ELF headers stay.
+Forty-nine exact-candidate cases, old/new native work counts, one typed header
+resource, unrelated Unity/APK payload preservation, v2/v3/native signer, aapt2,
+CRC and 16 KB native alignment are checked. No DEX/JNI/launcher rebuild or save
+migration. Device rendering, actual persistence and measured speed remain open.
+
+Earlier release blocks below are historical.
+
 Current **1119** reproduction:
 [era_world/references/BUILD.md](project/work/source/era_world/references/BUILD.md).
 Use the pinned signed 1118/native inputs, cross compiler and existing signer.

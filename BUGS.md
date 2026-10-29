@@ -1,5 +1,25 @@
 # Known bugs and verification gaps
 
+**1120 phone-report correction — 29 October 2026.** The new diagnostics
+identify 1119 and the creator title-field abort. A wrong ArrayList virtual slot
+called CopyTo with a ScenarioInputField; actual Add resolution/runtime invocation
+with exception handling repairs that path. The old fake accepted the wrong ABI;
+a new old-binary control rejects it. Restore the old theme paths and remove
+1119 split journal surfaces/later palettes. Only the 1800s gets a small header
+illustration and brown palette. Remove Expansions/Included navigation, add native
+creator settings/preview and vary school heading glyphs.
+
+Annual compaction preserves entries and reachable replies, including a previously
+missing prison-fight page. Remove an obsolete war-news condition suppressing
+school/crowd/marriage entries. Cache rooted war images and avoid redundant modern
+loads/setters/calendar reads. Forty-nine checks and signed-package verification
+pass. These model call/row reductions; no phone FPS or latency is measured.
+Phone rendering, real library/save/clipboard persistence, overall stock-event
+frequency, appearance reversion and driving freeze remain OPEN. Broader notes
+are read/tracked, not all marked fixed. See repair_1120/references/FINDINGS.md.
+
+Earlier release blocks below are historical.
+
 **1119 era/editor update — 29 October 2026.** The owner identifies reused
 Waterloo art and missing actual era themes. Fourteen native journal surfaces and
 palettes now cover 1800–2026; original war/post-war phases still win. Twenty-two

@@ -1,5 +1,20 @@
 # Starting task for Codex
 
+Current **1120**: read AGENTS and repair_1120/README, REQUESTS, FINDINGS,
+BUILD, ACCEPTANCE and the full v1_restoration report checklist. The owner rejects
+1119's split backgrounds; restore prior themes and give only the 1800s a new
+header/brown style. New diagnostics prove the creator's wrong ArrayList CopyTo
+ABI. The candidate uses actual Add reflection/invocation with exception handling.
+Creator is direct in Activities with native settings/preview; no Expansions or
+Included navigation. Compact annual tables over main definitions, preserve all
+entries/replies and remove obsolete war-news exclusions. Cache rooted war art;
+no model timing is phone FPS. Forty-nine cases and signed-package checks pass.
+Keep 1113 transitions, original World Cup, older art, signer/save IDs and DEX/JNI.
+Real phone/render/persistence and remaining reported bugs are still open. No raw
+owner logs, private inputs, signing keys or hosting replies/tokens in Git.
+
+Earlier release blocks below are historical.
+
 Current **1119**: read AGENTS and era_world/README, REQUESTS, FINDINGS,
 BUILD, ACCEPTANCE and v1_restoration/references/REPORT_CHECKLIST. Actual era
 themes and the supplied native Mod Creator concept are now explicitly in scope.
