@@ -1,5 +1,30 @@
 # Requested gameplay systems and design requirements
 
+**1125 School, Roblox, Creator & Finances APK:** <https://gofile.io/d/6UPJqjaU> (550,238,223 bytes).
+SHA256: `5827381392cca665afa6e23cf76af343ed6a50381e278883c93ad8f46b86f966`. Same package/update signer. Eighteen exact-candidate native/content/regression cases and 78 Chromium checks passed; phone/ART/Unity/WebView/real-save/FPS acceptance remains open.
+
+Current **1125** is in `project/work/source/school_finance1125`. The new logs
+identify 1124's creator input collection mismatch at the translator enumerator.
+The repair constructs InputFieldArray's declared class through IL2CPP reflection
+and preserves the original text controls, actual Add, library and share codes.
+The 1124 New Life metadata fix and retained appearance render fixes remain.
+
+School adds real-classmate crush invitations, once-age replies, completed-fight
+suspensions and a return plan. Six new period school scenes and sixteen era
+stories include varied US 1800s wanted posters tied to the existing bounded
+bounty board. The classic offline Roblox portal has a profile/wardrobe and a
+playable obstacle course; recording a playtest uses its saved native command.
+
+Money & exchange adds a native income/expense projection, nineteen dated
+currency wallets, visible fixed game exchange quotes and a 2% fee each way.
+Foreign wallets can be selected and sold abroad. Native bank denominations and
+existing holdings remain; this is not a global stock-price/currency migration.
+Repeatable town wages and fresh bounty rewards are reduced. Old artwork and
+resource identities, DEX/JNI/launcher, signer/package and save keys are preserved.
+See the source README and sanitized reports for evidence and remaining limits.
+Earlier release blocks below are historical. APK-only hosting and sanitized
+source publication remain authorized.
+
 **1124 New Life Crash Hotfix APK:** <https://gofile.io/d/9JO7hSrT> (542,592,551 bytes).
 SHA256: `f23afe8cf1402b7fed288efaf3f3b0cd0e0d1aaeee2278746b5dccdc93fc550e`. Four focused checks passed; same update signer/package.
 Phone/ART/rendering acceptance remains open.

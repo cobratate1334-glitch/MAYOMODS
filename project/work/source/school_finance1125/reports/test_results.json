@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "native_sha256": "61afd9932b00583b74313645fb637fd29e640f85891d9f5d2d5d6c087f35c603",
+  "tests_run": 18,
+  "test_layers": {
+    "native_content_and_retained_regressions": {
+      "tests": 18
+    }
+  },
+  "browser_checks": 78,
+  "browser_viewports": [
+    375,
+    480,
+    945
+  ],
+  "source_and_staged_payload_hashes_match": true,
+  "phone_tested": false,
+  "ART_tested": false,
+  "Unity_rendering_tested": false,
+  "Android_WebView_tested": false,
+  "prior_85_cases_rerun": false
+}

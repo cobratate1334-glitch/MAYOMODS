@@ -1,0 +1,14 @@
+{
+  "archive_sha256": "c9df6bf055ac9903a8a7a25a90c6c8fafed60a93da84c438905f6d31e2f46763",
+  "embedded_build": "1124",
+  "embedded_native_sha256": "cd36b55b64ce393f9d5d62d52fc72f966daf9f600e630db8e503cb236ed6e8b5",
+  "latest_signal": "SIGSEGV/SEGV_ACCERR",
+  "latest_cause": "attempted execution of non-executable class metadata",
+  "audited_translator_callsite": "0x32320d8",
+  "translator_field": "InputFieldArray +0xc0",
+  "original_indirect_enumerator_slot": "class +0x388",
+  "old_creator_factory": "AbstractScenario.CreateInputFieldArray (shared typed list)",
+  "repair": "Construct the field declared class through IL2CPP reflection and invoke its zero-argument constructor with an exception slot; preserve actual Add and original form UI",
+  "raw_logs_and_device_identifiers_published": false,
+  "phone_after_repair_tested": false
+}

@@ -1,0 +1,294 @@
+{
+  "passed": true,
+  "changed_text_assets": [
+    "genesis_currencies1125",
+    "genesis_era_events1125",
+    "genesis_feature_containers",
+    "genesis_finance1125",
+    "genesis_life_rework",
+    "genesis_rework_annual1105",
+    "genesis_rework_defaults",
+    "genesis_school1110",
+    "genesis_v18_era44",
+    "genesis_v18_school52"
+  ],
+  "text_asset_sha256": {
+    "genesis_v18_school52": "59d2a2da20060540e656877bcd759f9c7db797423a8cf13f8075ad54e04377ab",
+    "genesis_school1110": "1aaeb4bf6b796f04875279e8300dba5772a27d1d5d44b52da643386ee156fdf5",
+    "genesis_v18_era44": "dc7a819563ca2bf2465bae57f6cbaaee2bac7d90bf0daad555a71dbf16a47b21",
+    "genesis_currencies1125": "47b42a917f65cd35dd0d8d3f7c812b78f8b427cfda4a0269002a8263c43f3b9d",
+    "genesis_finance1125": "86af3c20f8e249d38a65abe1ec4e1bc487f40fabceebcd600de4126e90cdd3f1",
+    "genesis_feature_containers": "b5dc8827ba453508058687826ea2b1620ce0bab0069fa5b5b8e5e5f2f3235fae",
+    "genesis_rework_annual1105": "45258261946bc16a10f7fe3ff32b287e1e4e15c34a34ffce7674c2ad162a11fa",
+    "genesis_life_rework": "b0290a5bba7c04444f54dc40b3c9488201f19506fa535a7657c4be86ff46d7d7",
+    "genesis_rework_defaults": "93593d522c2813e21461ff51e06047f01ffe0d0ed786f049fa3984573c8d81b3",
+    "genesis_era_events1125": "db7297d24c898bb95a8dacee9b72da9648b9b017020299d63fdfda64c4c826ca"
+  },
+  "unchanged_unrelated_unity_objects": 41840,
+  "all_old_artwork_identical": true,
+  "all_old_resource_aliases_preserved": true,
+  "resource_validation": {
+    "passed": true,
+    "resources": 11,
+    "file_identity_checked": true,
+    "generic_type": "Sprite",
+    "texture_type": "Texture2D",
+    "checked": [
+      {
+        "resource": "native1125/school/schoolyard1830",
+        "sprite_file": "resources.assets",
+        "texture_file": "resources.assets",
+        "sprite_id": 41852,
+        "texture_id": 41851
+      },
+      {
+        "resource": "native1125/school/lesson1850",
+        "sprite_file": "resources.assets",
+        "texture_file": "resources.assets",
+        "sprite_id": 41854,
+        "texture_id": 41853
+      },
+      {
+        "resource": "native1125/school/picnic1880",
+        "sprite_file": "resources.assets",
+        "texture_file": "resources.assets",
+        "sprite_id": 41856,
+        "texture_id": 41855
+      },
+      {
+        "resource": "native1125/school/library1910",
+        "sprite_file": "resources.assets",
+        "texture_file": "resources.assets",
+        "sprite_id": 41858,
+        "texture_id": 41857
+      },
+      {
+        "resource": "native1125/school/garden1930",
+        "sprite_file": "resources.assets",
+        "texture_file": "resources.assets",
+        "sprite_id": 41860,
+        "texture_id": 41859
+      },
+      {
+        "resource": "native1125/school/science1950",
+        "sprite_file": "resources.assets",
+        "texture_file": "resources.assets",
+        "sprite_id": 41862,
+        "texture_id": 41861
+      },
+      {
+        "resource": "native1125/wanted/0",
+        "sprite_file": "resources.assets",
+        "texture_file": "resources.assets",
+        "sprite_id": 41864,
+        "texture_id": 41863
+      },
+      {
+        "resource": "native1125/wanted/1",
+        "sprite_file": "resources.assets",
+        "texture_file": "resources.assets",
+        "sprite_id": 41866,
+        "texture_id": 41865
+      },
+      {
+        "resource": "native1125/wanted/2",
+        "sprite_file": "resources.assets",
+        "texture_file": "resources.assets",
+        "sprite_id": 41868,
+        "texture_id": 41867
+      },
+      {
+        "resource": "native1125/wanted/3",
+        "sprite_file": "resources.assets",
+        "texture_file": "resources.assets",
+        "sprite_id": 41870,
+        "texture_id": 41869
+      },
+      {
+        "resource": "native1125/era/cinema1920",
+        "sprite_file": "resources.assets",
+        "texture_file": "resources.assets",
+        "sprite_id": 41872,
+        "texture_id": 41871
+      }
+    ],
+    "GPU_rendering_tested": false
+  },
+  "imported_artwork": [
+    {
+      "kind": "original-generated-illustration",
+      "source_atlas": "school_atlas.png",
+      "source_sha256": "8d01908d10b3e738b99c89f13362a402e7629e6cef7040e819144ca245ca2996",
+      "grid_column": 0,
+      "grid_row": 0,
+      "not_an_archive_photograph": true,
+      "resource": "native1125/school/schoolyard1830",
+      "sprite_id": 41852,
+      "texture_id": 41851,
+      "canvas": [
+        640,
+        284
+      ],
+      "pixel_sha256": "8f21abb71d9d1888425f167ba9bdba603285e8f3202c1a0cde65f9265b26cef7"
+    },
+    {
+      "kind": "original-generated-illustration",
+      "source_atlas": "school_atlas.png",
+      "source_sha256": "8d01908d10b3e738b99c89f13362a402e7629e6cef7040e819144ca245ca2996",
+      "grid_column": 1,
+      "grid_row": 0,
+      "not_an_archive_photograph": true,
+      "resource": "native1125/school/lesson1850",
+      "sprite_id": 41854,
+      "texture_id": 41853,
+      "canvas": [
+        640,
+        284
+      ],
+      "pixel_sha256": "d3caa33e63a279ae18e058356db5b7048f03e8b1744e2c069b52f98b4caf7b44"
+    },
+    {
+      "kind": "original-generated-illustration",
+      "source_atlas": "school_atlas.png",
+      "source_sha256": "8d01908d10b3e738b99c89f13362a402e7629e6cef7040e819144ca245ca2996",
+      "grid_column": 0,
+      "grid_row": 1,
+      "not_an_archive_photograph": true,
+      "resource": "native1125/school/picnic1880",
+      "sprite_id": 41856,
+      "texture_id": 41855,
+      "canvas": [
+        640,
+        283
+      ],
+      "pixel_sha256": "656769df6bbe49926e7e073a7fc8b228f237cf0fb34c43a55ca5bdae456c17e0"
+    },
+    {
+      "kind": "original-generated-illustration",
+      "source_atlas": "school_atlas.png",
+      "source_sha256": "8d01908d10b3e738b99c89f13362a402e7629e6cef7040e819144ca245ca2996",
+      "grid_column": 1,
+      "grid_row": 1,
+      "not_an_archive_photograph": true,
+      "resource": "native1125/school/library1910",
+      "sprite_id": 41858,
+      "texture_id": 41857,
+      "canvas": [
+        640,
+        283
+      ],
+      "pixel_sha256": "10f2a636f666c9d7473cf62934ae69224f166bac92afeca7edf8e9ee8583a8f3"
+    },
+    {
+      "kind": "original-generated-illustration",
+      "source_atlas": "school_atlas.png",
+      "source_sha256": "8d01908d10b3e738b99c89f13362a402e7629e6cef7040e819144ca245ca2996",
+      "grid_column": 0,
+      "grid_row": 2,
+      "not_an_archive_photograph": true,
+      "resource": "native1125/school/garden1930",
+      "sprite_id": 41860,
+      "texture_id": 41859,
+      "canvas": [
+        640,
+        287
+      ],
+      "pixel_sha256": "136adea784be75ac6b23c355568cf81362ff15d66389f25865c6f0c670194fd3"
+    },
+    {
+      "kind": "original-generated-illustration",
+      "source_atlas": "school_atlas.png",
+      "source_sha256": "8d01908d10b3e738b99c89f13362a402e7629e6cef7040e819144ca245ca2996",
+      "grid_column": 1,
+      "grid_row": 2,
+      "not_an_archive_photograph": true,
+      "resource": "native1125/school/science1950",
+      "sprite_id": 41862,
+      "texture_id": 41861,
+      "canvas": [
+        640,
+        287
+      ],
+      "pixel_sha256": "89050b23b6b8d1ebf65cba4899942d77a69672f9a82f0d20ac7b246846714d84"
+    },
+    {
+      "kind": "original-generated-illustration",
+      "source_atlas": "wanted_atlas.png",
+      "source_sha256": "00ae777a2c9428b522aff95663e2514d0f6d04da8cf2b2632d89d72d34da1d61",
+      "grid_column": 0,
+      "grid_row": 0,
+      "not_an_archive_photograph": true,
+      "resource": "native1125/wanted/0",
+      "sprite_id": 41864,
+      "texture_id": 41863,
+      "canvas": [
+        512,
+        512
+      ],
+      "pixel_sha256": "0f0af9b1a12489c0f2a9bd3f2de0a0ccc1004cb1147307f48a741a9c93296440"
+    },
+    {
+      "kind": "original-generated-illustration",
+      "source_atlas": "wanted_atlas.png",
+      "source_sha256": "00ae777a2c9428b522aff95663e2514d0f6d04da8cf2b2632d89d72d34da1d61",
+      "grid_column": 1,
+      "grid_row": 0,
+      "not_an_archive_photograph": true,
+      "resource": "native1125/wanted/1",
+      "sprite_id": 41866,
+      "texture_id": 41865,
+      "canvas": [
+        512,
+        512
+      ],
+      "pixel_sha256": "6a4f6bd0c03eac77ab85eeb8b3401b6cabc1857ac08cfacb745ad8da6f21cd65"
+    },
+    {
+      "kind": "original-generated-illustration",
+      "source_atlas": "wanted_atlas.png",
+      "source_sha256": "00ae777a2c9428b522aff95663e2514d0f6d04da8cf2b2632d89d72d34da1d61",
+      "grid_column": 0,
+      "grid_row": 1,
+      "not_an_archive_photograph": true,
+      "resource": "native1125/wanted/2",
+      "sprite_id": 41868,
+      "texture_id": 41867,
+      "canvas": [
+        512,
+        512
+      ],
+      "pixel_sha256": "53ae04590a9e6793da398ba1817d92eaf20e104df5e737f1762f37e7fe5803dc"
+    },
+    {
+      "kind": "original-generated-illustration",
+      "source_atlas": "wanted_atlas.png",
+      "source_sha256": "00ae777a2c9428b522aff95663e2514d0f6d04da8cf2b2632d89d72d34da1d61",
+      "grid_column": 1,
+      "grid_row": 1,
+      "not_an_archive_photograph": true,
+      "resource": "native1125/wanted/3",
+      "sprite_id": 41870,
+      "texture_id": 41869,
+      "canvas": [
+        512,
+        512
+      ],
+      "pixel_sha256": "397660dfbb707172b3bb81e14112e58c27cc2ddd051fcbe6317c049b8576c491"
+    },
+    {
+      "kind": "supplied-illustration",
+      "source_file": "cinema1920.png",
+      "source_sha256": "6cd0439ff828e3af59638c00036cc20af7e3533ef9f3ccccb70885f0152d7875",
+      "resource": "native1125/era/cinema1920",
+      "sprite_id": 41872,
+      "texture_id": 41871,
+      "canvas": [
+        512,
+        256
+      ],
+      "pixel_sha256": "220dbd33f26a76b87ba12047a241e77ca6ed079aad6a8953b393c382f140a4ea"
+    }
+  ],
+  "datapack_sha256": "48b08291e1eb9583720110d097e73659eac987883b2b1db7b7ef49b4c84ef2d7",
+  "data_sha256": "7fc71e13a9b610b28e08b099b47457bd9bfcea7abf6bc0b0c93c94a24eee50a8"
+}

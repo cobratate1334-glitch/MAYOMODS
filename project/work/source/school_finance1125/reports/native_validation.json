@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "native_sha256": "61afd9932b00583b74313645fb637fd29e640f85891d9f5d2d5d6c087f35c603",
+  "base_sha256": "cd36b55b64ce393f9d5d62d52fc72f966daf9f600e630db8e503cb236ed6e8b5",
+  "native_bytes": 145358848,
+  "changed_bytes": 146574,
+  "ELF_headers_and_segments_identical": true,
+  "all_changes_within_declared_RX_ranges": true,
+  "new_RW_state": {
+    "va": 145488384,
+    "size": 1536
+  },
+  "new_state_does_not_overlap_previous_states": true,
+  "byte_identical_reproduction": true,
+  "metadata_cell_1124": "0x5c788f8",
+  "phone_tested": false
+}

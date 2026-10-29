@@ -1,0 +1,34 @@
+{
+  "0x2a6f14c": [
+    [
+      "2a6fc5c: fcvt d0, s0",
+      "2a6fc60: fadd d8, d8, d0",
+      "2a6fc64: fmov d0, d8",
+      "2a6fc68: ldp x20, x19, [sp, #0xa0]",
+      "2a6fc6c: ldp x22, x21, [sp, #0x90]",
+      "2a6fc70: ldr d10, [sp, #0x40]",
+      "2a6fc74: ldp x24, x23, [sp, #0x80]",
+      "2a6fc78: ldp x26, x25, [sp, #0x70]",
+      "2a6fc7c: ldp x30, x27, [sp, #0x60]",
+      "2a6fc80: ldp d9, d8, [sp, #0x50]",
+      "2a6fc84: add sp, sp, #0xb0",
+      "2a6fc88: ret "
+    ]
+  ],
+  "0x2a717ec": [
+    [
+      "2a71dd4: mov x0, x19",
+      "2a71dd8: bl #0x2a71ea8",
+      "2a71ddc: fadd s0, s8, s0",
+      "2a71de0: ldp x20, x19, [sp, #0xa0]",
+      "2a71de4: ldr x30, [sp, #0x50]",
+      "2a71de8: ldp x22, x21, [sp, #0x90]",
+      "2a71dec: ldp x24, x23, [sp, #0x80]",
+      "2a71df0: ldp x26, x25, [sp, #0x70]",
+      "2a71df4: ldp x28, x27, [sp, #0x60]",
+      "2a71df8: ldp d9, d8, [sp, #0x40]",
+      "2a71dfc: add sp, sp, #0xb0",
+      "2a71e00: ret "
+    ]
+  ]
+}

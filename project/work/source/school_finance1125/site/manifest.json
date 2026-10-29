@@ -1,0 +1,288 @@
+{
+  "commands": {
+    "join": 1,
+    "genre1": 2,
+    "genre2": 3,
+    "genre3": 4,
+    "genre4": 5,
+    "work_script": 6,
+    "work_world": 7,
+    "work_feedback": 8,
+    "fixbugs": 9,
+    "archive_all": 10,
+    "sell": 11,
+    "group": 12,
+    "publish": 13,
+    "update": 14,
+    "buy1_0": 15,
+    "buy1_1": 16,
+    "buy1_2": 17,
+    "buy1_3": 18,
+    "wear1": 19,
+    "buy2_0": 20,
+    "buy2_1": 21,
+    "buy2_2": 22,
+    "buy2_3": 23,
+    "wear2": 24,
+    "buy3_0": 25,
+    "buy3_1": 26,
+    "buy3_2": 27,
+    "buy3_3": 28,
+    "wear3": 29,
+    "design_shirt": 30,
+    "design_jacket": 31,
+    "design_jersey": 32,
+    "community_access": 33,
+    "community_copy": 34,
+    "community_scam": 35,
+    "church_pantry_1": 36,
+    "church_pantry_2": 37,
+    "church_pantry_3": 38,
+    "church_welcome_1": 39,
+    "church_welcome_2": 40,
+    "church_welcome_3": 41,
+    "church_disagreement_1": 42,
+    "church_disagreement_2": 43,
+    "church_disagreement_3": 44,
+    "church_92": 45,
+    "church_93": 46,
+    "church_94": 47,
+    "church_95": 48,
+    "church_96": 49,
+    "church_97": 50,
+    "church_98": 51,
+    "church_99": 52,
+    "church_100": 53,
+    "church_101": 54,
+    "church_102": 55,
+    "church_104": 56,
+    "church_105": 57
+  },
+  "fields": [
+    "roblox_social.Joined",
+    "roblox_social.Robux",
+    "roblox_social.Skill",
+    "roblox_social.Actions",
+    "roblox_social.ActionAge",
+    "roblox_social.Genre",
+    "roblox_social.Progress",
+    "roblox_social.Quality",
+    "roblox_social.Tested",
+    "roblox_social.Published",
+    "roblox_social.Games",
+    "roblox_social.Visits",
+    "roblox_social.Fans",
+    "roblox_social.Trust",
+    "roblox_social.RevenueAge",
+    "roblox_social.Club",
+    "roblox_social.ClubAge",
+    "roblox_social.ClubClaimAge",
+    "roblox_social.CommunityAge",
+    "roblox_social.Outfit",
+    "roblox_social.LastCommunity",
+    "roblox_social.LastIncome",
+    "roblox_social.LastVisits",
+    "roblox_social.JournalSequence",
+    "roblox_social.JournalLogged",
+    "roblox_social.SchemaVersion",
+    "roblox_social.SyncCalendar",
+    "roblox_social.CalendarAge",
+    "roblox_social.DaysRemaining",
+    "roblox_social.Lifetime",
+    "roblox_social.DailyRobux",
+    "roblox_social.ActivePlaces",
+    "roblox_social.PlaceLimit",
+    "roblox_social.GroupLimit",
+    "roblox_social.SigningBonusGranted",
+    "roblox_social.LastAllowance",
+    "roblox_social.LastAllowanceDays",
+    "roblox_social.Hat1",
+    "roblox_social.Hat2",
+    "roblox_social.Hat3",
+    "roblox_social.WornHat",
+    "roblox_social.Designs",
+    "roblox_social.CatalogSales",
+    "roblox_social.Groups",
+    "roblox_social.Feedback",
+    "roblox_social.CatalogAge",
+    "roblox_social.GroupAge",
+    "roblox_social.MailRead",
+    "gameplay52.Action",
+    "gameplay52.ActionsUsed",
+    "gameplay52.Projects",
+    "gameplay52.SchoolSkill",
+    "gameplay52.Striking",
+    "gameplay52.Grappling",
+    "gameplay52.Wrestling",
+    "gameplay52.Conditioning",
+    "gameplay52.Tactics",
+    "gameplay52.Fatigue",
+    "gameplay52.Plan",
+    "gameplay52.Wins",
+    "gameplay52.Losses",
+    "gameplay52.ChurchVisits",
+    "gameplay52.Service",
+    "gameplay52.Heat",
+    "gameplay52.CrewTrust",
+    "gameplay52.LastAge",
+    "gameplay52.LastAction",
+    "gameplay52.SchoolArts",
+    "gameplay52.SchoolCommunity",
+    "gameplay52.SchoolDebate",
+    "gameplay52.SchoolLeadership",
+    "gameplay52.SchoolMusic",
+    "gameplay52.SchoolScience",
+    "gameplay52.SchoolSports",
+    "gameplay52.SchoolStudy",
+    "gameplay52.SchoolWriting",
+    "gameplay52.ClergyInitialized54",
+    "gameplay52.ClergyRank",
+    "gameplay52.FormationAge",
+    "gameplay52.PromotionAge",
+    "gameplay52.ClergyAge",
+    "gameplay52.ClergyActions",
+    "gameplay52.Theology",
+    "gameplay52.Discipline",
+    "gameplay52.Speaking",
+    "gameplay52.Latin",
+    "gameplay52.ParishTrust",
+    "gameplay52.Colleague",
+    "gameplay52.ParishFunds",
+    "gameplay52.ElectionAge",
+    "gameplay52.VoteRounds",
+    "gameplay52.PopeAge",
+    "gameplay52.AbroadVisits",
+    "gameplay52.CaseNumber",
+    "gameplay52.CaseAge",
+    "gameplay52.CaseCompleted",
+    "gameplay52.StoryJournalSequence",
+    "gameplay52.StoryJournalLogged"
+  ],
+  "texts": [
+    "roblox_social.Result",
+    "gameplay52.ClergyStatus",
+    "gameplay52.ClergyEvent",
+    "gameplay52.CaseOutcome",
+    "roblox_social.ClubName",
+    "roblox_social.GenreName",
+    "roblox_social.DesignName",
+    "roblox_social.GroupName"
+  ],
+  "results": {
+    "1": {
+      "id": 1,
+      "title": "<GFC.gameplay52.ClergyEvent>",
+      "body": "<GFC.gameplay52.ClergyStatus>"
+    },
+    "2": {
+      "id": 2,
+      "title": "Time to reflect",
+      "body": "You have already used this year\u2019s six church activities. Your current case and prior choices remain saved for a later year."
+    },
+    "3": {
+      "id": 3,
+      "title": "Your parish story",
+      "body": "<GFC.gameplay52.CaseOutcome>"
+    },
+    "4": {
+      "id": 4,
+      "title": "This option is not available",
+      "body": "Check your formation, parish funds or role. No case, money or church activity was spent."
+    },
+    "5": {
+      "id": 5,
+      "title": "Welcome, builder",
+      "body": "<GFC.roblox_social.Result>"
+    },
+    "6": {
+      "id": 6,
+      "title": "Create your account",
+      "body": "Create a free account before developing or shopping."
+    },
+    "7": {
+      "id": 7,
+      "title": "Already completed",
+      "body": "This action was already completed at this age. Your saved balance and record are unchanged."
+    },
+    "8": {
+      "id": 8,
+      "title": "A player cannot finish the obby",
+      "body": "<GFC.roblox_social.Result>"
+    },
+    "9": {
+      "id": 9,
+      "title": "A copied asset report",
+      "body": "<GFC.roblox_social.Result>"
+    },
+    "10": {
+      "id": 10,
+      "title": "A suspicious Robux offer",
+      "body": "<GFC.roblox_social.Result>"
+    },
+    "11": {
+      "id": 11,
+      "title": "Obby",
+      "body": "<GFC.roblox_social.Result>"
+    },
+    "12": {
+      "id": 12,
+      "title": "Tycoon",
+      "body": "<GFC.roblox_social.Result>"
+    },
+    "13": {
+      "id": 13,
+      "title": "Roleplay town",
+      "body": "<GFC.roblox_social.Result>"
+    },
+    "14": {
+      "id": 14,
+      "title": "Survival adventure",
+      "body": "<GFC.roblox_social.Result>"
+    },
+    "15": {
+      "id": 15,
+      "title": "Not ready yet",
+      "body": "Check your project stage, progress, beta test and existing purchases. Nothing was spent."
+    },
+    "16": {
+      "id": 16,
+      "title": "Publish your experience",
+      "body": "<GFC.roblox_social.Result>"
+    },
+    "17": {
+      "id": 17,
+      "title": "A full year of projects",
+      "body": "You used eight development activities at this age. Membership and your published work are retained."
+    },
+    "18": {
+      "id": 18,
+      "title": "My ROBLOX",
+      "body": "Your account, creations and membership travel with this life. Open the dashboard to collect any daily allowance earned since your last visit."
+    },
+    "19": {
+      "id": 19,
+      "title": "Not enough money in your game bank",
+      "body": "This membership uses the price shown from your character\u2019s BitLife bank balance. No game money, Robux, term or activity was changed."
+    },
+    "20": {
+      "id": 20,
+      "title": "My public places",
+      "body": "Your membership sets how many places you can publish. Expiry never deletes old places; you can make them private to free capacity while keeping your lifetime record."
+    },
+    "21": {
+      "id": 21,
+      "title": "Your Roblox story",
+      "body": "<GFC.roblox_social.Result>"
+    },
+    "22": {
+      "id": 22,
+      "title": "Ship an update and settle earnings",
+      "body": "<GFC.roblox_social.Result>"
+    },
+    "23": {
+      "id": 23,
+      "title": "Available from age 13",
+      "body": "This offline social simulation opens at age 13."
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "passed": true,
+  "tests_run": 18,
+  "expected": 18,
+  "native_sha256": "61afd9932b00583b74313645fb637fd29e640f85891d9f5d2d5d6c087f35c603",
+  "elapsed_seconds": 629.28,
+  "cases": [
+    {
+      "case": "school_finance1125.tests.Tests.test_classmate_invitation_once_current_roster_and_suspension",
+      "passed": true,
+      "returncode": 0,
+      "log_sha256": "20586c40e722a59415e645ea1c52a0d65e8f8ab797bf74f5b8cba6ecebd78695"
+    },
+    {
+      "case": "school_finance1125.tests.Tests.test_creator_cancel_library_and_failed_constructor_lookup",
+      "passed": true,
+      "returncode": 0,
+      "log_sha256": "438e56a45d19b88d9abca56a8bb946d09775582f9a00bbd5f0687e60f343c02a"
+    },
+    {
+      "case": "school_finance1125.tests.Tests.test_creator_previous_type_fails_real_enumerator_window_and_new_type_passes",
+      "passed": true,
+      "returncode": 0,
+      "log_sha256": "63187f7cf3208af6ae8d9882dab046ace5a08c92277c16388e8606947e305c18"
+    },
+    {
+      "case": "school_finance1125.tests.Tests.test_exchange_fees_wallet_currency_separation_insufficient_funds",
+      "passed": true,
+      "returncode": 0,
+      "log_sha256": "d914007ce9fd2d85269b617c6ffd6ded46de099d9eccac816d2760ce4a9b4743"
+    },
+    {
+      "case": "school_finance1125.tests.Tests.test_finance_projection_real_values_same_axis_no_balance_write",
+      "passed": true,
+      "returncode": 0,
+      "log_sha256": "784b98dec86103b9678644d6fcd0077316c2546540716ceffa14c7f18413956e"
+    },
+    {
+      "case": "school_finance1125.tests.Tests.test_new_life_year_and_genetics_keeps_1124_factory_cell",
+      "passed": true,
+      "returncode": 0,
+      "log_sha256": "b9371962545886facb0de5675179859347ec2abac4e6721d54c50a6a87e1eca4"
+    },
+    {
+      "case": "school_finance1125.tests.Tests.test_period_school_picture_varies_and_keeps_modern_fallback",
+      "passed": true,
+      "returncode": 0,
+      "log_sha256": "818947c4c98704fbd977d874c2a955b610a625892f4a80bc864348c2d9a74f7f"
+    },
+    {
+      "case": "school_finance1125.tests.Tests.test_suggested_poster_becomes_bounded_actual_contract",
+      "passed": true,
+      "returncode": 0,
+      "log_sha256": "325c1f5a71ed43b447eb2dd5b8b3733e4ad1f47efcc5863247f8c7bf2f9bd072"
+    },
+    {
+      "case": "school_finance1125.test_content.Tests.test_annual_entries_and_every_reachable_reply_keep_physical_csv",
+      "passed": true,
+      "returncode": 0,
+      "log_sha256": "94c798cc6454a30f9df317fa73673111454abdf3be5a8ebdb7139e009eb51a4c"
+    },
+    {
+      "case": "school_finance1125.test_content.Tests.test_era_draw_filters_suggestions_and_shared_scale",
+      "passed": true,
+      "returncode": 0,
+      "log_sha256": "1a37767a6fe4cf6295090e900258026eefe0fffdcf36039570168635be4a578b"
+    },
+    {
+      "case": "school_finance1125.test_content.Tests.test_new_glyphs_fields_and_saved_ids_are_valid",
+      "passed": true,
+      "returncode": 0,
+      "log_sha256": "c82c375c59fcf2ba0cbcdd2cd5e67c76c82d666f86916874a2159fffd2edff3a"
+    },
+    {
+      "case": "school_finance1125.test_content.Tests.test_other_gameplay_tables_and_old_art_identity_are_preserved",
+      "passed": true,
+      "returncode": 0,
+      "log_sha256": "db17927c710be4532fceb8ddf74d2ad6a8d4043456947810b7453c7cd1b4417d"
+    },
+    {
+      "case": "school_finance1125.test_content.Tests.test_suspension_blocks_effect_routes_and_keeps_principal_meeting",
+      "passed": true,
+      "returncode": 0,
+      "log_sha256": "b2bef61439e441041819f13c99710296a020fc4cbb32d4fa6d507cc20f207153"
+    },
+    {
+      "case": "school_finance1125.regressions.Appearance.test_logged_crash_old_boolean_receiver_and_current_actual_render_hook",
+      "passed": true,
+      "returncode": 0,
+      "log_sha256": "e4b5d1c2393b3ee498f67c392866a620d6e8b427529ef232162f2508fad97867"
+    },
+    {
+      "case": "school_finance1125.regressions.Appearance.test_unchanged_hair_zero_result_still_applies_modern_saved_genetics",
+      "passed": true,
+      "returncode": 0,
+      "log_sha256": "1ac2e65f64f10732c94b8faca080587f288378cbaf979941da0899cd117ba1bf"
+    },
+    {
+      "case": "school_finance1125.regressions.Cup.test_full_group_and_knockout_to_saved_world_title",
+      "passed": true,
+      "returncode": 0,
+      "log_sha256": "c930622715f95d047012761db5ffefa073324f620dad5d105022113e15ade9c7"
+    },
+    {
+      "case": "school_finance1125.regressions.Cup.test_extra_time_penalties_and_conceded_feedback",
+      "passed": true,
+      "returncode": 0,
+      "log_sha256": "be6e166807ac41fc7145998fa0a49d0bd6b277ec3a87781e62dd5e6ef4661087"
+    },
+    {
+      "case": "school_finance1125.regressions.Cup.test_four_year_schedule_region_and_profile_refresh",
+      "passed": true,
+      "returncode": 0,
+      "log_sha256": "6864c915eaccd8f6c21ce4bb1f00106bd7dd60cff39ed009dd64d7c4a201d267"
+    }
+  ],
+  "phone_tested": false,
+  "managed_Unity_APIs": "typed test doubles",
+  "ARM64": "emulated",
+  "prior_85_cases_rerun": false
+}

@@ -1,5 +1,42 @@
 # Instructions for Codex — MayoMods
 
+Active candidate is **1125**, `project/work/source/school_finance1125`; read
+its README and references/BUILD/ACCEPTANCE. The creator must construct the
+InputFieldArray declared class through IL2CPP field/type reflection and invoke
+its .ctor with an exception slot. AbstractScenario's shared typed input list is
+not the scenario ArrayList. Keep actual Add and the original seven text fields;
+the real translator enumerator window is part of the negative/current check.
+
+MonthlyOutflow returns FLOAT S0; promote to D0. Household income returns DOUBLE
+D0. Keep native bank denominations, read-only projection, visible fixed offline
+quotes, dated independent currency balances, exact funds/cap checks and the 2%
+fee at both exchange boundaries. Do not silently relabel native balances or
+revalue old assets/contracts. Town work/fresh bounties have targeted reductions.
+
+Classmate notices bind actual current pupils, age and Life/school/person GC
+handles. Release invalid scopes; losing handles must never clear the persistent
+answered age. Completed fight suspension effects require an actual current
+student/school and a once-age consequence marker. Keep principal/navigation
+paths and impossible manual continuation filters. New era events have their own
+native annual container, physical single-line CSV and reachable reply closure.
+US adult nineteenth-century posters are suggestions until a real eligible bounty
+job accepts a contract; existing case/lead/stage/payout locks remain authoritative.
+
+New school/wanted art is identified as original AI illustration; the cinema
+picture is supplied art. Do not label it archive media. Original stock/art/hair/
+resource IDs and approved selected/war/dark/journal paths remain. Roblox alone
+uses the offline page, original bridge and acknowledged saved transactions. The
+local obstacle-course session is not claimed as a persistent native 3D game.
+
+Use only unused RX and the isolated final 1.5 KB of existing era-world zero RW;
+no ELF size/layout, DEX/JNI/launcher, package/signer or old save-key changes.
+Keep 1124's 0x5c788f8 factory metadata cell and the appearance receiver repair.
+Eighteen exact-candidate native/content/retained cases and 78 Chromium checks
+passed. Phone/ART/Unity/WebView/real-save/FPS and the wider historical backlog
+remain open. APK-only upload and sanitized public source publication remain
+authorized. No raw phone logs/device IDs, native/APK inputs, keys or hosting
+replies/tokens in Git. Earlier blocks below are historical.
+
 Active candidate is **1124**, `project/work/source/hotfix1124`; read its README.
 This is a narrow, two-ADRP correction to 1123's shared New Life icon helper.
 0x5c7808f8 is a typo outside the ELF; 0x5c788f8 is derived from the original

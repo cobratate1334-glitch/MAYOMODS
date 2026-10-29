@@ -1,0 +1,39 @@
+{
+  "staged": true,
+  "signed": false,
+  "base_sha256": "f23afe8cf1402b7fed288efaf3f3b0cd0e0d1aaeee2278746b5dccdc93fc550e",
+  "apk_sha256": "5e9863d8d85d8020b3117615618ac3748277fcac522bfa7db813c5a373e36d51",
+  "native_sha256": "61afd9932b00583b74313645fb637fd29e640f85891d9f5d2d5d6c087f35c603",
+  "dex_sha256": "1f6e55b2f1a40039b1ba3083753a18ad69f9e2d22067420719afe6222ee638dd",
+  "modified_entries": [
+    "AndroidManifest.xml",
+    "assets/bin/Data/data.unity3d",
+    "assets/bin/Data/datapack.unity3d",
+    "assets/mayomods54/native_symbols.json",
+    "assets/mayoweb/app.js",
+    "assets/mayoweb/index.html",
+    "assets/mayoweb/site.css",
+    "lib/arm64-v8a/libil2cpp.so"
+  ],
+  "added_entries": [
+    "assets/native1125/ARTWORK.md"
+  ],
+  "version_code": 1125,
+  "changed_text_assets": [
+    "genesis_currencies1125",
+    "genesis_era_events1125",
+    "genesis_feature_containers",
+    "genesis_finance1125",
+    "genesis_life_rework",
+    "genesis_rework_annual1105",
+    "genesis_rework_defaults",
+    "genesis_school1110",
+    "genesis_v18_era44",
+    "genesis_v18_school52"
+  ],
+  "unrelated_Unity_objects_identical": 41840,
+  "all_other_APK_payloads_identical": true,
+  "all_existing_artwork_and_resources_preserved": true,
+  "new_resources": 11,
+  "phone_tested": false
+}
