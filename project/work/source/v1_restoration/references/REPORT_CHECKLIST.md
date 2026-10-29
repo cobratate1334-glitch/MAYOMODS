@@ -1,3 +1,14 @@
+Signed 1123: <https://gofile.io/d/5TBC79jt>. SHA256 `2159b701bc717a57438f8e3e62652e79d38e5370ef377f61c02aa63046959614`.
+85 exact-candidate automated cases passed; device and individual head-shape acceptance remain open.
+
+1123 follow-up: new phone evidence identifies the 1122 changed-bit-as-face
+crash at 0x21. The exact old/current renderer-chain regression, stale year-caption
+repair, native blue/green enums, actual icon widgets, owned genetics/year headers
+and stage/gender placement of the nine older hair styles are recorded in
+[repair1123](../../repair1123/README.md). All earlier report requests remain
+tracked; phone rendering, individual head shapes, real saves and measured speed
+are not certified by native/API/package checks. No raw phone evidence is public.
+
 Signed 1122: <https://gofile.io/d/6eia3d7B>. SHA256 `97924bf75115e9b591bd577c44e6f9f2666d908be01a981aee61ed6489f5ae98`.
 All 77 exact-candidate native/API/content/transition cases passed; phone acceptance is open.
 

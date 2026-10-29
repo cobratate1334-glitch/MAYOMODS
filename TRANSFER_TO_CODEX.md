@@ -1,5 +1,28 @@
 # Transfer this project to Codex
 
+**1123 New Life & Age-Up Fixes APK:** <https://gofile.io/d/5TBC79jt> (542,592,555 bytes).
+SHA256: `2159b701bc717a57438f8e3e62652e79d38e5370ef377f61c02aa63046959614`. Same update signer/package; 85 exact-candidate automated cases passed.
+Phone/ART/GPU/real-save, individual hair-fit and measured-performance acceptance remains open.
+
+Current **1123** is in `project/work/source/repair1123`. New phone evidence
+identifies a 1122 renderer regression: the period-hair helper returned a changed
+bit, then the saved-appearance call treated it as a face pointer. Reload the
+original face before that call. Full old/current chain tests check the exact
+0x21 failure, zero-result modern rendering and selected genetic layers.
+
+Refresh the rooted New Life year caption immediately for predefined and typed
+years; keep existing birth-year/token/stale-callback rules. Native blue/green
+colour enums replace the old boolean-as-colour error. Restore capsule geometry,
+size the actual emoji widgets and restrict year/genetics headers to their owned
+modes. Refit the nine older hair styles for native stage/gender crown geometry,
+retaining IDs/resources/evolution. Stock artwork, all TextAssets, era gates,
+World Cup, creator, annual pools, DEX/JNI/launcher, signer and saves remain.
+
+Read [1123 evidence and limits](project/work/source/repair1123/README.md).
+Phone/ART/GPU/real-save/performance and individual hair/head-shape acceptance
+remain open. The wider report is not universally fixed. Earlier blocks are
+historical; APK-only hosting and sanitized source publication remain authorized.
+
 **1122 Era Accuracy & Appearance APK:** <https://gofile.io/d/6eia3d7B> (541,601,873 bytes).
 SHA256: `97924bf75115e9b591bd577c44e6f9f2666d908be01a981aee61ed6489f5ae98`. Same update signer/package; 77 exact-candidate automated cases passed.
 Phone/ART/GPU/real-save and measured-performance acceptance remains open.

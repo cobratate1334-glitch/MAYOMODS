@@ -1,0 +1,14 @@
+{
+  "diagnostic_archive_sha256": "707335efcc3b0dd7f560a6fc618bc07ae34eb31004f17c79b6641fb549240890",
+  "embedded_build": "1122",
+  "embedded_native_sha256": "78c1e12105c12e71b59723056718a73e50ba84511e9aa89c3dfa9bdec422cf89",
+  "signal": "SIGSEGV SEGV_MAPERR",
+  "fault_address": "0x21",
+  "reported_Unity_relative_PC": "0x6b94044",
+  "mapping_resolved_file_offset": "0x6b90044",
+  "audited_ELF_virtual_PC": "0x6ba0044",
+  "instruction": "ldr x8, [x27, #0x20]",
+  "bad_receiver": 1,
+  "cause": "period-hair changed flag passed as the face receiver",
+  "phone_logs_and_identifiers_excluded": true
+}

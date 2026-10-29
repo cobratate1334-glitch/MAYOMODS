@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "apk_sha256": "2159b701bc717a57438f8e3e62652e79d38e5370ef377f61c02aa63046959614",
+  "apk_md5": "a2dfd934905f80ff7cab48e6ad513ab9",
+  "bytes": 542592555,
+  "native_sha256": "0e35d41ec0e74d7c992e628af0a673e9b85cc5614f996dc345dd2d3bb036381d",
+  "dex_sha256": "1f6e55b2f1a40039b1ba3083753a18ad69f9e2d22067420719afe6222ee638dd",
+  "certificate_sha256": "bb8062953a3abe6ed051c29f4d39051d8266940c912323560baa3b795ddd92ef",
+  "version_code": 1123,
+  "package": "com.candywriter.bitlife",
+  "same_development_signer": true,
+  "signatures": "verified=true\nv1=false\nv2=true\nv3=true\nerrors=[]\nwarnings=[]\nv2signerErrors=[]\nv2signerWarnings=[]\n",
+  "native_signer_verification": "verified=true; actual APK signer matches native SHA-1 check; fingerprint=s9Mv5b4Y3PApayxK/Xv57XgkhqI=\n",
+  "aapt2_badging_passed": true,
+  "ZIP_CRC_16KB_alignment_passed": true,
+  "all_unsigned_payloads_preserved": true,
+  "ART_tested": false,
+  "phone_install_tested": false,
+  "Unity_rendering_tested": false
+}

@@ -1,0 +1,25 @@
+{
+  "staged": true,
+  "signed": false,
+  "base_sha256": "97924bf75115e9b591bd577c44e6f9f2666d908be01a981aee61ed6489f5ae98",
+  "apk_sha256": "17966fd05285eea999152cf9858ff966943004c8638067e1d15b8863c86c6ea8",
+  "native_sha256": "0e35d41ec0e74d7c992e628af0a673e9b85cc5614f996dc345dd2d3bb036381d",
+  "dex_sha256": "1f6e55b2f1a40039b1ba3083753a18ad69f9e2d22067420719afe6222ee638dd",
+  "modified_entries": [
+    "AndroidManifest.xml",
+    "assets/bin/Data/datapack.unity3d",
+    "assets/mayomods54/native_symbols.json",
+    "lib/arm64-v8a/libil2cpp.so"
+  ],
+  "added_entries": [
+    "assets/native1123/ATTRIBUTION.md"
+  ],
+  "version_code": 1123,
+  "changed_text_assets": [],
+  "unrelated_Unity_objects_identical": 41739,
+  "all_other_APK_payloads_identical": true,
+  "stock_artwork_and_resource_IDs_preserved": true,
+  "legacy_hair_textures": 108,
+  "new_resources": 0,
+  "phone_tested": false
+}

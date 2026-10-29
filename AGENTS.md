@@ -1,5 +1,40 @@
 # Instructions for Codex — MayoMods
 
+Active candidate is **1123**, `project/work/source/repair1123`. Read its
+README and REQUESTS/FINDINGS/BUILD/ACCEPTANCE, then the full report checklist.
+New diagnostics identify 1122 despite the hardcoded 1110 filename/branding.
+The 1122 period-hair call returns a changed flag; reload the original saved x0
+before the subsequent face apply. The old chain dereferences 1+0x20. Keep the
+full old/current render-chain negative test, zero-result modern genetics and
+all 1122 era/appearance/menu/World Cup/creator/annual regressions. Helper-only
+checks missed the original defect and are not sufficient for this path.
+
+The year caption is refreshed through CandyButton.SetSingleCandyTextText
+(+normal/pressed) on actual rooted controls. compact_label takes a C-string
+prefix. Preserve typed-year response-token/bounds and owner guards. Keep birth
+selection separate from the currently running life. Blue=5/Green=0 are audited
+UIDARKLY_BUTTON_COLOR_TYPE enums; do not pass a boolean that selects Yellow=1.
+CandyButton +50/+58 are capsule images. Actual emoji widgets belong to the
+original resolved UIDarklyButtonDisplayObject (+38/+58). Size those, and keep
+the native capsule geometry, original callbacks and scroll parents.
+
+Year titles are year-mode-only. Genetics layout checks the actual selector GC
+lease and current category mode. Keep native face-editor transactions. Legacy
+v15 hair canvases are fitted per stage/gender using full stock Texture2D head
+coordinates; Sprite.image returns trimmed art and is the wrong reference here.
+Keep canvas edges fixed while fitting crown anchors, avoiding clipped loc tips.
+Only the 108 existing legacy hair Texture2Ds may change. Preserve all Sprite,
+texture/resource/save IDs, filenames, evolution links, stock art and TextAssets.
+
+Reuse only unused RX and an isolated 1 KB zero-filled RW slice after the 1122
+state. No ELF layout/size growth, new raw managed static pointers, DEX/JNI/
+launcher, package or signer changes. Phone/ART/GPU/real-save/FPS and individual
+hair/head-shape acceptance remain open; the full backlog is not declared fixed.
+Eighty-five exact-candidate automated cases passed; device acceptance remains
+open. APK-only hosting and sanitized public source publication remain authorized.
+Keep APKs, native inputs, phone logs/device identifiers, private keys and hosting
+replies/tokens out of Git. Earlier release blocks below are historical.
+
 Active candidate is **1122**, `project/work/source/era_accuracy1122`. Read its
 README and REQUESTS/FINDINGS/BUILD/ACCEPTANCE before the full report checklist.
 The Golden Resume qualified/ordinary and regular job rows need final SimJob ->

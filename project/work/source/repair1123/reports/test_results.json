@@ -1,0 +1,46 @@
+{
+  "passed": true,
+  "tests_run": 85,
+  "native_sha256": "0e35d41ec0e74d7c992e628af0a673e9b85cc5614f996dc345dd2d3bb036381d",
+  "test_layers": {
+    "boundaries": {
+      "tests": 7,
+      "log_sha256": "7329c77f1fbc39fba7c9db2ea2ae8880cd292f448bb317e83e06c03fb9350aa1"
+    },
+    "lease": {
+      "tests": 1,
+      "log_sha256": "a5e45f21bceb4dbbf2c726b5fd913cf7b786fcad245d37c2d9be1d5874cb2699"
+    },
+    "native": {
+      "tests": 16,
+      "log_sha256": "527ed94d21f40393f1dd0f2334602f52d61427810c49654907533982e8f34001"
+    },
+    "previous": {
+      "tests": 12,
+      "log_sha256": "e1d12fc6a3ae2c2e73026696b59350a2a6f6e2e27b3e86fd85ee0a61370833ea"
+    },
+    "retained": {
+      "tests": 28,
+      "log_sha256": "6285d9909fe89235b82a29bb785ab48a6fd99fd66040100701fcedbe15f274b5"
+    },
+    "content": {
+      "tests": 5,
+      "log_sha256": "82c1af3051695557633c943571aac930a424d83195309e575052ab0d46035388"
+    },
+    "menus": {
+      "tests": 15,
+      "log_sha256": "cf9fbb837da18111df80e4bae6bcbe5e3329362eba220f9bebbb31a57ce5da65"
+    },
+    "visual": {
+      "tests": 1,
+      "log_sha256": "a0fa5eebb3f04b7f40b674bb628ed8df94b5648570ce75e6eda0d7b05172d2ac"
+    }
+  },
+  "unchanged_text_assets_snapshot_sha256": "5fe8ca07545c6911e4930608e7de9f430a2824dee231df8cb05c20cbb280cb9b",
+  "staged_apk_sha256": "17966fd05285eea999152cf9858ff966943004c8638067e1d15b8863c86c6ea8",
+  "phone_tested": false,
+  "ART_tested": false,
+  "Unity_rendering_tested": false,
+  "real_save_tested": false,
+  "phone_FPS_measured": false
+}

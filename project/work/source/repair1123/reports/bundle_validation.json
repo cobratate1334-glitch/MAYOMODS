@@ -1,0 +1,2286 @@
+{
+  "passed": true,
+  "changed_text_assets": [],
+  "text_asset_sha256": {},
+  "unchanged_unrelated_unity_objects": 41739,
+  "stock_portraits_and_other_artwork_identical": true,
+  "existing_resource_aliases_and_IDs_preserved": true,
+  "existing_Sprite_objects_identical": true,
+  "legacy_hair_textures": 108,
+  "hair_placements": [
+    {
+      "name": "a16_faces-male-stage0-hair-base49-98000",
+      "gender": 0,
+      "stage": 0,
+      "style": 0,
+      "texture_id": 37103,
+      "sprite_id": 37104,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        84,
+        70,
+        415,
+        499
+      ],
+      "pixel_sha256": "4d3b953409c7dce9a771f0b7069d76b02fe2a759fbe2a0aa92d77147d4311064"
+    },
+    {
+      "name": "a16_faces-male-stage1-hair-base49-98001",
+      "gender": 0,
+      "stage": 1,
+      "style": 0,
+      "texture_id": 37105,
+      "sprite_id": 37106,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        86,
+        71,
+        416,
+        500
+      ],
+      "pixel_sha256": "e0bb15603cdcf17bff072b4891cb81543e8127c4d2f8dd3fefea17021a6cd322"
+    },
+    {
+      "name": "a16_faces-male-stage2-hair-base49-98002",
+      "gender": 0,
+      "stage": 2,
+      "style": 0,
+      "texture_id": 37107,
+      "sprite_id": 37108,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "pixel_sha256": "6cb7c460f028777a3a808319a401304484c96dd8d521ca5220e0ab7fbbfa0a8a"
+    },
+    {
+      "name": "a16_faces-male-stage3-hair-base49-98003",
+      "gender": 0,
+      "stage": 3,
+      "style": 0,
+      "texture_id": 37109,
+      "sprite_id": 37110,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        95,
+        35,
+        405,
+        497
+      ],
+      "pixel_sha256": "a7e1d0692bd89522c514030ca1fde21896355ac22533065a0f277720625a988c"
+    },
+    {
+      "name": "a16_faces-male-stage4-hair-base49-98004",
+      "gender": 0,
+      "stage": 4,
+      "style": 0,
+      "texture_id": 37111,
+      "sprite_id": 37112,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        95,
+        35,
+        405,
+        497
+      ],
+      "pixel_sha256": "a7e1d0692bd89522c514030ca1fde21896355ac22533065a0f277720625a988c"
+    },
+    {
+      "name": "a16_faces-male-stage5-hair-base49-98005",
+      "gender": 0,
+      "stage": 5,
+      "style": 0,
+      "texture_id": 37113,
+      "sprite_id": 37114,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        96,
+        36,
+        406,
+        498
+      ],
+      "pixel_sha256": "8fe867aa8ed31e409b5cf9191563022b8873c1c09a7eb5a036bf670ba44abd2b"
+    },
+    {
+      "name": "a16_faces-female-stage0-hair-base49-98010",
+      "gender": 1,
+      "stage": 0,
+      "style": 0,
+      "texture_id": 37115,
+      "sprite_id": 37116,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        84,
+        70,
+        415,
+        499
+      ],
+      "pixel_sha256": "4d3b953409c7dce9a771f0b7069d76b02fe2a759fbe2a0aa92d77147d4311064"
+    },
+    {
+      "name": "a16_faces-female-stage1-hair-base49-98011",
+      "gender": 1,
+      "stage": 1,
+      "style": 0,
+      "texture_id": 37117,
+      "sprite_id": 37118,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        86,
+        71,
+        416,
+        500
+      ],
+      "pixel_sha256": "e0bb15603cdcf17bff072b4891cb81543e8127c4d2f8dd3fefea17021a6cd322"
+    },
+    {
+      "name": "a16_faces-female-stage2-hair-base49-98012",
+      "gender": 1,
+      "stage": 2,
+      "style": 0,
+      "texture_id": 37119,
+      "sprite_id": 37120,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "pixel_sha256": "6cb7c460f028777a3a808319a401304484c96dd8d521ca5220e0ab7fbbfa0a8a"
+    },
+    {
+      "name": "a16_faces-female-stage3-hair-base49-98013",
+      "gender": 1,
+      "stage": 3,
+      "style": 0,
+      "texture_id": 37121,
+      "sprite_id": 37122,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        102,
+        50,
+        397,
+        496
+      ],
+      "pixel_sha256": "93518a32dfdc8970a68549f4bae84f19c4c16a6d7b0d64972f1e17e85de0490f"
+    },
+    {
+      "name": "a16_faces-female-stage4-hair-base49-98014",
+      "gender": 1,
+      "stage": 4,
+      "style": 0,
+      "texture_id": 37123,
+      "sprite_id": 37124,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        102,
+        50,
+        397,
+        496
+      ],
+      "pixel_sha256": "93518a32dfdc8970a68549f4bae84f19c4c16a6d7b0d64972f1e17e85de0490f"
+    },
+    {
+      "name": "a16_faces-female-stage5-hair-base49-98015",
+      "gender": 1,
+      "stage": 5,
+      "style": 0,
+      "texture_id": 37125,
+      "sprite_id": 37126,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        85,
+        41,
+        415,
+        499
+      ],
+      "pixel_sha256": "d18e4d660b43219915953c948195966bbda21fd207d749f9ca73521076c05345"
+    },
+    {
+      "name": "a16_faces-male-stage0-hair-base50-98100",
+      "gender": 0,
+      "stage": 0,
+      "style": 1,
+      "texture_id": 37127,
+      "sprite_id": 37128,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        84,
+        70,
+        415,
+        499
+      ],
+      "pixel_sha256": "5dbef0439e2e902debdfef46590dcf6b33607a9fcdbf70d4c7e1f228416deb20"
+    },
+    {
+      "name": "a16_faces-male-stage1-hair-base50-98101",
+      "gender": 0,
+      "stage": 1,
+      "style": 1,
+      "texture_id": 37129,
+      "sprite_id": 37130,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        86,
+        71,
+        416,
+        500
+      ],
+      "pixel_sha256": "c6e77b8620464b5792cff725c54c78f3f95c459a0c58aa0510cf355e0b74e68d"
+    },
+    {
+      "name": "a16_faces-male-stage2-hair-base50-98102",
+      "gender": 0,
+      "stage": 2,
+      "style": 1,
+      "texture_id": 37131,
+      "sprite_id": 37132,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "pixel_sha256": "4a5f66152daf2be1f9708450cd70389c6157f272e9e80be4fba456bdd595abc8"
+    },
+    {
+      "name": "a16_faces-male-stage3-hair-base50-98103",
+      "gender": 0,
+      "stage": 3,
+      "style": 1,
+      "texture_id": 37133,
+      "sprite_id": 37134,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        95,
+        35,
+        405,
+        497
+      ],
+      "pixel_sha256": "7d3828af493e73d78ba8cc7d393691ac82ff79a1022761e4126147a3cf6a370f"
+    },
+    {
+      "name": "a16_faces-male-stage4-hair-base50-98104",
+      "gender": 0,
+      "stage": 4,
+      "style": 1,
+      "texture_id": 37135,
+      "sprite_id": 37136,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        95,
+        35,
+        405,
+        497
+      ],
+      "pixel_sha256": "7d3828af493e73d78ba8cc7d393691ac82ff79a1022761e4126147a3cf6a370f"
+    },
+    {
+      "name": "a16_faces-male-stage5-hair-base50-98105",
+      "gender": 0,
+      "stage": 5,
+      "style": 1,
+      "texture_id": 37137,
+      "sprite_id": 37138,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        96,
+        36,
+        406,
+        498
+      ],
+      "pixel_sha256": "c4dfe75383f2eb8decd711e33d243869d1385b3ec91842c5de2323acc5bf25ba"
+    },
+    {
+      "name": "a16_faces-female-stage0-hair-base50-98110",
+      "gender": 1,
+      "stage": 0,
+      "style": 1,
+      "texture_id": 37139,
+      "sprite_id": 37140,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        84,
+        70,
+        415,
+        499
+      ],
+      "pixel_sha256": "5dbef0439e2e902debdfef46590dcf6b33607a9fcdbf70d4c7e1f228416deb20"
+    },
+    {
+      "name": "a16_faces-female-stage1-hair-base50-98111",
+      "gender": 1,
+      "stage": 1,
+      "style": 1,
+      "texture_id": 37141,
+      "sprite_id": 37142,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        86,
+        71,
+        416,
+        500
+      ],
+      "pixel_sha256": "c6e77b8620464b5792cff725c54c78f3f95c459a0c58aa0510cf355e0b74e68d"
+    },
+    {
+      "name": "a16_faces-female-stage2-hair-base50-98112",
+      "gender": 1,
+      "stage": 2,
+      "style": 1,
+      "texture_id": 37143,
+      "sprite_id": 37144,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "pixel_sha256": "4a5f66152daf2be1f9708450cd70389c6157f272e9e80be4fba456bdd595abc8"
+    },
+    {
+      "name": "a16_faces-female-stage3-hair-base50-98113",
+      "gender": 1,
+      "stage": 3,
+      "style": 1,
+      "texture_id": 37145,
+      "sprite_id": 37146,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        102,
+        50,
+        397,
+        496
+      ],
+      "pixel_sha256": "d38238cb795e0a28e790caddbc3ec72be06c977b64ebdada216c3f8b9cdc3ee1"
+    },
+    {
+      "name": "a16_faces-female-stage4-hair-base50-98114",
+      "gender": 1,
+      "stage": 4,
+      "style": 1,
+      "texture_id": 37147,
+      "sprite_id": 37148,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        102,
+        50,
+        397,
+        496
+      ],
+      "pixel_sha256": "d38238cb795e0a28e790caddbc3ec72be06c977b64ebdada216c3f8b9cdc3ee1"
+    },
+    {
+      "name": "a16_faces-female-stage5-hair-base50-98115",
+      "gender": 1,
+      "stage": 5,
+      "style": 1,
+      "texture_id": 37149,
+      "sprite_id": 37150,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        85,
+        41,
+        415,
+        499
+      ],
+      "pixel_sha256": "bc2a3cfaf04cfc32087f0d530301eb8b9a74d268a65f6163cff31e10efb65666"
+    },
+    {
+      "name": "a16_faces-male-stage0-hair-base51-98200",
+      "gender": 0,
+      "stage": 0,
+      "style": 2,
+      "texture_id": 37151,
+      "sprite_id": 37152,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        84,
+        70,
+        415,
+        499
+      ],
+      "pixel_sha256": "e565220b4c10a7e803a363f8dbed9c35b1f602c2f05783cece4cfbcf159179c5"
+    },
+    {
+      "name": "a16_faces-male-stage1-hair-base51-98201",
+      "gender": 0,
+      "stage": 1,
+      "style": 2,
+      "texture_id": 37153,
+      "sprite_id": 37154,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        86,
+        71,
+        416,
+        500
+      ],
+      "pixel_sha256": "f5accd1bbefe9d73ba51015022e8a89a1b5589d2cc1b2b9bfb162899807221f3"
+    },
+    {
+      "name": "a16_faces-male-stage2-hair-base51-98202",
+      "gender": 0,
+      "stage": 2,
+      "style": 2,
+      "texture_id": 37155,
+      "sprite_id": 37156,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "pixel_sha256": "39b6c1a86183ba0be3f8dbb69e291659f556ca22fa4dd3c5a048175dcb24424e"
+    },
+    {
+      "name": "a16_faces-male-stage3-hair-base51-98203",
+      "gender": 0,
+      "stage": 3,
+      "style": 2,
+      "texture_id": 37157,
+      "sprite_id": 37158,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        95,
+        35,
+        405,
+        497
+      ],
+      "pixel_sha256": "b1845e988ef4ac6368721c9eb44ab1366d8cbae1e75d19e9431f4e64ee94a27f"
+    },
+    {
+      "name": "a16_faces-male-stage4-hair-base51-98204",
+      "gender": 0,
+      "stage": 4,
+      "style": 2,
+      "texture_id": 37159,
+      "sprite_id": 37160,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        95,
+        35,
+        405,
+        497
+      ],
+      "pixel_sha256": "b1845e988ef4ac6368721c9eb44ab1366d8cbae1e75d19e9431f4e64ee94a27f"
+    },
+    {
+      "name": "a16_faces-male-stage5-hair-base51-98205",
+      "gender": 0,
+      "stage": 5,
+      "style": 2,
+      "texture_id": 37161,
+      "sprite_id": 37162,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        96,
+        36,
+        406,
+        498
+      ],
+      "pixel_sha256": "c3477aa031a450692249d5327c953c33810437368b38d7ac26ae38aa08565330"
+    },
+    {
+      "name": "a16_faces-female-stage0-hair-base51-98210",
+      "gender": 1,
+      "stage": 0,
+      "style": 2,
+      "texture_id": 37163,
+      "sprite_id": 37164,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        84,
+        70,
+        415,
+        499
+      ],
+      "pixel_sha256": "e565220b4c10a7e803a363f8dbed9c35b1f602c2f05783cece4cfbcf159179c5"
+    },
+    {
+      "name": "a16_faces-female-stage1-hair-base51-98211",
+      "gender": 1,
+      "stage": 1,
+      "style": 2,
+      "texture_id": 37165,
+      "sprite_id": 37166,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        86,
+        71,
+        416,
+        500
+      ],
+      "pixel_sha256": "f5accd1bbefe9d73ba51015022e8a89a1b5589d2cc1b2b9bfb162899807221f3"
+    },
+    {
+      "name": "a16_faces-female-stage2-hair-base51-98212",
+      "gender": 1,
+      "stage": 2,
+      "style": 2,
+      "texture_id": 37167,
+      "sprite_id": 37168,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "pixel_sha256": "39b6c1a86183ba0be3f8dbb69e291659f556ca22fa4dd3c5a048175dcb24424e"
+    },
+    {
+      "name": "a16_faces-female-stage3-hair-base51-98213",
+      "gender": 1,
+      "stage": 3,
+      "style": 2,
+      "texture_id": 37169,
+      "sprite_id": 37170,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        102,
+        50,
+        397,
+        496
+      ],
+      "pixel_sha256": "e7a481a6ffab48b2b6997b8e085fbd4a076faa3ce0a0a8b938a8a601a73f8123"
+    },
+    {
+      "name": "a16_faces-female-stage4-hair-base51-98214",
+      "gender": 1,
+      "stage": 4,
+      "style": 2,
+      "texture_id": 37171,
+      "sprite_id": 37172,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        102,
+        50,
+        397,
+        496
+      ],
+      "pixel_sha256": "e7a481a6ffab48b2b6997b8e085fbd4a076faa3ce0a0a8b938a8a601a73f8123"
+    },
+    {
+      "name": "a16_faces-female-stage5-hair-base51-98215",
+      "gender": 1,
+      "stage": 5,
+      "style": 2,
+      "texture_id": 37173,
+      "sprite_id": 37174,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        85,
+        41,
+        415,
+        499
+      ],
+      "pixel_sha256": "4fc4b9571cc5fa1bb3b247571bf9455617437325ee1ddcbc2cbffaee3f1c7128"
+    },
+    {
+      "name": "a16_faces-male-stage0-hair-base52-98300",
+      "gender": 0,
+      "stage": 0,
+      "style": 3,
+      "texture_id": 37175,
+      "sprite_id": 37176,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        84,
+        70,
+        415,
+        499
+      ],
+      "pixel_sha256": "6c7623d87278cd7c4b611e01242fa90f82f32f9e53b366346bb83da19f790035"
+    },
+    {
+      "name": "a16_faces-male-stage1-hair-base52-98301",
+      "gender": 0,
+      "stage": 1,
+      "style": 3,
+      "texture_id": 37177,
+      "sprite_id": 37178,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        86,
+        71,
+        416,
+        500
+      ],
+      "pixel_sha256": "15e13e2afbedd2f28c9d34132dcbdc0811849761c2041884d839d568860d9cbb"
+    },
+    {
+      "name": "a16_faces-male-stage2-hair-base52-98302",
+      "gender": 0,
+      "stage": 2,
+      "style": 3,
+      "texture_id": 37179,
+      "sprite_id": 37180,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "pixel_sha256": "32ce14cd8c7da9c47f12f981a5e000e2ffe69a1b8c9c6b5403a6d405e589b3d7"
+    },
+    {
+      "name": "a16_faces-male-stage3-hair-base52-98303",
+      "gender": 0,
+      "stage": 3,
+      "style": 3,
+      "texture_id": 37181,
+      "sprite_id": 37182,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        95,
+        35,
+        405,
+        497
+      ],
+      "pixel_sha256": "bdd75644d243a0a17258bf0cb710fdb8cd9774692d6ead501564685e05cfc086"
+    },
+    {
+      "name": "a16_faces-male-stage4-hair-base52-98304",
+      "gender": 0,
+      "stage": 4,
+      "style": 3,
+      "texture_id": 37183,
+      "sprite_id": 37184,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        95,
+        35,
+        405,
+        497
+      ],
+      "pixel_sha256": "bdd75644d243a0a17258bf0cb710fdb8cd9774692d6ead501564685e05cfc086"
+    },
+    {
+      "name": "a16_faces-male-stage5-hair-base52-98305",
+      "gender": 0,
+      "stage": 5,
+      "style": 3,
+      "texture_id": 37185,
+      "sprite_id": 37186,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        96,
+        36,
+        406,
+        498
+      ],
+      "pixel_sha256": "71f84f2f1e7cba7e56353999651c434da8da6e4ffa5d086aca962e14ed44d68f"
+    },
+    {
+      "name": "a16_faces-female-stage0-hair-base52-98310",
+      "gender": 1,
+      "stage": 0,
+      "style": 3,
+      "texture_id": 37187,
+      "sprite_id": 37188,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        84,
+        70,
+        415,
+        499
+      ],
+      "pixel_sha256": "6c7623d87278cd7c4b611e01242fa90f82f32f9e53b366346bb83da19f790035"
+    },
+    {
+      "name": "a16_faces-female-stage1-hair-base52-98311",
+      "gender": 1,
+      "stage": 1,
+      "style": 3,
+      "texture_id": 37189,
+      "sprite_id": 37190,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        86,
+        71,
+        416,
+        500
+      ],
+      "pixel_sha256": "15e13e2afbedd2f28c9d34132dcbdc0811849761c2041884d839d568860d9cbb"
+    },
+    {
+      "name": "a16_faces-female-stage2-hair-base52-98312",
+      "gender": 1,
+      "stage": 2,
+      "style": 3,
+      "texture_id": 37191,
+      "sprite_id": 37192,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "pixel_sha256": "32ce14cd8c7da9c47f12f981a5e000e2ffe69a1b8c9c6b5403a6d405e589b3d7"
+    },
+    {
+      "name": "a16_faces-female-stage3-hair-base52-98313",
+      "gender": 1,
+      "stage": 3,
+      "style": 3,
+      "texture_id": 37193,
+      "sprite_id": 37194,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        102,
+        50,
+        397,
+        496
+      ],
+      "pixel_sha256": "e387460d459d167b78b3173143433328bb9a5e26b6db34a900d0ce6047b14982"
+    },
+    {
+      "name": "a16_faces-female-stage4-hair-base52-98314",
+      "gender": 1,
+      "stage": 4,
+      "style": 3,
+      "texture_id": 37195,
+      "sprite_id": 37196,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        102,
+        50,
+        397,
+        496
+      ],
+      "pixel_sha256": "e387460d459d167b78b3173143433328bb9a5e26b6db34a900d0ce6047b14982"
+    },
+    {
+      "name": "a16_faces-female-stage5-hair-base52-98315",
+      "gender": 1,
+      "stage": 5,
+      "style": 3,
+      "texture_id": 37197,
+      "sprite_id": 37198,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        85,
+        41,
+        415,
+        499
+      ],
+      "pixel_sha256": "dfe3ce1a8474985968cae81a32b2b73e741eabede528377d5c965b6d2bc7f056"
+    },
+    {
+      "name": "a16_faces-male-stage0-hair-base53-98400",
+      "gender": 0,
+      "stage": 0,
+      "style": 4,
+      "texture_id": 37199,
+      "sprite_id": 37200,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        84,
+        70,
+        415,
+        499
+      ],
+      "pixel_sha256": "eb318217111ffb5a8ac4f3d7243953252130f1ebf3fdddc581c9f495f56f1a76"
+    },
+    {
+      "name": "a16_faces-male-stage1-hair-base53-98401",
+      "gender": 0,
+      "stage": 1,
+      "style": 4,
+      "texture_id": 37201,
+      "sprite_id": 37202,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        86,
+        71,
+        416,
+        500
+      ],
+      "pixel_sha256": "adeeaded36376c3523057a5df0ab841cd8862d44fa9f4b5004e47f5d85158480"
+    },
+    {
+      "name": "a16_faces-male-stage2-hair-base53-98402",
+      "gender": 0,
+      "stage": 2,
+      "style": 4,
+      "texture_id": 37203,
+      "sprite_id": 37204,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "pixel_sha256": "8b01a8161667ebcc9e5a1d1f41053dc3a89311ba1f68dfc6c342b05cc456bbee"
+    },
+    {
+      "name": "a16_faces-male-stage3-hair-base53-98403",
+      "gender": 0,
+      "stage": 3,
+      "style": 4,
+      "texture_id": 37205,
+      "sprite_id": 37206,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        95,
+        35,
+        405,
+        497
+      ],
+      "pixel_sha256": "c982cbe01d4796925cbb85000f7899ec1f57fe24368d8d6effb1253192a7ea2d"
+    },
+    {
+      "name": "a16_faces-male-stage4-hair-base53-98404",
+      "gender": 0,
+      "stage": 4,
+      "style": 4,
+      "texture_id": 37207,
+      "sprite_id": 37208,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        95,
+        35,
+        405,
+        497
+      ],
+      "pixel_sha256": "c982cbe01d4796925cbb85000f7899ec1f57fe24368d8d6effb1253192a7ea2d"
+    },
+    {
+      "name": "a16_faces-male-stage5-hair-base53-98405",
+      "gender": 0,
+      "stage": 5,
+      "style": 4,
+      "texture_id": 37209,
+      "sprite_id": 37210,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        96,
+        36,
+        406,
+        498
+      ],
+      "pixel_sha256": "eccd929dc4c8dfacd7dcdb280840445282baeb4f2c4586ddb743d4af9b8d6727"
+    },
+    {
+      "name": "a16_faces-female-stage0-hair-base53-98410",
+      "gender": 1,
+      "stage": 0,
+      "style": 4,
+      "texture_id": 37211,
+      "sprite_id": 37212,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        84,
+        70,
+        415,
+        499
+      ],
+      "pixel_sha256": "eb318217111ffb5a8ac4f3d7243953252130f1ebf3fdddc581c9f495f56f1a76"
+    },
+    {
+      "name": "a16_faces-female-stage1-hair-base53-98411",
+      "gender": 1,
+      "stage": 1,
+      "style": 4,
+      "texture_id": 37213,
+      "sprite_id": 37214,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        86,
+        71,
+        416,
+        500
+      ],
+      "pixel_sha256": "adeeaded36376c3523057a5df0ab841cd8862d44fa9f4b5004e47f5d85158480"
+    },
+    {
+      "name": "a16_faces-female-stage2-hair-base53-98412",
+      "gender": 1,
+      "stage": 2,
+      "style": 4,
+      "texture_id": 37215,
+      "sprite_id": 37216,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "pixel_sha256": "8b01a8161667ebcc9e5a1d1f41053dc3a89311ba1f68dfc6c342b05cc456bbee"
+    },
+    {
+      "name": "a16_faces-female-stage3-hair-base53-98413",
+      "gender": 1,
+      "stage": 3,
+      "style": 4,
+      "texture_id": 37217,
+      "sprite_id": 37218,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        102,
+        50,
+        397,
+        496
+      ],
+      "pixel_sha256": "fe5aaba4c81794fd5089132ede658c49eae39c417758750cda87870e444b9d4f"
+    },
+    {
+      "name": "a16_faces-female-stage4-hair-base53-98414",
+      "gender": 1,
+      "stage": 4,
+      "style": 4,
+      "texture_id": 37219,
+      "sprite_id": 37220,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        102,
+        50,
+        397,
+        496
+      ],
+      "pixel_sha256": "fe5aaba4c81794fd5089132ede658c49eae39c417758750cda87870e444b9d4f"
+    },
+    {
+      "name": "a16_faces-female-stage5-hair-base53-98415",
+      "gender": 1,
+      "stage": 5,
+      "style": 4,
+      "texture_id": 37221,
+      "sprite_id": 37222,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        85,
+        41,
+        415,
+        499
+      ],
+      "pixel_sha256": "6eba82791864226615817cc412d45fa8ecd231b33c98b522d781931f34d0f79c"
+    },
+    {
+      "name": "a16_faces-male-stage0-hair-base54-98500",
+      "gender": 0,
+      "stage": 0,
+      "style": 5,
+      "texture_id": 37223,
+      "sprite_id": 37224,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        84,
+        70,
+        415,
+        499
+      ],
+      "pixel_sha256": "dbd6a6c51790196452e6e385440d8b6ade3cf66ff4a320eaf7fc4d60089ba989"
+    },
+    {
+      "name": "a16_faces-male-stage1-hair-base54-98501",
+      "gender": 0,
+      "stage": 1,
+      "style": 5,
+      "texture_id": 37225,
+      "sprite_id": 37226,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        86,
+        71,
+        416,
+        500
+      ],
+      "pixel_sha256": "29d1229384fe0a930bf367817198b30d8afb6c2fe85fafa4c662673b9b29cfed"
+    },
+    {
+      "name": "a16_faces-male-stage2-hair-base54-98502",
+      "gender": 0,
+      "stage": 2,
+      "style": 5,
+      "texture_id": 37227,
+      "sprite_id": 37228,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "pixel_sha256": "adb63f727600f5c7579243d8b534048e9b24063830dcd8cfadce665c9f1526a9"
+    },
+    {
+      "name": "a16_faces-male-stage3-hair-base54-98503",
+      "gender": 0,
+      "stage": 3,
+      "style": 5,
+      "texture_id": 37229,
+      "sprite_id": 37230,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        95,
+        35,
+        405,
+        497
+      ],
+      "pixel_sha256": "cd93bbcb99d6e87a6e6049e0f892f448e10a092d1dc655a19680594dc66f7a6b"
+    },
+    {
+      "name": "a16_faces-male-stage4-hair-base54-98504",
+      "gender": 0,
+      "stage": 4,
+      "style": 5,
+      "texture_id": 37231,
+      "sprite_id": 37232,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        95,
+        35,
+        405,
+        497
+      ],
+      "pixel_sha256": "cd93bbcb99d6e87a6e6049e0f892f448e10a092d1dc655a19680594dc66f7a6b"
+    },
+    {
+      "name": "a16_faces-male-stage5-hair-base54-98505",
+      "gender": 0,
+      "stage": 5,
+      "style": 5,
+      "texture_id": 37233,
+      "sprite_id": 37234,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        96,
+        36,
+        406,
+        498
+      ],
+      "pixel_sha256": "868180bf952470820c04b9d49dc7ff8e935cffbbea262c88132d31f6d705e62b"
+    },
+    {
+      "name": "a16_faces-female-stage0-hair-base54-98510",
+      "gender": 1,
+      "stage": 0,
+      "style": 5,
+      "texture_id": 37235,
+      "sprite_id": 37236,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        84,
+        70,
+        415,
+        499
+      ],
+      "pixel_sha256": "dbd6a6c51790196452e6e385440d8b6ade3cf66ff4a320eaf7fc4d60089ba989"
+    },
+    {
+      "name": "a16_faces-female-stage1-hair-base54-98511",
+      "gender": 1,
+      "stage": 1,
+      "style": 5,
+      "texture_id": 37237,
+      "sprite_id": 37238,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        86,
+        71,
+        416,
+        500
+      ],
+      "pixel_sha256": "29d1229384fe0a930bf367817198b30d8afb6c2fe85fafa4c662673b9b29cfed"
+    },
+    {
+      "name": "a16_faces-female-stage2-hair-base54-98512",
+      "gender": 1,
+      "stage": 2,
+      "style": 5,
+      "texture_id": 37239,
+      "sprite_id": 37240,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "pixel_sha256": "adb63f727600f5c7579243d8b534048e9b24063830dcd8cfadce665c9f1526a9"
+    },
+    {
+      "name": "a16_faces-female-stage3-hair-base54-98513",
+      "gender": 1,
+      "stage": 3,
+      "style": 5,
+      "texture_id": 37241,
+      "sprite_id": 37242,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        102,
+        50,
+        397,
+        496
+      ],
+      "pixel_sha256": "d3842434c3dcb17eacf5b9db71c19e26f50fd1d3d35f8a4a3e4c57b0e7858e6e"
+    },
+    {
+      "name": "a16_faces-female-stage4-hair-base54-98514",
+      "gender": 1,
+      "stage": 4,
+      "style": 5,
+      "texture_id": 37243,
+      "sprite_id": 37244,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        102,
+        50,
+        397,
+        496
+      ],
+      "pixel_sha256": "d3842434c3dcb17eacf5b9db71c19e26f50fd1d3d35f8a4a3e4c57b0e7858e6e"
+    },
+    {
+      "name": "a16_faces-female-stage5-hair-base54-98515",
+      "gender": 1,
+      "stage": 5,
+      "style": 5,
+      "texture_id": 37245,
+      "sprite_id": 37246,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        85,
+        41,
+        415,
+        499
+      ],
+      "pixel_sha256": "5e2d48ec19a216a315b5e49e0551738955f5ea9c92f2efdacf62d68b01b5c460"
+    },
+    {
+      "name": "a16_faces-male-stage0-hair-base55-98600",
+      "gender": 0,
+      "stage": 0,
+      "style": 6,
+      "texture_id": 37247,
+      "sprite_id": 37248,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        84,
+        70,
+        415,
+        499
+      ],
+      "pixel_sha256": "ce80c9309df8dcff0bb8369ef7fbeb2d7718fecd796761e2e654bd8efe31c6fc"
+    },
+    {
+      "name": "a16_faces-male-stage1-hair-base55-98601",
+      "gender": 0,
+      "stage": 1,
+      "style": 6,
+      "texture_id": 37249,
+      "sprite_id": 37250,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        86,
+        71,
+        416,
+        500
+      ],
+      "pixel_sha256": "261ba3af53c3531ea2ddc704a03471d0ef771c5bed7158b21dc4a68a66a48a79"
+    },
+    {
+      "name": "a16_faces-male-stage2-hair-base55-98602",
+      "gender": 0,
+      "stage": 2,
+      "style": 6,
+      "texture_id": 37251,
+      "sprite_id": 37252,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "pixel_sha256": "59788fee7750f41059aa85ed57100dacb59a1412600c3c98701c541de4f7f5f5"
+    },
+    {
+      "name": "a16_faces-male-stage3-hair-base55-98603",
+      "gender": 0,
+      "stage": 3,
+      "style": 6,
+      "texture_id": 37253,
+      "sprite_id": 37254,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        95,
+        35,
+        405,
+        497
+      ],
+      "pixel_sha256": "3e473174baa37ae0e69a92adc520d3081d1bda0ba39da207c69caece092497c2"
+    },
+    {
+      "name": "a16_faces-male-stage4-hair-base55-98604",
+      "gender": 0,
+      "stage": 4,
+      "style": 6,
+      "texture_id": 37255,
+      "sprite_id": 37256,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        95,
+        35,
+        405,
+        497
+      ],
+      "pixel_sha256": "3e473174baa37ae0e69a92adc520d3081d1bda0ba39da207c69caece092497c2"
+    },
+    {
+      "name": "a16_faces-male-stage5-hair-base55-98605",
+      "gender": 0,
+      "stage": 5,
+      "style": 6,
+      "texture_id": 37257,
+      "sprite_id": 37258,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        96,
+        36,
+        406,
+        498
+      ],
+      "pixel_sha256": "3357d2046520b56528dc42b7529b375ca3710be031121bb2f68ed9d2677b44fa"
+    },
+    {
+      "name": "a16_faces-female-stage0-hair-base55-98610",
+      "gender": 1,
+      "stage": 0,
+      "style": 6,
+      "texture_id": 37259,
+      "sprite_id": 37260,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        84,
+        70,
+        415,
+        499
+      ],
+      "pixel_sha256": "ce80c9309df8dcff0bb8369ef7fbeb2d7718fecd796761e2e654bd8efe31c6fc"
+    },
+    {
+      "name": "a16_faces-female-stage1-hair-base55-98611",
+      "gender": 1,
+      "stage": 1,
+      "style": 6,
+      "texture_id": 37261,
+      "sprite_id": 37262,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        86,
+        71,
+        416,
+        500
+      ],
+      "pixel_sha256": "261ba3af53c3531ea2ddc704a03471d0ef771c5bed7158b21dc4a68a66a48a79"
+    },
+    {
+      "name": "a16_faces-female-stage2-hair-base55-98612",
+      "gender": 1,
+      "stage": 2,
+      "style": 6,
+      "texture_id": 37263,
+      "sprite_id": 37264,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "pixel_sha256": "59788fee7750f41059aa85ed57100dacb59a1412600c3c98701c541de4f7f5f5"
+    },
+    {
+      "name": "a16_faces-female-stage3-hair-base55-98613",
+      "gender": 1,
+      "stage": 3,
+      "style": 6,
+      "texture_id": 37265,
+      "sprite_id": 37266,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        102,
+        50,
+        397,
+        496
+      ],
+      "pixel_sha256": "2d8b3657bb235cf82fcec7db570aacd842e9d3ab53a66c1ecab5fe2f35752c32"
+    },
+    {
+      "name": "a16_faces-female-stage4-hair-base55-98614",
+      "gender": 1,
+      "stage": 4,
+      "style": 6,
+      "texture_id": 37267,
+      "sprite_id": 37268,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        102,
+        50,
+        397,
+        496
+      ],
+      "pixel_sha256": "2d8b3657bb235cf82fcec7db570aacd842e9d3ab53a66c1ecab5fe2f35752c32"
+    },
+    {
+      "name": "a16_faces-female-stage5-hair-base55-98615",
+      "gender": 1,
+      "stage": 5,
+      "style": 6,
+      "texture_id": 37269,
+      "sprite_id": 37270,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        85,
+        41,
+        415,
+        499
+      ],
+      "pixel_sha256": "76d23d18c9641cfb608dfdfac6f071c66a06d67c02a18b2677e99af4bbb02e3e"
+    },
+    {
+      "name": "a16_faces-male-stage0-hair-base56-98700",
+      "gender": 0,
+      "stage": 0,
+      "style": 7,
+      "texture_id": 37271,
+      "sprite_id": 37272,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        84,
+        70,
+        415,
+        499
+      ],
+      "pixel_sha256": "386f688f96099a25689bc3ed8da717c9cc28660a0abc0e9340be99e3186d8393"
+    },
+    {
+      "name": "a16_faces-male-stage1-hair-base56-98701",
+      "gender": 0,
+      "stage": 1,
+      "style": 7,
+      "texture_id": 37273,
+      "sprite_id": 37274,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        86,
+        71,
+        416,
+        500
+      ],
+      "pixel_sha256": "4e33ea00e687c7e67db3d0ce855fb47b4246a505a05e435727fbee12ece19de3"
+    },
+    {
+      "name": "a16_faces-male-stage2-hair-base56-98702",
+      "gender": 0,
+      "stage": 2,
+      "style": 7,
+      "texture_id": 37275,
+      "sprite_id": 37276,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "pixel_sha256": "f1ad00447753e3598ad3d134d71b1fd1f9345401f1fd0921735eca74354666c1"
+    },
+    {
+      "name": "a16_faces-male-stage3-hair-base56-98703",
+      "gender": 0,
+      "stage": 3,
+      "style": 7,
+      "texture_id": 37277,
+      "sprite_id": 37278,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        95,
+        35,
+        405,
+        497
+      ],
+      "pixel_sha256": "06f90cb3c3d6a44f5f12d5e44a15927db9fcd50e4d66b294fae6912c366b36bf"
+    },
+    {
+      "name": "a16_faces-male-stage4-hair-base56-98704",
+      "gender": 0,
+      "stage": 4,
+      "style": 7,
+      "texture_id": 37279,
+      "sprite_id": 37280,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        95,
+        35,
+        405,
+        497
+      ],
+      "pixel_sha256": "06f90cb3c3d6a44f5f12d5e44a15927db9fcd50e4d66b294fae6912c366b36bf"
+    },
+    {
+      "name": "a16_faces-male-stage5-hair-base56-98705",
+      "gender": 0,
+      "stage": 5,
+      "style": 7,
+      "texture_id": 37281,
+      "sprite_id": 37282,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        96,
+        36,
+        406,
+        498
+      ],
+      "pixel_sha256": "beea8e76a88f11db0e9540945f3ba5f5a3349bb5ad2b3cd82dbc9e4a346f051b"
+    },
+    {
+      "name": "a16_faces-female-stage0-hair-base56-98710",
+      "gender": 1,
+      "stage": 0,
+      "style": 7,
+      "texture_id": 37283,
+      "sprite_id": 37284,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        84,
+        70,
+        415,
+        499
+      ],
+      "pixel_sha256": "386f688f96099a25689bc3ed8da717c9cc28660a0abc0e9340be99e3186d8393"
+    },
+    {
+      "name": "a16_faces-female-stage1-hair-base56-98711",
+      "gender": 1,
+      "stage": 1,
+      "style": 7,
+      "texture_id": 37285,
+      "sprite_id": 37286,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        86,
+        71,
+        416,
+        500
+      ],
+      "pixel_sha256": "4e33ea00e687c7e67db3d0ce855fb47b4246a505a05e435727fbee12ece19de3"
+    },
+    {
+      "name": "a16_faces-female-stage2-hair-base56-98712",
+      "gender": 1,
+      "stage": 2,
+      "style": 7,
+      "texture_id": 37287,
+      "sprite_id": 37288,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "pixel_sha256": "f1ad00447753e3598ad3d134d71b1fd1f9345401f1fd0921735eca74354666c1"
+    },
+    {
+      "name": "a16_faces-female-stage3-hair-base56-98713",
+      "gender": 1,
+      "stage": 3,
+      "style": 7,
+      "texture_id": 37289,
+      "sprite_id": 37290,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        102,
+        50,
+        397,
+        496
+      ],
+      "pixel_sha256": "ee652eca4a6ef041bcbedd5b4d7e03d6778cad19f1fee4f8a21d003216b2784f"
+    },
+    {
+      "name": "a16_faces-female-stage4-hair-base56-98714",
+      "gender": 1,
+      "stage": 4,
+      "style": 7,
+      "texture_id": 37291,
+      "sprite_id": 37292,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        102,
+        50,
+        397,
+        496
+      ],
+      "pixel_sha256": "ee652eca4a6ef041bcbedd5b4d7e03d6778cad19f1fee4f8a21d003216b2784f"
+    },
+    {
+      "name": "a16_faces-female-stage5-hair-base56-98715",
+      "gender": 1,
+      "stage": 5,
+      "style": 7,
+      "texture_id": 37293,
+      "sprite_id": 37294,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        85,
+        41,
+        415,
+        499
+      ],
+      "pixel_sha256": "0527b3b513f8553749859eb3b360e5cbbddb3f7c805e8b5cdea6d66a080c223b"
+    },
+    {
+      "name": "a16_faces-male-stage0-hair-base57-98800",
+      "gender": 0,
+      "stage": 0,
+      "style": 8,
+      "texture_id": 37295,
+      "sprite_id": 37296,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        84,
+        70,
+        415,
+        499
+      ],
+      "pixel_sha256": "e77909e42784878af4319e36ab83ffeb9d365944b996cb19245730aeca192b43"
+    },
+    {
+      "name": "a16_faces-male-stage1-hair-base57-98801",
+      "gender": 0,
+      "stage": 1,
+      "style": 8,
+      "texture_id": 37297,
+      "sprite_id": 37298,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        86,
+        71,
+        416,
+        500
+      ],
+      "pixel_sha256": "ee2ae79bf0ee707529a8960ede818685cf32209da322794ffbd9c7f3d62b62c5"
+    },
+    {
+      "name": "a16_faces-male-stage2-hair-base57-98802",
+      "gender": 0,
+      "stage": 2,
+      "style": 8,
+      "texture_id": 37299,
+      "sprite_id": 37300,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "pixel_sha256": "36f0b1b31a7b29947172f293571729d50e9549a69d17f89b5ccc3ac567d5fd16"
+    },
+    {
+      "name": "a16_faces-male-stage3-hair-base57-98803",
+      "gender": 0,
+      "stage": 3,
+      "style": 8,
+      "texture_id": 37301,
+      "sprite_id": 37302,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        95,
+        35,
+        405,
+        497
+      ],
+      "pixel_sha256": "dbe8cee38993aede6d70f3b2f1c5038662466069ecc8311d2438c9f51ff94a11"
+    },
+    {
+      "name": "a16_faces-male-stage4-hair-base57-98804",
+      "gender": 0,
+      "stage": 4,
+      "style": 8,
+      "texture_id": 37303,
+      "sprite_id": 37304,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        95,
+        35,
+        405,
+        497
+      ],
+      "pixel_sha256": "dbe8cee38993aede6d70f3b2f1c5038662466069ecc8311d2438c9f51ff94a11"
+    },
+    {
+      "name": "a16_faces-male-stage5-hair-base57-98805",
+      "gender": 0,
+      "stage": 5,
+      "style": 8,
+      "texture_id": 37305,
+      "sprite_id": 37306,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        96,
+        36,
+        406,
+        498
+      ],
+      "pixel_sha256": "b1e3c2b06894a0bd8d4d5da29dd47e2a8e5f984259b388bba8b0787a676cc598"
+    },
+    {
+      "name": "a16_faces-female-stage0-hair-base57-98810",
+      "gender": 1,
+      "stage": 0,
+      "style": 8,
+      "texture_id": 37307,
+      "sprite_id": 37308,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        84,
+        70,
+        415,
+        499
+      ],
+      "pixel_sha256": "e77909e42784878af4319e36ab83ffeb9d365944b996cb19245730aeca192b43"
+    },
+    {
+      "name": "a16_faces-female-stage1-hair-base57-98811",
+      "gender": 1,
+      "stage": 1,
+      "style": 8,
+      "texture_id": 37309,
+      "sprite_id": 37310,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        86,
+        71,
+        416,
+        500
+      ],
+      "pixel_sha256": "ee2ae79bf0ee707529a8960ede818685cf32209da322794ffbd9c7f3d62b62c5"
+    },
+    {
+      "name": "a16_faces-female-stage2-hair-base57-98812",
+      "gender": 1,
+      "stage": 2,
+      "style": 8,
+      "texture_id": 37311,
+      "sprite_id": 37312,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "pixel_sha256": "36f0b1b31a7b29947172f293571729d50e9549a69d17f89b5ccc3ac567d5fd16"
+    },
+    {
+      "name": "a16_faces-female-stage3-hair-base57-98813",
+      "gender": 1,
+      "stage": 3,
+      "style": 8,
+      "texture_id": 37313,
+      "sprite_id": 37314,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        102,
+        50,
+        397,
+        496
+      ],
+      "pixel_sha256": "2d438a6f609761ecc945b52e0cb00506267c0380fa9cb75ef8b8c139336c464f"
+    },
+    {
+      "name": "a16_faces-female-stage4-hair-base57-98814",
+      "gender": 1,
+      "stage": 4,
+      "style": 8,
+      "texture_id": 37315,
+      "sprite_id": 37316,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        102,
+        50,
+        397,
+        496
+      ],
+      "pixel_sha256": "2d438a6f609761ecc945b52e0cb00506267c0380fa9cb75ef8b8c139336c464f"
+    },
+    {
+      "name": "a16_faces-female-stage5-hair-base57-98815",
+      "gender": 1,
+      "stage": 5,
+      "style": 8,
+      "texture_id": 37317,
+      "sprite_id": 37318,
+      "reference_crown": [
+        100,
+        52,
+        400,
+        498
+      ],
+      "destination_crown": [
+        85,
+        41,
+        415,
+        499
+      ],
+      "pixel_sha256": "1680c5bb22c9f3a15bfb62cdf4de2d916a7aff5addd8e54050ca3df79077edec"
+    }
+  ],
+  "resource_validation": {
+    "resources": 0
+  },
+  "datapack_sha256": "8bf78a789f92dc4e0038e67ef73c23ce4e4c297b8ab361af8856305a9f9fb71e",
+  "data_sha256": "12951d454cf8fd92ef1a557c7d3c664cbebd26e7d3bce13d5582b336572c7feb",
+  "phone_rendering_tested": false
+}
