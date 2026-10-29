@@ -1,0 +1,40 @@
+{
+  "passed": true,
+  "tests_run": 63,
+  "native_sha256": "262f618c273065b5c853294986638fbba5ba417536c5b90b7fc202cd56855b72",
+  "content_sha256": "61c805ab230f06c2dcf9812114f8ceae4bdd41d4ef1a44bc463a6499a4fe8599",
+  "test_layers": {
+    "native_tests": {
+      "tests": 12,
+      "log_sha256": "5b4dd0a389d8e2a3c3fd9997c2682959370c83c464f858485e52fa47c38a9e63"
+    },
+    "content_tests": {
+      "tests": 8,
+      "log_sha256": "5ac9b28342cc7901a754b707d07eb21320e82f1706ae379023452a2d4f4685a4"
+    },
+    "retained_tests": {
+      "tests": 28,
+      "original_log_sha256": "d277846ff8c001581dcb72b00d96e72607aad1af82ac41d3a6965228b403b2a3",
+      "retry_log_sha256": "bb77753acc1d746c51702fd1e692564311f867cd949881f7d36746902b99aee4",
+      "original_passed": 27,
+      "retry_passed": 1
+    },
+    "menu_tests": {
+      "tests": 14,
+      "log_sha256": "6ed6fc8820f603d0f35576d3202bac13a8b3f02fe414c4ae36175274a8661d81"
+    },
+    "visual_tests": {
+      "tests": 1,
+      "log_sha256": "108baee192d46e7295fd35aeda083ee31a865a9ab34be98c92042991e458ba4a"
+    }
+  },
+  "staged_apk_sha256": "398bf3ad9ae7647d5bb6185862653aef71c54b8fb8b582518e6dd02cd4e15ac3",
+  "new_native_JSON_lists": 2,
+  "existing_artwork_preserved": true,
+  "phone_tested": false,
+  "ART_tested": false,
+  "Unity_rendering_tested": false,
+  "real_save_tested": false,
+  "phone_FPS_measured": false,
+  "phone_age_up_latency_measured": false
+}

@@ -1,5 +1,16 @@
 # Reproduce the focused v55 scar/eyepatch candidate
 
+Current **1121** is in `project/work/source/era_life1121`. It fixes the actual
+school-fight Life/hero tracker mismatch and masked period car pictures, appends
+dated vehicle/job offers, scales new native pay offers, adds native food/law/
+bounty menus and dated social row themes, and reduces calendar/service work.
+Same-age upgraded offer caches refresh once; existing savings, salaries, owned
+assets and save IDs remain. Approved 1120 themes, creator and annual pools stay.
+Read its README, REQUESTS, FINDINGS, BUILD and ACCEPTANCE plus the full report
+checklist. Typed native/API tests do not certify phone/ART/GPU/real-save behavior
+or phone FPS. The wider report is not declared universally fixed. Earlier blocks
+below are history; APK-only upload and sanitized source publication remain authorized.
+
 Current **1120** reproduction:
 [repair_1120/references/BUILD.md](project/work/source/repair_1120/references/BUILD.md).
 Use pinned signed 1119/native/manifest and the existing signer. Reuse unused RX

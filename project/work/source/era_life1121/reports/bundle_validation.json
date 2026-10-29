@@ -1,0 +1,42 @@
+{
+  "passed": true,
+  "changed_text_assets": [
+    "a16_car-models-enc",
+    "a16_careers-enc",
+    "genesis_era_food1121",
+    "genesis_era_shops1121",
+    "genesis_feature_containers",
+    "genesis_life_rework",
+    "genesis_rework_defaults",
+    "genesis_v18_crime52",
+    "genesis_v18_defaults_era45",
+    "genesis_v8_shopping_v8"
+  ],
+  "text_asset_sha256": {
+    "a16_car-models-enc": "ebc4c0f304f181db7f15788e411ce3969d79234af9ab0755fd8fba9d46529ebf",
+    "a16_careers-enc": "1d3675c6b510586d7d0a1c7f7417e05d0802fb8cb71dc88dd72056ced0a00f56",
+    "genesis_v18_defaults_era45": "fcb981bfc70a4b8b0fbf4dc17c62e8148929bc97b9f7d48d5e9b16aaea071559",
+    "genesis_v18_crime52": "17c3bab8f37d46b3f0fe8bf71205ec3b02020a25ebf6e64b9c9bd4fcde9c7752",
+    "genesis_feature_containers": "2b505b463d4fa63f40ff1fdf639308413577ba6e71d68f795573c546ef8da430",
+    "genesis_v8_shopping_v8": "5548d963366ddf429bb9a2db2cc48eb7cc6603ca1523b4d5d1772e7aa9574c20",
+    "genesis_era_shops1121": "de548b23f5dba7d95c46aa583daa59f4b185653b422978da5b459d950fd628f5",
+    "genesis_era_food1121": "0ebd7de209b6a4dfccc4b111af013421502f28fb5b22e93eff1aa547166774cf",
+    "genesis_life_rework": "9a231d023c205308b84e960aa033b179fb20961f7113951d14809ca4d6192d64",
+    "genesis_rework_defaults": "700968012de129ca09b040433b6762da4a978da53544ece6387dc1b583dd3d91"
+  },
+  "unchanged_unrelated_unity_objects": 41832,
+  "all_old_artwork_identical": true,
+  "all_old_resource_aliases_preserved": true,
+  "resource_validation": {
+    "passed": true,
+    "resources": 0,
+    "file_identity_checked": true,
+    "generic_type": "Sprite",
+    "texture_type": "Texture2D",
+    "checked": [],
+    "GPU_rendering_tested": false
+  },
+  "imported_artwork": [],
+  "datapack_sha256": "2d312bb5b11d3c0365df88f1d8867a049c1e8e34f95f515d1ae75c8a467a5030",
+  "data_sha256": "4cb35b4c062c135a4cb29082423631e6aa493fd47220d9879d91109c50b1276d"
+}

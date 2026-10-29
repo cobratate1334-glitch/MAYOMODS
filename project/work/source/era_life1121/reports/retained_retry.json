@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "native_sha256": "262f618c273065b5c853294986638fbba5ba417536c5b90b7fc202cd56855b72",
+  "content_sha256": "61c805ab230f06c2dcf9812114f8ceae4bdd41d4ef1a44bc463a6499a4fe8599",
+  "unique_tests": 28,
+  "original_passed": 27,
+  "original_log_sha256": "d277846ff8c001581dcb72b00d96e72607aad1af82ac41d3a6965228b403b2a3",
+  "original_log_had_one_picker_double_failure": true,
+  "retry_passed": 1,
+  "retry_log_sha256": "bb77753acc1d746c51702fd1e692564311f867cd949881f7d36746902b99aee4",
+  "retried_test": "era_life1121.tests.test_retained.EraTests.test_picker_uses_rendered_override_and_repeated_early_callbacks",
+  "reason": "Scope new game-assembly allocation double to Blueprint or new native code; preserve the old picker assembly model.",
+  "application_bytes_changed": false,
+  "original_log_rewritten": false
+}

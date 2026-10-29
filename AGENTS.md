@@ -1,5 +1,39 @@
 # Instructions for Codex — MayoMods
 
+Active candidate is **1121**, `project/work/source/era_life1121`. Read its
+README and REQUESTS/FINDINGS/BUILD/ACCEPTANCE before the full report checklist.
+The school-fight tracker is Game.Life (+20).Tracker (+70), not Hero (+28).
+Keep the actual Blueprint/ScenarioCustomAttack flow, pupil/age and once-age guards.
+The old double fabricated a hero tracker and must not return. Known period car
+pictures precede generic make badges; existing saved Make+Model IDs stay.
+Append-only stock car/career tables and six audited native pool gates drive
+period offers. SimJob.Salary scales its final offer only, after native country/
+company/experience work. Existing bank/salary/owned records are not revalued.
+One-time revisions refresh upgraded same-age offer caches, never current jobs.
+
+Wanted status must read actual local cases and escape status. Surrender receives
+the original charge ArrayList and original arrest/court flow. Crew attention is
+separate. Native food charges recheck fractional funds and quota, including the
+three-cent rounding boundary. Bounty jobs/contracts recheck actual job, US/era,
+adulthood, charges, stage and age; no reward can replay. Social CustomTheme
+references are rooted, bounded and scoped to original FB/Twitter/YouTube arrays;
+keep dark mode, existing custom rows and the owner's 2010 availability floor.
+No authenticated FreeLife content was accessed; its tiny supplied APK has no
+bundled gameplay scripts to transplant. Historical prices/windows are game
+approximations, not global historical certification.
+
+Calendar caches keep only handles, read live BirthYear and rebind on Life/age.
+Same-age annual refreshes skip service/roster work; explicit service sync/new
+coworker hooks remain. Keep the original 1113 menu transitions, World Cup,
+approved 1120 themes/creator/annual tables, DEX/JNI/launcher, signer and saves.
+No ELF layout growth: reuse only unused RX and isolated 8 KB zero-filled RW.
+Sixty-three automated cases and work counts are not phone/ART/GPU/real-save/FPS
+acceptance. Genetics/driving and the wider report remain open. Source publication
+and APK-only upload remain authorized. No raw APK/native inputs, owner archives,
+logs/videos, private keys or hosting replies/tokens belong in Git.
+
+Earlier release blocks below are historical.
+
 Active candidate is **1120**, `project/work/source/repair_1120`. The owner
 rejects 1119's split journal/new later palettes. Restore the earlier approved
 selected/war/dark theme paths; only 1800–1899 gets a new brown palette and small

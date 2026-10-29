@@ -1,5 +1,20 @@
 # Important history and decisions
 
+**1121 Era Life & School Fight APK:** <https://gofile.io/d/t5PArz8W> (541,131,609 bytes).
+SHA256: `e328691d9648cacd13c1b8ac97832d570edac2bdc2ee86e81e8c0f110cf66505`. Same update signer/package; 63 automated cases passed.
+Phone/ART/GPU/real-save/performance acceptance remains open.
+
+Current **1121** is in `project/work/source/era_life1121`. It fixes the actual
+school-fight Life/hero tracker mismatch and masked period car pictures, appends
+dated vehicle/job offers, scales new native pay offers, adds native food/law/
+bounty menus and dated social row themes, and reduces calendar/service work.
+Same-age upgraded offer caches refresh once; existing savings, salaries, owned
+assets and save IDs remain. Approved 1120 themes, creator and annual pools stay.
+Read its README, REQUESTS, FINDINGS, BUILD and ACCEPTANCE plus the full report
+checklist. Typed native/API tests do not certify phone/ART/GPU/real-save behavior
+or phone FPS. The wider report is not declared universally fixed. Earlier blocks
+below are history; APK-only upload and sanitized source publication remain authorized.
+
 **1120 Theme & Stability Fixes APK:** <https://gofile.io/d/0Syg08m0> (541,094,987 bytes).
 SHA256: `9cf353123be820132e0bca34cafa8b0a2802eec4a398366362e7658771b0a023`.
 

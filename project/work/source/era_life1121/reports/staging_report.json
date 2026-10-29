@@ -1,0 +1,36 @@
+{
+  "staged": true,
+  "signed": false,
+  "base_sha256": "9cf353123be820132e0bca34cafa8b0a2802eec4a398366362e7658771b0a023",
+  "apk_sha256": "398bf3ad9ae7647d5bb6185862653aef71c54b8fb8b582518e6dd02cd4e15ac3",
+  "native_sha256": "262f618c273065b5c853294986638fbba5ba417536c5b90b7fc202cd56855b72",
+  "dex_sha256": "1f6e55b2f1a40039b1ba3083753a18ad69f9e2d22067420719afe6222ee638dd",
+  "modified_entries": [
+    "AndroidManifest.xml",
+    "assets/bin/Data/data.unity3d",
+    "assets/bin/Data/datapack.unity3d",
+    "assets/mayomods54/native_symbols.json",
+    "lib/arm64-v8a/libil2cpp.so"
+  ],
+  "added_entries": [
+    "assets/native1121/ATTRIBUTION.md"
+  ],
+  "version_code": 1121,
+  "changed_text_assets": [
+    "a16_car-models-enc",
+    "a16_careers-enc",
+    "genesis_era_food1121",
+    "genesis_era_shops1121",
+    "genesis_feature_containers",
+    "genesis_life_rework",
+    "genesis_rework_defaults",
+    "genesis_v18_crime52",
+    "genesis_v18_defaults_era45",
+    "genesis_v8_shopping_v8"
+  ],
+  "unrelated_Unity_objects_identical": 41832,
+  "all_other_APK_payloads_identical": true,
+  "all_existing_artwork_and_resources_preserved": true,
+  "new_resources": 0,
+  "phone_tested": false
+}

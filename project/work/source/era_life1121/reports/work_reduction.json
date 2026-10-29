@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "native_sha256": "262f618c273065b5c853294986638fbba5ba417536c5b90b7fc202cd56855b72",
+  "actual_ARM64": true,
+  "managed_APIs_are_doubles": true,
+  "counts": {
+    "1120": {
+      "calendar_reads_per_batch": 12,
+      "cold_managed_string_creations": 24,
+      "warm_managed_string_creations": 24,
+      "same_age_annual_refreshes": 12,
+      "service_sync_entries": 12,
+      "roster_sync_entries": 12
+    },
+    "1121": {
+      "calendar_reads_per_batch": 12,
+      "cold_managed_string_creations": 2,
+      "warm_managed_string_creations": 0,
+      "same_age_annual_refreshes": 12,
+      "service_sync_entries": 0,
+      "roster_sync_entries": 0
+    }
+  },
+  "phone_FPS_measured": false,
+  "phone_age_up_latency_measured": false
+}

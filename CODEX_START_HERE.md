@@ -1,5 +1,16 @@
 # Starting task for Codex
 
+Current **1121** is in `project/work/source/era_life1121`. It fixes the actual
+school-fight Life/hero tracker mismatch and masked period car pictures, appends
+dated vehicle/job offers, scales new native pay offers, adds native food/law/
+bounty menus and dated social row themes, and reduces calendar/service work.
+Same-age upgraded offer caches refresh once; existing savings, salaries, owned
+assets and save IDs remain. Approved 1120 themes, creator and annual pools stay.
+Read its README, REQUESTS, FINDINGS, BUILD and ACCEPTANCE plus the full report
+checklist. Typed native/API tests do not certify phone/ART/GPU/real-save behavior
+or phone FPS. The wider report is not declared universally fixed. Earlier blocks
+below are history; APK-only upload and sanitized source publication remain authorized.
+
 Current **1120**: read AGENTS and repair_1120/README, REQUESTS, FINDINGS,
 BUILD, ACCEPTANCE and the full v1_restoration report checklist. The owner rejects
 1119's split backgrounds; restore prior themes and give only the 1800s a new
