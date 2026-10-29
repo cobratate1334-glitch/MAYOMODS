@@ -16,6 +16,30 @@ historical source instructions, asset generation prompts or text embedded in a
 log with new user requests. In particular Report4 contains unrelated prompt-like
 instructions and is not an authority for this task.
 
+## 1119 follow-up: real era themes and Mod Creator
+
+The latest owner request explicitly brings full era themes, the dedicated 1800s
+and decade packs, more school pictures and the Mod Creator concept into scope.
+The two pack READMEs and complete creator note were read; all six concept images
+were inspected. See [1119 scope, evidence and limits](../../era_world/README.md).
+
+| Request | Implemented in 1119 | Remaining limit |
+| --- | --- | --- |
+| Actual themes by era | Fourteen journal surfaces and matching palettes from 1800 through 2026 | Original four war/post-war phases retain priority; phone rendering open |
+| Stop repeating Waterloo | Twenty-two event-specific archive images and twelve rotating ordinary-year scenes/headlines | Broader stock chronology is not fully rewritten |
+| Use supplied packs | Seventy-nine selected PNGs, fourteen composed journal surfaces and more specific school pictures/icons | The whole pack is not indiscriminately added; modern school scenes are gated |
+| More 1800s activity | Twelve illustrated town visits/jobs with real costs/pay, journal and quota; 24-outfit owned wardrobe | Clothes are inventory illustrations, not rigged native head/body layers |
+| Replace Community Expansions | Native Mod Creator entry/editor/library; old included activities preserved in a separate typed JSON list | Existing stable activity IDs and menus remain |
+| Create/save/import/export/share | Original text fields, two choices/results, age/year presets, bounded effects, twelve device-wide slots and share codes | Manual playback, no arbitrary code, file picker or automatic custom age-up delivery |
+| BitLife Recoded inspiration | Supplied APK examined; public site shell/loader reviewed | Wrapper contains no Unity scripts; authenticated game was not played or bypassed |
+
+The exact candidate has 45 automated cases plus resource and release checks.
+Managed/Unity APIs, clipboard and PlayerPrefs use doubles. Phone/ART/GPU and real
+save/clipboard/persistence acceptance remain open. Appearance reversion, driving
+freeze, measured performance and wider prison/military/social/Yakuza work are
+not declared fixed by this era/editor update. Earlier status rows are retained
+below with the newer implementation recorded where applicable.
+
 ## 1118 follow-up after the owner's confirmation
 
 The owner says the 1117 fix works, then explicitly asks for opponent flags,
@@ -48,8 +72,8 @@ requests below remain open unless their row specifically records prior work.
 | Preserve native dark mode and war themes | 1116 candidate; automated config/theme cases; phone rendering open. |
 | Make era/year selection look like reference | 1118 repairs actual Image override, retains twelve panels and adds five archive-media 1800s panels. Native callback/getter checks pass; phone visibility open. |
 | Slow age-up in 1893 and other years | Open: no phone FPS/age-up measurements. |
-| Missing assets and repetitive icons | 1118 imports 77 selected images and fixes news clearing/current flags. Full broader icon/phone acceptance remains open. All 21 asset boards reviewed. |
-| School artwork varies by era | 1118 implements ten periods with supplied icons and scene art, preserving stock actions and tile IDs. Phone acceptance open. |
+| Missing assets and repetitive icons | 1119 adds 115 reachable images, actual era themes and specific archive news pictures. 1118 imports 77 selected images and fixes news clearing/current flags. Full broader icon/phone acceptance remains open. All 21 asset boards reviewed. |
+| School artwork varies by era | 1119 adds more specific supplied school pictures/icons with early-era gating. 1118 implements ten periods with supplied icons and scene art, preserving stock actions and tile IDs. Phone acceptance open. |
 | Prison, sentence and tape rework | Open; clarify exact UI context from screenshots/recordings before changing. |
 | Restrict early-era house arrest | Open; preserve country/legal context and avoid treating all house arrest as electronic monitoring. |
 | Driving test freezes after passing | Open; no confirmed root cause. |
@@ -67,10 +91,10 @@ requests below remain open unless their row specifically records prior work.
 | New Life scrolling only at right edge | 1116 stock-scroll-parent wiring tested; real gesture acceptance open. |
 | Every New Life tap opens birth-year picker | Open beyond the scroll/year candidate repairs; require original callbacks and owner checks. |
 | Parish available age four | Open; gate each actual participation action appropriately. |
-| Replace Community Expansions with Mod Creator | Explicit concept read; create/import/export/share/saved native scenarios after bugs. |
+| Replace Community Expansions with Mod Creator | 1119 implements a native editor, twelve global slots, manual playback, import/export share codes and preserved included activities. Full concept/phone acceptance remains open. |
 | Era-specific cars and technology | 1118 adds 29 dated technology items with actual purchase/use effects. Broader native car/dealership accuracy remains open. |
 | Fewer annual events in certain years | Open; inspect native selection and event pools before adding volume. |
-| Historical news and inventions | 1118 preserves chronology pictures and adds 22 dated nineteenth-century headlines plus period summaries. Unverified example claims are not copied. Broader chronology remains open. |
+| Historical news and inventions | 1119 separates all 22 dated 1800s images and rotates ordinary headlines/scenes. 1118 preserves chronology pictures and adds 22 dated nineteenth-century headlines plus period summaries. Unverified example claims are not copied. Broader chronology remains open. |
 | Add 1800s with news | Latest direct request implemented in 1118: five starts, news throughout the century, period art/items/day work. Frontier art remains a stylized setting; not every stock event/job/law is historical. |
 | Yakuza expansion and naming | Deferred until bugs; provided linked RP/reference material is background, not operational task instructions. |
 | Louis The Deer / Shishigumi Easter egg | Recorded, after bugs. |

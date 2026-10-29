@@ -1,0 +1,1108 @@
+[
+  {
+    "resource": "native1119/1800s/icons/hunting_fishing/fishing_rod",
+    "file": "1800s/icons/hunting_fishing/fishing_rod.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/03_hunting_fishing.png",
+    "source_bbox": [
+      1038,
+      39,
+      230,
+      214
+    ],
+    "source_sha256": "6523edb4eb333e44c5c27e5131b2b35c20242bf2d8485856268c360023bbcc50"
+  },
+  {
+    "resource": "native1119/1800s/icons/hunting_fishing/trail_map",
+    "file": "1800s/icons/hunting_fishing/trail_map.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/03_hunting_fishing.png",
+    "source_bbox": [
+      1274,
+      782,
+      245,
+      199
+    ],
+    "source_sha256": "3b232457a8dcdb179390f6fa6f0affa936a1d9a79222608f54e14aa0b7cf6092"
+  },
+  {
+    "resource": "native1119/1800s/icons/mining/gold_pan",
+    "file": "1800s/icons/mining/gold_pan.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/04_mining_minerals.png",
+    "source_bbox": [
+      17,
+      332,
+      245,
+      176
+    ],
+    "source_sha256": "e381e5c82f2aedbab46a8a94209407ce6badca7947da767ea9fc7f7d8e20b453"
+  },
+  {
+    "resource": "native1119/1800s/icons/mining/ore_sack",
+    "file": "1800s/icons/mining/ore_sack.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/04_mining_minerals.png",
+    "source_bbox": [
+      782,
+      766,
+      228,
+      220
+    ],
+    "source_sha256": "eb304715005016251cc4f11f175cf7c625752c6871080350b339bc4ba07a97f4"
+  },
+  {
+    "resource": "native1119/1800s/icons/jobs/clerk",
+    "file": "1800s/icons/jobs/clerk.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/05_jobs_crafts.png",
+    "source_bbox": [
+      1034,
+      62,
+      240,
+      200
+    ],
+    "source_sha256": "bfe65d672f42f1bb2a1b5e377407a877f8153c6866ed147c084414b627042ccc"
+  },
+  {
+    "resource": "native1119/1800s/icons/jobs/printer",
+    "file": "1800s/icons/jobs/printer.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/05_jobs_crafts.png",
+    "source_bbox": [
+      301,
+      295,
+      194,
+      216
+    ],
+    "source_sha256": "ab225a1443219e47c71a30e0f21bce750ee4ffa75c6e4817549ec9f4fc20d7c1"
+  },
+  {
+    "resource": "native1119/1800s/icons/jobs/farmhand",
+    "file": "1800s/icons/jobs/farmhand.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/05_jobs_crafts.png",
+    "source_bbox": [
+      24,
+      765,
+      232,
+      227
+    ],
+    "source_sha256": "c8a4eba076ffc11738c430881747856f239da2c312c558697ee7684b6762250b"
+  },
+  {
+    "resource": "native1119/1800s/icons/jobs/banker",
+    "file": "1800s/icons/jobs/banker.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/05_jobs_crafts.png",
+    "source_bbox": [
+      294,
+      804,
+      209,
+      180
+    ],
+    "source_sha256": "cead59bdb080383588d7afdaeef8cd376fcc7007cb06465648b3411637f07228"
+  },
+  {
+    "resource": "native1119/1800s/icons/town_travel/stagecoach",
+    "file": "1800s/icons/town_travel/stagecoach.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/07_town_travel_saloon.png",
+    "source_bbox": [
+      20,
+      542,
+      255,
+      211
+    ],
+    "source_sha256": "2ed2ea0797ccb78001a367e7a326a6996a5bdc51fe2b8e4f77633810a29f6469"
+  },
+  {
+    "resource": "native1119/1800s/icons/town_travel/sailing_ship",
+    "file": "1800s/icons/town_travel/sailing_ship.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/07_town_travel_saloon.png",
+    "source_bbox": [
+      1067,
+      545,
+      207,
+      205
+    ],
+    "source_sha256": "3a981b16f7726011f45adf510d1dc61e1717c442f3fe31bdd7e46d79d49c92da"
+  },
+  {
+    "resource": "native1119/1800s/icons/town_travel/general_store",
+    "file": "1800s/icons/town_travel/general_store.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/07_town_travel_saloon.png",
+    "source_bbox": [
+      546,
+      769,
+      258,
+      221
+    ],
+    "source_sha256": "7d5cf5a42a3c3b62661afdfc14d16503d260466fff3ba965a4f4a40f04771b6f"
+  },
+  {
+    "resource": "native1119/1800s/icons/town_travel/horse_stable",
+    "file": "1800s/icons/town_travel/horse_stable.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/07_town_travel_saloon.png",
+    "source_bbox": [
+      804,
+      782,
+      307,
+      206
+    ],
+    "source_sha256": "944bbfa73056070394a3c87216cd60401ffb53fcc411ec2fb170cb0bb5bd1223"
+  },
+  {
+    "resource": "native1119/1800s/icons/outfits/farmer_outfit",
+    "file": "1800s/icons/outfits/farmer_outfit.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/09_period_outfits.png",
+    "source_bbox": [
+      70,
+      17,
+      144,
+      233
+    ],
+    "source_sha256": "f7ce0282b87ccc4b5d8875a7c3023d52959ba8c20c3cc2887d0720e9ad852b00"
+  },
+  {
+    "resource": "native1119/1800s/icons/outfits/ranch_hand_outfit",
+    "file": "1800s/icons/outfits/ranch_hand_outfit.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/09_period_outfits.png",
+    "source_bbox": [
+      310,
+      14,
+      145,
+      235
+    ],
+    "source_sha256": "cb58d20ba88c55bc5f90c45fd51bb5e933e8c81675668a567682e79d546a6037"
+  },
+  {
+    "resource": "native1119/1800s/icons/outfits/cowboy_outfit",
+    "file": "1800s/icons/outfits/cowboy_outfit.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/09_period_outfits.png",
+    "source_bbox": [
+      557,
+      11,
+      154,
+      239
+    ],
+    "source_sha256": "261a801a0793826a4545e73dc7fed7bc8b238c4e67ad9fe10c6c5be3579b86c5"
+  },
+  {
+    "resource": "native1119/1800s/icons/outfits/cowgirl_outfit",
+    "file": "1800s/icons/outfits/cowgirl_outfit.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/09_period_outfits.png",
+    "source_bbox": [
+      823,
+      15,
+      146,
+      234
+    ],
+    "source_sha256": "a8f8117ffae88986c3a703d4b6dd2476f080e7b92d46d19f6c3b3b019ab69c13"
+  },
+  {
+    "resource": "native1119/1800s/icons/outfits/bounty_hunter_outfit",
+    "file": "1800s/icons/outfits/bounty_hunter_outfit.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/09_period_outfits.png",
+    "source_bbox": [
+      1070,
+      11,
+      161,
+      239
+    ],
+    "source_sha256": "8d331871bfabf9e2034e279f9d890aec207fa4845f00181e6f13149a061208d3"
+  },
+  {
+    "resource": "native1119/1800s/icons/outfits/deputy_outfit",
+    "file": "1800s/icons/outfits/deputy_outfit.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/09_period_outfits.png",
+    "source_bbox": [
+      1327,
+      12,
+      145,
+      237
+    ],
+    "source_sha256": "04ae0b2a1dee10400f9583de2cceb4771f02679c87543012539cfb5161828dc8"
+  },
+  {
+    "resource": "native1119/1800s/icons/outfits/constable_outfit",
+    "file": "1800s/icons/outfits/constable_outfit.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/09_period_outfits.png",
+    "source_bbox": [
+      58,
+      263,
+      164,
+      240
+    ],
+    "source_sha256": "f6d04d32a36fef9b9fd7663b891e37bfac95eedfb1fc6becf34c64f65ecb0c3a"
+  },
+  {
+    "resource": "native1119/1800s/icons/outfits/clerk_outfit",
+    "file": "1800s/icons/outfits/clerk_outfit.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/09_period_outfits.png",
+    "source_bbox": [
+      307,
+      263,
+      150,
+      240
+    ],
+    "source_sha256": "b2fc57da3e7cb7f6ad4e3ed14c1787ba1da679aaccb4ca75435323fb392b193c"
+  },
+  {
+    "resource": "native1119/1800s/icons/outfits/banker_outfit",
+    "file": "1800s/icons/outfits/banker_outfit.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/09_period_outfits.png",
+    "source_bbox": [
+      552,
+      258,
+      167,
+      245
+    ],
+    "source_sha256": "9f547d3babf6b8e7e39903946ae385534d5f0e52d56aacf93f67138622e45653"
+  },
+  {
+    "resource": "native1119/1800s/icons/outfits/carpenter_outfit",
+    "file": "1800s/icons/outfits/carpenter_outfit.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/09_period_outfits.png",
+    "source_bbox": [
+      828,
+      262,
+      142,
+      240
+    ],
+    "source_sha256": "b028041cb2cbf6e657a585e10082ad43969bd27cf073947b02b767f1a1c75931"
+  },
+  {
+    "resource": "native1119/1800s/icons/outfits/blacksmith_outfit",
+    "file": "1800s/icons/outfits/blacksmith_outfit.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/09_period_outfits.png",
+    "source_bbox": [
+      1070,
+      260,
+      163,
+      241
+    ],
+    "source_sha256": "78e0c49a220210529c59f6dfb4bdab69659fbb0919da0669cac1020d3e5dafa6"
+  },
+  {
+    "resource": "native1119/1800s/icons/outfits/printer_outfit",
+    "file": "1800s/icons/outfits/printer_outfit.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/09_period_outfits.png",
+    "source_bbox": [
+      1324,
+      263,
+      154,
+      238
+    ],
+    "source_sha256": "b99b1643486be1f271847163bbcf7916b7e12cdc66a2014e99d1d572dc2d6d14"
+  },
+  {
+    "resource": "native1119/1800s/icons/outfits/clergyman_outfit",
+    "file": "1800s/icons/outfits/clergyman_outfit.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/09_period_outfits.png",
+    "source_bbox": [
+      58,
+      513,
+      164,
+      241
+    ],
+    "source_sha256": "671338c728dbf934c97f79ffca733831e4ffda94caf90860b856b14d52f30826"
+  },
+  {
+    "resource": "native1119/1800s/icons/outfits/teacher_dress",
+    "file": "1800s/icons/outfits/teacher_dress.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/09_period_outfits.png",
+    "source_bbox": [
+      310,
+      519,
+      145,
+      234
+    ],
+    "source_sha256": "0f6e9aa220ef455d291db0e417e99585db73da1579117ead27f0c6a690bbca6b"
+  },
+  {
+    "resource": "native1119/1800s/icons/outfits/doctor_outfit",
+    "file": "1800s/icons/outfits/doctor_outfit.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/09_period_outfits.png",
+    "source_bbox": [
+      552,
+      514,
+      166,
+      240
+    ],
+    "source_sha256": "cb1bdd453dadebe8f4144d69504d4d810c98ac68caf8b841dd0e9c64675b3779"
+  },
+  {
+    "resource": "native1119/1800s/icons/outfits/nurse_dress",
+    "file": "1800s/icons/outfits/nurse_dress.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/09_period_outfits.png",
+    "source_bbox": [
+      814,
+      515,
+      165,
+      239
+    ],
+    "source_sha256": "c4b3942a358726f86670e6cd8a7af024f58a2ed13f3eb06fb9518c7a8c3c7f81"
+  },
+  {
+    "resource": "native1119/1800s/icons/outfits/sailor_outfit",
+    "file": "1800s/icons/outfits/sailor_outfit.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/09_period_outfits.png",
+    "source_bbox": [
+      1068,
+      519,
+      169,
+      235
+    ],
+    "source_sha256": "d14c5814666b8c10fe4f307dc3652efae1de72a2bfb46fb3b14ce39642977752"
+  },
+  {
+    "resource": "native1119/1800s/icons/outfits/army_blue_uniform",
+    "file": "1800s/icons/outfits/army_blue_uniform.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/09_period_outfits.png",
+    "source_bbox": [
+      1319,
+      513,
+      161,
+      241
+    ],
+    "source_sha256": "8b4daa464d4b7e88266885bb7ae4ec38f029d72a7dfe7e8832a8f41b021056b9"
+  },
+  {
+    "resource": "native1119/1800s/icons/outfits/marine_blue_uniform",
+    "file": "1800s/icons/outfits/marine_blue_uniform.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/09_period_outfits.png",
+    "source_bbox": [
+      61,
+      767,
+      160,
+      239
+    ],
+    "source_sha256": "9bed1ce4b2a8b2d86ac5a074410c6daf7ba2aea9026d66f4aebbdf545e20a4a2"
+  },
+  {
+    "resource": "native1119/1800s/icons/outfits/revenue_uniform",
+    "file": "1800s/icons/outfits/revenue_uniform.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/09_period_outfits.png",
+    "source_bbox": [
+      300,
+      767,
+      166,
+      239
+    ],
+    "source_sha256": "6d241ad8db1b1dd815663e995b1ea0858e4b11ff880220455d8ab78b0cb6121c"
+  },
+  {
+    "resource": "native1119/1800s/icons/outfits/town_gentleman_outfit",
+    "file": "1800s/icons/outfits/town_gentleman_outfit.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/09_period_outfits.png",
+    "source_bbox": [
+      550,
+      765,
+      164,
+      242
+    ],
+    "source_sha256": "42da99e3fe0caf6456610358233790cfdecc45cbe4abc57ea0c4fd60e1f9b80e"
+  },
+  {
+    "resource": "native1119/1800s/icons/outfits/town_lady_dress",
+    "file": "1800s/icons/outfits/town_lady_dress.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/09_period_outfits.png",
+    "source_bbox": [
+      809,
+      768,
+      173,
+      236
+    ],
+    "source_sha256": "607402142e59bed8e332622448345550e739feec2404584b8a089aea66b3b076"
+  },
+  {
+    "resource": "native1119/1800s/icons/outfits/winter_frontier_outfit",
+    "file": "1800s/icons/outfits/winter_frontier_outfit.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/09_period_outfits.png",
+    "source_bbox": [
+      1063,
+      765,
+      179,
+      242
+    ],
+    "source_sha256": "5808bd85e59bc9151a7f098016661696ce42fa36a9523e9ab5baad2169ca43be"
+  },
+  {
+    "resource": "native1119/1800s/icons/outfits/railway_worker_outfit",
+    "file": "1800s/icons/outfits/railway_worker_outfit.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/09_period_outfits.png",
+    "source_bbox": [
+      1321,
+      767,
+      157,
+      240
+    ],
+    "source_sha256": "6c3e13f4df1f4cc72f3ca69cd1dba15cadbcfdb3be612447c3459e2bb1ebeb88"
+  },
+  {
+    "resource": "native1119/1800s/event_pictures/harvest_day",
+    "file": "1800s/event_pictures/harvest_day.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/13_1800s_event_scenes.png",
+    "source_bbox": [
+      0,
+      0,
+      512,
+      256
+    ],
+    "source_sha256": "3b6181420a093c41154def40436a52b852f798d6f44dcf882b2717104a303038"
+  },
+  {
+    "resource": "native1119/1800s/event_pictures/livestock_market",
+    "file": "1800s/event_pictures/livestock_market.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/13_1800s_event_scenes.png",
+    "source_bbox": [
+      512,
+      0,
+      512,
+      256
+    ],
+    "source_sha256": "f9cb2dcbdc2533867bb777ee04f4f9daf34a3a491f4289b56bf262abb5c185d2"
+  },
+  {
+    "resource": "native1119/1800s/event_pictures/prospector_find",
+    "file": "1800s/event_pictures/prospector_find.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/13_1800s_event_scenes.png",
+    "source_bbox": [
+      1024,
+      0,
+      512,
+      256
+    ],
+    "source_sha256": "1c48b9b39099368dd99bea152678141664737bb9c8ec496bca21169670dc9e5f"
+  },
+  {
+    "resource": "native1119/1800s/event_pictures/mine_workday",
+    "file": "1800s/event_pictures/mine_workday.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/13_1800s_event_scenes.png",
+    "source_bbox": [
+      0,
+      256,
+      512,
+      256
+    ],
+    "source_sha256": "d3a1c9f6a0c525f670cfecf903d75d072004904ada459122e9e7ad8213fd4876"
+  },
+  {
+    "resource": "native1119/1800s/event_pictures/fishing_trip",
+    "file": "1800s/event_pictures/fishing_trip.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/13_1800s_event_scenes.png",
+    "source_bbox": [
+      512,
+      256,
+      512,
+      256
+    ],
+    "source_sha256": "64e720053312865c7d574bfd8e146e8bf16eb024497f04cfe2494ea4be542785"
+  },
+  {
+    "resource": "native1119/1800s/event_pictures/forest_wildlife",
+    "file": "1800s/event_pictures/forest_wildlife.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/13_1800s_event_scenes.png",
+    "source_bbox": [
+      1024,
+      256,
+      512,
+      256
+    ],
+    "source_sha256": "a3a8fa73252bb446483e4482719f16422ce42ffedd5881462a19aa9782bbad8f"
+  },
+  {
+    "resource": "native1119/1800s/event_pictures/bank_deposit",
+    "file": "1800s/event_pictures/bank_deposit.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/13_1800s_event_scenes.png",
+    "source_bbox": [
+      0,
+      512,
+      512,
+      256
+    ],
+    "source_sha256": "11854c9de3a68ed7bc9d60e51d91cdb9cf2538b047eca0f2eb30c9625588c658"
+  },
+  {
+    "resource": "native1119/1800s/event_pictures/town_market",
+    "file": "1800s/event_pictures/town_market.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/13_1800s_event_scenes.png",
+    "source_bbox": [
+      512,
+      512,
+      512,
+      256
+    ],
+    "source_sha256": "8afc43210e1d3f9324999595868276c9f5fd20ed5e477270783a40dab7241e7f"
+  },
+  {
+    "resource": "native1119/1800s/event_pictures/stagecoach_arrival",
+    "file": "1800s/event_pictures/stagecoach_arrival.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/13_1800s_event_scenes.png",
+    "source_bbox": [
+      1024,
+      512,
+      512,
+      256
+    ],
+    "source_sha256": "756e43e31a7c7382aff86ef3834384cae4853e695887a221ad50792bd07ad21c"
+  },
+  {
+    "resource": "native1119/1800s/event_pictures/sheriff_office_job",
+    "file": "1800s/event_pictures/sheriff_office_job.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/13_1800s_event_scenes.png",
+    "source_bbox": [
+      0,
+      768,
+      512,
+      256
+    ],
+    "source_sha256": "f51a6b821f8e225235ae72da8029244e2809ede8000c44da5bb5b8104c59e99b"
+  },
+  {
+    "resource": "native1119/1800s/event_pictures/naval_departure",
+    "file": "1800s/event_pictures/naval_departure.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/13_1800s_event_scenes.png",
+    "source_bbox": [
+      512,
+      768,
+      512,
+      256
+    ],
+    "source_sha256": "675a3f38b1e3a6e4b7ed3866efcb2946eedd79871df32c9436724a4b19b432ec"
+  },
+  {
+    "resource": "native1119/1800s/event_pictures/printing_workshop",
+    "file": "1800s/event_pictures/printing_workshop.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_1800s_336_Game_Assets",
+    "source_sheet": "source_sheets/13_1800s_event_scenes.png",
+    "source_bbox": [
+      1024,
+      768,
+      512,
+      256
+    ],
+    "source_sha256": "c491174370be7e2eedd9eebc276d250ab1885bc23b073f053d7495d2de47001b"
+  },
+  {
+    "resource": "native1119/eras/school/icons/report_bullying",
+    "file": "eras/school/icons/report_bullying.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/06_school_extras.png",
+    "source_bbox": [
+      1279,
+      267,
+      247,
+      245
+    ],
+    "source_sha256": "c7808d9b243e7f2d40caa47610303d4b07bad89890368cafbb26f251f8a4dfa4"
+  },
+  {
+    "resource": "native1119/eras/school/icons/friend_support",
+    "file": "eras/school/icons/friend_support.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/06_school_extras.png",
+    "source_bbox": [
+      0,
+      510,
+      278,
+      246
+    ],
+    "source_sha256": "d2f9d168e0192f607e17cbae9f1783d4ec806614c6ad69c5a61a4c2655689267"
+  },
+  {
+    "resource": "native1119/eras/school/icons/basketball_jersey",
+    "file": "eras/school/icons/basketball_jersey.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/06_school_extras.png",
+    "source_bbox": [
+      559,
+      747,
+      164,
+      261
+    ],
+    "source_sha256": "29b09ff6a1996c813367e3b68692b83c02f4c764d2cd4b796176dde87fb5d82f"
+  },
+  {
+    "resource": "native1119/eras/school/icons/art_portfolio",
+    "file": "eras/school/icons/art_portfolio.png",
+    "kind": "icon",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/06_school_extras.png",
+    "source_bbox": [
+      1284,
+      764,
+      237,
+      244
+    ],
+    "source_sha256": "b6918ad55ec92d7af6bf778998e8e2c7a7dc24d4cd4e82110f39cecbbdab7def"
+  },
+  {
+    "resource": "native1119/eras/1900s/event_pictures/frontier_main_street",
+    "file": "eras/1900s/event_pictures/frontier_main_street.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/07_era_event_pictures.png",
+    "source_bbox": [
+      0,
+      0,
+      512,
+      256
+    ],
+    "source_sha256": "e1695c29994bfeaecb2dbf82b2f7837e299aeac2107368538f8ef58ff3b2eee6"
+  },
+  {
+    "resource": "native1119/eras/1920s/event_pictures/jazz_city_night",
+    "file": "eras/1920s/event_pictures/jazz_city_night.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/07_era_event_pictures.png",
+    "source_bbox": [
+      512,
+      256,
+      512,
+      256
+    ],
+    "source_sha256": "1cb28c4f042410bee9faac3bdc0f3bd20671d267ea56a4b15d291cb58c463685"
+  },
+  {
+    "resource": "native1119/eras/1980s/event_pictures/arcade_night",
+    "file": "eras/1980s/event_pictures/arcade_night.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/07_era_event_pictures.png",
+    "source_bbox": [
+      512,
+      512,
+      512,
+      256
+    ],
+    "source_sha256": "941ba212d764eb248be2cc85f9365c520a0a8ae6b3ee8c136d5586dbc3766cf8"
+  },
+  {
+    "resource": "native1119/eras/2000s/event_pictures/internet_cafe",
+    "file": "eras/2000s/event_pictures/internet_cafe.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/07_era_event_pictures.png",
+    "source_bbox": [
+      1024,
+      512,
+      512,
+      256
+    ],
+    "source_sha256": "a174d9dd35863b54d0c83ecb88bd5b94a072f23daee8a691d3fa9898d440dbf3"
+  },
+  {
+    "resource": "native1119/eras/2010s/event_pictures/festival_selfie",
+    "file": "eras/2010s/event_pictures/festival_selfie.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/07_era_event_pictures.png",
+    "source_bbox": [
+      0,
+      768,
+      512,
+      256
+    ],
+    "source_sha256": "ed1fdb2170ff50050d528f6f83aa2db41f337158f0af0917176932afd83b7bd2"
+  },
+  {
+    "resource": "native1119/eras/2020s/event_pictures/city_everyday",
+    "file": "eras/2020s/event_pictures/city_everyday.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/07_era_event_pictures.png",
+    "source_bbox": [
+      512,
+      768,
+      512,
+      256
+    ],
+    "source_sha256": "555c5afc28f6a11e91d1225169b3c29b4805afd9bc60bb311f12600d979cca4c"
+  },
+  {
+    "resource": "native1119/eras/2026/event_pictures/creative_workshop",
+    "file": "eras/2026/event_pictures/creative_workshop.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/07_era_event_pictures.png",
+    "source_bbox": [
+      1024,
+      768,
+      512,
+      256
+    ],
+    "source_sha256": "d5e48ceb151c8686cd876481e4c908a315d7a3b3a5ada743bfc8929c8eaf1d7a"
+  },
+  {
+    "resource": "native1119/eras/school/event_pictures/bullying_support",
+    "file": "eras/school/event_pictures/bullying_support.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/08_school_event_pictures.png",
+    "source_bbox": [
+      0,
+      768,
+      512,
+      256
+    ],
+    "source_sha256": "6f4137ece0ba503ba85b9a4ece014c03d3794597ccd756108ba37b76329a0976"
+  },
+  {
+    "resource": "native1119/eras/school/event_pictures/exam_day_success",
+    "file": "eras/school/event_pictures/exam_day_success.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/08_school_event_pictures.png",
+    "source_bbox": [
+      1024,
+      768,
+      512,
+      256
+    ],
+    "source_sha256": "dd53470096271e259bdf9ba85c9739fc23821e8e2f56886e2100c5d5c539abe7"
+  },
+  {
+    "resource": "native1119/eras/school/event_pictures/classic_exam_pressure",
+    "file": "eras/school/event_pictures/classic_exam_pressure.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/02_school_events.png",
+    "source_bbox": [
+      0,
+      512,
+      512,
+      256
+    ],
+    "source_sha256": "771eb9aeaae19d45860f347440319b3c20d74fd48dfe02d1b18c4db9bd589c3b"
+  },
+  {
+    "resource": "native1119/eras/school/event_pictures/classic_cheerleading_tryouts",
+    "file": "eras/school/event_pictures/classic_cheerleading_tryouts.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/03_cheer_sports_clubs.png",
+    "source_bbox": [
+      0,
+      0,
+      512,
+      256
+    ],
+    "source_sha256": "6f2f61df720969e9ff8eb96eb9e7372262be88c8be0d36350ffadfc9a94f5e44"
+  },
+  {
+    "resource": "native1119/eras/school/event_pictures/classic_the_school_final",
+    "file": "eras/school/event_pictures/classic_the_school_final.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/03_cheer_sports_clubs.png",
+    "source_bbox": [
+      0,
+      256,
+      512,
+      256
+    ],
+    "source_sha256": "39f5ad07262baaa926494e0a3f776887743e5f6ef97e2340f3f8e5464382b1a6"
+  },
+  {
+    "resource": "native1119/eras/school/event_pictures/classic_a_hard_loss",
+    "file": "eras/school/event_pictures/classic_a_hard_loss.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/03_cheer_sports_clubs.png",
+    "source_bbox": [
+      512,
+      256,
+      512,
+      256
+    ],
+    "source_sha256": "388ae3bd9e408f7110e882ce9836ca9d8c601cb89e8ff9b67c336ff40fd36924"
+  },
+  {
+    "resource": "native1119/eras/1940s/event_pictures/radio_evening",
+    "file": "eras/1940s/event_pictures/radio_evening.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/21_era_adventures.png",
+    "source_bbox": [
+      512,
+      256,
+      512,
+      256
+    ],
+    "source_sha256": "6de6c36f4946f228764e2f1e8d1d3b88aebf6e2f61eba843ec2b5e74012e30d8"
+  },
+  {
+    "resource": "native1119/eras/1960s/event_pictures/record_store_visit",
+    "file": "eras/1960s/event_pictures/record_store_visit.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/21_era_adventures.png",
+    "source_bbox": [
+      0,
+      512,
+      512,
+      256
+    ],
+    "source_sha256": "04ae27d1712c02f7029257c116ed85a6e5337e7c94a01b99b338f183b5a93cb0"
+  },
+  {
+    "resource": "native1119/eras/school/event_pictures/teacher_stops_argument",
+    "file": "eras/school/event_pictures/teacher_stops_argument.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/22_school_challenges.png",
+    "source_bbox": [
+      512,
+      0,
+      512,
+      256
+    ],
+    "source_sha256": "c3ddfb222cebc31aa02557c60117cea994562455dcd60dacc37d5b4704209a47"
+  },
+  {
+    "resource": "native1119/eras/school/event_pictures/lunch_invitation",
+    "file": "eras/school/event_pictures/lunch_invitation.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/22_school_challenges.png",
+    "source_bbox": [
+      1024,
+      0,
+      512,
+      256
+    ],
+    "source_sha256": "3be94aa3d2c22fa63c4caee57e5da7c4d4ea2106df9cd0f517086454842cb9f9"
+  },
+  {
+    "resource": "native1119/eras/school/event_pictures/rumor_conflict",
+    "file": "eras/school/event_pictures/rumor_conflict.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/22_school_challenges.png",
+    "source_bbox": [
+      0,
+      256,
+      512,
+      256
+    ],
+    "source_sha256": "61dc95762c8a893892fce3187e8fb14d99a163e613fbbeb0b69791389f8bf4f0"
+  },
+  {
+    "resource": "native1119/eras/school/event_pictures/exam_preparation_night",
+    "file": "eras/school/event_pictures/exam_preparation_night.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/22_school_challenges.png",
+    "source_bbox": [
+      1024,
+      256,
+      512,
+      256
+    ],
+    "source_sha256": "35d90554bf7364aec683dc5c2b46de2a5f66ea9029e71b258165c81c6a37d6d9"
+  },
+  {
+    "resource": "native1119/eras/school/event_pictures/exam_retaking",
+    "file": "eras/school/event_pictures/exam_retaking.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/22_school_challenges.png",
+    "source_bbox": [
+      0,
+      512,
+      512,
+      256
+    ],
+    "source_sha256": "c39fce5ce5667c42da0a29e4adbcab47cc9617c25e7bd3784acabf30264eea9d"
+  },
+  {
+    "resource": "native1119/eras/school/event_pictures/group_project_disagreement",
+    "file": "eras/school/event_pictures/group_project_disagreement.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/22_school_challenges.png",
+    "source_bbox": [
+      1024,
+      512,
+      512,
+      256
+    ],
+    "source_sha256": "c0fc0dcbc0a45d5ca4ff4b5a6be2139ddc51f3cf5722117734cca245f3d61bb7"
+  },
+  {
+    "resource": "native1119/eras/school/event_pictures/detention_reflection",
+    "file": "eras/school/event_pictures/detention_reflection.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/22_school_challenges.png",
+    "source_bbox": [
+      0,
+      768,
+      512,
+      256
+    ],
+    "source_sha256": "56be2c13cd456974ae3d6f4be482e59a0417fe95983fe0899ac39c2be16ca257"
+  },
+  {
+    "resource": "native1119/eras/school/event_pictures/chess_final",
+    "file": "eras/school/event_pictures/chess_final.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/23_school_success_activities.png",
+    "source_bbox": [
+      0,
+      256,
+      512,
+      256
+    ],
+    "source_sha256": "7cb843d77dd42c9fce8263ca67e354dc17baeca09a7f1e75bd56c2bbfb06fb6a"
+  },
+  {
+    "resource": "native1119/eras/school/event_pictures/science_fair_prize",
+    "file": "eras/school/event_pictures/science_fair_prize.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/23_school_success_activities.png",
+    "source_bbox": [
+      512,
+      256,
+      512,
+      256
+    ],
+    "source_sha256": "d2fcae7ee2ce53b6a537cb43147cfd6edecbe215be380bdd501f001b79d47753"
+  },
+  {
+    "resource": "native1119/eras/school/event_pictures/drama_opening_night",
+    "file": "eras/school/event_pictures/drama_opening_night.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/23_school_success_activities.png",
+    "source_bbox": [
+      1024,
+      256,
+      512,
+      256
+    ],
+    "source_sha256": "0ccbd079eb10d87f516a285e81114e663f7ad7090e5f91273bd3926865b4f583"
+  },
+  {
+    "resource": "native1119/eras/school/event_pictures/school_music_concert",
+    "file": "eras/school/event_pictures/school_music_concert.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/23_school_success_activities.png",
+    "source_bbox": [
+      0,
+      512,
+      512,
+      256
+    ],
+    "source_sha256": "891b175ed9fb35c57dea1eb863d13593d28c8c7147a44c2da3e30ddee254ea07"
+  },
+  {
+    "resource": "native1119/eras/school/event_pictures/art_exhibition",
+    "file": "eras/school/event_pictures/art_exhibition.png",
+    "kind": "event_picture",
+    "source_pack": "MayoMods_Eras_School_528_Full_Quality",
+    "source_sheet": "source_sheets/23_school_success_activities.png",
+    "source_bbox": [
+      512,
+      512,
+      512,
+      256
+    ],
+    "source_sha256": "1779a394253a72edc0bf0e323a6d49b4214151917dc35e316127aad45277103b"
+  }
+]

@@ -1,0 +1,2 @@
+"""Event-specific archive-image IDs, separate from everyday period art."""
+EVENTS={1804:'coronation',1807:'abolition1807',1815:'waterloo',1825:'stockton',1830:'liverpool',1833:'abolition1833',1837:'victoria',1844:'morse',1848:'revolutions',1851:'exhibition',1859:'darwin',1861:'sumter',1863:'emancipation',1865:'amendment13',1869:'railroad',1876:'telephone',1879:'edison',1883:'krakatoa',1886:'benz',1889:'eiffel',1895:'xray',1896:'olympics'}

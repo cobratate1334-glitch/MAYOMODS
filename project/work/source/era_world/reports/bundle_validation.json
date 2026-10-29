@@ -1,0 +1,53 @@
+{
+  "passed": true,
+  "changed_text_assets": [
+    "genesis_activities_v18",
+    "genesis_activities_v9",
+    "genesis_feature_containers",
+    "genesis_life_rework",
+    "genesis_rework_annual1105",
+    "genesis_rework_defaults",
+    "genesis_rework_event_school",
+    "genesis_school1110",
+    "genesis_v18_community35",
+    "genesis_v18_era44",
+    "genesis_v18_expansions46",
+    "genesis_v18_included1119",
+    "genesis_v18_school52",
+    "genesis_v18_school_sports18",
+    "genesis_v9_school_v9"
+  ],
+  "text_asset_sha256": {
+    "genesis_v18_included1119": "5985b01fd0463c043fcce1b9a231f0d135e28856c0626317d4f3617f13b6d450",
+    "genesis_v18_community35": "c48329e81304375b0f518bee6d883b01274735d322aceef902af126741c92639",
+    "genesis_v18_expansions46": "378d9fb6c2009010ccc3c034eb5195c99bfc1d667f5814b23ad2818735e374d1",
+    "genesis_feature_containers": "de3bfe29930d0c8c1b94db6f7f98c18e7f2e43a9ec86018f3084f307e6573526",
+    "genesis_activities_v18": "ce461bafcb8fa78b979ff31e9e0b015e697d55101708d8b8104ba0d5bb33a85a",
+    "genesis_v18_era44": "542cb4fc386299d476d66247e831244ba89a1d01098743f037bb42f4c5dd7627",
+    "genesis_life_rework": "c44c7c04628859ff40217919d88f1b29533f040f2761306beab1802a3e2ab3c7",
+    "genesis_activities_v9": "57ce151e21f26baae7c7f8d280c5eb904b191f1c42c5f8704fa1ba404e1a5fcb",
+    "genesis_rework_event_school": "3480d3ca9c5b32045b3635d5d403683d046be481a12307dfac37b562a658467e",
+    "genesis_rework_annual1105": "d36aa3b5e7b6678b047e0f554eab345b409ab5d46570ca7e71358cdf4073db5c",
+    "genesis_school1110": "e057bfcf8debeaab1c29fd2b2f9da400329efebd60b638fa2f16d8b881b6db01",
+    "genesis_v9_school_v9": "02c8d3f53359a3d92a0ee63a9bf7ae406bdf2d92577fb5def309100772dbd161",
+    "genesis_v18_school_sports18": "a44aff7469dab08925d6f412962952f0aa74b760dd66bf1374e20b2a64962c65",
+    "genesis_v18_school52": "175cc3fa445e0f8a7419aed1314ba668ab19a6b1371891cc57078e4aa2fd76c4",
+    "genesis_rework_defaults": "db291b0ce200c6f17d45ee76edaccceb40655aaf3a9e7863a17d0a561574ca97"
+  },
+  "unchanged_unrelated_unity_objects": 41593,
+  "all_old_artwork_identical": true,
+  "all_old_resource_aliases_preserved": true,
+  "resource_validation": {
+    "passed": true,
+    "resources": 115,
+    "file_identity_checked": true,
+    "generic_type": "Sprite",
+    "texture_type": "Texture2D",
+    "GPU_rendering_tested": false
+  },
+  "datapack_sha256": "91fb83e35ae67168bf879e9f8168afdc535f3cc19a1387c90bf2b68f88e47f3d",
+  "data_sha256": "d721e261d605e7bf5c7bcb29b7029abf2030a863c0804fd8c22ad7033fc99343",
+  "included_activities_alias": "genesis_lists/genesis_v18_included1119",
+  "included_activities_type": "resources.assets/TextAsset",
+  "included_activities_ListID": "genesis_v18_included1119"
+}

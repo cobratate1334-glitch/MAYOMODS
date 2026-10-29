@@ -1,0 +1,53 @@
+{
+  "metadata_sha256": "7bd1a0ddb9e1ac0b94bf23f43e5b821196a4eac25e968aaf01fec5b5e2409ac1",
+  "methods": [
+    {
+      "namespace": "UnityEngine",
+      "type": "PlayerPrefs",
+      "method": "SetString",
+      "argument_count": 2,
+      "metadata_method_index": 111171
+    },
+    {
+      "namespace": "UnityEngine",
+      "type": "PlayerPrefs",
+      "method": "GetString",
+      "argument_count": 2,
+      "metadata_method_index": 111172
+    },
+    {
+      "namespace": "UnityEngine",
+      "type": "PlayerPrefs",
+      "method": "GetString",
+      "argument_count": 1,
+      "metadata_method_index": 111173
+    },
+    {
+      "namespace": "UnityEngine",
+      "type": "PlayerPrefs",
+      "method": "Save",
+      "argument_count": 0,
+      "metadata_method_index": 111176
+    },
+    {
+      "namespace": "UnityEngine",
+      "type": "GUIUtility",
+      "method": "get_systemCopyBuffer",
+      "argument_count": 0,
+      "metadata_method_index": 135407
+    },
+    {
+      "namespace": "UnityEngine",
+      "type": "GUIUtility",
+      "method": "set_systemCopyBuffer",
+      "argument_count": 1,
+      "metadata_method_index": 135408
+    }
+  ],
+  "call_boundary": "il2cpp_runtime_invoke with managed reference arguments and exception slot",
+  "rejected_boundary": "Direct old string icalls; this build exposes ManagedSpanWrapper injected calls",
+  "input_field_array_offset": "0xc0; audited in UIScenarioManager.AcceptChoice",
+  "input_constructor_completion_site": "0x2ca36f4; x20 scenario and x19 actual scenario ID",
+  "input_value_capture_site": "0x2cb3bd0; x2 original ArrayList",
+  "text_input_tests_use_actual_CSV_IDs": true
+}

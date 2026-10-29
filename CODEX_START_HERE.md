@@ -1,5 +1,18 @@
 # Starting task for Codex
 
+Current **1119**: read AGENTS and era_world/README, REQUESTS, FINDINGS,
+BUILD, ACCEPTANCE and v1_restoration/references/REPORT_CHECKLIST. Actual era
+themes and the supplied native Mod Creator concept are now explicitly in scope.
+The signed candidate has fourteen themes, event-specific archive art, supplied
+era/school activities and a twelve-slot native scenario editor with share codes.
+Forty-five exact-candidate cases and package/signature checks pass; phone/ART/GPU,
+real saves/clipboard/PlayerPrefs remain open. Preserve 1113 transitions, original
+World Cup and four approved war themes, signer/save IDs and DEX/JNI/launcher.
+Keep raw owner data, private inputs, compiler binaries, keys and host replies
+out of Git. The broader backlog is still recorded rather than declared done.
+
+Earlier release blocks below are historical.
+
 Current **1118**: read AGENTS and era_refresh/README, references/FINDINGS,
 BUILD and ACCEPTANCE, plus v1_restoration/references/REPORT_CHECKLIST. The owner
 confirms the prior fix and requests flags and era assets. This update delivers

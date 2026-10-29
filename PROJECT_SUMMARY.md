@@ -1,5 +1,34 @@
 # MayoMods project handover
 
+**1119 Era Themes & Mod Creator APK:** <https://gofile.io/d/jduwZBe7> (540,819,501 bytes).
+SHA256: `18b683869b6e6a189467029f28ca4625340bf340a932dbcbfe20448cce659e06`.
+
+The latest owner request requires actual themes for different eras, the dedicated
+1800s/decade/school packs, different news pictures and the Mod Creator concept.
+Candidate **1119** delivers fourteen journal surfaces and matching palettes from
+1800 through 2026. The original four war/post-war themes retain priority. All
+22 dated nineteenth-century headlines have separate archive images; twelve
+ordinary headlines and scenes rotate. Selected pack art also supports more
+school pictures, twelve town visits/jobs and a 24-outfit owned wardrobe.
+
+Native Mod Creator replaces Community Expansions. Original game text fields
+edit stories, two choices and results, age/year rules and bounded effects. A
+twelve-slot device-wide library supports save/load/delete, manual play and
+import/export share codes. Existing included activities stay in a separate
+native menu. Clothing is inventory art; file picking, executable plugins and
+automatic custom age-up delivery are not implemented.
+
+[1119 source, findings and build evidence](project/work/source/era_world/README.md)
+record 45 exact-candidate automated checks, 115 typed reachable art resources,
+byte-identical native reproduction and signed-package checks. These do not
+certify phone/ART/GPU, real save/library or clipboard behavior. Original World
+Cup, 1113 menu repairs, launcher, signer and save IDs remain. The full report
+checklist still tracks appearance reversion, driving freeze, measured performance
+and the wider unimplemented backlog. This is not a complete historical rewrite
+of every stock event, job, vehicle or country.
+
+Earlier release blocks below are historical.
+
 **1118 Eras & Flags APK:** <https://gofile.io/d/a33G56hq> (485,071,719 bytes).
 SHA256: `3924a19e3f67fdf8b68bab7362445abd3759d8d5730e33b23934a1d66f87964e`.
 

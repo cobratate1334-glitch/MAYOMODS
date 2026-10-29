@@ -1,5 +1,21 @@
 # Known bugs and verification gaps
 
+**1119 era/editor update — 29 October 2026.** The owner identifies reused
+Waterloo art and missing actual era themes. Fourteen native journal surfaces and
+palettes now cover 1800–2026; original war/post-war phases still win. Twenty-two
+dated 1800s images and twelve rotating ordinary scenes replace broad reuse.
+Additional school art respects earlier eras. The new Mod Creator uses actual
+input fields and managed clipboard/PlayerPrefs APIs; an incorrect guessed scene
+namespace and obsolete string-icall assumption were caught before delivery.
+The final audit also corrected the new JSON resource path and parent registry.
+Forty-five automated cases pass on the exact signed candidate. Original World
+Cup/transitions and all unrelated Unity/APK payloads are checked. Phone/ART/GPU,
+real library/clipboard/save persistence, profile reversion, driving-test freeze
+and measured scrolling performance remain OPEN. Do not mark the whole backlog
+resolved. See era_world/references/FINDINGS.md and ACCEPTANCE.md.
+
+Earlier release blocks below are historical.
+
 **1118 flags/era repair — 28 October 2026.** Owner confirms the 1117 fix works.
 A definite news defect cleared NewsImage1110 for years outside a whitelist;
 1118 preserves selected images and fills blanks. Match cards use the current

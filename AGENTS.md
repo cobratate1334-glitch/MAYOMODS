@@ -1,5 +1,35 @@
 # Instructions for Codex — MayoMods
 
+Active candidate is **1119**, `project/work/source/era_world`. The owner
+explicitly requests actual era themes, dedicated 1800s/decade/school packs,
+different dated news images and the Mod Creator concept in place of Community
+Expansions. Read its README, REQUESTS, FINDINGS, BUILD, ACCEPTANCE and full report
+checklist. Fourteen era journal surfaces/palettes use the original Unity UI;
+the original four approved war/post-war phases retain priority. Native dark
+mode and explicit stock colour overrides remain. Era art refreshes by actual
+year, not full per-frame gameplay context. Only reachable selected pack art is
+imported; do not claim every pack item is implemented or every stock event is
+historically accurate. Wardrobe pictures are inventory art, not rigged faces.
+
+Mod Creator uses original CandyInputField, twelve global scoped PlayerPrefs
+slots and managed GUIUtility clipboard methods invoked through reflection with
+an exception slot. The actual binary uses injected span icalls: do not substitute
+old string icall signatures. Editor IDs are scenario.lifeRework.* and
+InputFieldArray is +0xc0. Root scene/Life handles are released on matching dismiss
+or next creator command. No raw managed pointer stays in BSS. Codes are bounded
+UTF-16 data, never executable blueprints. The new included-activity TextAsset
+must use genesis_lists/genesis_v18_included1119 and a matching ListID; register
+that JSON list in the typed parent-return registry without accepting CSV sheets.
+Separate zero-filled 64 KB RW PT_LOAD avoids overlapping a later RX segment.
+Keep all 1113 transitions, original World Cup flow, signer/package/save IDs and
+unchanged DEX/JNI/launcher. Forty-five exact-candidate automated cases are not
+phone/ART/GPU/real-save/clipboard/PlayerPrefs certification. Appearance reversion,
+driving freeze and measured performance remain open. Source publication and
+APK-only upload remain authorized. No raw owner archives, APKs/native inputs,
+keys or hosting replies/tokens belong in Git.
+
+Earlier release blocks below are historical.
+
 Active candidate is **1118**, `project/work/source/era_refresh`. The owner
 confirms the 1117 fix works and explicitly brings opponent flags, news images,
 era-specific school/technology, 1800s starts and illustrated year choices into

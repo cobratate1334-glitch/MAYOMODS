@@ -1,5 +1,16 @@
 # Reproduce the focused v55 scar/eyepatch candidate
 
+Current **1119** reproduction:
+[era_world/references/BUILD.md](project/work/source/era_world/references/BUILD.md).
+Use the pinned signed 1118/native inputs, cross compiler and existing signer.
+The exact native reproduces byte-identically. New code uses isolated RX and a
+separate zero-filled 64 KB RW segment. Forty-five automated cases, 115 typed art
+resources, all unrelated Unity/APK payloads, v2/v3 signatures, native signer,
+aapt2 parsing and 16 KB native alignment are checked. DEX/JNI/launcher remain.
+Phone install/rendering and real saves/clipboard/PlayerPrefs are untested.
+
+Earlier release blocks below are historical.
+
 Current **1118** reproduction:
 [era_refresh/references/BUILD.md](project/work/source/era_refresh/references/BUILD.md).
 Pinned signed 1117 input; scoped ARM64/resource/content update; unchanged

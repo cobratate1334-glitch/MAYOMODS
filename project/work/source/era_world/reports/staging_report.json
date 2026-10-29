@@ -1,0 +1,42 @@
+{
+  "staged": true,
+  "signed": false,
+  "base_sha256": "3924a19e3f67fdf8b68bab7362445abd3759d8d5730e33b23934a1d66f87964e",
+  "apk_sha256": "07dc2720c65fa64bdb28742ab1380b8536178db0edb6450e74c83c4d4a963288",
+  "native_sha256": "707e53c828d1b49dfaddb54b9c028327a3f45a078a4b2aa0d09fe560fb5684d4",
+  "dex_sha256": "1f6e55b2f1a40039b1ba3083753a18ad69f9e2d22067420719afe6222ee638dd",
+  "modified_entries": [
+    "AndroidManifest.xml",
+    "assets/bin/Data/data.unity3d",
+    "assets/bin/Data/datapack.unity3d",
+    "assets/mayomods54/native_symbols.json",
+    "lib/arm64-v8a/libil2cpp.so"
+  ],
+  "added_entries": [
+    "assets/native1119/ATTRIBUTION.md",
+    "assets/native1119/media.json"
+  ],
+  "version_code": 1119,
+  "changed_text_assets": [
+    "genesis_activities_v18",
+    "genesis_activities_v9",
+    "genesis_feature_containers",
+    "genesis_life_rework",
+    "genesis_rework_annual1105",
+    "genesis_rework_defaults",
+    "genesis_rework_event_school",
+    "genesis_school1110",
+    "genesis_v18_community35",
+    "genesis_v18_era44",
+    "genesis_v18_expansions46",
+    "genesis_v18_included1119",
+    "genesis_v18_school52",
+    "genesis_v18_school_sports18",
+    "genesis_v9_school_v9"
+  ],
+  "unrelated_Unity_objects_identical": 41593,
+  "all_other_APK_payloads_identical": true,
+  "all_existing_artwork_and_resources_preserved": true,
+  "new_resources": 115,
+  "phone_tested": false
+}

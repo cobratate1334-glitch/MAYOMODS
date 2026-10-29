@@ -1,5 +1,21 @@
 # Requested gameplay systems and design requirements
 
+Current **1119** adds fourteen actual journal themes and matching palettes
+from 1800 through 2026. Original war/post-war art has priority. Twenty-two dated
+1800s headlines use separate archive images; twelve ordinary headlines/scenes
+rotate. The dedicated packs supply more school art, twelve town visits/jobs and
+24 owned wardrobe illustrations. Costs/pay, effects, quotas and selections are
+saved. This is not a complete historical rewrite of all stock content.
+
+Native Mod Creator replaces Community Expansions. It has original text fields,
+two choices/results, age/year presets, bounded effects, twelve device-wide slots,
+manual play and import/export share codes. Existing included activities remain
+in a typed native list. No executable plugins, file picker or automatic custom
+age-up delivery are claimed. Forty-five automated cases pass; device acceptance
+is open. See project/work/source/era_world and its reports/limits.
+
+Earlier release blocks below are historical.
+
 Current **1118** follows the owner's confirmation of 1117 and explicit era
 follow-up. It adds live opponent flags, repaired news picture preservation,
 five 1800s starts and news, ten school-art periods, 29 dated technology items
