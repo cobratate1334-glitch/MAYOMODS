@@ -1,0 +1,27 @@
+{
+  "passed": true,
+  "binary_sha256": "cd36b55b64ce393f9d5d62d52fc72f966daf9f600e630db8e503cb236ed6e8b5",
+  "base_sha256": "0e35d41ec0e74d7c992e628af0a673e9b85cc5614f996dc345dd2d3bb036381d",
+  "native_size_unchanged": true,
+  "changed_instructions": 2,
+  "changed_ranges": [
+    [
+      143761788,
+      4,
+      "correct actual component MethodInfo cell page"
+    ],
+    [
+      143761820,
+      4,
+      "correct actual component MethodInfo cell page"
+    ]
+  ],
+  "correct_cell": "0x5c788f8",
+  "incorrect_cell": "0x5c7808f8",
+  "cell_derived_from_original_factory": true,
+  "cell_inside_original_writable_ELF_segment": true,
+  "old_cell_outside_ELF_image": true,
+  "all_other_native_bytes_identical": true,
+  "ELF_headers_and_segments_identical": true,
+  "no_new_code_or_state": true
+}

@@ -1,0 +1,14 @@
+{
+  "diagnostic_archive_sha256": [
+    "7a0a6fc0fb5513b25d889391f69577585e8af8ae49f7b72a70b9d33b305b09eb",
+    "984890e97c7bd773a5757b66cdc9b9ecfbed19986c6367afc1451bd73570ec6e"
+  ],
+  "embedded_build": "1123",
+  "reported_Unity_relative_PC": "0x890e184",
+  "ELF_virtual_PC": "0x891a184",
+  "instruction": "ldr x0, [x8]",
+  "incorrect_cell": "0x5c7808f8",
+  "correct_factory_cell": "0x5c788f8",
+  "shared_helper": "repair1123_readable_actual_option_icons",
+  "phone_identifiers_and_raw_logs_excluded": true
+}

@@ -1,5 +1,19 @@
 # Important history and decisions
 
+**1124 New Life Crash Hotfix APK:** <https://gofile.io/d/9JO7hSrT> (542,592,551 bytes).
+SHA256: `f23afe8cf1402b7fed288efaf3f3b0cd0e0d1aaeee2278746b5dccdc93fc550e`. Four focused checks passed; same update signer/package.
+Phone/ART/rendering acceptance remains open.
+
+Current **1124** is the focused New Life crash hotfix in
+`project/work/source/hotfix1124`. A typo in 1123's shared icon helper used
+0x5c7808f8 instead of the native factory's 0x5c788f8 metadata cell. Exactly two
+ADRP instructions change. The old out-of-image read reproduces; corrected helper
+checks and all six added New Life selector/year/genetics opening routes pass.
+Four targeted cases ran on 1124. The prior 85 cases were not rerun. All other
+native bytes, Unity/artwork/content, DEX/JNI, save IDs and signer remain identical.
+Phone/ART/rendering/performance acceptance is open. Earlier release blocks below
+are historical; APK-only hosting and sanitized source publication stay authorized.
+
 **1123 New Life & Age-Up Fixes APK:** <https://gofile.io/d/5TBC79jt> (542,592,555 bytes).
 SHA256: `2159b701bc717a57438f8e3e62652e79d38e5370ef377f61c02aa63046959614`. Same update signer/package; 85 exact-candidate automated cases passed.
 Phone/ART/GPU/real-save, individual hair-fit and measured-performance acceptance remains open.

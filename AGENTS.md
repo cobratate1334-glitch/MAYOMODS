@@ -1,5 +1,19 @@
 # Instructions for Codex — MayoMods
 
+Active candidate is **1124**, `project/work/source/hotfix1124`; read its README.
+This is a narrow, two-ADRP correction to 1123's shared New Life icon helper.
+0x5c7808f8 is a typo outside the ELF; 0x5c788f8 is derived from the original
+SetupDarklyButton GetComponent call. Never fabricate a mapping at an unvalidated
+metadata address in a test. The old fixture hid this defect by mapping the typo.
+Keep the new unmapped-address negative at both ASLR biases and the full added-
+selector/year/genetics opening smoke. Four targeted checks passed; do not claim
+that the previous 85 cases were rerun. All other native bytes and all Unity/
+content/artwork/DEX/JNI/saves/signer stay. No new code/state or layout growth.
+Phone/ART/GPU/performance acceptance remains open. APK-only upload and sanitized
+public source publication remain authorized; no raw phone logs/device IDs,
+APKs/native inputs, signing keys or host replies/tokens in Git. Earlier blocks
+below are historical.
+
 Active candidate is **1123**, `project/work/source/repair1123`. Read its
 README and REQUESTS/FINDINGS/BUILD/ACCEPTANCE, then the full report checklist.
 New diagnostics identify 1122 despite the hardcoded 1110 filename/branding.

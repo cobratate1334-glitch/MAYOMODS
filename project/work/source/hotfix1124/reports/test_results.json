@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "tests_run": 4,
+  "native_sha256": "cd36b55b64ce393f9d5d62d52fc72f966daf9f600e630db8e503cb236ed6e8b5",
+  "test_layers": {
+    "targeted_native_and_New_Life_openings": {
+      "tests": 4,
+      "log_sha256": "ff87aaedd5583ec66b3a0deac0642ba3f15d4307c5fae6fe0ee2c51c96f345de"
+    }
+  },
+  "prior_1123_cases_not_rerun": 85,
+  "phone_tested": false,
+  "ART_tested": false,
+  "Unity_rendering_tested": false
+}

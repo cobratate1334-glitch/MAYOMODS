@@ -1,3 +1,12 @@
+Signed 1124: <https://gofile.io/d/9JO7hSrT>. SHA256 `f23afe8cf1402b7fed288efaf3f3b0cd0e0d1aaeee2278746b5dccdc93fc550e`.
+
+1124 urgent follow-up: the added New Life pickers share a 1123 icon helper
+whose metadata address had an extra zero. The two-instruction correction,
+validated native factory address, unmapped old-fault reproduction and selector/
+year/genetics opening checks are in [hotfix1124](../../hotfix1124/README.md).
+Four targeted cases passed; prior 85 are retained evidence, not rerun claims.
+No Unity/content/artwork or other gameplay code changes; phone acceptance open.
+
 Signed 1123: <https://gofile.io/d/5TBC79jt>. SHA256 `2159b701bc717a57438f8e3e62652e79d38e5370ef377f61c02aa63046959614`.
 85 exact-candidate automated cases passed; device and individual head-shape acceptance remain open.
 
